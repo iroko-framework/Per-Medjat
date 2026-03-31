@@ -1,0 +1,1304 @@
+@prefix : <https://ontology.irokosociety.org/> .
+@prefix dwc: <http://rs.tdwg.org/dwc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix iroko: <https://ontology.irokosociety.org/iroko#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0010>
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Iggi Omo Fun fun"@x-lucumi ;
+        iroko:accessLevel    iroko:access-community-only ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:prefLabel       "GUANABANA"@es ;
+        skos:altLabel        "gwanillo"@x-lucumi ;
+        skos:altLabel        "Kowosol"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dwc:scientificName   "Annona muricata" ;
+        skos:altLabel        "durian"@es ;
+        skos:altLabel        "Prickly custard apple"@en ;
+        skos:altLabel        "Graviola"@es ;
+        skos:altLabel        "Ẹ̀kọ́ ọmọde"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        iroko:ritualNote     "Portuguese/English etymology"@en ;
+        skos:altLabel        "Ẹ̀kọ́ oyìnbó"@yo ;
+        dcterms:identifier   "Plant0010"^^xsd:string ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0010> ;
+        skos:altLabel        "SOURSOP"@en ;
+        skos:altLabel        "nichularafun"@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0029>
+        skos:altLabel        "Ànámọ́ yàyà"@yo ;
+        skos:altLabel        "Kúkúndúnkú"@yo ;
+        skos:altLabel        "Dominican Republic – Batata"@en ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "SWEET POTATOE"@en ;
+        skos:altLabel        "Ọ̀dúnkùn"@yo ;
+        skos:prefLabel       "BONIATO"@es ;
+        skos:altLabel        "Mbala"@es ;
+        skos:altLabel        "Camote"@es ;
+        skos:altLabel        "Oduko"@x-lucumi ;
+        iroko:accessLevel    iroko:access-initiated-only ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        skos:altLabel        "undukumduku"@x-lucumi ;
+        skos:altLabel        "Ẹ̀dùn-mísí"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Òdìnkìntìn àdínmẹ́"@yo ;
+        dwc:scientificName   "Ipomoea batatas" ;
+        skos:altLabel        "Batata da ilha"@es ;
+        dcterms:identifier   "Plant0029"^^xsd:string ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0029> ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0016>
+        skos:altLabel        "Arará - Afami bruja. Sanglaou"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dcterms:identifier   "Plant0016"^^xsd:string ;
+        skos:altLabel        "hoja"@es ;
+        skos:altLabel        "Ẹ̀rù òdúndún"@yo ;
+        skos:altLabel        "LIFE EVERLASTING"@en ;
+        dwc:scientificName   "Bryophyllum pinnatum" ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Zèb maltèt"@ht ;
+        skos:altLabel        "Siempreviva"@es ;
+        skos:prefLabel       "PRODIGIOSA"@es ;
+        skos:altLabel        "Víbora"@es ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        skos:altLabel        "Inmortal"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Lougarou"@es ;
+        skos:altLabel        "Abàmọdá"@yo ;
+        skos:altLabel        "Kántíkántì"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0016> ;
+        skos:altLabel        "Amor tras la puerta"@es ;
+        skos:altLabel        "Bruja"@es ;
+        skos:altLabel        "Colombina"@es ;
+        skos:altLabel        "Sanglou"@es ;
+        skos:altLabel        "Òwò"@yo ;
+        skos:altLabel        "Ewé òwò"@yo ;
+        skos:altLabel        "Ewe dun dun"@x-lucumi ;
+        skos:altLabel        "Kòròpọn"@yo ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Fèy Lougarou"@ht .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0044>
+        skos:altLabel        "Espina."@es ;
+        iroko:accessLevel    iroko:access-initiated-elder ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Ìkàn wẹ́wẹ́"@yo ;
+        dcterms:identifier   "Plant0044"^^xsd:string ;
+        skos:altLabel        "Rapon"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Berenjena cimarrona."@es ;
+        skos:altLabel        "devil's fig."@es ;
+        dwc:scientificName   "Solanum torvum" ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0044> ;
+        skos:altLabel        "Tomatillo."@es ;
+        skos:altLabel        "Isiami"@x-lucumi ;
+        skos:altLabel        "berenjena de gallina"@es ;
+        skos:altLabel        "Zamorette"@es ;
+        skos:altLabel        "Ìkàn ìgùn"@yo ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        skos:altLabel        "cimarrona. Dominican Republic Berenjena cimarrona"@en ;
+        skos:altLabel        "Ìgbà yínrín elẹ́gún"@yo ;
+        skos:altLabel        "Berenjena"@es ;
+        skos:altLabel        "tabacón."@es ;
+        skos:altLabel        "Milisia"@es ;
+        skos:altLabel        "Gully bean"@en ;
+        skos:altLabel        "Friega platos"@en ;
+        skos:altLabel        "TURKEY BERRY"@en ;
+        skos:altLabel        "berenjena"@es ;
+        skos:altLabel        "ewe oduyafun"@x-lucumi ;
+        skos:prefLabel       "PENDEJERA"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "inyelo"@x-lucumi ;
+        skos:altLabel        "Prendedera."@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0003>
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:medicinalUse   iroko:medicinal-skin-topical ;
+        skos:altLabel        "Ìlásadò"@yo ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Abelmosco"@es ;
+        dwc:scientificName   "Abelmoschus esculentus" ;
+        skos:altLabel        "Ẹ̀rúlà (ìrúlà)"@yo ;
+        dcterms:identifier   "Plant0003"^^xsd:string ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Monacillo del río."@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0003> ;
+        skos:altLabel        "Ìlásà"@yo ;
+        skos:altLabel        "MUSK OKRA"@en ;
+        skos:prefLabel       "AMBARINA"@es ;
+        skos:altLabel        "Ìlà"@yo ;
+        skos:altLabel        "viuda."@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0031>
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0031> ;
+        dwc:scientificName   "Manihot esculenta" ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        skos:altLabel        "Ẹ̀gẹ́"@yo ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "bagudan Ibagudan"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dcterms:identifier   "Plant0031"^^xsd:string ;
+        iroko:accessLevel    iroko:access-community-only ;
+        skos:altLabel        "Gbagúdà"@yo ;
+        skos:altLabel        "Ẹ̀gẹ́ funfun"@yo ;
+        skos:altLabel        "Gbájádà"@yo ;
+        skos:altLabel        "Ẹ̀gẹ́ àti"@yo ;
+        skos:altLabel        "Ẹ̀gẹ́ káràgbà"@yo ;
+        skos:altLabel        "mandioka"@pt ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Gbagúdà funfun"@yo ;
+        skos:altLabel        "Nkumbia"@es ;
+        skos:altLabel        "Gbagúdà dàlẹ̀ jọ̀rò"@yo ;
+        skos:altLabel        "Ẹ̀gẹ́ olówó-kìntíbọ́"@yo ;
+        skos:altLabel        "Ẹ̀gẹ́ òkè"@yo ;
+        skos:altLabel        "Lukumi – Kokomadoko"@es ;
+        skos:altLabel        "Gbagúdà pupa"@yo ;
+        skos:altLabel        "Lánasẹ́"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "CASSABA"@en ;
+        skos:altLabel        "Tapioca"@pt ;
+        skos:altLabel        "Pákì"@yo ;
+        skos:altLabel        "Ẹ̀gẹ́ gbókógbaálà"@yo ;
+        skos:prefLabel       "YUCA"@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0009>
+        skos:altLabel        "Baga"@es ;
+        dcterms:identifier   "Plant0009"^^xsd:string ;
+        skos:altLabel        "palo de"@es ;
+        skos:altLabel        "Cayur"@es ;
+        skos:altLabel        "Anón liso"@es ;
+        skos:altLabel        "Anoncillo"@es ;
+        skos:altLabel        "guanábano cimarrón"@es ;
+        skos:altLabel        "baga"@es ;
+        skos:altLabel        "guanábana cimarrona Ecuador - Anona del campo corcho. guanábano cimarrón"@es ;
+        dwc:scientificName   "Annona glabra" ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        skos:prefLabel       "BAGA"@es ;
+        skos:altLabel        "arbol de corcho"@es ;
+        skos:altLabel        "mammier"@es ;
+        skos:altLabel        "Corcho"@es ;
+        skos:altLabel        "Mayos"@es ;
+        skos:altLabel        "corazón cimarrón"@es ;
+        skos:altLabel        "Chona"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Anón de puerco"@es ;
+        skos:altLabel        "chirimoya"@es ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:altLabel        "cimarrona"@es ;
+        skos:altLabel        "custard apple"@en ;
+        skos:altLabel        "anón. cimarrona"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "cimarrona. Dominican Republic – Guanábano de corcho"@en ;
+        skos:altLabel        "guanábano bobo."@es ;
+        skos:altLabel        "POND APPLE"@en ;
+        skos:altLabel        "guanábana"@es ;
+        skos:altLabel        "Àfẹ́"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Guanábana silvestre"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0009> ;
+        skos:altLabel        "Araticum do brejo"@pt ;
+        skos:altLabel        "Carossol marrón"@es ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:altLabel        "anon de río"@es ;
+        skos:altLabel        "Palo bobo"@es ;
+        skos:altLabel        "mammon de perro"@es ;
+        skos:altLabel        "Alligator apple"@en .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0037>
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "SHINY BUSH"@en ;
+        skos:altLabel        "Ewe sadaka"@x-lucumi ;
+        skos:altLabel        "Rínrín"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Pepper elder"@en ;
+        skos:altLabel        "Paloma."@es ;
+        skos:altLabel        "Yerba de la plata"@es ;
+        skos:altLabel        "Corazon de"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0037> ;
+        skos:prefLabel       "YERBA DE LA PLATA"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Yerba Pelu"@es ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "man-to-man"@es ;
+        skos:altLabel        "Zèb-Kourès"@ht ;
+        skos:altLabel        "Salade Soldat"@es ;
+        dwc:scientificName   "Peperomia pellucida" ;
+        iroko:ritualUse      iroko:ritual-cosmological-symbolic ;
+        dcterms:identifier   "Plant0037"^^xsd:string ;
+        skos:altLabel        "rat-ear."@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0024>
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        iroko:collisionNote  "Name \"@enÒròmbó\" shared with other Citrus species" ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        dwc:scientificName   "Citrus sp." ;
+        skos:altLabel        "LEMON"@en ;
+        skos:altLabel        "Ọ̀sàn"@yo ;
+        skos:altLabel        "Limão"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   "Plant0024"^^xsd:string ;
+        skos:prefLabel       "LIMON"@es ;
+        iroko:accessLevel    iroko:access-no-access ;
+        skos:altLabel        "Òròmbó"@yo ;
+        skos:altLabel        "Oroco"@x-lucumi ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Koronko"@es ;
+        skos:altLabel        "Olombo"@x-lucumi ;
+        skos:altLabel        "Sitwon"@ht ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0024> .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0011>
+        dcterms:identifier   "Plant0011"^^xsd:string ;
+        skos:altLabel        "Epamilbo"@x-lucumi ;
+        skos:altLabel        "Pistache"@es ;
+        skos:altLabel        "Amendou Verdadeiro"@pt ;
+        skos:altLabel        "Arada – Azo"@es ;
+        dwc:scientificName   "Arachis hypogaea" ;
+        skos:altLabel        "Òrórẹ́ ẹ̀pàdà"@yo ;
+        skos:altLabel        "Ewa"@x-lucumi ;
+        skos:altLabel        "Guba"@es ;
+        skos:altLabel        "Cacahuate"@es ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        skos:altLabel        "PEANUT"@en ;
+        skos:altLabel        "Busia"@x-lucumi ;
+        skos:prefLabel       "MANI"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0011> ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:accessLevel    iroko:access-initiated-elder ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Epa"@x-lucumi ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Mindo"@es ;
+        skos:altLabel        "Ẹ̀pà (gidi)"@yo ;
+        skos:altLabel        "Efa"@x-lucumi .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0017>
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Garbanzo falso"@en ;
+        skos:prefLabel       "GANDUL"@es ;
+        skos:altLabel        "PIGEON PEA"@en ;
+        dwc:scientificName   "Cajanus cajan" ;
+        skos:altLabel        "Frijol de palo"@es ;
+        iroko:ritualUse      iroko:ritual-invocation-communication ;
+        skos:altLabel        "Frijolillo"@es ;
+        skos:altLabel        "Pwa Kongo"@ht ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dcterms:identifier   "Plant0017"^^xsd:string ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0017> ;
+        skos:altLabel        "Gandua"@es ;
+        skos:altLabel        "Ọ̀tìlì"@yo ;
+        skos:altLabel        "quinconcho"@es ;
+        skos:altLabel        "for"@es ;
+        skos:altLabel        "Chicharros"@es ;
+        iroko:medicinalUse   iroko:medicinal-respiratory-support ;
+        iroko:accessLevel    iroko:access-public-no-amplification .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0045>
+        skos:altLabel        "West Indian Pinkroot"@en ;
+        dcterms:identifier   "Plant0045"^^xsd:string ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Ewé àrán"@yo ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:accessLevel    iroko:access-community-only ;
+        dwc:scientificName   "Spigelia anthelmia" ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:altLabel        "Worm bush"@en ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Yerba lombricera."@es ;
+        skos:altLabel        "PINKROOT"@en ;
+        skos:prefLabel       "ESPIGELIA"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0045> .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0004>
+        skos:altLabel        "Gren'n l'Eglise"@ht ;
+        skos:altLabel        "Lyan'n Réglisse"@ht ;
+        skos:altLabel        "Cuji"@es ;
+        skos:altLabel        "SWEET ACACIA"@en ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        skos:altLabel        "Réglisse"@ht ;
+        skos:altLabel        "Cachito de aroma"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Colombia - Aromo"@en ;
+        skos:altLabel        "Costa Rica"@en ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Philippines"@en ;
+        skos:altLabel        "Graine-Réglisse Mexico"@en ;
+        dcterms:identifier   "Plant0004"^^xsd:string ;
+        skos:altLabel        "Bọ́nní"@yo ;
+        skos:altLabel        "Espino blanco"@en ;
+        skos:altLabel        "Uruguay – Espinillo Lyan'n L'Église"@en ;
+        skos:altLabel        "Bànì"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Nicaragua"@en ;
+        skos:altLabel        "Aroma"@es ;
+        skos:altLabel        "Aroma"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0004> ;
+        skos:altLabel        "Argentina"@en ;
+        skos:altLabel        "Peru"@en ;
+        skos:altLabel        "Sunsumie"@es ;
+        skos:prefLabel       "AROMA AMARILLA U OLOROSA"@es ;
+        skos:altLabel        "Erite"@x-lucumi ;
+        dwc:scientificName   "Acacia farnesiana" ;
+        skos:altLabel        "Ereen"@x-lucumi .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0032>
+        skos:altLabel        "BITTER MELON"@en ;
+        skos:altLabel        "Ewe eyimi"@x-lucumi ;
+        skos:altLabel        "Ẹ̀jìnrìn wẹ́wẹ́"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Balsam pear"@en ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "ewe abonla"@x-lucumi ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Melao de San Caetano"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dwc:scientificName   "Momordica charantia" ;
+        skos:altLabel        "Cundeamor"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0032> ;
+        iroko:ritualUse      iroko:ritual-cosmological-symbolic ;
+        skos:altLabel        "Cundeamore"@es ;
+        skos:prefLabel       "CUNDEAMOR"@es ;
+        dcterms:identifier   "Plant0032"^^xsd:string ;
+        iroko:accessLevel    iroko:access-public-unrestricted .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0038>
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0038> ;
+        skos:altLabel        "Ojúsàjú"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "hierba de las gallinitas"@es ;
+        skos:altLabel        "Fèy Ave"@ht ;
+        skos:altLabel        "Apazote zorro"@en ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        dwc:scientificName   "Petiveria alliacea" ;
+        skos:altLabel        "Namu"@es ;
+        dcterms:identifier   "Plant0038"^^xsd:string ;
+        skos:altLabel        "hispasina"@es ;
+        skos:prefLabel       "ANAMU"@es ;
+        skos:altLabel        "Ipacina"@es ;
+        skos:altLabel        "Mapurite"@es ;
+        skos:altLabel        "Yena"@x-lucumi ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:ritualUse      iroko:ritual-rites-of-transition ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Argentina – Pipí"@en ;
+        skos:altLabel        "GUINEA HEN WEED"@en ;
+        skos:altLabel        "Zorrillo"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0025>
+        dwc:scientificName   "Cocos nucifera" ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Kumelenga"@es ;
+        skos:altLabel        "COCONUT"@en ;
+        skos:altLabel        "Agbon"@x-lucumi ;
+        skos:altLabel        "Àgbọn"@yo ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Obi"@x-lucumi ;
+        dcterms:identifier   "Plant0025"^^xsd:string ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0025> ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Sandu"@es ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:prefLabel       "COCOTERO"@es ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        skos:altLabel        "Kokoye"@ht ;
+        skos:altLabel        "Palma de Coco"@es ;
+        skos:altLabel        "Cocotero"@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0012>
+        skos:altLabel        "Chadron Benit"@es ;
+        skos:altLabel        "Ẹ̀kànnà ẹkùn"@yo ;
+        dcterms:identifier   "Plant0012"^^xsd:string ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:ritualNote     "Portuguese etymology"@en ;
+        skos:altLabel        "Chicalote"@es ;
+        skos:altLabel        "Chadron"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0012> ;
+        skos:altLabel        "Ika"@x-lucumi ;
+        skos:prefLabel       "CARDO SANTO"@es ;
+        skos:altLabel        "ZebChadron"@es ;
+        skos:altLabel        "Zeb-Dragon"@es ;
+        dwc:scientificName   "Argemone mexicana" ;
+        skos:altLabel        "Chadron Marbre"@es ;
+        iroko:accessLevel    iroko:access-community-only ;
+        skos:altLabel        "PRICKLY POPPY"@en ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:altLabel        "Ẹlẹ́gẹ́"@yo ;
+        skos:altLabel        "Ẹ̀gún àrìgbó"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Igbeelegun"@x-lucumi ;
+        skos:altLabel        "Cando ere"@en ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Mexican Poppy"@en .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0040>
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dwc:scientificName   "Quisqualis indica" ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        dcterms:identifier   "Plant0040"^^xsd:string ;
+        skos:altLabel        "Momon"@x-lucumi ;
+        skos:altLabel        "Ọ̀gàn funfun"@yo ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        skos:altLabel        "Ọ̀gàn igbó"@yo ;
+        skos:prefLabel       "PISCUALA"@es ;
+        skos:altLabel        "RANGOON CREEPER"@en ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0040> ;
+        rdf:type             iroko:EwePlantRecord .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0018>
+        skos:altLabel        "Aki Yembu"@x-lucumi ;
+        skos:altLabel        "Arbol de sebo"@es ;
+        skos:altLabel        "Arrayan."@es ;
+        dcterms:identifier   "Plant0018"^^xsd:string ;
+        iroko:collisionNote  "Spanish name also applied to Myrica cerifera in Quiros-Moran"@en ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:altLabel        "Bọ̀múbọ̀mú"@yo ;
+        skos:altLabel        "wax"@es ;
+        skos:altLabel        "SOUTHERN BAYBERRY"@en ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dwc:scientificName   "Calotropis procera" ;
+        skos:altLabel        "Masere"@es ;
+        skos:altLabel        "arraigan."@es ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        skos:altLabel        "Jamaica - Waxberry"@en ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:medicinalUse   iroko:medicinal-respiratory-support ;
+        skos:altLabel        "Candleberry"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0018> ;
+        skos:altLabel        "wax wood. myrtle."@es ;
+        skos:altLabel        "southern myrtle"@es ;
+        skos:prefLabel       "ARBOL DE LA CERA"@es ;
+        iroko:nameCollision  "true"^^xsd:boolean .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0046>
+        skos:altLabel        "sismoyo"@es ;
+        skos:altLabel        "Ciruela de Méjico"@es ;
+        skos:altLabel        "abba"@x-lucumi ;
+        skos:altLabel        "Olóṣàn"@yo ;
+        skos:altLabel        "Jobito"@es ;
+        skos:altLabel        "ciruela del"@es ;
+        skos:altLabel        "jobo francés"@es ;
+        skos:altLabel        "Jocote tronador"@en ;
+        skos:altLabel        "Arada - Akuko país plum"@en ;
+        skos:altLabel        "Ìyẹ̀yẹ́"@yo ;
+        skos:altLabel        "Java plum"@en ;
+        skos:altLabel        "Grengerengue kunansieto"@en ;
+        skos:altLabel        "Jobo"@es ;
+        skos:altLabel        "Ọ̀kíkà"@yo ;
+        skos:prefLabel       "JOBO"@es ;
+        skos:altLabel        "kinkao"@x-lucumi ;
+        skos:altLabel        "Iléwò olóṣàn"@yo ;
+        skos:altLabel        "Akikan"@x-lucumi ;
+        iroko:accessLevel    iroko:access-community-only ;
+        skos:altLabel        "HUG PLUM"@en ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        skos:altLabel        "Ẹ̀kíkà"@yo ;
+        dcterms:identifier   "Plant0046"^^xsd:string ;
+        skos:altLabel        "Jobo hembra"@es ;
+        dwc:scientificName   "Spondias mombin" ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "tropical plum"@en ;
+        skos:altLabel        "Obo"@es ;
+        skos:altLabel        "ciruela calentana"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0046> ;
+        skos:altLabel        "spanish"@es ;
+        skos:altLabel        "okinkan"@x-lucumi ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Cajazeira"@pt ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0005>
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0005> ;
+        skos:altLabel        "Ella Sro"@x-lucumi ;
+        skos:altLabel        "Alùbọ́sà kẹ́tà"@yo ;
+        dwc:scientificName   "Allium cepa" ;
+        skos:altLabel        "Oignon"@ht ;
+        skos:altLabel        "ONION"@en ;
+        skos:altLabel        "Molabo"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:accessLevel    iroko:access-initiated-elder ;
+        skos:altLabel        "Alubosa"@x-lucumi ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        dcterms:identifier   "Plant0005"^^xsd:string ;
+        skos:prefLabel       "CEBOLLA"@es ;
+        skos:altLabel        "Ẹ̀lùbọ́sà"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Alùbọ́sà Gàmbàrì"@yo ;
+        skos:altLabel        "Alùbọ́sà"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0033>
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Makondo"@es ;
+        dcterms:identifier   "Plant0033"^^xsd:string ;
+        skos:altLabel        "Ọ̀gẹ̀dẹ̀ dídì"@yo ;
+        skos:altLabel        "Platano macho"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:prefLabel       "PLATANO"@es ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0033> ;
+        skos:altLabel        "Banananye"@es ;
+        skos:altLabel        "BANANA / PLAINTAIN"@en ;
+        skos:altLabel        "Ọ̀gẹ̀dẹ̀ àgbàgbà"@yo ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dwc:scientificName   "Musa paradisiaca" ;
+        skos:altLabel        "Bannan'n Miske"@ht ;
+        skos:altLabel        "Ogede Agbagba"@x-lucumi ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Bananito"@es ;
+        skos:altLabel        "Ọ̀gẹ̀dẹ̀ wẹ́rẹ́"@yo ;
+        skos:altLabel        "Ọ̀gẹ̀dẹ̀ apánta"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0020>
+        skos:altLabel        "Ìṣígin"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Arada – Yipe"@es ;
+        skos:altLabel        "Ìbépẹ̀"@yo ;
+        skos:altLabel        "Ṣígù"@yo ;
+        skos:altLabel        "PAPAYA"@en ;
+        skos:prefLabel       "FRUTABOMBA"@es ;
+        skos:altLabel        "Lechosa"@es ;
+        dwc:scientificName   "Carica papaya" ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0020> ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Melón Zapote"@es ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Gbẹ́gbẹ́rẹ̀"@yo ;
+        iroko:medicinalUse   iroko:medicinal-skin-topical ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        skos:altLabel        "Sanasse Argentina - Manón Jamaica - Pawpaw"@en ;
+        skos:altLabel        "Ìbépẹ̀ dídì"@yo ;
+        skos:altLabel        "Papaya"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Papay"@ht ;
+        dcterms:identifier   "Plant0020"^^xsd:string .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0039>
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:altLabel        "Gúàfà"@yo ;
+        skos:altLabel        "Ke-en-ku"@x-lucumi ;
+        skos:prefLabel       "GUAYABA"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0039> ;
+        skos:altLabel        "Guayabo"@es ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        skos:altLabel        "Guayabo"@es ;
+        skos:altLabel        "Guayaba perulera"@en ;
+        dwc:scientificName   "Psidium guajava" ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Guayaba de Venado"@es ;
+        skos:altLabel        "GUAVA"@en ;
+        skos:altLabel        "Gúròbà"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Gúàbà"@yo ;
+        skos:altLabel        "Gouyav"@ht ;
+        skos:altLabel        "Guayaba de gusano"@es ;
+        dcterms:identifier   "Plant0039"^^xsd:string ;
+        skos:altLabel        "Grivav"@ht ;
+        skos:altLabel        "Gúròfà"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:accessLevel    iroko:access-community-only ;
+        skos:altLabel        "Goyav"@ht .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0026>
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:prefLabel       "ESQUENATO"@es ;
+        skos:altLabel        "Ìṣọ́kọ̀"@yo ;
+        skos:altLabel        "Ẹ̀tí"@yo ;
+        skos:altLabel        "caña de la Meca."@es ;
+        iroko:ritualUse      iroko:ritual-cosmological-symbolic ;
+        skos:altLabel        "Kòókò ọba"@yo ;
+        skos:altLabel        "Ọ̀kọ̀ ọba"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Caña de limon"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   "Plant0026"^^xsd:string ;
+        skos:altLabel        "Kọ́ríko oyìnbó"@yo ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        skos:altLabel        "Kọ́ríko ọba"@yo ;
+        dwc:scientificName   "Cymbopogon citratus" ;
+        skos:altLabel        "LEMON GRASS"@en ;
+        skos:altLabel        "Tù"@yo ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0026> .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0013>
+        skos:altLabel        "Spanish Needles"@en ;
+        skos:altLabel        "Agáràn mọ́yàn"@yo ;
+        dwc:scientificName   "Bidens pilosa" ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0013> ;
+        skos:altLabel        "Ajísọmọbíàlà"@yo ;
+        skos:altLabel        "Ọya"@yo ;
+        skos:altLabel        "Carrapicho"@pt ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "BEGGAR'S TICKS"@en ;
+        skos:altLabel        "Àbẹ́rẹ́ olókò"@yo ;
+        skos:prefLabel       "ROMERILLO"@es ;
+        skos:altLabel        "Agbéde dúdú oko"@yo ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dcterms:identifier   "Plant0013"^^xsd:string ;
+        skos:altLabel        "Malángánrán"@yo ;
+        skos:altLabel        "Ẹlẹ́sìn màsò"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Picao Preto"@pt ;
+        skos:altLabel        "Ciambu"@es ;
+        skos:altLabel        "Zegwi"@es ;
+        skos:altLabel        "Agámàyàn"@yo ;
+        skos:altLabel        "Akẹ́sìn màsò"@yo ;
+        skos:altLabel        "agulha Peru - Cadillo"@en ;
+        dwc:taxonomicStatus  "accepted"@en .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0041>
+        skos:altLabel        "CASTOR BEAN"@en ;
+        skos:altLabel        "Palmachristi"@es ;
+        iroko:medicinalUse   iroko:medicinal-skin-topical ;
+        skos:altLabel        "Ìlárùn"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Higuerilla"@es ;
+        dwc:scientificName   "Ricinus communis" ;
+        dcterms:identifier   "Plant0041"^^xsd:string ;
+        skos:altLabel        "Ìlárà"@yo ;
+        skos:prefLabel       "HIGUERETA"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Higuera Infernal"@es ;
+        skos:altLabel        "Maskreti"@ht ;
+        skos:altLabel        "Àrà pupa"@yo ;
+        skos:altLabel        "Lápálápà adẹ́tẹ̀"@yo ;
+        skos:altLabel        "Lárà"@yo ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:altLabel        "Lárà pupa"@yo ;
+        skos:altLabel        "Maskriti"@ht ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0041> .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0019>
+        skos:altLabel        "Ata àbáláyé"@yo ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Kualay. Inkako"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Alá jíjẹ"@yo ;
+        skos:altLabel        "Ata gbásẹ́jọ"@yo ;
+        skos:altLabel        "Kòrúukò"@yo ;
+        skos:altLabel        "Ata àbúrèkú"@yo ;
+        skos:altLabel        "CAYENNE PEPPER"@en ;
+        skos:altLabel        "Sweet pepper"@en ;
+        skos:altLabel        "Ata"@x-lucumi ;
+        skos:altLabel        "Kindungo"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:prefLabel       "AJI CHILE"@es ;
+        skos:altLabel        "Ata àbáìjọsí"@yo ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0019> ;
+        dwc:scientificName   "Capsicum annuum" ;
+        skos:altLabel        "Ata ìṣẹǹbáyé"@yo ;
+        dcterms:identifier   "Plant0019"^^xsd:string .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0047>
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        skos:altLabel        "Tamarind"@ht ;
+        skos:altLabel        "Tamarin"@ht ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0047> ;
+        skos:prefLabel       "TAMARINDO"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Àjàgbọn"@yo ;
+        skos:altLabel        "Arada - Awati"@es ;
+        skos:altLabel        "Igi iyagbon"@x-lucumi ;
+        dcterms:identifier   "Plant0047"^^xsd:string ;
+        skos:altLabel        "Tanmarin sí"@es ;
+        skos:altLabel        "TAMARIND"@en ;
+        dwc:scientificName   "Tamarindus indica" ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Tamarindo"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:ritualUse      iroko:ritual-invocation-communication .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0006>
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        iroko:medicinalUse   iroko:medicinal-skin-topical ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Ìpà"@yo ;
+        skos:altLabel        "ALOE"@en ;
+        skos:altLabel        "Ẹṣíyìn"@yo ;
+        dwc:scientificName   "Aloe spp." ;
+        iroko:collisionNote  "Name \"@enÌṣín\" also used for Blighia sapida" ;
+        skos:altLabel        "Ìjándúdù"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dcterms:identifier   "Plant0006"^^xsd:string ;
+        skos:altLabel        "Ẹ̀pà"@yo ;
+        skos:altLabel        "Ẹṣin"@yo ;
+        skos:altLabel        "Ẹṣin àbàtà"@yo ;
+        skos:altLabel        "Ìjándù"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:altLabel        "Gbálúwò"@yo ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0006> ;
+        skos:prefLabel       "SABILA"@es ;
+        skos:altLabel        "Ìṣín"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0034>
+        skos:altLabel        "BASIL"@en ;
+        skos:altLabel        "Ẹ̀fínrín ajá"@yo ;
+        skos:altLabel        "Ẹ̀fínrín marúgbọ́sányàn"@yo ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0034> ;
+        skos:altLabel        "Ẹ̀fínrín ata"@yo ;
+        skos:prefLabel       "ALBAHACA ANISADA"@es ;
+        skos:altLabel        "Ẹ̀fínrín òtù"@yo ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Ẹyẹ́ ọbalẹ̀ ẹ̀fínrín"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Arùntántàn"@yo ;
+        dcterms:identifier   "Plant0034"^^xsd:string ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        dwc:scientificName   "Ocimum basilicum" ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        skos:altLabel        "Ẹ̀rìyàntẹ́fẹ́"@yo ;
+        skos:altLabel        "Ẹ̀fínrín wẹ́wẹ́"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0021>
+        skos:altLabel        "pico de pájaro"@es ;
+        skos:altLabel        "chilinchile"@es ;
+        skos:altLabel        "SICKLEPOD"@en ;
+        dwc:scientificName   "Cassia sp." ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:medicinalUse   iroko:medicinal-respiratory-support ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        skos:altLabel        "Hierba hedionda"@es ;
+        skos:altLabel        "Pois-puant"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   "Plant0021"^^xsd:string ;
+        skos:altLabel        "Hierba de la potra"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0021> ;
+        skos:altLabel        "hierba de"@es ;
+        skos:prefLabel       "HEDIONDA"@es ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Herbe puante"@en ;
+        skos:altLabel        "Brusca"@es ;
+        skos:altLabel        "Ìòòṣì"@yo ;
+        skos:altLabel        "busca. martinica"@es ;
+        skos:altLabel        "Pico de pajaro"@es ;
+        skos:altLabel        "Frijolillo"@es ;
+        skos:altLabel        "mezquitillo"@es ;
+        skos:altLabel        "gallinazo"@es ;
+        skos:altLabel        "Ṣèkèsèkè"@yo ;
+        skos:altLabel        "Arajara"@x-lucumi ;
+        skos:altLabel        "Zépiant"@es ;
+        skos:altLabel        "furrusca"@es ;
+        skos:altLabel        "altera"@es ;
+        skos:altLabel        "Hedionda"@es ;
+        skos:altLabel        "Hediondillo"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "brusca Balambala"@es ;
+        skos:altLabel        "comida de murcielago"@es ;
+        skos:altLabel        "Ewe Tomode"@x-lucumi .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0027>
+        skos:altLabel        "Pilulye"@es ;
+        skos:altLabel        "Malnomen"@es ;
+        dcterms:identifier   "Plant0027"^^xsd:string ;
+        dwc:scientificName   "Euphorbia hirta" ;
+        skos:prefLabel       "YERBA LECHOSA"@es ;
+        skos:altLabel        "Ẹ̀gẹ́lẹ́"@yo ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Malon'nen"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0027> ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Zèb malnomen"@ht ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Erva de Santa Luzia"@pt ;
+        skos:altLabel        "Yerba lechera Teta de vieja."@es ;
+        skos:altLabel        "ASTHMA WEED"@en ;
+        iroko:accessLevel    iroko:access-initiated-only ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0014>
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "cacicuto Bijaguara"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "ARNOTTO TREE"@en ;
+        iroko:accessLevel    iroko:access-no-access ;
+        skos:prefLabel       "BIJA"@es ;
+        skos:altLabel        "Ọ̀ṣun elẹ́dẹ̀"@yo ;
+        skos:altLabel        "Green Heart"@en ;
+        skos:altLabel        "Achote"@es ;
+        skos:altLabel        "Woucou"@es ;
+        skos:altLabel        "Oen"@x-lucumi ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "birijagua."@es ;
+        dwc:scientificName   "Bixa orellana" ;
+        skos:altLabel        "Urucum"@pt ;
+        skos:altLabel        "Bija"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dcterms:identifier   "Plant0014"^^xsd:string ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0014> ;
+        skos:altLabel        "Onoto"@es ;
+        iroko:ritualUse      iroko:ritual-rites-of-transition .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0042>
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        dwc:scientificName   "Sesamum indicum" ;
+        skos:altLabel        "SESAME SEED"@en ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Ẹ̀kú gógóró"@yo ;
+        skos:altLabel        "Ndeba"@es ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Arada – Alpiri"@es ;
+        skos:prefLabel       "AJONJOLI"@es ;
+        skos:altLabel        "Ẹ̀kú igi"@yo ;
+        skos:altLabel        "Yànmọ́tí"@yo ;
+        skos:altLabel        "Ọ̀júà"@yo ;
+        dcterms:identifier   "Plant0042"^^xsd:string ;
+        skos:altLabel        "Guanillila"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:altLabel        "Amati"@x-lucumi ;
+        skos:altLabel        "Wowoli"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Àfájọ"@yo ;
+        skos:altLabel        "Yanmoti"@x-lucumi ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0042> .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0001>
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0001> ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:altLabel        "Iròkò ńlá (hon.)"@yo ;
+        iroko:ritualUse      iroko:ritual-cosmological-symbolic ;
+        skos:prefLabel       "Iròkò"@yo ;
+        iroko:medicinalUse   iroko:medicinal-respiratory-support ;
+        skos:altLabel        "Iròkò èwọ̀"@yo ;
+        skos:altLabel        "Èrò iròkò"@yo ;
+        skos:altLabel        "Iròkò aládé oko"@yo ;
+        skos:altLabel        "Araba"@x-lucumi ;
+        skos:altLabel        "Iròkò"@yo ;
+        skos:altLabel        "African Teak"@en ;
+        skos:altLabel        "God Tree"@es ;
+        iroko:collisionNote  "Shares the vernacular name “Iròkò” with Ceiba pentandra in some ritual and popular contexts; distinguished here by Verger attestation"@en ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        dwc:scientificName   "Milicia excelsa" ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   "Plant0001"^^xsd:string ;
+        skos:altLabel        "Ìràwé igbó"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0048>
+        iroko:accessLevel    iroko:access-community-only ;
+        dwc:scientificName   "Vitex doniana" ;
+        skos:altLabel        "Òrì ọ̀dàn"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "BLACK PLUM"@en ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:prefLabel       "OFON"@yo ;
+        skos:altLabel        "Òrì"@yo ;
+        dcterms:identifier   "Plant0048"^^xsd:string ;
+        skos:altLabel        "Ofón"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0048> ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Òrì ńlá"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0007>
+        skos:altLabel        "Zepina-Kabrit"@ht ;
+        skos:altLabel        "Tẹ́tẹ́ oyìbó"@yo ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:prefLabel       "BLEDO ESPINOSO"@es ;
+        dcterms:identifier   "Plant0007"^^xsd:string ;
+        skos:altLabel        "Tẹ́tẹ́ ńlá"@yo ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0007> ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Wild Spinache"@es ;
+        skos:altLabel        "Zepina-à-Shyen"@ht ;
+        dwc:scientificName   "Amaranthus spinosus" ;
+        skos:altLabel        "Tẹ́tẹ́gun dérú olákálẹ̀"@yo ;
+        skos:altLabel        "Zepina-Rouj"@ht ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:altLabel        "SPINY AMARANTH"@en ;
+        skos:altLabel        "Pigweed"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Tẹ́tẹ́ pọ̀pò"@yo ;
+        skos:altLabel        "Tẹ́tẹ́ gbọ̀lọ́gì"@yo ;
+        skos:altLabel        "Zepina-Koshon"@ht ;
+        skos:altLabel        "Tẹ́tẹ́ oyágadé"@yo ;
+        skos:altLabel        "Zepina-Pikan"@ht ;
+        skos:altLabel        "Amaranth"@es ;
+        skos:altLabel        "Tẹ́tẹ́ kékeré"@yo ;
+        iroko:collisionNote  "Shares 8 Yoruba names with other Amaranthus species (Tẹ́tẹ́ variants)"@en ;
+        skos:altLabel        "Tẹ́tẹ́ ọ̀sàn"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0035>
+        skos:prefLabel       "YERBA DE GUINEA"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "edi edi"@x-lucumi ;
+        skos:altLabel        "Maoma"@es ;
+        skos:altLabel        "Ẹ̀rù ọ̀párùn"@yo ;
+        skos:altLabel        "Kòókò"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Vititi"@es ;
+        skos:altLabel        "Mariare"@es ;
+        skos:altLabel        "Ìkín ìrùkẹ̀"@yo ;
+        iroko:ritualUse      iroko:ritual-rites-of-transition ;
+        skos:altLabel        "GUINEAGRASS"@en ;
+        dwc:scientificName   "Panicum maximum" ;
+        skos:altLabel        "Boolongo"@es ;
+        skos:altLabel        "Panic grass"@en ;
+        skos:altLabel        "Hamilgrass"@en ;
+        dcterms:identifier   "Plant0035"^^xsd:string ;
+        skos:altLabel        "Zèb-Guinen"@ht ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0035> ;
+        skos:altLabel        "Guinea gigante."@es ;
+        skos:altLabel        "Ìkín"@yo ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Herbe de Guinée"@es ;
+        skos:altLabel        "Okoeran-eranguini"@x-lucumi .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0022>
+        dcterms:identifier   "Plant0022"^^xsd:string ;
+        skos:altLabel        "MEXICAN TEA"@en ;
+        skos:altLabel        "Contra"@es ;
+        skos:altLabel        "American wormseed"@en ;
+        skos:altLabel        "Semen"@es ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Herbe-à-Vers"@es ;
+        skos:altLabel        "Oline"@x-lucumi ;
+        skos:altLabel        "Epazote"@es ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        skos:altLabel        "Ambroisie du Mexique"@es ;
+        skos:altLabel        "Biengranada"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0022> ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        skos:altLabel        "Ìmì ìyìn"@yo ;
+        skos:altLabel        "Thé du Mexique"@es ;
+        skos:altLabel        "Ìṣépẹ̀ àgbẹ̀"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Mántúrúsì"@yo ;
+        skos:prefLabel       "APASOTE"@es ;
+        dwc:scientificName   "Chenopodium ambrosioides" ;
+        skos:altLabel        "Mónítúrúsì"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0050>
+        skos:altLabel        "Ẹ̀gún"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Yàngàn"@yo ;
+        dwc:scientificName   "Zea mays" ;
+        skos:altLabel        "Agbado"@x-lucumi ;
+        skos:altLabel        "Mayi"@ht ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0050> ;
+        skos:altLabel        "Milho"@pt ;
+        skos:altLabel        "Ọ̀kà"@yo ;
+        dcterms:identifier   "Plant0050"^^xsd:string ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Àgbàdo"@yo ;
+        skos:altLabel        "MAIZE"@en ;
+        skos:altLabel        "Arada – Dli"@es ;
+        skos:prefLabel       "MAIZ"@es ;
+        skos:altLabel        "Ìgbàdo"@yo ;
+        iroko:ritualUse      iroko:ritual-purification-cleansing ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:accessLevel    iroko:access-public-no-amplification .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0028>
+        skos:altLabel        "Clavel japonés."@es ;
+        skos:altLabel        "pavón"@es ;
+        skos:altLabel        "Maníjẹ̀"@yo ;
+        skos:prefLabel       "MARPACIFICO"@es ;
+        dcterms:identifier   "Plant0028"^^xsd:string ;
+        skos:altLabel        "Chinese-rose."@es ;
+        skos:altLabel        "carta abierta"@es ;
+        skos:altLabel        "Amapola"@es ;
+        skos:altLabel        "Tulipán"@es ;
+        iroko:accessLevel    iroko:access-community-only ;
+        skos:altLabel        "flor de chivo"@es ;
+        skos:altLabel        "Resucitó"@es ;
+        skos:altLabel        "hibisco. Virgin Islands - Chinese-rose"@es ;
+        iroko:ritualUse      iroko:ritual-offering-devotion ;
+        skos:altLabel        "Papo"@es ;
+        skos:altLabel        "HIBISCUS"@en ;
+        skos:altLabel        "candelá"@es ;
+        dwc:scientificName   "Hibiscus sp." ;
+        skos:altLabel        "Borrachona"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "leche de Venus"@es ;
+        skos:altLabel        "Shoublak"@es ;
+        skos:altLabel        "sangre de adonis. Dominican Republic - Sangre de Cristo"@en ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0028> ;
+        skos:altLabel        "malva de china"@es ;
+        skos:altLabel        "Chinese hibiscus"@en ;
+        skos:altLabel        "amapola"@es ;
+        skos:altLabel        "papoula."@es ;
+        skos:altLabel        "Campana"@es ;
+        skos:altLabel        "cayena. Hawaii -Red hibiscus. Jamaica - Shoe-black candelada"@en ;
+        skos:altLabel        "marimoña"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "cupido"@es ;
+        skos:altLabel        "mar serena"@es ;
+        skos:altLabel        "guasintón"@es ;
+        skos:altLabel        "Resplandor"@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0015>
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Ìṣín ọ̀dàn"@yo ;
+        skos:altLabel        "arbol del seso."@es ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:altLabel        "Castanheiro do Africa"@es ;
+        skos:altLabel        "bien me sabe"@es ;
+        iroko:accessLevel    iroko:access-initiated-elder ;
+        skos:altLabel        "Huevo vegetal"@en ;
+        skos:altLabel        "Ìṣín ọ̀ká"@yo ;
+        iroko:collisionNote  "Name \"@enÌṣín\" also used for Aloe spp." ;
+        skos:altLabel        "Arada - Yowele pan y quesito. U. S. - Akee-tree"@en ;
+        skos:prefLabel       "SESO VEGETAL"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:ritualUse      iroko:ritual-rites-of-transition ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0015> ;
+        skos:altLabel        "Ìṣín jíjẹ"@yo ;
+        skos:altLabel        "akee"@es ;
+        skos:altLabel        "Akee de Africa"@es ;
+        dcterms:identifier   "Plant0015"^^xsd:string ;
+        skos:altLabel        "Igi ayire"@x-lucumi ;
+        rdf:type             iroko:EwePlantRecord ;
+        dwc:scientificName   "Blighia sapida" ;
+        skos:altLabel        "Seso vegetal"@en ;
+        skos:altLabel        "AKEE"@en ;
+        skos:altLabel        "Ìṣín"@yo ;
+        skos:altLabel        "vegetable brains"@es .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0043>
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0043> ;
+        dcterms:identifier   "Plant0043"^^xsd:string ;
+        skos:altLabel        "Paddy's Lucern"@es ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "JELLY LEAF"@en ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:prefLabel       "MALVA DE COCHINOS"@es ;
+        skos:altLabel        "Queensland hemp"@en ;
+        skos:altLabel        "Escobilla"@es ;
+        skos:altLabel        "Huinari"@es ;
+        skos:altLabel        "huinar"@es ;
+        dwc:scientificName   "Sida rhombifolia" ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Ìfín"@yo ;
+        skos:altLabel        "huinare"@es ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Argentina - Tebincha Dominican Republic – Malva Perú - Limpion"@en ;
+        skos:altLabel        "Ewé ìfín"@yo ;
+        skos:altLabel        "Escoba amarilla"@en .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0002>
+        iroko:collisionNote  "Sometimes referred to as “Iròkò” in Afro-Caribbean and diasporic contexts; distinct from Milicia excelsa (true Iroko)."@en ;
+        skos:altLabel        "Ẹ̀gún (òwú ẹ̀gún)"@yo ;
+        skos:altLabel        "Fromagier"@ht ;
+        skos:altLabel        "Ọ̀gbùngbùn"@yo ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0002> ;
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        iroko:ritualNote     "Also recognized in Afro-Atlantic and Mesoamerican worlds"@en ;
+        skos:altLabel        "Kapokier"@ht ;
+        dcterms:identifier   "Plant0002"^^xsd:string ;
+        skos:altLabel        "White silk cotton tree"@en ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Mapou"@ht ;
+        skos:altLabel        "Arada – Wele honsu"@es ;
+        skos:prefLabel       "CEIBA"@es ;
+        iroko:medicinalUse   iroko:medicinal-respiratory-support ;
+        skos:altLabel        "KAPOK TREE"@en ;
+        skos:altLabel        "Ẹ̀gúngún-ogun"@yo ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "La Ceiba"@es ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:altLabel        "Àràbà"@yo ;
+        iroko:accessLevel    iroko:access-public-no-amplification ;
+        dwc:scientificName   "Ceiba pentandra" ;
+        skos:altLabel        "Araba"@x-lucumi .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0030>
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        skos:altLabel        "Ewé ìbọ̀"@yo ;
+        skos:altLabel        "Piñón de botija, piñon de cercas"@es ;
+        skos:altLabel        "Tempate"@es ;
+        skos:altLabel        "Tempacte"@es ;
+        skos:altLabel        "Piao, Piao branco, pinhao bravo"@pt ;
+        dcterms:identifier   "Plant0030"^^xsd:string ;
+        skos:altLabel        "Bọ̀tújẹ́"@yo ;
+        skos:altLabel        "PHYSIC NUT"@en ;
+        skos:altLabel        "Lóbọ̀tújẹ́"@yo ;
+        skos:altLabel        "Piñón de Indias, Sangreado, piñoncillo"@es ;
+        skos:altLabel        "Ìyálóde"@yo ;
+        skos:altLabel        "Puluka, Masorosi"@es ;
+        skos:altLabel        "Tapate, coquillo"@es ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        rdf:type             iroko:EwePlantRecord ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0030> ;
+        skos:altLabel        "Olóbọ̀ntújẹ́"@yo ;
+        skos:prefLabel       "PIÑON DE BOTIJA"@es ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:altLabel        "Tártago, piñon, piñon purgante"@es ;
+        skos:altLabel        "Coquillo"@es ;
+        skos:altLabel        "Lápálápà"@yo ;
+        skos:altLabel        "Barbados nut, purge nut, curcasbean"@en ;
+        skos:altLabel        "Ado, Alumofo, Akunu"@x-lucumi ;
+        skos:altLabel        "Bọ̀tújẹ́ úbọ̀"@yo ;
+        skos:altLabel        "Cotoncillo"@es ;
+        skos:altLabel        "Médicinier, médicinier béni, Medsinyen batà, Médecinier Rouge, Bois-Ortolan, Graine Ortolan, Zèb Zotolan, Petit Medecinier"@ht ;
+        dwc:scientificName   "Jatropha curcas" ;
+        dwc:taxonomicStatus  "accepted"@en .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0049>
+        skos:altLabel        "Ẹ̀rùn-jẹ̀"@yo ;
+        skos:altLabel        "Olórìn"@yo ;
+        skos:altLabel        "Atare"@x-lucumi ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:prefLabel       "PIMIENTA DE GUINEA"@es ;
+        dcterms:identifier   "Plant0049"^^xsd:string ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0049> ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Ẹ́gò"@yo ;
+        skos:altLabel        "GUINEA PEPPER"@en ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Ẹ̀rù"@yo ;
+        dwc:scientificName   "Xylopia aethiopica" ;
+        iroko:ritualUse      iroko:ritual-cosmological-symbolic ;
+        skos:altLabel        "Ìgò"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0008>
+        dcterms:identifier   "Plant0008"^^xsd:string ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Tẹ́tẹ́ ńlá"@yo ;
+        dwc:scientificName   "Amaranthus viridis" ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0008> ;
+        skos:altLabel        "Blero"@es ;
+        skos:altLabel        "Tẹ́tẹ́ ẹ̀gúndò"@yo ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Tẹ́tẹ́ pọ̀pò"@yo ;
+        skos:altLabel        "SLENDER AMARANTH"@en ;
+        iroko:collisionNote  "Shares 8 Yoruba names with other Amaranthus species (Tẹ́tẹ́ variants)"@en ;
+        skos:altLabel        "Ewe tete"@x-lucumi ;
+        skos:altLabel        "Bledo manso"@en ;
+        skos:altLabel        "Tẹ́tẹ́ ọ̀sàn"@yo ;
+        skos:altLabel        "Tẹ́tẹ́ oyágadé"@yo ;
+        skos:prefLabel       "BLEDO BLANCO"@es ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Tẹ́tẹ́ elẹ́gún"@yo ;
+        skos:altLabel        "Tẹ́tẹ́ oyìbó"@yo ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        iroko:accessLevel    iroko:access-initiated-only ;
+        skos:altLabel        "Bledo"@es ;
+        skos:altLabel        "espinaca."@es ;
+        skos:altLabel        "Tẹ́tẹ́ ẹ̀gún"@yo ;
+        skos:altLabel        "Tẹ́tẹ́gun dérú olákálẹ̀"@yo ;
+        skos:altLabel        "Tẹ́tẹ́ kékeré"@yo ;
+        skos:altLabel        "Tẹ́tẹ́ atèlẹ̀ dàǹtì"@yo ;
+        skos:altLabel        "Green calalu"@en ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:altLabel        "Tẹ́tẹ́ gbọ̀lọ́gì"@yo .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0036>
+        iroko:ritualUse      iroko:ritual-protection-boundary ;
+        iroko:nameCollision  "false"^^xsd:boolean ;
+        skos:altLabel        "Bejuco de"@en ;
+        skos:altLabel        "Bejuco de costilla"@es ;
+        skos:altLabel        "Barbasco"@es ;
+        skos:altLabel        "BREAD-AND-CHEESE"@en ;
+        skos:altLabel        "bejuquillo"@es ;
+        skos:altLabel        "Bejuco de Indio (Santiago de Cuba) paloma"@en ;
+        skos:altLabel        "British Antilles - Bread-and-cheese matancero"@es ;
+        skos:altLabel        "Lágọ́lágọ́"@yo ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        iroko:medicinalUse   iroko:medicinal-general-tonic ;
+        skos:altLabel        "Ọ̀gbé okújẹ̀"@yo ;
+        skos:altLabel        "Bejuco"@es ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Chilmecate"@es ;
+        skos:altLabel        "Bejuco de vieja"@es ;
+        skos:altLabel        "Kákásẹ́mí ṣọ́lá awòmí"@yo ;
+        skos:altLabel        "Nistamil"@es ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0036> ;
+        skos:altLabel        "Kákásẹ́nlà"@yo ;
+        dwc:scientificName   "Paullinia pinnata" ;
+        skos:altLabel        "Azucarillo"@es ;
+        skos:altLabel        "Supple jack"@en ;
+        iroko:accessLevel    iroko:access-public-unrestricted ;
+        skos:prefLabel       "AZUCARITO"@es ;
+        dcterms:identifier   "Plant0036"^^xsd:string .
+
+<https://ontology.irokosociety.org/data/ewe/Plant0023>
+        skos:altLabel        "sour orange"@en ;
+        skos:prefLabel       "NARANJA AGRIA"@es ;
+        skos:altLabel        "Orange"@es ;
+        skos:altLabel        "Sour Orange"@es ;
+        skos:altLabel        "Òròmbó mùmù"@yo ;
+        skos:altLabel        "Gán-ìn gán-ìn"@yo ;
+        skos:altLabel        "Òròmbó"@yo ;
+        skos:altLabel        "Korosan"@x-lucumi ;
+        skos:altLabel        "Ọ̀sàn oyìnbó"@yo ;
+        iroko:accessLevel    iroko:access-initiated-only ;
+        skos:altLabel        "sweet orange"@en ;
+        skos:altLabel        "Òròmbó ẹ̀fín"@yo ;
+        skos:altLabel        "Òrò díybẹ̀"@yo ;
+        skos:altLabel        "Naranja agria"@es ;
+        iroko:nameCollision  "true"^^xsd:boolean ;
+        skos:altLabel        "bitter orange"@en ;
+        rdf:type             iroko:EwePlantRecord ;
+        skos:altLabel        "Òròmbó dídín"@yo ;
+        skos:altLabel        "Gosco (Gwo Po)"@es ;
+        skos:altLabel        "Ọ̀sàn mùmù"@yo ;
+        skos:altLabel        "Òròmbó jagányìn"@yo ;
+        skos:altLabel        "Òròmbó lákíẹ̀gbé"@yo ;
+        dwc:scientificName   "Citrus aurantium" ;
+        iroko:medicinalUse   iroko:medicinal-digestive-support ;
+        iroko:collisionNote  "Name \"@enÒròmbó\" shared with other Citrus species" ;
+        skos:altLabel        "Ọ̀sàn ńlá"@yo ;
+        skos:altLabel        "Zorany sí"@ht ;
+        skos:altLabel        "Jagányìn"@yo ;
+        skos:altLabel        "Òròmbó ìgùn"@yo ;
+        dcterms:identifier   <https://ontology.irokosociety.org/data/ewe/Plant0023> ;
+        skos:altLabel        "Seville Orange"@es ;
+        iroko:ritualUse      iroko:ritual-healing-restoration ;
+        iroko:ritualNote     "English etymology"@en ;
+        dcterms:identifier   "Plant0023"^^xsd:string ;
+        skos:altLabel        "Zoranj anmè"@ht ;
+        dwc:taxonomicStatus  "accepted"@en ;
+        skos:altLabel        "Jagbúrẹ̀"@yo .

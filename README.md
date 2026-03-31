@@ -1,6 +1,6 @@
 # LS563 Linked Data Project — Verger Ewé Dataset
 
-**Ayodele Odiduro | University of Alabama MLIS | LS563 Linked Data**
+**Délé Fágbèmí Ọ̀.  | University of Alabama MLIS | LS563 Linked Data**
 
 ---
 
@@ -175,4 +175,4 @@ Each record links to an access concept in the Iroko Framework that governs how t
 ---
 
 *Dataset developed as part of LS563 Linked Data, University of Alabama MLIS Program.*
-*Iroko Framework published under CC0. Dataset © 2026 Ayodele Odiduro / Iroko Historical Society.*
+*Iroko Framework published under CC0. Dataset © 2026 Délé Fágbèmí Ọ̀. / Iroko Historical Society.*

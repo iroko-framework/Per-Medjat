@@ -17,14 +17,17 @@
   <script>window.EWE_UI_COPY = {{ ui | tojson }};</script>
 </head>
 <body>
-  <div class="site-shell">
-    <div class="topbar">
-      <div class="topbar-left">{{ org_name }}</div>
-      <div class="topbar-right">
+  <div class="top-bar">
+    <div class="page-wrap top-bar-shell">
+      <span class="top-bar-id">{{ org_name }} · Ewé Database</span>
+      <div class="top-bar-links">
         <a href="{{ vocab_page }}">{{ top_bar_framework_label }}</a>
         <a href="https://www.irokosociety.org/">{{ external_site_label }}</a>
+        <a href="{{ '../index.html' if record is defined else '/index.html' }}">Medjat ↑</a>
       </div>
     </div>
+  </div>
+  <div class="page-wrap">
     {% block page_content %}{% endblock %}
     <footer class="site-footer">
       <div class="footer-left">

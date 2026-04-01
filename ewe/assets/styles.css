@@ -116,3 +116,28 @@ a:hover{color:var(--terracotta)}
   .plant-grid{grid-template-columns:1fr}
   .plant-header-inner{grid-template-columns:1fr}
 }
+
+
+.toolbar-grid{display:grid;grid-template-columns:minmax(260px,1fr) auto 220px;gap:.75rem;align-items:center}
+.access-select{padding:.7rem .85rem;border:1px solid var(--rule-strong);background:var(--paper);font-family:var(--mono);font-size:.68rem;letter-spacing:.04em;color:var(--ink)}
+.stack-block{margin:0 0 1rem}
+.assertion-line{display:grid;gap:.2rem;margin:.45rem 0}
+.assertion-line .assertion-key{font-family:var(--mono);font-size:.58rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft)}
+.assertion-line .assertion-value{font-size:.9rem;color:var(--ink-mid);line-height:1.5}
+.assertion-line.block .assertion-value{background:var(--paper-warm);border:1px solid var(--rule-strong);border-radius:3px;padding:.85rem 1rem}
+.placeholder-line .assertion-value{font-family:var(--mono);font-size:.68rem;color:var(--ink-soft);font-style:italic}
+.redaction-block{background:#f8f5ef;border:1px dashed #b69f74;border-radius:3px;padding:.85rem 1rem;margin:.45rem 0}
+.redaction-top{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;margin-bottom:.45rem}
+.redaction-helper{font-size:.82rem;line-height:1.55;color:var(--ink-mid)}
+.governance-box{background:var(--paper-warm);border:1px solid var(--rule-strong);padding:.9rem 1rem;border-radius:3px}
+.record-governance-copy{font-size:.9rem;font-weight:600;color:var(--ink);margin-bottom:.3rem}
+.governance-helper{font-size:.82rem;line-height:1.55;color:var(--ink-mid)}
+.scientific-display{margin-top:.3rem;font-style:italic;font-size:.9rem;color:var(--ink-mid)}
+@media(max-width:760px){.toolbar-grid{grid-template-columns:1fr}.access-select{width:100%}}
+
+/* ── Medjat shared additions ─────────────────────────────────────────────── */
+.hero-logo{width:88px;height:88px;display:grid;place-items:center}
+.hero-logo img{width:100%;height:100%;object-fit:contain;border-radius:50%}
+/* breadcrumb back-link to Medjat root */
+.medjat-back{font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);border:1px solid var(--rule-strong);padding:.3em .9em;border-radius:2px;transition:all .12s;display:inline-block;margin-top:1rem}
+.medjat-back:hover{background:var(--paper-warm);color:var(--ink)}

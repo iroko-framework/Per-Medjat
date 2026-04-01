@@ -36,15 +36,17 @@
 (function () {
   var searchEl = document.getElementById('plantSearch');
   var countEl = document.getElementById('searchCount');
+  var accessEl = document.getElementById('accessFilter');
   var cards = document.querySelectorAll('.plant-card');
   var pills = document.querySelectorAll('#ritualFilter .filter-pill');
   if (!searchEl || !countEl || !cards.length) return;
 
   function normalize(value) {
-    return (value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+    return (value || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
   }
 
   var activeRitual = '';
+  var activeAccess = '';
 
   function applyFilters() {
     var query = searchEl.value.toLowerCase().trim();
@@ -54,7 +56,8 @@
       var hay = card.dataset.search || '';
       var hayAscii = card.dataset.searchAscii || '';
       var ok = (!query || hay.indexOf(query) >= 0 || hayAscii.indexOf(queryAscii) >= 0) &&
-        (!activeRitual || card.dataset.ritual === activeRitual);
+        (!activeRitual || card.dataset.ritual === activeRitual) &&
+        (!activeAccess || card.dataset.access === activeAccess);
       card.classList.toggle('hidden', !ok);
       if (ok) visible++;
     });
@@ -62,6 +65,12 @@
   }
 
   searchEl.addEventListener('input', applyFilters);
+  if (accessEl) {
+    accessEl.addEventListener('change', function () {
+      activeAccess = accessEl.value;
+      applyFilters();
+    });
+  }
   pills.forEach(function (pill) {
     pill.addEventListener('click', function () {
       pills.forEach(function (p) { p.classList.remove('active'); });

@@ -1,0 +1,17 @@
+{
+  "site_title": "Ewé Database",
+  "site_subtitle": "Verger Collection",
+  "org_name": "Iroko Historical Society",
+  "namespace_uri": "https://ontology.irokosociety.org",
+  "vocab_page": "https://ontology.irokosociety.org/vocab/iroko-ewe.html",
+  "public_base": "https://ewe-database.irokosociety.org/plant/",
+  "data_base": "https://ontology.irokosociety.org/data/ewe/",
+  "site_url": "https://ewe-database.irokosociety.org",
+  "logo_path": "assets/logo-placeholder.svg",
+  "top_bar_framework_label": "Framework ↗",
+  "external_site_label": "irokosociety.org ↗",
+  "footer_tagline": "Postcustodial Digital Archives for Afro-Atlantic Cultural Materials",
+  "sources_line": "Pierre Fatumbi Verger, Ewé: The Use of Plants in Yoruba Society (1995); Dalia Quiros-Moran, Guide to Afro-Cuban Herbalism",
+  "lucumi_public_badge_label": "Gated in Public UI",
+  "github_pages_baseurl": ""
+}

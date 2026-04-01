@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+<header class="explorer-hero">
+  <div class="hero-inner">
+    <div class="hero-logo"><img src="{{ logo_path }}" alt="{{ org_name }} logo"></div>
+    <div>
+      <div class="explorer-eyebrow">{{ org_name }} · Afro-Atlantic Sacred Plant Knowledge</div>
+      <h1 class="explorer-title">{{ site_title }}<br><em>{{ site_subtitle }}</em></h1>
+      <p class="explorer-sub">
+        {{ record_count }} sacred plants from Pierre Fatumbi Verger's <em>Ewé: The Use of Plants in Yoruba Society</em>
+        and Dalia Quiros-Moran's <em>Guide to Afro-Cuban Herbalism</em>, structured from {{ dataset_filename }}.
+      </p>
+    </div>
+    <div>{% include "partials/lang_toggle.html" %}</div>
+  </div>
+  <div class="about-block">
+    <div class="about-block-title ui-copy" data-copy-key="about_title">About the Ewé Database</div>
+    <p class="ui-copy" data-copy-key="about_body">The Ewé Database provides a public interface for plant records structured using the Iroko Framework.</p>
+  </div>
+</header>
+
+<div class="toolbar toolbar-grid">
+  <input class="search-input" type="search" id="plantSearch" placeholder="{{ ui.search_placeholder.en }}" autocomplete="off">
+  <span class="search-count" id="searchCount">{{ record_count }} <span class="ui-copy" data-copy-key="plants">plants</span></span>
+  <select class="access-select" id="accessFilter">
+    <option value="" class="ui-copy" data-copy-key="all_access">All Access Tiers</option>
+    {% for key, label in access_filter_options %}
+    <option value="{{ key }}">{{ label }}</option>
+    {% endfor %}
+  </select>
+</div>
+
+<div class="filter-row" id="ritualFilter">
+  <button class="filter-pill active" data-ritual=""><span class="ui-copy" data-copy-key="all_plants">All Plants</span></button>
+  {% for option in ritual_filter_options %}<button class="filter-pill" data-ritual="{{ option }}">{{ option }}</button>{% endfor %}
+</div>
+
+<div class="plant-grid" id="plantGrid">
+  {% for record in records %}
+  <a class="plant-card" href="{{ record.page_url }}" data-search="{{ record.search_text }}" data-search-ascii="{{ record.search_text_ascii }}" data-ritual="{{ record.ritual_label }}" data-access="{{ record.access_key }}">
+    <div class="card-id">{{ record.identifier }}</div>
+    <div class="card-pref">{{ record.primary_yoruba or record.pref_label }}</div>
+    <div class="card-sci">{{ record.scientific_name }}</div>
+    <div class="card-names">
+      {% for code, value in record.card_names %}<div class="card-name-row"><span class="card-name-lang">{{ code }}</span><span class="card-name-val">{{ value }}</span></div>{% endfor %}
+    </div>
+    <div class="card-foot">
+      <span class="access-badge {{ record.access_class }}">{{ record.access_label }}</span>
+      {% if record.name_collision %}<span class="collision-notice">Name collision</span>{% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

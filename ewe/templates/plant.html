@@ -1,0 +1,130 @@
+{% extends "base.html" %}
+
+{% block title %}{{ record.primary_yoruba or record.pref_label }} · {{ record.scientific_name }} — {{ site_title }}{% endblock %}
+
+{% macro render_assertion(assertion, style='line') -%}
+  {% if assertion.field_name == 'placeholder' %}
+    <div class="assertion-line placeholder-line"><div class="assertion-value name-empty">{{ assertion.value }}</div></div>
+  {% elif assertion.render_mode == 'visible' %}
+    <div class="assertion-line {{ style }}">
+      {% if assertion.display_label %}<div class="assertion-key">{{ assertion.display_label }}</div>{% endif %}
+      <div class="assertion-value">{{ assertion.value }}</div>
+    </div>
+  {% else %}
+    <div class="redaction-block">
+      <div class="redaction-top">
+        <span class="access-badge {{ assertion.badge_class }} access-badge-lg">{{ assertion.badge_label }}</span>
+      </div>
+      <div class="redaction-helper">{{ assertion.helper_text }}</div>
+    </div>
+  {% endif %}
+{%- endmacro %}
+
+{% block page_content %}
+<p class="breadcrumb"><a href="../index.html" class="ui-copy" data-copy-key="all_plants">All Plants</a> <span>/</span> {{ record.identifier }}</p>
+
+<header class="plant-header">
+  <div class="plant-header-inner">
+    <div>
+      <div class="plant-pref-large">{{ record.primary_yoruba or record.pref_label }}</div>
+      <div class="plant-sci-large">{{ record.scientific_name }}</div>
+      <div class="plant-id-label">{{ record.identifier }} · iroko:EwePlantRecord</div>
+      <div class="plant-header-meta">
+        <span class="access-badge {{ record.access_class }} access-badge-lg">{{ record.access_label }}</span>
+        {% if record.name_collision %}<span class="collision-notice">Name collision</span>{% endif %}
+      </div>
+    </div>
+    <div>{% include "partials/lang_toggle.html" %}</div>
+  </div>
+</header>
+
+<div class="detail-grid">
+  <div>
+    <div class="detail-section-title ui-copy" data-copy-key="names_by_language">Names by Language</div>
+    <table class="names-table">
+      {% for lang in ['en','yo','es','pt','fr','ht','x-lucumi'] %}
+      <tr>
+        <td>{{ lang_labels[lang] }}</td>
+        <td>
+          {% set assertions = record.sections.names.assertions | selectattr('display_label', 'equalto', lang_labels[lang]) | list %}
+          {% for assertion in assertions %}{{ render_assertion(assertion) }}{% endfor %}
+        </td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+
+  <div>
+    <div class="detail-section-title ui-copy" data-copy-key="regional_names">Regional and Unresolved Names</div>
+    <div class="detail-label ui-copy" data-copy-key="scientific_synonyms">Scientific Synonyms</div>
+    <div class="stack-block">
+      {% set sci = record.sections.regional.assertions | selectattr('field_name','equalto','scientific_synonym') | list %}
+      {% if sci %}{% for assertion in sci %}{{ render_assertion(assertion) }}{% endfor %}{% else %}<span class="name-empty ui-copy" data-copy-key="none_recorded">None recorded</span>{% endif %}
+    </div>
+    <div class="detail-label ui-copy" data-copy-key="other_regional_names">Other Regional Names</div>
+    <div class="stack-block">
+      {% set reg = record.sections.regional.assertions | selectattr('field_name','equalto','regional_name') | list %}
+      {% if reg %}<div class="tag-cloud">{% for assertion in reg if assertion.render_mode == 'visible' %}<span class="tag-pill">{{ assertion.value }}</span>{% endfor %}</div>{% else %}<span class="name-empty ui-copy" data-copy-key="none_recorded">None recorded</span>{% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="detail-grid">
+  <div>
+    <div class="detail-section-title ui-copy" data-copy-key="sacred_knowledge">Sacred Knowledge</div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="ritual_use">Ritual Use</div>
+      <div class="use-value">{{ record.ritual_label }}</div>
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="ritual_notes">Ritual Notes</div>
+      {% set ritual_assertions = record.sections.sacred.assertions | selectattr('field_name','equalto','ritual_note') | list %}
+      {% if ritual_assertions %}{% for assertion in ritual_assertions %}{{ render_assertion(assertion, 'block') }}{% endfor %}{% else %}<span class="name-empty ui-copy" data-copy-key="none_recorded">None recorded</span>{% endif %}
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="collision_note">Collision Note</div>
+      {% set collision_assertions = record.sections.sacred.assertions | selectattr('field_name','equalto','collision_note') | list %}
+      {% if collision_assertions %}{% for assertion in collision_assertions %}{{ render_assertion(assertion, 'block') }}{% endfor %}{% else %}<span class="name-empty ui-copy" data-copy-key="none_recorded">None recorded</span>{% endif %}
+    </div>
+  </div>
+
+  <div>
+    <div class="detail-section-title ui-copy" data-copy-key="classification">Classification</div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="medicinal_use">Medicinal Use</div>
+      <div class="use-value">{{ record.medicinal_label }}</div>
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="scientific_name">Scientific Name</div>
+      <div class="scientific-display">{{ record.scientific_name }}</div>
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="taxonomic_status">Taxonomic Status</div>
+      <div>{{ record.taxonomic_status or 'accepted' }}</div>
+    </div>
+    <div class="detail-row governance-box">
+      <div class="detail-label ui-copy" data-copy-key="record_governance">Record Governance</div>
+      <div class="record-governance-copy">{{ boundary_message(record.access_key) }}</div>
+      <div class="governance-helper">This page makes access boundaries visible at both the record and assertion level.</div>
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="record_uri">Record URI</div>
+      <div><a href="{{ record.record_uri }}" class="mono-link">{{ record.record_uri }}</a></div>
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="html_page">Public HTML Page</div>
+      <div><a href="{{ record.html_public_url }}" class="mono-link">{{ record.html_public_url }}</a></div>
+    </div>
+    <div class="detail-row">
+      <div class="detail-label ui-copy" data-copy-key="vocabulary">Vocabulary</div>
+      <div><a href="{{ vocab_page }}" class="mono-link">iroko-ewe ↗</a></div>
+    </div>
+  </div>
+</div>
+
+<div class="plant-nav">
+  {% if previous_record %}<a href="{{ previous_record.identifier }}.html">← {{ previous_record.identifier }}</a>{% else %}<span></span>{% endif %}
+  <a href="../index.html" class="ui-copy" data-copy-key="all_plants">All Plants</a>
+  {% if next_record %}<a href="{{ next_record.identifier }}.html">{{ next_record.identifier }} · <span class="ui-copy" data-copy-key="next">Next</span> →</a>{% else %}<span></span>{% endif %}
+</div>
+{% endblock %}

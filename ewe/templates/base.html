@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site_title }} — {{ org_name }}">
+  <title>{% block title %}{{ site_title }} — {{ org_name }}{% endblock %}</title>
+  <link rel="canonical" href="{{ site_url ~ '/' ~ record.page_url if record is defined else site_url ~ '/index.html' }}">
+  <meta name="generator" content="build_ewe.py">
+  <meta name="build-dataset" content="{{ dataset_filename }}">
+  <meta name="build-version" content="{{ dataset_version }}">
+  <meta name="build-timestamp" content="{{ build_timestamp }}">
+  <link rel="stylesheet" href="{{ 'assets/styles.css' if record is not defined else '../assets/styles.css' }}">
+  {% if record is defined %}
+  <script type="application/ld+json">{{ record.visible_jsonld | tojson(indent=2) }}</script>
+  {% endif %}
+  <script>window.EWE_UI_COPY = {{ ui | tojson }};</script>
+</head>
+<body>
+  <div class="site-shell">
+    <div class="topbar">
+      <div class="topbar-left">{{ org_name }}</div>
+      <div class="topbar-right">
+        <a href="{{ vocab_page }}">{{ top_bar_framework_label }}</a>
+        <a href="https://www.irokosociety.org/">{{ external_site_label }}</a>
+      </div>
+    </div>
+    {% block page_content %}{% endblock %}
+    <footer class="site-footer">
+      <div class="footer-left">
+        <div>{{ footer_tagline }}</div>
+        <div>Built from {{ dataset_filename }} · {{ build_date }}</div>
+        <div>{{ sources_line }}</div>
+      </div>
+      <div class="footer-links">
+        <a href="{{ vocab_page }}">Vocabulary</a>
+        <a href="{{ namespace_uri }}">Namespace</a>
+      </div>
+    </footer>
+  </div>
+  <script src="{{ 'assets/app.js' if record is not defined else '../assets/app.js' }}"></script>
+</body>
+</html>

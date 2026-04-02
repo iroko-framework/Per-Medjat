@@ -1,0 +1,1888 @@
+[
+  {
+    "identifier": "Plant0013",
+    "pref_label": "ROMERILLO",
+    "scientific_name": "Bidens pilosa",
+    "page_url": "plant/Plant0013.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0013",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0013.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "ROMERILLO",
+        "Ciambu",
+        "Zegwi"
+      ],
+      "en": [
+        "Spanish Needles",
+        "BEGGAR'S TICKS",
+        "agulha Peru - Cadillo"
+      ],
+      "yo": [
+        "Agáràn mọ́yàn",
+        "Ajísọmọbíàlà",
+        "Ọya",
+        "Àbẹ́rẹ́ olókò",
+        "Agbéde dúdú oko",
+        "Malángánrán",
+        "Ẹlẹ́sìn màsò",
+        "Agámàyàn",
+        "Akẹ́sìn màsò"
+      ],
+      "pt": [
+        "Carrapicho",
+        "Picao Preto"
+      ]
+    },
+    "search_text": "plant0013 romerillo bidens pilosa accepted romerillo ciambu zegwi spanish needles beggar's ticks agulha peru - cadillo agáràn mọ́yàn ajísọmọbíàlà ọya àbẹ́rẹ́ olókò agbéde dúdú oko malángánrán ẹlẹ́sìn màsò agámàyàn akẹ́sìn màsò carrapicho picao preto",
+    "search_text_ascii": "plant0013 romerillo bidens pilosa accepted romerillo ciambu zegwi spanish needles beggar's ticks agulha peru - cadillo agaran moyan ajisomobiala oya abere oloko agbede dudu oko malanganran elesin maso agamayan akesin maso carrapicho picao preto"
+  },
+  {
+    "identifier": "Plant0005",
+    "pref_label": "CEBOLLA",
+    "scientific_name": "Allium cepa",
+    "page_url": "plant/Plant0005.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0005",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0005.html",
+    "access": "Limited – Elder Initiated",
+    "access_key": "access-initiated-elder",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "CEBOLLA",
+        "Molabo"
+      ],
+      "yo": [
+        "Alùbọ́sà kẹ́tà",
+        "Ẹ̀lùbọ́sà",
+        "Alùbọ́sà Gàmbàrì",
+        "Alùbọ́sà"
+      ],
+      "ht": [
+        "Oignon"
+      ],
+      "en": [
+        "ONION"
+      ]
+    },
+    "search_text": "plant0005 cebolla allium cepa accepted cebolla molabo alùbọ́sà kẹ́tà ẹ̀lùbọ́sà alùbọ́sà gàmbàrì alùbọ́sà oignon onion",
+    "search_text_ascii": "plant0005 cebolla allium cepa accepted cebolla molabo alubosa keta elubosa alubosa gambari alubosa oignon onion"
+  },
+  {
+    "identifier": "Plant0019",
+    "pref_label": "AJI CHILE",
+    "scientific_name": "Capsicum annuum",
+    "page_url": "plant/Plant0019.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0019",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0019.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "AJI CHILE",
+        "Kualay. Inkako",
+        "Kindungo"
+      ],
+      "yo": [
+        "Ata àbáláyé",
+        "Alá jíjẹ",
+        "Ata gbásẹ́jọ",
+        "Kòrúukò",
+        "Ata àbúrèkú",
+        "Ata àbáìjọsí",
+        "Ata ìṣẹǹbáyé"
+      ],
+      "en": [
+        "CAYENNE PEPPER",
+        "Sweet pepper"
+      ]
+    },
+    "search_text": "plant0019 aji chile capsicum annuum accepted aji chile kualay. inkako kindungo ata àbáláyé alá jíjẹ ata gbásẹ́jọ kòrúukò ata àbúrèkú ata àbáìjọsí ata ìṣẹǹbáyé cayenne pepper sweet pepper",
+    "search_text_ascii": "plant0019 aji chile capsicum annuum accepted aji chile kualay. inkako kindungo ata abalaye ala jije ata gbasejo koruuko ata abureku ata abaijosi ata isenbaye cayenne pepper sweet pepper"
+  },
+  {
+    "identifier": "Plant0018",
+    "pref_label": "ARBOL DE LA CERA",
+    "scientific_name": "Calotropis procera",
+    "page_url": "plant/Plant0018.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0018",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0018.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "Respiratory Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "ARBOL DE LA CERA",
+        "Arbol de sebo",
+        "Arrayan.",
+        "wax",
+        "Masere",
+        "arraigan.",
+        "Candleberry",
+        "wax wood. myrtle.",
+        "southern myrtle"
+      ],
+      "yo": [
+        "Bọ̀múbọ̀mú"
+      ],
+      "en": [
+        "SOUTHERN BAYBERRY",
+        "Jamaica - Waxberry"
+      ]
+    },
+    "search_text": "plant0018 arbol de la cera calotropis procera accepted arbol de la cera arbol de sebo arrayan. wax masere arraigan. candleberry wax wood. myrtle. southern myrtle bọ̀múbọ̀mú southern bayberry jamaica - waxberry",
+    "search_text_ascii": "plant0018 arbol de la cera calotropis procera accepted arbol de la cera arbol de sebo arrayan. wax masere arraigan. candleberry wax wood. myrtle. southern myrtle bomubomu southern bayberry jamaica - waxberry"
+  },
+  {
+    "identifier": "Plant0004",
+    "pref_label": "AROMA AMARILLA U OLOROSA",
+    "scientific_name": "Acacia farnesiana",
+    "page_url": "plant/Plant0004.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0004",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0004.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "AROMA AMARILLA U OLOROSA",
+        "Cuji",
+        "Cachito de aroma",
+        "Aroma",
+        "Sunsumie"
+      ],
+      "ht": [
+        "Gren'n l'Eglise",
+        "Lyan'n Réglisse",
+        "Réglisse"
+      ],
+      "en": [
+        "SWEET ACACIA",
+        "Colombia - Aromo",
+        "Costa Rica",
+        "Philippines",
+        "Graine-Réglisse Mexico",
+        "Espino blanco",
+        "Uruguay – Espinillo Lyan'n L'Église",
+        "Nicaragua",
+        "Argentina",
+        "Peru"
+      ],
+      "yo": [
+        "Bọ́nní",
+        "Bànì"
+      ]
+    },
+    "search_text": "plant0004 aroma amarilla u olorosa acacia farnesiana accepted aroma amarilla u olorosa cuji cachito de aroma aroma sunsumie gren'n l'eglise lyan'n réglisse réglisse sweet acacia colombia - aromo costa rica philippines graine-réglisse mexico espino blanco uruguay – espinillo lyan'n l'église nicaragua argentina peru bọ́nní bànì",
+    "search_text_ascii": "plant0004 aroma amarilla u olorosa acacia farnesiana accepted aroma amarilla u olorosa cuji cachito de aroma aroma sunsumie gren'n l'eglise lyan'n reglisse reglisse sweet acacia colombia - aromo costa rica philippines graine-reglisse mexico espino blanco uruguay – espinillo lyan'n l'eglise nicaragua argentina peru bonni bani"
+  },
+  {
+    "identifier": "Plant0045",
+    "pref_label": "ESPIGELIA",
+    "scientific_name": "Spigelia anthelmia",
+    "page_url": "plant/Plant0045.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0045",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0045.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "ESPIGELIA",
+        "Yerba lombricera."
+      ],
+      "en": [
+        "West Indian Pinkroot",
+        "Worm bush",
+        "PINKROOT"
+      ],
+      "yo": [
+        "Ewé àrán"
+      ]
+    },
+    "search_text": "plant0045 espigelia spigelia anthelmia accepted espigelia yerba lombricera. west indian pinkroot worm bush pinkroot ewé àrán",
+    "search_text_ascii": "plant0045 espigelia spigelia anthelmia accepted espigelia yerba lombricera. west indian pinkroot worm bush pinkroot ewe aran"
+  },
+  {
+    "identifier": "Plant0030",
+    "pref_label": "PIÑON DE BOTIJA",
+    "scientific_name": "Jatropha curcas",
+    "page_url": "plant/Plant0030.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0030",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0030.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "PIÑON DE BOTIJA",
+        "Piñón de botija, piñon de cercas",
+        "Tempate",
+        "Tempacte",
+        "Piñón de Indias, Sangreado, piñoncillo",
+        "Puluka, Masorosi",
+        "Tapate, coquillo",
+        "Tártago, piñon, piñon purgante",
+        "Coquillo",
+        "Cotoncillo"
+      ],
+      "yo": [
+        "Ewé ìbọ̀",
+        "Bọ̀tújẹ́",
+        "Lóbọ̀tújẹ́",
+        "Ìyálóde",
+        "Olóbọ̀ntújẹ́",
+        "Lápálápà",
+        "Bọ̀tújẹ́ úbọ̀"
+      ],
+      "pt": [
+        "Piao, Piao branco, pinhao bravo"
+      ],
+      "en": [
+        "PHYSIC NUT",
+        "Barbados nut, purge nut, curcasbean"
+      ],
+      "ht": [
+        "Médicinier, médicinier béni, Medsinyen batà, Médecinier Rouge, Bois-Ortolan, Graine Ortolan, Zèb Zotolan, Petit Medecinier"
+      ]
+    },
+    "search_text": "plant0030 piñon de botija jatropha curcas accepted piñon de botija piñón de botija, piñon de cercas tempate tempacte piñón de indias, sangreado, piñoncillo puluka, masorosi tapate, coquillo tártago, piñon, piñon purgante coquillo cotoncillo ewé ìbọ̀ bọ̀tújẹ́ lóbọ̀tújẹ́ ìyálóde olóbọ̀ntújẹ́ lápálápà bọ̀tújẹ́ úbọ̀ piao, piao branco, pinhao bravo physic nut barbados nut, purge nut, curcasbean médicinier, médicinier béni, medsinyen batà, médecinier rouge, bois-ortolan, graine ortolan, zèb zotolan, petit medecinier",
+    "search_text_ascii": "plant0030 pinon de botija jatropha curcas accepted pinon de botija pinon de botija, pinon de cercas tempate tempacte pinon de indias, sangreado, pinoncillo puluka, masorosi tapate, coquillo tartago, pinon, pinon purgante coquillo cotoncillo ewe ibo botuje lobotuje iyalode olobontuje lapalapa botuje ubo piao, piao branco, pinhao bravo physic nut barbados nut, purge nut, curcasbean medicinier, medicinier beni, medsinyen bata, medecinier rouge, bois-ortolan, graine ortolan, zeb zotolan, petit medecinier"
+  },
+  {
+    "identifier": "Plant0039",
+    "pref_label": "GUAYABA",
+    "scientific_name": "Psidium guajava",
+    "page_url": "plant/Plant0039.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0039",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0039.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "GUAYABA",
+        "Guayabo",
+        "Guayaba de Venado",
+        "Guayaba de gusano"
+      ],
+      "yo": [
+        "Gúàfà",
+        "Gúròbà",
+        "Gúàbà",
+        "Gúròfà"
+      ],
+      "en": [
+        "Guayaba perulera",
+        "GUAVA"
+      ],
+      "ht": [
+        "Gouyav",
+        "Grivav",
+        "Goyav"
+      ]
+    },
+    "search_text": "plant0039 guayaba psidium guajava accepted guayaba guayabo guayaba de venado guayaba de gusano gúàfà gúròbà gúàbà gúròfà guayaba perulera guava gouyav grivav goyav",
+    "search_text_ascii": "plant0039 guayaba psidium guajava accepted guayaba guayabo guayaba de venado guayaba de gusano guafa guroba guaba gurofa guayaba perulera guava gouyav grivav goyav"
+  },
+  {
+    "identifier": "Plant0001",
+    "pref_label": "Iròkò",
+    "scientific_name": "Milicia excelsa",
+    "page_url": "plant/Plant0001.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0001",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0001.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Cosmological / Symbolic",
+    "medicinal_use": "Respiratory Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "yo": [
+        "Iròkò",
+        "Iròkò ńlá (hon.)",
+        "Iròkò èwọ̀",
+        "Èrò iròkò",
+        "Iròkò aládé oko",
+        "Ìràwé igbó"
+      ],
+      "en": [
+        "African Teak"
+      ],
+      "es": [
+        "God Tree"
+      ]
+    },
+    "search_text": "plant0001 iròkò milicia excelsa accepted iròkò iròkò ńlá (hon.) iròkò èwọ̀ èrò iròkò iròkò aládé oko ìràwé igbó african teak god tree",
+    "search_text_ascii": "plant0001 iroko milicia excelsa accepted iroko iroko nla (hon.) iroko ewo ero iroko iroko alade oko irawe igbo african teak god tree"
+  },
+  {
+    "identifier": "Plant0036",
+    "pref_label": "AZUCARITO",
+    "scientific_name": "Paullinia pinnata",
+    "page_url": "plant/Plant0036.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0036",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0036.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "AZUCARITO",
+        "Bejuco de costilla",
+        "Barbasco",
+        "bejuquillo",
+        "British Antilles - Bread-and-cheese matancero",
+        "Bejuco",
+        "Chilmecate",
+        "Bejuco de vieja",
+        "Nistamil",
+        "Azucarillo"
+      ],
+      "en": [
+        "Bejuco de",
+        "BREAD-AND-CHEESE",
+        "Bejuco de Indio (Santiago de Cuba) paloma",
+        "Supple jack"
+      ],
+      "yo": [
+        "Lágọ́lágọ́",
+        "Ọ̀gbé okújẹ̀",
+        "Kákásẹ́mí ṣọ́lá awòmí",
+        "Kákásẹ́nlà"
+      ]
+    },
+    "search_text": "plant0036 azucarito paullinia pinnata accepted azucarito bejuco de costilla barbasco bejuquillo british antilles - bread-and-cheese matancero bejuco chilmecate bejuco de vieja nistamil azucarillo bejuco de bread-and-cheese bejuco de indio (santiago de cuba) paloma supple jack lágọ́lágọ́ ọ̀gbé okújẹ̀ kákásẹ́mí ṣọ́lá awòmí kákásẹ́nlà",
+    "search_text_ascii": "plant0036 azucarito paullinia pinnata accepted azucarito bejuco de costilla barbasco bejuquillo british antilles - bread-and-cheese matancero bejuco chilmecate bejuco de vieja nistamil azucarillo bejuco de bread-and-cheese bejuco de indio (santiago de cuba) paloma supple jack lagolago ogbe okuje kakasemi sola awomi kakasenla"
+  },
+  {
+    "identifier": "Plant0028",
+    "pref_label": "MARPACIFICO",
+    "scientific_name": "Hibiscus sp.",
+    "page_url": "plant/Plant0028.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0028",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0028.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "MARPACIFICO",
+        "Clavel japonés.",
+        "pavón",
+        "Chinese-rose.",
+        "carta abierta",
+        "Amapola",
+        "Tulipán",
+        "flor de chivo",
+        "Resucitó",
+        "hibisco. Virgin Islands - Chinese-rose",
+        "Papo",
+        "candelá",
+        "Borrachona",
+        "leche de Venus",
+        "Shoublak",
+        "malva de china",
+        "amapola",
+        "papoula.",
+        "Campana",
+        "marimoña",
+        "cupido",
+        "mar serena",
+        "guasintón",
+        "Resplandor"
+      ],
+      "yo": [
+        "Maníjẹ̀"
+      ],
+      "en": [
+        "HIBISCUS",
+        "sangre de adonis. Dominican Republic - Sangre de Cristo",
+        "Chinese hibiscus",
+        "cayena. Hawaii -Red hibiscus. Jamaica - Shoe-black candelada"
+      ]
+    },
+    "search_text": "plant0028 marpacifico hibiscus sp. accepted marpacifico clavel japonés. pavón chinese-rose. carta abierta amapola tulipán flor de chivo resucitó hibisco. virgin islands - chinese-rose papo candelá borrachona leche de venus shoublak malva de china amapola papoula. campana marimoña cupido mar serena guasintón resplandor maníjẹ̀ hibiscus sangre de adonis. dominican republic - sangre de cristo chinese hibiscus cayena. hawaii -red hibiscus. jamaica - shoe-black candelada",
+    "search_text_ascii": "plant0028 marpacifico hibiscus sp. accepted marpacifico clavel japones. pavon chinese-rose. carta abierta amapola tulipan flor de chivo resucito hibisco. virgin islands - chinese-rose papo candela borrachona leche de venus shoublak malva de china amapola papoula. campana marimona cupido mar serena guasinton resplandor manije hibiscus sangre de adonis. dominican republic - sangre de cristo chinese hibiscus cayena. hawaii -red hibiscus. jamaica - shoe-black candelada"
+  },
+  {
+    "identifier": "Plant0048",
+    "pref_label": "OFON",
+    "scientific_name": "Vitex doniana",
+    "page_url": "plant/Plant0048.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0048",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0048.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "yo": [
+        "OFON",
+        "Òrì ọ̀dàn",
+        "Òrì",
+        "Òrì ńlá"
+      ],
+      "en": [
+        "BLACK PLUM"
+      ],
+      "es": [
+        "Ofón"
+      ]
+    },
+    "search_text": "plant0048 ofon vitex doniana accepted ofon òrì ọ̀dàn òrì òrì ńlá black plum ofón",
+    "search_text_ascii": "plant0048 ofon vitex doniana accepted ofon ori odan ori ori nla black plum ofon"
+  },
+  {
+    "identifier": "Plant0038",
+    "pref_label": "ANAMU",
+    "scientific_name": "Petiveria alliacea",
+    "page_url": "plant/Plant0038.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0038",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0038.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Rites of Transition",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "ANAMU",
+        "hierba de las gallinitas",
+        "Namu",
+        "hispasina",
+        "Ipacina",
+        "Mapurite",
+        "Zorrillo"
+      ],
+      "yo": [
+        "Ojúsàjú"
+      ],
+      "ht": [
+        "Fèy Ave"
+      ],
+      "en": [
+        "Apazote zorro",
+        "Argentina – Pipí",
+        "GUINEA HEN WEED"
+      ]
+    },
+    "search_text": "plant0038 anamu petiveria alliacea accepted anamu hierba de las gallinitas namu hispasina ipacina mapurite zorrillo ojúsàjú fèy ave apazote zorro argentina – pipí guinea hen weed",
+    "search_text_ascii": "plant0038 anamu petiveria alliacea accepted anamu hierba de las gallinitas namu hispasina ipacina mapurite zorrillo ojusaju fey ave apazote zorro argentina – pipi guinea hen weed"
+  },
+  {
+    "identifier": "Plant0046",
+    "pref_label": "JOBO",
+    "scientific_name": "Spondias mombin",
+    "page_url": "plant/Plant0046.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0046",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0046.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "JOBO",
+        "sismoyo",
+        "Ciruela de Méjico",
+        "Jobito",
+        "ciruela del",
+        "jobo francés",
+        "Jobo",
+        "Jobo hembra",
+        "Obo",
+        "ciruela calentana",
+        "spanish"
+      ],
+      "yo": [
+        "Olóṣàn",
+        "Ìyẹ̀yẹ́",
+        "Ọ̀kíkà",
+        "Iléwò olóṣàn",
+        "Ẹ̀kíkà"
+      ],
+      "en": [
+        "Jocote tronador",
+        "Arada - Akuko país plum",
+        "Java plum",
+        "Grengerengue kunansieto",
+        "HUG PLUM",
+        "tropical plum"
+      ],
+      "pt": [
+        "Cajazeira"
+      ]
+    },
+    "search_text": "plant0046 jobo spondias mombin accepted jobo sismoyo ciruela de méjico jobito ciruela del jobo francés jobo jobo hembra obo ciruela calentana spanish olóṣàn ìyẹ̀yẹ́ ọ̀kíkà iléwò olóṣàn ẹ̀kíkà jocote tronador arada - akuko país plum java plum grengerengue kunansieto hug plum tropical plum cajazeira",
+    "search_text_ascii": "plant0046 jobo spondias mombin accepted jobo sismoyo ciruela de mejico jobito ciruela del jobo frances jobo jobo hembra obo ciruela calentana spanish olosan iyeye okika ilewo olosan ekika jocote tronador arada - akuko pais plum java plum grengerengue kunansieto hug plum tropical plum cajazeira"
+  },
+  {
+    "identifier": "Plant0037",
+    "pref_label": "YERBA DE LA PLATA",
+    "scientific_name": "Peperomia pellucida",
+    "page_url": "plant/Plant0037.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0037",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0037.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Cosmological / Symbolic",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "YERBA DE LA PLATA",
+        "Paloma.",
+        "Yerba de la plata",
+        "Corazon de",
+        "Yerba Pelu",
+        "man-to-man",
+        "Salade Soldat",
+        "rat-ear."
+      ],
+      "en": [
+        "SHINY BUSH",
+        "Pepper elder"
+      ],
+      "yo": [
+        "Rínrín"
+      ],
+      "ht": [
+        "Zèb-Kourès"
+      ]
+    },
+    "search_text": "plant0037 yerba de la plata peperomia pellucida accepted yerba de la plata paloma. yerba de la plata corazon de yerba pelu man-to-man salade soldat rat-ear. shiny bush pepper elder rínrín zèb-kourès",
+    "search_text_ascii": "plant0037 yerba de la plata peperomia pellucida accepted yerba de la plata paloma. yerba de la plata corazon de yerba pelu man-to-man salade soldat rat-ear. shiny bush pepper elder rinrin zeb-koures"
+  },
+  {
+    "identifier": "Plant0007",
+    "pref_label": "BLEDO ESPINOSO",
+    "scientific_name": "Amaranthus spinosus",
+    "page_url": "plant/Plant0007.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0007",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0007.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "BLEDO ESPINOSO",
+        "Wild Spinache",
+        "Pigweed",
+        "Amaranth"
+      ],
+      "ht": [
+        "Zepina-Kabrit",
+        "Zepina-à-Shyen",
+        "Zepina-Rouj",
+        "Zepina-Koshon",
+        "Zepina-Pikan"
+      ],
+      "yo": [
+        "Tẹ́tẹ́ oyìbó",
+        "Tẹ́tẹ́ ńlá",
+        "Tẹ́tẹ́gun dérú olákálẹ̀",
+        "Tẹ́tẹ́ pọ̀pò",
+        "Tẹ́tẹ́ gbọ̀lọ́gì",
+        "Tẹ́tẹ́ oyágadé",
+        "Tẹ́tẹ́ kékeré",
+        "Tẹ́tẹ́ ọ̀sàn"
+      ],
+      "en": [
+        "SPINY AMARANTH"
+      ]
+    },
+    "search_text": "plant0007 bledo espinoso amaranthus spinosus accepted bledo espinoso wild spinache pigweed amaranth zepina-kabrit zepina-à-shyen zepina-rouj zepina-koshon zepina-pikan tẹ́tẹ́ oyìbó tẹ́tẹ́ ńlá tẹ́tẹ́gun dérú olákálẹ̀ tẹ́tẹ́ pọ̀pò tẹ́tẹ́ gbọ̀lọ́gì tẹ́tẹ́ oyágadé tẹ́tẹ́ kékeré tẹ́tẹ́ ọ̀sàn spiny amaranth",
+    "search_text_ascii": "plant0007 bledo espinoso amaranthus spinosus accepted bledo espinoso wild spinache pigweed amaranth zepina-kabrit zepina-a-shyen zepina-rouj zepina-koshon zepina-pikan tete oyibo tete nla tetegun deru olakale tete popo tete gbologi tete oyagade tete kekere tete osan spiny amaranth"
+  },
+  {
+    "identifier": "Plant0008",
+    "pref_label": "BLEDO BLANCO",
+    "scientific_name": "Amaranthus viridis",
+    "page_url": "plant/Plant0008.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0008",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0008.html",
+    "access": "Limited – Initiated Only",
+    "access_key": "access-initiated-only",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "BLEDO BLANCO",
+        "Blero",
+        "Bledo",
+        "espinaca."
+      ],
+      "yo": [
+        "Tẹ́tẹ́ ńlá",
+        "Tẹ́tẹ́ ẹ̀gúndò",
+        "Tẹ́tẹ́ pọ̀pò",
+        "Tẹ́tẹ́ ọ̀sàn",
+        "Tẹ́tẹ́ oyágadé",
+        "Tẹ́tẹ́ elẹ́gún",
+        "Tẹ́tẹ́ oyìbó",
+        "Tẹ́tẹ́ ẹ̀gún",
+        "Tẹ́tẹ́gun dérú olákálẹ̀",
+        "Tẹ́tẹ́ kékeré",
+        "Tẹ́tẹ́ atèlẹ̀ dàǹtì",
+        "Tẹ́tẹ́ gbọ̀lọ́gì"
+      ],
+      "en": [
+        "SLENDER AMARANTH",
+        "Bledo manso",
+        "Green calalu"
+      ]
+    },
+    "search_text": "plant0008 bledo blanco amaranthus viridis accepted bledo blanco blero bledo espinaca. tẹ́tẹ́ ńlá tẹ́tẹ́ ẹ̀gúndò tẹ́tẹ́ pọ̀pò tẹ́tẹ́ ọ̀sàn tẹ́tẹ́ oyágadé tẹ́tẹ́ elẹ́gún tẹ́tẹ́ oyìbó tẹ́tẹ́ ẹ̀gún tẹ́tẹ́gun dérú olákálẹ̀ tẹ́tẹ́ kékeré tẹ́tẹ́ atèlẹ̀ dàǹtì tẹ́tẹ́ gbọ̀lọ́gì slender amaranth bledo manso green calalu",
+    "search_text_ascii": "plant0008 bledo blanco amaranthus viridis accepted bledo blanco blero bledo espinaca. tete nla tete egundo tete popo tete osan tete oyagade tete elegun tete oyibo tete egun tetegun deru olakale tete kekere tete atele danti tete gbologi slender amaranth bledo manso green calalu"
+  },
+  {
+    "identifier": "Plant0009",
+    "pref_label": "BAGA",
+    "scientific_name": "Annona glabra",
+    "page_url": "plant/Plant0009.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0009",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0009.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "BAGA",
+        "Baga",
+        "palo de",
+        "Cayur",
+        "Anón liso",
+        "Anoncillo",
+        "guanábano cimarrón",
+        "baga",
+        "guanábana cimarrona Ecuador - Anona del campo corcho. guanábano cimarrón",
+        "arbol de corcho",
+        "mammier",
+        "Corcho",
+        "Mayos",
+        "corazón cimarrón",
+        "Chona",
+        "Anón de puerco",
+        "chirimoya",
+        "cimarrona",
+        "anón. cimarrona",
+        "guanábano bobo.",
+        "guanábana",
+        "Guanábana silvestre",
+        "Carossol marrón",
+        "anon de río",
+        "Palo bobo",
+        "mammon de perro"
+      ],
+      "en": [
+        "custard apple",
+        "cimarrona. Dominican Republic – Guanábano de corcho",
+        "POND APPLE",
+        "Alligator apple"
+      ],
+      "yo": [
+        "Àfẹ́"
+      ],
+      "pt": [
+        "Araticum do brejo"
+      ]
+    },
+    "search_text": "plant0009 baga annona glabra accepted baga baga palo de cayur anón liso anoncillo guanábano cimarrón baga guanábana cimarrona ecuador - anona del campo corcho. guanábano cimarrón arbol de corcho mammier corcho mayos corazón cimarrón chona anón de puerco chirimoya cimarrona anón. cimarrona guanábano bobo. guanábana guanábana silvestre carossol marrón anon de río palo bobo mammon de perro custard apple cimarrona. dominican republic – guanábano de corcho pond apple alligator apple àfẹ́ araticum do brejo",
+    "search_text_ascii": "plant0009 baga annona glabra accepted baga baga palo de cayur anon liso anoncillo guanabano cimarron baga guanabana cimarrona ecuador - anona del campo corcho. guanabano cimarron arbol de corcho mammier corcho mayos corazon cimarron chona anon de puerco chirimoya cimarrona anon. cimarrona guanabano bobo. guanabana guanabana silvestre carossol marron anon de rio palo bobo mammon de perro custard apple cimarrona. dominican republic – guanabano de corcho pond apple alligator apple afe araticum do brejo"
+  },
+  {
+    "identifier": "Plant0025",
+    "pref_label": "COCOTERO",
+    "scientific_name": "Cocos nucifera",
+    "page_url": "plant/Plant0025.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0025",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0025.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "COCOTERO",
+        "Kumelenga",
+        "Sandu",
+        "Palma de Coco",
+        "Cocotero"
+      ],
+      "en": [
+        "COCONUT"
+      ],
+      "yo": [
+        "Àgbọn"
+      ],
+      "ht": [
+        "Kokoye"
+      ]
+    },
+    "search_text": "plant0025 cocotero cocos nucifera accepted cocotero kumelenga sandu palma de coco cocotero coconut àgbọn kokoye",
+    "search_text_ascii": "plant0025 cocotero cocos nucifera accepted cocotero kumelenga sandu palma de coco cocotero coconut agbon kokoye"
+  },
+  {
+    "identifier": "Plant0047",
+    "pref_label": "TAMARINDO",
+    "scientific_name": "Tamarindus indica",
+    "page_url": "plant/Plant0047.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0047",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0047.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Invocation & Communication",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "TAMARINDO",
+        "Arada - Awati",
+        "Tanmarin sí",
+        "Tamarindo"
+      ],
+      "ht": [
+        "Tamarind",
+        "Tamarin"
+      ],
+      "yo": [
+        "Àjàgbọn"
+      ],
+      "en": [
+        "TAMARIND"
+      ]
+    },
+    "search_text": "plant0047 tamarindo tamarindus indica accepted tamarindo arada - awati tanmarin sí tamarindo tamarind tamarin àjàgbọn tamarind",
+    "search_text_ascii": "plant0047 tamarindo tamarindus indica accepted tamarindo arada - awati tanmarin si tamarindo tamarind tamarin ajagbon tamarind"
+  },
+  {
+    "identifier": "Plant0029",
+    "pref_label": "BONIATO",
+    "scientific_name": "Ipomoea batatas",
+    "page_url": "plant/Plant0029.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0029",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0029.html",
+    "access": "Limited – Initiated Only",
+    "access_key": "access-initiated-only",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "BONIATO",
+        "Mbala",
+        "Camote",
+        "Batata da ilha"
+      ],
+      "yo": [
+        "Ànámọ́ yàyà",
+        "Kúkúndúnkú",
+        "Ọ̀dúnkùn",
+        "Ẹ̀dùn-mísí",
+        "Òdìnkìntìn àdínmẹ́"
+      ],
+      "en": [
+        "Dominican Republic – Batata",
+        "SWEET POTATOE"
+      ]
+    },
+    "search_text": "plant0029 boniato ipomoea batatas accepted boniato mbala camote batata da ilha ànámọ́ yàyà kúkúndúnkú ọ̀dúnkùn ẹ̀dùn-mísí òdìnkìntìn àdínmẹ́ dominican republic – batata sweet potatoe",
+    "search_text_ascii": "plant0029 boniato ipomoea batatas accepted boniato mbala camote batata da ilha anamo yaya kukundunku odunkun edun-misi odinkintin adinme dominican republic – batata sweet potatoe"
+  },
+  {
+    "identifier": "Plant0043",
+    "pref_label": "MALVA DE COCHINOS",
+    "scientific_name": "Sida rhombifolia",
+    "page_url": "plant/Plant0043.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0043",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0043.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "MALVA DE COCHINOS",
+        "Paddy's Lucern",
+        "Escobilla",
+        "Huinari",
+        "huinar",
+        "huinare"
+      ],
+      "en": [
+        "JELLY LEAF",
+        "Queensland hemp",
+        "Argentina - Tebincha Dominican Republic – Malva Perú - Limpion",
+        "Escoba amarilla"
+      ],
+      "yo": [
+        "Ìfín",
+        "Ewé ìfín"
+      ]
+    },
+    "search_text": "plant0043 malva de cochinos sida rhombifolia accepted malva de cochinos paddy's lucern escobilla huinari huinar huinare jelly leaf queensland hemp argentina - tebincha dominican republic – malva perú - limpion escoba amarilla ìfín ewé ìfín",
+    "search_text_ascii": "plant0043 malva de cochinos sida rhombifolia accepted malva de cochinos paddy's lucern escobilla huinari huinar huinare jelly leaf queensland hemp argentina - tebincha dominican republic – malva peru - limpion escoba amarilla ifin ewe ifin"
+  },
+  {
+    "identifier": "Plant0044",
+    "pref_label": "PENDEJERA",
+    "scientific_name": "Solanum torvum",
+    "page_url": "plant/Plant0044.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0044",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0044.html",
+    "access": "Limited – Elder Initiated",
+    "access_key": "access-initiated-elder",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "PENDEJERA",
+        "Espina.",
+        "Rapon",
+        "Berenjena cimarrona.",
+        "devil's fig.",
+        "Tomatillo.",
+        "berenjena de gallina",
+        "Zamorette",
+        "Berenjena",
+        "tabacón.",
+        "Milisia",
+        "berenjena",
+        "Prendedera."
+      ],
+      "yo": [
+        "Ìkàn wẹ́wẹ́",
+        "Ìkàn ìgùn",
+        "Ìgbà yínrín elẹ́gún"
+      ],
+      "en": [
+        "cimarrona. Dominican Republic Berenjena cimarrona",
+        "Gully bean",
+        "Friega platos",
+        "TURKEY BERRY"
+      ]
+    },
+    "search_text": "plant0044 pendejera solanum torvum accepted pendejera espina. rapon berenjena cimarrona. devil's fig. tomatillo. berenjena de gallina zamorette berenjena tabacón. milisia berenjena prendedera. ìkàn wẹ́wẹ́ ìkàn ìgùn ìgbà yínrín elẹ́gún cimarrona. dominican republic berenjena cimarrona gully bean friega platos turkey berry",
+    "search_text_ascii": "plant0044 pendejera solanum torvum accepted pendejera espina. rapon berenjena cimarrona. devil's fig. tomatillo. berenjena de gallina zamorette berenjena tabacon. milisia berenjena prendedera. ikan wewe ikan igun igba yinrin elegun cimarrona. dominican republic berenjena cimarrona gully bean friega platos turkey berry"
+  },
+  {
+    "identifier": "Plant0041",
+    "pref_label": "HIGUERETA",
+    "scientific_name": "Ricinus communis",
+    "page_url": "plant/Plant0041.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0041",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0041.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "Skin and Topical Use",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "HIGUERETA",
+        "Palmachristi",
+        "Higuerilla",
+        "Higuera Infernal"
+      ],
+      "en": [
+        "CASTOR BEAN"
+      ],
+      "yo": [
+        "Ìlárùn",
+        "Ìlárà",
+        "Àrà pupa",
+        "Lápálápà adẹ́tẹ̀",
+        "Lárà",
+        "Lárà pupa"
+      ],
+      "ht": [
+        "Maskreti",
+        "Maskriti"
+      ]
+    },
+    "search_text": "plant0041 higuereta ricinus communis accepted higuereta palmachristi higuerilla higuera infernal castor bean ìlárùn ìlárà àrà pupa lápálápà adẹ́tẹ̀ lárà lárà pupa maskreti maskriti",
+    "search_text_ascii": "plant0041 higuereta ricinus communis accepted higuereta palmachristi higuerilla higuera infernal castor bean ilarun ilara ara pupa lapalapa adete lara lara pupa maskreti maskriti"
+  },
+  {
+    "identifier": "Plant0003",
+    "pref_label": "AMBARINA",
+    "scientific_name": "Abelmoschus esculentus",
+    "page_url": "plant/Plant0003.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0003",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0003.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "Skin and Topical Use",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "AMBARINA",
+        "Abelmosco",
+        "Monacillo del río.",
+        "viuda."
+      ],
+      "yo": [
+        "Ìlásadò",
+        "Ẹ̀rúlà (ìrúlà)",
+        "Ìlásà",
+        "Ìlà"
+      ],
+      "en": [
+        "MUSK OKRA"
+      ]
+    },
+    "search_text": "plant0003 ambarina abelmoschus esculentus accepted ambarina abelmosco monacillo del río. viuda. ìlásadò ẹ̀rúlà (ìrúlà) ìlásà ìlà musk okra",
+    "search_text_ascii": "plant0003 ambarina abelmoschus esculentus accepted ambarina abelmosco monacillo del rio. viuda. ilasado erula (irula) ilasa ila musk okra"
+  },
+  {
+    "identifier": "Plant0022",
+    "pref_label": "APASOTE",
+    "scientific_name": "Chenopodium ambrosioides",
+    "page_url": "plant/Plant0022.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0022",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0022.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "APASOTE",
+        "Contra",
+        "Semen",
+        "Herbe-à-Vers",
+        "Epazote",
+        "Ambroisie du Mexique",
+        "Biengranada",
+        "Thé du Mexique"
+      ],
+      "en": [
+        "MEXICAN TEA",
+        "American wormseed"
+      ],
+      "yo": [
+        "Ìmì ìyìn",
+        "Ìṣépẹ̀ àgbẹ̀",
+        "Mántúrúsì",
+        "Mónítúrúsì"
+      ]
+    },
+    "search_text": "plant0022 apasote chenopodium ambrosioides accepted apasote contra semen herbe-à-vers epazote ambroisie du mexique biengranada thé du mexique mexican tea american wormseed ìmì ìyìn ìṣépẹ̀ àgbẹ̀ mántúrúsì mónítúrúsì",
+    "search_text_ascii": "plant0022 apasote chenopodium ambrosioides accepted apasote contra semen herbe-a-vers epazote ambroisie du mexique biengranada the du mexique mexican tea american wormseed imi iyin isepe agbe manturusi moniturusi"
+  },
+  {
+    "identifier": "Plant0006",
+    "pref_label": "SABILA",
+    "scientific_name": "Aloe spp.",
+    "page_url": "plant/Plant0006.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0006",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0006.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "Skin and Topical Use",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "SABILA"
+      ],
+      "yo": [
+        "Ìpà",
+        "Ẹṣíyìn",
+        "Ìjándúdù",
+        "Ẹ̀pà",
+        "Ẹṣin",
+        "Ẹṣin àbàtà",
+        "Ìjándù",
+        "Gbálúwò",
+        "Ìṣín"
+      ],
+      "en": [
+        "ALOE"
+      ]
+    },
+    "search_text": "plant0006 sabila aloe spp. accepted sabila ìpà ẹṣíyìn ìjándúdù ẹ̀pà ẹṣin ẹṣin àbàtà ìjándù gbálúwò ìṣín aloe",
+    "search_text_ascii": "plant0006 sabila aloe spp. accepted sabila ipa esiyin ijandudu epa esin esin abata ijandu gbaluwo isin aloe"
+  },
+  {
+    "identifier": "Plant0021",
+    "pref_label": "HEDIONDA",
+    "scientific_name": "Cassia sp.",
+    "page_url": "plant/Plant0021.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0021",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0021.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "Respiratory Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "HEDIONDA",
+        "pico de pájaro",
+        "chilinchile",
+        "Hierba hedionda",
+        "Pois-puant",
+        "Hierba de la potra",
+        "hierba de",
+        "Brusca",
+        "busca. martinica",
+        "Pico de pajaro",
+        "Frijolillo",
+        "mezquitillo",
+        "gallinazo",
+        "Zépiant",
+        "furrusca",
+        "altera",
+        "Hedionda",
+        "Hediondillo",
+        "brusca Balambala",
+        "comida de murcielago"
+      ],
+      "en": [
+        "SICKLEPOD",
+        "Herbe puante"
+      ],
+      "yo": [
+        "Ìòòṣì",
+        "Ṣèkèsèkè"
+      ]
+    },
+    "search_text": "plant0021 hedionda cassia sp. accepted hedionda pico de pájaro chilinchile hierba hedionda pois-puant hierba de la potra hierba de brusca busca. martinica pico de pajaro frijolillo mezquitillo gallinazo zépiant furrusca altera hedionda hediondillo brusca balambala comida de murcielago sicklepod herbe puante ìòòṣì ṣèkèsèkè",
+    "search_text_ascii": "plant0021 hedionda cassia sp. accepted hedionda pico de pajaro chilinchile hierba hedionda pois-puant hierba de la potra hierba de brusca busca. martinica pico de pajaro frijolillo mezquitillo gallinazo zepiant furrusca altera hedionda hediondillo brusca balambala comida de murcielago sicklepod herbe puante ioosi sekeseke"
+  },
+  {
+    "identifier": "Plant0020",
+    "pref_label": "FRUTABOMBA",
+    "scientific_name": "Carica papaya",
+    "page_url": "plant/Plant0020.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0020",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0020.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "Skin and Topical Use",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "FRUTABOMBA",
+        "Arada – Yipe",
+        "Lechosa",
+        "Melón Zapote",
+        "Papaya"
+      ],
+      "yo": [
+        "Ìṣígin",
+        "Ìbépẹ̀",
+        "Ṣígù",
+        "Gbẹ́gbẹ́rẹ̀",
+        "Ìbépẹ̀ dídì"
+      ],
+      "en": [
+        "PAPAYA",
+        "Sanasse Argentina - Manón Jamaica - Pawpaw"
+      ],
+      "ht": [
+        "Papay"
+      ]
+    },
+    "search_text": "plant0020 frutabomba carica papaya accepted frutabomba arada – yipe lechosa melón zapote papaya ìṣígin ìbépẹ̀ ṣígù gbẹ́gbẹ́rẹ̀ ìbépẹ̀ dídì papaya sanasse argentina - manón jamaica - pawpaw papay",
+    "search_text_ascii": "plant0020 frutabomba carica papaya accepted frutabomba arada – yipe lechosa melon zapote papaya isigin ibepe sigu gbegbere ibepe didi papaya sanasse argentina - manon jamaica - pawpaw papay"
+  },
+  {
+    "identifier": "Plant0015",
+    "pref_label": "SESO VEGETAL",
+    "scientific_name": "Blighia sapida",
+    "page_url": "plant/Plant0015.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0015",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0015.html",
+    "access": "Limited – Elder Initiated",
+    "access_key": "access-initiated-elder",
+    "ritual_use": "Rites of Transition",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "SESO VEGETAL",
+        "arbol del seso.",
+        "Castanheiro do Africa",
+        "bien me sabe",
+        "akee",
+        "Akee de Africa",
+        "vegetable brains"
+      ],
+      "yo": [
+        "Ìṣín ọ̀dàn",
+        "Ìṣín ọ̀ká",
+        "Ìṣín jíjẹ",
+        "Ìṣín"
+      ],
+      "en": [
+        "Huevo vegetal",
+        "Arada - Yowele pan y quesito. U. S. - Akee-tree",
+        "Seso vegetal",
+        "AKEE"
+      ]
+    },
+    "search_text": "plant0015 seso vegetal blighia sapida accepted seso vegetal arbol del seso. castanheiro do africa bien me sabe akee akee de africa vegetable brains ìṣín ọ̀dàn ìṣín ọ̀ká ìṣín jíjẹ ìṣín huevo vegetal arada - yowele pan y quesito. u. s. - akee-tree seso vegetal akee",
+    "search_text_ascii": "plant0015 seso vegetal blighia sapida accepted seso vegetal arbol del seso. castanheiro do africa bien me sabe akee akee de africa vegetable brains isin odan isin oka isin jije isin huevo vegetal arada - yowele pan y quesito. u. s. - akee-tree seso vegetal akee"
+  },
+  {
+    "identifier": "Plant0026",
+    "pref_label": "ESQUENATO",
+    "scientific_name": "Cymbopogon citratus",
+    "page_url": "plant/Plant0026.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0026",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0026.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Cosmological / Symbolic",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "ESQUENATO",
+        "caña de la Meca.",
+        "Caña de limon"
+      ],
+      "yo": [
+        "Ìṣọ́kọ̀",
+        "Ẹ̀tí",
+        "Kòókò ọba",
+        "Ọ̀kọ̀ ọba",
+        "Kọ́ríko oyìnbó",
+        "Kọ́ríko ọba",
+        "Tù"
+      ],
+      "en": [
+        "LEMON GRASS"
+      ]
+    },
+    "search_text": "plant0026 esquenato cymbopogon citratus accepted esquenato caña de la meca. caña de limon ìṣọ́kọ̀ ẹ̀tí kòókò ọba ọ̀kọ̀ ọba kọ́ríko oyìnbó kọ́ríko ọba tù lemon grass",
+    "search_text_ascii": "plant0026 esquenato cymbopogon citratus accepted esquenato cana de la meca. cana de limon isoko eti kooko oba oko oba koriko oyinbo koriko oba tu lemon grass"
+  },
+  {
+    "identifier": "Plant0023",
+    "pref_label": "NARANJA AGRIA",
+    "scientific_name": "Citrus aurantium",
+    "page_url": "plant/Plant0023.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0023",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0023.html",
+    "access": "Limited – Initiated Only",
+    "access_key": "access-initiated-only",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "NARANJA AGRIA",
+        "Orange",
+        "Sour Orange",
+        "Naranja agria",
+        "Gosco (Gwo Po)",
+        "Seville Orange"
+      ],
+      "en": [
+        "sour orange",
+        "sweet orange",
+        "bitter orange"
+      ],
+      "yo": [
+        "Òròmbó mùmù",
+        "Gán-ìn gán-ìn",
+        "Òròmbó",
+        "Ọ̀sàn oyìnbó",
+        "Òròmbó ẹ̀fín",
+        "Òrò díybẹ̀",
+        "Òròmbó dídín",
+        "Ọ̀sàn mùmù",
+        "Òròmbó jagányìn",
+        "Òròmbó lákíẹ̀gbé",
+        "Ọ̀sàn ńlá",
+        "Jagányìn",
+        "Òròmbó ìgùn",
+        "Jagbúrẹ̀"
+      ],
+      "ht": [
+        "Zorany sí",
+        "Zoranj anmè"
+      ]
+    },
+    "search_text": "plant0023 naranja agria citrus aurantium accepted naranja agria orange sour orange naranja agria gosco (gwo po) seville orange sour orange sweet orange bitter orange òròmbó mùmù gán-ìn gán-ìn òròmbó ọ̀sàn oyìnbó òròmbó ẹ̀fín òrò díybẹ̀ òròmbó dídín ọ̀sàn mùmù òròmbó jagányìn òròmbó lákíẹ̀gbé ọ̀sàn ńlá jagányìn òròmbó ìgùn jagbúrẹ̀ zorany sí zoranj anmè",
+    "search_text_ascii": "plant0023 naranja agria citrus aurantium accepted naranja agria orange sour orange naranja agria gosco (gwo po) seville orange sour orange sweet orange bitter orange orombo mumu gan-in gan-in orombo osan oyinbo orombo efin oro diybe orombo didin osan mumu orombo jaganyin orombo lakiegbe osan nla jaganyin orombo igun jagbure zorany si zoranj anme"
+  },
+  {
+    "identifier": "Plant0011",
+    "pref_label": "MANI",
+    "scientific_name": "Arachis hypogaea",
+    "page_url": "plant/Plant0011.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0011",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0011.html",
+    "access": "Limited – Elder Initiated",
+    "access_key": "access-initiated-elder",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "MANI",
+        "Pistache",
+        "Arada – Azo",
+        "Guba",
+        "Cacahuate",
+        "Mindo"
+      ],
+      "pt": [
+        "Amendou Verdadeiro"
+      ],
+      "yo": [
+        "Òrórẹ́ ẹ̀pàdà",
+        "Ẹ̀pà (gidi)"
+      ],
+      "en": [
+        "PEANUT"
+      ]
+    },
+    "search_text": "plant0011 mani arachis hypogaea accepted mani pistache arada – azo guba cacahuate mindo amendou verdadeiro òrórẹ́ ẹ̀pàdà ẹ̀pà (gidi) peanut",
+    "search_text_ascii": "plant0011 mani arachis hypogaea accepted mani pistache arada – azo guba cacahuate mindo amendou verdadeiro orore epada epa (gidi) peanut"
+  },
+  {
+    "identifier": "Plant0034",
+    "pref_label": "ALBAHACA ANISADA",
+    "scientific_name": "Ocimum basilicum",
+    "page_url": "plant/Plant0034.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0034",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0034.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "ALBAHACA ANISADA"
+      ],
+      "en": [
+        "BASIL"
+      ],
+      "yo": [
+        "Ẹ̀fínrín ajá",
+        "Ẹ̀fínrín marúgbọ́sányàn",
+        "Ẹ̀fínrín ata",
+        "Ẹ̀fínrín òtù",
+        "Ẹyẹ́ ọbalẹ̀ ẹ̀fínrín",
+        "Arùntántàn",
+        "Ẹ̀rìyàntẹ́fẹ́",
+        "Ẹ̀fínrín wẹ́wẹ́"
+      ]
+    },
+    "search_text": "plant0034 albahaca anisada ocimum basilicum accepted albahaca anisada basil ẹ̀fínrín ajá ẹ̀fínrín marúgbọ́sányàn ẹ̀fínrín ata ẹ̀fínrín òtù ẹyẹ́ ọbalẹ̀ ẹ̀fínrín arùntántàn ẹ̀rìyàntẹ́fẹ́ ẹ̀fínrín wẹ́wẹ́",
+    "search_text_ascii": "plant0034 albahaca anisada ocimum basilicum accepted albahaca anisada basil efinrin aja efinrin marugbosanyan efinrin ata efinrin otu eye obale efinrin aruntantan eriyantefe efinrin wewe"
+  },
+  {
+    "identifier": "Plant0050",
+    "pref_label": "MAIZ",
+    "scientific_name": "Zea mays",
+    "page_url": "plant/Plant0050.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0050",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0050.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "MAIZ",
+        "Arada – Dli"
+      ],
+      "yo": [
+        "Ẹ̀gún",
+        "Yàngàn",
+        "Ọ̀kà",
+        "Àgbàdo",
+        "Ìgbàdo"
+      ],
+      "ht": [
+        "Mayi"
+      ],
+      "pt": [
+        "Milho"
+      ],
+      "en": [
+        "MAIZE"
+      ]
+    },
+    "search_text": "plant0050 maiz zea mays accepted maiz arada – dli ẹ̀gún yàngàn ọ̀kà àgbàdo ìgbàdo mayi milho maize",
+    "search_text_ascii": "plant0050 maiz zea mays accepted maiz arada – dli egun yangan oka agbado igbado mayi milho maize"
+  },
+  {
+    "identifier": "Plant0002",
+    "pref_label": "CEIBA",
+    "scientific_name": "Ceiba pentandra",
+    "page_url": "plant/Plant0002.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0002",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0002.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "Respiratory Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "CEIBA",
+        "Arada – Wele honsu",
+        "La Ceiba"
+      ],
+      "yo": [
+        "Ẹ̀gún (òwú ẹ̀gún)",
+        "Ọ̀gbùngbùn",
+        "Ẹ̀gúngún-ogun",
+        "Àràbà"
+      ],
+      "ht": [
+        "Fromagier",
+        "Kapokier",
+        "Mapou"
+      ],
+      "en": [
+        "White silk cotton tree",
+        "KAPOK TREE"
+      ]
+    },
+    "search_text": "plant0002 ceiba ceiba pentandra accepted ceiba arada – wele honsu la ceiba ẹ̀gún (òwú ẹ̀gún) ọ̀gbùngbùn ẹ̀gúngún-ogun àràbà fromagier kapokier mapou white silk cotton tree kapok tree",
+    "search_text_ascii": "plant0002 ceiba ceiba pentandra accepted ceiba arada – wele honsu la ceiba egun (owu egun) ogbungbun egungun-ogun araba fromagier kapokier mapou white silk cotton tree kapok tree"
+  },
+  {
+    "identifier": "Plant0031",
+    "pref_label": "YUCA",
+    "scientific_name": "Manihot esculenta",
+    "page_url": "plant/Plant0031.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0031",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0031.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "YUCA",
+        "bagudan Ibagudan",
+        "Nkumbia",
+        "Lukumi – Kokomadoko"
+      ],
+      "yo": [
+        "Ẹ̀gẹ́",
+        "Gbagúdà",
+        "Ẹ̀gẹ́ funfun",
+        "Gbájádà",
+        "Ẹ̀gẹ́ àti",
+        "Ẹ̀gẹ́ káràgbà",
+        "Gbagúdà funfun",
+        "Gbagúdà dàlẹ̀ jọ̀rò",
+        "Ẹ̀gẹ́ olówó-kìntíbọ́",
+        "Ẹ̀gẹ́ òkè",
+        "Gbagúdà pupa",
+        "Lánasẹ́",
+        "Pákì",
+        "Ẹ̀gẹ́ gbókógbaálà"
+      ],
+      "pt": [
+        "mandioka",
+        "Tapioca"
+      ],
+      "en": [
+        "CASSABA"
+      ]
+    },
+    "search_text": "plant0031 yuca manihot esculenta accepted yuca bagudan ibagudan nkumbia lukumi – kokomadoko ẹ̀gẹ́ gbagúdà ẹ̀gẹ́ funfun gbájádà ẹ̀gẹ́ àti ẹ̀gẹ́ káràgbà gbagúdà funfun gbagúdà dàlẹ̀ jọ̀rò ẹ̀gẹ́ olówó-kìntíbọ́ ẹ̀gẹ́ òkè gbagúdà pupa lánasẹ́ pákì ẹ̀gẹ́ gbókógbaálà mandioka tapioca cassaba",
+    "search_text_ascii": "plant0031 yuca manihot esculenta accepted yuca bagudan ibagudan nkumbia lukumi – kokomadoko ege gbaguda ege funfun gbajada ege ati ege karagba gbaguda funfun gbaguda dale joro ege olowo-kintibo ege oke gbaguda pupa lanase paki ege gbokogbaala mandioka tapioca cassaba"
+  },
+  {
+    "identifier": "Plant0027",
+    "pref_label": "YERBA LECHOSA",
+    "scientific_name": "Euphorbia hirta",
+    "page_url": "plant/Plant0027.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0027",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0027.html",
+    "access": "Limited – Initiated Only",
+    "access_key": "access-initiated-only",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "YERBA LECHOSA",
+        "Pilulye",
+        "Malnomen",
+        "Malon'nen",
+        "Yerba lechera Teta de vieja."
+      ],
+      "yo": [
+        "Ẹ̀gẹ́lẹ́"
+      ],
+      "ht": [
+        "Zèb malnomen"
+      ],
+      "pt": [
+        "Erva de Santa Luzia"
+      ],
+      "en": [
+        "ASTHMA WEED"
+      ]
+    },
+    "search_text": "plant0027 yerba lechosa euphorbia hirta accepted yerba lechosa pilulye malnomen malon'nen yerba lechera teta de vieja. ẹ̀gẹ́lẹ́ zèb malnomen erva de santa luzia asthma weed",
+    "search_text_ascii": "plant0027 yerba lechosa euphorbia hirta accepted yerba lechosa pilulye malnomen malon'nen yerba lechera teta de vieja. egele zeb malnomen erva de santa luzia asthma weed"
+  },
+  {
+    "identifier": "Plant0032",
+    "pref_label": "CUNDEAMOR",
+    "scientific_name": "Momordica charantia",
+    "page_url": "plant/Plant0032.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0032",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0032.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Cosmological / Symbolic",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "CUNDEAMOR",
+        "Melao de San Caetano",
+        "Cundeamor",
+        "Cundeamore"
+      ],
+      "en": [
+        "BITTER MELON",
+        "Balsam pear"
+      ],
+      "yo": [
+        "Ẹ̀jìnrìn wẹ́wẹ́"
+      ]
+    },
+    "search_text": "plant0032 cundeamor momordica charantia accepted cundeamor melao de san caetano cundeamor cundeamore bitter melon balsam pear ẹ̀jìnrìn wẹ́wẹ́",
+    "search_text_ascii": "plant0032 cundeamor momordica charantia accepted cundeamor melao de san caetano cundeamor cundeamore bitter melon balsam pear ejinrin wewe"
+  },
+  {
+    "identifier": "Plant0012",
+    "pref_label": "CARDO SANTO",
+    "scientific_name": "Argemone mexicana",
+    "page_url": "plant/Plant0012.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0012",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0012.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "CARDO SANTO",
+        "Chadron Benit",
+        "Chicalote",
+        "Chadron",
+        "ZebChadron",
+        "Zeb-Dragon",
+        "Chadron Marbre"
+      ],
+      "yo": [
+        "Ẹ̀kànnà ẹkùn",
+        "Ẹlẹ́gẹ́",
+        "Ẹ̀gún àrìgbó"
+      ],
+      "en": [
+        "PRICKLY POPPY",
+        "Cando ere",
+        "Mexican Poppy"
+      ]
+    },
+    "search_text": "plant0012 cardo santo argemone mexicana accepted cardo santo chadron benit chicalote chadron zebchadron zeb-dragon chadron marbre ẹ̀kànnà ẹkùn ẹlẹ́gẹ́ ẹ̀gún àrìgbó prickly poppy cando ere mexican poppy",
+    "search_text_ascii": "plant0012 cardo santo argemone mexicana accepted cardo santo chadron benit chicalote chadron zebchadron zeb-dragon chadron marbre ekanna ekun elege egun arigbo prickly poppy cando ere mexican poppy"
+  },
+  {
+    "identifier": "Plant0042",
+    "pref_label": "AJONJOLI",
+    "scientific_name": "Sesamum indicum",
+    "page_url": "plant/Plant0042.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0042",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0042.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "AJONJOLI",
+        "Ndeba",
+        "Arada – Alpiri",
+        "Guanillila",
+        "Wowoli"
+      ],
+      "en": [
+        "SESAME SEED"
+      ],
+      "yo": [
+        "Ẹ̀kú gógóró",
+        "Ẹ̀kú igi",
+        "Yànmọ́tí",
+        "Ọ̀júà",
+        "Àfájọ"
+      ]
+    },
+    "search_text": "plant0042 ajonjoli sesamum indicum accepted ajonjoli ndeba arada – alpiri guanillila wowoli sesame seed ẹ̀kú gógóró ẹ̀kú igi yànmọ́tí ọ̀júà àfájọ",
+    "search_text_ascii": "plant0042 ajonjoli sesamum indicum accepted ajonjoli ndeba arada – alpiri guanillila wowoli sesame seed eku gogoro eku igi yanmoti ojua afajo"
+  },
+  {
+    "identifier": "Plant0010",
+    "pref_label": "GUANABANA",
+    "scientific_name": "Annona muricata",
+    "page_url": "plant/Plant0010.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0010",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0010.html",
+    "access": "Limited – Community Only",
+    "access_key": "access-community-only",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "GUANABANA",
+        "Kowosol",
+        "durian",
+        "Graviola",
+        "nichularafun"
+      ],
+      "en": [
+        "Prickly custard apple",
+        "SOURSOP"
+      ],
+      "yo": [
+        "Ẹ̀kọ́ ọmọde",
+        "Ẹ̀kọ́ oyìnbó"
+      ]
+    },
+    "search_text": "plant0010 guanabana annona muricata accepted guanabana kowosol durian graviola nichularafun prickly custard apple soursop ẹ̀kọ́ ọmọde ẹ̀kọ́ oyìnbó",
+    "search_text_ascii": "plant0010 guanabana annona muricata accepted guanabana kowosol durian graviola nichularafun prickly custard apple soursop eko omode eko oyinbo"
+  },
+  {
+    "identifier": "Plant0016",
+    "pref_label": "PRODIGIOSA",
+    "scientific_name": "Bryophyllum pinnatum",
+    "page_url": "plant/Plant0016.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0016",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0016.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Protection & Boundary",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "PRODIGIOSA",
+        "Arará - Afami bruja. Sanglaou",
+        "hoja",
+        "Siempreviva",
+        "Víbora",
+        "Inmortal",
+        "Lougarou",
+        "Amor tras la puerta",
+        "Bruja",
+        "Colombina",
+        "Sanglou"
+      ],
+      "yo": [
+        "Ẹ̀rù òdúndún",
+        "Abàmọdá",
+        "Kántíkántì",
+        "Òwò",
+        "Ewé òwò",
+        "Kòròpọn"
+      ],
+      "en": [
+        "LIFE EVERLASTING"
+      ],
+      "ht": [
+        "Zèb maltèt",
+        "Fèy Lougarou"
+      ]
+    },
+    "search_text": "plant0016 prodigiosa bryophyllum pinnatum accepted prodigiosa arará - afami bruja. sanglaou hoja siempreviva víbora inmortal lougarou amor tras la puerta bruja colombina sanglou ẹ̀rù òdúndún abàmọdá kántíkántì òwò ewé òwò kòròpọn life everlasting zèb maltèt fèy lougarou",
+    "search_text_ascii": "plant0016 prodigiosa bryophyllum pinnatum accepted prodigiosa arara - afami bruja. sanglaou hoja siempreviva vibora inmortal lougarou amor tras la puerta bruja colombina sanglou eru odundun abamoda kantikanti owo ewe owo koropon life everlasting zeb maltet fey lougarou"
+  },
+  {
+    "identifier": "Plant0035",
+    "pref_label": "YERBA DE GUINEA",
+    "scientific_name": "Panicum maximum",
+    "page_url": "plant/Plant0035.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0035",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0035.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Rites of Transition",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "YERBA DE GUINEA",
+        "Maoma",
+        "Vititi",
+        "Mariare",
+        "Boolongo",
+        "Guinea gigante.",
+        "Herbe de Guinée"
+      ],
+      "yo": [
+        "Ẹ̀rù ọ̀párùn",
+        "Kòókò",
+        "Ìkín ìrùkẹ̀",
+        "Ìkín"
+      ],
+      "en": [
+        "GUINEAGRASS",
+        "Panic grass",
+        "Hamilgrass"
+      ],
+      "ht": [
+        "Zèb-Guinen"
+      ]
+    },
+    "search_text": "plant0035 yerba de guinea panicum maximum accepted yerba de guinea maoma vititi mariare boolongo guinea gigante. herbe de guinée ẹ̀rù ọ̀párùn kòókò ìkín ìrùkẹ̀ ìkín guineagrass panic grass hamilgrass zèb-guinen",
+    "search_text_ascii": "plant0035 yerba de guinea panicum maximum accepted yerba de guinea maoma vititi mariare boolongo guinea gigante. herbe de guinee eru oparun kooko ikin iruke ikin guineagrass panic grass hamilgrass zeb-guinen"
+  },
+  {
+    "identifier": "Plant0049",
+    "pref_label": "PIMIENTA DE GUINEA",
+    "scientific_name": "Xylopia aethiopica",
+    "page_url": "plant/Plant0049.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0049",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0049.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Cosmological / Symbolic",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "PIMIENTA DE GUINEA"
+      ],
+      "yo": [
+        "Ẹ̀rùn-jẹ̀",
+        "Olórìn",
+        "Ẹ́gò",
+        "Ẹ̀rù",
+        "Ìgò"
+      ],
+      "en": [
+        "GUINEA PEPPER"
+      ]
+    },
+    "search_text": "plant0049 pimienta de guinea xylopia aethiopica accepted pimienta de guinea ẹ̀rùn-jẹ̀ olórìn ẹ́gò ẹ̀rù ìgò guinea pepper",
+    "search_text_ascii": "plant0049 pimienta de guinea xylopia aethiopica accepted pimienta de guinea erun-je olorin ego eru igo guinea pepper"
+  },
+  {
+    "identifier": "Plant0040",
+    "pref_label": "PISCUALA",
+    "scientific_name": "Quisqualis indica",
+    "page_url": "plant/Plant0040.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0040",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0040.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Offering & Devotion",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "PISCUALA"
+      ],
+      "yo": [
+        "Ọ̀gàn funfun",
+        "Ọ̀gàn igbó"
+      ],
+      "en": [
+        "RANGOON CREEPER"
+      ]
+    },
+    "search_text": "plant0040 piscuala quisqualis indica accepted piscuala ọ̀gàn funfun ọ̀gàn igbó rangoon creeper",
+    "search_text_ascii": "plant0040 piscuala quisqualis indica accepted piscuala ogan funfun ogan igbo rangoon creeper"
+  },
+  {
+    "identifier": "Plant0033",
+    "pref_label": "PLATANO",
+    "scientific_name": "Musa paradisiaca",
+    "page_url": "plant/Plant0033.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0033",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0033.html",
+    "access": "Public – Unrestricted",
+    "access_key": "access-public-unrestricted",
+    "ritual_use": "Purification & Cleansing",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "PLATANO",
+        "Makondo",
+        "Platano macho",
+        "Banananye",
+        "Bananito"
+      ],
+      "yo": [
+        "Ọ̀gẹ̀dẹ̀ dídì",
+        "Ọ̀gẹ̀dẹ̀ àgbàgbà",
+        "Ọ̀gẹ̀dẹ̀ wẹ́rẹ́",
+        "Ọ̀gẹ̀dẹ̀ apánta"
+      ],
+      "en": [
+        "BANANA / PLAINTAIN"
+      ],
+      "ht": [
+        "Bannan'n Miske"
+      ]
+    },
+    "search_text": "plant0033 platano musa paradisiaca accepted platano makondo platano macho banananye bananito ọ̀gẹ̀dẹ̀ dídì ọ̀gẹ̀dẹ̀ àgbàgbà ọ̀gẹ̀dẹ̀ wẹ́rẹ́ ọ̀gẹ̀dẹ̀ apánta banana / plaintain bannan'n miske",
+    "search_text_ascii": "plant0033 platano musa paradisiaca accepted platano makondo platano macho banananye bananito ogede didi ogede agbagba ogede were ogede apanta banana / plaintain bannan'n miske"
+  },
+  {
+    "identifier": "Plant0024",
+    "pref_label": "LIMON",
+    "scientific_name": "Citrus sp.",
+    "page_url": "plant/Plant0024.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0024",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0024.html",
+    "access": "Restricted – No Access",
+    "access_key": "access-no-access",
+    "ritual_use": "Healing & Restoration",
+    "medicinal_use": "Digestive Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "LIMON",
+        "Limão",
+        "Koronko"
+      ],
+      "en": [
+        "LEMON"
+      ],
+      "yo": [
+        "Ọ̀sàn",
+        "Òròmbó"
+      ],
+      "ht": [
+        "Sitwon"
+      ]
+    },
+    "search_text": "plant0024 limon citrus sp. accepted limon limão koronko lemon ọ̀sàn òròmbó sitwon",
+    "search_text_ascii": "plant0024 limon citrus sp. accepted limon limao koronko lemon osan orombo sitwon"
+  },
+  {
+    "identifier": "Plant0017",
+    "pref_label": "GANDUL",
+    "scientific_name": "Cajanus cajan",
+    "page_url": "plant/Plant0017.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0017",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0017.html",
+    "access": "Public – No Amplification",
+    "access_key": "access-public-no-amplification",
+    "ritual_use": "Invocation & Communication",
+    "medicinal_use": "Respiratory Support",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "GANDUL",
+        "Frijol de palo",
+        "Frijolillo",
+        "Gandua",
+        "quinconcho",
+        "for",
+        "Chicharros"
+      ],
+      "en": [
+        "Garbanzo falso",
+        "PIGEON PEA"
+      ],
+      "ht": [
+        "Pwa Kongo"
+      ],
+      "yo": [
+        "Ọ̀tìlì"
+      ]
+    },
+    "search_text": "plant0017 gandul cajanus cajan accepted gandul frijol de palo frijolillo gandua quinconcho for chicharros garbanzo falso pigeon pea pwa kongo ọ̀tìlì",
+    "search_text_ascii": "plant0017 gandul cajanus cajan accepted gandul frijol de palo frijolillo gandua quinconcho for chicharros garbanzo falso pigeon pea pwa kongo otili"
+  },
+  {
+    "identifier": "Plant0014",
+    "pref_label": "BIJA",
+    "scientific_name": "Bixa orellana",
+    "page_url": "plant/Plant0014.html",
+    "record_uri": "https://ontology.irokosociety.org/data/ewe/Plant0014",
+    "html_public_url": "https://ewe-database.irokosociety.org/plant/Plant0014.html",
+    "access": "Restricted – No Access",
+    "access_key": "access-no-access",
+    "ritual_use": "Rites of Transition",
+    "medicinal_use": "General Tonic / Revitalizing",
+    "taxonomic_status": "accepted",
+    "labels_by_lang": {
+      "es": [
+        "BIJA",
+        "cacicuto Bijaguara",
+        "Achote",
+        "Woucou",
+        "birijagua.",
+        "Bija",
+        "Onoto"
+      ],
+      "en": [
+        "ARNOTTO TREE",
+        "Green Heart"
+      ],
+      "yo": [
+        "Ọ̀ṣun elẹ́dẹ̀"
+      ],
+      "pt": [
+        "Urucum"
+      ]
+    },
+    "search_text": "plant0014 bija bixa orellana accepted bija cacicuto bijaguara achote woucou birijagua. bija onoto arnotto tree green heart ọ̀ṣun elẹ́dẹ̀ urucum",
+    "search_text_ascii": "plant0014 bija bixa orellana accepted bija cacicuto bijaguara achote woucou birijagua. bija onoto arnotto tree green heart osun elede urucum"
+  }
+]

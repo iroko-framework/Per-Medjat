@@ -10,37 +10,60 @@
   <meta name="build-dataset" content="{{ dataset_filename }}">
   <meta name="build-version" content="{{ dataset_version }}">
   <meta name="build-timestamp" content="{{ build_timestamp }}">
-  <link rel="stylesheet" href="{{ 'assets/styles.css' if record is not defined else '../assets/styles.css' }}">
+  {# Shared stylesheet — lives at root /assets/styles.css
+     Plant pages are one level deeper (/ewe/plant/) so need ../../assets/
+     Collection index is at /ewe/ so needs ../assets/ #}
+  {% if record is defined %}
+  <link rel="stylesheet" href="../../assets/styles.css">
+  {% else %}
+  <link rel="stylesheet" href="../assets/styles.css">
+  {% endif %}
   {% if record is defined %}
   <script type="application/ld+json">{{ record.visible_jsonld | tojson(indent=2) }}</script>
   {% endif %}
   <script>window.EWE_UI_COPY = {{ ui | tojson }};</script>
 </head>
 <body>
-  <div class="top-bar">
-    <div class="page-wrap top-bar-shell">
-      <span class="top-bar-id">{{ org_name }} · Ewé Database</span>
-      <div class="top-bar-links">
-        <a href="{{ vocab_page }}">{{ top_bar_framework_label }}</a>
-        <a href="https://www.irokosociety.org/">{{ external_site_label }}</a>
-        <a href="{{ '../index.html' if record is defined else '/index.html' }}">Medjat ↑</a>
-      </div>
+
+<div class="top-bar">
+  <div class="page-wrap top-bar-shell">
+    <span class="top-bar-id">
+      {% if record is defined %}
+      <img class="top-bar-logo" src="../../assets/IHS-Logo.jpg" alt="{{ org_name }}">
+      {% else %}
+      <img class="top-bar-logo" src="../assets/IHS-Logo.jpg" alt="{{ org_name }}">
+      {% endif %}
+      {{ org_name }} · Ewé Database
+    </span>
+    <div class="top-bar-links">
+      <a href="{{ vocab_page }}">{{ top_bar_framework_label }}</a>
+      <a href="https://www.irokosociety.org/">{{ external_site_label }}</a>
+      <a href="/">Medjat ↑</a>
     </div>
   </div>
-  <div class="page-wrap">
-    {% block page_content %}{% endblock %}
-    <footer class="site-footer">
-      <div class="footer-left">
-        <div>{{ footer_tagline }}</div>
-        <div>Built from {{ dataset_filename }} · {{ build_date }}</div>
-        <div>{{ sources_line }}</div>
-      </div>
-      <div class="footer-links">
-        <a href="{{ vocab_page }}">Vocabulary</a>
-        <a href="{{ namespace_uri }}">Namespace</a>
-      </div>
-    </footer>
-  </div>
-  <script src="{{ 'assets/app.js' if record is not defined else '../assets/app.js' }}"></script>
+</div>
+
+<div class="page-wrap">
+  {% block page_content %}{% endblock %}
+  <footer class="site-footer">
+    <div class="footer-left">
+      <div>{{ footer_tagline }}</div>
+      <div>Built from {{ dataset_filename }} · {{ build_date }}</div>
+      <div>{{ sources_line }}</div>
+    </div>
+    <div class="footer-links">
+      <a href="/">Medjat</a>
+      <a href="{{ vocab_page }}">Vocabulary</a>
+      <a href="{{ namespace_uri }}">Namespace</a>
+    </div>
+  </footer>
+</div>
+
+{% if record is defined %}
+<script src="../../assets/app.js"></script>
+{% else %}
+<script src="../assets/app.js"></script>
+{% endif %}
+
 </body>
 </html>

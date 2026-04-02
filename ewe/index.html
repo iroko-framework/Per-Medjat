@@ -5,874 +5,580 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Ewé Database — Iroko Historical Society">
   <title>Ewé Database — Iroko Historical Society</title>
-  <style>@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap');
-
-:root {
-  --ink:         #1c2118;
-  --ink-mid:     #3d4a36;
-  --ink-soft:    #6b7a62;
-  --paper:       #f7f4ed;
-  --paper-warm:  #ede9df;
-  --paper-deep:  #e4dfd2;
-  --rule:        rgba(28,33,24,.12);
-  --rule-strong: rgba(28,33,24,.25);
-  --green:       #2e4a1e;
-  --green-mid:   #4a7035;
-  --green-light: #e8f0e2;
-  --terracotta:  #8b3a1a;
-  --gold:        #a07830;
-  --gold-light:  #f5edd8;
-  --purple:      #5c3d8f;
-  --navy:        #1a4a5e;
-  --mono: 'DM Mono', monospace;
-  --sans: 'DM Sans', sans-serif;
-  --serif:'Cormorant Garamond', Georgia, serif;
-}
-
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
-html{font-size:16px;scroll-behavior:smooth;}
-body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-weight:300;line-height:1.65;}
-a{color:var(--green);text-decoration:none;}
-a:hover{color:var(--terracotta);}
-
-.page-wrap{max-width:1080px;margin:0 auto;padding:0 2rem;}
-
-/* ── Top bar ── */
-.top-bar{border-bottom:1px solid var(--rule);padding:.7rem 2rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;}
-.top-bar-id{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);}
-.top-bar-links{display:flex;gap:1.5rem;}
-.top-bar-links a{font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);}
-.top-bar-links a:hover{color:var(--green);}
-
-/* ── Lang toggle ── */
-.lang-toggle{display:flex;gap:0;border:1px solid var(--rule-strong);border-radius:3px;overflow:hidden;width:fit-content;}
-.lang-btn{font-family:var(--mono);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;padding:.3em .9em;background:var(--paper);color:var(--ink-soft);border:none;border-right:1px solid var(--rule-strong);cursor:pointer;transition:all .12s;user-select:none;}
-.lang-btn:last-child{border-right:none;}
-.lang-btn:hover{background:var(--paper-warm);color:var(--ink);}
-.lang-btn.active{background:var(--green);color:#fff;}
-.lang-btn.disabled{opacity:.35;pointer-events:none;}
-
-/* ── Breadcrumb ── */
-.breadcrumb{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;color:var(--ink-soft);padding:1rem 0 0;}
-.breadcrumb a{color:var(--ink-soft);}
-.breadcrumb a:hover{color:var(--green);}
-.breadcrumb span{margin:0 .4em;opacity:.5;}
-
-/* ── Explorer hero (index) ── */
-.explorer-hero{padding:3rem 0 2.5rem;border-bottom:2px solid var(--ink);}
-.hero-inner{display:grid;grid-template-columns:auto 1fr auto;gap:2.5rem;align-items:start;}
-.hero-logo img{width:88px;height:auto;display:block;}
-.explorer-eyebrow{font-family:var(--mono);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase;color:var(--green-mid);margin-bottom:.5rem;}
-.explorer-title{font-family:var(--serif);font-size:clamp(1.8rem,3.5vw,2.8rem);font-weight:600;color:var(--green);line-height:1.05;}
-.explorer-title em{font-style:italic;color:var(--terracotta);}
-.explorer-sub{font-size:.88rem;color:var(--ink-mid);margin-top:.75rem;max-width:58ch;line-height:1.65;}
-
-/* About block */
-.about-block{border-left:3px solid var(--green);padding:.85rem 1.1rem;background:var(--green-light);border-radius:0 3px 3px 0;margin:2rem 0 0;}
-.about-block-title{font-family:var(--mono);font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--green);margin-bottom:.5rem;}
-.about-block p{font-size:.84rem;color:var(--ink-mid);line-height:1.65;}
-
-/* ── Search + filter ── */
-.toolbar{margin:2rem 0 1rem;display:flex;gap:.75rem;align-items:center;flex-wrap:wrap;}
-.search-input{flex:1;min-width:220px;font-family:var(--sans);font-size:.88rem;padding:.5em 1em;border:1px solid var(--rule-strong);border-radius:3px;background:var(--paper);color:var(--ink);outline:none;transition:border-color .15s;}
-.search-input:focus{border-color:var(--green);}
-.search-count{font-family:var(--mono);font-size:.68rem;color:var(--ink-soft);white-space:nowrap;}
-.filter-row{display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1.5rem;}
-.filter-pill{font-family:var(--mono);font-size:.6rem;letter-spacing:.07em;text-transform:uppercase;padding:.22em .75em;border-radius:2px;border:1px solid var(--rule-strong);background:var(--paper);color:var(--ink-soft);cursor:pointer;transition:all .12s;user-select:none;}
-.filter-pill:hover{background:var(--paper-warm);color:var(--ink);}
-.filter-pill.active{background:var(--green);color:#fff;border-color:var(--green);}
-
-/* ── Plant grid (index) ── */
-.plant-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1px;border:1px solid var(--rule-strong);border-radius:3px;overflow:hidden;background:var(--rule-strong);margin-bottom:2rem;}
-.plant-card{background:var(--paper);padding:1.2rem 1.4rem;transition:background .12s;display:flex;flex-direction:column;gap:.3rem;cursor:pointer;}
-.plant-card:hover{background:var(--paper-warm);}
-.plant-card.hidden{display:none;}
-.card-id{font-family:var(--mono);font-size:.58rem;letter-spacing:.1em;color:var(--ink-soft);text-transform:uppercase;}
-.card-pref{font-family:var(--serif);font-size:1.15rem;font-weight:600;color:var(--green);line-height:1.15;}
-.card-sci{font-size:.76rem;font-style:italic;color:var(--ink-soft);}
-/* Name rows on card — always shown, stacked */
-.card-names{display:flex;flex-direction:column;gap:.1rem;margin-top:.25rem;}
-.card-name-row{display:grid;grid-template-columns:28px 1fr;gap:.4rem;align-items:baseline;}
-.card-name-lang{font-family:var(--mono);font-size:.52rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);}
-.card-name-val{font-size:.78rem;color:var(--ink-mid);}
-.card-foot{margin-top:.5rem;display:flex;gap:.4rem;flex-wrap:wrap;align-items:center;}
-
-/* ── Access badges ── */
-.access-badge{display:inline-block;font-family:var(--mono);font-size:.58rem;letter-spacing:.06em;padding:.12em .55em;border-radius:2px;white-space:nowrap;}
-.access-badge-lg{font-size:.72rem;padding:.2em .7em;}
-.access-public   {background:var(--green-light);color:var(--green);}
-.access-community{background:var(--gold-light);color:var(--gold);}
-.access-initiated{background:#fde8e0;color:var(--terracotta);}
-.access-none     {background:#2a2a2a;color:#fff;}
-
-/* ── Plant detail page ── */
-.plant-header{padding:2.5rem 0 2rem;border-bottom:2px solid var(--ink);}
-.plant-header-inner{display:grid;grid-template-columns:1fr auto;gap:2rem;align-items:start;}
-.plant-pref-large{font-family:var(--serif);font-size:clamp(2rem,4vw,3rem);font-weight:600;color:var(--green);line-height:1.05;}
-.plant-sci-large{font-size:1rem;font-style:italic;color:var(--ink-soft);margin-top:.3rem;}
-.plant-id-label{font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-top:.5rem;}
-.plant-header-meta{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;margin-top:.85rem;}
-
-/* Detail grid */
-.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;margin:2.5rem 0;}
-.detail-section-title{font-family:var(--mono);font-size:.65rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);padding-bottom:.5rem;border-bottom:1px solid var(--rule-strong);margin-bottom:1.2rem;}
-.detail-row{margin-bottom:1rem;}
-.detail-label{font-family:var(--mono);font-size:.63rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:.3rem;}
-
-/* Names table — always fully visible */
-.names-table{width:100%;border-collapse:collapse;}
-.names-table tr{border-bottom:1px solid var(--rule);}
-.names-table tr:last-child{border-bottom:none;}
-.names-table td{padding:.55rem 0;vertical-align:top;}
-.names-table td:first-child{font-family:var(--mono);font-size:.6rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);white-space:nowrap;padding-right:1rem;width:130px;padding-top:.65rem;}
-.names-table .name-entry{font-size:.9rem;color:var(--ink-mid);line-height:1.5;}
-.names-table .name-entry:first-child{font-size:.98rem;color:var(--ink);font-weight:400;}
-.names-table .name-empty{font-family:var(--mono);font-size:.68rem;color:var(--ink-soft);font-style:italic;}
-
-/* Gated row */
-.gated-cell{display:inline-flex;align-items:center;gap:.6rem;}
-
-/* Use value pill */
-.use-value{display:inline-block;font-size:.85rem;font-weight:400;color:var(--ink);background:var(--paper-warm);border:1px solid var(--rule-strong);padding:.2em .75em;border-radius:2px;}
-
-/* Tag cloud */
-.tag-cloud{display:flex;flex-wrap:wrap;gap:.35rem;}
-.tag-pill{font-family:var(--sans);font-size:.73rem;background:var(--paper-deep);color:var(--ink-mid);padding:.18em .65em;border-radius:2px;border:1px solid var(--rule-strong);line-height:1.4;}
-.tag-pill .country-prefix{color:var(--ink-soft);font-size:.68rem;margin-right:.3em;}
-
-/* Collision */
-.collision-notice{display:inline-flex;align-items:center;gap:.4rem;font-family:var(--mono);font-size:.62rem;letter-spacing:.06em;color:var(--gold);background:var(--gold-light);border:1px solid rgba(160,120,48,.25);padding:.18em .65em;border-radius:2px;}
-
-/* Ritual notes block */
-.notes-block{background:var(--paper-warm);border:1px solid var(--rule-strong);border-radius:3px;padding:.85rem 1rem;font-size:.87rem;color:var(--ink-mid);line-height:1.65;}
-
-/* Nav */
-.plant-nav{display:flex;justify-content:space-between;align-items:center;padding:1.5rem 0;border-top:1px solid var(--rule);margin-top:2rem;}
-.plant-nav a{font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);border:1px solid var(--rule-strong);padding:.3em .9em;border-radius:2px;transition:all .12s;}
-.plant-nav a:hover{background:var(--paper-warm);color:var(--ink);}
-
-/* Footer */
-.site-footer{border-top:1px solid var(--rule);padding:1.5rem 0 2.5rem;display:flex;gap:2rem;flex-wrap:wrap;justify-content:space-between;align-items:center;margin-top:2rem;}
-.footer-left{font-family:var(--mono);font-size:.68rem;letter-spacing:.04em;color:var(--ink-soft);line-height:1.7;}
-.footer-links{display:flex;gap:1.5rem;}
-.footer-links a{font-family:var(--mono);font-size:.68rem;letter-spacing:.05em;color:var(--ink-soft);}
-.footer-links a:hover{color:var(--green);}
-
-@media(max-width:760px){
-  .hero-inner{grid-template-columns:1fr;gap:1rem;}
-  .hero-logo img{width:52px;}
-  .detail-grid{grid-template-columns:1fr;gap:1.5rem;}
-  .plant-grid{grid-template-columns:1fr;}
-  .plant-header-inner{grid-template-columns:1fr;}
-}
-</style>
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-S7WFXNP22P');
-  </script>
+  <link rel="canonical" href="https://ewe-database.irokosociety.org/index.html">
+  <meta name="generator" content="build_ewe.py">
+  <meta name="build-dataset" content="Verger_Ewe_Dataset_v4.ttl">
+  <meta name="build-version" content="Verger_Ewe_Dataset_v4">
+  <meta name="build-timestamp" content="2026-03-31T19:55:14+00:00">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script>window.EWE_UI_COPY = {"about_body": {"en": "The Ew\u00e9 Database provides a public interface for plant records structured using the Iroko Framework. Public botanical and vernacular knowledge remains discoverable, while governed assertions are displayed with explicit stewardship boundaries rather than silent omission.", "es": "La Base de Datos Ew\u00e9 ofrece una interfaz p\u00fablica para registros bot\u00e1nicos estructurados mediante el Iroko Framework. El conocimiento bot\u00e1nico y vern\u00e1culo p\u00fablico sigue siendo visible, mientras que las afirmaciones gobernadas se muestran con l\u00edmites expl\u00edcitos de custodia en lugar de omisiones silenciosas.", "fr": "La Base de Donn\u00e9es Ew\u00e9 fournit une interface publique pour des notices botaniques structur\u00e9es \u00e0 l\u2019aide du cadre Iroko. Les connaissances botaniques et vernaculaires publiques restent visibles, tandis que les assertions gouvern\u00e9es sont affich\u00e9es avec des limites explicites de stewardship plut\u00f4t qu\u2019avec des silences invisibles.", "pt": "A Base de Dados Ew\u00e9 oferece uma interface p\u00fablica para registros bot\u00e2nicos estruturados pelo Iroko Framework. O conhecimento bot\u00e2nico e vernacular p\u00fablico permanece vis\u00edvel, enquanto as afirma\u00e7\u00f5es governadas s\u00e3o mostradas com limites expl\u00edcitos de cust\u00f3dia em vez de omiss\u00f5es silenciosas.", "yo": "\u00c0k\u00f3j\u1ecdp\u1ecd\u0300 Ew\u00e9 p\u00e8s\u00e8 \u1ecd\u0300n\u00e0 gbangba f\u00fan \u00e0w\u1ecdn \u00e0k\u1ecds\u00edl\u1eb9\u0300 \u1ecdgb\u00ecn t\u00ed a \u1e63\u00e8t\u00f2 p\u1eb9\u0300l\u00fa Iroko Framework. \u00ccm\u1ecd\u0300 ew\u00e9ko \u00e0ti \u00e0w\u1ecdn or\u00fak\u1ecd t\u00f3 y\u1eb9 k\u00ed gbogbo \u00e8n\u00ecy\u00e0n r\u00ed \u1e63\u00ec h\u00e0n, \u1e63\u00f9gb\u1ecd\u0301n ohun t\u00ed a \u0144 \u1e63\u00e0k\u00f3so n\u00ed \u00e0y\u00e8 \u00ect\u1ecdju h\u00e0n p\u1eb9\u0300l\u00fa \u00e0l\u00e0y\u00e9 kedere d\u00edp\u00f2 k\u00ed w\u1ecd\u0301n p\u00e0r\u00f3\u0323 m\u1ecd\u0301ra."}, "about_title": {"en": "About the Ew\u00e9 Database", "es": "Acerca de la Base de Datos Ew\u00e9", "fr": "\u00c0 propos de la Base de Donn\u00e9es Ew\u00e9", "pt": "Sobre a Base de Dados Ew\u00e9", "yo": "N\u00edpa \u00c0k\u00f3j\u1ecdp\u1ecd\u0300 Ew\u00e9"}, "all_access": {"en": "All Access Tiers", "es": "Todos los Niveles de Acceso", "fr": "Tous les Niveaux d\u2019Acc\u00e8s", "pt": "Todos os N\u00edveis de Acesso", "yo": "Gbogbo \u00ccpele \u00c0y\u00e8w\u1ecdl\u00e9"}, "all_plants": {"en": "All Plants", "es": "Todas las Plantas", "fr": "Toutes les Plantes", "pt": "Todas as Plantas", "yo": "Gbogbo Ew\u00e9"}, "classification": {"en": "Classification", "es": "Clasificaci\u00f3n", "fr": "Classification", "pt": "Classifica\u00e7\u00e3o", "yo": "\u00ccp\u00edn"}, "collision_note": {"en": "Collision Note", "es": "Nota de Colisi\u00f3n", "fr": "Note de Collision", "pt": "Nota de Colis\u00e3o", "yo": "\u00c0k\u1ecds\u00edl\u1eb9\u0300 \u00ccj\u00e0mb\u00e1 Or\u00fak\u1ecd"}, "html_page": {"en": "Public HTML Page", "es": "P\u00e1gina HTML P\u00fablica", "fr": "Page HTML Publique", "pt": "P\u00e1gina HTML P\u00fablica", "yo": "Oj\u00fa-\u00ecw\u00e9 HTML Gbangba"}, "medicinal_use": {"en": "Medicinal Use", "es": "Uso Medicinal", "fr": "Usage M\u00e9dicinal", "pt": "Uso Medicinal", "yo": "L\u00edlo \u00ccw\u00f2s\u00e0n"}, "names_by_language": {"en": "Names by Language", "es": "Nombres por Idioma", "fr": "Noms par Langue", "pt": "Nomes por Idioma", "yo": "\u00c0w\u1ecdn Or\u00fak\u1ecd n\u00edpa \u00c8d\u00e8"}, "next": {"en": "Next", "es": "Siguiente", "fr": "Suivant", "pt": "Pr\u00f3ximo", "yo": "T\u00f3k\u00e0n"}, "no_public_search": {"en": "Hidden from public search", "es": "Oculto de la b\u00fasqueda p\u00fablica", "fr": "Masqu\u00e9 de la recherche publique", "pt": "Oculto da busca p\u00fablica", "yo": "Farapam\u1ecd\u0301 k\u00far\u00f2 n\u00edn\u00fa \u00ecw\u00e1d\u00ec\u00ed gbangba"}, "none_recorded": {"en": "None recorded", "es": "Ninguno registrado", "fr": "Aucun enregistr\u00e9", "pt": "Nenhum registrado", "yo": "K\u00f2 s\u00ed t\u00ed a k\u1ecd"}, "other_regional_names": {"en": "Other Regional Names", "es": "Otros Nombres Regionales", "fr": "Autres Noms R\u00e9gionaux", "pt": "Outros Nomes Regionais", "yo": "\u00c0w\u1ecdn Or\u00fak\u1ecd \u1eb8k\u00f9n M\u00edr\u00e0n"}, "plants": {"en": "plants", "es": "plantas", "fr": "plantes", "pt": "plantas", "yo": "ew\u00e9"}, "record_governance": {"en": "Record Governance", "es": "Gobernanza del Registro", "fr": "Gouvernance de la Notice", "pt": "Governan\u00e7a do Registro", "yo": "\u00cc\u1e63\u00e0k\u00f3so \u00c0k\u1ecds\u00edl\u1eb9\u0300"}, "record_uri": {"en": "Record URI", "es": "URI del Registro", "fr": "URI de la Notice", "pt": "URI do Registro", "yo": "URI \u00c0k\u1ecds\u00edl\u1eb9\u0300"}, "regional_names": {"en": "Regional and Unresolved Names", "es": "Nombres Regionales y No Resueltos", "fr": "Noms R\u00e9gionaux et Non R\u00e9solus", "pt": "Nomes Regionais e N\u00e3o Resolvidos", "yo": "\u00c0w\u1ecdn Or\u00fak\u1ecd \u1eb8k\u00f9n \u00e0ti T\u00ed K\u00f2 T\u00ed\u00ec Yanju"}, "ritual_notes": {"en": "Ritual Notes", "es": "Notas Rituales", "fr": "Notes Rituelles", "pt": "Notas Rituais", "yo": "\u00c0w\u1ecdn \u00c0k\u1ecds\u00edl\u1eb9\u0300 \u00c0\u1e63\u00e0"}, "ritual_use": {"en": "Ritual Use", "es": "Uso Ritual", "fr": "Usage Rituel", "pt": "Uso Ritual", "yo": "L\u00edlo \u00c0\u1e63\u00e0"}, "sacred_knowledge": {"en": "Sacred Knowledge", "es": "Conocimiento Sagrado", "fr": "Savoir Sacr\u00e9", "pt": "Conhecimento Sagrado", "yo": "\u00ccm\u1ecd\u0300 M\u00edm\u1ecd\u0301"}, "scientific_name": {"en": "Scientific Name", "es": "Nombre Cient\u00edfico", "fr": "Nom Scientifique", "pt": "Nome Cient\u00edfico", "yo": "Or\u00fak\u1ecd S\u00e1y\u1eb9\u0301\u01f9s\u00ec"}, "scientific_synonyms": {"en": "Scientific Synonyms", "es": "Sin\u00f3nimos Cient\u00edficos", "fr": "Synonymes Scientifiques", "pt": "Sin\u00f4nimos Cient\u00edficos", "yo": "\u00c0w\u1ecdn Or\u00fak\u1ecd S\u00e1y\u1eb9\u0301\u01f9s\u00ec M\u00edr\u00e0n"}, "search_placeholder": {"en": "Search by name, scientific name, or vernacular\u2026", "es": "Buscar por nombre, nombre cient\u00edfico o vern\u00e1culo\u2026", "fr": "Rechercher par nom, nom scientifique ou vernaculaire\u2026", "pt": "Pesquisar por nome, nome cient\u00edfico ou vern\u00e1culo\u2026", "yo": "W\u00e1 n\u00edn\u00fa \u00e0w\u1ecdn or\u00fak\u1ecd\u2026"}, "taxonomic_status": {"en": "Taxonomic Status", "es": "Estado Taxon\u00f3mico", "fr": "Statut Taxonomique", "pt": "Status Taxon\u00f4mico", "yo": "\u00ccpo S\u00e1y\u1eb9\u0301\u01f9s\u00ec"}, "vocabulary": {"en": "Vocabulary", "es": "Vocabulario", "fr": "Vocabulaire", "pt": "Vocabul\u00e1rio", "yo": "\u00c0w\u1ecdn \u1ecc\u0300r\u1ecd\u0300"}};</script>
 </head>
 <body>
-
-<div class="top-bar">
-  <span class="top-bar-id">Iroko Historical Society · Ewé Database</span>
-  <nav class="top-bar-links">
-    <a href="index.html" class="ui" data-en="All Plants" data-es="Todas las Plantas" data-fr="Toutes les Plantes" data-yo="Gbogbo Ewé" data-pt="Todas as Plantas">All Plants</a>
-    <a href="https://ontology.irokosociety.org">Framework ↗</a>
-    <a href="https://www.irokosociety.org">irokosociety.org ↗</a>
-  </nav>
-</div>
-
-<div class="page-wrap">
-
-  <header class="explorer-hero">
-    <div class="hero-inner">
-      <div class="hero-logo">
-        <a href="https://www.irokosociety.org">
-          <img src="assets/IHS-Logo.jpg" alt="Iroko Historical Society">
-        </a>
+  <div class="site-shell">
+    <div class="topbar">
+      <div class="topbar-left">Iroko Historical Society</div>
+      <div class="topbar-right">
+        <a href="https://ontology.irokosociety.org/vocab/iroko-ewe.html">Framework ↗</a>
+        <a href="https://www.irokosociety.org/">irokosociety.org ↗</a>
       </div>
-      <div>
-        <div class="explorer-eyebrow">Iroko Historical Society · Afro-Atlantic Sacred Plant Knowledge</div>
-        <h1 class="explorer-title">Ewé Database<br><em>Verger Collection</em></h1>
-        <p class="explorer-sub">
-          50 sacred plants from Pierre Fatumbi Verger&#x2019;s <em>Ewé: The Use of Plants in Yoruba Society</em>
-          and Dalia Quiros-Moran&#x2019;s <em>Guide to Afro-Cuban Herbalism</em>,
-          structured using the Iroko Framework.
-        </p>
-      </div>
-      <div><div class="lang-toggle">
+    </div>
+<header class="explorer-hero">
+  <div class="hero-inner">
+    <div class="hero-logo"><img src="assets/logo-placeholder.svg" alt="Iroko Historical Society logo"></div>
+    <div>
+      <div class="explorer-eyebrow">Iroko Historical Society · Afro-Atlantic Sacred Plant Knowledge</div>
+      <h1 class="explorer-title">Ewé Database<br><em>Verger Collection</em></h1>
+      <p class="explorer-sub">
+        50 sacred plants from Pierre Fatumbi Verger's <em>Ewé: The Use of Plants in Yoruba Society</em>
+        and Dalia Quiros-Moran's <em>Guide to Afro-Cuban Herbalism</em>, structured from Verger_Ewe_Dataset_v4.ttl.
+      </p>
+    </div>
+    <div><div class="lang-toggle">
   <button class="lang-btn" data-lang="en">EN</button>
   <button class="lang-btn" data-lang="es">ES</button>
   <button class="lang-btn" data-lang="fr">FR</button>
   <button class="lang-btn" data-lang="yo">YO</button>
   <button class="lang-btn" data-lang="pt">PT</button>
 </div></div>
-    </div>
-    <div class="about-block" style="margin-top:2rem;">
-      <div class="about-block-title ui" data-en="About the Ewé Database" data-es="Acerca de la Base de Datos Ewé" data-fr="À propos de la Base de Données Ewé" data-yo="Nípa Àkójọpọ̀ Ewé" data-pt="Sobre a Base de Dados Ewé">About the Ewé Database</div>
-      <p class="ui" data-en="The Ewé Database provides a public interface for plant records structured using the Iroko Framework. Botanical, linguistic, and vernacular knowledge is fully discoverable. Knowledge governed by community authorization — Lucumí names, ritual use, and sacred notes — is shown with explicit access tier indicators, not suppressed. This environment demonstrates Sacred Metadata governance: the CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) applied to Afro-Atlantic ethnobotanical knowledge." data-es="La Base de Datos Ewé ofrece una interfaz pública para registros botánicos estructurados mediante el Iroko Framework. El conocimiento botánico, lingüístico y vernáculo es plenamente accesible. El conocimiento regido por autorización comunitaria — nombres lucumí, uso ritual y notas sagradas — se muestra con indicadores explícitos de nivel de acceso, sin suprimirse. Este entorno demuestra la gobernanza de Metadatos Sagrados: los Principios CARE aplicados al conocimiento etnobotánico afroatlántico." data-fr="La Base de Données Ewé fournit une interface publique pour les notices botaniques structurées par le Cadre Iroko. La connaissance botanique, linguistique et vernaculaire est entièrement accessible. Les savoirs régis par autorisation communautaire — noms lucumí, usages rituels et notes sacrées — sont affichés avec des indicateurs explicites de niveau d&#x27;accès, sans être supprimés. Cet environnement illustre la gouvernance des Métadonnées Sacrées : les Principes CARE appliqués au savoir ethnobotanique afro-atlantique." data-yo="Àkójọpọ̀ Ewé pèsè ọ̀nà gbangba fún àwọn àkọsílẹ̀ ọgbìn tí a ṣètò pẹ̀lú Iroko Framework. Ìmọ̀ ìjìnlẹ̀ ewéko, èdè, àti àwọn orúkọ ẹkùn jẹ́ ṣíṣí gbangba. Ìmọ̀ tí àwùjọ ń ṣàkóso — àwọn orúkọ Lucumí, lílo àṣà, àti àkọsílẹ̀ mímọ́ — wà pẹ̀lú àmì ìpele àyèwọ̀lé gbangba. Ipò yìí ń fi ìṣàkóso Sacred Metadata hàn: àwọn Ìlànà CARE tí a lo sí ìmọ̀ ewéko Afro-Atlantic." data-pt="A Base de Dados Ewé oferece uma interface pública para registros botânicos estruturados pelo Iroko Framework. O conhecimento botânico, linguístico e vernáculo é totalmente acessível. O conhecimento regido por autorização comunitária — nomes lucumí, uso ritual e notas sagradas — é exibido com indicadores explícitos de nível de acesso, sem supressão. Este ambiente demonstra a governança de Metadados Sagrados: os Princípios CARE aplicados ao conhecimento etnobotânico afro-atlântico.">The Ewé Database provides a public interface for plant records structured using the Iroko Framework. Botanical, linguistic, and vernacular knowledge is fully discoverable. Knowledge governed by community authorization — Lucumí names, ritual use, and sacred notes — is shown with explicit access tier indicators, not suppressed. This environment demonstrates Sacred Metadata governance: the CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) applied to Afro-Atlantic ethnobotanical knowledge.</p>
-    </div>
-  </header>
-
-  <div class="toolbar">
-    <input class="search-input" type="search" id="plantSearch"
-      placeholder="Search by name, scientific name, or vernacular…" data-ph-en="Search by name, scientific name, or vernacular…" data-ph-es="Buscar por nombre, nombre científico o vernáculo…" data-ph-fr="Rechercher par nom, nom scientifique ou vernaculaire…" data-ph-yo="Wá nínú àwọn orúkọ…" data-ph-pt="Pesquisar por nome, nome científico ou vernáculo…" autocomplete="off">
-    <span class="search-count" id="searchCount">50 <span class="ui" data-en="plants" data-es="plantas" data-fr="plantes" data-yo="ewé" data-pt="plantas">plants</span></span>
   </div>
-
-  <div class="filter-row" id="ritualFilter">
-    <button class="filter-pill active" data-ritual=""><span class="ui" data-en="All Plants" data-es="Todas las Plantas" data-fr="Toutes les Plantes" data-yo="Gbogbo Ewé" data-pt="Todas as Plantas">All Plants</span></button>
-    <button class="filter-pill" data-ritual="Cosmological / Symbolic">Cosmological / Symbolic</button>
-    <button class="filter-pill" data-ritual="Healing &amp; Restoration">Healing &amp; Restoration</button>
-    <button class="filter-pill" data-ritual="Invocation &amp; Communication">Invocation &amp; Communication</button>
-    <button class="filter-pill" data-ritual="Offering &amp; Devotion">Offering &amp; Devotion</button>
-    <button class="filter-pill" data-ritual="Protection &amp; Boundary">Protection &amp; Boundary</button>
-    <button class="filter-pill" data-ritual="Purification &amp; Cleansing">Purification &amp; Cleansing</button>
-    <button class="filter-pill" data-ritual="Rites of Transition">Rites of Transition</button>
-
+  <div class="about-block">
+    <div class="about-block-title ui-copy" data-copy-key="about_title">About the Ewé Database</div>
+    <p class="ui-copy" data-copy-key="about_body">The Ewé Database provides a public interface for plant records structured using the Iroko Framework.</p>
   </div>
+</header>
 
-  <div class="plant-grid" id="plantGrid">
-    <a class="plant-card" href="plant/Plant0001.html"
-       data-search="iròkò milicia excelsa african teak iròkò ńlá (hon.) " data-ritual="Cosmological / Symbolic">
-      <div class="card-id">Plant0001</div>
-      <div class="card-pref">Iròkò</div>
-      <div class="card-sci">Milicia excelsa</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">African Teak</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Iròkò ńlá (hon.)</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0002.html"
-       data-search="ceiba ceiba pentandra kapok tree ọ̀gbùngbùn la ceiba" data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0002</div>
-      <div class="card-pref">CEIBA</div>
-      <div class="card-sci">Ceiba pentandra</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">KAPOK TREE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀gbùngbùn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">La Ceiba</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0003.html"
-       data-search="ambarina abelmoschus esculentus musk okra ìlásadò abelmosco" data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0003</div>
-      <div class="card-pref">AMBARINA</div>
-      <div class="card-sci">Abelmoschus esculentus</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">MUSK OKRA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìlásadò</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Abelmosco</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0004.html"
-       data-search="aroma amarilla u olorosa acacia farnesiana sweet acacia bọ́nní aroma" data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0004</div>
-      <div class="card-pref">AROMA AMARILLA U OLOROSA</div>
-      <div class="card-sci">Acacia farnesiana</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SWEET ACACIA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Bọ́nní</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Aroma</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0005.html"
-       data-search="cebolla allium cepa onion alùbọ́sà kẹ́tà " data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0005</div>
-      <div class="card-pref">CEBOLLA</div>
-      <div class="card-sci">Allium cepa</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ONION</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Alùbọ́sà kẹ́tà</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Elder Initiated</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0006.html"
-       data-search="sabila aloe spp. aloe ìpà " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0006</div>
-      <div class="card-pref">SABILA</div>
-      <div class="card-sci">Aloe spp.</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ALOE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìpà</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0007.html"
-       data-search="bledo espinoso amaranthus spinosus spiny amaranth tẹ́tẹ́ oyìbó " data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0007</div>
-      <div class="card-pref">BLEDO ESPINOSO</div>
-      <div class="card-sci">Amaranthus spinosus</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SPINY AMARANTH</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Tẹ́tẹ́ oyìbó</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0008.html"
-       data-search="bledo blanco amaranthus viridis slender amaranth tẹ́tẹ́ ńlá bledo" data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0008</div>
-      <div class="card-pref">BLEDO BLANCO</div>
-      <div class="card-sci">Amaranthus viridis</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SLENDER AMARANTH</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Tẹ́tẹ́ ńlá</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Bledo</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Initiated Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0009.html"
-       data-search="baga annona glabra pond apple àfẹ́ baga" data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0009</div>
-      <div class="card-pref">BAGA</div>
-      <div class="card-sci">Annona glabra</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">POND APPLE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Àfẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Baga</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0010.html"
-       data-search="guanabana annona muricata soursop ẹ̀kọ́ ọmọde " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0010</div>
-      <div class="card-pref">GUANABANA</div>
-      <div class="card-sci">Annona muricata</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SOURSOP</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀kọ́ ọmọde</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0011.html"
-       data-search="mani arachis hypogaea peanut òrórẹ́ ẹ̀pàdà " data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0011</div>
-      <div class="card-pref">MANI</div>
-      <div class="card-sci">Arachis hypogaea</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PEANUT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Òrórẹ́ ẹ̀pàdà</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Elder Initiated</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0012.html"
-       data-search="cardo santo argemone mexicana prickly poppy ẹ̀kànnà ẹkùn " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0012</div>
-      <div class="card-pref">CARDO SANTO</div>
-      <div class="card-sci">Argemone mexicana</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PRICKLY POPPY</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀kànnà ẹkùn</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0013.html"
-       data-search="romerillo bidens pilosa beggar&#x27;s ticks agáràn mọ́yàn " data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0013</div>
-      <div class="card-pref">ROMERILLO</div>
-      <div class="card-sci">Bidens pilosa</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BEGGAR&#x27;S TICKS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Agáràn mọ́yàn</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0014.html"
-       data-search="bija bixa orellana arnotto tree ọ̀ṣun elẹ́dẹ̀ cacicuto bijaguara" data-ritual="Rites of Transition">
-      <div class="card-id">Plant0014</div>
-      <div class="card-pref">BIJA</div>
-      <div class="card-sci">Bixa orellana</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ARNOTTO TREE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀ṣun elẹ́dẹ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">cacicuto Bijaguara</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-none">No Access</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0015.html"
-       data-search="seso vegetal blighia sapida akee ìṣín ọ̀dàn arbol del seso." data-ritual="Rites of Transition">
-      <div class="card-id">Plant0015</div>
-      <div class="card-pref">SESO VEGETAL</div>
-      <div class="card-sci">Blighia sapida</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">AKEE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìṣín ọ̀dàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">arbol del seso.</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Elder Initiated</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0016.html"
-       data-search="prodigiosa bryophyllum pinnatum life everlasting ẹ̀rù òdúndún hoja" data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0016</div>
-      <div class="card-pref">PRODIGIOSA</div>
-      <div class="card-sci">Bryophyllum pinnatum</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">LIFE EVERLASTING</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀rù òdúndún</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">hoja</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0017.html"
-       data-search="gandul cajanus cajan pigeon pea ọ̀tìlì gandua" data-ritual="Invocation &amp; Communication">
-      <div class="card-id">Plant0017</div>
-      <div class="card-pref">GANDUL</div>
-      <div class="card-sci">Cajanus cajan</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PIGEON PEA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀tìlì</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Gandua</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0018.html"
-       data-search="arbol de la cera calotropis procera southern bayberry bọ̀múbọ̀mú arbol de sebo" data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0018</div>
-      <div class="card-pref">ARBOL DE LA CERA</div>
-      <div class="card-sci">Calotropis procera</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SOUTHERN BAYBERRY</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Bọ̀múbọ̀mú</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Arbol de sebo</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0019.html"
-       data-search="aji chile capsicum annuum cayenne pepper ata àbáláyé " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0019</div>
-      <div class="card-pref">AJI CHILE</div>
-      <div class="card-sci">Capsicum annuum</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">CAYENNE PEPPER</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ata àbáláyé</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0020.html"
-       data-search="frutabomba carica papaya papaya ìṣígin papaya" data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0020</div>
-      <div class="card-pref">FRUTABOMBA</div>
-      <div class="card-sci">Carica papaya</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PAPAYA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìṣígin</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Papaya</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0021.html"
-       data-search="hedionda cassia sp. sicklepod ìòòṣì hierba hedionda" data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0021</div>
-      <div class="card-pref">HEDIONDA</div>
-      <div class="card-sci">Cassia sp.</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SICKLEPOD</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìòòṣì</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Hierba hedionda</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0022.html"
-       data-search="apasote chenopodium ambrosioides mexican tea ìmì ìyìn biengranada" data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0022</div>
-      <div class="card-pref">APASOTE</div>
-      <div class="card-sci">Chenopodium ambrosioides</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">MEXICAN TEA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìmì ìyìn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Biengranada</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0023.html"
-       data-search="naranja agria citrus aurantium bitter orange | sour orange | and sweet orange òròmbó mùmù naranja agria" data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0023</div>
-      <div class="card-pref">NARANJA AGRIA</div>
-      <div class="card-sci">Citrus aurantium</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">bitter orange | sour orange | and sweet orange</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Òròmbó mùmù</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Naranja agria</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Initiated Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0024.html"
-       data-search="limon citrus sp. lemon ọ̀sàn " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0024</div>
-      <div class="card-pref">LIMON</div>
-      <div class="card-sci">Citrus sp.</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">LEMON</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀sàn</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-none">No Access</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0025.html"
-       data-search="cocotero cocos nucifera coconut àgbọn cocotero" data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0025</div>
-      <div class="card-pref">COCOTERO</div>
-      <div class="card-sci">Cocos nucifera</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">COCONUT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Àgbọn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Cocotero</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0026.html"
-       data-search="esquenato cymbopogon citratus lemon grass ìṣọ́kọ̀ caña de la meca." data-ritual="Cosmological / Symbolic">
-      <div class="card-id">Plant0026</div>
-      <div class="card-pref">ESQUENATO</div>
-      <div class="card-sci">Cymbopogon citratus</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">LEMON GRASS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìṣọ́kọ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">caña de la Meca.</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0027.html"
-       data-search="yerba lechosa euphorbia hirta asthma weed ẹ̀gẹ́lẹ́ yerba lechera teta de vieja." data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0027</div>
-      <div class="card-pref">YERBA LECHOSA</div>
-      <div class="card-sci">Euphorbia hirta</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ASTHMA WEED</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gẹ́lẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Yerba lechera Teta de vieja.</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Initiated Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0028.html"
-       data-search="marpacifico hibiscus sp. hibiscus maníjẹ̀ borrachona" data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0028</div>
-      <div class="card-pref">MARPACIFICO</div>
-      <div class="card-sci">Hibiscus sp.</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">HIBISCUS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Maníjẹ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Borrachona</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0029.html"
-       data-search="boniato ipomoea batatas sweet potatoe ànámọ́ yàyà " data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0029</div>
-      <div class="card-pref">BONIATO</div>
-      <div class="card-sci">Ipomoea batatas</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SWEET POTATOE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ànámọ́ yàyà</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Initiated Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0030.html"
-       data-search="piñon de botija jatropha curcas physic nut ewé ìbọ̀ piñón de botija, piñon de cercas" data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0030</div>
-      <div class="card-pref">PIÑON DE BOTIJA</div>
-      <div class="card-sci">Jatropha curcas</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PHYSIC NUT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ewé ìbọ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Piñón de botija, piñon de cercas</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0031.html"
-       data-search="yuca manihot esculenta cassaba ẹ̀gẹ́ " data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0031</div>
-      <div class="card-pref">YUCA</div>
-      <div class="card-sci">Manihot esculenta</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">CASSABA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gẹ́</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0032.html"
-       data-search="cundeamor momordica charantia bitter melon ẹ̀jìnrìn wẹ́wẹ́ cundeamor" data-ritual="Cosmological / Symbolic">
-      <div class="card-id">Plant0032</div>
-      <div class="card-pref">CUNDEAMOR</div>
-      <div class="card-sci">Momordica charantia</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BITTER MELON</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀jìnrìn wẹ́wẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Cundeamor</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0033.html"
-       data-search="platano musa paradisiaca banana / plaintain ọ̀gẹ̀dẹ̀ dídì platano macho" data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0033</div>
-      <div class="card-pref">PLATANO</div>
-      <div class="card-sci">Musa paradisiaca</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BANANA / PLAINTAIN</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀gẹ̀dẹ̀ dídì</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Platano macho</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0034.html"
-       data-search="albahaca anisada ocimum basilicum basil ẹ̀fínrín ajá " data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0034</div>
-      <div class="card-pref">ALBAHACA ANISADA</div>
-      <div class="card-sci">Ocimum basilicum</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BASIL</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀fínrín ajá</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0035.html"
-       data-search="yerba de guinea panicum maximum guineagrass ẹ̀rù ọ̀párùn guinea gigante." data-ritual="Rites of Transition">
-      <div class="card-id">Plant0035</div>
-      <div class="card-pref">YERBA DE GUINEA</div>
-      <div class="card-sci">Panicum maximum</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">GUINEAGRASS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀rù ọ̀párùn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Guinea gigante.</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0036.html"
-       data-search="azucarito paullinia pinnata bread-and-cheese lágọ́lágọ́ bejuco" data-ritual="Protection &amp; Boundary">
-      <div class="card-id">Plant0036</div>
-      <div class="card-pref">AZUCARITO</div>
-      <div class="card-sci">Paullinia pinnata</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BREAD-AND-CHEESE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Lágọ́lágọ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Bejuco</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0037.html"
-       data-search="yerba de la plata peperomia pellucida shiny bush rínrín yerba de la plata" data-ritual="Cosmological / Symbolic">
-      <div class="card-id">Plant0037</div>
-      <div class="card-pref">YERBA DE LA PLATA</div>
-      <div class="card-sci">Peperomia pellucida</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SHINY BUSH</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Rínrín</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Yerba de la plata</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0038.html"
-       data-search="anamu petiveria alliacea guinea hen weed ojúsàjú namu" data-ritual="Rites of Transition">
-      <div class="card-id">Plant0038</div>
-      <div class="card-pref">ANAMU</div>
-      <div class="card-sci">Petiveria alliacea</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">GUINEA HEN WEED</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ojúsàjú</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Namu</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0039.html"
-       data-search="guayaba psidium guajava guava gúàfà guayabo" data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0039</div>
-      <div class="card-pref">GUAYABA</div>
-      <div class="card-sci">Psidium guajava</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">GUAVA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Gúàfà</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Guayabo</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0040.html"
-       data-search="piscuala quisqualis indica rangoon creeper ọ̀gàn funfun " data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0040</div>
-      <div class="card-pref">PISCUALA</div>
-      <div class="card-sci">Quisqualis indica</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">RANGOON CREEPER</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀gàn funfun</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0041.html"
-       data-search="higuereta ricinus communis castor bean ìlárùn palmachristi" data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0041</div>
-      <div class="card-pref">HIGUERETA</div>
-      <div class="card-sci">Ricinus communis</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">CASTOR BEAN</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìlárùn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Palmachristi</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0042.html"
-       data-search="ajonjoli sesamum indicum sesame seed ẹ̀kú gógóró " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0042</div>
-      <div class="card-pref">AJONJOLI</div>
-      <div class="card-sci">Sesamum indicum</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SESAME SEED</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀kú gógóró</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0043.html"
-       data-search="malva de cochinos sida rhombifolia jelly leaf ìfín " data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0043</div>
-      <div class="card-pref">MALVA DE COCHINOS</div>
-      <div class="card-sci">Sida rhombifolia</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">JELLY LEAF</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìfín</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0044.html"
-       data-search="pendejera solanum torvum turkey berry ìkàn wẹ́wẹ́ prendedera." data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0044</div>
-      <div class="card-pref">PENDEJERA</div>
-      <div class="card-sci">Solanum torvum</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">TURKEY BERRY</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìkàn wẹ́wẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Prendedera.</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-initiated">Elder Initiated</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0045.html"
-       data-search="espigelia spigelia anthelmia pinkroot ewé àrán yerba lombricera." data-ritual="Healing &amp; Restoration">
-      <div class="card-id">Plant0045</div>
-      <div class="card-pref">ESPIGELIA</div>
-      <div class="card-sci">Spigelia anthelmia</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PINKROOT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ewé àrán</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Yerba lombricera.</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0046.html"
-       data-search="jobo spondias mombin hug plum olóṣàn jobito" data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0046</div>
-      <div class="card-pref">JOBO</div>
-      <div class="card-sci">Spondias mombin</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">HUG PLUM</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Olóṣàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Jobito</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0047.html"
-       data-search="tamarindo tamarindus indica tamarind àjàgbọn tamarindo" data-ritual="Invocation &amp; Communication">
-      <div class="card-id">Plant0047</div>
-      <div class="card-pref">TAMARINDO</div>
-      <div class="card-sci">Tamarindus indica</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">TAMARIND</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Àjàgbọn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Tamarindo</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0048.html"
-       data-search="ofon vitex doniana black plum òrì ọ̀dàn ofón" data-ritual="Offering &amp; Devotion">
-      <div class="card-id">Plant0048</div>
-      <div class="card-pref">OFON</div>
-      <div class="card-sci">Vitex doniana</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BLACK PLUM</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Òrì ọ̀dàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Ofón</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-community">Community Only</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0049.html"
-       data-search="pimienta de guinea xylopia aethiopica guinea pepper ẹ̀rùn-jẹ̀ " data-ritual="Cosmological / Symbolic">
-      <div class="card-id">Plant0049</div>
-      <div class="card-pref">PIMIENTA DE GUINEA</div>
-      <div class="card-sci">Xylopia aethiopica</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">GUINEA PEPPER</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀rùn-jẹ̀</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">Public</span>
-        
-      </div>
-    </a>
-    <a class="plant-card" href="plant/Plant0050.html"
-       data-search="maiz zea mays maize ẹ̀gún " data-ritual="Purification &amp; Cleansing">
-      <div class="card-id">Plant0050</div>
-      <div class="card-pref">MAIZ</div>
-      <div class="card-sci">Zea mays</div>
-      <div class="card-names"><div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">MAIZE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gún</span></div></div>
-      <div class="card-foot">
-        <span class="access-badge access-public">No Amplification</span>
-        
-      </div>
-    </a>
-  </div>
-
-<footer class="site-footer">
-  <div class="footer-left">
-    <span class="ui" data-en="Iroko Historical Society · Ewé Database" data-es="Sociedad Histórica Iroko · Base de Datos Ewé" data-fr="Société Historique Iroko · Base de Données Ewé" data-yo="Àwùjọ Ìtàn Iroko · Àkójọpọ̀ Ewé" data-pt="Sociedade Histórica Iroko · Base de Dados Ewé">Iroko Historical Society · Ewé Database</span><br>
-    <span class="ui" data-en="Postcustodial Digital Archives for Afro-Atlantic Cultural Materials" data-es="Archivos Digitales Postcustodiales para Materiales Culturales Afroatlánticos" data-fr="Archives Numériques Post-custodiales pour Matériaux Culturels Afro-atlantiques" data-yo="Àwọn Àkọsílẹ̀ Ìròyìn Àfikà-Adágún-Atlantiki" data-pt="Arquivos Digitais Pós-custodiais para Materiais Culturais Afro-Atlânticos">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</span><br>
-    Source: Pierre Fatumbi Verger, <em>Ewé: The Use of Plants in Yoruba Society</em> (1995) ·
-    Dalia Quiros-Moran, <em>Guide to Afro-Cuban Herbalism</em><br>
-    Vocabulary: <a href="https://ontology.irokosociety.org">Iroko Framework v1.2.0</a> · License: CC0 1.0
-  </div>
-  <div class="footer-links">
-    <a href="https://www.irokosociety.org">irokosociety.org</a>
-    <a href="https://ontology.irokosociety.org">Vocabulary</a>
-    <a href="index.html" class="ui" data-en="All Plants" data-es="Todas las Plantas" data-fr="Toutes les Plantes" data-yo="Gbogbo Ewé" data-pt="Todas as Plantas">All Plants</a>
-  </div>
-</footer>
-
+<div class="toolbar toolbar-grid">
+  <input class="search-input" type="search" id="plantSearch" placeholder="Search by name, scientific name, or vernacular…" autocomplete="off">
+  <span class="search-count" id="searchCount">50 <span class="ui-copy" data-copy-key="plants">plants</span></span>
+  <select class="access-select" id="accessFilter">
+    <option value="" class="ui-copy" data-copy-key="all_access">All Access Tiers</option>
+    <option value="access-public-unrestricted">Public – Unrestricted</option>
+    <option value="access-public-no-amplification">Public – No Amplification</option>
+    <option value="access-community-only">Limited – Community Only</option>
+    <option value="access-initiated-only">Limited – Initiated Only</option>
+    <option value="access-initiated-elder">Limited – Elder Initiated</option>
+    <option value="access-no-access">Restricted – No Access</option>
+  </select>
 </div>
 
-<script>
-(function(){
-  var LANGS = ['en','es','fr','yo','pt'];
-  var stored = (localStorage.getItem('ewe-ui-lang') || 'en');
-  if(LANGS.indexOf(stored) < 0) stored = 'en';
+<div class="filter-row" id="ritualFilter">
+  <button class="filter-pill active" data-ritual=""><span class="ui-copy" data-copy-key="all_plants">All Plants</span></button>
+<button class="filter-pill" data-ritual="Cosmological / Symbolic">Cosmological / Symbolic</button><button class="filter-pill" data-ritual="Healing &amp; Restoration">Healing &amp; Restoration</button><button class="filter-pill" data-ritual="Invocation &amp; Communication">Invocation &amp; Communication</button><button class="filter-pill" data-ritual="Offering &amp; Devotion">Offering &amp; Devotion</button><button class="filter-pill" data-ritual="Protection &amp; Boundary">Protection &amp; Boundary</button><button class="filter-pill" data-ritual="Purification &amp; Cleansing">Purification &amp; Cleansing</button><button class="filter-pill" data-ritual="Rites of Transition">Rites of Transition</button></div>
 
-  function applyLang(lang){
-    document.body.setAttribute('data-ui-lang', lang);
-    // Update all .ui spans
-    document.querySelectorAll('.ui[data-'+lang+']').forEach(function(el){
-      el.textContent = el.getAttribute('data-'+lang);
-    });
-    // Update search placeholder
-    var si = document.querySelector('.search-input');
-    if(si){
-      var ph = si.getAttribute('data-ph-'+lang);
-      if(ph) si.placeholder = ph;
-    }
-    // Update lang buttons
-    document.querySelectorAll('.lang-btn').forEach(function(b){
-      b.classList.toggle('active', b.dataset.lang === lang);
-    });
-    localStorage.setItem('ewe-ui-lang', lang);
-  }
-
-  document.querySelectorAll('.lang-btn').forEach(function(btn){
-    btn.addEventListener('click', function(){
-      if(!this.classList.contains('disabled')) applyLang(this.dataset.lang);
-    });
-  });
-
-  applyLang(stored);
-})();
-</script>
-
-<script>
-(function(){
-  var searchEl = document.getElementById('plantSearch');
-  var countEl  = document.getElementById('searchCount');
-  var cards    = document.querySelectorAll('.plant-card');
-  var pills    = document.querySelectorAll('#ritualFilter .filter-pill');
-  var activeRitual = '';
-
-  function applyFilters(){
-    var query = searchEl.value.toLowerCase().trim();
-    var visible = 0;
-    cards.forEach(function(card){
-      var ok = (!query || card.dataset.search.includes(query)) &&
-               (!activeRitual || card.dataset.ritual === activeRitual);
-      card.classList.toggle('hidden', !ok);
-      if(ok) visible++;
-    });
-    var lbl = document.querySelector('#searchCount .ui');
-    countEl.firstChild.textContent = visible + ' ';
-  }
-
-  searchEl.addEventListener('input', applyFilters);
-  pills.forEach(function(pill){
-    pill.addEventListener('click', function(){
-      pills.forEach(function(p){p.classList.remove('active');});
-      this.classList.add('active');
-      activeRitual = this.dataset.ritual;
-      applyFilters();
-    });
-  });
-})();
-</script>
-
+<div class="plant-grid" id="plantGrid">
+  <a class="plant-card" href="plant/Plant0013.html" data-search="plant0013 romerillo bidens pilosa accepted romerillo ciambu zegwi spanish needles beggar&#39;s ticks agulha peru - cadillo agáràn mọ́yàn ajísọmọbíàlà ọya àbẹ́rẹ́ olókò agbéde dúdú oko malángánrán ẹlẹ́sìn màsò agámàyàn akẹ́sìn màsò carrapicho picao preto" data-search-ascii="plant0013 romerillo bidens pilosa accepted romerillo ciambu zegwi spanish needles beggar&#39;s ticks agulha peru - cadillo agaran moyan ajisomobiala oya abere oloko agbede dudu oko malanganran elesin maso agamayan akesin maso carrapicho picao preto" data-ritual="Protection &amp; Boundary" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0013</div>
+    <div class="card-pref">Agáràn mọ́yàn</div>
+    <div class="card-sci">Bidens pilosa</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Spanish Needles</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Agáràn mọ́yàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">ROMERILLO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0005.html" data-search="plant0005 cebolla allium cepa accepted cebolla molabo alùbọ́sà kẹ́tà ẹ̀lùbọ́sà alùbọ́sà gàmbàrì alùbọ́sà oignon onion" data-search-ascii="plant0005 cebolla allium cepa accepted cebolla molabo alubosa keta elubosa alubosa gambari alubosa oignon onion" data-ritual="Offering &amp; Devotion" data-access="access-initiated-elder">
+    <div class="card-id">Plant0005</div>
+    <div class="card-pref">Alùbọ́sà kẹ́tà</div>
+    <div class="card-sci">Allium cepa</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ONION</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Alùbọ́sà kẹ́tà</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">CEBOLLA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Elder Initiated</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0019.html" data-search="plant0019 aji chile capsicum annuum accepted aji chile kualay. inkako kindungo ata àbáláyé alá jíjẹ ata gbásẹ́jọ kòrúukò ata àbúrèkú ata àbáìjọsí ata ìṣẹǹbáyé cayenne pepper sweet pepper" data-search-ascii="plant0019 aji chile capsicum annuum accepted aji chile kualay. inkako kindungo ata abalaye ala jije ata gbasejo koruuko ata abureku ata abaijosi ata isenbaye cayenne pepper sweet pepper" data-ritual="Healing &amp; Restoration" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0019</div>
+    <div class="card-pref">Ata àbáláyé</div>
+    <div class="card-sci">Capsicum annuum</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">CAYENNE PEPPER</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ata àbáláyé</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">AJI CHILE</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0018.html" data-search="plant0018 arbol de la cera calotropis procera accepted arbol de la cera arbol de sebo arrayan. wax masere arraigan. candleberry wax wood. myrtle. southern myrtle bọ̀múbọ̀mú southern bayberry jamaica - waxberry" data-search-ascii="plant0018 arbol de la cera calotropis procera accepted arbol de la cera arbol de sebo arrayan. wax masere arraigan. candleberry wax wood. myrtle. southern myrtle bomubomu southern bayberry jamaica - waxberry" data-ritual="Protection &amp; Boundary" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0018</div>
+    <div class="card-pref">Bọ̀múbọ̀mú</div>
+    <div class="card-sci">Calotropis procera</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SOUTHERN BAYBERRY</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Bọ̀múbọ̀mú</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">ARBOL DE LA CERA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0004.html" data-search="plant0004 aroma amarilla u olorosa acacia farnesiana accepted aroma amarilla u olorosa cuji cachito de aroma aroma sunsumie gren&#39;n l&#39;eglise lyan&#39;n réglisse réglisse sweet acacia colombia - aromo costa rica philippines graine-réglisse mexico espino blanco uruguay – espinillo lyan&#39;n l&#39;église nicaragua argentina peru bọ́nní bànì" data-search-ascii="plant0004 aroma amarilla u olorosa acacia farnesiana accepted aroma amarilla u olorosa cuji cachito de aroma aroma sunsumie gren&#39;n l&#39;eglise lyan&#39;n reglisse reglisse sweet acacia colombia - aromo costa rica philippines graine-reglisse mexico espino blanco uruguay – espinillo lyan&#39;n l&#39;eglise nicaragua argentina peru bonni bani" data-ritual="Purification &amp; Cleansing" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0004</div>
+    <div class="card-pref">Bọ́nní</div>
+    <div class="card-sci">Acacia farnesiana</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SWEET ACACIA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Bọ́nní</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">AROMA AMARILLA U OLOROSA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0045.html" data-search="plant0045 espigelia spigelia anthelmia accepted espigelia yerba lombricera. west indian pinkroot worm bush pinkroot ewé àrán" data-search-ascii="plant0045 espigelia spigelia anthelmia accepted espigelia yerba lombricera. west indian pinkroot worm bush pinkroot ewe aran" data-ritual="Healing &amp; Restoration" data-access="access-community-only">
+    <div class="card-id">Plant0045</div>
+    <div class="card-pref">Ewé àrán</div>
+    <div class="card-sci">Spigelia anthelmia</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">West Indian Pinkroot</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ewé àrán</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">ESPIGELIA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0030.html" data-search="plant0030 piñon de botija jatropha curcas accepted piñon de botija piñón de botija, piñon de cercas tempate tempacte piñón de indias, sangreado, piñoncillo puluka, masorosi tapate, coquillo tártago, piñon, piñon purgante coquillo cotoncillo ewé ìbọ̀ bọ̀tújẹ́ lóbọ̀tújẹ́ ìyálóde olóbọ̀ntújẹ́ lápálápà bọ̀tújẹ́ úbọ̀ piao, piao branco, pinhao bravo physic nut barbados nut, purge nut, curcasbean médicinier, médicinier béni, medsinyen batà, médecinier rouge, bois-ortolan, graine ortolan, zèb zotolan, petit medecinier" data-search-ascii="plant0030 pinon de botija jatropha curcas accepted pinon de botija pinon de botija, pinon de cercas tempate tempacte pinon de indias, sangreado, pinoncillo puluka, masorosi tapate, coquillo tartago, pinon, pinon purgante coquillo cotoncillo ewe ibo botuje lobotuje iyalode olobontuje lapalapa botuje ubo piao, piao branco, pinhao bravo physic nut barbados nut, purge nut, curcasbean medicinier, medicinier beni, medsinyen bata, medecinier rouge, bois-ortolan, graine ortolan, zeb zotolan, petit medecinier" data-ritual="Healing &amp; Restoration" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0030</div>
+    <div class="card-pref">Ewé ìbọ̀</div>
+    <div class="card-sci">Jatropha curcas</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PHYSIC NUT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ewé ìbọ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">PIÑON DE BOTIJA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0039.html" data-search="plant0039 guayaba psidium guajava accepted guayaba guayabo guayaba de venado guayaba de gusano gúàfà gúròbà gúàbà gúròfà guayaba perulera guava gouyav grivav goyav" data-search-ascii="plant0039 guayaba psidium guajava accepted guayaba guayabo guayaba de venado guayaba de gusano guafa guroba guaba gurofa guayaba perulera guava gouyav grivav goyav" data-ritual="Healing &amp; Restoration" data-access="access-community-only">
+    <div class="card-id">Plant0039</div>
+    <div class="card-pref">Gúàfà</div>
+    <div class="card-sci">Psidium guajava</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Guayaba perulera</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Gúàfà</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">GUAYABA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0001.html" data-search="plant0001 iròkò milicia excelsa accepted iròkò iròkò ńlá (hon.) iròkò èwọ̀ èrò iròkò iròkò aládé oko ìràwé igbó african teak god tree" data-search-ascii="plant0001 iroko milicia excelsa accepted iroko iroko nla (hon.) iroko ewo ero iroko iroko alade oko irawe igbo african teak god tree" data-ritual="Cosmological / Symbolic" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0001</div>
+    <div class="card-pref">Iròkò</div>
+    <div class="card-sci">Milicia excelsa</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">African Teak</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Iròkò</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">God Tree</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0036.html" data-search="plant0036 azucarito paullinia pinnata accepted azucarito bejuco de costilla barbasco bejuquillo british antilles - bread-and-cheese matancero bejuco chilmecate bejuco de vieja nistamil azucarillo bejuco de bread-and-cheese bejuco de indio (santiago de cuba) paloma supple jack lágọ́lágọ́ ọ̀gbé okújẹ̀ kákásẹ́mí ṣọ́lá awòmí kákásẹ́nlà" data-search-ascii="plant0036 azucarito paullinia pinnata accepted azucarito bejuco de costilla barbasco bejuquillo british antilles - bread-and-cheese matancero bejuco chilmecate bejuco de vieja nistamil azucarillo bejuco de bread-and-cheese bejuco de indio (santiago de cuba) paloma supple jack lagolago ogbe okuje kakasemi sola awomi kakasenla" data-ritual="Protection &amp; Boundary" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0036</div>
+    <div class="card-pref">Lágọ́lágọ́</div>
+    <div class="card-sci">Paullinia pinnata</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Bejuco de</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Lágọ́lágọ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">AZUCARITO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0028.html" data-search="plant0028 marpacifico hibiscus sp. accepted marpacifico clavel japonés. pavón chinese-rose. carta abierta amapola tulipán flor de chivo resucitó hibisco. virgin islands - chinese-rose papo candelá borrachona leche de venus shoublak malva de china amapola papoula. campana marimoña cupido mar serena guasintón resplandor maníjẹ̀ hibiscus sangre de adonis. dominican republic - sangre de cristo chinese hibiscus cayena. hawaii -red hibiscus. jamaica - shoe-black candelada" data-search-ascii="plant0028 marpacifico hibiscus sp. accepted marpacifico clavel japones. pavon chinese-rose. carta abierta amapola tulipan flor de chivo resucito hibisco. virgin islands - chinese-rose papo candela borrachona leche de venus shoublak malva de china amapola papoula. campana marimona cupido mar serena guasinton resplandor manije hibiscus sangre de adonis. dominican republic - sangre de cristo chinese hibiscus cayena. hawaii -red hibiscus. jamaica - shoe-black candelada" data-ritual="Offering &amp; Devotion" data-access="access-community-only">
+    <div class="card-id">Plant0028</div>
+    <div class="card-pref">Maníjẹ̀</div>
+    <div class="card-sci">Hibiscus sp.</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">HIBISCUS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Maníjẹ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">MARPACIFICO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0048.html" data-search="plant0048 ofon vitex doniana accepted ofon òrì ọ̀dàn òrì òrì ńlá black plum ofón" data-search-ascii="plant0048 ofon vitex doniana accepted ofon ori odan ori ori nla black plum ofon" data-ritual="Offering &amp; Devotion" data-access="access-community-only">
+    <div class="card-id">Plant0048</div>
+    <div class="card-pref">OFON</div>
+    <div class="card-sci">Vitex doniana</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BLACK PLUM</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">OFON</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">Ofón</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0038.html" data-search="plant0038 anamu petiveria alliacea accepted anamu hierba de las gallinitas namu hispasina ipacina mapurite zorrillo ojúsàjú fèy ave apazote zorro argentina – pipí guinea hen weed" data-search-ascii="plant0038 anamu petiveria alliacea accepted anamu hierba de las gallinitas namu hispasina ipacina mapurite zorrillo ojusaju fey ave apazote zorro argentina – pipi guinea hen weed" data-ritual="Rites of Transition" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0038</div>
+    <div class="card-pref">Ojúsàjú</div>
+    <div class="card-sci">Petiveria alliacea</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Apazote zorro</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ojúsàjú</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">ANAMU</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0046.html" data-search="plant0046 jobo spondias mombin accepted jobo sismoyo ciruela de méjico jobito ciruela del jobo francés jobo jobo hembra obo ciruela calentana spanish olóṣàn ìyẹ̀yẹ́ ọ̀kíkà iléwò olóṣàn ẹ̀kíkà jocote tronador arada - akuko país plum java plum grengerengue kunansieto hug plum tropical plum cajazeira" data-search-ascii="plant0046 jobo spondias mombin accepted jobo sismoyo ciruela de mejico jobito ciruela del jobo frances jobo jobo hembra obo ciruela calentana spanish olosan iyeye okika ilewo olosan ekika jocote tronador arada - akuko pais plum java plum grengerengue kunansieto hug plum tropical plum cajazeira" data-ritual="Offering &amp; Devotion" data-access="access-community-only">
+    <div class="card-id">Plant0046</div>
+    <div class="card-pref">Olóṣàn</div>
+    <div class="card-sci">Spondias mombin</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Jocote tronador</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Olóṣàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">JOBO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0037.html" data-search="plant0037 yerba de la plata peperomia pellucida accepted yerba de la plata paloma. yerba de la plata corazon de yerba pelu man-to-man salade soldat rat-ear. shiny bush pepper elder rínrín zèb-kourès" data-search-ascii="plant0037 yerba de la plata peperomia pellucida accepted yerba de la plata paloma. yerba de la plata corazon de yerba pelu man-to-man salade soldat rat-ear. shiny bush pepper elder rinrin zeb-koures" data-ritual="Cosmological / Symbolic" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0037</div>
+    <div class="card-pref">Rínrín</div>
+    <div class="card-sci">Peperomia pellucida</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SHINY BUSH</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Rínrín</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">YERBA DE LA PLATA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0007.html" data-search="plant0007 bledo espinoso amaranthus spinosus accepted bledo espinoso wild spinache pigweed amaranth zepina-kabrit zepina-à-shyen zepina-rouj zepina-koshon zepina-pikan tẹ́tẹ́ oyìbó tẹ́tẹ́ ńlá tẹ́tẹ́gun dérú olákálẹ̀ tẹ́tẹ́ pọ̀pò tẹ́tẹ́ gbọ̀lọ́gì tẹ́tẹ́ oyágadé tẹ́tẹ́ kékeré tẹ́tẹ́ ọ̀sàn spiny amaranth" data-search-ascii="plant0007 bledo espinoso amaranthus spinosus accepted bledo espinoso wild spinache pigweed amaranth zepina-kabrit zepina-a-shyen zepina-rouj zepina-koshon zepina-pikan tete oyibo tete nla tetegun deru olakale tete popo tete gbologi tete oyagade tete kekere tete osan spiny amaranth" data-ritual="Offering &amp; Devotion" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0007</div>
+    <div class="card-pref">Tẹ́tẹ́ oyìbó</div>
+    <div class="card-sci">Amaranthus spinosus</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SPINY AMARANTH</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Tẹ́tẹ́ oyìbó</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">BLEDO ESPINOSO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0008.html" data-search="plant0008 bledo blanco amaranthus viridis accepted bledo blanco blero bledo espinaca. tẹ́tẹ́ ńlá tẹ́tẹ́ ẹ̀gúndò tẹ́tẹ́ pọ̀pò tẹ́tẹ́ ọ̀sàn tẹ́tẹ́ oyágadé tẹ́tẹ́ elẹ́gún tẹ́tẹ́ oyìbó tẹ́tẹ́ ẹ̀gún tẹ́tẹ́gun dérú olákálẹ̀ tẹ́tẹ́ kékeré tẹ́tẹ́ atèlẹ̀ dàǹtì tẹ́tẹ́ gbọ̀lọ́gì slender amaranth bledo manso green calalu" data-search-ascii="plant0008 bledo blanco amaranthus viridis accepted bledo blanco blero bledo espinaca. tete nla tete egundo tete popo tete osan tete oyagade tete elegun tete oyibo tete egun tetegun deru olakale tete kekere tete atele danti tete gbologi slender amaranth bledo manso green calalu" data-ritual="Healing &amp; Restoration" data-access="access-initiated-only">
+    <div class="card-id">Plant0008</div>
+    <div class="card-pref">Tẹ́tẹ́ ńlá</div>
+    <div class="card-sci">Amaranthus viridis</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SLENDER AMARANTH</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Tẹ́tẹ́ ńlá</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">BLEDO BLANCO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Initiated Only</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0009.html" data-search="plant0009 baga annona glabra accepted baga baga palo de cayur anón liso anoncillo guanábano cimarrón baga guanábana cimarrona ecuador - anona del campo corcho. guanábano cimarrón arbol de corcho mammier corcho mayos corazón cimarrón chona anón de puerco chirimoya cimarrona anón. cimarrona guanábano bobo. guanábana guanábana silvestre carossol marrón anon de río palo bobo mammon de perro custard apple cimarrona. dominican republic – guanábano de corcho pond apple alligator apple àfẹ́ araticum do brejo" data-search-ascii="plant0009 baga annona glabra accepted baga baga palo de cayur anon liso anoncillo guanabano cimarron baga guanabana cimarrona ecuador - anona del campo corcho. guanabano cimarron arbol de corcho mammier corcho mayos corazon cimarron chona anon de puerco chirimoya cimarrona anon. cimarrona guanabano bobo. guanabana guanabana silvestre carossol marron anon de rio palo bobo mammon de perro custard apple cimarrona. dominican republic – guanabano de corcho pond apple alligator apple afe araticum do brejo" data-ritual="Healing &amp; Restoration" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0009</div>
+    <div class="card-pref">Àfẹ́</div>
+    <div class="card-sci">Annona glabra</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">custard apple</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Àfẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">BAGA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0025.html" data-search="plant0025 cocotero cocos nucifera accepted cocotero kumelenga sandu palma de coco cocotero coconut àgbọn kokoye" data-search-ascii="plant0025 cocotero cocos nucifera accepted cocotero kumelenga sandu palma de coco cocotero coconut agbon kokoye" data-ritual="Purification &amp; Cleansing" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0025</div>
+    <div class="card-pref">Àgbọn</div>
+    <div class="card-sci">Cocos nucifera</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">COCONUT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Àgbọn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">COCOTERO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0047.html" data-search="plant0047 tamarindo tamarindus indica accepted tamarindo arada - awati tanmarin sí tamarindo tamarind tamarin àjàgbọn tamarind" data-search-ascii="plant0047 tamarindo tamarindus indica accepted tamarindo arada - awati tanmarin si tamarindo tamarind tamarin ajagbon tamarind" data-ritual="Invocation &amp; Communication" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0047</div>
+    <div class="card-pref">Àjàgbọn</div>
+    <div class="card-sci">Tamarindus indica</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">TAMARIND</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Àjàgbọn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">TAMARINDO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0029.html" data-search="plant0029 boniato ipomoea batatas accepted boniato mbala camote batata da ilha ànámọ́ yàyà kúkúndúnkú ọ̀dúnkùn ẹ̀dùn-mísí òdìnkìntìn àdínmẹ́ dominican republic – batata sweet potatoe" data-search-ascii="plant0029 boniato ipomoea batatas accepted boniato mbala camote batata da ilha anamo yaya kukundunku odunkun edun-misi odinkintin adinme dominican republic – batata sweet potatoe" data-ritual="Purification &amp; Cleansing" data-access="access-initiated-only">
+    <div class="card-id">Plant0029</div>
+    <div class="card-pref">Ànámọ́ yàyà</div>
+    <div class="card-sci">Ipomoea batatas</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Dominican Republic – Batata</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ànámọ́ yàyà</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">BONIATO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Initiated Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0043.html" data-search="plant0043 malva de cochinos sida rhombifolia accepted malva de cochinos paddy&#39;s lucern escobilla huinari huinar huinare jelly leaf queensland hemp argentina - tebincha dominican republic – malva perú - limpion escoba amarilla ìfín ewé ìfín" data-search-ascii="plant0043 malva de cochinos sida rhombifolia accepted malva de cochinos paddy&#39;s lucern escobilla huinari huinar huinare jelly leaf queensland hemp argentina - tebincha dominican republic – malva peru - limpion escoba amarilla ifin ewe ifin" data-ritual="Healing &amp; Restoration" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0043</div>
+    <div class="card-pref">Ìfín</div>
+    <div class="card-sci">Sida rhombifolia</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">JELLY LEAF</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìfín</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">MALVA DE COCHINOS</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0044.html" data-search="plant0044 pendejera solanum torvum accepted pendejera espina. rapon berenjena cimarrona. devil&#39;s fig. tomatillo. berenjena de gallina zamorette berenjena tabacón. milisia berenjena prendedera. ìkàn wẹ́wẹ́ ìkàn ìgùn ìgbà yínrín elẹ́gún cimarrona. dominican republic berenjena cimarrona gully bean friega platos turkey berry" data-search-ascii="plant0044 pendejera solanum torvum accepted pendejera espina. rapon berenjena cimarrona. devil&#39;s fig. tomatillo. berenjena de gallina zamorette berenjena tabacon. milisia berenjena prendedera. ikan wewe ikan igun igba yinrin elegun cimarrona. dominican republic berenjena cimarrona gully bean friega platos turkey berry" data-ritual="Offering &amp; Devotion" data-access="access-initiated-elder">
+    <div class="card-id">Plant0044</div>
+    <div class="card-pref">Ìkàn wẹ́wẹ́</div>
+    <div class="card-sci">Solanum torvum</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">cimarrona. Dominican Republic Berenjena cimarrona</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìkàn wẹ́wẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">PENDEJERA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Elder Initiated</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0041.html" data-search="plant0041 higuereta ricinus communis accepted higuereta palmachristi higuerilla higuera infernal castor bean ìlárùn ìlárà àrà pupa lápálápà adẹ́tẹ̀ lárà lárà pupa maskreti maskriti" data-search-ascii="plant0041 higuereta ricinus communis accepted higuereta palmachristi higuerilla higuera infernal castor bean ilarun ilara ara pupa lapalapa adete lara lara pupa maskreti maskriti" data-ritual="Purification &amp; Cleansing" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0041</div>
+    <div class="card-pref">Ìlárùn</div>
+    <div class="card-sci">Ricinus communis</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">CASTOR BEAN</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìlárùn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">HIGUERETA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0003.html" data-search="plant0003 ambarina abelmoschus esculentus accepted ambarina abelmosco monacillo del río. viuda. ìlásadò ẹ̀rúlà (ìrúlà) ìlásà ìlà musk okra" data-search-ascii="plant0003 ambarina abelmoschus esculentus accepted ambarina abelmosco monacillo del rio. viuda. ilasado erula (irula) ilasa ila musk okra" data-ritual="Offering &amp; Devotion" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0003</div>
+    <div class="card-pref">Ìlásadò</div>
+    <div class="card-sci">Abelmoschus esculentus</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">MUSK OKRA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìlásadò</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">AMBARINA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0022.html" data-search="plant0022 apasote chenopodium ambrosioides accepted apasote contra semen herbe-à-vers epazote ambroisie du mexique biengranada thé du mexique mexican tea american wormseed ìmì ìyìn ìṣépẹ̀ àgbẹ̀ mántúrúsì mónítúrúsì" data-search-ascii="plant0022 apasote chenopodium ambrosioides accepted apasote contra semen herbe-a-vers epazote ambroisie du mexique biengranada the du mexique mexican tea american wormseed imi iyin isepe agbe manturusi moniturusi" data-ritual="Offering &amp; Devotion" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0022</div>
+    <div class="card-pref">Ìmì ìyìn</div>
+    <div class="card-sci">Chenopodium ambrosioides</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">MEXICAN TEA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìmì ìyìn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">APASOTE</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0006.html" data-search="plant0006 sabila aloe spp. accepted sabila ìpà ẹṣíyìn ìjándúdù ẹ̀pà ẹṣin ẹṣin àbàtà ìjándù gbálúwò ìṣín aloe" data-search-ascii="plant0006 sabila aloe spp. accepted sabila ipa esiyin ijandudu epa esin esin abata ijandu gbaluwo isin aloe" data-ritual="Healing &amp; Restoration" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0006</div>
+    <div class="card-pref">Ìpà</div>
+    <div class="card-sci">Aloe spp.</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ALOE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìpà</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">SABILA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0021.html" data-search="plant0021 hedionda cassia sp. accepted hedionda pico de pájaro chilinchile hierba hedionda pois-puant hierba de la potra hierba de brusca busca. martinica pico de pajaro frijolillo mezquitillo gallinazo zépiant furrusca altera hedionda hediondillo brusca balambala comida de murcielago sicklepod herbe puante ìòòṣì ṣèkèsèkè" data-search-ascii="plant0021 hedionda cassia sp. accepted hedionda pico de pajaro chilinchile hierba hedionda pois-puant hierba de la potra hierba de brusca busca. martinica pico de pajaro frijolillo mezquitillo gallinazo zepiant furrusca altera hedionda hediondillo brusca balambala comida de murcielago sicklepod herbe puante ioosi sekeseke" data-ritual="Protection &amp; Boundary" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0021</div>
+    <div class="card-pref">Ìòòṣì</div>
+    <div class="card-sci">Cassia sp.</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SICKLEPOD</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìòòṣì</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">HEDIONDA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0020.html" data-search="plant0020 frutabomba carica papaya accepted frutabomba arada – yipe lechosa melón zapote papaya ìṣígin ìbépẹ̀ ṣígù gbẹ́gbẹ́rẹ̀ ìbépẹ̀ dídì papaya sanasse argentina - manón jamaica - pawpaw papay" data-search-ascii="plant0020 frutabomba carica papaya accepted frutabomba arada – yipe lechosa melon zapote papaya isigin ibepe sigu gbegbere ibepe didi papaya sanasse argentina - manon jamaica - pawpaw papay" data-ritual="Purification &amp; Cleansing" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0020</div>
+    <div class="card-pref">Ìṣígin</div>
+    <div class="card-sci">Carica papaya</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PAPAYA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìṣígin</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">FRUTABOMBA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0015.html" data-search="plant0015 seso vegetal blighia sapida accepted seso vegetal arbol del seso. castanheiro do africa bien me sabe akee akee de africa vegetable brains ìṣín ọ̀dàn ìṣín ọ̀ká ìṣín jíjẹ ìṣín huevo vegetal arada - yowele pan y quesito. u. s. - akee-tree seso vegetal akee" data-search-ascii="plant0015 seso vegetal blighia sapida accepted seso vegetal arbol del seso. castanheiro do africa bien me sabe akee akee de africa vegetable brains isin odan isin oka isin jije isin huevo vegetal arada - yowele pan y quesito. u. s. - akee-tree seso vegetal akee" data-ritual="Rites of Transition" data-access="access-initiated-elder">
+    <div class="card-id">Plant0015</div>
+    <div class="card-pref">Ìṣín ọ̀dàn</div>
+    <div class="card-sci">Blighia sapida</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Huevo vegetal</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìṣín ọ̀dàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">SESO VEGETAL</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Elder Initiated</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0026.html" data-search="plant0026 esquenato cymbopogon citratus accepted esquenato caña de la meca. caña de limon ìṣọ́kọ̀ ẹ̀tí kòókò ọba ọ̀kọ̀ ọba kọ́ríko oyìnbó kọ́ríko ọba tù lemon grass" data-search-ascii="plant0026 esquenato cymbopogon citratus accepted esquenato cana de la meca. cana de limon isoko eti kooko oba oko oba koriko oyinbo koriko oba tu lemon grass" data-ritual="Cosmological / Symbolic" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0026</div>
+    <div class="card-pref">Ìṣọ́kọ̀</div>
+    <div class="card-sci">Cymbopogon citratus</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">LEMON GRASS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ìṣọ́kọ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">ESQUENATO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0023.html" data-search="plant0023 naranja agria citrus aurantium accepted naranja agria orange sour orange naranja agria gosco (gwo po) seville orange sour orange sweet orange bitter orange òròmbó mùmù gán-ìn gán-ìn òròmbó ọ̀sàn oyìnbó òròmbó ẹ̀fín òrò díybẹ̀ òròmbó dídín ọ̀sàn mùmù òròmbó jagányìn òròmbó lákíẹ̀gbé ọ̀sàn ńlá jagányìn òròmbó ìgùn jagbúrẹ̀ zorany sí zoranj anmè" data-search-ascii="plant0023 naranja agria citrus aurantium accepted naranja agria orange sour orange naranja agria gosco (gwo po) seville orange sour orange sweet orange bitter orange orombo mumu gan-in gan-in orombo osan oyinbo orombo efin oro diybe orombo didin osan mumu orombo jaganyin orombo lakiegbe osan nla jaganyin orombo igun jagbure zorany si zoranj anme" data-ritual="Healing &amp; Restoration" data-access="access-initiated-only">
+    <div class="card-id">Plant0023</div>
+    <div class="card-pref">Òròmbó mùmù</div>
+    <div class="card-sci">Citrus aurantium</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">sour orange</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Òròmbó mùmù</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">NARANJA AGRIA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Initiated Only</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0011.html" data-search="plant0011 mani arachis hypogaea accepted mani pistache arada – azo guba cacahuate mindo amendou verdadeiro òrórẹ́ ẹ̀pàdà ẹ̀pà (gidi) peanut" data-search-ascii="plant0011 mani arachis hypogaea accepted mani pistache arada – azo guba cacahuate mindo amendou verdadeiro orore epada epa (gidi) peanut" data-ritual="Protection &amp; Boundary" data-access="access-initiated-elder">
+    <div class="card-id">Plant0011</div>
+    <div class="card-pref">Òrórẹ́ ẹ̀pàdà</div>
+    <div class="card-sci">Arachis hypogaea</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PEANUT</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Òrórẹ́ ẹ̀pàdà</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">MANI</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Elder Initiated</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0034.html" data-search="plant0034 albahaca anisada ocimum basilicum accepted albahaca anisada basil ẹ̀fínrín ajá ẹ̀fínrín marúgbọ́sányàn ẹ̀fínrín ata ẹ̀fínrín òtù ẹyẹ́ ọbalẹ̀ ẹ̀fínrín arùntántàn ẹ̀rìyàntẹ́fẹ́ ẹ̀fínrín wẹ́wẹ́" data-search-ascii="plant0034 albahaca anisada ocimum basilicum accepted albahaca anisada basil efinrin aja efinrin marugbosanyan efinrin ata efinrin otu eye obale efinrin aruntantan eriyantefe efinrin wewe" data-ritual="Protection &amp; Boundary" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0034</div>
+    <div class="card-pref">Ẹ̀fínrín ajá</div>
+    <div class="card-sci">Ocimum basilicum</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BASIL</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀fínrín ajá</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">ALBAHACA ANISADA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0050.html" data-search="plant0050 maiz zea mays accepted maiz arada – dli ẹ̀gún yàngàn ọ̀kà àgbàdo ìgbàdo mayi milho maize" data-search-ascii="plant0050 maiz zea mays accepted maiz arada – dli egun yangan oka agbado igbado mayi milho maize" data-ritual="Purification &amp; Cleansing" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0050</div>
+    <div class="card-pref">Ẹ̀gún</div>
+    <div class="card-sci">Zea mays</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">MAIZE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gún</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">MAIZ</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0002.html" data-search="plant0002 ceiba ceiba pentandra accepted ceiba arada – wele honsu la ceiba ẹ̀gún (òwú ẹ̀gún) ọ̀gbùngbùn ẹ̀gúngún-ogun àràbà fromagier kapokier mapou white silk cotton tree kapok tree" data-search-ascii="plant0002 ceiba ceiba pentandra accepted ceiba arada – wele honsu la ceiba egun (owu egun) ogbungbun egungun-ogun araba fromagier kapokier mapou white silk cotton tree kapok tree" data-ritual="Protection &amp; Boundary" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0002</div>
+    <div class="card-pref">Ẹ̀gún (òwú ẹ̀gún)</div>
+    <div class="card-sci">Ceiba pentandra</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">White silk cotton tree</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gún (òwú ẹ̀gún)</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">CEIBA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0031.html" data-search="plant0031 yuca manihot esculenta accepted yuca bagudan ibagudan nkumbia lukumi – kokomadoko ẹ̀gẹ́ gbagúdà ẹ̀gẹ́ funfun gbájádà ẹ̀gẹ́ àti ẹ̀gẹ́ káràgbà gbagúdà funfun gbagúdà dàlẹ̀ jọ̀rò ẹ̀gẹ́ olówó-kìntíbọ́ ẹ̀gẹ́ òkè gbagúdà pupa lánasẹ́ pákì ẹ̀gẹ́ gbókógbaálà mandioka tapioca cassaba" data-search-ascii="plant0031 yuca manihot esculenta accepted yuca bagudan ibagudan nkumbia lukumi – kokomadoko ege gbaguda ege funfun gbajada ege ati ege karagba gbaguda funfun gbaguda dale joro ege olowo-kintibo ege oke gbaguda pupa lanase paki ege gbokogbaala mandioka tapioca cassaba" data-ritual="Offering &amp; Devotion" data-access="access-community-only">
+    <div class="card-id">Plant0031</div>
+    <div class="card-pref">Ẹ̀gẹ́</div>
+    <div class="card-sci">Manihot esculenta</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">CASSABA</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">YUCA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0027.html" data-search="plant0027 yerba lechosa euphorbia hirta accepted yerba lechosa pilulye malnomen malon&#39;nen yerba lechera teta de vieja. ẹ̀gẹ́lẹ́ zèb malnomen erva de santa luzia asthma weed" data-search-ascii="plant0027 yerba lechosa euphorbia hirta accepted yerba lechosa pilulye malnomen malon&#39;nen yerba lechera teta de vieja. egele zeb malnomen erva de santa luzia asthma weed" data-ritual="Protection &amp; Boundary" data-access="access-initiated-only">
+    <div class="card-id">Plant0027</div>
+    <div class="card-pref">Ẹ̀gẹ́lẹ́</div>
+    <div class="card-sci">Euphorbia hirta</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ASTHMA WEED</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀gẹ́lẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">YERBA LECHOSA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-initiated">Limited – Initiated Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0032.html" data-search="plant0032 cundeamor momordica charantia accepted cundeamor melao de san caetano cundeamor cundeamore bitter melon balsam pear ẹ̀jìnrìn wẹ́wẹ́" data-search-ascii="plant0032 cundeamor momordica charantia accepted cundeamor melao de san caetano cundeamor cundeamore bitter melon balsam pear ejinrin wewe" data-ritual="Cosmological / Symbolic" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0032</div>
+    <div class="card-pref">Ẹ̀jìnrìn wẹ́wẹ́</div>
+    <div class="card-sci">Momordica charantia</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BITTER MELON</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀jìnrìn wẹ́wẹ́</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">CUNDEAMOR</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0012.html" data-search="plant0012 cardo santo argemone mexicana accepted cardo santo chadron benit chicalote chadron zebchadron zeb-dragon chadron marbre ẹ̀kànnà ẹkùn ẹlẹ́gẹ́ ẹ̀gún àrìgbó prickly poppy cando ere mexican poppy" data-search-ascii="plant0012 cardo santo argemone mexicana accepted cardo santo chadron benit chicalote chadron zebchadron zeb-dragon chadron marbre ekanna ekun elege egun arigbo prickly poppy cando ere mexican poppy" data-ritual="Healing &amp; Restoration" data-access="access-community-only">
+    <div class="card-id">Plant0012</div>
+    <div class="card-pref">Ẹ̀kànnà ẹkùn</div>
+    <div class="card-sci">Argemone mexicana</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">PRICKLY POPPY</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀kànnà ẹkùn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">CARDO SANTO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0042.html" data-search="plant0042 ajonjoli sesamum indicum accepted ajonjoli ndeba arada – alpiri guanillila wowoli sesame seed ẹ̀kú gógóró ẹ̀kú igi yànmọ́tí ọ̀júà àfájọ" data-search-ascii="plant0042 ajonjoli sesamum indicum accepted ajonjoli ndeba arada – alpiri guanillila wowoli sesame seed eku gogoro eku igi yanmoti ojua afajo" data-ritual="Healing &amp; Restoration" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0042</div>
+    <div class="card-pref">Ẹ̀kú gógóró</div>
+    <div class="card-sci">Sesamum indicum</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">SESAME SEED</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀kú gógóró</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">AJONJOLI</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0010.html" data-search="plant0010 guanabana annona muricata accepted guanabana kowosol durian graviola nichularafun prickly custard apple soursop ẹ̀kọ́ ọmọde ẹ̀kọ́ oyìnbó" data-search-ascii="plant0010 guanabana annona muricata accepted guanabana kowosol durian graviola nichularafun prickly custard apple soursop eko omode eko oyinbo" data-ritual="Healing &amp; Restoration" data-access="access-community-only">
+    <div class="card-id">Plant0010</div>
+    <div class="card-pref">Ẹ̀kọ́ ọmọde</div>
+    <div class="card-sci">Annona muricata</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Prickly custard apple</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀kọ́ ọmọde</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">GUANABANA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-community">Limited – Community Only</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0016.html" data-search="plant0016 prodigiosa bryophyllum pinnatum accepted prodigiosa arará - afami bruja. sanglaou hoja siempreviva víbora inmortal lougarou amor tras la puerta bruja colombina sanglou ẹ̀rù òdúndún abàmọdá kántíkántì òwò ewé òwò kòròpọn life everlasting zèb maltèt fèy lougarou" data-search-ascii="plant0016 prodigiosa bryophyllum pinnatum accepted prodigiosa arara - afami bruja. sanglaou hoja siempreviva vibora inmortal lougarou amor tras la puerta bruja colombina sanglou eru odundun abamoda kantikanti owo ewe owo koropon life everlasting zeb maltet fey lougarou" data-ritual="Protection &amp; Boundary" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0016</div>
+    <div class="card-pref">Ẹ̀rù òdúndún</div>
+    <div class="card-sci">Bryophyllum pinnatum</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">LIFE EVERLASTING</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀rù òdúndún</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">PRODIGIOSA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0035.html" data-search="plant0035 yerba de guinea panicum maximum accepted yerba de guinea maoma vititi mariare boolongo guinea gigante. herbe de guinée ẹ̀rù ọ̀párùn kòókò ìkín ìrùkẹ̀ ìkín guineagrass panic grass hamilgrass zèb-guinen" data-search-ascii="plant0035 yerba de guinea panicum maximum accepted yerba de guinea maoma vititi mariare boolongo guinea gigante. herbe de guinee eru oparun kooko ikin iruke ikin guineagrass panic grass hamilgrass zeb-guinen" data-ritual="Rites of Transition" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0035</div>
+    <div class="card-pref">Ẹ̀rù ọ̀párùn</div>
+    <div class="card-sci">Panicum maximum</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">GUINEAGRASS</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀rù ọ̀párùn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">YERBA DE GUINEA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0049.html" data-search="plant0049 pimienta de guinea xylopia aethiopica accepted pimienta de guinea ẹ̀rùn-jẹ̀ olórìn ẹ́gò ẹ̀rù ìgò guinea pepper" data-search-ascii="plant0049 pimienta de guinea xylopia aethiopica accepted pimienta de guinea erun-je olorin ego eru igo guinea pepper" data-ritual="Cosmological / Symbolic" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0049</div>
+    <div class="card-pref">Ẹ̀rùn-jẹ̀</div>
+    <div class="card-sci">Xylopia aethiopica</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">GUINEA PEPPER</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ẹ̀rùn-jẹ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">PIMIENTA DE GUINEA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0040.html" data-search="plant0040 piscuala quisqualis indica accepted piscuala ọ̀gàn funfun ọ̀gàn igbó rangoon creeper" data-search-ascii="plant0040 piscuala quisqualis indica accepted piscuala ogan funfun ogan igbo rangoon creeper" data-ritual="Offering &amp; Devotion" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0040</div>
+    <div class="card-pref">Ọ̀gàn funfun</div>
+    <div class="card-sci">Quisqualis indica</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">RANGOON CREEPER</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀gàn funfun</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">PISCUALA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0033.html" data-search="plant0033 platano musa paradisiaca accepted platano makondo platano macho banananye bananito ọ̀gẹ̀dẹ̀ dídì ọ̀gẹ̀dẹ̀ àgbàgbà ọ̀gẹ̀dẹ̀ wẹ́rẹ́ ọ̀gẹ̀dẹ̀ apánta banana / plaintain bannan&#39;n miske" data-search-ascii="plant0033 platano musa paradisiaca accepted platano makondo platano macho banananye bananito ogede didi ogede agbagba ogede were ogede apanta banana / plaintain bannan&#39;n miske" data-ritual="Purification &amp; Cleansing" data-access="access-public-unrestricted">
+    <div class="card-id">Plant0033</div>
+    <div class="card-pref">Ọ̀gẹ̀dẹ̀ dídì</div>
+    <div class="card-sci">Musa paradisiaca</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">BANANA / PLAINTAIN</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀gẹ̀dẹ̀ dídì</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">PLATANO</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – Unrestricted</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0024.html" data-search="plant0024 limon citrus sp. accepted limon limão koronko lemon ọ̀sàn òròmbó sitwon" data-search-ascii="plant0024 limon citrus sp. accepted limon limao koronko lemon osan orombo sitwon" data-ritual="Healing &amp; Restoration" data-access="access-no-access">
+    <div class="card-id">Plant0024</div>
+    <div class="card-pref">Ọ̀sàn</div>
+    <div class="card-sci">Citrus sp.</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">LEMON</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀sàn</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">LIMON</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-none">Restricted – No Access</span>
+<span class="collision-notice">Name collision</span>    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0017.html" data-search="plant0017 gandul cajanus cajan accepted gandul frijol de palo frijolillo gandua quinconcho for chicharros garbanzo falso pigeon pea pwa kongo ọ̀tìlì" data-search-ascii="plant0017 gandul cajanus cajan accepted gandul frijol de palo frijolillo gandua quinconcho for chicharros garbanzo falso pigeon pea pwa kongo otili" data-ritual="Invocation &amp; Communication" data-access="access-public-no-amplification">
+    <div class="card-id">Plant0017</div>
+    <div class="card-pref">Ọ̀tìlì</div>
+    <div class="card-sci">Cajanus cajan</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">Garbanzo falso</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀tìlì</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">GANDUL</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-public">Public – No Amplification</span>
+    </div>
+  </a>
+  <a class="plant-card" href="plant/Plant0014.html" data-search="plant0014 bija bixa orellana accepted bija cacicuto bijaguara achote woucou birijagua. bija onoto arnotto tree green heart ọ̀ṣun elẹ́dẹ̀ urucum" data-search-ascii="plant0014 bija bixa orellana accepted bija cacicuto bijaguara achote woucou birijagua. bija onoto arnotto tree green heart osun elede urucum" data-ritual="Rites of Transition" data-access="access-no-access">
+    <div class="card-id">Plant0014</div>
+    <div class="card-pref">Ọ̀ṣun elẹ́dẹ̀</div>
+    <div class="card-sci">Bixa orellana</div>
+    <div class="card-names">
+<div class="card-name-row"><span class="card-name-lang">EN</span><span class="card-name-val">ARNOTTO TREE</span></div><div class="card-name-row"><span class="card-name-lang">YO</span><span class="card-name-val">Ọ̀ṣun elẹ́dẹ̀</span></div><div class="card-name-row"><span class="card-name-lang">ES</span><span class="card-name-val">BIJA</span></div>    </div>
+    <div class="card-foot">
+      <span class="access-badge access-none">Restricted – No Access</span>
+    </div>
+  </a>
+</div>
+    <footer class="site-footer">
+      <div class="footer-left">
+        <div>Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+        <div>Built from Verger_Ewe_Dataset_v4.ttl · 2026-03-31</div>
+        <div>Pierre Fatumbi Verger, Ewé: The Use of Plants in Yoruba Society (1995); Dalia Quiros-Moran, Guide to Afro-Cuban Herbalism</div>
+      </div>
+      <div class="footer-links">
+        <a href="https://ontology.irokosociety.org/vocab/iroko-ewe.html">Vocabulary</a>
+        <a href="https://ontology.irokosociety.org">Namespace</a>
+      </div>
+    </footer>
+  </div>
+  <script src="assets/app.js"></script>
 </body>
 </html>

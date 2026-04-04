@@ -10,11 +10,7 @@
   <meta name="build-dataset" content="{{ dataset_filename }}">
   <meta name="build-version" content="{{ dataset_version }}">
   <meta name="build-timestamp" content="{{ build_timestamp }}">
-  {% if record is defined %}
-  <link rel="stylesheet" href="../../assets/styles.css">
-  {% else %}
-  <link rel="stylesheet" href="../assets/styles.css">
-  {% endif %}
+  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   {% if record is defined %}
   <script type="application/ld+json">{{ record.visible_jsonld | tojson(indent=2) }}</script>
   {% endif %}
@@ -40,11 +36,16 @@
       {% endif %}
       {{ org_name }} · Ewé Database
     </span>
-    <div class="top-bar-links">
-      <a href="{{ vocab_page }}">{{ top_bar_framework_label }}</a>
-      <a href="https://www.irokosociety.org/">{{ external_site_label }}</a>
-      <a href="https://medjat.irokosociety.org/">Medjat ↑</a>
-    </div>
+    <nav class="top-bar-links">
+      {% if record is defined %}
+      <a href="../../ewe/">Home</a>
+      {% else %}
+      <a href=".">Home</a>
+      {% endif %}
+      <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">IHS ↗</a>
+      <a href="https://ontology.irokosociety.org/">Ontology</a>
+      <a href="https://medjat.irokosociety.org/">Per Medjat</a>
+    </nav>
   </div>
 </div>
 
@@ -63,9 +64,10 @@
       <div>{{ footer_tagline }}</div>
       <div>Built from {{ dataset_filename }} · {{ build_date }}</div>
       <div>{{ sources_line }}</div>
+      <div class="footer-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
     </div>
     <div class="footer-links">
-      <a href="https://medjat.irokosociety.org/">Medjat</a>
+      <a href="https://medjat.irokosociety.org/">Per Medjat</a>
       <a href="{{ vocab_page }}">Vocabulary</a>
       <a href="{{ namespace_uri }}">Namespace</a>
       <a href="https://www.irokosociety.org/">IHS</a>

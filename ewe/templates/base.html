@@ -10,9 +10,6 @@
   <meta name="build-dataset" content="{{ dataset_filename }}">
   <meta name="build-version" content="{{ dataset_version }}">
   <meta name="build-timestamp" content="{{ build_timestamp }}">
-  {# Shared stylesheet — lives at root /assets/styles.css
-     Plant pages are one level deeper (/ewe/plant/) so need ../../assets/
-     Collection index is at /ewe/ so needs ../assets/ #}
   {% if record is defined %}
   <link rel="stylesheet" href="../../assets/styles.css">
   {% else %}
@@ -22,16 +19,14 @@
   <script type="application/ld+json">{{ record.visible_jsonld | tojson(indent=2) }}</script>
   {% endif %}
   <script>window.EWE_UI_COPY = {{ ui | tojson }};</script>
-
- <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-S7WFXNP22P');
-</script>
- 
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S7WFXNP22P');
+  </script>
 </head>
 <body>
 
@@ -48,8 +43,15 @@
     <div class="top-bar-links">
       <a href="{{ vocab_page }}">{{ top_bar_framework_label }}</a>
       <a href="https://www.irokosociety.org/">{{ external_site_label }}</a>
-      <a href="/">Medjat ↑</a>
+      <a href="https://medjat.irokosociety.org/">Medjat ↑</a>
     </div>
+  </div>
+</div>
+
+<div class="pilot-banner">
+  <div class="page-wrap pilot-banner-inner">
+    <strong>Pilot build — academic context.</strong>
+    50-record pilot dataset developed as part of linked data coursework at the University of Alabama. Demonstrates Iroko Framework access governance. Full corpus (750+ records) in development.
   </div>
 </div>
 
@@ -57,14 +59,16 @@
   {% block page_content %}{% endblock %}
   <footer class="site-footer">
     <div class="footer-left">
+      <div>{{ org_name }} · {{ site_title }}</div>
       <div>{{ footer_tagline }}</div>
       <div>Built from {{ dataset_filename }} · {{ build_date }}</div>
       <div>{{ sources_line }}</div>
     </div>
     <div class="footer-links">
-      <a href="/">Medjat</a>
+      <a href="https://medjat.irokosociety.org/">Medjat</a>
       <a href="{{ vocab_page }}">Vocabulary</a>
       <a href="{{ namespace_uri }}">Namespace</a>
+      <a href="https://www.irokosociety.org/">IHS</a>
     </div>
   </footer>
 </div>

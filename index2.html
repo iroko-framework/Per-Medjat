@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- IHS ECOSYSTEM · Per Medjat Root · medjat.irokosociety.org/ · iroko-framework/Per-Medjat/index.html -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -58,7 +57,6 @@
     .collection-grid { border: none; gap: 0; }
     .collection-card { border: 1px solid var(--rule-strong); border-right: none; }
     .collection-card:last-child { border-right: 1px solid var(--rule-strong); }
-    .collection-card.planned { cursor: pointer; opacity: .85; }
     @media (max-width: 680px) {
       .medjat-stat-line { font-size: .6rem; letter-spacing: .04em; }
       .medjat-definition { font-size: .68rem; }
@@ -100,7 +98,7 @@
     <p class="medjat-sub">The public interface for ontology-aligned collections of the Iroko Historical Society. Records are presented with explicit stewardship boundaries; governed material is signaled, not silently erased.</p>
     <p class="medjat-stat-line">1 collection live · 50 pilot records · 750+ plant corpus in development · 3 collections planned</p>
     <p class="medjat-definition">
-      <strong>pr mdꜣt / Per Medjat,</strong> house of books, house of scrolls (Ancient Egyptian). The institutional form of the Medjat: a governed house of records where access, transmission, and stewardship are made explicit. Cf. Yorùbá <em>Ilé,</em> the house that holds the tradition.
+      <strong>pr mdꜣt / Per Medjat</strong> — house of books, house of scrolls (Ancient Egyptian). The institutional form of the Medjat: a governed house of records where access, transmission, and stewardship are made explicit. Cf. Yorùbá <em>Ilé</em> — the house that holds the tradition.
     </p>
   </div>
 
@@ -112,125 +110,43 @@
       <div class="collection-desc">Structured ethnobotanical corpus integrating botanical, linguistic, and stewardship-aware ritual description from Verger and Quiros-Moran.</div>
       <div class="collection-meta">Path: /ewe/ · 50 pilot records</div>
     </a>
-    <a class="collection-card planned" href="/hyatt/">
+    <div class="collection-card planned">
       <div><span class="status-pill">Planned</span></div>
       <div class="collection-name">Hyatt</div>
       <div class="collection-desc">Structured entries from hoodoo and rootwork materials with governed descriptive access and collection-aware search.</div>
       <div class="collection-meta">Reserved path: /hyatt/</div>
-    </a>
-    <a class="collection-card planned" href="/espiritismo/">
+    </div>
+    <div class="collection-card planned">
       <div><span class="status-pill">Forthcoming</span></div>
       <div class="collection-name">Espiritismo</div>
       <div class="collection-desc">Future datasets enter the same interface as distinct collections, speaking through the ontology while preserving their own structures and boundaries.</div>
       <div class="collection-meta">Reserved path: /espiritismo/</div>
-    </a>
+    </div>
   </div>
 
   <p class="section-label">Architecture</p>
   <div class="note-block">
     <div class="note-block-title">Stewardship model</div>
-    <p>Public users encounter both knowledge and its boundaries. Restricted material is not silently erased; the interface signals that a governed field exists and names the conditions under which it is stewarded. Absence is made legible.</p>
+    <p>Public users encounter both knowledge and its boundaries. Restricted material is not silently erased — the interface signals that a governed field exists and names the conditions under which it is stewarded. Absence is made legible.</p>
   </div>
   <div class="note-block">
     <div class="note-block-title">Ontology as source of truth</div>
     <p>The <a href="https://ontology.irokosociety.org">Iroko Framework</a> defines structure. Per Medjat expresses records. Future authentication layers can mediate differentiated access for community, initiated, and practitioner views without changing the conceptual model. The vocabulary is public. The data is governed.</p>
   </div>
 
-  <footer class="site-footer site-footer--terracotta">
-    <div class="footer-inner-pm">
-      <div class="footer-org">
-        <div class="footer-org-name">Iroko Historical Society</div>
-        <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
-        <div class="footer-org-meta">New Orleans · Miami · Havana · Est. 2024</div>
-        <div class="footer-org-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-label">Per Medjat</div>
-        <a href="https://medjat.irokosociety.org/">Home</a>
-        <a href="https://medjat.irokosociety.org/ewe/">Ewé Collection</a>
-        <a href="https://medjat.irokosociety.org/hyatt/">Hyatt</a>
-        <a href="https://medjat.irokosociety.org/espiritismo/">Espiritismo</a>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-label">IHS</div>
-        <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
-        <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
-        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">Ilé Añá Olofí ↗</a>
-      </div>
+  <footer class="site-footer">
+    <div class="footer-left">
+      <div>Iroko Historical Society · Per Medjat</div>
+      <div>Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+      <div>New Orleans · Miami · Havana · Est. 2024</div>
+      <div class="footer-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+    </div>
+    <div class="footer-links">
+      <a href="/ewe/">Ewé Collection</a>
+      <a href="https://ontology.irokosociety.org">Ontology</a>
+      <a href="https://www.irokosociety.org/">IHS</a>
     </div>
   </footer>
-
-  <style>
-    .site-footer--terracotta {
-      background: #8b3a1a;
-      border-top: none;
-      padding: 2.5rem 0;
-      margin-top: 2rem;
-    }
-    .footer-inner-pm {
-      display: grid;
-      grid-template-columns: 2fr 1fr 1fr;
-      gap: 3rem;
-      align-items: start;
-      max-width: 1080px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-    .footer-org-name {
-      font-family: var(--serif, Georgia, serif);
-      font-size: 1.05rem;
-      font-weight: 600;
-      color: #f7f4ed;
-      margin-bottom: .35rem;
-    }
-    .footer-org-tag {
-      font-family: var(--sans, sans-serif);
-      font-size: .78rem;
-      color: rgba(247,244,237,.8);
-      line-height: 1.5;
-      margin-bottom: .5rem;
-    }
-    .footer-org-meta {
-      font-family: var(--mono, monospace);
-      font-size: .62rem;
-      letter-spacing: .04em;
-      color: rgba(247,244,237,.6);
-      line-height: 1.8;
-    }
-    .footer-org-iao {
-      font-family: var(--mono, monospace);
-      font-size: .62rem;
-      letter-spacing: .04em;
-      color: rgba(247,244,237,.6);
-      margin-top: .5rem;
-    }
-    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
-    .footer-org-iao a:hover { color: #f7f4ed; }
-    .footer-col-label {
-      font-family: var(--mono, monospace);
-      font-size: .6rem;
-      letter-spacing: .15em;
-      text-transform: uppercase;
-      color: rgba(247,244,237,.5);
-      margin-bottom: .65rem;
-    }
-    .footer-col {
-      display: flex;
-      flex-direction: column;
-      gap: .4rem;
-    }
-    .footer-col a {
-      font-family: var(--mono, monospace);
-      font-size: .7rem;
-      letter-spacing: .04em;
-      color: rgba(247,244,237,.75);
-      text-decoration: none;
-    }
-    .footer-col a:hover { color: #f7f4ed; }
-    @media (max-width: 640px) {
-      .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; }
-    }
-  </style>
 
 </div>
 </body>

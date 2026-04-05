@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<!-- IHS ECOSYSTEM · Medjat Archives · medjat.irokosociety.org/archives/ · iroko-framework/Per-Medjat/archives/index.html -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Medjat Archives · Per Medjat · Iroko Historical Society</title>
+  <meta name="description" content="The Medjat Archives holds primary source and field collections governed under the Iroko Framework six-tier access system.">
+  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
+  <style>
+    .archives-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
+    .archives-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; }
+    .archives-title { font-family: var(--serif); font-size: clamp(2rem, 4vw, 3rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .6rem; }
+    .archives-sub { font-size: .92rem; color: var(--ink-mid); line-height: 1.75; max-width: 64ch; }
+
+    /* Access tier display */
+    .tier-strip { display: flex; gap: 0; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; margin: 1rem 0 2rem; }
+    .tier-cell { flex: 1; padding: .5rem .6rem; text-align: center; border-right: 1px solid var(--rule-strong); }
+    .tier-cell:last-child { border-right: none; }
+    .tier-n { font-family: var(--mono); font-size: .6rem; letter-spacing: .08em; color: var(--ink-soft); display: block; }
+    .tier-label { font-family: var(--mono); font-size: .58rem; color: var(--ink-soft); display: block; margin-top: .15rem; }
+    .tier-cell.t1 { background: var(--green-light); }
+    .tier-cell.t1 .tier-n { color: var(--green); }
+    .tier-cell.t2 { background: var(--gold-light); }
+    .tier-cell.t2 .tier-n { color: var(--gold); }
+    .tier-cell.t3 { background: #fde8e0; }
+    .tier-cell.t3 .tier-n { color: var(--terracotta); }
+    .tier-cell.t4 { background: #f0e8f8; }
+    .tier-cell.t4 .tier-n { color: var(--purple); }
+    .tier-cell.t5 { background: var(--paper-deep); }
+    .tier-cell.t6 { background: #2a2a2a; }
+    .tier-cell.t6 .tier-n, .tier-cell.t6 .tier-label { color: rgba(247,244,237,.7); }
+
+    /* Collections grid */
+    .archives-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-bottom: 2rem; }
+    .archive-card { background: var(--paper); padding: 1.6rem 1.8rem; display: flex; flex-direction: column; gap: .4rem; text-decoration: none; }
+    .archive-card.live { transition: background .12s; }
+    .archive-card.live:hover { background: var(--paper-warm); }
+    .archive-card.intake { cursor: pointer; opacity: .88; }
+    .archive-card.intake:hover { background: var(--paper-warm); opacity: 1; }
+    .archive-card.planned { opacity: .78; }
+    .archive-card-status { display: inline-block; font-family: var(--mono); font-size: .58rem; letter-spacing: .08em; text-transform: uppercase; padding: .15em .6em; border-radius: 2px; border: 1px solid var(--rule-strong); background: var(--paper-deep); color: var(--ink-soft); margin-bottom: .3rem; width: fit-content; }
+    .archive-card-status.live { background: var(--green-light); color: var(--green); border-color: transparent; }
+    .archive-card-status.intake { background: var(--gold-light); color: var(--gold); border-color: transparent; }
+    .archive-card-name { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: var(--green); line-height: 1.15; }
+    .archive-card-desc { font-size: .85rem; color: var(--ink-mid); line-height: 1.6; }
+    .archive-card-access { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .3rem; }
+    .archive-card-arrow { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; color: var(--green-mid); margin-top: auto; padding-top: .5rem; }
+
+    /* Intake condensed */
+    .intake-block { border-left: 3px solid var(--terracotta); background: #fdf7f4; padding: 1.75rem 2rem; border-radius: 0 3px 3px 0; margin-top: 2rem; }
+    .intake-kicker { font-family: var(--mono); font-size: .62rem; letter-spacing: .15em; text-transform: uppercase; color: var(--terracotta); margin-bottom: .75rem; }
+    .intake-title { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; color: var(--ink); margin-bottom: .5rem; }
+    .intake-title em { font-style: italic; color: var(--terracotta); }
+    .intake-body { font-size: .88rem; color: var(--ink-mid); line-height: 1.75; max-width: 66ch; margin-bottom: 1rem; }
+    .intake-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em 1em; border-radius: 2px; text-decoration: none; transition: all .15s; display: inline-block; }
+    .intake-cta:hover { background: var(--terracotta); color: #fff; }
+
+    @media (max-width: 640px) { .archives-grid { grid-template-columns: 1fr; } .tier-strip { flex-wrap: wrap; } .tier-cell { flex: 1 1 30%; } }
+  </style>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S7WFXNP22P');
+  </script>
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="page-wrap top-bar-shell">
+    <span class="top-bar-id">
+      <img class="top-bar-logo" src="../assets/IHS-Logo.jpg" alt="Iroko Historical Society">
+      Iroko Historical Society · Per Medjat
+    </span>
+    <nav class="top-bar-links">
+      <a href="https://medjat.irokosociety.org/">Home</a>
+      <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">IHS ↗</a>
+      <a href="https://ontology.irokosociety.org/">Ontology</a>
+    </nav>
+  </div>
+</div>
+
+<div class="page-wrap">
+
+  <p class="breadcrumb"><a href="https://medjat.irokosociety.org/">Per Medjat</a> <span>/</span> Medjat Archives</p>
+
+  <div class="archives-hero">
+    <div class="archives-eyebrow">Primary source · Field collections · Governed access</div>
+    <h1 class="archives-title">Medjat Archives</h1>
+    <p class="archives-sub">Archival and field collections governed under the Iroko Framework six-tier access system. Unique materials, sacred texts, field recordings, and donor collections stewarded with community authorization. Access to any record is calibrated to the nature of the material and the community protocols that govern it.</p>
+  </div>
+
+  <p class="section-label">Access governance</p>
+
+  <div class="tier-strip">
+    <div class="tier-cell t1"><span class="tier-n">L1</span><span class="tier-label">Public</span></div>
+    <div class="tier-cell t2"><span class="tier-n">L2</span><span class="tier-label">Community</span></div>
+    <div class="tier-cell t3"><span class="tier-n">L3</span><span class="tier-label">Initiated</span></div>
+    <div class="tier-cell t4"><span class="tier-n">L4</span><span class="tier-label">Oath-bound</span></div>
+    <div class="tier-cell t5"><span class="tier-n">L5</span><span class="tier-label">Elder only</span></div>
+    <div class="tier-cell t6"><span class="tier-n">L6</span><span class="tier-label">No access</span></div>
+  </div>
+
+  <p class="section-label">Collections</p>
+
+  <div class="archives-grid">
+
+    <a class="archive-card live" href="https://medjat.irokosociety.org/ewe/">
+      <span class="archive-card-status live">Live</span>
+      <div class="archive-card-name">Ewé Sacred Plant Database</div>
+      <div class="archive-card-desc">Structured ethnobotanical corpus governing sacred plant knowledge from Verger and Quiros-Moran. Botanical, linguistic, and ritual description with field-level access control. Pilot build of 50 records; full corpus of 750+ in development.</div>
+      <div class="archive-card-access">Access: L1 public · L3 ritual detail · Pilot build · University of Alabama linked data coursework</div>
+      <div class="archive-card-arrow">Browse collection →</div>
+    </a>
+
+    <a class="archive-card intake" href="../entrusting/">
+      <span class="archive-card-status intake">Intake in progress</span>
+      <div class="archive-card-name">Elder Practitioner Collection</div>
+      <div class="archive-card-desc">A private collection of field materials, sacred texts, correspondence, and documentation accumulated over decades of active practice in Afro-Atlantic traditions. IHS is in active dialogue with the collection holder regarding stewardship, access governance, and long-term preservation. Model for the IHS private collection intake program.</div>
+      <div class="archive-card-access">Access: Pending donor agreement · Mixed tiers L1 through L6 anticipated · Community authorization required for restricted tiers</div>
+      <div class="archive-card-arrow">Learn about collection intake →</div>
+    </a>
+
+    <a class="archive-card planned" href="https://medjat.irokosociety.org/hyatt/">
+      <span class="archive-card-status">Planned</span>
+      <div class="archive-card-name">Hyatt</div>
+      <div class="archive-card-desc">Structured corpus from Harry Middleton Hyatt's hoodoo and rootwork materials with governed descriptive access. Assertion-level access control throughout; governed material displayed with explicit stewardship boundaries.</div>
+      <div class="archive-card-access">Access: L1 through L4 anticipated · In planning</div>
+    </a>
+
+    <a class="archive-card planned" href="https://medjat.irokosociety.org/espiritismo/">
+      <span class="archive-card-status">Forthcoming</span>
+      <div class="archive-card-name">Espiritismo</div>
+      <div class="archive-card-desc">Archival and ethnographic materials on Caribbean Spiritism: Kardecista, Cruzado, and Científico traditions across Cuba, Puerto Rico, and the Gulf diaspora. Particular attention to intersections with Lucumí, Palo, and Abakuá.</div>
+      <div class="archive-card-access">Access: Mixed tiers anticipated · IHS Havana fieldwork basis · In development</div>
+    </a>
+
+  </div>
+
+  <p class="section-label">Research access</p>
+
+  <div class="note-block">
+    <div class="note-block-title">Requesting access to governed materials</div>
+    <p>Access to restricted archival materials is governed by the Iroko Framework access tier system. Requests are evaluated on the basis of the requester's credentials, community standing, and the specific materials sought. Public materials are discoverable without a request. For L2 through L5 materials, contact IHS with your research purpose and credentials. L6 materials are not accessible under any circumstances.</p>
+  </div>
+
+  <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem;">
+    <a class="action-primary" href="https://ontology.irokosociety.org/">Iroko Framework vocabulary ↗</a>
+    <a class="action-secondary" href="https://www.irokosociety.org/access-policy.html">Access policy</a>
+    <a class="action-secondary" href="https://www.irokosociety.org/contact.html">Submit a research request</a>
+  </div>
+
+  <div class="intake-block">
+    <div class="intake-kicker">Entrusting the Work · Preserving What Was Earned</div>
+    <div class="intake-title">Is there a collection in your care?</div>
+    <p class="intake-body">The Iroko Historical Society was founded by an experienced elder priest in multiple Afro-Atlantic traditions, with more than three decades of active practice and fieldwork. The governance structure was built from inside the traditions it describes. What was restricted in life remains restricted in the archive. What was earned must continue to be earned.</p>
+    <p class="intake-body">If you are watching a collection and wondering what happens to it, we are ready to have that conversation. No commitment is implied. Nothing moves without your authorization.</p>
+    <a class="intake-cta" href="../entrusting/">Entrusting the Work: Preserving What Was Earned →</a>
+  </div>
+
+  <footer class="site-footer site-footer--terracotta">
+    <div class="footer-inner-pm">
+      <div class="footer-org">
+        <div class="footer-org-name">Iroko Historical Society</div>
+        <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+        <div class="footer-org-meta">New Orleans · Miami · Havana · Est. 2024</div>
+        <div class="footer-org-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-label">Per Medjat</div>
+        <a href="https://medjat.irokosociety.org/">Home</a>
+        <a href="https://medjat.irokosociety.org/library/">Medjat Library</a>
+        <a href="https://medjat.irokosociety.org/archives/">Medjat Archives</a>
+        <a href="https://medjat.irokosociety.org/entrusting/">Entrusting the Work</a>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-label">IHS</div>
+        <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+        <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
+        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">Ilé Añá Olofí ↗</a>
+      </div>
+    </div>
+  </footer>
+
+  <style>
+    .site-footer--terracotta { background: #8b3a1a; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+    .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
+    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+    .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+    .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
+    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
+    .footer-org-iao a:hover { color: #f7f4ed; }
+    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
+    .footer-col a:hover { color: #f7f4ed; }
+    @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
+  </style>
+
+</div>
+</body>
+</html>

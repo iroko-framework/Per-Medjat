@@ -4,67 +4,45 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Per Medjat — Iroko Historical Society</title>
+  <title>Per Medjat · Iroko Historical Society</title>
   <meta name="description" content="Per Medjat is the governed public interface for collections of the Iroko Historical Society. Structured knowledge with explicit stewardship boundaries.">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <style>
     .medjat-hero { padding: 3.5rem 0 0; }
-    .medjat-title {
-      font-family: var(--serif);
-      font-size: clamp(2.4rem, 5.5vw, 4.4rem);
-      font-weight: 600;
-      color: var(--green);
-      line-height: 1;
-      margin-bottom: .6rem;
-    }
-    .medjat-title em {
-      display: block;
-      font-style: italic;
-      color: var(--terracotta);
-      font-size: .72em;
-      margin-top: .2rem;
-    }
-    .medjat-eyebrow {
-      font-family: var(--mono);
-      font-size: .68rem;
-      letter-spacing: .18em;
-      text-transform: uppercase;
-      color: var(--green-mid);
-      margin-bottom: .9rem;
-    }
-    .medjat-sub {
-      font-size: .95rem;
-      color: var(--ink-mid);
-      line-height: 1.75;
-      margin-top: .9rem;
-    }
-    .medjat-stat-line {
-      font-family: var(--mono);
-      font-size: .65rem;
-      letter-spacing: .08em;
-      color: var(--ink-soft);
-      margin-top: 1rem;
-    }
-    .medjat-definition {
-      padding: 1.5rem 0 2rem;
-      margin-top: 2rem;
-      font-family: var(--mono);
-      font-size: .72rem;
-      color: var(--ink-soft);
-      line-height: 1.75;
-      border-top: 1px solid var(--rule-strong);
-    }
+    .medjat-title { font-family: var(--serif); font-size: clamp(2.4rem, 5.5vw, 4.4rem); font-weight: 600; color: var(--green); line-height: 1; margin-bottom: .6rem; }
+    .medjat-title em { display: block; font-style: italic; color: var(--terracotta); font-size: .72em; margin-top: .2rem; }
+    .medjat-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .9rem; }
+    .medjat-sub { font-size: .95rem; color: var(--ink-mid); line-height: 1.75; margin-top: .9rem; }
+    .medjat-stat-line { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; color: var(--ink-soft); margin-top: 1rem; }
+    .medjat-definition { padding: 1.5rem 0 2rem; margin-top: 2rem; font-family: var(--mono); font-size: .72rem; color: var(--ink-soft); line-height: 1.75; border-top: 1px solid var(--rule-strong); }
     .medjat-definition strong { color: var(--ink-mid); font-weight: 500; }
-    .collection-grid { border: none; gap: 0; }
-    .collection-card { border: 1px solid var(--rule-strong); border-right: none; }
-    .collection-card:last-child { border-right: 1px solid var(--rule-strong); }
+
+    /* Two top-level institution cards */
+    .institution-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-bottom: 2.5rem; }
+    .institution-card { background: var(--paper); padding: 2rem 2.2rem; display: flex; flex-direction: column; gap: .75rem; text-decoration: none; transition: background .12s; }
+    .institution-card:hover { background: var(--paper-warm); }
+    .institution-card-eyebrow { font-family: var(--mono); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: var(--ink-soft); }
+    .institution-card-title { font-family: var(--serif); font-size: 1.6rem; font-weight: 600; color: var(--green); line-height: 1.1; }
+    .institution-card-desc { font-size: .88rem; color: var(--ink-mid); line-height: 1.65; }
+    .institution-card-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .25rem; }
+    .institution-card-arrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .08em; color: var(--green-mid); margin-top: auto; padding-top: .75rem; }
+
+    /* Highlighted collection */
+    .featured-label { font-family: var(--mono); font-size: .62rem; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); background: var(--gold-light); border: 1px solid rgba(160,120,48,.25); padding: .18em .65em; border-radius: 2px; display: inline-block; margin-bottom: 1rem; }
+    .featured-block { border: 1px solid var(--rule-strong); border-radius: 3px; padding: 1.6rem 2rem; display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; }
+    .featured-block:hover { background: var(--paper-warm); }
+    .featured-name { font-family: var(--serif); font-size: 1.4rem; font-weight: 600; color: var(--green); margin-bottom: .3rem; }
+    .featured-desc { font-size: .87rem; color: var(--ink-mid); line-height: 1.6; }
+    .featured-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .5rem; }
+    .featured-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .15s; }
+    .featured-cta:hover { background: var(--green); color: #fff; }
+
     .collection-card.planned { cursor: pointer; opacity: .85; }
     @media (max-width: 680px) {
+      .institution-grid { grid-template-columns: 1fr; }
+      .featured-block { grid-template-columns: 1fr; gap: 1rem; }
       .medjat-stat-line { font-size: .6rem; letter-spacing: .04em; }
       .medjat-definition { font-size: .68rem; }
-      .collection-grid { grid-template-columns: 1fr; }
-      .collection-card { border-right: 1px solid var(--rule-strong); border-bottom: none; }
-      .collection-card:last-child { border-bottom: 1px solid var(--rule-strong); }
     }
   </style>
   <!-- Google Analytics -->
@@ -105,36 +83,37 @@
   </div>
 
   <p class="section-label">Collections</p>
-  <div class="collection-grid">
-    <a class="collection-card live" href="/ewe/">
-      <div><span class="status-pill live">Live</span></div>
-      <div class="collection-name">Ewé</div>
-      <div class="collection-desc">Structured ethnobotanical corpus integrating botanical, linguistic, and stewardship-aware ritual description from Verger and Quiros-Moran.</div>
-      <div class="collection-meta">Path: /ewe/ · 50 pilot records</div>
+
+  <div class="institution-grid">
+    <a class="institution-card" href="library/">
+      <div class="institution-card-eyebrow">Published holdings</div>
+      <div class="institution-card-title">Medjat Library</div>
+      <div class="institution-card-desc">Cataloged scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, reference literature, and the IHS Research Library catalog.</div>
+      <div class="institution-card-meta">Structured access · Catalog browsing · Research support</div>
+      <div class="institution-card-arrow">Browse the library →</div>
     </a>
-    <a class="collection-card planned" href="/hyatt/">
-      <div><span class="status-pill">Planned</span></div>
-      <div class="collection-name">Hyatt</div>
-      <div class="collection-desc">Structured entries from hoodoo and rootwork materials with governed descriptive access and collection-aware search.</div>
-      <div class="collection-meta">Reserved path: /hyatt/</div>
-    </a>
-    <a class="collection-card planned" href="/espiritismo/">
-      <div><span class="status-pill">Forthcoming</span></div>
-      <div class="collection-name">Espiritismo</div>
-      <div class="collection-desc">Future datasets enter the same interface as distinct collections, speaking through the ontology while preserving their own structures and boundaries.</div>
-      <div class="collection-meta">Reserved path: /espiritismo/</div>
+    <a class="institution-card" href="archives/">
+      <div class="institution-card-eyebrow">Primary source &amp; governed collections</div>
+      <div class="institution-card-title">Medjat Archives</div>
+      <div class="institution-card-desc">Archival and field collections governed under the six-tier Iroko Framework access system. Unique materials, sacred texts, community collections, and donor holdings stewarded with explicit community authorization.</div>
+      <div class="institution-card-meta">Six-tier access · Community governed · Donor intake open</div>
+      <div class="institution-card-arrow">Enter the archives →</div>
     </a>
   </div>
 
-  <p class="section-label">Architecture</p>
-  <div class="note-block">
-    <div class="note-block-title">Stewardship model</div>
-    <p>Public users encounter both knowledge and its boundaries. Restricted material is not silently erased; the interface signals that a governed field exists and names the conditions under which it is stewarded. Absence is made legible.</p>
-  </div>
-  <div class="note-block">
-    <div class="note-block-title">Ontology as source of truth</div>
-    <p>The <a href="https://ontology.irokosociety.org">Iroko Framework</a> defines structure. Per Medjat expresses records. Future authentication layers can mediate differentiated access for community, initiated, and practitioner views without changing the conceptual model. The vocabulary is public. The data is governed.</p>
-  </div>
+  <p class="section-label">Featured Collection</p>
+
+  <a class="featured-block" href="ewe/" style="text-decoration:none;display:grid;">
+    <div>
+      <span class="featured-label">Live · Pilot Build</span>
+      <div class="featured-name">Ewé Sacred Plant Database</div>
+      <div class="featured-desc">50-record structured ethnobotanical corpus integrating botanical, linguistic, and stewardship-aware ritual description from Pierre Fatumbi Verger and Dalia Quiros-Moran. Governs access at the field level using the Iroko Framework Ewé Module.</div>
+      <div class="featured-meta">medjat.irokosociety.org/ewe/ · 50 pilot records · Full corpus 750+ in development</div>
+    </div>
+    <div style="display:flex;align-items:center;">
+      <a class="featured-cta" href="ewe/">Browse collection</a>
+    </div>
+  </a>
 
   <footer class="site-footer site-footer--terracotta">
     <div class="footer-inner-pm">
@@ -146,10 +125,10 @@
       </div>
       <div class="footer-col">
         <div class="footer-col-label">Per Medjat</div>
-        <a href="https://medjat.irokosociety.org/">Home</a>
-        <a href="https://medjat.irokosociety.org/ewe/">Ewé Collection</a>
-        <a href="https://medjat.irokosociety.org/hyatt/">Hyatt</a>
-        <a href="https://medjat.irokosociety.org/espiritismo/">Espiritismo</a>
+        <a href="/">Home</a>
+        <a href="library/">Medjat Library</a>
+        <a href="archives/">Medjat Archives</a>
+        <a href="entrusting/">Entrusting the Work</a>
       </div>
       <div class="footer-col">
         <div class="footer-col-label">IHS</div>
@@ -161,75 +140,19 @@
   </footer>
 
   <style>
-    .site-footer--terracotta {
-      background: #8b3a1a;
-      border-top: none;
-      padding: 2.5rem 0;
-      margin-top: 2rem;
-    }
-    .footer-inner-pm {
-      display: grid;
-      grid-template-columns: 2fr 1fr 1fr;
-      gap: 3rem;
-      align-items: start;
-      max-width: 1080px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-    .footer-org-name {
-      font-family: var(--serif, Georgia, serif);
-      font-size: 1.05rem;
-      font-weight: 600;
-      color: #f7f4ed;
-      margin-bottom: .35rem;
-    }
-    .footer-org-tag {
-      font-family: var(--sans, sans-serif);
-      font-size: .78rem;
-      color: rgba(247,244,237,.8);
-      line-height: 1.5;
-      margin-bottom: .5rem;
-    }
-    .footer-org-meta {
-      font-family: var(--mono, monospace);
-      font-size: .62rem;
-      letter-spacing: .04em;
-      color: rgba(247,244,237,.6);
-      line-height: 1.8;
-    }
-    .footer-org-iao {
-      font-family: var(--mono, monospace);
-      font-size: .62rem;
-      letter-spacing: .04em;
-      color: rgba(247,244,237,.6);
-      margin-top: .5rem;
-    }
+    .site-footer--terracotta { background: #8b3a1a; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+    .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
+    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+    .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+    .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
     .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
     .footer-org-iao a:hover { color: #f7f4ed; }
-    .footer-col-label {
-      font-family: var(--mono, monospace);
-      font-size: .6rem;
-      letter-spacing: .15em;
-      text-transform: uppercase;
-      color: rgba(247,244,237,.5);
-      margin-bottom: .65rem;
-    }
-    .footer-col {
-      display: flex;
-      flex-direction: column;
-      gap: .4rem;
-    }
-    .footer-col a {
-      font-family: var(--mono, monospace);
-      font-size: .7rem;
-      letter-spacing: .04em;
-      color: rgba(247,244,237,.75);
-      text-decoration: none;
-    }
+    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
     .footer-col a:hover { color: #f7f4ed; }
-    @media (max-width: 640px) {
-      .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; }
-    }
+    @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
   </style>
 
 </div>

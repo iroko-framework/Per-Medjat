@@ -1,11 +1,12 @@
 <!DOCTYPE html>
+<!-- IHS ECOSYSTEM · Ewé Collection Index · medjat.irokosociety.org/ewe/ · iroko-framework/Per-Medjat/ewe/index.html -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Ewé Database — Iroko Historical Society">
   <title>Ewé Database — Iroko Historical Society</title>
-  <link rel="canonical" href="https://ewe-database.irokosociety.org/index.html">
+  <link rel="canonical" href="https://medjat.irokosociety.org/ewe/index.html">
   <meta name="generator" content="build_ewe.py">
   <meta name="build-dataset" content="Verger_Ewe_Dataset_v4.ttl">
   <meta name="build-version" content="Verger_Ewe_Dataset_v4">
@@ -29,18 +30,18 @@
       <img class="top-bar-logo" src="../assets/IHS-Logo.jpg" alt="Iroko Historical Society">
       Iroko Historical Society · Ewé Database
     </span>
-    <div class="top-bar-links">
+    <nav class="top-bar-links">
+      <a href="https://medjat.irokosociety.org/">Per Medjat</a>
+      <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">IHS ↗</a>
+      <a href="https://ontology.irokosociety.org/">Ontology</a>
       <a href="https://ontology.irokosociety.org/vocab/iroko-ewe.html">Ewé Module ↗</a>
-      <a href="https://ontology.irokosociety.org/">Full Framework ↗</a>
-      <a href="https://www.irokosociety.org/">irokosociety.org ↗</a>
-      <a href="https://medjat.irokosociety.org/">Medjat ↑</a>
-    </div>
+    </nav>
   </div>
 </div>
 
 <div class="pilot-banner">
   <div class="page-wrap pilot-banner-inner">
-    <strong>Pilot build — academic context.</strong>
+    <strong>Pilot build: academic context.</strong>
     50-record pilot dataset developed as part of linked data coursework at the University of Alabama. Demonstrates Iroko Framework access governance. Full corpus (750+ records) in development.
   </div>
 </div>
@@ -591,20 +592,47 @@
     </div>
   </a>
 </div>
-  <footer class="site-footer">
-    <div class="footer-left">
-      <div>Iroko Historical Society · Ewé Database</div>
-      <div>Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
-      <div>Built from Verger_Ewe_Dataset_v4.ttl · 2026-04-04</div>
-      <div>Pierre Fatumbi Verger, Ewé: The Use of Plants in Yoruba Society (1995); Dalia Quiros-Moran, Guide to Afro-Cuban Herbalism</div>
-    </div>
-    <div class="footer-links">
-      <a href="https://medjat.irokosociety.org/">Medjat</a>
-      <a href="https://ontology.irokosociety.org/vocab/iroko-ewe.html">Vocabulary</a>
-      <a href="https://ontology.irokosociety.org">Namespace</a>
-      <a href="https://www.irokosociety.org/">IHS</a>
+  <footer class="site-footer site-footer--terracotta">
+    <div class="footer-inner-pm">
+      <div class="footer-org">
+        <div class="footer-org-name">Iroko Historical Society</div>
+        <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+        <div class="footer-org-meta">New Orleans · Miami · Havana · Est. 2024</div>
+        <div class="footer-org-meta">Built from Verger_Ewe_Dataset_v4.ttl · 2026-04-04</div>
+        <div class="footer-org-meta">Verger (1995); Quiros-Moran, Guide to Afro-Cuban Herbalism</div>
+        <div class="footer-org-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-label">Per Medjat</div>
+        <a href="https://medjat.irokosociety.org/">Home</a>
+        <a href="https://medjat.irokosociety.org/ewe/">Ewé Collection</a>
+        <a href="https://medjat.irokosociety.org/hyatt/">Hyatt</a>
+        <a href="https://medjat.irokosociety.org/espiritismo/">Espiritismo</a>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-label">Ewé</div>
+        <a href="https://ontology.irokosociety.org/vocab/iroko-ewe.html">Vocabulary ↗</a>
+        <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+        <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">IHS ↗</a>
+      </div>
     </div>
   </footer>
+
+  <style>
+    .site-footer--terracotta { background: #8b3a1a; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+    .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
+    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+    .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+    .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
+    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
+    .footer-org-iao a:hover { color: #f7f4ed; }
+    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
+    .footer-col a:hover { color: #f7f4ed; }
+    @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
+  </style>
 </div>
 
 <script src="../assets/app.js"></script>

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- IHS ECOSYSTEM · Hyatt Placeholder · medjat.irokosociety.org/hyatt/ · iroko-framework/Per-Medjat/hyatt/index.html -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,14 +7,6 @@
   <title>Hyatt Collection — Medjat · Iroko Historical Society</title>
   <meta name="description" content="The Hyatt collection is a planned corpus of structured entries from hoodoo and rootwork materials within the Medjat interface of the Iroko Historical Society.">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-S7WFXNP22P');
-  </script>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
   <script>
@@ -32,18 +25,16 @@
       Iroko Historical Society · Per Medjat
     </span>
     <nav class="top-bar-links">
-      <a href="/">Home</a>
+      <a href="https://medjat.irokosociety.org/">Home</a>
       <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">IHS ↗</a>
       <a href="https://ontology.irokosociety.org/">Ontology</a>
-      <a href="https://medjat.irokosociety.org/">Per Medjat</a>
     </nav>
   </div>
-</div>
 </div>
 
 <div class="page-wrap">
 
-  <p class="breadcrumb"><a href="/">Medjat</a> <span>/</span> Hyatt</p>
+  <p class="breadcrumb"><a href="https://medjat.irokosociety.org/">Medjat</a> <span>/</span> Hyatt</p>
 
   <div class="collection-placeholder">
     <div class="placeholder-badge">Planned Collection</div>
@@ -79,19 +70,58 @@
     </div>
   </div>
 
-  <footer class="site-footer">
-    <div class="footer-left">
-      <div>Iroko Historical Society · Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
-      <div>New Orleans · Miami · Havana · Est. 2024</div>
-      <div class="footer-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
-    </div>
-    <div class="footer-links">
-      <a href="/">Medjat</a>
-      <a href="/ewe/">Ewé Collection</a>
-      <a href="https://ontology.irokosociety.org">Ontology</a>
-      <a href="https://www.irokosociety.org/">IHS</a>
+  <footer class="site-footer site-footer--terracotta">
+    <div class="footer-inner-pm">
+      <div class="footer-org">
+        <div class="footer-org-name">Iroko Historical Society</div>
+        <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+        <div class="footer-org-meta">New Orleans · Miami · Havana · Est. 2024</div>
+        <div class="footer-org-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-label">Per Medjat</div>
+        <a href="https://medjat.irokosociety.org/">Home</a>
+        <a href="https://medjat.irokosociety.org/ewe/">Ewé Collection</a>
+        <a href="https://medjat.irokosociety.org/hyatt/">Hyatt</a>
+        <a href="https://medjat.irokosociety.org/espiritismo/">Espiritismo</a>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-label">IHS</div>
+        <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+        <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
+        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">Ilé Añá Olofí ↗</a>
+      </div>
     </div>
   </footer>
+
+  <style>
+    .site-footer--terracotta {
+      background: #8b3a1a;
+      border-top: none;
+      padding: 2.5rem 0;
+      margin-top: 2rem;
+    }
+    .footer-inner-pm {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 3rem;
+      align-items: start;
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+    .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+    .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
+    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
+    .footer-org-iao a:hover { color: #f7f4ed; }
+    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
+    .footer-col a:hover { color: #f7f4ed; }
+    @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
+  </style>
 
 </div>
 </body>

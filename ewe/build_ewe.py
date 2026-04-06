@@ -197,9 +197,7 @@ def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], sci
                     )
                 )
         elif lang == 'pt':
-            names_section.assertions.append(
-                AssertionModel(field_name='placeholder', display_label=LANG_LABELS['pt'], value='Brazilian Portuguese names pending in current TTL build.', category='names')
-            )
+            pass
         else:
             names_section.assertions.append(
                 AssertionModel(field_name='placeholder', display_label=LANG_LABELS.get(lang, lang), value='None recorded', category='names')

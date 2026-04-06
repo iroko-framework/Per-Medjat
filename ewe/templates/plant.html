@@ -43,13 +43,15 @@
     <div class="detail-section-title ui-copy" data-copy-key="names_by_language">Names by Language</div>
     <table class="names-table">
       {% for lang in ['en','yo','es','pt','fr','ht','x-lucumi'] %}
+      {% set assertions = record.sections.names.assertions | selectattr('display_label', 'equalto', lang_labels[lang]) | list %}
+      {% if assertions %}
       <tr>
         <td>{{ lang_labels[lang] }}</td>
         <td>
-          {% set assertions = record.sections.names.assertions | selectattr('display_label', 'equalto', lang_labels[lang]) | list %}
           {% for assertion in assertions %}{{ render_assertion(assertion) }}{% endfor %}
         </td>
       </tr>
+      {% endif %}
       {% endfor %}
     </table>
   </div>

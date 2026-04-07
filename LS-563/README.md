@@ -2,6 +2,8 @@
 
 **Délé Fágbèmí Ọ̀. | University of Alabama MLIS | LS563 Linked Data**
 
+**Live pilot data:** [medjat.irokosociety.org/ewe/](https://medjat.irokosociety.org/ewe/)
+
 ---
 
 ## Dataset Description
@@ -40,6 +42,8 @@ Vernacular names use SKOS labels with BCP 47 language tags: `@yo` (Yoruba), `@x-
 
 Each record links to an Iroko access concept governing downstream use: `iroko:access-public-unrestricted`, `iroko:access-community-only`, `iroko:access-initiated-only`, `iroko:access-initiated-elder`, `iroko:access-public-no-amplification`.
 
+Taxonomic synonyms are modeled as separate records in a companion Synonym_Records sheet, each with its own IHS-namespaced URI (`Plant####s#`), linked back to the accepted record via `dwc:acceptedNameUsageID`. This follows the Darwin Core multi-record name usage model as implemented by GBIF and Catalogue of Life.
+
 ---
 
 ## Sample Triples
@@ -47,7 +51,7 @@ Each record links to an Iroko access concept governing downstream use: `iroko:ac
 ```turtle
 <https://ontology.irokosociety.org/data/ewe/Plant0016>
     rdf:type             iroko:EwePlantRecord ;
-    dwc:scientificName   "Bryophyllum pinnatum" ;
+    dwc:scientificName   "Bryophyllum pinnatum"^^xsd:string ;
     dwc:taxonomicStatus  "accepted"@en ;
     skos:prefLabel       "PRODIGIOSA"@es ;
     skos:altLabel        "LIFE EVERLASTING"@en ;
@@ -60,8 +64,10 @@ Each record links to an Iroko access concept governing downstream use: `iroko:ac
 
 <https://ontology.irokosociety.org/data/ewe/Plant0023>
     rdf:type             iroko:EwePlantRecord ;
-    dwc:scientificName   "Citrus aurantium" ;
+    dwc:scientificName   "Citrus aurantium"^^xsd:string ;
+    dwc:taxonomicStatus  "accepted"@en ;
     skos:prefLabel       "NARANJA AGRIA"@es ;
+    skos:altLabel        "sour orange"@en ;
     skos:altLabel        "Òròmbó"@yo ;
     skos:altLabel        "Korosan"@x-lucumi ;
     iroko:nameCollision  "true"^^xsd:boolean ;
@@ -69,15 +75,20 @@ Each record links to an Iroko access concept governing downstream use: `iroko:ac
     iroko:accessLevel    iroko:access-initiated-only .
 ```
 
+*v4 corrects Part 3 feedback: boolean values changed from "Yes"/"No" to "true"/"false" per xsd:boolean specification; language tags and datatypes added throughout (`@en`, `@es`, `^^xsd:string`); `dwc:taxonomicStatus` added with `@en`; synonym records split to separate sheet following Darwin Core multi-record model.*
+
 ---
 
 ## Files
 
 | File | Description |
 |---|---|
-| `Verger_Ewe_Dataset_v4.ttl` | RDF dataset — 13 records, 1,195 triples |
-| `Verger_Ewe_Dataset_v3.xlsx` | Original Darwin Core workbook |
-| `Verger_Ewe_RDF_Diagram.png` | RDF graph diagram |
-| `Verger_Ewe_Mapping_Table.xlsx` | Mapping table |
+| [Verger_Ewe_Dataset_v4.ttl](Verger_Ewe_Dataset_v4.ttl) | RDF dataset — 13 accepted records, corrected per Part 3 feedback |
+| [Verger_Ewe_Dataset_v3.xlsx](Verger_Ewe_Dataset_v3.xlsx) | Source workbook — Accepted_Records and Synonym_Records sheets |
+| [Verger_Ewe_Mapping_Table_v3.xlsx](Verger_Ewe_Mapping_Table_v3.xlsx) | Darwin Core to Iroko Framework mapping table |
+| [Verger_Ewe_RDF_Diagram_v2.jpg](Verger_Ewe_RDF_Diagram_v2.jpg) | RDF graph diagram showing class structure and property relationships |
 
-*v4 corrects Part 3 feedback: boolean values changed from "Yes"/"No" to "true"/"false" per xsd:boolean specification; language tags and datatypes added throughout.*
+---
+
+*Dataset developed as part of LS563 Linked Data, University of Alabama MLIS Program.*
+*Iroko Framework published under CC0. Dataset © 2026 Délé Fágbèmí Ọ̀. / Iroko Historical Society.*

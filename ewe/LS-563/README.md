@@ -8,7 +8,8 @@
 
 ## Dataset Description
 
-A subset of Pierre Fatumbi Verger's ethnobotanical corpus transformed into linked RDF data. Source: *Ewé: The Use of Plants in Yoruba Society* (1995). The dataset covers 13 accepted plant records from the Tulane University Herbarium, each documenting a species with ritual and medicinal significance in Afro-Atlantic religious communities. Records include scientific names, multilingual vernacular names (Yoruba, Lucumí, Spanish, English, Haitian Creole, Portuguese), ritual and medicinal use classifications, and access tier governance.
+A subset of Pierre Fatumbi Verger's ethnobotanical corpus transformed into linked RDF data, supplemented by Dalia Quiros-Moran's work for Spanish and Cuban vernacular names. Sources: Verger, *Ewé: The Use of Plants in Yoruba Society* (1995); Quiros-Moran, *Guide to Afro-Cuban Herbalism* (2009). The dataset covers 50 accepted plant records, each documenting a species with ritual and medicinal significance in Afro-Atlantic religious communities. Records include scientific names, multilingual vernacular names (Yoruba, Lucumí, Spanish, English, Haitian Creole), ritual and medicinal use classifications, and access tier governance.
+
 
 ---
 

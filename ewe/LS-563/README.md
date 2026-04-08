@@ -85,9 +85,9 @@ Taxonomic synonyms are modeled as separate records in a companion Synonym_Record
 | File | Description |
 |---|---|
 | [Verger_Ewe_Dataset_v4.ttl](Verger_Ewe_Dataset_v4.ttl) | RDF dataset — 13 accepted records, corrected per Part 3 feedback |
-| [Verger_Ewe_Dataset_v3.xlsx](Verger_Ewe_Dataset_v3.xlsx) | Source workbook — Accepted_Records and Synonym_Records sheets |
 | [Verger_Ewe_Mapping_Table_v3.xlsx](Verger_Ewe_Mapping_Table_v3.xlsx) | Darwin Core to Iroko Framework mapping table |
-| [Verger_Ewe_RDF_Diagram_v2.jpg](Verger_Ewe_RDF_Diagram_v2.jpg) | RDF graph diagram showing class structure and property relationships |
+| [Verger_Ewe_RDF_Diagram_v4.png](Verger_Ewe_RDF_Diagram_v4.png) | RDF graph diagram showing class structure and property relationships |
+| [Verger_Ewe_Dataset_v3.xlsx](Verger_Ewe_Dataset_v3.xlsx) | Source workbook — Accepted_Records and Synonym_Records sheets |
 
 ---
 

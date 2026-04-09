@@ -1,6 +1,6 @@
 # LS563 Linked Data Project — Verger Ewé Dataset
 
-**Délé Fágbèmí Ọ̀. | University of Alabama MLIS | LS563 Linked Data**
+**Délé Fágbèmí Ọ̀.** | **University of Alabama - MLIS** | **LS563 Linked Data**
 
 **Live pilot data:** [medjat.irokosociety.org/ewe/](https://medjat.irokosociety.org/ewe/)
 

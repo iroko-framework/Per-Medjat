@@ -37,13 +37,21 @@ Used for: `xsd:boolean`, `xsd:string`
 
 ## Linking Strategy
 
-Each plant record has a persistent URI in the Iroko data namespace (`https://ontology.irokosociety.org/data/ewe/Plant####`). Class assignments and property values link to terms defined in the published Iroko Framework vocabulary. Darwin Core properties align the dataset with biodiversity informatics standards (GBIF, Catalogue of Life).
+**What gets a URI and why:**
+Each accepted plant record receives a persistent URI in the Iroko data namespace (https://ontology.irokosociety.org/data/ewe/Plant####). Records are assigned URIs rather than treated as blank nodes or literals because each record is a governed entity with its own identity, access tier, and long-term resolvability. A URI-identified record can be linked to by other systems, resolved independently, and governed by the Iroko Framework's access tier architecture in a machine-actionable way.
 
-Vernacular names use SKOS labels with BCP 47 language tags: `@yo` (Yoruba), `@x-lucumi` (Lucumí — private use subtag preserving its autonomy from Standard Yoruba), `@es` (Spanish), `@en` (English), `@ht` (Haitian Creole), `@pt` (Portuguese).
+Governance concepts (access level, ritual use, and medicinal use) are also modeled as URIs referencing controlled terms in the Iroko Framework vocabulary rather than as string literals. This means any system consuming the data can resolve the term, apply the governance logic, and interoperate with the vocabulary. A literal like "initiated only" carries no machine-actionable semantics; a URI reference to iroko:access-initiated-only does.
 
-Each record links to an Iroko access concept governing downstream use: `iroko:access-public-unrestricted`, `iroko:access-community-only`, `iroko:access-initiated-only`, `iroko:access-initiated-elder`, `iroko:access-public-no-amplification`.
+**What gets linked to external vocabularies and why:**
+Scientific names use dwc:scientificName and taxonomic status uses dwc:taxonomicStatus from Darwin Core, aligning the dataset with GBIF and Catalogue of Life standards. This enables interoperability with biodiversity informatics systems without custom crosswalks and situates the dataset within an established botanical linked data ecosystem.
+Vernacular name labels use SKOS (skos:prefLabel and skos:altLabel) because SKOS is the standard vocabulary for concept labeling across multiple languages and is widely supported in linked data applications.
 
-Taxonomic synonyms are modeled as separate records in a companion Synonym_Records sheet, each with its own IHS-namespaced URI (`Plant####s#`), linked back to the accepted record via `dwc:acceptedNameUsageID`. This follows the Darwin Core multi-record name usage model as implemented by GBIF and Catalogue of Life.
+**What remains a literal and why:**
+Vernacular names are modeled as typed literals with BCP 47 language tags rather than as URI-identified entities because they are assertions about a record, not independent entities. Their meaning is inseparable from linguistic context. The same string can refer to different plants across traditions, so language tagging rather than URI identification is the appropriate model.
+
+@x-lucumi is used as a private use BCP 47 subtag for Lucumí rather than subsuming it under @yo (Standard Yoruba). Lucumí is an autonomous liturgical language with a collapsed tonal system and Spanish-influenced lexicon developed across centuries of Afro-Cuban religious practice. Subsuming it under Standard Yoruba would misrepresent both languages and obscure a meaningful distinction the data is specifically designed to preserve.
+
+Free-text fields such as iroko:collisionNote and iroko:ritualNote remain string literals tagged @en because they are explanatory prose, not governed concepts, and do not require URI identification.
 
 ---
 
@@ -84,7 +92,7 @@ Taxonomic synonyms are modeled as separate records in a companion Synonym_Record
 
 | File | Description |
 |---|---|
-| [Verger_Ewe_Dataset_v4.ttl](Verger_Ewe_Dataset_v4.ttl) | RDF dataset — 13 accepted records, corrected per Part 3 feedback |
+| [Verger_Ewe_Dataset_v4.ttl](Verger_Ewe_Dataset_v4.ttl) | RDF dataset — 50 accepted records, corrected per Part 3 feedback |
 | [Verger_Ewe_Mapping_Table_v4.xlsx](Verger_Ewe_Mapping_Table_v4.xlsx) | Darwin Core to Iroko Framework mapping table |
 | [Verger_Ewe_RDF_Diagram_v4.png](Verger_Ewe_RDF_Diagram_v4.png) | RDF graph diagram showing class structure and property relationships |
 | [Verger_Ewe_Dataset_v3.xlsx](Verger_Ewe_Dataset_v3.xlsx) | Source workbook — Accepted_Records and Synonym_Records sheets |

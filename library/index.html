@@ -8,10 +8,13 @@
   <meta name="description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <style>
+    /* ── Library hero ──────────────────────────────────────────── */
     .library-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
     .library-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; }
-    .library-title { font-family: var(--serif); font-size: clamp(2rem, 4vw, 3rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .6rem; }
+    .library-title { font-family: var(--serif); font-size: clamp(2rem,4vw,3rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .6rem; }
     .library-sub { font-size: .92rem; color: var(--ink-mid); line-height: 1.75; max-width: 64ch; }
+
+    /* ── Holdings grid (unchanged) ─────────────────────────────── */
     .holdings-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-top: 1rem; }
     .holding-card { background: var(--paper); padding: 1.5rem 1.75rem; }
     .holding-card:hover { background: var(--paper-warm); }
@@ -19,12 +22,128 @@
     .holding-name { font-family: var(--serif); font-size: 1.15rem; font-weight: 600; color: var(--green); margin-bottom: .4rem; }
     .holding-desc { font-size: .86rem; color: var(--ink-mid); line-height: 1.6; }
     .holding-status { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .6rem; }
-    .portal-block { background: var(--green-light); border: 1px solid rgba(46,74,30,.2); border-radius: 3px; padding: 1.5rem 2rem; margin-top: 1rem; display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; }
-    .portal-title { font-family: var(--serif); font-size: 1.1rem; font-weight: 600; color: var(--green); margin-bottom: .4rem; }
-    .portal-desc { font-size: .87rem; color: var(--ink-mid); line-height: 1.6; }
-    .portal-link { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .15s; }
-    .portal-link:hover { background: var(--green); color: #fff; }
-    @media (max-width: 640px) { .holdings-grid { grid-template-columns: 1fr; } .portal-block { grid-template-columns: 1fr; } }
+
+    /* ── Catalog search bar ────────────────────────────────────── */
+    .catalog-search-wrap { display: grid; grid-template-columns: 1fr auto auto; gap: .75rem; align-items: center; margin-bottom: 1rem; }
+    .catalog-search-wrap .search-input { width: 100%; font-size: 1rem; padding: .75em 1.1em; }
+    .search-btn { font-family: var(--mono); font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.6em; background: var(--green); color: #fff; border: none; border-radius: 3px; cursor: pointer; white-space: nowrap; transition: background .12s; }
+    .search-btn:hover { background: var(--green-mid); }
+    .adv-btn { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.1em; background: none; color: var(--green); border: 1px solid var(--rule-strong); border-radius: 3px; cursor: pointer; white-space: nowrap; transition: all .12s; }
+    .adv-btn:hover { border-color: var(--green); }
+    .adv-btn.open { background: var(--green); color: #fff; border-color: var(--green); }
+
+    /* ── Advanced search panel ─────────────────────────────────── */
+    .adv-panel { border: 1px solid var(--rule-strong); border-radius: 3px; padding: 1.2rem 1.4rem; background: var(--paper-warm); margin-bottom: 1.25rem; }
+    .adv-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .75rem 1.5rem; margin-bottom: 1rem; }
+    .adv-field { display: flex; flex-direction: column; gap: .3rem; }
+    .adv-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); }
+    .adv-input { font-family: var(--sans); font-size: .85rem; padding: .45em .7em; border: 1px solid var(--rule-strong); border-radius: 3px; background: var(--paper); color: var(--ink); }
+    .adv-input:focus { outline: 2px solid var(--green); border-color: transparent; }
+    select.adv-input { cursor: pointer; }
+    .adv-actions { display: flex; gap: .5rem; align-items: center; }
+    .adv-clear-btn { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; text-transform: uppercase; padding: .45em .9em; background: none; color: var(--ink-soft); border: 1px solid var(--rule-strong); border-radius: 3px; cursor: pointer; transition: all .12s; }
+    .adv-clear-btn:hover { color: var(--terracotta); border-color: var(--terracotta); }
+
+    /* ── Lapis/gold design token ───────────────────────────────── */
+    /* Egyptian lapis #1a3468 · gold #c8a84b · warm white #f0ece0 */
+
+    /* ── Tradition filter pills ────────────────────────────────── */
+    .filter-row { display: flex; gap: .4rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
+    /* Pill label above the tradition row */
+    .trad-row-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: #1a3468; margin-bottom: .5rem; padding-left: .1rem; border-left: 2px solid #c8a84b; padding-left: .5rem; }
+    /* Override CDN active state: lapis + white bold + gold border */
+    .filter-pill.active { background: #1a3468 !important; color: #f0ece0 !important; border-color: #c8a84b !important; }
+
+    /* ── Results header ────────────────────────────────────────── */
+    #results-area { display: none; }
+    #results-area.visible { display: block; }
+    .results-meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.25rem; padding-bottom: .75rem; border-bottom: 1px solid var(--rule); }
+    #results-summary { font-family: var(--mono); font-size: .68rem; letter-spacing: .06em; color: var(--ink-soft); }
+    .results-sort { font-family: var(--mono); font-size: .65rem; padding: .35em .7em; border: 1px solid var(--rule-strong); background: var(--paper); color: var(--ink); border-radius: 3px; cursor: pointer; }
+    .active-filter-chips { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: 1rem; }
+    .active-chip { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; padding: .18em .6em; background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; border-radius: 2px; display: inline-flex; align-items: center; gap: .3rem; }
+    .active-chip button { background: none; border: none; color: #f0ece0; cursor: pointer; font-size: .8rem; line-height: 1; padding: 0; opacity: .75; }
+    .active-chip button:hover { opacity: 1; }
+
+    /* ── Record stack (no grid — avoids ghost empty cells) ────── */
+    #catalog-grid { display: flex; flex-direction: column; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; margin-bottom: 2rem; }
+
+    /* ── Record card ───────────────────────────────────────────── */
+    .rec-card { background: var(--paper); padding: 1.2rem 1.4rem; display: flex; flex-direction: column; gap: .3rem; transition: background .12s; border-bottom: 1px solid var(--rule); }
+    .rec-card:last-child { border-bottom: none; }
+    .rec-card:hover { background: var(--paper-warm); }
+    .rec-num { font-family: var(--mono); font-size: .58rem; letter-spacing: .1em; color: var(--ink-soft); text-transform: uppercase; }
+    .rec-title { font-family: var(--serif); font-size: 1.15rem; font-weight: 600; color: var(--green); line-height: 1.2; }
+    .rec-title em { font-style: italic; color: var(--terracotta); font-size: .9em; }
+    .rec-author { font-size: .82rem; color: var(--ink-mid); margin-top: .1rem; }
+    .rec-pub { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); }
+    .rec-abstract { font-size: .82rem; color: var(--ink-mid); line-height: 1.65; margin-top: .4rem; }
+    .rec-foot { margin-top: .6rem; display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
+
+    /* Tradition — lapis bg, warm white, gold border; linked variant gets hover inversion */
+    .rec-trad { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; text-decoration: none; }
+    .rec-trad--linked { cursor: pointer; }
+    .rec-trad--linked:hover { background: #c8a84b; color: #1a3468; }
+
+    /* Type — neutral, descriptive metadata */
+    .rec-type { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .55em; border-radius: 2px; background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule-strong); }
+
+    /* Access badge — governed vocabulary concept, lapis treatment */
+    .access-badge { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; }
+    .access-public { background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; }
+
+    /* Subject chips — free-text keywords; neutral base, lapis hover signals searchability */
+    .rec-subject { font-family: var(--sans); font-size: .7rem; background: var(--paper-deep); color: var(--ink-mid); padding: .15em .6em; border-radius: 2px; border: 1px solid var(--rule-strong); cursor: pointer; transition: background .12s, color .12s, border-color .12s; }
+    .rec-subject:hover { background: #1a3468; color: #f0ece0; border-color: #c8a84b; }
+
+    /* Iroko framework concept chips — amber/gold, distinct from access/tradition */
+    .rec-iroko { font-family: var(--mono); font-size: .6rem; letter-spacing: .04em; padding: .15em .6em; border-radius: 2px; background: var(--gold-light); color: var(--gold); border: 1px solid rgba(160,120,48,.3); text-decoration: none; }
+    .rec-iroko:hover { background: var(--gold); color: #fff; }
+
+    /* MARC detail toggle */
+    .marc-toggle { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); background: none; border: none; cursor: pointer; padding: 0; margin-top: .3rem; display: inline-flex; align-items: center; gap: .25rem; }
+    .marc-toggle:hover { color: var(--green); }
+    .marc-detail { display: none; margin-top: .75rem; padding-top: .75rem; border-top: 1px solid var(--rule); }
+    .marc-detail.open { display: block; }
+    .marc-table { width: 100%; border-collapse: collapse; }
+    .marc-table td { padding: .2rem 0; vertical-align: top; font-size: .78rem; }
+    .marc-field { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--green-mid); width: 2.5rem; min-width: 2.5rem; padding-right: .4rem; }
+    .marc-label { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); width: 5rem; min-width: 5rem; padding-right: .5rem; }
+    .marc-val { font-family: var(--serif); color: var(--ink); line-height: 1.45; }
+
+    /* (list-view overrides removed — stack layout is always single-column) */
+
+    /* ── Empty states ──────────────────────────────────────────── */
+    #no-results { font-family: var(--mono); font-size: .78rem; color: var(--ink-soft); font-style: italic; padding: 2rem 0; display: none; }
+    #load-error { font-family: var(--mono); font-size: .75rem; color: var(--terracotta); padding: 1rem 0; display: none; }
+
+    /* ── Note block — Egyptian lapis ──────────────────────────── */
+    .note-block { border-left: 4px solid #c8a84b; padding: 1.1rem 1.4rem; background: #1a3468; border-radius: 0 3px 3px 0; margin-bottom: 1rem; }
+    .note-block-title { font-family: var(--mono); font-size: .62rem; letter-spacing: .14em; text-transform: uppercase; color: #c8a84b; margin-bottom: .5rem; }
+    .note-block p { font-size: .86rem; color: rgba(240,236,224,.88); line-height: 1.7; }
+    .note-block p a { color: #c8a84b; text-decoration: none; }
+    .note-block p a:hover { color: #f0ead8; text-decoration: underline; }
+
+    /* ── Footer (terracotta) ───────────────────────────────────── */
+    .site-footer--terracotta { background: #8b3a1a; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+    .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
+    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+    .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+    .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
+    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
+    .footer-org-iao a:hover { color: #f7f4ed; }
+    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
+    .footer-col a:hover { color: #f7f4ed; }
+
+    @media (max-width: 640px) {
+      .holdings-grid { grid-template-columns: 1fr; }
+      .catalog-search-wrap { grid-template-columns: 1fr auto auto; }
+      .adv-grid { grid-template-columns: 1fr; }
+      .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; }
+    }
   </style>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
@@ -58,17 +177,79 @@
   <div class="library-hero">
     <div class="library-eyebrow">Published holdings · Cataloged materials</div>
     <h1 class="library-title">Medjat <em style="font-style:italic;color:var(--terracotta);">Library</em></h1>
-    <p class="library-sub">Scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, ethnographies, and reference literature held and cataloged by the Iroko Historical Society. Materials in the Medjat Library are published works; they are maintained separately from the unique and unpublished materials held in the Medjat Archives.</p>
+    <p class="library-sub">Scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, ethnographies, and reference literature held and cataloged by the Iroko Historical Society.</p>
   </div>
 
-  <p class="section-label">Holdings</p>
+  <!-- ── Catalog search — above holdings, prominent ─────────── -->
+  <p class="section-label">Catalog</p>
+
+  <div class="catalog-search-wrap">
+    <input type="search" id="search-input" class="search-input"
+      placeholder="Search by title, author, subject, keyword…"
+      autocomplete="off" aria-label="Search the catalog" />
+    <button class="search-btn" onclick="triggerSearch()">Search</button>
+    <button class="adv-btn" id="adv-toggle" onclick="toggleAdv()" aria-expanded="false" aria-controls="adv-panel">Advanced ▾</button>
+  </div>
+
+  <div id="adv-panel" hidden aria-label="Advanced search options">
+    <div class="adv-panel">
+      <div class="adv-grid">
+        <div class="adv-field">
+          <label class="adv-label" for="adv-author">Author</label>
+          <input type="text" id="adv-author" class="adv-input" placeholder="Last name or full name…" autocomplete="off">
+        </div>
+        <div class="adv-field">
+          <label class="adv-label" for="adv-title">Title</label>
+          <input type="text" id="adv-title" class="adv-input" placeholder="Title keywords…" autocomplete="off">
+        </div>
+        <div class="adv-field">
+          <label class="adv-label" for="adv-publisher">Publisher</label>
+          <input type="text" id="adv-publisher" class="adv-input" placeholder="Publisher name…" autocomplete="off">
+        </div>
+        <div class="adv-field">
+          <label class="adv-label" for="adv-tradition">Tradition</label>
+          <select id="adv-tradition" class="adv-input">
+            <option value="">All traditions</option>
+          </select>
+        </div>
+      </div>
+      <div class="adv-actions">
+        <button class="search-btn" onclick="applyAdv()">Apply</button>
+        <button class="adv-clear-btn" onclick="clearAdv()">Clear filters</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="trad-row-label">Quick search by tradition</div>
+  <div class="filter-row" id="tradition-row">
+    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading traditions…</span>
+  </div>
+
+  <div id="load-error"></div>
+
+  <div id="results-area">
+    <div class="results-meta">
+      <span id="results-summary"></span>
+      <select id="sort-select" class="results-sort" aria-label="Sort records">
+        <option value="author">Author A–Z</option>
+        <option value="title">Title A–Z</option>
+        <option value="date-desc">Year (newest)</option>
+        <option value="date-asc">Year (oldest)</option>
+      </select>
+    </div>
+    <div class="active-filter-chips" id="active-chips"></div>
+    <div id="no-results">No records match your search.</div>
+    <div id="catalog-grid" role="list"></div>
+  </div>
+
+  <p class="section-label" id="holdings-label">Holdings</p>
 
   <div class="holdings-grid">
     <div class="holding-card">
       <div class="holding-tag">Reference literature</div>
       <div class="holding-name">IHS Research Library</div>
       <div class="holding-desc">Scholarly monographs, ethnographies, field studies, and comparative literature on Lucumí, Vodou, Candomblé, Palo Monte, Abakuá, Ifá, and related Afro-Atlantic traditions. Acquired to support archival description, contextual research, and ethical stewardship of the Society's archival collections.</div>
-      <div class="holding-status">On-site consultation by appointment · Catalog in development</div>
+      <div class="holding-status">L0 Public · Search catalog above</div>
     </div>
     <div class="holding-card">
       <div class="holding-tag">Field editions &amp; published sources</div>
@@ -85,24 +266,14 @@
     <div class="holding-card">
       <div class="holding-tag">Donated collections</div>
       <div class="holding-name">Donated Scholar Libraries</div>
-      <div class="holding-desc">Published books, journals, and reference materials donated by scholars, practitioners, and institutions whose collections complement the IHS research mission. Cataloged and described using MARC21 with local subject enrichment via Iroko Framework vocabulary.</div>
+      <div class="holding-desc">Published books, journals, and reference materials donated by scholars, practitioners, and institutions whose collections complement the IHS research mission. Cataloged and described using MARC 21 with local subject enrichment via Iroko Framework vocabulary.</div>
       <div class="holding-status">Accepting donations · Contact IHS to discuss</div>
     </div>
   </div>
 
-  <p class="section-label">Catalog Access</p>
-
-  <div class="portal-block">
-    <div>
-      <div class="portal-title">IHS Research Library Catalog</div>
-      <div class="portal-desc">The IHS Research Library catalog is available for public browsing through the IHS Zotero public group library. No account required. Search by author, title, subject, or tradition. The catalog will expand as processing continues and donated collections are integrated.</div>
-    </div>
-    <a class="portal-link" href="https://www.zotero.org/groups/iroko-historical-society" target="_blank" rel="noopener">Browse catalog ↗</a>
-  </div>
-
   <div class="note-block" style="margin-top:1.5rem;">
     <div class="note-block-title">Distinction from the Medjat Archives</div>
-    <p>The Medjat Library holds published and cataloged materials. The <a href="../archives/">Medjat Archives</a> holds unique, unpublished, and field-collected materials governed under the Iroko Framework six-tier access system. A donated collection may include both published works (cataloged here) and unique field materials (governed in the Archives). The distinction is maintained throughout processing and description.</p>
+    <p>The Medjat Library holds published and cataloged materials. The <a href="../archives/">Medjat Archives</a> holds unique, unpublished, and field-collected materials governed under the Iroko Framework six-tier access system. The distinction is maintained throughout processing and description.</p>
   </div>
 
   <footer class="site-footer site-footer--terracotta">
@@ -129,22 +300,385 @@
     </div>
   </footer>
 
-  <style>
-    .site-footer--terracotta { background: #8b3a1a; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
-    .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
-    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
-    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
-    .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
-    .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
-    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
-    .footer-org-iao a:hover { color: #f7f4ed; }
-    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
-    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
-    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
-    .footer-col a:hover { color: #f7f4ed; }
-    @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
-  </style>
+</div><!-- /page-wrap -->
 
-</div>
+<script>
+/* ── Config ─────────────────────────────────────────────────── */
+const ZOTERO_GROUP = '6479329';
+const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items`;
+
+/* ── Tradition vocabulary (from iroko-core.ttl · TraditionScheme) ─ */
+// URI pattern: https://ontology.irokosociety.org/vocab/iroko-core.html#concept-{slug}
+// null uri = concept not yet published; badge renders as plain span
+const _OB = 'https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-';
+const TRADITION_VOCAB = {
+  'Lucumí':         { uri: _OB+'tradition-lucumi',           prefLabel: 'Lucumí',           altLabels: ['Lucumi','Regla de Ocha','Santería','Santeria'] },
+  'Haitian Vodou':  { uri: _OB+'tradition-haitian-vodou',    prefLabel: 'Haitian Vodou',     altLabels: ['Vodou','Voodoo','Vodun'] },
+  'Vodou':          { uri: _OB+'tradition-haitian-vodou',    prefLabel: 'Haitian Vodou',     altLabels: ['Voodoo','Vodun','Haitian Vodou'] },
+  'Vodou Rada':     { uri: _OB+'tradition-vodou-rada',       prefLabel: 'Vodou Rada',        altLabels: ['Rada'] },
+  'Vodou Petwo':    { uri: _OB+'tradition-vodou-petwo',      prefLabel: 'Vodou Petwo',       altLabels: ['Petwo','Petro'] },
+  'Candomblé':      { uri: _OB+'tradition-candomble-ketu',   prefLabel: 'Candomblé',         altLabels: ['Candomble','Candomblé Ketu','Candomble Ketu'] },
+  'Candomble':      { uri: _OB+'tradition-candomble-ketu',   prefLabel: 'Candomblé',         altLabels: ['Candomblé'] },
+  'Palo Monte':     { uri: _OB+'tradition-palo-monte',       prefLabel: 'Palo Monte',        altLabels: ['Regla de Congo','Palo'] },
+  'Palo Mayombe':   { uri: _OB+'tradition-palo-mayombe',     prefLabel: 'Palo Mayombe',      altLabels: [] },
+  'Abakuá':         { uri: _OB+'tradition-abakua',           prefLabel: 'Abakuá',            altLabels: ['Abakua'] },
+  'Abakua':         { uri: _OB+'tradition-abakua',           prefLabel: 'Abakuá',            altLabels: ['Abakuá'] },
+  'Espiritismo':    { uri: _OB+'tradition-espiritismo',      prefLabel: 'Espiritismo',       altLabels: [] },
+  'Ekpe':           { uri: _OB+'tradition-ekpe',             prefLabel: 'Ekpe',              altLabels: ['Egbo'] },
+  'Hoodoo':         { uri: _OB+'tradition-hoodoo',           prefLabel: 'Hoodoo',            altLabels: ['Conjure','Rootwork'] },
+  'Rastafari':      { uri: _OB+'tradition-rastafari',        prefLabel: 'Rastafari',         altLabels: [] },
+  'Umbanda':        { uri: _OB+'tradition-umbanda',          prefLabel: 'Umbanda',           altLabels: [] },
+  'Quimbanda':      { uri: _OB+'tradition-quimbanda',        prefLabel: 'Quimbanda',         altLabels: [] },
+  'Garifuna':       { uri: _OB+'tradition-garifuna',         prefLabel: 'Garifuna',          altLabels: ['Dugu'] },
+  'Winti':          { uri: _OB+'tradition-winti',            prefLabel: 'Winti',             altLabels: [] },
+  'Trinidad Orisha':{ uri: _OB+'tradition-trinidad-orisha',  prefLabel: 'Trinidad Orisha',   altLabels: ['Shango Baptist'] },
+  'Oyotunji':       { uri: _OB+'tradition-oyotunji',         prefLabel: 'Oyotunji',          altLabels: [] },
+  'Kromanti':       { uri: _OB+'tradition-kromanti',         prefLabel: 'Kromanti',          altLabels: [] },
+  'Kumina':         { uri: _OB+'tradition-kumina',           prefLabel: 'Kumina',            altLabels: [] },
+  'Arara':          { uri: _OB+'tradition-arara',            prefLabel: 'Arara',             altLabels: [] },
+  '21 Divisiones':  { uri: _OB+'tradition-21-divisiones',   prefLabel: '21 Divisiones',     altLabels: ['Dominican Vodu'] },
+  // Yoruba (continental) — used in catalog for broad Yoruba materials
+  'Yoruba':         { uri: _OB+'tradition-yoruba-continental', prefLabel: 'Yoruba',          altLabels: ['Nigerian Yoruba'] },
+  // Tags used in Zotero without a precise ontology concept yet
+  'Ifá / Orisa':    { uri: null, prefLabel: 'Ifá / Orisa',   altLabels: ['Ifa','Orisa','Orisha','Ifa / Orisa'] },
+  'Ifá':            { uri: null, prefLabel: 'Ifá',            altLabels: ['Ifa'] },
+  'Orisa':          { uri: null, prefLabel: 'Orisa',          altLabels: ['Orisha'] },
+  'Comparative':    { uri: null, prefLabel: 'Comparative',    altLabels: [] },
+  'Afro-Atlantic':  { uri: null, prefLabel: 'Afro-Atlantic',  altLabels: [] },
+  'Kongo':          { uri: null, prefLabel: 'Kongo',          altLabels: [] },
+};
+
+// Reverse lookup: any label (case-insensitive) → canonical TRADITION_VOCAB key
+const TRADITION_LOOKUP = {};
+Object.entries(TRADITION_VOCAB).forEach(([key, v]) => {
+  TRADITION_LOOKUP[key.toLowerCase()] = key;
+  (v.altLabels || []).forEach(a => { TRADITION_LOOKUP[a.toLowerCase()] = key; });
+});
+function resolveTag(t) {
+  return TRADITION_VOCAB[t] || TRADITION_VOCAB[TRADITION_LOOKUP[t.toLowerCase()]] || null;
+}
+
+/* ── Type set ───────────────────────────────────────────────── */
+const TYPE_SET = new Set([
+  'Monograph','Ethnography','Field Study','Comparative Literature',
+  'Primary Source','Reference','Dictionary','Encyclopedia',
+  'Anthology','Dissertation','Journal Article','Book Chapter'
+]);
+
+function tagKind(t) {
+  if (t.startsWith('iroko:')) return 'iroko';
+  if (resolveTag(t))          return 'tradition';
+  if (TYPE_SET.has(t))        return 'type';
+  return 'subject';
+}
+
+/* ── Parse ──────────────────────────────────────────────────── */
+function parse(item) {
+  const d = item.data || {};
+  if (!d.title) return null;
+  const creators = (d.creators || []).map(c => ({
+    role: c.creatorType || 'author',
+    last: c.lastName || '', first: c.firstName || c.name || ''
+  }));
+  const tags = (d.tags || []).map(t => (typeof t === 'string' ? t : t.tag || '').trim()).filter(Boolean);
+  let pages = (d.numPages || '').toString().trim();
+  if (pages.includes('-')) pages = pages.split('-').pop().trim();
+  pages = pages.replace(/\D/g, '');
+  return {
+    key:        d.key || item.key || '',
+    title:      d.title || '',
+    subtitle:   d.subtitle || '',
+    creators,
+    date:       (d.date || '').replace(/\D.*$/, '').trim(),
+    publisher:  d.publisher || '',
+    place:      d.place || '',
+    edition:    d.edition || '',
+    pages,
+    series:     d.series || '',
+    abstract:   d.abstractNote || '',
+    isbn:       d.ISBN || '',
+    traditions: tags.filter(t => tagKind(t) === 'tradition')
+                    .map(t => { const v = resolveTag(t); return v ? v.prefLabel : t; }),
+    types:      tags.filter(t => tagKind(t) === 'type'),
+    irokos:     tags.filter(t => tagKind(t) === 'iroko'),
+    subjects:   tags.filter(t => tagKind(t) === 'subject'),
+    tags
+  };
+}
+
+/* ── Fetch all (paginated) ──────────────────────────────────── */
+async function fetchAll() {
+  let all = [], start = 0, total = null;
+  while (true) {
+    const res = await fetch(`${API_BASE}?format=json&limit=100&start=${start}`);
+    if (!res.ok) throw new Error(`Zotero API returned ${res.status}`);
+    if (total === null) total = parseInt(res.headers.get('Total-Results') || '0', 10);
+    const batch = await res.json();
+    all = all.concat(batch);
+    start += 100;
+    if (start >= total || batch.length === 0) break;
+  }
+  return all;
+}
+
+/* ── HTML escape ────────────────────────────────────────────── */
+function e(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+/* ── Build card ─────────────────────────────────────────────── */
+function buildCard(rec, n) {
+  const main = rec.creators.find(c => c.role === 'author') || rec.creators[0];
+  const authorStr = main ? (main.last + (main.first ? ', ' + main.first : '')) : '';
+  const added = rec.creators.filter((c,i) => c.role === 'author' && i > 0);
+
+  const pubLine = [
+    rec.place     ? rec.place + ' :'    : '',
+    rec.publisher ? rec.publisher + ',' : '',
+    rec.date      ? rec.date + '.'      : ''
+  ].filter(Boolean).join(' ');
+
+  const tradBadges = rec.traditions.map(t => {
+    const v = resolveTag(t);
+    if (v && v.uri) return `<a class="rec-trad rec-trad--linked" href="${e(v.uri)}" target="_blank" rel="noopener" title="View ${e(v.prefLabel)} in Iroko ontology">${e(v.prefLabel)}</a>`;
+    return `<span class="rec-trad">${e(t)}</span>`;
+  }).join('');
+  const typeBadges = rec.types.map(t => `<span class="rec-type">${e(t)}</span>`).join('');
+  const subjectChips = rec.subjects.map(s =>
+    `<button class="rec-subject" data-term="${e(s)}">${e(s)}</button>`).join('');
+  const irokoChips = rec.irokos.map(tag => {
+    const label = tag.replace(/^iroko:(paper|module):/, '').replace(/-/g,' ');
+    return `<a class="rec-iroko" href="#iroko-${e(tag.replace(/:/g,'-'))}" target="_blank">${e(label)}</a>`;
+  }).join('');
+
+  const marcRows = [
+    main   ? `<tr><td class="marc-field">100</td><td class="marc-label">Author</td><td class="marc-val">${e(authorStr)}</td></tr>` : '',
+    `<tr><td class="marc-field">245</td><td class="marc-label">Title</td><td class="marc-val">${e(rec.title)}${rec.subtitle ? ' : ' + e(rec.subtitle) : ''}</td></tr>`,
+    rec.edition ? `<tr><td class="marc-field">250</td><td class="marc-label">Edition</td><td class="marc-val">${e(rec.edition)}</td></tr>` : '',
+    pubLine     ? `<tr><td class="marc-field">264</td><td class="marc-label">Published</td><td class="marc-val">${e(pubLine)}</td></tr>` : '',
+    rec.pages   ? `<tr><td class="marc-field">300</td><td class="marc-label">Pages</td><td class="marc-val">${e(rec.pages)} p.</td></tr>` : '',
+    rec.series  ? `<tr><td class="marc-field">490</td><td class="marc-label">Series</td><td class="marc-val">${e(rec.series)}</td></tr>` : '',
+    rec.isbn    ? `<tr><td class="marc-field">020</td><td class="marc-label">ISBN</td><td class="marc-val">${e(rec.isbn)}</td></tr>` : '',
+    ...added.map(a => `<tr><td class="marc-field">700</td><td class="marc-label">Added entry</td><td class="marc-val">${e(a.last + (a.first ? ', ' + a.first : ''))}</td></tr>`)
+  ].filter(Boolean).join('');
+
+  const cardId = `rc-${e(rec.key)}`;
+  return `
+<div class="rec-card" role="listitem" id="${cardId}">
+  <div class="rec-num">rec·${String(n+1).padStart(4,'0')}</div>
+  <div class="rec-title">${e(rec.title)}${rec.subtitle ? `<em> : ${e(rec.subtitle)}</em>` : ''}</div>
+  ${authorStr ? `<div class="rec-author">${e(authorStr)}${rec.date ? ' &middot; ' + e(rec.date) : ''}</div>` : ''}
+  ${rec.abstract ? `<div class="rec-abstract">${e(rec.abstract)}</div>` : ''}
+  <div class="rec-foot">
+    ${tradBadges}${typeBadges}
+    <span class="access-badge access-public">L0 public</span>
+    ${subjectChips}${irokoChips}
+  </div>
+  ${marcRows ? `
+  <button class="marc-toggle" onclick="toggleMarc('${cardId}')">&#9656; marc record</button>
+  <div class="marc-detail" id="marc-${cardId}">
+    <table class="marc-table">${marcRows}</table>
+  </div>` : ''}
+</div>`;
+}
+
+function toggleMarc(id) {
+  const d = document.getElementById('marc-' + id);
+  const b = d && d.previousElementSibling;
+  if (!d) return;
+  d.classList.toggle('open');
+  if (b) b.innerHTML = (d.classList.contains('open') ? '&#9662;' : '&#9656;') + ' marc record';
+}
+
+/* ── State ──────────────────────────────────────────────────── */
+let ALL = [];
+let F = { query: '', tradition: '', author: '', title: '', publisher: '' };
+
+/* ── Filter + sort ──────────────────────────────────────────── */
+function filtered() {
+  return ALL.filter(r => {
+    if (F.tradition && !r.traditions.includes(F.tradition)) return false;
+    if (F.author) {
+      const h = r.creators.map(c => (c.last + ' ' + c.first).toLowerCase()).join(' ');
+      if (!h.includes(F.author.toLowerCase())) return false;
+    }
+    if (F.title) {
+      if (!(r.title + ' ' + (r.subtitle || '')).toLowerCase().includes(F.title.toLowerCase())) return false;
+    }
+    if (F.publisher) {
+      if (!r.publisher.toLowerCase().includes(F.publisher.toLowerCase())) return false;
+    }
+    if (F.query) {
+      const h = [r.title, r.subtitle,
+        ...r.creators.map(c => c.last + ' ' + c.first),
+        ...r.tags, r.publisher, r.abstract
+      ].join(' ').toLowerCase();
+      if (!h.includes(F.query.toLowerCase())) return false;
+    }
+    return true;
+  });
+}
+
+function sorted(recs) {
+  const k = document.getElementById('sort-select').value;
+  const c = [...recs];
+  if (k === 'title')     return c.sort((a,b) => a.title.localeCompare(b.title));
+  if (k === 'date-desc') return c.sort((a,b) => (b.date||'0').localeCompare(a.date||'0'));
+  if (k === 'date-asc')  return c.sort((a,b) => (a.date||'0').localeCompare(b.date||'0'));
+  return c.sort((a,b) => ((a.creators[0]?.last||a.title).localeCompare(b.creators[0]?.last||b.title)));
+}
+
+/* ── Render ─────────────────────────────────────────────────── */
+function render() {
+  const active = F.query || F.tradition || F.author || F.title || F.publisher;
+  const area   = document.getElementById('results-area');
+  if (!active) { area.classList.remove('visible'); syncTradPills(); return; }
+
+  area.classList.add('visible');
+  const recs = sorted(filtered());
+  const grid = document.getElementById('catalog-grid');
+  const noRes = document.getElementById('no-results');
+  const sum   = document.getElementById('results-summary');
+
+  // Active chips
+  const chips = document.getElementById('active-chips');
+  chips.innerHTML = '';
+  if (F.query)     chips.innerHTML += chip('query',     `"${F.query}"`);
+  if (F.tradition) chips.innerHTML += chip('tradition', F.tradition);
+  if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
+  if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);
+  if (F.publisher) chips.innerHTML += chip('publisher', `Publisher: ${F.publisher}`);
+
+  if (recs.length === 0) {
+    grid.innerHTML = ''; noRes.style.display = 'block';
+    sum.textContent = 'No records found';
+  } else {
+    noRes.style.display = 'none';
+    sum.textContent = recs.length === ALL.length
+      ? `${ALL.length} record${ALL.length !== 1 ? 's' : ''}`
+      : `${recs.length} of ${ALL.length}`;
+    grid.innerHTML = recs.map((r,i) => buildCard(r,i)).join('');
+    grid.querySelectorAll('.rec-subject').forEach(btn => {
+      btn.addEventListener('click', () => {
+        F.query = btn.dataset.term;
+        F.tradition = '';
+        document.getElementById('search-input').value = btn.dataset.term;
+        syncTradPills();
+        render();
+      });
+    });
+  }
+  syncTradPills();
+}
+
+function chip(key, label) {
+  return `<span class="active-chip">${e(label)}<button onclick="clearF('${key}')">&times;</button></span>`;
+}
+function clearF(key) {
+  F[key] = '';
+  const map = { query: 'search-input', author: 'adv-author', title: 'adv-title', publisher: 'adv-publisher' };
+  if (map[key]) document.getElementById(map[key]).value = '';
+  if (key === 'tradition') {
+    const sel = document.getElementById('adv-tradition');
+    if (sel) sel.value = '';
+  }
+  syncTradPills(); render();
+}
+
+/* ── Tradition pills ────────────────────────────────────────── */
+function buildTradPills() {
+  const counts = {};
+  ALL.forEach(r => r.traditions.forEach(t => { counts[t] = (counts[t]||0) + 1; }));
+  const sorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+  const row = document.getElementById('tradition-row');
+  row.innerHTML = sorted.map(([t,n]) =>
+    `<button class="filter-pill" data-trad="${e(t)}">${e(t)} <span style="opacity:.5;font-weight:300">${n}</span></button>`
+  ).join('');
+  row.querySelectorAll('.filter-pill').forEach(p => {
+    p.addEventListener('click', () => {
+      F.tradition = F.tradition === p.dataset.trad ? '' : p.dataset.trad;
+      syncTradPills(); render();
+    });
+  });
+}
+
+function syncTradPills() {
+  document.querySelectorAll('#tradition-row .filter-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.trad === F.tradition);
+  });
+  const sel = document.getElementById('adv-tradition');
+  if (sel) sel.value = F.tradition || '';
+}
+
+function triggerSearch() {
+  F.query = document.getElementById('search-input').value.trim();
+  syncTradPills(); render();
+}
+
+/* ── Advanced search panel ──────────────────────────────────── */
+function toggleAdv() {
+  const panel = document.getElementById('adv-panel');
+  const btn   = document.getElementById('adv-toggle');
+  const open  = !panel.hidden;
+  panel.hidden = open;
+  btn.classList.toggle('open', !open);
+  btn.textContent = open ? 'Advanced ▾' : 'Advanced ▴';
+  btn.setAttribute('aria-expanded', String(!open));
+}
+
+function applyAdv() {
+  F.author    = document.getElementById('adv-author').value.trim();
+  F.title     = document.getElementById('adv-title').value.trim();
+  F.publisher = document.getElementById('adv-publisher').value.trim();
+  const trad  = document.getElementById('adv-tradition').value;
+  F.tradition = trad;
+  syncTradPills(); render();
+}
+
+function clearAdv() {
+  F.author = F.title = F.publisher = F.tradition = '';
+  ['adv-author','adv-title','adv-publisher'].forEach(id => {
+    document.getElementById(id).value = '';
+  });
+  document.getElementById('adv-tradition').value = '';
+  syncTradPills(); render();
+}
+
+function buildAdvancedTradition() {
+  const sel = document.getElementById('adv-tradition');
+  const traditions = [...new Set(ALL.flatMap(r => r.traditions))].sort();
+  traditions.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    sel.appendChild(opt);
+  });
+}
+
+/* ── Boot ───────────────────────────────────────────────────── */
+async function init() {
+  try {
+    const raw = await fetchAll();
+    ALL = raw.map(parse).filter(r => r && r.title);
+    buildTradPills();
+    buildAdvancedTradition();
+  } catch (err) {
+    document.getElementById('tradition-row').innerHTML = '';
+    const errEl = document.getElementById('load-error');
+    errEl.style.display = 'block';
+    errEl.textContent = `Catalog unavailable: ${err.message}`;
+  }
+}
+
+document.getElementById('search-input').addEventListener('keydown', ev => { if (ev.key === 'Enter') triggerSearch(); });
+document.getElementById('search-input').addEventListener('input', ev => { if (!ev.target.value) clearF('query'); });
+document.getElementById('sort-select').addEventListener('change', render);
+
+// Enter key in adv panel fields triggers Apply
+['adv-author','adv-title','adv-publisher'].forEach(id => {
+  document.getElementById(id).addEventListener('keydown', ev => { if (ev.key === 'Enter') applyAdv(); });
+});
+
+init();
+</script>
 </body>
 </html>

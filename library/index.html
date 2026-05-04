@@ -10,7 +10,8 @@
   <style>
     /* ── Library hero ──────────────────────────────────────────── */
     .library-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
-    .library-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; }
+    .library-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
+    .eyebrow-status { font-family: var(--mono); font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; padding: .15em .55em; border-radius: 2px; background: transparent; color: var(--terracotta); border: 1px solid var(--terracotta); opacity: .85; }
     .library-title { font-family: var(--serif); font-size: clamp(2rem,4vw,3rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .6rem; }
     .library-sub { font-size: .92rem; color: var(--ink-mid); line-height: 1.75; max-width: 64ch; }
 
@@ -175,7 +176,7 @@
   <p class="breadcrumb"><a href="https://medjat.irokosociety.org/">Per Medjat</a> <span>/</span> Medjat Library</p>
 
   <div class="library-hero">
-    <div class="library-eyebrow">Published holdings · Cataloged materials</div>
+    <div class="library-eyebrow">Published holdings · Cataloged materials <span class="eyebrow-status">Live · Growing</span></div>
     <h1 class="library-title">Medjat <em style="font-style:italic;color:var(--terracotta);">Library</em></h1>
     <p class="library-sub">Scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, ethnographies, and reference literature held and cataloged by the Iroko Historical Society.</p>
   </div>

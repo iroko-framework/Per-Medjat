@@ -422,7 +422,15 @@ function e(s) {
 function buildCard(rec, n) {
   const main = rec.creators.find(c => c.role === 'author') || rec.creators[0];
   const authorStr = main ? (main.last + (main.first ? ', ' + main.first : '')) : '';
-  const added = rec.creators.filter((c,i) => c.role === 'author' && i > 0);
+  const added = rec.creators.filter((c,i) => c.role !== 'author' ? false : i > 0 || rec.creators[0] !== main);
+
+  // Card-face display: all authors + editors, with role label for editors
+  const fmtCreator = c => (c.last + (c.first ? ', ' + c.first : '')) + (c.role === 'editor' ? ' (ed.)' : '');
+  const displayCreators = rec.creators.filter(c => c.role === 'author' || c.role === 'editor');
+  const authorDisplay = displayCreators.length === 0 ? authorStr :
+    displayCreators.length <= 3
+      ? displayCreators.map(fmtCreator).join('; ')
+      : displayCreators.slice(0, 2).map(fmtCreator).join('; ') + ', et al.';
 
   const pubLine = [
     rec.place     ? rec.place + ' :'    : '',
@@ -451,7 +459,10 @@ function buildCard(rec, n) {
     rec.pages   ? `<tr><td class="marc-field">300</td><td class="marc-label">Pages</td><td class="marc-val">${e(rec.pages)} p.</td></tr>` : '',
     rec.series  ? `<tr><td class="marc-field">490</td><td class="marc-label">Series</td><td class="marc-val">${e(rec.series)}</td></tr>` : '',
     rec.isbn    ? `<tr><td class="marc-field">020</td><td class="marc-label">ISBN</td><td class="marc-val">${e(rec.isbn)}</td></tr>` : '',
-    ...added.map(a => `<tr><td class="marc-field">700</td><td class="marc-label">Added entry</td><td class="marc-val">${e(a.last + (a.first ? ', ' + a.first : ''))}</td></tr>`)
+    ...rec.creators.filter(c => c !== main).map(a => {
+      const label = a.role === 'editor' ? 'Added entry — editor' : 'Added entry';
+      return `<tr><td class="marc-field">700</td><td class="marc-label">${label}</td><td class="marc-val">${e(a.last + (a.first ? ', ' + a.first : ''))}</td></tr>`;
+    })
   ].filter(Boolean).join('');
 
   const cardId = `rc-${e(rec.key)}`;
@@ -459,7 +470,7 @@ function buildCard(rec, n) {
 <div class="rec-card" role="listitem" id="${cardId}">
   <div class="rec-num">rec·${String(n+1).padStart(4,'0')}</div>
   <div class="rec-title">${e(rec.title)}${rec.subtitle ? `<em> : ${e(rec.subtitle)}</em>` : ''}</div>
-  ${authorStr ? `<div class="rec-author">${e(authorStr)}${rec.date ? ' &middot; ' + e(rec.date) : ''}</div>` : ''}
+  ${authorDisplay ? `<div class="rec-author">${e(authorDisplay)}${rec.date ? ' &middot; ' + e(rec.date) : ''}</div>` : ''}
   ${rec.abstract ? `<div class="rec-abstract">${e(rec.abstract)}</div>` : ''}
   <div class="rec-foot">
     ${tradBadges}${typeBadges}

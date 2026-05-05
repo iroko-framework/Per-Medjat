@@ -326,19 +326,26 @@ function _indexTraditionVocab() {
   });
 }
 
+// localName → broader localName, built during vocab load
+const TRADITION_BROADER = {};
+
 async function loadTraditionVocab() {
   try {
     const r = await fetch(TRADITION_VOCAB_URL);
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const concepts = await r.json();
     TRADITION_VOCAB = {};
+    // First pass: index all concepts by prefLabel
     concepts.forEach(c => {
       TRADITION_VOCAB[c.prefLabel] = {
-        uri:       c.anchorUrl || null,
-        prefLabel: c.prefLabel,
-        altLabels: c.altLabels || [],
-        scopeNote: c.scopeNote || '',
+        uri:        c.anchorUrl || null,
+        prefLabel:  c.prefLabel,
+        altLabels:  c.altLabels || [],
+        scopeNote:  c.scopeNote || '',
+        localName:  c.localName,
+        broader:    c.broader || null,
       };
+      if (c.broader) TRADITION_BROADER[c.localName] = c.broader;
     });
     _indexTraditionVocab();
   } catch (e) {
@@ -346,8 +353,26 @@ async function loadTraditionVocab() {
   }
 }
 
+// Walk up skos:broader until we reach a top-level concept (one whose broader
+// is not itself in TraditionScheme). Sub-traditions like Vodou Rada resolve
+// to Haitian Vodou; Palo Mayombe resolves to Palo Monte.
+function rollupToParent(concept) {
+  let c = concept;
+  const seen = new Set();
+  while (c.broader && !seen.has(c.localName)) {
+    seen.add(c.localName);
+    // Find a concept whose localName matches the broader
+    const parent = Object.values(TRADITION_VOCAB).find(v => v.localName === c.broader);
+    if (!parent) break;
+    c = parent;
+  }
+  return c;
+}
+
 function resolveTag(t) {
-  return TRADITION_VOCAB[t] || TRADITION_VOCAB[TRADITION_LOOKUP[t.toLowerCase()]] || null;
+  const direct = TRADITION_VOCAB[t] || TRADITION_VOCAB[TRADITION_LOOKUP[t.toLowerCase()]] || null;
+  if (!direct) return null;
+  return rollupToParent(direct);
 }
 
 /* ── Type set ───────────────────────────────────────────────── */

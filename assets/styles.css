@@ -13,7 +13,7 @@
   --green:        #2e4a1e;
   --green-mid:    #4a7035;
   --green-light:  #e8f0e2;
-  --terracotta:   #8b3a1a;
+  --terracotta:   #1a3468;
   --gold:         #a07830;
   --gold-light:   #f5edd8;
   --mono:         'DM Mono', monospace;
@@ -147,7 +147,7 @@ a:hover { color: var(--terracotta); }
 .access-badge-lg { font-size: .72rem; padding: .2em .7em; }
 .access-public { background: var(--green-light); color: var(--green); }
 .access-community { background: var(--gold-light); color: var(--gold); }
-.access-initiated { background: #fde8e0; color: var(--terracotta); }
+.access-initiated { background: #eaeff8; color: var(--terracotta); }
 .access-none { background: #2a2a2a; color: #fff; }
 
 /* ── Plant detail header ───────────────────────────────────────────────────── */

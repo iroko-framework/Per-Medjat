@@ -93,6 +93,12 @@
     .access-badge { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; }
     .access-public { background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; }
 
+    /* Custody badge — IHS stewardship status; only shown for non-default (held) states */
+    .custody-badge { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: var(--paper-deep); color: var(--green-mid); border: 1px solid var(--green-mid); }
+
+    /* Total record count label — shown before any search is active */
+    .catalog-total-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; color: var(--ink-soft); margin-left: .75rem; font-weight: 300; }
+
     /* Subject chips — free-text keywords; neutral base, lapis hover signals searchability */
     .rec-subject { font-family: var(--sans); font-size: .7rem; background: var(--paper-deep); color: var(--ink-mid); padding: .15em .6em; border-radius: 2px; border: 1px solid var(--rule-strong); cursor: pointer; transition: background .12s, color .12s, border-color .12s; }
     .rec-subject:hover { background: #1a3468; color: #f0ece0; border-color: #c8a84b; }
@@ -221,7 +227,7 @@
     </div>
   </div>
 
-  <div class="trad-row-label">Quick search by tradition</div>
+  <div class="trad-row-label">Quick search by tradition<span id="catalog-total" class="catalog-total-label"></span></div>
   <div class="filter-row" id="tradition-row">
     <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading traditions…</span>
   </div>
@@ -391,6 +397,16 @@ function tagKind(t) {
   return 'subject';
 }
 
+/* ── Parse Zotero Extra field for iroko-* lines ─────────────── */
+function parseExtra(extra) {
+  const result = {};
+  (extra || '').split('\n').forEach(line => {
+    const m = line.match(/^([\w-]+):\s*(.+)$/);
+    if (m) result[m[1].toLowerCase()] = m[2].trim();
+  });
+  return result;
+}
+
 /* ── Parse ──────────────────────────────────────────────────── */
 function parse(item) {
   const d = item.data || {};
@@ -403,6 +419,7 @@ function parse(item) {
   let pages = (d.numPages || '').toString().trim();
   if (pages.includes('-')) pages = pages.split('-').pop().trim();
   pages = pages.replace(/\D/g, '');
+  const iroko = parseExtra(d.extra || '');
   return {
     key:        d.key || item.key || '',
     title:      d.title || '',
@@ -416,6 +433,7 @@ function parse(item) {
     series:     d.series || '',
     abstract:   d.abstractNote || '',
     isbn:       d.ISBN || '',
+    custody:    iroko['iroko-custody'] || 'metadata-only',
     traditions: tags.filter(t => tagKind(t) === 'tradition')
                     .map(t => {
                       // Strip "Tradition: " prefix pushed by Medjat Steward before vocab lookup
@@ -473,6 +491,16 @@ function buildCard(rec, n) {
     rec.date      ? rec.date + '.'      : ''
   ].filter(Boolean).join(' ');
 
+  // Custody badge — only shown for non-default (actively held) states
+  const CUSTODY_LABELS = {
+    'held-ihs':           'IHS Holds',
+    'digitally-held':     'IHS Digital',
+    'external-reference': 'External Ref',
+    'known-inaccessible': 'Record Only',
+  };
+  const custodyLabel  = CUSTODY_LABELS[rec.custody] || '';
+  const custodyBadge  = custodyLabel ? `<span class="custody-badge">${e(custodyLabel)}</span>` : '';
+
   const tradBadges = rec.traditions.map(t => {
     const v = resolveTag(t);
     if (v && v.uri) return `<a class="rec-trad rec-trad--linked" href="${e(v.uri)}" target="_blank" rel="noopener" title="View ${e(v.prefLabel)} in Iroko ontology">${e(v.prefLabel)}</a>`;
@@ -517,6 +545,7 @@ function buildCard(rec, n) {
   <div class="rec-foot">
     ${tradBadges}${typeBadges}
     <span class="access-badge access-public">L0 public</span>
+    ${custodyBadge}
     ${subjectChips}${irokoChips}
   </div>
   ${marcRows ? `
@@ -593,6 +622,12 @@ function render() {
   if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
   if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);
   if (F.publisher) chips.innerHTML += chip('publisher', `Publisher: ${F.publisher}`);
+
+  // Keep the tradition-row total count in sync with current filter state
+  const tot = document.getElementById('catalog-total');
+  if (tot) tot.textContent = recs.length === ALL.length
+    ? `· ${ALL.length} records`
+    : `· ${recs.length} of ${ALL.length}`;
 
   if (recs.length === 0) {
     grid.innerHTML = ''; noRes.style.display = 'block';
@@ -707,6 +742,9 @@ async function init() {
     ALL = raw.map(parse).filter(r => r && r.title);
     buildTradPills();
     buildAdvancedTradition();
+    // Show total once loaded; render() updates this to "X of N" when filters are active
+    const tot = document.getElementById('catalog-total');
+    if (tot) tot.textContent = `· ${ALL.length} records`;
   } catch (err) {
     document.getElementById('tradition-row').innerHTML = '';
     const errEl = document.getElementById('load-error');

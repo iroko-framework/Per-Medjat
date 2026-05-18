@@ -383,9 +383,11 @@ const TYPE_SET = new Set([
 ]);
 
 function tagKind(t) {
-  if (t.startsWith('iroko:')) return 'iroko';
-  if (resolveTag(t))          return 'tradition';
-  if (TYPE_SET.has(t))        return 'type';
+  if (t.startsWith('iroko:'))      return 'iroko';
+  if (t.startsWith('Theme: '))     return 'iroko';      // Steward module tag → iroko chip
+  if (t.startsWith('Tradition: ')) return 'tradition';  // Steward tradition tag (prefixed)
+  if (resolveTag(t))               return 'tradition';  // bare tradition name (vocab match)
+  if (TYPE_SET.has(t))             return 'type';
   return 'subject';
 }
 
@@ -415,10 +417,18 @@ function parse(item) {
     abstract:   d.abstractNote || '',
     isbn:       d.ISBN || '',
     traditions: tags.filter(t => tagKind(t) === 'tradition')
-                    .map(t => { const v = resolveTag(t); return v ? v.prefLabel : t; }),
+                    .map(t => {
+                      // Strip "Tradition: " prefix pushed by Medjat Steward before vocab lookup
+                      const name = t.startsWith('Tradition: ') ? t.slice(11) : t;
+                      const v = resolveTag(name);
+                      return v ? v.prefLabel : name;
+                    }),
     types:      tags.filter(t => tagKind(t) === 'type'),
     irokos:     tags.filter(t => tagKind(t) === 'iroko'),
-    subjects:   tags.filter(t => tagKind(t) === 'subject'),
+    subjects:   tags
+                  .filter(t => tagKind(t) === 'subject' && !t.startsWith('medjat-'))
+                  .map(t => t.startsWith('Entity: ') ? t.slice(8) : t)
+                  .filter((s, i, a) => a.indexOf(s) === i), // dedupe after strip
     tags
   };
 }
@@ -472,8 +482,15 @@ function buildCard(rec, n) {
   const subjectChips = rec.subjects.map(s =>
     `<button class="rec-subject" data-term="${e(s)}">${e(s)}</button>`).join('');
   const irokoChips = rec.irokos.map(tag => {
-    const label = tag.replace(/^iroko:(paper|module):/, '').replace(/-/g,' ');
-    return `<a class="rec-iroko" href="#iroko-${e(tag.replace(/:/g,'-'))}" target="_blank">${e(label)}</a>`;
+    // Handle both "Theme: Ritual" (Steward) and "iroko:module:ritual" (legacy) formats
+    let label;
+    if (tag.startsWith('Theme: ')) {
+      label = tag.slice(7);
+    } else {
+      label = tag.replace(/^iroko:(paper|module):/, '').replace(/-/g,' ');
+    }
+    const anchor = tag.replace(/[: ]/g, '-');
+    return `<a class="rec-iroko" href="#iroko-${e(anchor)}" target="_blank">${e(label)}</a>`;
   }).join('');
 
   const marcRows = [

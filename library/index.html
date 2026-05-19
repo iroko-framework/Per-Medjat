@@ -54,6 +54,9 @@
     .trad-row-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: #1a3468; margin-bottom: .5rem; padding-left: .1rem; border-left: 2px solid #c8a84b; padding-left: .5rem; }
     /* Override CDN active state: lapis + white bold + gold border */
     .filter-pill.active { background: #1a3468 !important; color: #f0ece0 !important; border-color: #c8a84b !important; }
+    /* Catch-all / Untagged pill — dashed border, italic, muted */
+    .filter-pill.catchall { border-style: dashed !important; font-style: italic; opacity: .78; }
+    .filter-pill.catchall.active { opacity: 1; font-style: normal; }
 
     /* ── Results header ────────────────────────────────────────── */
     #results-area { display: none; }
@@ -106,6 +109,16 @@
     /* Iroko framework concept chips — amber/gold, distinct from access/tradition */
     .rec-iroko { font-family: var(--mono); font-size: .6rem; letter-spacing: .04em; padding: .15em .6em; border-radius: 2px; background: var(--gold-light); color: var(--gold); border: 1px solid rgba(160,120,48,.3); text-decoration: none; }
     .rec-iroko:hover { background: var(--gold); color: #fff; }
+
+    /* DOI / URL links on card face */
+    .rec-doi, .rec-url { font-family: var(--mono); font-size: .58rem; letter-spacing: .04em; padding: .12em .6em; border-radius: 2px; text-decoration: none; }
+    .rec-doi { background: var(--paper-deep); color: var(--green-mid); border: 1px solid var(--rule-strong); }
+    .rec-doi:hover { background: var(--green-mid); color: #fff; }
+    .rec-url { background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule-strong); }
+    .rec-url:hover { background: var(--ink-mid); color: #fff; }
+
+    /* Custody badge — always shown; different style for metadata-only vs held */
+    .custody-badge-meta { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule); }
 
     /* MARC detail toggle */
     .marc-toggle { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); background: none; border: none; cursor: pointer; padding: 0; margin-top: .3rem; display: inline-flex; align-items: center; gap: .25rem; }
@@ -230,6 +243,11 @@
   <div class="trad-row-label">Quick search by tradition<span id="catalog-total" class="catalog-total-label"></span></div>
   <div class="filter-row" id="tradition-row">
     <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading traditions…</span>
+  </div>
+
+  <div class="trad-row-label" style="margin-top:.75rem;">Quick search by theme<span id="theme-total" class="catalog-total-label"></span></div>
+  <div class="filter-row" id="theme-row">
+    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading themes…</span>
   </div>
 
   <div id="load-error"></div>
@@ -433,6 +451,8 @@ function parse(item) {
     series:     d.series || '',
     abstract:   d.abstractNote || '',
     isbn:       d.ISBN || '',
+    doi:        d.DOI  || '',
+    url:        d.url  || '',
     custody:    iroko['iroko-custody'] || 'metadata-only',
     traditions: tags.filter(t => tagKind(t) === 'tradition')
                     .map(t => {
@@ -491,15 +511,26 @@ function buildCard(rec, n) {
     rec.date      ? rec.date + '.'      : ''
   ].filter(Boolean).join(' ');
 
-  // Custody badge — only shown for non-default (actively held) states
+  // Custody badge — always shown; held states use accent style, metadata-only uses muted style
   const CUSTODY_LABELS = {
     'held-ihs':           'IHS Holds',
     'digitally-held':     'IHS Digital',
     'external-reference': 'External Ref',
     'known-inaccessible': 'Record Only',
+    'metadata-only':      'Metadata Only',
   };
-  const custodyLabel  = CUSTODY_LABELS[rec.custody] || '';
-  const custodyBadge  = custodyLabel ? `<span class="custody-badge">${e(custodyLabel)}</span>` : '';
+  const custodyLabel = CUSTODY_LABELS[rec.custody] || e(rec.custody);
+  const custodyBadge = rec.custody === 'metadata-only'
+    ? `<span class="custody-badge-meta">${custodyLabel}</span>`
+    : `<span class="custody-badge">${custodyLabel}</span>`;
+
+  // DOI / URL links — shown on card face if present
+  const doiLink = rec.doi
+    ? `<a class="rec-doi" href="https://doi.org/${e(rec.doi)}" target="_blank" rel="noopener" title="Open via DOI">DOI</a>`
+    : '';
+  const urlLink = rec.url
+    ? `<a class="rec-url" href="${e(rec.url)}" target="_blank" rel="noopener" title="${e(rec.url)}">URL ↗</a>`
+    : '';
 
   const tradBadges = rec.traditions.map(t => {
     const v = resolveTag(t);
@@ -507,8 +538,6 @@ function buildCard(rec, n) {
     return `<span class="rec-trad">${e(t)}</span>`;
   }).join('');
   const typeBadges = rec.types.map(t => `<span class="rec-type">${e(t)}</span>`).join('');
-  const subjectChips = rec.subjects.map(s =>
-    `<button class="rec-subject" data-term="${e(s)}">${e(s)}</button>`).join('');
   const irokoChips = rec.irokos.map(tag => {
     // Handle both "Theme: Ritual" (Steward) and "iroko:module:ritual" (legacy) formats
     let label;
@@ -532,7 +561,10 @@ function buildCard(rec, n) {
     ...rec.creators.filter(c => c !== main).map(a => {
       const label = a.role === 'editor' ? 'Added entry — editor' : 'Added entry';
       return `<tr><td class="marc-field">700</td><td class="marc-label">${label}</td><td class="marc-val">${e(a.last + (a.first ? ', ' + a.first : ''))}</td></tr>`;
-    })
+    }),
+    ...rec.subjects.map(s =>
+      `<tr><td class="marc-field">650</td><td class="marc-label">Subject</td><td class="marc-val"><button class="rec-subject" data-term="${e(s)}">${e(s)}</button></td></tr>`
+    )
   ].filter(Boolean).join('');
 
   const cardId = `rc-${e(rec.key)}`;
@@ -546,7 +578,8 @@ function buildCard(rec, n) {
     ${tradBadges}${typeBadges}
     <span class="access-badge access-public">L0 public</span>
     ${custodyBadge}
-    ${subjectChips}${irokoChips}
+    ${doiLink}${urlLink}
+    ${irokoChips}
   </div>
   ${marcRows ? `
   <button class="marc-toggle" onclick="toggleMarc('${cardId}')">&#9656; marc record</button>
@@ -566,12 +599,29 @@ function toggleMarc(id) {
 
 /* ── State ──────────────────────────────────────────────────── */
 let ALL = [];
-let F = { query: '', tradition: '', author: '', title: '', publisher: '' };
+let F = { query: '', tradition: '', theme: '', author: '', title: '', publisher: '' };
 
 /* ── Filter + sort ──────────────────────────────────────────── */
+/* Canonical theme label from a raw iroko/Theme tag */
+function themeLabel(tag) {
+  if (tag.startsWith('Theme: ')) return tag.slice(7);
+  return tag.replace(/^iroko:(module|paper):/, '').replace(/-/g, ' ');
+}
+
 function filtered() {
   return ALL.filter(r => {
-    if (F.tradition && !r.traditions.includes(F.tradition)) return false;
+    // Tradition filter — supports __untagged__ catch-all
+    if (F.tradition === '__untagged__') {
+      if (r.traditions.length > 0) return false;
+    } else if (F.tradition && !r.traditions.includes(F.tradition)) {
+      return false;
+    }
+    // Theme filter — supports __untagged__ catch-all
+    if (F.theme === '__untagged__') {
+      if (r.irokos.length > 0) return false;
+    } else if (F.theme) {
+      if (!r.irokos.some(t => themeLabel(t) === F.theme)) return false;
+    }
     if (F.author) {
       const h = r.creators.map(c => (c.last + ' ' + c.first).toLowerCase()).join(' ');
       if (!h.includes(F.author.toLowerCase())) return false;
@@ -604,9 +654,9 @@ function sorted(recs) {
 
 /* ── Render ─────────────────────────────────────────────────── */
 function render() {
-  const active = F.query || F.tradition || F.author || F.title || F.publisher;
+  const active = F.query || F.tradition || F.theme || F.author || F.title || F.publisher;
   const area   = document.getElementById('results-area');
-  if (!active) { area.classList.remove('visible'); syncTradPills(); return; }
+  if (!active) { area.classList.remove('visible'); syncTradPills(); syncThemePills(); return; }
 
   area.classList.add('visible');
   const recs = sorted(filtered());
@@ -618,7 +668,8 @@ function render() {
   const chips = document.getElementById('active-chips');
   chips.innerHTML = '';
   if (F.query)     chips.innerHTML += chip('query',     `"${F.query}"`);
-  if (F.tradition) chips.innerHTML += chip('tradition', F.tradition);
+  if (F.tradition) chips.innerHTML += chip('tradition', F.tradition === '__untagged__' ? 'Tradition: Untagged' : F.tradition);
+  if (F.theme)     chips.innerHTML += chip('theme',     F.theme     === '__untagged__' ? 'Theme: Untagged'     : `Theme: ${F.theme}`);
   if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
   if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);
   if (F.publisher) chips.innerHTML += chip('publisher', `Publisher: ${F.publisher}`);
@@ -649,6 +700,7 @@ function render() {
     });
   }
   syncTradPills();
+  syncThemePills();
 }
 
 function chip(key, label) {
@@ -662,18 +714,25 @@ function clearF(key) {
     const sel = document.getElementById('adv-tradition');
     if (sel) sel.value = '';
   }
-  syncTradPills(); render();
+  syncTradPills();
+  syncThemePills();
+  render();
 }
 
 /* ── Tradition pills ────────────────────────────────────────── */
 function buildTradPills() {
   const counts = {};
-  ALL.forEach(r => r.traditions.forEach(t => { counts[t] = (counts[t]||0) + 1; }));
-  const sorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+  let untagged = 0;
+  ALL.forEach(r => {
+    if (r.traditions.length === 0) { untagged++; }
+    else { r.traditions.forEach(t => { counts[t] = (counts[t]||0) + 1; }); }
+  });
+  const tradSorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
   const row = document.getElementById('tradition-row');
-  row.innerHTML = sorted.map(([t,n]) =>
+  row.innerHTML = tradSorted.map(([t,n]) =>
     `<button class="filter-pill" data-trad="${e(t)}">${e(t)} <span style="opacity:.5;font-weight:300">${n}</span></button>`
-  ).join('');
+  ).join('') +
+    `<button class="filter-pill catchall" data-trad="__untagged__" title="Records pending tradition assignment in the Medjat Steward">Untagged <span style="opacity:.5;font-weight:300">${untagged}</span></button>`;
   row.querySelectorAll('.filter-pill').forEach(p => {
     p.addEventListener('click', () => {
       F.tradition = F.tradition === p.dataset.trad ? '' : p.dataset.trad;
@@ -686,8 +745,46 @@ function syncTradPills() {
   document.querySelectorAll('#tradition-row .filter-pill').forEach(p => {
     p.classList.toggle('active', p.dataset.trad === F.tradition);
   });
+  // Don't set adv-tradition select to __untagged__ (it has no such option)
   const sel = document.getElementById('adv-tradition');
-  if (sel) sel.value = F.tradition || '';
+  if (sel) sel.value = (F.tradition && F.tradition !== '__untagged__') ? F.tradition : '';
+}
+
+/* ── Theme pills ─────────────────────────────────────────────── */
+function buildThemePills() {
+  const counts = {};
+  let untagged = 0;
+  ALL.forEach(r => {
+    if (r.irokos.length === 0) { untagged++; }
+    else { r.irokos.forEach(t => {
+      const label = themeLabel(t);
+      if (label) counts[label] = (counts[label]||0) + 1;
+    }); }
+  });
+  const themeSorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+  const row = document.getElementById('theme-row');
+  if (themeSorted.length === 0 && untagged === 0) {
+    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">No theme tags yet — assign via Medjat Steward.</span>`;
+    return;
+  }
+  row.innerHTML = themeSorted.map(([label, n]) =>
+    `<button class="filter-pill" data-theme="${e(label)}">${e(label)} <span style="opacity:.5;font-weight:300">${n}</span></button>`
+  ).join('') +
+    `<button class="filter-pill catchall" data-theme="__untagged__" title="Records pending theme assignment in the Medjat Steward">Untagged <span style="opacity:.5;font-weight:300">${untagged}</span></button>`;
+  row.querySelectorAll('.filter-pill').forEach(p => {
+    p.addEventListener('click', () => {
+      F.theme = F.theme === p.dataset.theme ? '' : p.dataset.theme;
+      syncThemePills(); render();
+    });
+  });
+  const tot = document.getElementById('theme-total');
+  if (tot) tot.textContent = `· ${ALL.length} records`;
+}
+
+function syncThemePills() {
+  document.querySelectorAll('#theme-row .filter-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.theme === F.theme);
+  });
 }
 
 function triggerSearch() {
@@ -741,6 +838,7 @@ async function init() {
     const [, raw] = await Promise.all([loadTraditionVocab(), fetchAll()]);
     ALL = raw.map(parse).filter(r => r && r.title);
     buildTradPills();
+    buildThemePills();
     buildAdvancedTradition();
     // Show total once loaded; render() updates this to "X of N" when filters are active
     const tot = document.getElementById('catalog-total');

@@ -82,7 +82,9 @@
     .rec-author { font-size: .82rem; color: var(--ink-mid); margin-top: .1rem; }
     .rec-pub { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); }
     .rec-abstract { font-size: .82rem; color: var(--ink-mid); line-height: 1.65; margin-top: .4rem; }
-    .rec-foot { margin-top: .6rem; display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
+    .rec-foot { margin-top: .6rem; display: flex; flex-direction: column; gap: .3rem; }
+    .rec-foot-row1, .rec-foot-row2 { display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
+    .rec-custody-label { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); padding-right: .1em; }
 
     /* Tradition — lapis bg, warm white, gold border; linked variant gets hover inversion */
     .rec-trad { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; text-decoration: none; }
@@ -248,6 +250,11 @@
   <div class="trad-row-label" style="margin-top:.75rem;">Quick search by theme<span id="theme-total" class="catalog-total-label"></span></div>
   <div class="filter-row" id="theme-row">
     <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading themes…</span>
+  </div>
+
+  <div class="trad-row-label" style="margin-top:.75rem;">Quick search by record type<span id="type-total" class="catalog-total-label"></span></div>
+  <div class="filter-row" id="type-row">
+    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading types…</span>
   </div>
 
   <div id="load-error"></div>
@@ -453,6 +460,7 @@ function parse(item) {
     isbn:       d.ISBN || '',
     doi:        d.DOI  || '',
     url:        d.url  || '',
+    itemType:   d.itemType || '',
     custody:    iroko['iroko-custody'] || 'metadata-only',
     traditions: tags.filter(t => tagKind(t) === 'tradition')
                     .map(t => {
@@ -575,11 +583,15 @@ function buildCard(rec, n) {
   ${authorDisplay ? `<div class="rec-author">${e(authorDisplay)}${rec.date ? ' &middot; ' + e(rec.date) : ''}</div>` : ''}
   ${rec.abstract ? `<div class="rec-abstract">${e(rec.abstract)}</div>` : ''}
   <div class="rec-foot">
-    ${tradBadges}${typeBadges}
-    <span class="access-badge access-public">L0 public</span>
-    ${custodyBadge}
-    ${doiLink}${urlLink}
-    ${irokoChips}
+    <div class="rec-foot-row1">
+      ${tradBadges}${typeBadges}
+      <span class="access-badge access-public">L0 public</span>
+      ${irokoChips}
+    </div>
+    <div class="rec-foot-row2">
+      <span class="rec-custody-label">IHS Custody:</span>
+      ${custodyBadge}${doiLink}${urlLink}
+    </div>
   </div>
   ${marcRows ? `
   <button class="marc-toggle" onclick="toggleMarc('${cardId}')">&#9656; marc record</button>
@@ -599,7 +611,7 @@ function toggleMarc(id) {
 
 /* ── State ──────────────────────────────────────────────────── */
 let ALL = [];
-let F = { query: '', tradition: '', theme: '', author: '', title: '', publisher: '' };
+let F = { query: '', tradition: '', theme: '', type: '', author: '', title: '', publisher: '' };
 
 /* ── Filter + sort ──────────────────────────────────────────── */
 /* Canonical theme label from a raw iroko/Theme tag */
@@ -622,6 +634,8 @@ function filtered() {
     } else if (F.theme) {
       if (!r.irokos.some(t => themeLabel(t) === F.theme)) return false;
     }
+    // Type filter — matches Zotero itemType
+    if (F.type && r.itemType !== F.type) return false;
     if (F.author) {
       const h = r.creators.map(c => (c.last + ' ' + c.first).toLowerCase()).join(' ');
       if (!h.includes(F.author.toLowerCase())) return false;
@@ -654,9 +668,9 @@ function sorted(recs) {
 
 /* ── Render ─────────────────────────────────────────────────── */
 function render() {
-  const active = F.query || F.tradition || F.theme || F.author || F.title || F.publisher;
+  const active = F.query || F.tradition || F.theme || F.type || F.author || F.title || F.publisher;
   const area   = document.getElementById('results-area');
-  if (!active) { area.classList.remove('visible'); syncTradPills(); syncThemePills(); return; }
+  if (!active) { area.classList.remove('visible'); syncTradPills(); syncThemePills(); syncTypePills(); return; }
 
   area.classList.add('visible');
   const recs = sorted(filtered());
@@ -670,6 +684,7 @@ function render() {
   if (F.query)     chips.innerHTML += chip('query',     `"${F.query}"`);
   if (F.tradition) chips.innerHTML += chip('tradition', F.tradition === '__untagged__' ? 'Tradition: Untagged' : F.tradition);
   if (F.theme)     chips.innerHTML += chip('theme',     F.theme     === '__untagged__' ? 'Theme: Untagged'     : `Theme: ${F.theme}`);
+  if (F.type)      chips.innerHTML += chip('type',      `Type: ${F.type}`);
   if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
   if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);
   if (F.publisher) chips.innerHTML += chip('publisher', `Publisher: ${F.publisher}`);
@@ -701,6 +716,7 @@ function render() {
   }
   syncTradPills();
   syncThemePills();
+  syncTypePills();
 }
 
 function chip(key, label) {
@@ -716,6 +732,7 @@ function clearF(key) {
   }
   syncTradPills();
   syncThemePills();
+  syncTypePills();
   render();
 }
 
@@ -787,9 +804,62 @@ function syncThemePills() {
   });
 }
 
+/* ── Record-type pills ───────────────────────────────────────── */
+// Friendly labels for Zotero itemType values
+const TYPE_LABELS = {
+  book:              'Book',
+  journalArticle:    'Journal Article',
+  thesis:            'Thesis / Dissertation',
+  bookSection:       'Book Chapter',
+  report:            'Report',
+  conferencePaper:   'Conference Paper',
+  document:          'Document',
+  manuscript:        'Manuscript',
+  artwork:           'Artwork',
+  film:              'Film',
+  webpage:           'Web Page',
+  encyclopediaArticle: 'Encyclopedia Article',
+  dictionaryEntry:   'Dictionary Entry',
+  interview:         'Interview',
+  letter:            'Letter',
+  map:               'Map',
+  presentation:      'Presentation',
+};
+function typeFriendly(t) { return TYPE_LABELS[t] || t; }
+
+function buildTypePills() {
+  const counts = {};
+  ALL.forEach(r => {
+    if (r.itemType) counts[r.itemType] = (counts[r.itemType] || 0) + 1;
+  });
+  const typeSorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const row = document.getElementById('type-row');
+  if (typeSorted.length === 0) {
+    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">No type data yet.</span>`;
+    return;
+  }
+  row.innerHTML = typeSorted.map(([t, n]) =>
+    `<button class="filter-pill" data-rtype="${e(t)}">${e(typeFriendly(t))} <span style="opacity:.5;font-weight:300">${n}</span></button>`
+  ).join('');
+  row.querySelectorAll('.filter-pill').forEach(p => {
+    p.addEventListener('click', () => {
+      F.type = F.type === p.dataset.rtype ? '' : p.dataset.rtype;
+      syncTypePills(); render();
+    });
+  });
+  const tot = document.getElementById('type-total');
+  if (tot) tot.textContent = `· ${ALL.length} records`;
+}
+
+function syncTypePills() {
+  document.querySelectorAll('#type-row .filter-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.rtype === F.type);
+  });
+}
+
 function triggerSearch() {
   F.query = document.getElementById('search-input').value.trim();
-  syncTradPills(); render();
+  syncTradPills(); syncTypePills(); render();
 }
 
 /* ── Advanced search panel ──────────────────────────────────── */
@@ -818,7 +888,7 @@ function clearAdv() {
     document.getElementById(id).value = '';
   });
   document.getElementById('adv-tradition').value = '';
-  syncTradPills(); render();
+  syncTradPills(); syncTypePills(); render();
 }
 
 function buildAdvancedTradition() {
@@ -839,6 +909,7 @@ async function init() {
     ALL = raw.map(parse).filter(r => r && r.title);
     buildTradPills();
     buildThemePills();
+    buildTypePills();
     buildAdvancedTradition();
     // Show total once loaded; render() updates this to "X of N" when filters are active
     const tot = document.getElementById('catalog-total');

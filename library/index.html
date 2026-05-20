@@ -479,19 +479,50 @@ function parse(item) {
   };
 }
 
-/* ── Fetch all (paginated) ──────────────────────────────────── */
-async function fetchAll() {
-  let all = [], start = 0, total = null;
+/* ── Cache ──────────────────────────────────────────────────── */
+// Parsed items stored in localStorage for 24 h.
+// Bump CACHE_KEY to force a cold reload after breaking changes.
+const CACHE_KEY = 'medjat-catalog-v2';
+const CACHE_TTL = 24 * 60 * 60 * 1000;
+
+function saveCache(items) {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), items }));
+  } catch(e) { /* quota or private mode — silent */ }
+}
+
+function loadCache() {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY);
+    if (!raw) return null;
+    const { ts, items } = JSON.parse(raw);
+    if (Date.now() - ts > CACHE_TTL) { localStorage.removeItem(CACHE_KEY); return null; }
+    return Array.isArray(items) && items.length ? items : null;
+  } catch(e) { return null; }
+}
+
+/* ── Fetch all (paginated, progressive) ─────────────────────── */
+// Excludes attachments and notes at API level — reduces page count.
+// onBatch(parsed[], loaded, total) called after each page for live pill updates.
+async function fetchAll(onBatch) {
+  const allRaw = [];
+  let start = 0, total = null;
   while (true) {
-    const res = await fetch(`${API_BASE}?format=json&limit=100&start=${start}`);
+    const res = await fetch(
+      `${API_BASE}?format=json&limit=100&start=${start}&itemType=-attachment,-note`
+    );
     if (!res.ok) throw new Error(`Zotero API returned ${res.status}`);
     if (total === null) total = parseInt(res.headers.get('Total-Results') || '0', 10);
     const batch = await res.json();
-    all = all.concat(batch);
+    allRaw.push(...batch);
+    if (onBatch) {
+      const parsed = allRaw.map(parse).filter(r => r && r.title);
+      onBatch(parsed, allRaw.length, total || allRaw.length);
+    }
     start += 100;
     if (start >= total || batch.length === 0) break;
   }
-  return all;
+  return allRaw;
 }
 
 /* ── HTML escape ────────────────────────────────────────────── */
@@ -902,19 +933,59 @@ function buildAdvancedTradition() {
 }
 
 /* ── Boot ───────────────────────────────────────────────────── */
+function _rebuildUI() {
+  buildTradPills(); buildThemePills(); buildTypePills(); buildAdvancedTradition();
+  const tot = document.getElementById('catalog-total');
+  if (tot) tot.textContent = `· ${ALL.length} records`;
+}
+
+function _setLoadingMsg(msg) {
+  // Update the placeholder inside tradition-row only while it still holds the spinner span
+  const row = document.getElementById('tradition-row');
+  const el  = row && row.querySelector('[data-loading]');
+  if (el) el.textContent = msg;
+}
+
 async function init() {
+  const vocabPromise = loadTraditionVocab();
+
+  // ── Cache-hit path: render immediately, refresh silently in background ──────
+  const cached = loadCache();
+  if (cached) {
+    ALL = cached;
+    await vocabPromise;  // needed for tradition link resolution in pills
+    _rebuildUI();
+
+    // Background refresh — only re-renders if record count changes
+    fetchAll().then(async raw => {
+      if (!raw.length) return;
+      await vocabPromise;
+      const fresh = raw.map(parse).filter(r => r && r.title);
+      saveCache(fresh);
+      if (fresh.length !== ALL.length) { ALL = fresh; _rebuildUI(); }
+    }).catch(() => { /* network down — cached data stays */ });
+    return;
+  }
+
+  // ── First-load path: progressive fetch with live pill updates ───────────────
+  document.getElementById('tradition-row').innerHTML =
+    '<span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Connecting to catalog…</span>';
+  document.getElementById('theme-row').innerHTML = '';
+  document.getElementById('type-row').innerHTML  = '';
+
   try {
-    // Load tradition vocab and Zotero items in parallel
-    const [, raw] = await Promise.all([loadTraditionVocab(), fetchAll()]);
+    await vocabPromise;  // must finish before parse() can resolve traditions
+
+    const raw = await fetchAll((parsed, loaded, total) => {
+      ALL = parsed;
+      buildTradPills(); buildThemePills(); buildTypePills();
+      _setLoadingMsg(`Loading catalog… ${loaded} of ${total}`);
+    });
+
     ALL = raw.map(parse).filter(r => r && r.title);
-    buildTradPills();
-    buildThemePills();
-    buildTypePills();
-    buildAdvancedTradition();
-    // Show total once loaded; render() updates this to "X of N" when filters are active
-    const tot = document.getElementById('catalog-total');
-    if (tot) tot.textContent = `· ${ALL.length} records`;
-  } catch (err) {
+    saveCache(ALL);
+    _rebuildUI();
+  } catch(err) {
     document.getElementById('tradition-row').innerHTML = '';
     const errEl = document.getElementById('load-error');
     errEl.style.display = 'block';

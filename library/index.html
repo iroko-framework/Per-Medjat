@@ -337,7 +337,9 @@
 <script>
 /* ── Config ─────────────────────────────────────────────────── */
 const ZOTERO_GROUP = '6479329';
-const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items`;
+// /items/top returns only top-level bibliographic records;
+// child attachments and notes are automatically excluded.
+const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items/top`;
 
 /* ── Tradition vocabulary — loaded from iroko-core.ttl via JSON ─── */
 // Source: https://ontology.irokosociety.org/vocab/tradition-vocab.json
@@ -509,7 +511,7 @@ async function fetchAll(onBatch) {
   let start = 0, total = null;
   while (true) {
     const res = await fetch(
-      `${API_BASE}?format=json&limit=100&start=${start}&itemType=-attachment,-note`
+      `${API_BASE}?format=json&limit=100&start=${start}`
     );
     if (!res.ok) throw new Error(`Zotero API returned ${res.status}`);
     if (total === null) total = parseInt(res.headers.get('Total-Results') || '0', 10);

@@ -37,9 +37,12 @@
     .featured-work-author { font-size: .84rem; color: var(--ink-mid); margin-bottom: .75rem; }
     .featured-work-desc { font-size: .87rem; color: var(--ink-mid); line-height: 1.65; max-width: 74ch; }
     .featured-work-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); margin-top: .65rem; }
-    .featured-work-actions { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+    .featured-work-actions { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; margin-top: 1rem; }
+    .featured-share-actions { display: flex; gap: .4rem; flex-wrap: wrap; justify-content: flex-end; margin-left: auto; }
     .featured-work-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
     .featured-work-cta:hover { background: var(--green); color: #fff; }
+    .featured-share-cta { font-family: var(--mono); font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: #f0ece0; background: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em .85em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
+    .featured-share-cta:hover { background: #8b3a1a; border-color: #8b3a1a; color: #fff; }
 
     /* ── Catalog search bar ────────────────────────────────────── */
     .catalog-search-wrap { display: grid; grid-template-columns: 1fr auto auto; gap: .75rem; align-items: center; margin-bottom: 1rem; }
@@ -181,6 +184,7 @@
       .holdings-grid { grid-template-columns: 1fr; }
       .featured-work { grid-template-columns: 1fr; }
       .featured-work-cover { width: 112px; }
+      .featured-share-actions { justify-content: flex-start; margin-left: 0; width: 100%; }
       .catalog-search-wrap { grid-template-columns: 1fr auto auto; }
       .adv-grid { grid-template-columns: 1fr; }
       .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; }
@@ -586,12 +590,33 @@ async function initFeaturedWork() {
         ${work.authorLine ? `<p class="featured-work-author">${e(work.authorLine)}</p>` : ''}
         ${work.abstract ? `<p class="featured-work-desc">${e(work.abstract)}</p>` : ''}
         ${meta ? `<p class="featured-work-meta">${e(meta)}</p>` : ''}
-        ${work.recordUrl ? `<div class="featured-work-actions"><a class="featured-work-cta" href="${e(work.recordUrl)}" target="_blank" rel="noopener">View catalog record</a></div>` : ''}
+        <div class="featured-work-actions">
+          ${work.recordUrl ? `<a class="featured-work-cta" href="${e(work.recordUrl)}" target="_blank" rel="noopener">View catalog record</a>` : ''}
+          ${buildFeaturedShareLinks(work)}
+        </div>
       </div>`;
     section.hidden = false;
   } catch (err) {
     console.warn('[Per-Medjat] featured-work.json unavailable', err);
   }
+}
+
+function buildFeaturedShareLinks(work) {
+  const shareUrl = new URL(work.shareUrl || 'featured-work.html', window.location.href).href;
+  const title = `Featured Work from the Library: ${work.title || ''}`;
+  const text = work.abstract || work.authorLine || title;
+  const u = encodeURIComponent(shareUrl);
+  const t = encodeURIComponent(title);
+  const xText = encodeURIComponent(`${title} — ${shareUrl}`);
+  const emailSubject = encodeURIComponent(title);
+  const emailBody = encodeURIComponent(`${title}\n\n${text}\n\n${shareUrl}`);
+  return `
+    <span class="featured-share-actions" aria-label="Share this featured work">
+      <a class="featured-share-cta" href="https://www.facebook.com/sharer/sharer.php?u=${u}" target="_blank" rel="noopener">Facebook</a>
+      <a class="featured-share-cta" href="https://twitter.com/intent/tweet?text=${xText}" target="_blank" rel="noopener">X</a>
+      <a class="featured-share-cta" href="https://www.linkedin.com/sharing/share-offsite/?url=${u}" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="featured-share-cta" href="mailto:?subject=${emailSubject}&body=${emailBody}">Email</a>
+    </span>`;
 }
 
 function buildCard(rec, n) {

@@ -10,11 +10,12 @@
   "genre": "Book",
   "isbn": "978-1-0686064-5-8",
   "mode": "Curated queue",
+  "shareUrl": "featured-work.html",
   "recordUrl": "https://www.zotero.org/groups/ihs_medjat_library/items/SX2846CL",
   "cover": {
     "url": "assets/featured/SX2846CL.jpg",
     "alt": "img_1_1780665075251.jpg",
-    "source": "zotero-attachment",
+    "source": "zotero-attachment-local",
     "attachmentKey": "HCNRB9MN"
   }
 }

@@ -3,9 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ site_title }} — {{ org_name }}">
-  <title>{% block title %}{{ site_title }} — {{ org_name }}{% endblock %}</title>
-  <link rel="canonical" href="{{ site_url ~ '/' ~ record.page_url if record is defined else site_url ~ '/index.html' }}">
+  <meta name="description" content="{% if record is defined %}{{ record.primary_yoruba or record.pref_label }} ? {{ record.scientific_name }} in the Ew? Database, a public Iroko Historical Society plant record.{% else %}{{ site_title }} ? {{ org_name }}{% endif %}">
+  <title>{% block title %}{{ site_title }} ? {{ org_name }}{% endblock %}</title>
+  {% set page_title %}{% if record is defined %}{{ record.primary_yoruba or record.pref_label }} ? {{ record.scientific_name }} ? {{ site_title }}{% else %}{{ site_title }} ? {{ org_name }}{% endif %}{% endset %}
+  {% set page_description %}{% if record is defined %}{{ record.primary_yoruba or record.pref_label }} ? {{ record.scientific_name }} in the Ew? Database, a public Iroko Historical Society plant record.{% else %}{{ site_title }} ? {{ org_name }}{% endif %}{% endset %}
+  {% set page_url = site_url ~ '/' ~ record.page_url if record is defined else site_url ~ '/' %}
+  <link rel="canonical" href="{{ page_url }}">
+  <meta property="og:type" content="{% if record is defined %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="Per Medjat - Iroko Historical Society">
+  <meta property="og:title" content="{{ page_title | trim }}">
+  <meta property="og:description" content="{{ page_description | trim }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_title | trim }}">
+  <meta name="twitter:description" content="{{ page_description | trim }}">
+  <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
   <meta name="generator" content="build_ewe.py">
   <meta name="build-dataset" content="{{ dataset_filename }}">
   <meta name="build-version" content="{{ dataset_version }}">

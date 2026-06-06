@@ -24,6 +24,23 @@
     .holding-desc { font-size: .86rem; color: var(--ink-mid); line-height: 1.6; }
     .holding-status { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .6rem; }
 
+    /* ── Featured work from the library ───────────────────────── */
+    .featured-work-section { margin-top: 2rem; }
+    .featured-work-section[hidden] { display: none; }
+    .featured-work { border: 1px solid var(--rule-strong); border-radius: 3px; background: var(--paper); display: grid; grid-template-columns: 126px 1fr; gap: 1.5rem; padding: 1.35rem 1.55rem; margin-bottom: 2.5rem; align-items: start; }
+    .featured-work:hover { background: var(--paper-warm); }
+    .featured-work-cover { border: 1px solid var(--rule-strong); background: var(--paper-deep); aspect-ratio: 2 / 3; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+    .featured-work-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .featured-work-fallback { display: none; font-family: var(--serif); font-size: 1rem; font-weight: 600; line-height: 1.2; text-align: center; color: var(--green); padding: 1rem; }
+    .featured-work-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: var(--gold); background: var(--gold-light); border: 1px solid rgba(160,120,48,.25); padding: .18em .65em; border-radius: 2px; display: inline-block; margin-bottom: .75rem; }
+    .featured-work-title { font-family: var(--serif); font-size: 1.45rem; font-weight: 600; color: var(--green); line-height: 1.15; margin-bottom: .2rem; }
+    .featured-work-author { font-size: .84rem; color: var(--ink-mid); margin-bottom: .75rem; }
+    .featured-work-desc { font-size: .87rem; color: var(--ink-mid); line-height: 1.65; max-width: 74ch; }
+    .featured-work-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); margin-top: .65rem; }
+    .featured-work-actions { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+    .featured-work-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
+    .featured-work-cta:hover { background: var(--green); color: #fff; }
+
     /* ── Catalog search bar ────────────────────────────────────── */
     .catalog-search-wrap { display: grid; grid-template-columns: 1fr auto auto; gap: .75rem; align-items: center; margin-bottom: 1rem; }
     .catalog-search-wrap .search-input { width: 100%; font-size: 1rem; padding: .75em 1.1em; }
@@ -162,6 +179,8 @@
 
     @media (max-width: 640px) {
       .holdings-grid { grid-template-columns: 1fr; }
+      .featured-work { grid-template-columns: 1fr; }
+      .featured-work-cover { width: 112px; }
       .catalog-search-wrap { grid-template-columns: 1fr auto auto; }
       .adv-grid { grid-template-columns: 1fr; }
       .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; }
@@ -201,6 +220,11 @@
     <h1 class="library-title">Medjat <em style="font-style:italic;color:var(--terracotta);">Library</em></h1>
     <p class="library-sub">Scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, ethnographies, and reference literature held and cataloged by the Iroko Historical Society.</p>
   </div>
+
+  <section class="featured-work-section" id="featured-work-section" hidden>
+    <p class="section-label">Featured Work from the Library</p>
+    <div class="featured-work" id="featured-work" aria-label="Featured Work from the Library"></div>
+  </section>
 
   <!-- ── Catalog search — above holdings, prominent ─────────── -->
   <p class="section-label">Catalog</p>
@@ -340,6 +364,7 @@ const ZOTERO_GROUP = '6479329';
 // /items/top returns only top-level bibliographic records;
 // child attachments and notes are automatically excluded.
 const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items/top`;
+const FEATURED_WORK_URL = 'featured-work.json';
 
 /* ── Tradition vocabulary — loaded from iroko-core.ttl via JSON ─── */
 // Source: https://ontology.irokosociety.org/vocab/tradition-vocab.json
@@ -533,6 +558,42 @@ function e(s) {
 }
 
 /* ── Build card ─────────────────────────────────────────────── */
+async function initFeaturedWork() {
+  const section = document.getElementById('featured-work-section');
+  const target = document.getElementById('featured-work');
+  if (!section || !target) return;
+  try {
+    const res = await fetch(FEATURED_WORK_URL, { cache: 'no-cache' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const work = await res.json();
+    if (!work || !work.title) return;
+    const cover = work.cover || {};
+    const meta = [
+      work.source || 'Public IHS Zotero Library',
+      work.custody || '',
+      work.genre ? `Genre: ${work.genre}` : '',
+      work.isbn ? `ISBN ${work.isbn}` : '',
+      work.mode ? `Mode: ${work.mode}` : ''
+    ].filter(Boolean).join(' · ');
+    target.innerHTML = `
+      <div class="featured-work-cover">
+        ${cover.url ? `<img src="${e(cover.url)}" alt="${e(cover.alt || 'Cover image')}" onerror="this.style.display='none';this.nextElementSibling.style.display='block';">` : ''}
+        <div class="featured-work-fallback"${cover.url ? '' : ' style="display:block;"'}>${e(work.shortTitle || work.title)}</div>
+      </div>
+      <div>
+        <span class="featured-work-label">${e(work.label || 'Curated Selection')}</span>
+        <h2 class="featured-work-title">${e(work.title)}</h2>
+        ${work.authorLine ? `<p class="featured-work-author">${e(work.authorLine)}</p>` : ''}
+        ${work.abstract ? `<p class="featured-work-desc">${e(work.abstract)}</p>` : ''}
+        ${meta ? `<p class="featured-work-meta">${e(meta)}</p>` : ''}
+        ${work.recordUrl ? `<div class="featured-work-actions"><a class="featured-work-cta" href="${e(work.recordUrl)}" target="_blank" rel="noopener">View catalog record</a></div>` : ''}
+      </div>`;
+    section.hidden = false;
+  } catch (err) {
+    console.warn('[Per-Medjat] featured-work.json unavailable', err);
+  }
+}
+
 function buildCard(rec, n) {
   const main = rec.creators.find(c => c.role === 'author') || rec.creators[0];
   const authorStr = main ? (main.last + (main.first ? ', ' + main.first : '')) : '';
@@ -1004,6 +1065,7 @@ document.getElementById('sort-select').addEventListener('change', render);
   document.getElementById(id).addEventListener('keydown', ev => { if (ev.key === 'Enter') applyAdv(); });
 });
 
+initFeaturedWork();
 init();
 </script>
 </body>

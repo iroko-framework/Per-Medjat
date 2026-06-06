@@ -332,7 +332,7 @@
       <div class="holding-tag">Scholarly output</div>
       <div class="holding-name">IHS Publications &amp; Working Papers</div>
       <div class="holding-desc">Peer-reviewed articles, conference proceedings, and working papers produced under the IHS research program. Includes the Iroko Framework white paper, published vocabulary documentation, and scholarly articles by IHS researchers.</div>
-      <div class="holding-status"><a href="https://www.irokosociety.org/research.html">View research output â†’</a></div>
+      <div class="holding-status"><a href="https://www.irokosociety.org/research.html">View research output ↗’</a></div>
     </div>
     <div class="holding-card">
       <div class="holding-tag">Donated collections</div>
@@ -364,9 +364,9 @@
       </div>
       <div class="footer-col">
         <div class="footer-col-label">IHS</div>
-        <a href="https://ontology.irokosociety.org/">Ontology â†—</a>
-        <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org â†—</a>
-        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">IlÃ© AÃ±Ã¡ OlofÃ­ â†—</a>
+        <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+        <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
+        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">IlÃ© AÃ±Ã¡ OlofÃ­ ↗</a>
       </div>
     </div>
   </footer>
@@ -399,7 +399,7 @@ function _indexTraditionVocab() {
   });
 }
 
-// localName â†’ broader localName, built during vocab load
+// localName ↗’ broader localName, built during vocab load
 const TRADITION_BROADER = {};
 
 async function loadTraditionVocab() {
@@ -457,7 +457,7 @@ const TYPE_SET = new Set([
 
 function tagKind(t) {
   if (t.startsWith('iroko:'))      return 'iroko';
-  if (t.startsWith('Theme: '))     return 'iroko';      // Steward module tag â†’ iroko chip
+  if (t.startsWith('Theme: '))     return 'iroko';      // Steward module tag ↗’ iroko chip
   if (t.startsWith('Tradition: ')) return 'tradition';  // Steward tradition tag (prefixed)
   if (resolveTag(t))               return 'tradition';  // bare tradition name (vocab match)
   if (TYPE_SET.has(t))             return 'type';
@@ -721,7 +721,7 @@ function buildCard(rec, n) {
     ? `<a class="rec-doi" href="https://doi.org/${e(rec.doi)}" target="_blank" rel="noopener" title="Open via DOI">DOI</a>`
     : '';
   const urlLink = rec.url
-    ? `<a class="rec-url" href="${e(rec.url)}" target="_blank" rel="noopener" title="${e(rec.url)}">URL â†—</a>`
+    ? `<a class="rec-url" href="${e(rec.url)}" target="_blank" rel="noopener" title="${e(rec.url)}">URL ↗</a>`
     : '';
 
   const tradBadges = rec.traditions.map(t => {

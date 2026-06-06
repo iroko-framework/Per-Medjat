@@ -41,7 +41,7 @@
     .featured-share-actions { display: flex; gap: .4rem; flex-wrap: wrap; justify-content: flex-end; margin-left: auto; }
     .featured-work-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
     .featured-work-cta:hover { background: var(--green); color: #fff; }
-    .featured-share-cta { font-family: var(--mono); font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: #f0ece0; background: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em .85em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
+    .featured-share-cta { font-family: var(--mono); font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: #f0ece0; background: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em .85em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; cursor: pointer; }
     .featured-share-cta:hover { background: #8b3a1a; border-color: #8b3a1a; color: #fff; }
 
     /* ── Catalog search bar ────────────────────────────────────── */
@@ -605,19 +605,45 @@ function buildFeaturedShareLinks(work) {
   const shareUrl = new URL(work.shareUrl || 'featured-work.html', window.location.href).href;
   const title = `Featured Work from the Library: ${work.title || ''}`;
   const text = work.abstract || work.authorLine || title;
-  const u = encodeURIComponent(shareUrl);
-  const t = encodeURIComponent(title);
-  const xText = encodeURIComponent(`${title} — ${shareUrl}`);
   const emailSubject = encodeURIComponent(title);
   const emailBody = encodeURIComponent(`${title}\n\n${text}\n\n${shareUrl}`);
   return `
     <span class="featured-share-actions" aria-label="Share this featured work">
-      <a class="featured-share-cta" href="https://www.facebook.com/sharer/sharer.php?u=${u}" target="_blank" rel="noopener">Facebook</a>
-      <a class="featured-share-cta" href="https://twitter.com/intent/tweet?text=${xText}" target="_blank" rel="noopener">X</a>
-      <a class="featured-share-cta" href="https://www.linkedin.com/sharing/share-offsite/?url=${u}" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="featured-share-cta" href="${e(shareUrl)}" data-share-url="${e(shareUrl)}" data-share-title="${e(title)}" data-share-text="${e(text)}" onclick="return shareFeaturedWork(this)">Share</a>
+      <button class="featured-share-cta" type="button" data-share-url="${e(shareUrl)}" onclick="copyFeaturedWorkLink(this)">Copy link</button>
       <a class="featured-share-cta" href="mailto:?subject=${emailSubject}&body=${emailBody}">Email</a>
     </span>`;
 }
+
+window.shareFeaturedWork = async function(button) {
+  const data = {
+    title: button.dataset.shareTitle || 'Featured Work from the Library',
+    text: button.dataset.shareText || '',
+    url: button.dataset.shareUrl || window.location.href
+  };
+  if (navigator.share) {
+    try {
+      await navigator.share(data);
+      return false;
+    } catch (err) {
+      if (err && err.name === 'AbortError') return false;
+    }
+  }
+  copyFeaturedWorkLink(button);
+  return false;
+};
+
+window.copyFeaturedWorkLink = async function(button) {
+  const url = button.dataset.shareUrl || window.location.href;
+  try {
+    await navigator.clipboard.writeText(url);
+    const old = button.textContent;
+    button.textContent = 'Copied';
+    setTimeout(() => { button.textContent = old; }, 1800);
+  } catch (err) {
+    window.prompt('Copy this link:', url);
+  }
+};
 
 function buildCard(rec, n) {
   const main = rec.creators.find(c => c.role === 'author') || rec.creators[0];

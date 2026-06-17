@@ -249,7 +249,7 @@
       placeholder="Search by title, author, subject, keywordâ€¦"
       autocomplete="off" aria-label="Search the catalog" />
     <button class="search-btn" onclick="triggerSearch()">Search</button>
-    <button class="adv-btn" id="adv-toggle" onclick="toggleAdv()" aria-expanded="false" aria-controls="adv-panel">Advanced â–¾</button>
+    <button class="adv-btn" id="adv-toggle" onclick="toggleAdv()" aria-expanded="false" aria-controls="adv-panel">Advanced &#9662;</button>
   </div>
 
   <div id="adv-panel" hidden aria-label="Advanced search options">
@@ -1053,7 +1053,7 @@ function toggleAdv() {
   const open  = !panel.hidden;
   panel.hidden = open;
   btn.classList.toggle('open', !open);
-  btn.textContent = open ? 'Advanced â–¾' : 'Advanced â–´';
+  btn.textContent = open ? 'Advanced \u25B4' : 'Advanced \u25BE';
   btn.setAttribute('aria-expanded', String(!open));
 }
 

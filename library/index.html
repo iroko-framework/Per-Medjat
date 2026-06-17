@@ -79,7 +79,19 @@
     /* ── Lapis/gold design token ───────────────────────────────── */
     /* Egyptian lapis #1a3468 · gold #c8a84b · warm white #f0ece0 */
 
-    /* ── Tradition filter pills ────────────────────────────────── */
+    /* ── Quick-link browser ────────────────────────────────────── */
+    .quick-link-layout { display: grid; grid-template-columns: 230px minmax(0,1fr); gap: 1.35rem; align-items: start; margin: 1.1rem 0 1.5rem; }
+    .quick-link-sidebar { border-right: 2px solid var(--rule-strong); padding-right: 1rem; }
+    .quick-link-title { font-family: var(--mono); font-size: .62rem; letter-spacing: .16em; text-transform: uppercase; color: #1a3468; margin: 0 0 .65rem; border-left: 2px solid #c8a84b; padding-left: .55rem; }
+    .quick-category-list { display: grid; gap: .35rem; }
+    .quick-category-btn { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: .6rem; align-items: center; width: 100%; min-height: 2.5rem; padding: .58rem .65rem; background: transparent; color: var(--ink-mid); border: 1px solid transparent; border-radius: 3px; text-align: left; cursor: pointer; transition: all .12s; }
+    .quick-category-btn:hover { background: rgba(26,52,104,.04); border-color: var(--rule); }
+    .quick-category-btn[aria-selected="true"] { background: #1a3468; color: #f0ece0; border-color: #c8a84b; }
+    .quick-category-name { font-family: var(--mono); font-size: .64rem; letter-spacing: .08em; text-transform: uppercase; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .quick-category-count { font-family: var(--mono); font-size: .58rem; opacity: .72; }
+    .quick-panel-head { display: flex; justify-content: space-between; gap: .75rem; align-items: end; padding-bottom: .7rem; border-bottom: 1px solid var(--rule); margin-bottom: .85rem; }
+    .quick-panel-title { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: var(--green); margin: 0 0 .2rem; }
+    .quick-panel-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); }
     .filter-row { display: flex; gap: .4rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
     /* Pill label above the tradition row */
     .trad-row-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: #1a3468; margin-bottom: .5rem; padding-left: .1rem; border-left: 2px solid #c8a84b; padding-left: .5rem; }
@@ -88,6 +100,11 @@
     /* Catch-all / Untagged pill — dashed border, italic, muted */
     .filter-pill.catchall { border-style: dashed !important; font-style: italic; opacity: .78; }
     .filter-pill.catchall.active { opacity: 1; font-style: normal; }
+    @media (max-width: 760px) {
+      .quick-link-layout { grid-template-columns: 1fr; }
+      .quick-link-sidebar { border-right: 0; border-bottom: 2px solid var(--rule-strong); padding: 0 0 .85rem; }
+      .quick-category-list { grid-template-columns: repeat(auto-fit,minmax(135px,1fr)); }
+    }
 
     /* ── Results header ────────────────────────────────────────── */
     #results-area { display: none; }
@@ -281,20 +298,54 @@
     </div>
   </div>
 
-  <div class="trad-row-label">Quick search by tradition<span id="catalog-total" class="catalog-total-label"></span></div>
-  <div class="filter-row" id="tradition-row">
-    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading traditions&#8230;</span>
-  </div>
+  <section class="quick-link-layout" aria-label="Catalog quick links">
+    <aside class="quick-link-sidebar" aria-label="Quick link categories">
+      <p class="quick-link-title">Quick Links</p>
+      <div class="quick-category-list" id="quick-category-list" role="tablist" aria-label="Quick link category">
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="true" data-quick-category="tradition">
+          <span class="quick-category-name">Traditions</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="theme">
+          <span class="quick-category-name">Themes</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="type">
+          <span class="quick-category-name">Record Types</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="author">
+          <span class="quick-category-name">Authors</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="frameworkClass">
+          <span class="quick-category-name">Iroko Framework Classes</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="frameworkModule">
+          <span class="quick-category-name">Iroko Framework Modules</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="access">
+          <span class="quick-category-name">Access</span>
+          <span class="quick-category-count">0</span>
+        </button>
+      </div>
+    </aside>
 
-  <div class="trad-row-label" style="margin-top:.75rem;">Quick search by theme<span id="theme-total" class="catalog-total-label"></span></div>
-  <div class="filter-row" id="theme-row">
-    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading themes&#8230;</span>
-  </div>
-
-  <div class="trad-row-label" style="margin-top:.75rem;">Quick search by record type<span id="type-total" class="catalog-total-label"></span></div>
-  <div class="filter-row" id="type-row">
-    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading types&#8230;</span>
-  </div>
+    <div class="quick-link-panel" aria-live="polite">
+      <div class="quick-panel-head">
+        <div>
+          <h2 class="quick-panel-title" id="quick-panel-title">Traditions</h2>
+          <div class="quick-panel-meta" id="quick-panel-meta">Browse by governed tradition labels</div>
+        </div>
+        <span id="catalog-total" class="catalog-total-label"></span>
+      </div>
+      <div class="filter-row" id="quick-option-row">
+        <span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading quick links&#8230;</span>
+      </div>
+    </div>
+  </section>
 
   <div id="load-error"></div>
 
@@ -474,6 +525,96 @@ function parseExtra(extra) {
   return result;
 }
 
+const DOMAIN_MODULE_LABELS = {
+  ewe: 'Ew\u00e9',
+  nkisi: 'Nkisi',
+  travay: 'Travay',
+  ile: 'Il\u00e9',
+  marca: 'Marca',
+  ekpe: '\u00c9kp\u00e8',
+  veve: 'V\u00e8v\u00e8',
+  ngoma: 'Ngoma',
+  sankofa: 'Sankofa',
+  qal: 'Qal',
+};
+
+const FRAMEWORK_CLASS_LABELS = {
+  'slave-paper': 'Slave Paper',
+  slavepaper: 'Slave Paper',
+  'documentary-evidence': 'Documentary Evidence',
+  documentaryevidence: 'Documentary Evidence',
+  'heritage-relationship': 'Heritage Relationship',
+  heritagerelationship: 'Heritage Relationship',
+  'reconstructed-practice': 'Reconstructed Practice',
+  reconstructedpractice: 'Reconstructed Practice',
+  'trans-afro-atlantic-return': 'Trans-Afro-Atlantic Return',
+  transafroatlanticreturn: 'Trans-Afro-Atlantic Return',
+  'reclamation-movement': 'Reclamation Movement',
+  reclamationmovement: 'Reclamation Movement',
+};
+
+const ACCESS_LABELS = {
+  'l0-public': 'Public',
+  'l1-community': 'Community',
+  'l2-initiated': 'Initiated',
+  'l3-restricted': 'Restricted',
+  'l4-oath-bound': 'Oath-bound',
+  'l5-no-access': 'No access',
+  public: 'Public',
+  community: 'Community',
+  initiated: 'Initiated',
+  restricted: 'Restricted',
+  'oath-bound': 'Oath-bound',
+  'no-access': 'No access',
+  'access-public-unrestricted': 'Public',
+  'access-community-only': 'Community',
+  'access-initiated-only': 'Initiated',
+  'access-no-access': 'No access',
+};
+
+function splitExtraList(value) {
+  return String(value || '').split(/[;,]/).map(v => v.trim()).filter(Boolean);
+}
+
+function uniqueValues(values) {
+  return values.filter((value, index, arr) => value && arr.indexOf(value) === index);
+}
+
+function quickKey(value) {
+  let key = String(value || '').trim()
+    .replace(/^(Iroko\s+)?(Class|Module|Concept):\s*/i, '')
+    .replace(/^iroko:/i, '')
+    .replace(/^iroko[-_]/i, '')
+    .replace(/^(class|module|concept|paper|theme):/i, '');
+  if (key.includes(':')) key = key.split(':').pop();
+  return key
+    .replace(/([a-z])([A-Z])/g, '$1-$2')
+    .replace(/[_\s]+/g, '-')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9-]/g, '');
+}
+
+function labelDomainModule(value) {
+  const key = quickKey(value);
+  return DOMAIN_MODULE_LABELS[key] || '';
+}
+
+function labelFrameworkClass(value) {
+  const key = quickKey(value);
+  return FRAMEWORK_CLASS_LABELS[key] || '';
+}
+
+function labelAccess(value) {
+  return ACCESS_LABELS[quickKey(value)] || 'Public';
+}
+
+function creatorLabel(c) {
+  const parts = [c.last, c.first].filter(Boolean);
+  return parts.length > 1 ? `${parts[0]}, ${parts[1]}` : (parts[0] || '');
+}
+
 /* ── Parse ──────────────────────────────────────────────────── */
 function parse(item) {
   const d = item.data || {};
@@ -487,6 +628,27 @@ function parse(item) {
   if (pages.includes('-')) pages = pages.split('-').pop().trim();
   pages = pages.replace(/\D/g, '');
   const iroko = parseExtra(d.extra || '');
+  const extraValues = (...keys) => keys.flatMap(k => splitExtraList(iroko[k]));
+  const accessTag = tags.find(t => ACCESS_LABELS[quickKey(t)]);
+  const accessTier = iroko['access_tier_default'] || iroko['access-tier-default'] ||
+    iroko['access_tier'] || iroko['access-tier'] ||
+    iroko['iroko-access'] || iroko['iroko_access'] || accessTag || 'L0-public';
+  const frameworkModules = uniqueValues([
+    ...extraValues('iroko_modules', 'iroko-modules', 'iroko_module', 'iroko-module'),
+    ...tags.filter(t => labelDomainModule(t)),
+  ].map(labelDomainModule).filter(Boolean));
+  const frameworkClasses = uniqueValues([
+    ...extraValues(
+      'iroko_class', 'iroko-class', 'iroko_classes', 'iroko-classes',
+      'iroko_concept', 'iroko-concept', 'iroko_concepts', 'iroko-concepts',
+      'iroko_connects', 'iroko-connects'
+    ),
+    ...tags.filter(t => labelFrameworkClass(t)),
+  ].map(labelFrameworkClass).filter(Boolean));
+  const themes = uniqueValues(tags
+    .filter(t => tagKind(t) === 'iroko')
+    .map(t => (labelDomainModule(t) || labelFrameworkClass(t) || ACCESS_LABELS[quickKey(t)]) ? '' : themeLabel(t).trim())
+    .filter(Boolean));
   return {
     key:        d.key || item.key || '',
     title:      d.title || '',
@@ -504,6 +666,9 @@ function parse(item) {
     url:        d.url  || '',
     itemType:   d.itemType || '',
     custody:    iroko['iroko-custody'] || 'metadata-only',
+    accessTier,
+    accessLabel: labelAccess(accessTier),
+    creatorLabels: uniqueValues(creators.map(creatorLabel).filter(Boolean)),
     traditions: tags.filter(t => tagKind(t) === 'tradition')
                     .map(t => {
                       // Strip "Tradition: " prefix pushed by Medjat Steward before vocab lookup
@@ -513,6 +678,9 @@ function parse(item) {
                     }),
     types:      tags.filter(t => tagKind(t) === 'type'),
     irokos:     tags.filter(t => tagKind(t) === 'iroko'),
+    themes,
+    frameworkClasses,
+    frameworkModules,
     subjects:   tags
                   .filter(t => tagKind(t) === 'subject' && !t.startsWith('medjat-'))
                   .map(t => t.startsWith('Entity: ') ? t.slice(8) : t)
@@ -524,7 +692,7 @@ function parse(item) {
 /* ── Cache ──────────────────────────────────────────────────── */
 // Parsed items stored in localStorage for 24 h.
 // Bump CACHE_KEY to force a cold reload after breaking changes.
-const CACHE_KEY = 'medjat-catalog-v2';
+const CACHE_KEY = 'medjat-catalog-v3';
 const CACHE_TTL = 24 * 60 * 60 * 1000;
 
 function saveCache(items) {
@@ -769,7 +937,7 @@ function buildCard(rec, n) {
   <div class="rec-foot">
     <div class="rec-foot-row1">
       ${tradBadges}${typeBadges}
-      <span class="access-badge access-public">L0 public</span>
+      <span class="access-badge access-public">${e(rec.accessLabel || 'Public')}</span>
       ${irokoChips}
     </div>
     <div class="rec-foot-row2">
@@ -795,33 +963,56 @@ function toggleMarc(id) {
 
 /* ── State ──────────────────────────────────────────────────── */
 let ALL = [];
-let F = { query: '', tradition: '', theme: '', type: '', author: '', title: '', publisher: '' };
+let QUICK_CATEGORY = 'tradition';
+let F = {
+  query: '',
+  tradition: '',
+  theme: '',
+  type: '',
+  author: '',
+  title: '',
+  publisher: '',
+  frameworkClass: '',
+  frameworkModule: '',
+  access: '',
+};
 
 /* ── Filter + sort ──────────────────────────────────────────── */
 /* Canonical theme label from a raw iroko/Theme tag */
 function themeLabel(tag) {
   if (tag.startsWith('Theme: ')) return tag.slice(7);
-  return tag.replace(/^iroko:(module|paper):/, '').replace(/-/g, ' ');
+  return tag.replace(/^iroko:(module|paper|theme):/, '').replace(/-/g, ' ');
 }
 
 function filtered() {
   return ALL.filter(r => {
+    const traditions = r.traditions || [];
+    const themes = r.themes || [];
+    const frameworkClasses = r.frameworkClasses || [];
+    const frameworkModules = r.frameworkModules || [];
+
     // Tradition filter — supports __untagged__ catch-all
     if (F.tradition === '__untagged__') {
-      if (r.traditions.length > 0) return false;
-    } else if (F.tradition && !r.traditions.includes(F.tradition)) {
+      if (traditions.length > 0) return false;
+    } else if (F.tradition && !traditions.includes(F.tradition)) {
       return false;
     }
+
     // Theme filter — supports __untagged__ catch-all
     if (F.theme === '__untagged__') {
-      if (r.irokos.length > 0) return false;
-    } else if (F.theme) {
-      if (!r.irokos.some(t => themeLabel(t) === F.theme)) return false;
+      if (themes.length > 0) return false;
+    } else if (F.theme && !themes.includes(F.theme)) {
+      return false;
     }
+
     // Type filter — matches Zotero itemType
     if (F.type && r.itemType !== F.type) return false;
+    if (F.frameworkClass && !frameworkClasses.includes(F.frameworkClass)) return false;
+    if (F.frameworkModule && !frameworkModules.includes(F.frameworkModule)) return false;
+    if (F.access && r.accessLabel !== F.access) return false;
+
     if (F.author) {
-      const h = r.creators.map(c => (c.last + ' ' + c.first).toLowerCase()).join(' ');
+      const h = (r.creatorLabels || r.creators.map(c => c.last + ' ' + c.first)).join(' ').toLowerCase();
       if (!h.includes(F.author.toLowerCase())) return false;
     }
     if (F.title) {
@@ -831,9 +1022,15 @@ function filtered() {
       if (!r.publisher.toLowerCase().includes(F.publisher.toLowerCase())) return false;
     }
     if (F.query) {
-      const h = [r.title, r.subtitle,
+      const h = [
+        r.title, r.subtitle,
         ...r.creators.map(c => c.last + ' ' + c.first),
-        ...r.tags, r.publisher, r.abstract
+        ...r.tags,
+        ...themes,
+        ...frameworkClasses,
+        ...frameworkModules,
+        r.accessLabel || '',
+        r.publisher, r.abstract
       ].join(' ').toLowerCase();
       if (!h.includes(F.query.toLowerCase())) return false;
     }
@@ -852,9 +1049,10 @@ function sorted(recs) {
 
 /* ── Render ─────────────────────────────────────────────────── */
 function render() {
-  const active = F.query || F.tradition || F.theme || F.type || F.author || F.title || F.publisher;
+  const active = F.query || F.tradition || F.theme || F.type || F.author || F.title || F.publisher ||
+    F.frameworkClass || F.frameworkModule || F.access;
   const area   = document.getElementById('results-area');
-  if (!active) { area.classList.remove('visible'); syncTradPills(); syncThemePills(); syncTypePills(); return; }
+  if (!active) { area.classList.remove('visible'); syncQuickLinks(); return; }
 
   area.classList.add('visible');
   const recs = sorted(filtered());
@@ -868,16 +1066,19 @@ function render() {
   if (F.query)     chips.innerHTML += chip('query',     `"${F.query}"`);
   if (F.tradition) chips.innerHTML += chip('tradition', F.tradition === '__untagged__' ? 'Tradition: Untagged' : F.tradition);
   if (F.theme)     chips.innerHTML += chip('theme',     F.theme     === '__untagged__' ? 'Theme: Untagged'     : `Theme: ${F.theme}`);
-  if (F.type)      chips.innerHTML += chip('type',      `Type: ${F.type}`);
+  if (F.type)      chips.innerHTML += chip('type',      `Type: ${typeFriendly(F.type)}`);
   if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
   if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);
   if (F.publisher) chips.innerHTML += chip('publisher', `Publisher: ${F.publisher}`);
+  if (F.frameworkClass)  chips.innerHTML += chip('frameworkClass',  `Class: ${F.frameworkClass}`);
+  if (F.frameworkModule) chips.innerHTML += chip('frameworkModule', `Module: ${F.frameworkModule}`);
+  if (F.access)          chips.innerHTML += chip('access',          `Access: ${F.access}`);
 
-  // Keep the tradition-row total count in sync with current filter state
+  // Keep the quick-link total count in sync with current filter state
   const tot = document.getElementById('catalog-total');
   if (tot) tot.textContent = recs.length === ALL.length
-    ? `· ${ALL.length} records`
-    : `· ${recs.length} of ${ALL.length}`;
+    ? `\u00b7 ${ALL.length} records`
+    : `\u00b7 ${recs.length} of ${ALL.length}`;
 
   if (recs.length === 0) {
     grid.innerHTML = ''; noRes.style.display = 'block';
@@ -893,14 +1094,12 @@ function render() {
         F.query = btn.dataset.term;
         F.tradition = '';
         document.getElementById('search-input').value = btn.dataset.term;
-        syncTradPills();
+        syncQuickLinks();
         render();
       });
     });
   }
-  syncTradPills();
-  syncThemePills();
-  syncTypePills();
+  syncQuickLinks();
 }
 
 function chip(key, label) {
@@ -914,81 +1113,11 @@ function clearF(key) {
     const sel = document.getElementById('adv-tradition');
     if (sel) sel.value = '';
   }
-  syncTradPills();
-  syncThemePills();
-  syncTypePills();
+  syncQuickLinks();
   render();
 }
 
 /* ── Tradition pills ────────────────────────────────────────── */
-function buildTradPills() {
-  const counts = {};
-  let untagged = 0;
-  ALL.forEach(r => {
-    if (r.traditions.length === 0) { untagged++; }
-    else { r.traditions.forEach(t => { counts[t] = (counts[t]||0) + 1; }); }
-  });
-  const tradSorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
-  const row = document.getElementById('tradition-row');
-  row.innerHTML = tradSorted.map(([t,n]) =>
-    `<button class="filter-pill" data-trad="${e(t)}">${e(t)} <span style="opacity:.5;font-weight:300">${n}</span></button>`
-  ).join('') +
-    `<button class="filter-pill catchall" data-trad="__untagged__" title="Records pending tradition assignment in the Medjat Steward">Untagged <span style="opacity:.5;font-weight:300">${untagged}</span></button>`;
-  row.querySelectorAll('.filter-pill').forEach(p => {
-    p.addEventListener('click', () => {
-      F.tradition = F.tradition === p.dataset.trad ? '' : p.dataset.trad;
-      syncTradPills(); render();
-    });
-  });
-}
-
-function syncTradPills() {
-  document.querySelectorAll('#tradition-row .filter-pill').forEach(p => {
-    p.classList.toggle('active', p.dataset.trad === F.tradition);
-  });
-  // Don't set adv-tradition select to __untagged__ (it has no such option)
-  const sel = document.getElementById('adv-tradition');
-  if (sel) sel.value = (F.tradition && F.tradition !== '__untagged__') ? F.tradition : '';
-}
-
-/* ── Theme pills ─────────────────────────────────────────────── */
-function buildThemePills() {
-  const counts = {};
-  let untagged = 0;
-  ALL.forEach(r => {
-    if (r.irokos.length === 0) { untagged++; }
-    else { r.irokos.forEach(t => {
-      const label = themeLabel(t);
-      if (label) counts[label] = (counts[label]||0) + 1;
-    }); }
-  });
-  const themeSorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
-  const row = document.getElementById('theme-row');
-  if (themeSorted.length === 0 && untagged === 0) {
-    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">No theme tags yet \u2014 assign via Medjat Steward.</span>`;
-    return;
-  }
-  row.innerHTML = themeSorted.map(([label, n]) =>
-    `<button class="filter-pill" data-theme="${e(label)}">${e(label)} <span style="opacity:.5;font-weight:300">${n}</span></button>`
-  ).join('') +
-    `<button class="filter-pill catchall" data-theme="__untagged__" title="Records pending theme assignment in the Medjat Steward">Untagged <span style="opacity:.5;font-weight:300">${untagged}</span></button>`;
-  row.querySelectorAll('.filter-pill').forEach(p => {
-    p.addEventListener('click', () => {
-      F.theme = F.theme === p.dataset.theme ? '' : p.dataset.theme;
-      syncThemePills(); render();
-    });
-  });
-  const tot = document.getElementById('theme-total');
-  if (tot) tot.textContent = `· ${ALL.length} records`;
-}
-
-function syncThemePills() {
-  document.querySelectorAll('#theme-row .filter-pill').forEach(p => {
-    p.classList.toggle('active', p.dataset.theme === F.theme);
-  });
-}
-
-/* ── Record-type pills ───────────────────────────────────────── */
 // Friendly labels for Zotero itemType values
 const TYPE_LABELS = {
   book:              'Book',
@@ -1011,39 +1140,155 @@ const TYPE_LABELS = {
 };
 function typeFriendly(t) { return TYPE_LABELS[t] || t; }
 
-function buildTypePills() {
-  const counts = {};
-  ALL.forEach(r => {
-    if (r.itemType) counts[r.itemType] = (counts[r.itemType] || 0) + 1;
-  });
-  const typeSorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-  const row = document.getElementById('type-row');
-  if (typeSorted.length === 0) {
-    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">No type data yet.</span>`;
-    return;
-  }
-  row.innerHTML = typeSorted.map(([t, n]) =>
-    `<button class="filter-pill" data-rtype="${e(t)}">${e(typeFriendly(t))} <span style="opacity:.5;font-weight:300">${n}</span></button>`
-  ).join('');
-  row.querySelectorAll('.filter-pill').forEach(p => {
-    p.addEventListener('click', () => {
-      F.type = F.type === p.dataset.rtype ? '' : p.dataset.rtype;
-      syncTypePills(); render();
-    });
-  });
-  const tot = document.getElementById('type-total');
-  if (tot) tot.textContent = `· ${ALL.length} records`;
+const QUICK_GROUPS = [
+  {
+    key: 'tradition',
+    field: 'tradition',
+    label: 'Traditions',
+    meta: 'Browse by governed tradition labels',
+    get: r => r.traditions || [],
+    display: v => v,
+    empty: 'No tradition tags yet.',
+    untaggedTitle: 'Records pending tradition assignment in the Medjat Steward',
+  },
+  {
+    key: 'theme',
+    field: 'theme',
+    label: 'Themes',
+    meta: 'Browse by public theme labels',
+    get: r => r.themes || [],
+    display: v => v,
+    empty: 'No theme tags yet \u2014 assign via Medjat Steward.',
+    untaggedTitle: 'Records pending theme assignment in the Medjat Steward',
+  },
+  {
+    key: 'type',
+    field: 'type',
+    label: 'Record Types',
+    meta: 'Browse by Zotero record type',
+    get: r => r.itemType ? [r.itemType] : [],
+    display: typeFriendly,
+    empty: 'No type data yet.',
+  },
+  {
+    key: 'author',
+    field: 'author',
+    label: 'Authors',
+    meta: 'Browse by Zotero creator names',
+    get: r => r.creatorLabels || [],
+    display: v => v,
+    empty: 'No creator data yet.',
+  },
+  {
+    key: 'frameworkClass',
+    field: 'frameworkClass',
+    label: 'Iroko Framework Classes',
+    meta: 'Browse broad class-level routes',
+    get: r => r.frameworkClasses || [],
+    display: v => v,
+    empty: 'No Iroko Framework class tags yet.',
+  },
+  {
+    key: 'frameworkModule',
+    field: 'frameworkModule',
+    label: 'Iroko Framework Modules',
+    meta: 'Domain modules only',
+    get: r => r.frameworkModules || [],
+    display: v => v,
+    empty: 'No Iroko Framework module tags yet.',
+  },
+  {
+    key: 'access',
+    field: 'access',
+    label: 'Access',
+    meta: 'Browse by public access tier labels',
+    get: r => r.accessLabel ? [r.accessLabel] : ['Public'],
+    display: v => v,
+    empty: 'No access data yet.',
+  },
+];
+
+function quickGroup() {
+  return QUICK_GROUPS.find(g => g.key === QUICK_CATEGORY) || QUICK_GROUPS[0];
 }
 
-function syncTypePills() {
-  document.querySelectorAll('#type-row .filter-pill').forEach(p => {
-    p.classList.toggle('active', p.dataset.rtype === F.type);
+function quickOptionCounts(group) {
+  const counts = {};
+  let untagged = 0;
+  ALL.forEach(r => {
+    const values = uniqueValues((group.get(r) || []).filter(Boolean));
+    if (values.length === 0 && group.untaggedTitle) {
+      untagged++;
+    } else {
+      values.forEach(value => { counts[value] = (counts[value] || 0) + 1; });
+    }
   });
+  const entries = Object.entries(counts).sort((a, b) => b[1] - a[1] || group.display(a[0]).localeCompare(group.display(b[0])));
+  return { entries, untagged };
+}
+
+function buildQuickLinks() {
+  const categoryList = document.getElementById('quick-category-list');
+  const row = document.getElementById('quick-option-row');
+  if (!categoryList || !row) return;
+
+  QUICK_GROUPS.forEach(group => {
+    const btn = categoryList.querySelector(`[data-quick-category="${group.key}"]`);
+    if (!btn) return;
+    const { entries, untagged } = quickOptionCounts(group);
+    const count = entries.length + (group.untaggedTitle ? 1 : 0);
+    btn.querySelector('.quick-category-count').textContent = count;
+    btn.onclick = () => {
+      QUICK_CATEGORY = group.key;
+      buildQuickLinks();
+    };
+  });
+
+  const group = quickGroup();
+  document.getElementById('quick-panel-title').textContent = group.label;
+  document.getElementById('quick-panel-meta').textContent = group.meta;
+
+  const { entries, untagged } = quickOptionCounts(group);
+  if (entries.length === 0 && !group.untaggedTitle) {
+    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">${e(group.empty)}</span>`;
+  } else {
+    row.innerHTML = entries.map(([value, count]) =>
+      `<button class="filter-pill" data-value="${e(value)}">${e(group.display(value))} <span style="opacity:.5;font-weight:300">${count}</span></button>`
+    ).join('') +
+      (group.untaggedTitle
+        ? `<button class="filter-pill catchall" data-value="__untagged__" title="${e(group.untaggedTitle)}">Untagged <span style="opacity:.5;font-weight:300">${untagged}</span></button>`
+        : '');
+  }
+
+  row.querySelectorAll('.filter-pill').forEach(p => {
+    p.onclick = () => {
+      F[group.field] = F[group.field] === p.dataset.value ? '' : p.dataset.value;
+      syncQuickLinks();
+      render();
+    };
+  });
+
+  const tot = document.getElementById('catalog-total');
+  if (tot) tot.textContent = `\u00b7 ${ALL.length} records`;
+  syncQuickLinks();
+}
+
+function syncQuickLinks() {
+  const group = quickGroup();
+  document.querySelectorAll('.quick-category-btn').forEach(btn => {
+    btn.setAttribute('aria-selected', String(btn.dataset.quickCategory === QUICK_CATEGORY));
+  });
+  document.querySelectorAll('#quick-option-row .filter-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.value === F[group.field]);
+  });
+  // Don't set adv-tradition select to __untagged__ (it has no such option)
+  const sel = document.getElementById('adv-tradition');
+  if (sel) sel.value = (F.tradition && F.tradition !== '__untagged__') ? F.tradition : '';
 }
 
 function triggerSearch() {
   F.query = document.getElementById('search-input').value.trim();
-  syncTradPills(); syncTypePills(); render();
+  syncQuickLinks(); render();
 }
 
 /* ── Advanced search panel ──────────────────────────────────── */
@@ -1063,7 +1308,7 @@ function applyAdv() {
   F.publisher = document.getElementById('adv-publisher').value.trim();
   const trad  = document.getElementById('adv-tradition').value;
   F.tradition = trad;
-  syncTradPills(); render();
+  syncQuickLinks(); render();
 }
 
 function clearAdv() {
@@ -1072,11 +1317,12 @@ function clearAdv() {
     document.getElementById(id).value = '';
   });
   document.getElementById('adv-tradition').value = '';
-  syncTradPills(); syncTypePills(); render();
+  syncQuickLinks(); render();
 }
 
 function buildAdvancedTradition() {
   const sel = document.getElementById('adv-tradition');
+  while (sel.options.length > 1) sel.remove(1);
   const traditions = [...new Set(ALL.flatMap(r => r.traditions))].sort();
   traditions.forEach(t => {
     const opt = document.createElement('option');
@@ -1087,14 +1333,14 @@ function buildAdvancedTradition() {
 
 /* ── Boot ───────────────────────────────────────────────────── */
 function _rebuildUI() {
-  buildTradPills(); buildThemePills(); buildTypePills(); buildAdvancedTradition();
+  buildQuickLinks(); buildAdvancedTradition();
   const tot = document.getElementById('catalog-total');
-  if (tot) tot.textContent = `· ${ALL.length} records`;
+  if (tot) tot.textContent = `\u00b7 ${ALL.length} records`;
 }
 
 function _setLoadingMsg(msg) {
-  // Update the placeholder inside tradition-row only while it still holds the spinner span
-  const row = document.getElementById('tradition-row');
+  // Update the placeholder inside quick-option-row only while it still holds the spinner span
+  const row = document.getElementById('quick-option-row');
   const el  = row && row.querySelector('[data-loading]');
   if (el) el.textContent = msg;
 }
@@ -1121,17 +1367,15 @@ async function init() {
   }
 
   // ── First-load path: progressive fetch with live pill updates ───────────────
-  document.getElementById('tradition-row').innerHTML =
+  document.getElementById('quick-option-row').innerHTML =
     '<span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Connecting to catalog\u2026</span>';
-  document.getElementById('theme-row').innerHTML = '';
-  document.getElementById('type-row').innerHTML  = '';
 
   try {
     await vocabPromise;  // must finish before parse() can resolve traditions
 
     const raw = await fetchAll((parsed, loaded, total) => {
       ALL = parsed;
-      buildTradPills(); buildThemePills(); buildTypePills();
+      buildQuickLinks();
       _setLoadingMsg(`Loading catalog\u2026 ${loaded} of ${total}`);
     });
 
@@ -1139,7 +1383,7 @@ async function init() {
     saveCache(ALL);
     _rebuildUI();
   } catch(err) {
-    document.getElementById('tradition-row').innerHTML = '';
+    document.getElementById('quick-option-row').innerHTML = '';
     const errEl = document.getElementById('load-error');
     errEl.style.display = 'block';
     errEl.textContent = `Catalog unavailable: ${err.message}`;
@@ -1160,5 +1404,3 @@ init();
 </script>
 </body>
 </html>
-
-

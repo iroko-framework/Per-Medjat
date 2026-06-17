@@ -2,7 +2,7 @@
 <!-- IHS ECOSYSTEM · Medjat Library · medjat.irokosociety.org/library/ · iroko-framework/Per-Medjat/library/index.html -->
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Medjat Library · Per Medjat · Iroko Historical Society</title>
   <meta name="description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
@@ -19,14 +19,14 @@
   <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <style>
-    /* â”€â”€ Library hero â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Library hero ──────────────────────────────────────────── */
     .library-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
     .library-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
     .eyebrow-status { font-family: var(--mono); font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; padding: .15em .55em; border-radius: 2px; background: transparent; color: var(--terracotta); border: 1px solid var(--terracotta); opacity: .85; }
     .library-title { font-family: var(--serif); font-size: clamp(2rem,4vw,3rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .6rem; }
     .library-sub { font-size: .92rem; color: var(--ink-mid); line-height: 1.75; max-width: 64ch; }
 
-    /* â”€â”€ Holdings grid (unchanged) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Holdings grid (unchanged) ─────────────────────────────── */
     .holdings-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-top: 1rem; }
     .holding-card { background: var(--paper); padding: 1.5rem 1.75rem; }
     .holding-card:hover { background: var(--paper-warm); }
@@ -35,7 +35,7 @@
     .holding-desc { font-size: .86rem; color: var(--ink-mid); line-height: 1.6; }
     .holding-status { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .6rem; }
 
-    /* â”€â”€ Featured work from the library â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Featured work from the library ───────────────────────── */
     .featured-work-section { margin-top: 2rem; }
     .featured-work-section[hidden] { display: none; }
     .featured-work { border: 1px solid var(--rule-strong); border-radius: 3px; background: var(--paper); display: grid; grid-template-columns: 126px 1fr; gap: 1.5rem; padding: 1.35rem 1.55rem; margin-bottom: 2.5rem; align-items: start; }
@@ -55,7 +55,7 @@
     .featured-share-cta { font-family: var(--mono); font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: #f0ece0; background: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em .85em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; cursor: pointer; }
     .featured-share-cta:hover { background: #8b3a1a; border-color: #8b3a1a; color: #fff; }
 
-    /* â”€â”€ Catalog search bar â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Catalog search bar ────────────────────────────────────── */
     .catalog-search-wrap { display: grid; grid-template-columns: 1fr auto auto; gap: .75rem; align-items: center; margin-bottom: 1rem; }
     .catalog-search-wrap .search-input { width: 100%; font-size: 1rem; padding: .75em 1.1em; }
     .search-btn { font-family: var(--mono); font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.6em; background: var(--green); color: #fff; border: none; border-radius: 3px; cursor: pointer; white-space: nowrap; transition: background .12s; }
@@ -64,7 +64,7 @@
     .adv-btn:hover { border-color: var(--green); }
     .adv-btn.open { background: var(--green); color: #fff; border-color: var(--green); }
 
-    /* â”€â”€ Advanced search panel â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Advanced search panel ─────────────────────────────────── */
     .adv-panel { border: 1px solid var(--rule-strong); border-radius: 3px; padding: 1.2rem 1.4rem; background: var(--paper-warm); margin-bottom: 1.25rem; }
     .adv-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .75rem 1.5rem; margin-bottom: 1rem; }
     .adv-field { display: flex; flex-direction: column; gap: .3rem; }
@@ -76,20 +76,20 @@
     .adv-clear-btn { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; text-transform: uppercase; padding: .45em .9em; background: none; color: var(--ink-soft); border: 1px solid var(--rule-strong); border-radius: 3px; cursor: pointer; transition: all .12s; }
     .adv-clear-btn:hover { color: var(--terracotta); border-color: var(--terracotta); }
 
-    /* â”€â”€ Lapis/gold design token â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Lapis/gold design token ───────────────────────────────── */
     /* Egyptian lapis #1a3468 · gold #c8a84b · warm white #f0ece0 */
 
-    /* â”€â”€ Tradition filter pills â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Tradition filter pills ────────────────────────────────── */
     .filter-row { display: flex; gap: .4rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
     /* Pill label above the tradition row */
     .trad-row-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: #1a3468; margin-bottom: .5rem; padding-left: .1rem; border-left: 2px solid #c8a84b; padding-left: .5rem; }
     /* Override CDN active state: lapis + white bold + gold border */
     .filter-pill.active { background: #1a3468 !important; color: #f0ece0 !important; border-color: #c8a84b !important; }
-    /* Catch-all / Untagged pill â€” dashed border, italic, muted */
+    /* Catch-all / Untagged pill — dashed border, italic, muted */
     .filter-pill.catchall { border-style: dashed !important; font-style: italic; opacity: .78; }
     .filter-pill.catchall.active { opacity: 1; font-style: normal; }
 
-    /* â”€â”€ Results header â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Results header ────────────────────────────────────────── */
     #results-area { display: none; }
     #results-area.visible { display: block; }
     .results-meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.25rem; padding-bottom: .75rem; border-bottom: 1px solid var(--rule); }
@@ -100,10 +100,10 @@
     .active-chip button { background: none; border: none; color: #f0ece0; cursor: pointer; font-size: .8rem; line-height: 1; padding: 0; opacity: .75; }
     .active-chip button:hover { opacity: 1; }
 
-    /* â”€â”€ Record stack (no grid â€” avoids ghost empty cells) â”€â”€â”€â”€â”€â”€ */
+    /* ── Record stack (no grid — avoids ghost empty cells) ────── */
     #catalog-grid { display: flex; flex-direction: column; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; margin-bottom: 2rem; }
 
-    /* â”€â”€ Record card â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Record card ───────────────────────────────────────────── */
     .rec-card { background: var(--paper); padding: 1.2rem 1.4rem; display: flex; flex-direction: column; gap: .3rem; transition: background .12s; border-bottom: 1px solid var(--rule); }
     .rec-card:last-child { border-bottom: none; }
     .rec-card:hover { background: var(--paper-warm); }
@@ -117,29 +117,29 @@
     .rec-foot-row1, .rec-foot-row2 { display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
     .rec-custody-label { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); padding-right: .1em; }
 
-    /* Tradition â€” lapis bg, warm white, gold border; linked variant gets hover inversion */
+    /* Tradition — lapis bg, warm white, gold border; linked variant gets hover inversion */
     .rec-trad { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; text-decoration: none; }
     .rec-trad--linked { cursor: pointer; }
     .rec-trad--linked:hover { background: #c8a84b; color: #1a3468; }
 
-    /* Type â€” neutral, descriptive metadata */
+    /* Type — neutral, descriptive metadata */
     .rec-type { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .55em; border-radius: 2px; background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule-strong); }
 
-    /* Access badge â€” governed vocabulary concept, lapis treatment */
+    /* Access badge — governed vocabulary concept, lapis treatment */
     .access-badge { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; }
     .access-public { background: #1a3468; color: #f0ece0; border: 1px solid #c8a84b; }
 
-    /* Custody badge â€” IHS stewardship status; only shown for non-default (held) states */
+    /* Custody badge — IHS stewardship status; only shown for non-default (held) states */
     .custody-badge { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: var(--paper-deep); color: var(--green-mid); border: 1px solid var(--green-mid); }
 
-    /* Total record count label â€” shown before any search is active */
+    /* Total record count label — shown before any search is active */
     .catalog-total-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; color: var(--ink-soft); margin-left: .75rem; font-weight: 300; }
 
-    /* Subject chips â€” free-text keywords; neutral base, lapis hover signals searchability */
+    /* Subject chips — free-text keywords; neutral base, lapis hover signals searchability */
     .rec-subject { font-family: var(--sans); font-size: .7rem; background: var(--paper-deep); color: var(--ink-mid); padding: .15em .6em; border-radius: 2px; border: 1px solid var(--rule-strong); cursor: pointer; transition: background .12s, color .12s, border-color .12s; }
     .rec-subject:hover { background: #1a3468; color: #f0ece0; border-color: #c8a84b; }
 
-    /* Iroko framework concept chips â€” amber/gold, distinct from access/tradition */
+    /* Iroko framework concept chips — amber/gold, distinct from access/tradition */
     .rec-iroko { font-family: var(--mono); font-size: .6rem; letter-spacing: .04em; padding: .15em .6em; border-radius: 2px; background: var(--gold-light); color: var(--gold); border: 1px solid rgba(160,120,48,.3); text-decoration: none; }
     .rec-iroko:hover { background: var(--gold); color: #fff; }
 
@@ -150,7 +150,7 @@
     .rec-url { background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule-strong); }
     .rec-url:hover { background: var(--ink-mid); color: #fff; }
 
-    /* Custody badge â€” always shown; different style for metadata-only vs held */
+    /* Custody badge — always shown; different style for metadata-only vs held */
     .custody-badge-meta { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; padding: .12em .6em; border-radius: 2px; background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule); }
 
     /* MARC detail toggle */
@@ -164,20 +164,20 @@
     .marc-label { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); width: 5rem; min-width: 5rem; padding-right: .5rem; }
     .marc-val { font-family: var(--serif); color: var(--ink); line-height: 1.45; }
 
-    /* (list-view overrides removed â€” stack layout is always single-column) */
+    /* (list-view overrides removed — stack layout is always single-column) */
 
-    /* â”€â”€ Empty states â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Empty states ──────────────────────────────────────────── */
     #no-results { font-family: var(--mono); font-size: .78rem; color: var(--ink-soft); font-style: italic; padding: 2rem 0; display: none; }
     #load-error { font-family: var(--mono); font-size: .75rem; color: var(--terracotta); padding: 1rem 0; display: none; }
 
-    /* â”€â”€ Note block â€” Egyptian lapis â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Note block — Egyptian lapis ──────────────────────────── */
     .note-block { border-left: 4px solid #c8a84b; padding: 1.1rem 1.4rem; background: #1a3468; border-radius: 0 3px 3px 0; margin-bottom: 1rem; }
     .note-block-title { font-family: var(--mono); font-size: .62rem; letter-spacing: .14em; text-transform: uppercase; color: #c8a84b; margin-bottom: .5rem; }
     .note-block p { font-size: .86rem; color: rgba(240,236,224,.88); line-height: 1.7; }
     .note-block p a { color: #c8a84b; text-decoration: none; }
     .note-block p a:hover { color: #f0ead8; text-decoration: underline; }
 
-    /* â”€â”€ Footer (terracotta) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Footer (terracotta) ───────────────────────────────────── */
     .site-footer--terracotta { background: #8b3a1a; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
     .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
     .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
@@ -241,12 +241,12 @@
     <div class="featured-work" id="featured-work" aria-label="Featured Work from the Library"></div>
   </section>
 
-  <!-- â”€â”€ Catalog search â€” above holdings, prominent â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ -->
+  <!-- ── Catalog search — above holdings, prominent ─────────── -->
   <p class="section-label">Catalog</p>
 
   <div class="catalog-search-wrap">
     <input type="search" id="search-input" class="search-input"
-      placeholder="Search by title, author, subject, keywordâ€¦"
+      placeholder="Search by title, author, subject, keyword&#8230;"
       autocomplete="off" aria-label="Search the catalog" />
     <button class="search-btn" onclick="triggerSearch()">Search</button>
     <button class="adv-btn" id="adv-toggle" onclick="toggleAdv()" aria-expanded="false" aria-controls="adv-panel">Advanced &#9662;</button>
@@ -257,15 +257,15 @@
       <div class="adv-grid">
         <div class="adv-field">
           <label class="adv-label" for="adv-author">Author</label>
-          <input type="text" id="adv-author" class="adv-input" placeholder="Last name or full nameâ€¦" autocomplete="off">
+          <input type="text" id="adv-author" class="adv-input" placeholder="Last name or full name&#8230;" autocomplete="off">
         </div>
         <div class="adv-field">
           <label class="adv-label" for="adv-title">Title</label>
-          <input type="text" id="adv-title" class="adv-input" placeholder="Title keywordsâ€¦" autocomplete="off">
+          <input type="text" id="adv-title" class="adv-input" placeholder="Title keywords&#8230;" autocomplete="off">
         </div>
         <div class="adv-field">
           <label class="adv-label" for="adv-publisher">Publisher</label>
-          <input type="text" id="adv-publisher" class="adv-input" placeholder="Publisher nameâ€¦" autocomplete="off">
+          <input type="text" id="adv-publisher" class="adv-input" placeholder="Publisher name&#8230;" autocomplete="off">
         </div>
         <div class="adv-field">
           <label class="adv-label" for="adv-tradition">Tradition</label>
@@ -283,17 +283,17 @@
 
   <div class="trad-row-label">Quick search by tradition<span id="catalog-total" class="catalog-total-label"></span></div>
   <div class="filter-row" id="tradition-row">
-    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading traditionsâ€¦</span>
+    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading traditions&#8230;</span>
   </div>
 
   <div class="trad-row-label" style="margin-top:.75rem;">Quick search by theme<span id="theme-total" class="catalog-total-label"></span></div>
   <div class="filter-row" id="theme-row">
-    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading themesâ€¦</span>
+    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading themes&#8230;</span>
   </div>
 
   <div class="trad-row-label" style="margin-top:.75rem;">Quick search by record type<span id="type-total" class="catalog-total-label"></span></div>
   <div class="filter-row" id="type-row">
-    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading typesâ€¦</span>
+    <span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading types&#8230;</span>
   </div>
 
   <div id="load-error"></div>
@@ -302,8 +302,8 @@
     <div class="results-meta">
       <span id="results-summary"></span>
       <select id="sort-select" class="results-sort" aria-label="Sort records">
-        <option value="author">Author Aâ€“Z</option>
-        <option value="title">Title Aâ€“Z</option>
+        <option value="author">Author A&#8211;Z</option>
+        <option value="title">Title A&#8211;Z</option>
         <option value="date-desc">Year (newest)</option>
         <option value="date-asc">Year (oldest)</option>
       </select>
@@ -319,13 +319,13 @@
     <div class="holding-card">
       <div class="holding-tag">Reference literature</div>
       <div class="holding-name">IHS Research Library</div>
-      <div class="holding-desc">Scholarly monographs, ethnographies, field studies, and comparative literature on LucumÃ­, Vodou, CandomblÃ©, Palo Monte, AbakuÃ¡, IfÃ¡, and related Afro-Atlantic traditions. Acquired to support archival description, contextual research, and ethical stewardship of the Society's archival collections.</div>
+      <div class="holding-desc">Scholarly monographs, ethnographies, field studies, and comparative literature on Lucum&#237;, Vodou, Candombl&#233;, Palo Monte, Abaku&#225;, If&#225;, and related Afro-Atlantic traditions. Acquired to support archival description, contextual research, and ethical stewardship of the Society's archival collections.</div>
       <div class="holding-status">L0 Public · Search catalog above</div>
     </div>
     <div class="holding-card">
       <div class="holding-tag">Field editions &amp; published sources</div>
       <div class="holding-name">Ethnobotanical &amp; Ritual Literature</div>
-      <div class="holding-desc">Published field editions used as the source basis for Iroko Framework collections, including Pierre Fatumbi Verger's <em>EwÃ©</em> and Dalia Quiros-Moran's <em>Guide to Afro-Cuban Herbalism</em>. Held as reference alongside the structured datasets derived from them.</div>
+      <div class="holding-desc">Published field editions used as the source basis for Iroko Framework collections, including Pierre Fatumbi Verger's <em>Ew&#233;</em> and Dalia Quiros-Moran's <em>Guide to Afro-Cuban Herbalism</em>. Held as reference alongside the structured datasets derived from them.</div>
       <div class="holding-status">Reference copies held · Datasets in Medjat Archives</div>
     </div>
     <div class="holding-card">
@@ -353,7 +353,7 @@
         <div class="footer-org-name">Iroko Historical Society</div>
         <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
         <div class="footer-org-meta">New Orleans · Miami · Havana · Est. 2024</div>
-        <div class="footer-org-iao">IlÃ© AÃ±Ã¡ OlofÃ­, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+        <div class="footer-org-iao">Il&#233; A&#241;&#225; Olof&#237;, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
       </div>
       <div class="footer-col">
         <div class="footer-col-label">Per Medjat</div>
@@ -366,7 +366,7 @@
         <div class="footer-col-label">IHS</div>
         <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
         <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
-        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">IlÃ© AÃ±Ã¡ OlofÃ­ ↗</a>
+        <a href="https://ileanaolofi.org" target="_blank" rel="noopener">Il&#233; A&#241;&#225; Olof&#237; ↗</a>
       </div>
     </div>
   </footer>
@@ -374,17 +374,17 @@
 </div><!-- /page-wrap -->
 
 <script>
-/* â”€â”€ Config â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Config ─────────────────────────────────────────────────── */
 const ZOTERO_GROUP = '6479329';
 // /items/top returns only top-level bibliographic records;
 // child attachments and notes are automatically excluded.
 const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items/top`;
 const FEATURED_WORK_URL = 'featured-work.json';
 
-/* â”€â”€ Tradition vocabulary â€” loaded from iroko-core.ttl via JSON â”€â”€â”€ */
+/* ── Tradition vocabulary — loaded from iroko-core.ttl via JSON ─── */
 // Source: https://ontology.irokosociety.org/vocab/tradition-vocab.json
 // Generated by scripts/generate_tradition_vocab.py (step 5 of build_all.py)
-// Do not edit here â€” add/edit traditions in the Iroko ontology manager,
+// Do not edit here — add/edit traditions in the Iroko ontology manager,
 // then run the build. Changes appear in the catalog on next page load.
 const TRADITION_VOCAB_URL = 'https://ontology.irokosociety.org/vocab/tradition-vocab.json';
 
@@ -422,7 +422,7 @@ async function loadTraditionVocab() {
     });
     _indexTraditionVocab();
   } catch (e) {
-    console.warn('[Per-Medjat] tradition-vocab.json unavailable â€” tradition badges disabled', e);
+    console.warn('[Per-Medjat] tradition-vocab.json unavailable \u2014 tradition badges disabled', e);
   }
 }
 
@@ -448,7 +448,7 @@ function resolveTag(t) {
   return rollupToParent(direct);
 }
 
-/* â”€â”€ Type set â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Type set ───────────────────────────────────────────────── */
 const TYPE_SET = new Set([
   'Monograph','Ethnography','Field Study','Comparative Literature',
   'Primary Source','Reference','Dictionary','Encyclopedia',
@@ -464,7 +464,7 @@ function tagKind(t) {
   return 'subject';
 }
 
-/* â”€â”€ Parse Zotero Extra field for iroko-* lines â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Parse Zotero Extra field for iroko-* lines ─────────────── */
 function parseExtra(extra) {
   const result = {};
   (extra || '').split('\n').forEach(line => {
@@ -474,7 +474,7 @@ function parseExtra(extra) {
   return result;
 }
 
-/* â”€â”€ Parse â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Parse ──────────────────────────────────────────────────── */
 function parse(item) {
   const d = item.data || {};
   if (!d.title) return null;
@@ -521,7 +521,7 @@ function parse(item) {
   };
 }
 
-/* â”€â”€ Cache â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Cache ──────────────────────────────────────────────────── */
 // Parsed items stored in localStorage for 24 h.
 // Bump CACHE_KEY to force a cold reload after breaking changes.
 const CACHE_KEY = 'medjat-catalog-v2';
@@ -530,7 +530,7 @@ const CACHE_TTL = 24 * 60 * 60 * 1000;
 function saveCache(items) {
   try {
     localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), items }));
-  } catch(e) { /* quota or private mode â€” silent */ }
+  } catch(e) { /* quota or private mode — silent */ }
 }
 
 function loadCache() {
@@ -543,8 +543,8 @@ function loadCache() {
   } catch(e) { return null; }
 }
 
-/* â”€â”€ Fetch all (paginated, progressive) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
-// Excludes attachments and notes at API level â€” reduces page count.
+/* ── Fetch all (paginated, progressive) ─────────────────────── */
+// Excludes attachments and notes at API level — reduces page count.
 // onBatch(parsed[], loaded, total) called after each page for live pill updates.
 async function fetchAll(onBatch) {
   const allRaw = [];
@@ -567,12 +567,12 @@ async function fetchAll(onBatch) {
   return allRaw;
 }
 
-/* â”€â”€ HTML escape â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── HTML escape ────────────────────────────────────────────── */
 function e(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-/* â”€â”€ Build card â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Build card ─────────────────────────────────────────────── */
 async function initFeaturedWork() {
   const section = document.getElementById('featured-work-section');
   const target = document.getElementById('featured-work');
@@ -703,7 +703,7 @@ function buildCard(rec, n) {
     rec.date      ? rec.date + '.'      : ''
   ].filter(Boolean).join(' ');
 
-  // Custody badge â€” always shown; held states use accent style, metadata-only uses muted style
+  // Custody badge — always shown; held states use accent style, metadata-only uses muted style
   const CUSTODY_LABELS = {
     'held-ihs':           'IHS Holds',
     'digitally-held':     'IHS Digital',
@@ -716,7 +716,7 @@ function buildCard(rec, n) {
     ? `<span class="custody-badge-meta">${custodyLabel}</span>`
     : `<span class="custody-badge">${custodyLabel}</span>`;
 
-  // DOI / URL links â€” shown on card face if present
+  // DOI / URL links — shown on card face if present
   const doiLink = rec.doi
     ? `<a class="rec-doi" href="https://doi.org/${e(rec.doi)}" target="_blank" rel="noopener" title="Open via DOI">DOI</a>`
     : '';
@@ -751,7 +751,7 @@ function buildCard(rec, n) {
     rec.series  ? `<tr><td class="marc-field">490</td><td class="marc-label">Series</td><td class="marc-val">${e(rec.series)}</td></tr>` : '',
     rec.isbn    ? `<tr><td class="marc-field">020</td><td class="marc-label">ISBN</td><td class="marc-val">${e(rec.isbn)}</td></tr>` : '',
     ...rec.creators.filter(c => c !== main).map(a => {
-      const label = a.role === 'editor' ? 'Added entry â€” editor' : 'Added entry';
+      const label = a.role === 'editor' ? 'Added entry \u2014 editor' : 'Added entry';
       return `<tr><td class="marc-field">700</td><td class="marc-label">${label}</td><td class="marc-val">${e(a.last + (a.first ? ', ' + a.first : ''))}</td></tr>`;
     }),
     ...rec.subjects.map(s =>
@@ -793,11 +793,11 @@ function toggleMarc(id) {
   if (b) b.innerHTML = (d.classList.contains('open') ? '&#9662;' : '&#9656;') + ' marc record';
 }
 
-/* â”€â”€ State â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── State ──────────────────────────────────────────────────── */
 let ALL = [];
 let F = { query: '', tradition: '', theme: '', type: '', author: '', title: '', publisher: '' };
 
-/* â”€â”€ Filter + sort â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Filter + sort ──────────────────────────────────────────── */
 /* Canonical theme label from a raw iroko/Theme tag */
 function themeLabel(tag) {
   if (tag.startsWith('Theme: ')) return tag.slice(7);
@@ -806,19 +806,19 @@ function themeLabel(tag) {
 
 function filtered() {
   return ALL.filter(r => {
-    // Tradition filter â€” supports __untagged__ catch-all
+    // Tradition filter — supports __untagged__ catch-all
     if (F.tradition === '__untagged__') {
       if (r.traditions.length > 0) return false;
     } else if (F.tradition && !r.traditions.includes(F.tradition)) {
       return false;
     }
-    // Theme filter â€” supports __untagged__ catch-all
+    // Theme filter — supports __untagged__ catch-all
     if (F.theme === '__untagged__') {
       if (r.irokos.length > 0) return false;
     } else if (F.theme) {
       if (!r.irokos.some(t => themeLabel(t) === F.theme)) return false;
     }
-    // Type filter â€” matches Zotero itemType
+    // Type filter — matches Zotero itemType
     if (F.type && r.itemType !== F.type) return false;
     if (F.author) {
       const h = r.creators.map(c => (c.last + ' ' + c.first).toLowerCase()).join(' ');
@@ -850,7 +850,7 @@ function sorted(recs) {
   return c.sort((a,b) => ((a.creators[0]?.last||a.title).localeCompare(b.creators[0]?.last||b.title)));
 }
 
-/* â”€â”€ Render â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Render ─────────────────────────────────────────────────── */
 function render() {
   const active = F.query || F.tradition || F.theme || F.type || F.author || F.title || F.publisher;
   const area   = document.getElementById('results-area');
@@ -920,7 +920,7 @@ function clearF(key) {
   render();
 }
 
-/* â”€â”€ Tradition pills â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Tradition pills ────────────────────────────────────────── */
 function buildTradPills() {
   const counts = {};
   let untagged = 0;
@@ -951,7 +951,7 @@ function syncTradPills() {
   if (sel) sel.value = (F.tradition && F.tradition !== '__untagged__') ? F.tradition : '';
 }
 
-/* â”€â”€ Theme pills â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Theme pills ─────────────────────────────────────────────── */
 function buildThemePills() {
   const counts = {};
   let untagged = 0;
@@ -965,7 +965,7 @@ function buildThemePills() {
   const themeSorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
   const row = document.getElementById('theme-row');
   if (themeSorted.length === 0 && untagged === 0) {
-    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">No theme tags yet â€” assign via Medjat Steward.</span>`;
+    row.innerHTML = `<span style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;">No theme tags yet \u2014 assign via Medjat Steward.</span>`;
     return;
   }
   row.innerHTML = themeSorted.map(([label, n]) =>
@@ -988,7 +988,7 @@ function syncThemePills() {
   });
 }
 
-/* â”€â”€ Record-type pills â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Record-type pills ───────────────────────────────────────── */
 // Friendly labels for Zotero itemType values
 const TYPE_LABELS = {
   book:              'Book',
@@ -1046,14 +1046,14 @@ function triggerSearch() {
   syncTradPills(); syncTypePills(); render();
 }
 
-/* â”€â”€ Advanced search panel â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Advanced search panel ──────────────────────────────────── */
 function toggleAdv() {
   const panel = document.getElementById('adv-panel');
   const btn   = document.getElementById('adv-toggle');
   const open  = !panel.hidden;
   panel.hidden = open;
   btn.classList.toggle('open', !open);
-  btn.textContent = open ? 'Advanced \u25B4' : 'Advanced \u25BE';
+  btn.textContent = open ? 'Advanced \u25BE' : 'Advanced \u25B4';
   btn.setAttribute('aria-expanded', String(!open));
 }
 
@@ -1085,7 +1085,7 @@ function buildAdvancedTradition() {
   });
 }
 
-/* â”€â”€ Boot â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Boot ───────────────────────────────────────────────────── */
 function _rebuildUI() {
   buildTradPills(); buildThemePills(); buildTypePills(); buildAdvancedTradition();
   const tot = document.getElementById('catalog-total');
@@ -1102,27 +1102,27 @@ function _setLoadingMsg(msg) {
 async function init() {
   const vocabPromise = loadTraditionVocab();
 
-  // â”€â”€ Cache-hit path: render immediately, refresh silently in background â”€â”€â”€â”€â”€â”€
+  // ── Cache-hit path: render immediately, refresh silently in background ──────
   const cached = loadCache();
   if (cached) {
     ALL = cached;
     await vocabPromise;  // needed for tradition link resolution in pills
     _rebuildUI();
 
-    // Background refresh â€” only re-renders if record count changes
+    // Background refresh — only re-renders if record count changes
     fetchAll().then(async raw => {
       if (!raw.length) return;
       await vocabPromise;
       const fresh = raw.map(parse).filter(r => r && r.title);
       saveCache(fresh);
       if (fresh.length !== ALL.length) { ALL = fresh; _rebuildUI(); }
-    }).catch(() => { /* network down â€” cached data stays */ });
+    }).catch(() => { /* network down — cached data stays */ });
     return;
   }
 
-  // â”€â”€ First-load path: progressive fetch with live pill updates â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  // ── First-load path: progressive fetch with live pill updates ───────────────
   document.getElementById('tradition-row').innerHTML =
-    '<span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Connecting to catalogâ€¦</span>';
+    '<span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Connecting to catalog\u2026</span>';
   document.getElementById('theme-row').innerHTML = '';
   document.getElementById('type-row').innerHTML  = '';
 
@@ -1132,7 +1132,7 @@ async function init() {
     const raw = await fetchAll((parsed, loaded, total) => {
       ALL = parsed;
       buildTradPills(); buildThemePills(); buildTypePills();
-      _setLoadingMsg(`Loading catalogâ€¦ ${loaded} of ${total}`);
+      _setLoadingMsg(`Loading catalog\u2026 ${loaded} of ${total}`);
     });
 
     ALL = raw.map(parse).filter(r => r && r.title);
@@ -1160,7 +1160,5 @@ init();
 </script>
 </body>
 </html>
-
-
 
 

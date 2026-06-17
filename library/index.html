@@ -50,19 +50,19 @@
     .featured-work-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); margin-top: .65rem; }
     .featured-work-actions { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; margin-top: 1rem; }
     .featured-share-actions { display: flex; gap: .4rem; flex-wrap: wrap; justify-content: flex-end; margin-left: auto; }
-    .featured-work-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
-    .featured-work-cta:hover { background: var(--green); color: #fff; }
+    .featured-work-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: #f0ece0; background: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; }
+    .featured-work-cta:hover { background: #8b3a1a; border-color: #8b3a1a; color: #fff; }
     .featured-share-cta { font-family: var(--mono); font-size: .62rem; letter-spacing: .1em; text-transform: uppercase; color: #f0ece0; background: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em .85em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .12s; cursor: pointer; }
     .featured-share-cta:hover { background: #8b3a1a; border-color: #8b3a1a; color: #fff; }
 
     /* ── Catalog search bar ────────────────────────────────────── */
     .catalog-search-wrap { display: grid; grid-template-columns: 1fr auto auto; gap: .75rem; align-items: center; margin-bottom: 1rem; }
     .catalog-search-wrap .search-input { width: 100%; font-size: 1rem; padding: .75em 1.1em; }
-    .search-btn { font-family: var(--mono); font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.6em; background: var(--green); color: #fff; border: none; border-radius: 3px; cursor: pointer; white-space: nowrap; transition: background .12s; }
-    .search-btn:hover { background: var(--green-mid); }
-    .adv-btn { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.1em; background: none; color: var(--green); border: 1px solid var(--rule-strong); border-radius: 3px; cursor: pointer; white-space: nowrap; transition: all .12s; }
-    .adv-btn:hover { border-color: var(--green); }
-    .adv-btn.open { background: var(--green); color: #fff; border-color: var(--green); }
+    .search-btn { font-family: var(--mono); font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.6em; background: #1a3468; color: #fff; border: none; border-radius: 3px; cursor: pointer; white-space: nowrap; transition: background .12s; }
+    .search-btn:hover { background: #132a55; }
+    .adv-btn { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; padding: .72em 1.1em; background: none; color: #1a3468; border: 1px solid var(--rule-strong); border-radius: 3px; cursor: pointer; white-space: nowrap; transition: all .12s; }
+    .adv-btn:hover { border-color: #1a3468; }
+    .adv-btn.open { background: #1a3468; color: #fff; border-color: #1a3468; }
 
     /* ── Advanced search panel ─────────────────────────────────── */
     .adv-panel { border: 1px solid var(--rule-strong); border-radius: 3px; padding: 1.2rem 1.4rem; background: var(--paper-warm); margin-bottom: 1.25rem; }
@@ -162,8 +162,8 @@
 
     /* DOI / URL links on card face */
     .rec-doi, .rec-url { font-family: var(--mono); font-size: .58rem; letter-spacing: .04em; padding: .12em .6em; border-radius: 2px; text-decoration: none; }
-    .rec-doi { background: var(--paper-deep); color: var(--green-mid); border: 1px solid var(--rule-strong); }
-    .rec-doi:hover { background: var(--green-mid); color: #fff; }
+    .rec-doi { background: var(--paper-deep); color: #1a3468; border: 1px solid var(--rule-strong); }
+    .rec-doi:hover { background: #1a3468; color: #fff; }
     .rec-url { background: var(--paper-deep); color: var(--ink-soft); border: 1px solid var(--rule-strong); }
     .rec-url:hover { background: var(--ink-mid); color: #fff; }
 
@@ -172,7 +172,7 @@
 
     /* MARC detail toggle */
     .marc-toggle { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); background: none; border: none; cursor: pointer; padding: 0; margin-top: .3rem; display: inline-flex; align-items: center; gap: .25rem; }
-    .marc-toggle:hover { color: var(--green); }
+    .marc-toggle:hover { color: #1a3468; }
     .marc-detail { display: none; margin-top: .75rem; padding-top: .75rem; border-top: 1px solid var(--rule); }
     .marc-detail.open { display: block; }
     .marc-table { width: 100%; border-collapse: collapse; }
@@ -259,7 +259,7 @@
   </section>
 
   <!-- ── Catalog search — above holdings, prominent ─────────── -->
-  <p class="section-label">Catalog</p>
+  <p class="section-label">Catalog<span id="catalog-total" class="catalog-total-label"></span></p>
 
   <div class="catalog-search-wrap">
     <input type="search" id="search-input" class="search-input"
@@ -302,20 +302,16 @@
     <aside class="quick-link-sidebar" aria-label="Quick link categories">
       <p class="quick-link-title">Quick Links</p>
       <div class="quick-category-list" id="quick-category-list" role="tablist" aria-label="Quick link category">
-        <button class="quick-category-btn" type="button" role="tab" aria-selected="true" data-quick-category="tradition">
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="true" data-quick-category="type">
+          <span class="quick-category-name">Record Types</span>
+          <span class="quick-category-count">0</span>
+        </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="tradition">
           <span class="quick-category-name">Traditions</span>
           <span class="quick-category-count">0</span>
         </button>
         <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="theme">
           <span class="quick-category-name">Themes</span>
-          <span class="quick-category-count">0</span>
-        </button>
-        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="type">
-          <span class="quick-category-name">Record Types</span>
-          <span class="quick-category-count">0</span>
-        </button>
-        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="author">
-          <span class="quick-category-name">Authors</span>
           <span class="quick-category-count">0</span>
         </button>
         <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="frameworkClass">
@@ -336,10 +332,9 @@
     <div class="quick-link-panel" aria-live="polite">
       <div class="quick-panel-head">
         <div>
-          <h2 class="quick-panel-title" id="quick-panel-title">Traditions</h2>
-          <div class="quick-panel-meta" id="quick-panel-meta">Browse by governed tradition labels</div>
+          <h2 class="quick-panel-title" id="quick-panel-title">Record Types</h2>
+          <div class="quick-panel-meta" id="quick-panel-meta">Browse by Zotero record type</div>
         </div>
-        <span id="catalog-total" class="catalog-total-label"></span>
       </div>
       <div class="filter-row" id="quick-option-row">
         <span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading quick links&#8230;</span>
@@ -963,7 +958,7 @@ function toggleMarc(id) {
 
 /* ── State ──────────────────────────────────────────────────── */
 let ALL = [];
-let QUICK_CATEGORY = 'tradition';
+let QUICK_CATEGORY = 'type';
 let F = {
   query: '',
   tradition: '',
@@ -1074,11 +1069,9 @@ function render() {
   if (F.frameworkModule) chips.innerHTML += chip('frameworkModule', `Module: ${F.frameworkModule}`);
   if (F.access)          chips.innerHTML += chip('access',          `Access: ${F.access}`);
 
-  // Keep the quick-link total count in sync with current filter state
+  // Keep the catalog total visible at the top; filtered counts live in results summary.
   const tot = document.getElementById('catalog-total');
-  if (tot) tot.textContent = recs.length === ALL.length
-    ? `\u00b7 ${ALL.length} records`
-    : `\u00b7 ${recs.length} of ${ALL.length}`;
+  if (tot) tot.textContent = `\u00b7 ${ALL.length} records`;
 
   if (recs.length === 0) {
     grid.innerHTML = ''; noRes.style.display = 'block';
@@ -1142,6 +1135,15 @@ function typeFriendly(t) { return TYPE_LABELS[t] || t; }
 
 const QUICK_GROUPS = [
   {
+    key: 'type',
+    field: 'type',
+    label: 'Record Types',
+    meta: 'Browse by Zotero record type',
+    get: r => r.itemType ? [r.itemType] : [],
+    display: typeFriendly,
+    empty: 'No type data yet.',
+  },
+  {
     key: 'tradition',
     field: 'tradition',
     label: 'Traditions',
@@ -1160,24 +1162,6 @@ const QUICK_GROUPS = [
     display: v => v,
     empty: 'No theme tags yet \u2014 assign via Medjat Steward.',
     untaggedTitle: 'Records pending theme assignment in the Medjat Steward',
-  },
-  {
-    key: 'type',
-    field: 'type',
-    label: 'Record Types',
-    meta: 'Browse by Zotero record type',
-    get: r => r.itemType ? [r.itemType] : [],
-    display: typeFriendly,
-    empty: 'No type data yet.',
-  },
-  {
-    key: 'author',
-    field: 'author',
-    label: 'Authors',
-    meta: 'Browse by Zotero creator names',
-    get: r => r.creatorLabels || [],
-    display: v => v,
-    empty: 'No creator data yet.',
   },
   {
     key: 'frameworkClass',

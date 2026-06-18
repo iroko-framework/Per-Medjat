@@ -1,0 +1,101 @@
+{
+  "key": "BGQHTIBE",
+  "uri": "https://medjat.irokosociety.org/id/library/BGQHTIBE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BGQHTIBE",
+  "zotero": {
+    "group": "6479329",
+    "key": "BGQHTIBE",
+    "version": 1887,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BGQHTIBE",
+    "dateAdded": "2026-05-19T14:18:28Z",
+    "dateModified": "2026-05-19T14:18:28Z"
+  },
+  "display": {
+    "title": "Company culture : information, scholarship, and the East India Company settlements 1660-1720s",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Anna Winterbottom"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Queen Mary Research Online (Queen Mary University of London)",
+    "publicationTitle": "Queen Mary Research Online (Queen Mary University of London)",
+    "bookTitle": "",
+    "journalAbbreviation": "Queen Mary Research Online (Queen Mary University of London)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "I explore how knowledge was created and circulated in and between the settlements of the early English East India Company.I aim: to demonstrate connections between scholarship and early colonialism; to highlight the role of non-elite actors in transferring skills and techniques; and to map global knowledge networks based on systems of patronage that cut across national, ethnic, and social boundaries.Chapter 1 uses the life of Samuel Baron, a half-Dutch, half-Vietnamese factor, spy, and broker for the EIC, client of the rulers of Siam and Tonkin, and author of the Description of Tonqueen to examine the importance of passeurs culturels or go-betweens to both the European trading companies and Asian rulers in the period and their role in transmitting geographical and ethnographic information.Chapter 2 examines the local and international botanical and medical networks of two Company surgeons in Madras, based on collections in the Natural History Museum and the surgeons' correspondence with the apothecary James Petiver.Chapter 3 looks in detail at the development of English scholarship on the Malay language: moving from wordlists and manuscript grammars to the first bilingual English-Malay dictionary, published in 1701.I use the texts to examine the early Company's policies of language-learning and teaching and the theoretical and practical basis of linguistic projects in the period.Chapter 4 follows the movement of a travel text, Robert Knox's Historical Relation of Ceylon, with its author on a series of later voyages.I explore the practical uses of such texts to inform bio-prospecting and the transplantation of crops in the Company's search for island bases in the Atlantic and Indian Oceans.Chapter 5 examines slaves' roles in the transmission of botanical, medical, and cultural knowledge between the 'plantations' of St Helena (South Atlantic) and Bencoulen (Sumatra), through both their work and their resistance.",
+    "doi": "",
+    "url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/376",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Anna Winterbottom"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Company culture : information, scholarship, and the East India Company settlements 1660-1720s"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Queen Mary Research Online (Queen Mary University of London), 2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BG/BGQHTIBE.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

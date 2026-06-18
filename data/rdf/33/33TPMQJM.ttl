@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/33TPMQJM>
+  a schema:Book ;
+  schema:name "O festim dos bruxos : estudos sobre a religião no Brasil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=33TPMQJM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:33TPMQJM" ;
+  schema:author "Carlos Rodrigues Brandão" ;
+  schema:datePublished "1987" ;
+  schema:publisher "Medical Entomology and Zoology" ;
+  dcterms:subject "Food, Nutrition, and Cultural Practices", "Religion and Society in Latin America", "Urban and sociocultural dynamics" .

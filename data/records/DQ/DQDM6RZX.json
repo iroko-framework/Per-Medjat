@@ -1,0 +1,107 @@
+{
+  "key": "DQDM6RZX",
+  "uri": "https://medjat.irokosociety.org/id/library/DQDM6RZX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DQDM6RZX",
+  "zotero": {
+    "group": "6479329",
+    "key": "DQDM6RZX",
+    "version": 3570,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DQDM6RZX",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "Debt as a double-edged risk: A historical case from Nahua (Aztec) Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "John K. Millhauser"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Economic Anthropology",
+    "publicationTitle": "Economic Anthropology",
+    "bookTitle": "",
+    "journalAbbreviation": "Economic Anthropology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "4",
+    "issue": "2",
+    "pages": "263-275",
+    "abstract": "Debt is one of the oldest and most widespread social arrangements that humans use to manage hardship—and it has also been one of the riskiest. David Graeber convincingly makes this case in his recent study of debt over the last five thousand years, but his focus on the Old World leaves open the question of whether similar contradictions emerged among the markets, cities, and states of the Americas. This article uses sixteenth-century documents to reconstruct the practices, institutions, and morality of debt in Nahua society during the Aztec Empire (AD 1428–1521) and show how debt was a double-edged risk in the Aztec economy. Debt played a constructive role, helping some households through hard times and carrying little of the negative moral valence commonly associated with it. However, debts could create new vulnerabilities when secured by selling family members into slavery. Exploitative debt, however, may have only become a problem during economic and environmental crises that made the risks of debt seem less than the risks of other ways to deal with hardship. Without careful attention to cultural context and historical circumstances, generalizations about debt's exploitative aspects are limited in their ability to explain debt's global extent and historical persistence.",
+    "doi": "10.1002/sea2.12093",
+    "url": "https://doi.org/10.1002/sea2.12093",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "John K. Millhauser"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Debt as a double-edged risk: A historical case from Nahua (Aztec) Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Economic Anthropology, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "263-275 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1002/sea2.12093"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/DQ/DQDM6RZX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1002/sea2.12093"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

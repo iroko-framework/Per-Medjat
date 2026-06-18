@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K9TE56IP>
+  a schema:Thesis ;
+  schema:name "Slavery in the Bengal Presidency Under East India Company Rule, 1772-1843." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K9TE56IP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K9TE56IP" ;
+  schema:description "The thesis is an attempt to trace the history of slavery and its abolition in the Bengal Presidency under the East India Company's rule from 1772 to 1843. The first Chapter defines slavery and traces its history in the early and medieval periods of Indian history before the advent of the British power. It explains the reasons for its sanction as a punishment for the armed dacoits in 1772, and the various sources of slavery and the ways the slaves were procured during the Company's rule. The second chapter deals with domestic slavery in the Bengal Presidency in Hindu, Muslim and European families in the late eighteenth and the first half of the 19th century. The third Chapter is a detailed study of agrestic slavery in the Bengal Presidency and its importance as a social and economic institution in the Country. The fourth Chapter surveys the history of the seaborne slave-trade and deals with the measures taken by the Company's Government and the British Parliament to secure its gradual abolition. The fifth and sixth Chapters are devoted to two areas, Assam and Arakan, which stand rather apart, in the social and political structure from the rest of the Bengal Presidency. The seventh Chapter seeks to examine the British attitude towards slavery and the slave trade in India and gives an account of the ameliorative measures taken by the Company's Government and the British Parliament to suppress slavery and slave-trade. The roles played by the utilitarians and by such Company officials as Richardson, Metcalfe, Leycester, Harrington and Neufville to abolish slavery from India are considered and the reason for their failure. The eighth Chapter discusses the economic and social changes in Britain which led to the emergence of an anti-slavery movement strong enough to secure the institution of the Law Commission. It concludes with a study of the Law Commission's work and the abolition of slavery in 1843." ;
+  schema:author "Amal Kumar Chattopadhyay" ;
+  schema:datePublished "1963" ;
+  schema:publisher "SOAS Research Online (SOAS University of London)" ;
+  schema:sameAs <https://doi.org/10.25501/soas.00033956> ;
+  dcterms:identifier "doi:10.25501/soas.00033956" ;
+  dcterms:subject "Colonial History and Postcolonial Studies", "Colonialism, slavery, and trade", "Cuban History and Society" .

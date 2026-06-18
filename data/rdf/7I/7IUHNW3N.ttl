@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/7IUHNW3N>
+  a schema:Thesis ;
+  schema:name "A History of the East Indian Indentured Plantation Worker in Trinidad, 1845-1917." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7IUHNW3N> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7IUHNW3N" ;
+  schema:description "Some of the problems that arose from the introduction of East Indians into Trinidad were as follows: the East Indians 1 reception by the Creoles of Negro descent, the shock to the East Indians' family pattern, mortality rates and health in general of East Indians on the estates, and the manifestations of the East Indians' religion which were both amusing and distressing to the host society." ;
+  schema:author "John Perry" ;
+  schema:datePublished "1969" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_disstheses.1612> ;
+  dcterms:identifier "doi:10.31390/gradschool_disstheses.1612" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Migration, Ethnicity, and Economy" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IG7RSHA6>
+  a schema:Chapter ;
+  schema:name "The Africanness of Dance in Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IG7RSHA6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IG7RSHA6" ;
+  schema:description "Abstract Cuban dance researcher Graciela Chao Carbonero discusses how the African element penetrates all aspects of Cuban dance. She begins with the African-based danced religions of Cuba, Regla de Ocha or Santería (the religion of the Yoruba orishas), Palo Monte and other Congolese-based sects, Arará, and Abakuá, and how steps from such traditions merge with secular Cuban folk dances such as carnival comparsas and sones miméticos and also influence the dances that descend from European contradanza. Chao delves into contemporary casino and casino rueda and the African underpinnings of such dances and also of Cuban modern dance, with its training technique, técnica cubana, developed by Ramiro Guerra and others, and of Cuban variety dance in clubs and pn television." ;
+  schema:datePublished "2010" ;
+  schema:sameAs <https://doi.org/10.5744/florida/9780813034676.003.0005> ;
+  dcterms:identifier "doi:10.5744/florida/9780813034676.003.0005" ;
+  dcterms:subject "Cuban History and Society", "Diversity and Impact of Dance", "Theater, Performance, and Music History" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LK9EP643>
+  a schema:Book ;
+  schema:name "Como suena un tambor abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LK9EP643> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LK9EP643" ;
+  schema:author "Lino Arturo Neira Betancourt" ;
+  schema:creator "Argeliers León" ;
+  schema:datePublished "1991" ;
+  schema:publisher "Medical Entomology and Zoology" ;
+  dcterms:subject "Cultural and Social Studies in Latin America", "Indigenous Studies in Latin America", "Latin American Literature Studies" .

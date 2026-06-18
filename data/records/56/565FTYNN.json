@@ -1,0 +1,100 @@
+{
+  "key": "565FTYNN",
+  "uri": "https://medjat.irokosociety.org/id/library/565FTYNN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=565FTYNN",
+  "zotero": {
+    "group": "6479329",
+    "key": "565FTYNN",
+    "version": 1332,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/565FTYNN",
+    "dateAdded": "2026-05-19T13:28:53Z",
+    "dateModified": "2026-05-19T13:28:53Z"
+  },
+  "display": {
+    "title": "Los Ñáñigos. Sociedad secreta",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bertha Fernández"
+      }
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "TRAMAS. Subjetividad y procesos sociales",
+    "publicationTitle": "TRAMAS. Subjetividad y procesos sociales",
+    "bookTitle": "",
+    "journalAbbreviation": "TRAMAS. Subjetividad y procesos sociales",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "13",
+    "pages": "43-55",
+    "abstract": "The traffic of African slaves -The Negro Trade- took a numerous population a variety of regions, especially South Nigeria and Camerun, to different places of America. In Black Africa there used to be secret societies composed by different tribes that could get to have a powerful domain over the population. In 1836, the African slaves population in Cuba founded an Ekpe type Secret Society which is still in operation until now. Nanigos or Abakua, is the Cuban society of African origin, thanks to which it's bee possible to conserve African I traditions and customs with high degree of fidelity. The strength of african nationality, together with the spanish one, forms an important part of the cuban nationality",
+    "doi": "",
+    "url": "https://openalex.org/W2156253366",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bertha Fernández"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los Ñáñigos. Sociedad secreta"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "TRAMAS. Subjetividad y procesos sociales, 1998."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "43-55 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/56/565FTYNN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

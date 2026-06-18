@@ -1,0 +1,146 @@
+{
+  "key": "4U2BK8R4",
+  "uri": "https://medjat.irokosociety.org/id/library/4U2BK8R4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4U2BK8R4",
+  "zotero": {
+    "group": "6479329",
+    "key": "4U2BK8R4",
+    "version": 4053,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4U2BK8R4",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Mycotoxins and mycotoxigenic fungi in spices and mixed spices: a review",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "N. Syamilah"
+      },
+      {
+        "role": "editor",
+        "name": "Nurul Afifah S."
+      },
+      {
+        "role": "editor",
+        "name": "Effarizah Mohd Esah"
+      },
+      {
+        "role": "editor",
+        "name": "Norlia Mahror"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "Food Research",
+    "publicationTitle": "Food Research",
+    "bookTitle": "",
+    "journalAbbreviation": "Food Research",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "issue": "4",
+    "pages": "30-46",
+    "abstract": "Mycotoxins are secondary metabolites produced by fungi mainly from the genus Aspergillus, Penicillium, Fusarium, and Alternaria. The occurrence of mycotoxin contamination has been reported in various types of food, including spices such as chilli, black pepper, white pepper, cumin, coriander seed, and the ground mix spices. Aflatoxins (AFs) and ochratoxin A (OTA) are the primary mycotoxins in spices produced by Aspergillus spp. and Penicillium spp. Among these spices, chilli is more susceptible to the invasion of these mycotoxigenic fungi, especially during prolonged storage and inappropriate storage conditions, resulting in mycotoxin production. The storage conditions, processing methods, and handling practices of spices may affect the growth of fungi and subsequent mycotoxin production. This paper reviewed mycotoxigenic fungi and mycotoxin contamination in spices, the impact on humans, and the regulatory limit adopted by many countries worldwide.",
+    "doi": "10.26656/fr.2017.6(4).971",
+    "url": "https://doi.org/10.26656/fr.2017.6(4).971",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Mycotoxins in Agriculture and Food",
+      "Plant Pathogens and Resistance",
+      "Potato Plant Research"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "N. Syamilah"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mycotoxins and mycotoxigenic fungi in spices and mixed spices: a review"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Food Research, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "30-46 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.26656/fr.2017.6(4).971"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mycotoxins in Agriculture and Food"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant Pathogens and Resistance"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Potato Plant Research"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Nurul Afifah S."
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Effarizah Mohd Esah"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Norlia Mahror"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/4U/4U2BK8R4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.26656/fr.2017.6(4).971"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

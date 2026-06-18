@@ -1,0 +1,107 @@
+{
+  "key": "6XYHG3M4",
+  "uri": "https://medjat.irokosociety.org/id/library/6XYHG3M4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6XYHG3M4",
+  "zotero": {
+    "group": "6479329",
+    "key": "6XYHG3M4",
+    "version": 2043,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6XYHG3M4",
+    "dateAdded": "2026-05-19T14:19:15Z",
+    "dateModified": "2026-05-19T14:19:15Z"
+  },
+  "display": {
+    "title": "The Rus in Arabic Sources: Cultural Contacts and Identity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Þórir Jónsson Hraundal"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Bergen Open Research Archive (BORA) (University of Bergen)",
+    "publicationTitle": "Bergen Open Research Archive (BORA) (University of Bergen)",
+    "bookTitle": "",
+    "journalAbbreviation": "Bergen Open Research Archive (BORA) (University of Bergen)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "http://hdl.handle.net/1956/6895",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Byzantine Studies and History",
+      "Eurasian Exchange Networks",
+      "Historical and Linguistic Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Þórir Jónsson Hraundal"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Rus in Arabic Sources: Cultural Contacts and Identity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Bergen Open Research Archive (BORA) (University of Bergen), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Byzantine Studies and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Eurasian Exchange Networks"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Linguistic Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6X/6XYHG3M4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/W7Z7N6MS>
+  a schema:ScholarlyArticle ;
+  schema:name "Mirror Mausoleums, Mortuary Arts, and Haitian Religious Unexceptionalism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=W7Z7N6MS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:W7Z7N6MS" ;
+  schema:description "… the dead will dwell in separate houses suitable to their status.— Joseph Roach (1996, 53) In mystical experience, the mirror is the juncture point where the visible face sees its invisible face.— Sabine Melchior-Bonnet (2005, 6063) IN HAITIAN VODOU and other African-derived traditions, sacred art objects are often used to honor the dead, connecting the living with the spirit world. This study investigates the religious importance of Black Atlantic mirrors and reflective surfaces in mortuary rites. I begin by analyzing mirrors as symbolic of sacred waters and residence of spirits and ancestors. Secondly, I examine the use of mirrors on gravesites as portals to otherworldy dimensions, and consider mirrors as mystic “eyes.” Lastly, I explore notions of “brokenness,” offering a ritual studies analysis of shattered mirrors in a Haitian initiatory society (Bizango) and in commemorative earthquake art of 2010. As such, I highlight Haitians’ “religious unexceptionalism” as they employ ritual arts to honor the dead. Ultimately, I demonstrate how the ritual use of mirrors as mortuary arts signals the omnipresence of ancestral spirits and the importance of sustaining lines of communication between visible and invisible worlds." ;
+  schema:author "Kyrah Malika Daniels" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Journal of the American Academy of Religion" ;
+  schema:sameAs <https://doi.org/10.1093/jaarel/lfx012> ;
+  dcterms:identifier "doi:10.1093/jaarel/lfx012" ;
+  dcterms:subject "Anthropological Studies and Insights", "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade" .

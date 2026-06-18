@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2RTYS67H>
+  a schema:Thesis ;
+  schema:name ">i<Sweating System>/i< e trabalho escravo contemporâneo. Um estudo sobre a repetição de padrões" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2RTYS67H> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2RTYS67H" ;
+  schema:description "This analysis compares the situation of labor in sewing workshops during the so-called Sweating System, which originated in England during the Industrial Revolution, with contemporary slave labor in Brazil.For the Brazilian case, the study is limited to the case of Bolivians, in the state of So Paulo, as it is more numerous and significant (Souchad, 2012, p. 89; SIMAI, 2012, p. 195).The production of cheap clothes through the so-called Sweating System had high rates of labor exploitation in conditions analogous to slave labor.It so happens that, in those times, Labor Law was not available as it is today, not even the legal definition of what contemporary slave labor would be.It was a time when employees of sewing workshops worked without any legal protection or norms higher than their employers' determinations.However, today, almost 170 years later, as shown in the results, this situation is repeated in the case of Bolivian immigrants who come to So Paulo.What they find is a strong legal framework, but only in theory, since for Brazilian Labor Law, such individuals are invisible.Truck system and exhausting working hours in unhealthy conditions are some of the crimes to which Bolivian citizens who migrate to the state of So Paulo in search of work in clothing industries are subject.The work is unique in the field of Fashion, which strengthens its preventive, informative and educational power for those who intend to live in this area." ;
+  schema:author "Anna Carolina Moraes Figueiredo" ;
+  schema:datePublished "2023" ;
+  schema:sameAs <https://doi.org/10.11606/d.100.2023.tde-24012024-165955> ;
+  dcterms:identifier "doi:10.11606/d.100.2023.tde-24012024-165955" ;
+  dcterms:subject "History of Colonial Brazil", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9IMVDFBH>
+  a schema:Thesis ;
+  schema:name "Jefferson Davis and the Mississippi gubernatorial contest of 1851, with selected letters and speeches concerning the campaign" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9IMVDFBH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9IMVDFBH" ;
+  schema:description "Traditional political parties in Mississippi fractured and re-formed during the struggle that climaxed in the passage of the Compromise of 1850. Convinced that these measures further marked the usurpation of southern constitutional rights, Jefferson Davis, a life-long Democrat, strove to unify his party, his state, and the South in order to register southern disapproval. The test of Mississippi's position on the Compromise came in the elections of 1851. After the Democratic State Rights party, led by gubernatorial candidate John A. Quitman, was defeated in the September election for state convention delegates, Quitman withdrew from the race. The Democratic party immediately turned for leadership to Jefferson Davis, who accepted the gubernatorial nomination as his duty and campaigned as vigorously as possible despite ill health in the six weeks remaining before the election. He lost the race, reducing the Unionist party margin of 7,500 votes in the September election to 999, but gained national respect for his political principles and party loyalty. The second part of the thesis consists of eleven selected letters and speeches concerning the campaign. They form a substantial portion of the primary source material on which the first part of the thesis is based. Clarifying footnotes follow each edited item." ;
+  schema:author "Kathleen Bailey Davis" ;
+  schema:datePublished "1971" ;
+  schema:publisher "Rice Digital Scholarship Archive (Rice University)" ;
+  dcterms:subject "American Constitutional Law and Politics", "Race, History, and American Society" .

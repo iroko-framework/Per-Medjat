@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2PC5RRRT>
+  a schema:ScholarlyArticle ;
+  schema:name "Got Males?: The Enigmatic Goblin Spider GenusTriaeris(Araneae, Oonopidae)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2PC5RRRT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2PC5RRRT" ;
+  schema:description "The type species of the goblin spider genus Triaeris Simon, T. stenaspis Simon, was originally described from Saint Vincent in the Lesser Antilles, but has attained a pantropical distribution and even has introduced populations living in European greenhouses. At least one of those European populations is parthenogenetic, and no males of the species have ever been found. Simon later assigned one additional species to the genus, T. equestris, from Prncipe; that species is also known only from females, but resembles T. stenaspis in having an unusually elongated, ventrally spinose patella on leg I. Numerous other species, from both the Old and New worlds, have subsequently been assigned to Triaeris; all those taxa seem to be either synonyms (including T. berlandi Lawrence from the Democratic Republic of the Congo, T. lepus Suman from Hawaii, and T. lacandonus Brignoli from Guatemala, which are newly synonymized with T. stenaspis) or misplaced in the genus. The modified patella I occurs in four new West African species (T. moca from Bioko and T. fako, T. oku, and T. menchum from Cameroon); unfortunately, those species are also represented only by females. Few other gamasomorphines have patellar spines, and most of those that do have such spines belong to a group of genera in which the males have heavily sclerotized endites, suggesting that Triaeris might belong to that group. Searching West African collections of such taxa revealed two additional new species, T. togo and T. ibadan, that are each represented by both sexes. Female genitalic structure suggests that T. togo is the closest relative of T. stenaspis." ;
+  schema:author "Norman I. Platnick" ;
+  schema:creator "Nadine Dupérré", "Darrell Ubick", "Wouter Fannes" ;
+  schema:datePublished "2012" ;
+  schema:publisher "American Museum Novitates" ;
+  schema:sameAs <https://doi.org/10.1206/3756.2> ;
+  dcterms:identifier "doi:10.1206/3756.2" ;
+  dcterms:subject "Hymenoptera taxonomy and phylogeny", "Lepidoptera: Biology and Taxonomy", "Spider Taxonomy and Behavior Studies" .

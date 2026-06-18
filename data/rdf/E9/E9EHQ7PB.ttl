@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/E9EHQ7PB>
+  a schema:Thesis ;
+  schema:name "River of Injustice: St. Louis's Freedom Suits and the Changing Nature of Legal Slavery in Antebellum America" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=E9EHQ7PB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:E9EHQ7PB" ;
+  schema:description "&lt;p&gt;Slavery and freedom are central issues in the historiography of nineteenth-century America. In the antebellum era (1820-1860), personal status was a fluid concept and was never as simple as black and white. The courts provide a revealing window for examining these ambiguities because court cases often served as the venue for negotiations over who was enslaved and who was free. In St. Louis, enslaved men and women contributed to debates and discussions about the meaning of personal status by suing for their freedom. By questioning their enslavement in freedom suits, slaves played an important role in blurring the law's understanding of slavery; in the process, they incurred the enormous personal risks of abuse and the possibility of sale. &lt;/p&gt;&lt;p&gt;Using the records of over 300 slaves who sued for freedom, as well as a variety of manuscript sources, newspapers, and additional court records, this project traces these freedom suits over time, and examines how slave law and the law of freedom suits shifted, mainly in response to local and national debates over slavery and also to the growing threat of anti-slavery encroachment into St. Louis. When the laws tightened in response to these threats, the outcomes of freedom suits also adjusted, but in ways that did not fit the pattern of increasing restrictions on personal liberty. Instead, the unique situation in St. Louis in the 1840s and 1850s, with its increasingly anti-slavery immigrant population, allowed slaves suing for freedom to succeed at greater rates than in previous decades.&lt;/p&gt;" ;
+  schema:author "Kelly Kennington" ;
+  schema:datePublished "2009" ;
+  schema:publisher "DukeSpace (Duke University)" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade", "Historical Economic and Legal Thought" .

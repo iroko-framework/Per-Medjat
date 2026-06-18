@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LDADYYKY>
+  a schema:Chapter ;
+  schema:name ". Havana Is the Key" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LDADYYKY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LDADYYKY" ;
+  schema:description "A profound relationship exists between Abakuá and Cuban popular music. This chapter lays out evidence for Calabarí presence in the formation of rumba music in the nineteenth century and the use of clave sticks in the rumba and son genres. It also describes how Abakuá composers have consistently recorded their social and ritual history using Abakuá language as well as rhythms and distinctive sounds in commercial recordings." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0008> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0008" ;
+  dcterms:subject "Cuban History and Society" .

@@ -1,0 +1,102 @@
+{
+  "key": "UGJMPWVI",
+  "uri": "https://medjat.irokosociety.org/id/library/UGJMPWVI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=UGJMPWVI",
+  "zotero": {
+    "group": "6479329",
+    "key": "UGJMPWVI",
+    "version": 1404,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/UGJMPWVI",
+    "dateAdded": "2026-05-19T13:29:06Z",
+    "dateModified": "2026-05-19T13:29:06Z"
+  },
+  "display": {
+    "title": "A Short Introduction to the Military Units to Aid Production (UMAP), Cuba, 1965–1968",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Andy Alfonso"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Oxford Research Encyclopedia of Latin American History",
+    "publicationTitle": "Oxford Research Encyclopedia of Latin American History",
+    "bookTitle": "",
+    "journalAbbreviation": "Oxford Research Encyclopedia of Latin American History",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract During the long 1960s, the populist revolt that would be later recognized as the Cuban Revolution plunged into a phase of institutionalization in its promise to arrest a past of imperial rule and usher in a present of social equity. With the construction of the new society came the development of infrastructures that would not only cement the transition to socialism, but that would also underpin the nationalization of foreign companies that dovetailed with both the expropriation of domestic businesses and the implementation of agrarian reforms. Among the incipient institutions, the Military Units to Aid Production (UMAP, for its acronym in Spanish) played a foundational role. Erected in the former province of Camagüey, this system of militarized compounds operated from 1965 to 1968 as agricultural, forced-labor camps for the government to reform citizens who didn’t conform to the status quo. Based on testimonial and informant accounts, historians have estimated that between 25,000 and 35,000 people—among them hippies, vagrants, drug addicts, intellectuals, Catholics, Jehovah’s Witnesses, Abakuá members, homosexuals—were concentrated therein, subjected to different degrees of physical punishment, psychiatric treatment, and ideological reeducation. In the wake of domestic and international backlash, authorities shut down the camps, destroying and classifying records of their activities. That, together with state-driven tactics of media manipulation and control of social memory, produced a gap in Cuban historiography, which continued to deepen until the 21st century. Since 2006, however, efforts to reconstruct the history of the UMAP have been brought to the fore in print and digital sources. Such exposure, in turn, has demonstrated the need to revise the primary literature as well as the scholarly debate surrounding the phenomenon.",
+    "doi": "10.1093/acrefore/9780199366439.013.1107",
+    "url": "https://doi.org/10.1093/acrefore/9780199366439.013.1107",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Andy Alfonso"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Short Introduction to the Military Units to Aid Production (UMAP), Cuba, 1965–1968"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Oxford Research Encyclopedia of Latin American History, 2024."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1093/acrefore/9780199366439.013.1107"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/UG/UGJMPWVI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1093/acrefore/9780199366439.013.1107"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

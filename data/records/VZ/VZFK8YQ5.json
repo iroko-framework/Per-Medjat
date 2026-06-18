@@ -1,0 +1,107 @@
+{
+  "key": "VZFK8YQ5",
+  "uri": "https://medjat.irokosociety.org/id/library/VZFK8YQ5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VZFK8YQ5",
+  "zotero": {
+    "group": "6479329",
+    "key": "VZFK8YQ5",
+    "version": 1920,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VZFK8YQ5",
+    "dateAdded": "2026-05-19T14:18:38Z",
+    "dateModified": "2026-05-19T14:18:38Z"
+  },
+  "display": {
+    "title": "Recasting Caste: Histories of Dalit Transnationalism and the Internationalization of Caste Discrimination.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Purvi Mehta"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation analyzes one strand of post-independence anti-caste activism, that of transnational dalit activism. As an interdisciplinary work of anthropology and history, it draws from multi-site archival and ethnographic research. Each chapter focuses on a particular moment or aspect of transnational dalit activism and its translation of caste-based discrimination into an internationally recognized wrong. Through an exploration of the affective and political bonds activists have developed with communities outside of India, and the simultaneous use and critique of human rights in dalit activism, this dissertation demonstrates how the global field has become critical to the conceptualization and articulation of social justice. Engagements in the global field also set this activism apart from the dominant anti-caste movement of modern India – that of B.R. Ambedkar’s movement for dalit rights. Specifically, in terms of its political strategy, identity politics, and conceptualization of caste, transnational dalit activism departs from Ambedkar’s movement. First, in terms of political strategy, this activism uses human rights discourse to communicate the problems and aspirations of dalits. It seeks support from institutions beyond the nation-state, and it internationalizes caste-based discrimination, ostensibly to connect with social justice movements outside of India and to generate international pressure on the Indian state to act in the interests of dalits. Second, regarding identity politics, this activism emphasizes a similarity in political identity with other groups, which is in contrast to Ambedkar’s use of a minority identity politics that emphasized dalit difference to claim rights. Activists construct dalit identity through analogies with groups outside of India that are perceived as sharing comparable histories of oppression and structural positions in their home societies. Dalit identity is constructed through the citation of other groups and through the projection of membership in a virtual global community of comparably oppressed people. Third, activists have reinterpreted the very notion of “caste,” challenging most academic, popular, and state conceptualizations of the phenomenon. In transnational campaigns, “caste” is recast as a global phenomenon; it is not unique to Hinduism or India, but rather, is a generalizable category, a form of descent-based discrimination that is found across the world.",
+    "doi": "",
+    "url": "https://hdl.handle.net/2027.42/102442",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Diverse Philosophical and Cultural Studies",
+      "Indian Economic and Social Development",
+      "Indian History and Philosophy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Purvi Mehta"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Recasting Caste: Histories of Dalit Transnationalism and the Internationalization of Caste Discrimination."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diverse Philosophical and Cultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indian Economic and Social Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indian History and Philosophy"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VZ/VZFK8YQ5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

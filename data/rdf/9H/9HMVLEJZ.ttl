@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9HMVLEJZ>
+  a schema:Chapter ;
+  schema:name ". Disintegration of the Spanish Empire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9HMVLEJZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9HMVLEJZ" ;
+  schema:description "This chapter reviews the last two decades of colonial rule, including the official termination of the African cabildos de nación, their Three Kings’ Day processions in Havana, and the attempts by police to destroy Abakuá by confiscating their sacred objects. In the emergent Cuban popular theater and music there is evidence of Abakuá used as a symbol of cubanía (Cuban-ness). To illustrate contemporary anecdotes gathered about Abakuá and African-descended General Antonio Maceo, the chapter reviews the significance of Maceo, whose mother is regarded as the “mother of the Cuban nation”." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0007> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0007" ;
+  dcterms:subject "Cuban History and Society" .

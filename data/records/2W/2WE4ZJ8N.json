@@ -1,0 +1,114 @@
+{
+  "key": "2WE4ZJ8N",
+  "uri": "https://medjat.irokosociety.org/id/library/2WE4ZJ8N",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2WE4ZJ8N",
+  "zotero": {
+    "group": "6479329",
+    "key": "2WE4ZJ8N",
+    "version": 1644,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2WE4ZJ8N",
+    "dateAdded": "2026-05-19T14:17:18Z",
+    "dateModified": "2026-05-19T14:17:18Z"
+  },
+  "display": {
+    "title": "Literaturas africanas e afro-brasileira no ensino fundamental II",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "André de Godoy Bueno"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The research presented here analyzes, with Fundamental Education\"s teachers of the public teaching of the city and So Paulo state, the presence of the african and afrobrazilian literatures in the classroom. This purpose is linked to the Law 10.639/2003, whose basic premise is the teaching of african and afro-brazilian history and culture at all educational levels in Brazil. The notion brought for the Law should guide the educational proposals since basic teaching to higher education, being included in the formulation of educational projects in schools and in their classes. In this sense, the search begins for a theoretical and pedagogical approach linked to education. After, there is the consideration about the black people's situation in Brazil, observed since the slave regime on brazilian soil, to the consequences of this historic period for the afrobrazilian populations in the post-abolitionism, culminating with the progressive expansion of rights gained by the afro-descendant population. It follows, then, to the study of the mentioned Law and its obligations, as well as of the affirmative action policies. Later, there's an approach about literary reading in the school environment.",
+    "doi": "10.11606/d.8.2015.tde-11122015-131614",
+    "url": "https://doi.org/10.11606/d.8.2015.tde-11122015-131614",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Linguistics and Education Research",
+      "Literature, Culture, and Criticism",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "André de Godoy Bueno"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Literaturas africanas e afro-brasileira no ensino fundamental II"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2015."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/d.8.2015.tde-11122015-131614"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Education Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2W/2WE4ZJ8N.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/d.8.2015.tde-11122015-131614"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

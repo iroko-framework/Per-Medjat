@@ -1,0 +1,114 @@
+{
+  "key": "QG879K3Y",
+  "uri": "https://medjat.irokosociety.org/id/library/QG879K3Y",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QG879K3Y",
+  "zotero": {
+    "group": "6479329",
+    "key": "QG879K3Y",
+    "version": 1773,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QG879K3Y",
+    "dateAdded": "2026-05-19T14:17:56Z",
+    "dateModified": "2026-05-19T14:17:56Z"
+  },
+  "display": {
+    "title": "Fulcrum of the Union: The Border South and the Secession Crisis, 1859-1861",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Michael F. Robinson"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The Border South states of Delaware, Kentucky, Maryland, and Missouri spurned secession in 1860-61, which has led scholars to conclude that these four slaveholding states were safely ensconced in the Union column from the beginning of the crisis that drew the other slaveholding states into the Confederacy. Historians have often simplified the secession crisis in the Border South, minimizing the likelihood that these states with smaller concentrations of enslaved persons and a more diversified economy and society than the Upper and Lower South would ever leave the Union. This work seeks to add contingency to the story of the Border South during the breakup of the Union and demonstrates that many of the region’s inhabitants actually considered secession a viable option. The Border South remained in the Union not because the region’s white citizenry shared an inherent attachment to the republic, but because conservatives exhaustively labored to beat back the disunionists in their midst and prevent the four states from joining in the secession experiment. This study chronicles the Unionist offensive that neutralized, offset, and frustrated Border South secessionists and by the beginning of 1862 placed the region on solid Union ground. It demonstrates that keeping the Border South in the Union was by no means a facile task or a foregone conclusion. The Unionist offensive centered on protecting slavery, holding out hope that a compromise settlement might avert war, and on maintaining an intersectional conservative collaboration to counteract northern and southern radicals. This dissertation shows that although in terms of raw numbers the institution of slavery had experienced a slow decline in the Border South throughout the antebellum period, the region’s commitment to slavery’s perpetuity remained robust in 1860-61. Moderates pointed to the Constitution and the Fugitive Slave Law to convince their neighbors that only by remaining in the Union could they preserve slavery. The protection of the peculiar institution proved the most influential component of the Unionist offensive in the Border South, which demonstrates that even on the brink of the Civil War the region was no less committed to slavery than the eleven slaveholding states that seceded.",
+    "doi": "10.31390/gradschool_dissertations.894",
+    "url": "https://doi.org/10.31390/gradschool_dissertations.894",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "American History and Culture",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Michael F. Robinson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Fulcrum of the Union: The Border South and the Secession Crisis, 1859-1861"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_dissertations.894"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/QG/QG879K3Y.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_dissertations.894"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

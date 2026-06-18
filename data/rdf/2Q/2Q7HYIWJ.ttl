@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2Q7HYIWJ>
+  a schema:Book ;
+  schema:name "Santería: Correcting the Myths and Uncovering the Realities of a Growing Religion" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2Q7HYIWJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2Q7HYIWJ" ;
+  schema:description "Santería, also known as Yoruba, Lukumi, or Orisha, was originally brought to the Americas from Africa by enslaved peoples destined for the Caribbean and South America. By the late 1980s it was estimated that more than 70 million African and American people participated in, or were familiar with, the various forms of Santeria, including traditional religions in Africa, Vodun in Haiti, Candomble in Brazil, Shango religion in Trinidad, Santeria in Cuba and, of course, variants of all of these in the U.S. Today there are practitioners around the world including Europe and Asia. Because of the secretive nature of the religion, it has been difficult to get accurate and objective information, but here, Clark introduces readers to the religion, explores the basic elements, including the Orisha, and answers the many questions Santeria arouses in observers and practitioners alike. Santería was brought to the United States in two principle waves, one in the early 1960s after the Cuban Revolution and later by the Marielitos who escaped from the island in the 1980s. Since then it has spread to the larger Hispanic community, to the African American community, and to other segments of society as well. Today, practitioners can be found in every state, and interest in Orisha and related traditions has gained popularity. As the number of practitioners has grown so has public awareness. In this compelling introduction, Clark answers such questions as where did this religion come from? What do practioners believe? Is it a cult? What takes place at a ritual event? How does it view death and the afterlife? Is there ritual sacrifice? Clark, a practitioner as well as a scholar of the faith, dispels the myths that surround this religious practice, and brings readers to a better understanding of this growing faith in America." ;
+  schema:author "Clark, Mary Ann" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Praeger" ;
+  dcterms:identifier "isbn:979-8-216-01082-1" ;
+  dcterms:subject "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

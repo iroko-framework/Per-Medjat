@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/II5KVLMW>
+  a schema:Thesis ;
+  schema:name "What is the maid's home? the intersection between space, inequality and experiences in domestic work" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=II5KVLMW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:II5KVLMW" ;
+  schema:description "Domestic work is carried out in Brazil by a majority of black women. Historically, this work began to be delegated to domestic slaves who were brought from Africa through the slave trade and, even after the abolition of slavery in 1888, these relationships between masters and slaves did not end. After many struggles and achievements, domestic work was regulated by the Consolidation of Labor Laws (CLT) in 2015, when Complementary Law No. 150, known as PEC das Domésticas, was regulated. However, research shows that the number of workers who still work irregularly is exorbitant. Numbers also show that the majority of workers in this role are black women and that they receive less than they should because they do not have a formal contract. Given this scenario, it is clear that domestic workers inhabit, in their daily lives, places where social, symbolic and economic differences are accentuated, under a disguised familiarity. This study aims to understand the concept of home for workers who move between places that evoke affection and familiarity while also evoking differences and inequalities. The research is carried out bibliographically at first, where there is a deepening of guiding theoretical questions; secondly, the research is carried out in the form of semi-structured interviews with domestic workers. It is understood that issues such as affection, inequalities and the job market directly influence the definition of the meaning of home, for the interviewees." ;
+  schema:author "Queren Silva Lima" ;
+  schema:datePublished "2024" ;
+  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:subject "Migration, Racism, and Human Rights", "Race, Identity, and Education in Brazil", "Urban Development and Societal Issues" .

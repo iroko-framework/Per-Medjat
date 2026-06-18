@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JE9XHT3M>
+  a schema:ScholarlyArticle ;
+  schema:name "Tourism and sexual violence and exploitation in Jamaica: contesting the ‘trafficking and modern slavery’ frame" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JE9XHT3M> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JE9XHT3M" ;
+  schema:description "Article by Katie Cruz, Julia O’Connell Davidson and Jacqueline Sanchez Taylor, posted to Journal of the British Academy, volume 7, supplementary issue 1 (Tackling Modern Slavery: Problems and Possibilities), in 2019." ;
+  schema:author "Katie Cruz" ;
+  schema:creator "Julia O’Connell Davidson", "Jacqueline Sánchez Taylor" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Journal of the British Academy" ;
+  schema:sameAs <https://doi.org/10.5871/jba/007s1.191> ;
+  dcterms:identifier "doi:10.5871/jba/007s1.191" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Migration, Ethnicity, and Economy", "Sex work and related issues" .

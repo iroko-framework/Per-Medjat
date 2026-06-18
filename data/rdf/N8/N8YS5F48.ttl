@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/N8YS5F48>
+  a schema:ScholarlyArticle ;
+  schema:name "A spatio‐temporal analysis of ‘Oro cult marae in the’ Opunohu Valley, Mo'orea, Society Islands" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=N8YS5F48> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:N8YS5F48" ;
+  schema:description "ABSTRACT A new war cult dedicated to the god 'Oro emerged in late prehistory in the Society Islands and was linked to shifts in temple architecture, religious rituals, and sacred regalia. Legends suggest that this war cult developed in the Leeward Islands and was translocated to the Windward group prior to European contact. This article summarizes ethnohistoric data for the 'Oro war cult, including its relationship to new temple styles in the Windward group constructed from worked rounded stones. Such temples are found in both inland and coastal contexts. Extant chronological data on Windward marae of the 'Oro style are synthesized. A new spatio‐temporal case study of four 'Oro style temples from the 'Opunohu Valley, Mo'orea demonstrates considerable variability in temple morphology and chronology. This is linked to differences among socio‐political maneuverings of high status lineage chiefs versus lower status lineage chiefs in the 'Opunohu Valley and perhaps to functional variation among the types of 'Oro style marae structures found in inland contexts. The new chronology suggests a rapid translocation of the 'Oro style war cult into the Windward group, somewhat earlier than previous archaeological work had suggested." ;
+  schema:author "Jennifer G. Kahn" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Archaeology in Oceania/Archæology & physical anthropology in Oceania" ;
+  schema:sameAs <https://doi.org/10.1002/j.1834-4453.2010.tb00085.x> ;
+  dcterms:identifier "doi:10.1002/j.1834-4453.2010.tb00085.x" ;
+  dcterms:subject "Archaeology and ancient environmental studies", "Geology and Paleoclimatology Research", "Pacific and Southeast Asian Studies" .

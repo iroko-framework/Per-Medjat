@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZC4Y94QG>
+  a schema:ScholarlyArticle ;
+  schema:name "Gender Exclusion: A Study of Oro Cult among Awori of Ojo, Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZC4Y94QG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZC4Y94QG" ;
+  schema:author "Johnson Oluwole Ayodele" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Journal of International Social Research" ;
+  schema:sameAs <https://doi.org/10.17719/jisr.20153813665> ;
+  dcterms:identifier "doi:10.17719/jisr.20153813665" ;
+  dcterms:subject "Religion and Sociopolitical Dynamics in Nigeria" .

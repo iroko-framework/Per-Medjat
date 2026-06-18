@@ -1,0 +1,73 @@
+{
+  "key": "HEU3FCTC",
+  "uri": "https://medjat.irokosociety.org/id/library/HEU3FCTC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HEU3FCTC",
+  "zotero": {
+    "group": "6479329",
+    "key": "HEU3FCTC",
+    "version": 74,
+    "itemType": "webpage",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HEU3FCTC",
+    "dateAdded": "2026-05-05T22:41:49Z",
+    "dateModified": "2026-05-05T22:42:13Z"
+  },
+  "display": {
+    "title": "How Europe underdeveloped Africa - Tulane University",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [],
+    "year": "",
+    "date": "",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Web Page",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "How Europe underdeveloped Africa - Tulane University"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Web Page"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HE/HEU3FCTC.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

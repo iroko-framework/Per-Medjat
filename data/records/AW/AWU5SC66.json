@@ -1,0 +1,119 @@
+{
+  "key": "AWU5SC66",
+  "uri": "https://medjat.irokosociety.org/id/library/AWU5SC66",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AWU5SC66",
+  "zotero": {
+    "group": "6479329",
+    "key": "AWU5SC66",
+    "version": 3438,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AWU5SC66",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Speculative Fictions of Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Madhu Dubey"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "American Literature",
+    "publicationTitle": "American Literature",
+    "bookTitle": "",
+    "journalAbbreviation": "American Literature",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "82",
+    "issue": "4",
+    "pages": "779-805",
+    "abstract": "Since the 1970s, African American novelists have persistently drawn on antirealist genres (including science fiction, fantasy, ghost stories, and magic realism) to revisit the history of slavery. Focusing on literary and mass-market fiction by authors such as Stephen Barnes, David Bradley, Octavia Butler, James McBride, and Phyllis Alesia Perry, Dubey explores the various ways the generic choice of speculative fiction sponsors a purposefully antihistorical approach to the past. Speculative novels of slavery employ paranormal narrative devices of time-travel and supernatural possession in order to foster an immediate and experiential, affective and embodied knowledge of slavery. Revealing the haunting afterlife of the past in the present, the time-bending mechanisms that are distinctive of the genre of speculative fiction narrate the past of slavery as something other or more than history. Through their refusal to grasp slavery as an occurrence that has decisively passed into the register of history, these novels dispute the meta-narrative of U.S. racial history—as a progressive movement launched with the abolition of slavery and culminating in the Civil Rights movement—that began to gain momentum in the 1970s. Dubey argues that the suspicion of history found in speculative fictions of slavery bespeaks a strong sense of uncertainty and pessimism about future prospects for racial politics in post–Civil Rights decades.",
+    "doi": "10.1215/00029831-2010-045",
+    "url": "https://doi.org/10.1215/00029831-2010-045",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Gothic Literature and Media Analysis",
+      "Literature, Magical Realism, García Márquez",
+      "Utopian, Dystopian, and Speculative Fiction"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Madhu Dubey"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Speculative Fictions of Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "American Literature, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "779-805 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/00029831-2010-045"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gothic Literature and Media Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Magical Realism, García Márquez"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Utopian, Dystopian, and Speculative Fiction"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AW/AWU5SC66.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/00029831-2010-045"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

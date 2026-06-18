@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/75F4QC2L>
+  a schema:Chapter ;
+  schema:name ". Planting Abakuá in Cuba, 1830s to 1860s" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=75F4QC2L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:75F4QC2L" ;
+  schema:description "This chapter uses the concept of planting, of activating the brotherhood—shared by Ékpè and Abakuá—to describe how Abakuá expanded from the 1830s to 1860s in a cosmopolitan urban environment, and in the face of repression as experienced in the wake of the infamous Conspiracy of La Escalera in the 1840s. Documenting the process of the transmission of Ékpè into Cuba, the chapter lists the major lodges founded and identifies their possible Cross River precedents. In the 1860s, Abakuá expanded into the nearby port city of Matanzas, with the sponsorship of Havana lodges." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0004> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0004" ;
+  dcterms:subject "Cuban History and Society" .

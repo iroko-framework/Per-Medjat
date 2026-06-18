@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JKVWC426>
+  a schema:ScholarlyArticle ;
+  schema:name "\"Istwa Sa A Pa Senp\": Body, Land, And Family In Haitian Afrofuturist Fiction" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JKVWC426> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JKVWC426" ;
+  schema:description "This project is primarily a collaboration with eleven Haitian and Haitian-American authors on a collection of short Afrofuturist fiction stories. In analyzing and interpreting their works, I focus especially on the figures of zonbi and lougawou. Empathizing with these multifaceted, sometimes-monstrous beings emphasizes the importance of becoming comfortable and familiar with fragmented selves. In addition to the stories themselves, I discuss the writing and genre-defining processes that shaped them. We began with two workshops, one in Miami and Port-au-Prince, kept in touch with each other via groupchat and social media while writing, and peer-edited and reviewed each other’s submissions. A collective, working definition of Afrofuturism within the Haitian context emerged over the course of this months-long engagement. We identified religious phenomena (the Haitian Creole term for it is mistik) and unresolved endings as noteworthy features that appeared across stories in our collection." ;
+  schema:author "Sora Edwards-Thro" ;
+  schema:datePublished "2018" ;
+  schema:publisher "W&M Publish (College of William & Mary)" ;
+  dcterms:subject "Caribbean and African Literature and Culture" .

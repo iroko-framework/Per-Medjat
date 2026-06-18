@@ -1,0 +1,107 @@
+{
+  "key": "UKM9KL5H",
+  "uri": "https://medjat.irokosociety.org/id/library/UKM9KL5H",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=UKM9KL5H",
+  "zotero": {
+    "group": "6479329",
+    "key": "UKM9KL5H",
+    "version": 3963,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/UKM9KL5H",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Revista Ambiente y Desarrollo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Revista Ambiente y Desarrollo"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "publicationTitle": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "bookTitle": "",
+    "journalAbbreviation": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "http://revistas.javeriana.edu.co/index.php/ambienteydesarrollo/article/view/20073",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Environmental and Ecological Studies",
+      "Environmental and sustainability education",
+      "Water Resource Management and Quality"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Revista Ambiente y Desarrollo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Revista Ambiente y Desarrollo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Environmental and Ecological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Environmental and sustainability education"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Water Resource Management and Quality"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/UK/UKM9KL5H.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

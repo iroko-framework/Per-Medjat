@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/G7VEUEB2>
+  a schema:Thesis ;
+  schema:name "Contested nationalism and the 1932 overthrow of the absolute monarchy in Siam" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G7VEUEB2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G7VEUEB2" ;
+  schema:description "In contrast to the other nationalisms of Southeast Asia, popular nationalisms engendered by the colonial experience which eventually served to undermine the basis of colonial rule, Thai nationalism has been frequently characterized as an elite discourse of political legitimation. Faced with the threat of European imperial advance in the region, a succession of Jakkri monarchs are thought to have formulated and disseminated the underlying tenets of an official nationalist discourse in a twofold effort to mobilize the Siamese populace and build popular support for the dynastic state. And in this endeavor, they are generally held to have succeeded, enhancing the legitimacy of the Siamese throne and creating an ideological framework for the emergence of the modern Thai nation-state. Drawing upon a variety of press and archival sources, this study is an attempt to construct an alternate account of the Thai nation's early history. Its central thesis is that Thai nationalism evolved in much the same manner as the nationalisms of neighboring colonial states -emerging as the contested discourse of a ruling elite and a disenfranchised urban literati, gaining momentum and shape as an intellectual movement for popular sovereignty, and ultimately reaching a fruition of sorts with the overthrow of the absolute monarchy on 24 June 1932, an event which can be said to mark the figurative 'liberation' of the Thai nation." ;
+  schema:author "Matthew P. Copeland" ;
+  schema:datePublished "1993" ;
+  schema:publisher "ANU Open Research (Australian National University)" ;
+  schema:sameAs <https://doi.org/10.25911/5d7785f1c8f41> ;
+  dcterms:identifier "doi:10.25911/5d7785f1c8f41" ;
+  dcterms:subject "Asian Geopolitics and Ethnography", "Cambodian History and Society", "Southeast Asian Sociopolitical Studies" .

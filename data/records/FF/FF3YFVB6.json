@@ -1,0 +1,107 @@
+{
+  "key": "FF3YFVB6",
+  "uri": "https://medjat.irokosociety.org/id/library/FF3YFVB6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FF3YFVB6",
+  "zotero": {
+    "group": "6479329",
+    "key": "FF3YFVB6",
+    "version": 3382,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FF3YFVB6",
+    "dateAdded": "2026-05-20T16:34:27Z",
+    "dateModified": "2026-05-20T16:34:27Z"
+  },
+  "display": {
+    "title": "Vodou et évangélisation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mésina Paulémon"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "Knowledge UdeS (Institutional Deposit of the University of Sherbrooke)",
+    "publicationTitle": "Knowledge UdeS (Institutional Deposit of the University of Sherbrooke)",
+    "bookTitle": "",
+    "journalAbbreviation": "Knowledge UdeS (Institutional Deposit of the University of Sherbrooke)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Arrivé en Haïti avec les Noirs d'Afrique aux 15e et 16e siècles, le vodou est depuis ce temps un élément de la culture haïtienne. Il y a aujourd'hui une coexistence des catholiques, des protestants avec les vodouisants d'où le problème de syncrétisme qui caractérise le vodou. Le silence entretenu à son sujet, dans divers milieux et pour différentes raisons, renforce les préjugés vieux de plusieurs siècles et rend difficile l'évangélisation. Évangéliser la personne vodouisante suppose de bien connaître sa perception de Dieu et les valeurs véhiculées par le vodou. Un sondage auprès des jeunes et d'adultes a enrichi mes connaissances sur le vodou et les moyens d'une évangélisation en Haïti. C'est à partir d'une catéchèse respectueuse des personnes vodouisantes et dans un dialogue oeecuménique [i.e. oecuménique], que les témoins-catéchètes pourront former des personnes capables de s'engager à suivre l'exemple du Christ dans la pratique et l'annonce de la Bonne Nouvelle aujourd'hui.",
+    "doi": "",
+    "url": "http://hdl.handle.net/11143/5574",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Language, Linguistics, Cultural Analysis",
+      "Linguistic and Sociocultural Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mésina Paulémon"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Vodou et évangélisation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Knowledge UdeS (Institutional Deposit of the University of Sherbrooke), 2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic and Sociocultural Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FF/FF3YFVB6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

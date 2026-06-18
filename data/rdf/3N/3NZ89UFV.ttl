@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3NZ89UFV>
+  a schema:ScholarlyArticle ;
+  schema:name "An Episode in the History of an Acoustic Mask" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3NZ89UFV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3NZ89UFV" ;
+  schema:description "In 1908, two black Cuban brothers, held a temple on Philadelphia’s North Fairmount Avenue, which appears to have combined Edinsonian sound technology with elements from the ritual repertoire of the Abakuá male esoteric brotherhood. I suggest that the technologically enriched “echo” of the Leal brothers can be analysed heuristically as the locus of a remarkable convergence between phonic and auditory ideologies underlying the mediation of the divine in the Abakuá, and acoustic transmission technologies through time and space – particularly telephony and phonography – that had begun to reconfigure the Western auditory worlds by the second half of the 19th century." ;
+  schema:author "Stephan Palmié" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Archives de sciences sociales des religions" ;
+  schema:sameAs <https://doi.org/10.4000/assr.46061> ;
+  dcterms:identifier "doi:10.4000/assr.46061" ;
+  dcterms:subject "Asian American and Pacific Histories", "Culinary Culture and Tourism", "Historical Studies and Socio-cultural Analysis", "Latin American and Latino Studies", "Music History and Culture", "Travel Writing and Literature" .

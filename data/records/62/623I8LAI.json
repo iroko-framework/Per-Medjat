@@ -1,0 +1,114 @@
+{
+  "key": "623I8LAI",
+  "uri": "https://medjat.irokosociety.org/id/library/623I8LAI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=623I8LAI",
+  "zotero": {
+    "group": "6479329",
+    "key": "623I8LAI",
+    "version": 3331,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/623I8LAI",
+    "dateAdded": "2026-05-20T16:33:56Z",
+    "dateModified": "2026-05-20T16:33:56Z"
+  },
+  "display": {
+    "title": "PÅ GENBESØG I MAGISKE VERDENER: Et essay",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Inger Sjørslev"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Tidsskriftet Antropologi",
+    "publicationTitle": "Tidsskriftet Antropologi",
+    "bookTitle": "",
+    "journalAbbreviation": "Tidsskriftet Antropologi",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "61",
+    "pages": "",
+    "abstract": "In classical anthropological literature, magic has been dealt with as technologies&#x0D; that are related to uncertainty and control. The present essay sets out from these&#x0D; themes, but argues that a theory of magic, as well, has to look at the triangle&#x0D; between matter or substance, form and holistic images, and techniques and&#x0D; actions. The incentive to discuss magic in the light of newer anthropological&#x0D; theory of materiality derives from a visit to the exhibition at the Tropenmuseum&#x0D; in Amsterdam: Vodou – a way of life. On the basis of impressions from this&#x0D; exhibition, particularly the encounter with the figures of the bizango spirits, the&#x0D; article suggests that magic has to do with materiality in ways that can be further&#x0D; illuminated by a closer attention to fetish and to sacrifice. The elaboration of&#x0D; materiality into different forms is salient in both of these phenomena. Magic,&#x0D; then, has to do with the shaping of matter, whether in form of packages where&#x0D; the substance of content may be of significance, or in the form of destruction.&#x0D; Keywords: materiality, structuring, technique, fetich, sacrifice, voodoo.&#x0D;",
+    "doi": "10.7146/ta.v0i61.106859",
+    "url": "https://doi.org/10.7146/ta.v0i61.106859",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Folklore, Mythology, and Literature Studies",
+      "Historical and Archaeological Studies",
+      "Religious Studies and Spiritual Practices"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Inger Sjørslev"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "PÅ GENBESØG I MAGISKE VERDENER: Et essay"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Tidsskriftet Antropologi, 2010."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.7146/ta.v0i61.106859"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folklore, Mythology, and Literature Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Archaeological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religious Studies and Spiritual Practices"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/62/623I8LAI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.7146/ta.v0i61.106859"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

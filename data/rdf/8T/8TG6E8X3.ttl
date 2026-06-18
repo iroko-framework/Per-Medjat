@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8TG6E8X3>
+  a schema:ScholarlyArticle ;
+  schema:name "Integrating ecosystem services into conservation strategies for freshwater and marine habitats: a review" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8TG6E8X3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8TG6E8X3" ;
+  schema:description "Abstract Over the last two decades, there has been increasing public and political recognition of society's dependency upon natural habitat complexity and ecological processes to sustain provision of crucial ecosystem services, ranging from supplying potable water through to climate regulation. How has the ecosystem‐services perspective been integrated into strategies for aquatic habitat conservation? Literature on conservation of diverse freshwater and marine habitats was reviewed to assess the extent to which past and current strategies specifically targeted ecosystem services, and considered ecosystem functions, potential trade‐offs and social issues when formulating protection measures for conserving aquatic habitats. Surprisingly few published examples exist where comprehensive assessment of ecosystem services supported development of conservation plans. Seldom were aquatic habitat conservation objectives framed in terms of balancing trade‐offs, assessing social values and evaluating suites of ecosystem services under different strategies. Time frames for achieving these objectives were also rarely specified. There was no evidence for fundamental differences between marine and freshwater habitats with respect to their ecosystem services that should be considered when setting targets for their conservation. When an ecosystem‐service perspective is used for setting objectives in aquatic habitat conservation, the following actions are recommended: (1) explicitly listing and evaluating full suites of ecosystem services to be conserved; (2) identifying current and future potential trade‐offs arising from conservation; (3) specifying time frames within which particular strategies might protect or enhance desired services; and (4) predicting how different proposed strategies might affect each ecosystem function, service flow and public benefit. This approach will help ensure that less‐apparent ecosystem services (e.g. regulating, supporting) and their associated ecosystem functions receive adequate recognition and protection in aquatic conservation of freshwater and marine habitats. However, conservation objectives should not focus solely on protecting or enhancing ecosystem services but complement current strategies targeting biodiversity and other conservation goals. Copyright © 2016 John Wiley &amp; Sons, Ltd." ;
+  schema:author "Andrew J. Boulton" ;
+  schema:creator "Jan Ekebom", "Gísli Már Gíslason" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Aquatic Conservation Marine and Freshwater Ecosystems" ;
+  schema:sameAs <https://doi.org/10.1002/aqc.2703> ;
+  dcterms:identifier "doi:10.1002/aqc.2703" ;
+  dcterms:subject "Coastal wetland ecosystem dynamics", "Conservation, Biodiversity, and Resource Management", "Land Use and Ecosystem Services" .

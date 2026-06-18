@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M2E3LL4Y>
+  a schema:ScholarlyArticle ;
+  schema:name "La Sociedad Abakua Enigmas y realidades di Ediel Gonzales Herrera, Ediciones Extramuros, La Habana, 2017" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M2E3LL4Y> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M2E3LL4Y" ;
+  schema:author "Giovanna Campani" ;
+  schema:datePublished "2019" ;
+  schema:publisher "DOAJ (DOAJ: Directory of Open Access Journals)" ;
+  schema:sameAs <https://doi.org/10.13128/ccselap-24510> ;
+  dcterms:identifier "doi:10.13128/ccselap-24510" ;
+  dcterms:subject "Cuban History and Society", "Spanish Culture and Identity", "Spanish Literature and Culture Studies" .

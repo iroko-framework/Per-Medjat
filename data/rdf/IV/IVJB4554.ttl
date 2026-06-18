@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IVJB4554>
+  a schema:ScholarlyArticle ;
+  schema:name "Bruxos e Magos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IVJB4554> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IVJB4554" ;
+  schema:description "Este trabalho está relacionado com um tipo específico de abordagem da problemática da possessão e da feitiçaria em sociedades negro-africanas, permitindo situar a questão em nível material e concreto que transcende o enfoque meramente religioso ou psicológico. Essa abordagem envolve necessariamente a noção de pessoa tal como se formula no quadro de valores civilizatórios da África profunda e o chamado princípio vital de animalidade e espiritualidade de “duplo” ou “sombra”." ;
+  schema:author "Fábio Carvalho Leite" ;
+  schema:datePublished "1992" ;
+  schema:publisher "África" ;
+  schema:sameAs <https://doi.org/10.11606/issn.2526-303x.v0i14-15p69-80> ;
+  dcterms:identifier "doi:10.11606/issn.2526-303x.v0i14-15p69-80" ;
+  dcterms:subject "Development, Ethics, and Society", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .

@@ -1,0 +1,102 @@
+{
+  "key": "EML6BSVZ",
+  "uri": "https://medjat.irokosociety.org/id/library/EML6BSVZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EML6BSVZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "EML6BSVZ",
+    "version": 2328,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EML6BSVZ",
+    "dateAdded": "2026-05-19T14:20:03Z",
+    "dateModified": "2026-05-19T14:20:03Z"
+  },
+  "display": {
+    "title": "Controlling the Dragon: An ethno-historical analysis of social engagement among the Kamoro of South-West New Guinea (Indonesian Papua/Irian Jaya)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Todd S. Harple"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "ANU Open Research (Australian National University)",
+    "publicationTitle": "ANU Open Research (Australian National University)",
+    "bookTitle": "",
+    "journalAbbreviation": "ANU Open Research (Australian National University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis examines how the Kamoro (also known as the Mimika) people of the south-west coast of Papua (former Irian Jaya), Indonesia have adapted to major political and economic changes over a long history of interactions with outsiders. More specifically, it is an ethnohistorical analysis of Kamoro strategies of engagement dating back to the seventeenth century, but focusing on the twentieth century. Taking ethnohistory to most generally refer to the investigation of the social and cultural distinctiveness of historical consciousness, this thesis examines how perceptions and activities of the past shape interpretations of the present. Though this thesis privileges Kamoro perspectives, it juxtaposes them against broader ethnohistorical analyses of the “outsiders” with whom they have interacted. For the Kamoro, amoko-kwere, narratives about the ancestral (and eternal) cultural heroes, underlie indigenous modes of historical consciousness which are ultimately grounded in forms of social reciprocity. One key characteristic of the amoko-kwere is the incorporation of foreign elements and their reformulation as products of indigenous agency. As a result of this reinterpretation expectations are raised concerning the exchange of foreign material wealth and abilities, both classified in the Kamoro language as kata. Foreign withholding of kata emerges as a dominant theme in amoko-kwere and is interpreted as theft, ultimately establishing relationships of negative reciprocity between the Kamoro and the powerful outsiders. These feelings are mirrored in contemporary Kamoro conceptions of their relationships with the Indonesian State and the massive PT Freeport Indonesia Mining Company who use a significant amount of Kamoro land for deposition of mining waste (tailings) and for the development of State and company infrastructure.",
+    "doi": "10.25911/5d7a29e964c71",
+    "url": "https://doi.org/10.25911/5d7a29e964c71",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Pacific and Southeast Asian Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Todd S. Harple"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Controlling the Dragon: An ethno-historical analysis of social engagement among the Kamoro of South-West New Guinea (Indonesian Papua/Irian Jaya)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "ANU Open Research (Australian National University), 2000."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25911/5d7a29e964c71"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pacific and Southeast Asian Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EM/EML6BSVZ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25911/5d7a29e964c71"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

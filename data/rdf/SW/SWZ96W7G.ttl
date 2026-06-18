@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SWZ96W7G>
+  a schema:ScholarlyArticle ;
+  schema:name "L. Cabrera. La sociedad secreta Abakuá, narrada por viejos adeptos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SWZ96W7G> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SWZ96W7G" ;
+  schema:description "Palau-Marti Montserrat. L. Cabrera. La sociedad secreta Abakuá, narrada por viejos adeptos. In: Revue de l'histoire des religions, tome 157, n°2, 1960. pp. 257-258." ;
+  schema:author "Montserrat Palau-Marti" ;
+  schema:datePublished "1960" ;
+  schema:publisher "Persée (Ministère de lEnseignement supérieur et de la Recherche)" ;
+  dcterms:subject "History and Politics in Latin America", "Indigenous Cultures and History", "Latin American Cultural Politics" .

@@ -1,0 +1,142 @@
+{
+  "key": "GLPP9GMD",
+  "uri": "https://medjat.irokosociety.org/id/library/GLPP9GMD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GLPP9GMD",
+  "zotero": {
+    "group": "6479329",
+    "key": "GLPP9GMD",
+    "version": 136,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GLPP9GMD",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Atlantic Creoles in the age of revolutions",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Landers, Jane"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Harvard University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Cambridge, MA",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Sailing the tide of a tumultuous era of Atlantic revolutions, a remarkable group of African-born and African-descended individuals transformed themselves from slaves into active agents of their lives and times. Through prodigious archival research, Jane Landers radically alters our vision of the breadth and extent of the Age of Revolution, and our understanding of its actors.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-674-26528-8",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Black people -- Caribbean Area -- History -- 18th",
+      "Black people -- Caribbean Area -- History -- 19th",
+      "Caribbean Area -- History -- 1810-1945",
+      "Caribbean Area -- History -- To 1810",
+      "Creoles -- Caribbean Area -- History -- 18th centu",
+      "Creoles -- Caribbean Area -- History -- 19th centu",
+      "Revolutions -- Caribbean Area -- History -- 18th c",
+      "Revolutions -- Caribbean Area -- History -- 19th c"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Landers, Jane"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Atlantic Creoles in the age of revolutions"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge, MA: Harvard University Press, 2010."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-674-26528-8"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Caribbean Area -- History -- 18th"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Caribbean Area -- History -- 19th"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean Area -- History -- 1810-1945"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean Area -- History -- To 1810"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Creoles -- Caribbean Area -- History -- 18th centu"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Creoles -- Caribbean Area -- History -- 19th centu"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Revolutions -- Caribbean Area -- History -- 18th c"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Revolutions -- Caribbean Area -- History -- 19th c"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/GL/GLPP9GMD.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

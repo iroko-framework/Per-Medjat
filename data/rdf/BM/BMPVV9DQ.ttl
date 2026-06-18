@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BMPVV9DQ>
+  a schema:Thesis ;
+  schema:name "The Wolof of Saloum : social structure and rural development in Senegal" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BMPVV9DQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BMPVV9DQ" ;
+  schema:description "<p/>The study refers to the Wolof of Saloum, Senegal. Its aim was to examine which factors had induced change in rural stratification, co-operation and cohesion. Their significance for administration of rural development was studied. Views of historians and anthropologists are discussed. Literature was examined to determine the processes which had undermined the traditional Wolof states. In this manner, rural development administration was also studied since the colonial period. Fieldwork lasted one and a half years; for one year, a community-study was conducted, the other months were spent on completing questionnaires in the Arrondissement Medinah Sabach.<p/>The Islam reform movement had already undermined the power of the Wolof rulers before the spread of groundnut as a cashcrop and the consequent establishment of French colonial rule. This movement did not alter the differences in status and in influence between freeborn villagers and their slaves. In Saloum, the slaves founded independent farms after the 1st World War. Wealth, acquired by cultivating groundnuts and performing commercial sideactivities, has also become important to obtain influence. In the village studied, some descendents of slaves had become rich and a few were members of the councils of the village cooperative and party-branch. Agricultural co-operation was partly an expression of local stratification. Aid in labour was also given to in-laws, friends and the poor. Although wage labour had increased, co-operation had not been decreased by incorporation in the moneyeconomy. This incorporation and the application of Islam law had disintegrated the compound into households and the households into individual farms. In this process, other factors were probably important too. The government organizations concerned with the increase in agricultural production had insufficient knowledge of fragmentation of the domestic units, hierarchy in local power networks and the aristocratic culture pattern. It is likely that the propagated innovations did not decrease indebtedness and the difference in wealth between villagers." ;
+  schema:author "L.B. Venema" ;
+  schema:datePublished "1978" ;
+  schema:sameAs <https://doi.org/10.18174/16142> ;
+  dcterms:identifier "doi:10.18174/16142" ;
+  dcterms:subject "African Studies and Ethnography", "African history and culture studies", "Agriculture and Rural Development Research" .

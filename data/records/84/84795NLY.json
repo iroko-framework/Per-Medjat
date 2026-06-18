@@ -1,0 +1,107 @@
+{
+  "key": "84795NLY",
+  "uri": "https://medjat.irokosociety.org/id/library/84795NLY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=84795NLY",
+  "zotero": {
+    "group": "6479329",
+    "key": "84795NLY",
+    "version": 3996,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/84795NLY",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "The Nigrescent Beyond: Mexico, the United States and the Psychic Vanishing of Blackness by Ricardo A. Wilson II",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Francisco Pérez Marsilla"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "MLN",
+    "publicationTitle": "MLN",
+    "bookTitle": "",
+    "journalAbbreviation": "MLN",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "137",
+    "issue": "2",
+    "pages": "390-391",
+    "abstract": "Reviewed by: The Nigrescent Beyond: Mexico, the United States and the Psychic Vanishing of Blackness by Ricardo A. Wilson II Francisco Pérez Marsilla Wilson II, Ricardo A. The Nigrescent Beyond: Mexico, the United States and the Psychic Vanishing of Blackness. Northwestern UP, 2020. 150 pp. The word \"Nigrescent\" evokes brightness, sublime glow, fluorescence. These qualities bring opal to mind: iridescent, irresistible, mineral, light-yet dense. On the cover, Keith Doles' painting Remains (2018) traces black brushstrokes of different intensities, scratched by red and white sparks. Here and there, some faint white, blue, and ocher hues finish the abstract composition. The effect left by Wilson's mixing of in-depth criticism with poetic desire suggests a lack of shine, but as when blackness is recovered from black. His intricate polemical readings of persistent racial identities in the United States and Mexico infuse such blackness with permanence and endless dialogic possibilities. Wilson guides the reader through a parallel study of some three hundred years in the steady national erasure of blackness across American and Mexican national discourses; from the times of Abraham Lincoln and Antonio de Mendoza to Barack Obama and Felipe Calderón. Each of the five chapters, plus the introduction and afterword, can be read independently, but best as they flow into each other, as ideas of blackness become mobilized by powers and filter through, borders, archives, cultural commodifiers. Wilson's work on race plurals represents the \"modeling of a practice of a sustained, if anxious, awareness of […] the nigrescent beyond\" (5, emphasis from the original)–a reflexive, circular phenomenology of \"that which lies, irretrievable, beyond the horizon of the process of vanishing itself\" (5). He insists a bit too much on his debt to Colson Whitehead's Zone One, from which he borrowed \"nigrescence\" in a previous talk: \"The Nigrescent Beyond: On Colson Whitehead and Future\" (2016). Nevertheless, the sparkle of nigrescence does function in his book as a mnemonic prompter of the illegible; a re-reading exercise, not of what can allegedly be returned to a prior state, but instead remembered, empowered, carried on. Wilson displays two powerful theoretical moments. The first one unfolds through the second half of the first chapter (23 to 31), as he applies the twin concepts of incorporation and introjection, drawn from Nicolas Abraham and Maria Torok. These terms—respectively identified with and transformed into fantasy and process—define the site of the unspoken, but also that which achieves utterance as it plays itself out. To illustrate such purpose, the author puts side-by-side the execution of the slave rebel Nat Turner and the legal recognition of the community founded by the maroon leader Yanga, thus showing the antagonistic paths of the erasure of radical blackness in the United States and Mexico. These pages set up a cluster of nuanced comparisons for the entire book. At the heart of Wilson's historicity lie disparate instances of rearticulated intersectional pleasure. José de Vasconcelos's Raza cósmica transforms into a cosmic twinkle, further blown into a black hole. The predictable metaphor of infinite blackness yields the fascinating application of the \"apparent horizon\" in Wilson's awry cosmography of blackness, particularly in the Afro-Mexican [End Page 390] field. He describes the phenomenon of cosmic loss as the boundary through which \"some information will pass through, but it will be chaotically mutated in such a way that 'it will effectively be lost'\" (45). The reader is drawn into Wilson's ultimate claim about irrecoverability. Namely, Wilson opposes what remains irrecoverable to the excavational mode he sees prevalent in African American and Native American studies. Wilson enters next in conversation with canonized voices in Latin American and black studies, such as Octavio Paz, Carlos Fuentes, Paul Gilroy; notable archeologists of living fossils, resurrected as symbolic accessories of the intersecting races buried in national character. For this, he turns to the work of Erin Graff Zivin, elaborating on the idea of an-archeaological mode of thought, as against the recoverability of some core fantasy of characterhood. For example, when he relies on the work of Emiko Saldívar Tanaka in order to help the reader understand what informs the fortunes and misfortunes of the Mexican...",
+    "doi": "10.1353/mln.2022.0024",
+    "url": "https://doi.org/10.1353/mln.2022.0024",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Francisco Pérez Marsilla"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Nigrescent Beyond: Mexico, the United States and the Psychic Vanishing of Blackness by Ricardo A. Wilson II"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "MLN, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "390-391 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/mln.2022.0024"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/84/84795NLY.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/mln.2022.0024"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

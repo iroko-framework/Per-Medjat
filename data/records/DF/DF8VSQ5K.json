@@ -1,0 +1,101 @@
+{
+  "key": "DF8VSQ5K",
+  "uri": "https://medjat.irokosociety.org/id/library/DF8VSQ5K",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DF8VSQ5K",
+  "zotero": {
+    "group": "6479329",
+    "key": "DF8VSQ5K",
+    "version": 2079,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DF8VSQ5K",
+    "dateAdded": "2026-05-19T14:19:25Z",
+    "dateModified": "2026-05-19T14:19:25Z"
+  },
+  "display": {
+    "title": "Beyond the Erotics of Orientalism: Homeland Security, Liberal War and the Pacification of the Global Frontier",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Melanie Richter-Montpetit"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "YorkSpace (York University)",
+    "publicationTitle": "YorkSpace (York University)",
+    "bookTitle": "",
+    "journalAbbreviation": "YorkSpace (York University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Beyond the Erotics of Orientalism: Homeland Security, Liberal War and the Pacification of the Global Frontier traces the post-9/11 ascendancy of a complex and seemingly contradictory U.S. national security imaginary and concomitant practices of war and violence. On the one hand, the U.S. security state supported at times quite radical transgressions from the gendered racial-sexual grammars of the usual “War Story” (Cooke, 1996), such as the active involvement of women in the torture of enemy prisoners, the repeal of the Don't Ask Don't Tell policy and more recently its support for overturning the Defense of Marriage Act. The U.S. social formation also took a seemingly great leap forward towards “post-racial triumph” (Ho Sang &amp; LaBennett, 2012, p. 5) with the most diverse Presidential cabinet in U.S. history under Bush Jr. culminating in 2008 in the election of Barack Obama, the first American President racialized as Black. On the other hand, the U.S. security state aggressively pursued the racialized expansion and intensification of the (extrajudicial) use of military and carceral force in time and space, including selective deportations, indefinite detentions, the creation of an official torture policy and targeted killings of so-called enemy combatants outside of official warzones, including of US citizens. Beyond the Erotics of Orientalism explores these reconfigurations of law and belonging within broader shifts in contemporary liberal governance, in particular the promise that the 19th century colour line (DuBois, 1903) has been transcended and no longer per se marks populations as in/violable. I show how in this era of post-racial/sexual/gender triumph, the liberal project of security governs not only through military and carceral force, but also affectively through self-rule and the promotion of social difference. The dissertation locates the U.S. War on Terror's ambiguous promise of liberal freedom, equal inclusion and self-rule in the desires and disavowals of a White settler society in “the afterlife of slavery” (Hartman, 2007, p. 6). Building on the work of Native feminist and Afro-Pessimist theorists, this study suggests that we can only meaningfully interrogate the operations of power and violence in contemporary U.S. security making - including against Orientalized subjects - by accounting for the foundational role of anti-Black racism and the settler colonial character of the U.S. social formation. These interlocking racial-sexual logics mobilize knowledges of war and violence that facilitate not only the targeting of Muslim/ified people and spaces, but in turn also help secure the gendered racial-sexual order and property regime of the settler colonial homeland in this age of “post-everything” (Crenshaw, 2014) triumph.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10315/29871",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anarchism and Radical Politics",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Melanie Richter-Montpetit"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Beyond the Erotics of Orientalism: Homeland Security, Liberal War and the Pacification of the Global Frontier"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "YorkSpace (York University), 2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anarchism and Radical Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/DF/DF8VSQ5K.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

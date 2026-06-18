@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BMWCDLFB>
+  a schema:ScholarlyArticle ;
+  schema:name "Why Rara Burns Judas during Lent: Rethinking the Origins of Catholic Elements in Haitian Culture from an Afro-Iberian Perspective" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BMWCDLFB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BMWCDLFB" ;
+  schema:description "Abstract Until the 1980s, Catholic elements in Haitian culture tended to be interpreted exclusively in connection to the forced conversion of the enslaved population under French rule. This changed following John Thornton's groundbreaking research into the development of Christianity in early modern Africa—Kongo in particular—and the awareness that a significant number of enslaved Africans already identified as Christian before their arrival in Saint-Domingue. This article's goal is to go beyond Thornton's research by showing that we can acquire a better understanding of Catholic elements in Haitian culture if we start our analysis in late medieval Iberia. To illustrate this, the article focuses on one of Haiti's most enigmatic cultural traditions, known as Chariopié , Lwalwadi , or, most commonly, Rara . Although this performance has received abundant scholarly interest, questions relating to the origin of its Catholic elements have remained largely unanswered. This is regrettable considering that Rara parades follow the liturgical calendar of Lent and intensify in frequency during Holy Week. Moreover, a key element of Rara consists of the destruction of an effigy of Judas Iscariot, in accordance with the Biblical account of the Easter story. Using a comparative analysis, this article presents a number of remarkable parallels between Rara and late medieval Iberian Lent traditions. To explain these parallels, it claims that enslaved Africans who were familiar with Iberian practices prior to their arrival in the Caribbean established, by their own initiative, a network of mutual aid and burial societies modeled on Afro-Iberian Catholic brotherhoods." ;
+  schema:author "Jeroen Dewulf" ;
+  schema:datePublished "2023" ;
+  schema:publisher "The Americas A Quarterly Review of Latin American History" ;
+  schema:sameAs <https://doi.org/10.1017/tam.2021.144> ;
+  dcterms:identifier "doi:10.1017/tam.2021.144" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2UT3R76C>
+  a schema:Chapter ;
+  schema:name "Abakuá Altar Arts: Ekue, Representation, and the Banner of Regla's Efori Eñongo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2UT3R76C> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2UT3R76C" ;
+  schema:author "David H. Brown" ;
+  schema:datePublished "2019" ;
+  schema:sameAs <https://doi.org/10.4324/9780429283789-4> ;
+  dcterms:identifier "doi:10.4324/9780429283789-4" ;
+  dcterms:subject "Cultural and Social Studies in Latin America" .

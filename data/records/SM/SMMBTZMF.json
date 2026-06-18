@@ -1,0 +1,149 @@
+{
+  "key": "SMMBTZMF",
+  "uri": "https://medjat.irokosociety.org/id/library/SMMBTZMF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=SMMBTZMF",
+  "zotero": {
+    "group": "6479329",
+    "key": "SMMBTZMF",
+    "version": 3978,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/SMMBTZMF",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "A spatially explicit analysis of wheat and maize yield sensitivity to changing groundwater levels in Hungary, 1961–2010",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Zsolt Pinke"
+      },
+      {
+        "role": "editor",
+        "name": "Bence Decsi"
+      },
+      {
+        "role": "editor",
+        "name": "Zsolt Kozma"
+      },
+      {
+        "role": "editor",
+        "name": "Ágnes Vári"
+      },
+      {
+        "role": "editor",
+        "name": "Gábor L. Löveï"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "The Science of The Total Environment",
+    "publicationTitle": "The Science of The Total Environment",
+    "bookTitle": "",
+    "journalAbbreviation": "The Science of The Total Environment",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "715",
+    "issue": "",
+    "pages": "136555-136555",
+    "abstract": "Groundwater (GW) in many regions is essential for agricultural productivity, especially during drought periods. The shrinking of GW is an important but rarely documented component of the recent global environmental crisis and may threaten food security. The problem cannot be put in proper perspective, because we rarely have datasets long and detailed enough to scrutinise the unfolding effects at regional scales. To address this knowledge gap, we used a 50-y long (1961–2010) and spatially extensive (283 GW wells) dataset from Hungary to examine the GW trends and the sensitivity of the yields of two important crops to GW fluctuations. During 1986–2010, GW levels were significantly (0.21–0.60 m) lower than during 1961–1985 in every region of Hungary and every month of the year. The decrease was 2.24 cm y−1 at the country level. Linear and bootstrap resampling tests indicated weak relationship between GW levels and wheat yields but decreasing GW levels accounted for 18–38% of maize yield variability during the ‘climate change affected’ period of 1986–2010. Calculating the impact of GW on potential food production, a 100 mm higher GW levels would have increased annual maize yields by 0.23 t ha−1 on the Hungarian Plain. However, the registered GW decrease caused an estimated maize yield loss of 0.65 t ha−1, i.e. 11.6% of the average annual yield during 1986–2010. GW level fluctuations on the plain showed a significant correlation with August–October soil moisture gridded data over much of the agricultural landscapes of Central and Western Europe, indicating a similar situation in a wider European context. To mitigate the cumulative negative impact of GW decrease and the rising temperature, GW recharge via infiltration of retained water would be an adequate solution. Areas of former floodplains with low agroecological suitability, amounting to almost a quarter of the Hungarian Plain could serve as such water retention areas.",
+    "doi": "10.1016/j.scitotenv.2020.136555",
+    "url": "https://doi.org/10.1016/j.scitotenv.2020.136555",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Geophysics and Gravity Measurements",
+      "Groundwater and Isotope Geochemistry"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Zsolt Pinke"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A spatially explicit analysis of wheat and maize yield sensitivity to changing groundwater levels in Hungary, 1961–2010"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The Science of The Total Environment, 2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "136555-136555 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1016/j.scitotenv.2020.136555"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geophysics and Gravity Measurements"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Groundwater and Isotope Geochemistry"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Bence Decsi"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Zsolt Kozma"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ágnes Vári"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Gábor L. Löveï"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/SM/SMMBTZMF.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1016/j.scitotenv.2020.136555"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

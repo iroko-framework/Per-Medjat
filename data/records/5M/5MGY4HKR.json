@@ -1,0 +1,114 @@
+{
+  "key": "5MGY4HKR",
+  "uri": "https://medjat.irokosociety.org/id/library/5MGY4HKR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5MGY4HKR",
+  "zotero": {
+    "group": "6479329",
+    "key": "5MGY4HKR",
+    "version": 2091,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5MGY4HKR",
+    "dateAdded": "2026-05-19T14:19:28Z",
+    "dateModified": "2026-05-19T14:19:28Z"
+  },
+  "display": {
+    "title": "Reclaiming my body : black women and the fight for reproductive justice.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Shelby Pumphrey"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "My paper explores the unique forms of reproductive inequality experienced by poor women of color during the nineteenth and twentieth centuries. By analyzing the experiences of eight African-American women, I will illuminate their struggles and triumphs in the fight for reproductive justice. I focus on the impact of the breeding system of enslavement, inhumane medical experimentation and forced and coercive sterilization. In this work I argue that Black women’s subordinate status across multiple racial, gendered, and socioeconomic systems allows them invaluable insight into said systems and especially how they work in tandem to recreate oppression. Finally I explore the holes in the traditional reproductive rights framework, particularly in its failure to account for the concerns of poor Black women, and also discuss future implications of the reproductive justice framework on clinical practice and policy formation.",
+    "doi": "10.18297/etd/1164",
+    "url": "https://doi.org/10.18297/etd/1164",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Historical Studies on Reproduction, Gender, Health, and Societal Changes",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Shelby Pumphrey"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Reclaiming my body : black women and the fight for reproductive justice."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18297/etd/1164"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies on Reproduction, Gender, Health, and Societal Changes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/5M/5MGY4HKR.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18297/etd/1164"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

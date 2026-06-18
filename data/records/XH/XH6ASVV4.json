@@ -1,0 +1,95 @@
+{
+  "key": "XH6ASVV4",
+  "uri": "https://medjat.irokosociety.org/id/library/XH6ASVV4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XH6ASVV4",
+  "zotero": {
+    "group": "6479329",
+    "key": "XH6ASVV4",
+    "version": 1881,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XH6ASVV4",
+    "dateAdded": "2026-05-19T14:18:27Z",
+    "dateModified": "2026-05-19T14:18:27Z"
+  },
+  "display": {
+    "title": "The Development of Radio Broadcasting in Nigeria, West Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jonathan Adegoke Adejunmobi"
+      }
+    ],
+    "year": "1974",
+    "date": "1974",
+    "publisher": "University of North Texas Digital Library (University of North Texas)",
+    "publicationTitle": "University of North Texas Digital Library (University of North Texas)",
+    "bookTitle": "",
+    "journalAbbreviation": "University of North Texas Digital Library (University of North Texas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The purpose of this study is to set forth the history of radio in Nigeria. Chapters explore the history of Nigeria, the history of Nigerian radio, and the present structure of Nigerian radio. In a final chapter, specific historical factors are isolated that have made Nigerian radio what it is today. The study concludes that the present structure of Nigerian radio is a direct product of the peculiar history of Nigeria as a former British Colony. Little can be done to solve the problems of Nigerian radio unless the problems of Nigeria itself are first solved.",
+    "doi": "",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc663486/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Radio, Podcasts, and Digital Media"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jonathan Adegoke Adejunmobi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Development of Radio Broadcasting in Nigeria, West Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of North Texas Digital Library (University of North Texas), 1974."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Radio, Podcasts, and Digital Media"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XH/XH6ASVV4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

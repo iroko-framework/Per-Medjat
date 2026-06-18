@@ -1,0 +1,112 @@
+{
+  "key": "HGYWIJ9C",
+  "uri": "https://medjat.irokosociety.org/id/library/HGYWIJ9C",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HGYWIJ9C",
+  "zotero": {
+    "group": "6479329",
+    "key": "HGYWIJ9C",
+    "version": 1125,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HGYWIJ9C",
+    "dateAdded": "2026-05-19T13:28:01Z",
+    "dateModified": "2026-05-19T13:28:01Z"
+  },
+  "display": {
+    "title": "Presencia de la sociedad abakuá en Fernando Poo a finales del siglo XIX: Deportados ñáñigos cubanos en la prensa española",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabela de Aranzadi"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Dialnet (Universidad de la Rioja)",
+    "publicationTitle": "Dialnet (Universidad de la Rioja)",
+    "bookTitle": "",
+    "journalAbbreviation": "Dialnet (Universidad de la Rioja)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "1427-1437",
+    "abstract": "espanolEn este articulo2 constatamos en Fernando Poo (Bioko), la presencia de los nanigos (miembros de la sociedad secreta cubana Abakua), a traves de la prensa decimononica. El bonko o nankue, rito-danza de los criollos fernandinos analizado en un trabajo anterior, refleja el legado abakua, confirmado ahora en el archivo escrito. De 1862 a 1897 se enviaron cubanos emancipados y deportados a Fernando Poo. En este trabajo documentamos las deportaciones realizadas a final de siglo XIX desde Cuba, con cientos de nanigos hacia Fernando Poo, pasando por Cadiz y Canarias. La primera logia abakua en Cuba se funda en 1836, siendo esta sociedad objeto de represion durante la colonia y la republica. Una de las consecuencias sera su deportacion. La influencia abakua en Bioko constituye la afirmacion de su identidad y el reflejo de una memoria conservada como forma de resistencia, suponiendo un legado de ida y vuelta de la riqueza cultural africana. EnglishIn this article we confirm the presence of nanigos (members of Abakua, a Cuban secret society) in Fernando Poo (Bioko), through the press in nineteenth century. The Bonko or Nankue, a ritual-dance among Fernandino Creoles, analyzed in a previous work, reflects the Abakua legacy now confirmed in the written archive. From 1862 to 1897, emancipated and deported Cubans were sent to Fernando Poo. In this paper we document the deportations carried out by the end of the nineteenth century, with hundreds of nanigos leaving Cuba to Fernando Poo, passing through Cadiz and the Canary Islands. The first Abakua juego (lodge) was founded in Cuba in 1836, and this society was repressed during the colonial and republican periods. One consequence was deportation. The Abakua influence in Bioko is asserting its identity and reflects their memory preserved as a form of resistance, assuming a return of a legacy of African cultural wealth.",
+    "doi": "",
+    "url": "https://openalex.org/W3025174048",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Cuban History and Society",
+      "Hispanic-African Historical Relations"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabela de Aranzadi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Presencia de la sociedad abakuá en Fernando Poo a finales del siglo XIX: Deportados ñáñigos cubanos en la prensa española"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Dialnet (Universidad de la Rioja), 2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1427-1437 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HG/HGYWIJ9C.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

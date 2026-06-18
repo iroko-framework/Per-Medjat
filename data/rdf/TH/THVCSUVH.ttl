@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/THVCSUVH>
+  a schema:ScholarlyArticle ;
+  schema:name "Subversive Spirits and Ostentatious Materials: An African Diasporic Necropolitics of Agitation" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=THVCSUVH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:THVCSUVH" ;
+  schema:description "Abstract: Practitioners of Afro-Cuban spiritual modalities work with spirits of the dead, including “mocking” and “perturbing” spirits whose afflictions force a reckoning with histories of violence—what Toni Morrison calls “rememory.” Rememory recognizes the irrepressible power of the abject being, who struggles against non-being. In the wake of the violent erasures and denials of humanity imposed by colonialism, slavery, and the ongoing climate of anti-blackness, African diaspora dead and living engage in collaborative agitations to disrupt the “absenting” logics of (post)colonial, white supremacist, and heteropatriarchal necropolitics. In juxtaposing cases from anti-lynching protests in the United States to femicide at the origins of the Cuban Abakuá brotherhoods, we describe material practices involving unquiet spirits, bones, and traces that produce necropolitical presences. Attending to the afterlives of subversive spirits who refuse erasure provides models for onto-political action in ritual practices that also inform political projects of mourning as protest. Resumen: Los practicantes de las modalidades espirituales afrocubanas trabajan con los espíritus de los muertos, e incluso con los espíritus “burlones” o “perturbadores” cuyas aflicciones fuerzan un enfrentamiento con las historias de la violencia—lo que Toni Morrison nombra “rememoria.” La rememoria reconoce el poder irreprimible del ser abyecto, el que lucha contra el estado de no-ser. En la estela dejada por las violentas tachaduras y negaciones de la humanidad que se han impuesto el colonialismo, la esclavitud, y el clima de anti-negritud que continúa, los muertos y vivos de la diáspora africana entran en agitaciones colaborativas para interrumpir las lógicas “borradoras” de una necropolítica (pos)colonial, supremacista blanca y heteropatriarcal. A yuxtaponer casos desde las protestas en contra el linchamiento en los Estados Unidos hasta el femicidio originario de las fraternidades abakuás cubanas, describimos las prácticas materiales que involucran los espíritus, huesos y huellas inquietos que producen las presencias necropolíticas. La atención a las vidas futuras de los espíritus subversivos que rechazan la supresión provee modelos para la acción onto-política a través de las prácticas rituales que también sustentan los proyectos políticos del luto como protesta." ;
+  schema:author "Solimar Otero" ;
+  schema:creator "K. Wirtz" ;
+  schema:datePublished "2023" ;
+  schema:publisher "American Religion" ;
+  schema:sameAs <https://doi.org/10.2979/amerreli.5.1.02> ;
+  dcterms:identifier "doi:10.2979/amerreli.5.1.02" ;
+  dcterms:subject "Caribbean and African Literature and Culture" .

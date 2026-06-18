@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LEQW3RZ6>
+  a schema:Thesis ;
+  schema:name "A Study of Japanese Loanwords in Chinese" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LEQW3RZ6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LEQW3RZ6" ;
+  schema:description "Since Japanese language makes extensive use of Chinese characters in its writing system, and a large portion of its vocabulary is borrowed from Chinese in ancient times, it makes people to believe that Chinese always has the overwhelming influence on Japanese. However, the situation is completely changed since modern times. A great number of Japanese words entered into Chinese. Nevertheless, many Chinese people still think that nowadays Chinese language is in a dominant position in linguistic exchange between Chinese and Japanese. The goal of this research is to give people better understanding of the significance of Japanese loanwords in modern Chinese. In this paper, I analyze the channels, classifications, characteristics and influences of Japanese loanwords in different time backgrounds. The findings are mainly based on about one thousand Japanese loanwords that I collected from dictionaries and academic papers. The main results are that Japanese loanwords take an important part in creating new words and formating modern Chinese. Research also indicates that both linguistic factor and social factor affect loanwords, meanwhile, the host language and society are influenced by loanwords. Therefore both Chinese language and society affect the intakes of Japanese loanwords, at the same time the Chinese language and society are also influenced by Japanese loanwords." ;
+  schema:author "Haijing Chen" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Duo Research Archive (University of Oslo)" ;
+  dcterms:subject "Linguistics, Language Diversity, and Identity" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/G6QR24P7>
+  a schema:ScholarlyArticle ;
+  schema:name "De la sangre al oro : la transubstanciación del cristianismo y del capitalismo en la comida ritual huichol (México)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G6QR24P7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G6QR24P7" ;
+  schema:description "The practices of ritual food that are observed in the Easter Week fiesta of the Huichol community from San Andrés Cohamiata Tatei Kie represent a particular case of a general problem within the contemporary anthropological field: the interactions between traditional cosmologies and the global reality of the modern world. The author, ruling out any essentialist perspective, demonstrates that the three pillars of the Hispano-Western power – cattle, money, Christianity – have been integrated in a ritual cycle that gathers and sets in motion food, sacrificial flows, religious believes and relations of power. The duality of the dry and the wet, which is the most classical pattern in Middle American cosmological variability, gives its rhythm to this cycle. Meanwhile, such a regular tempo does not confine the Huichol society within a supposedly immutable binary universe. The vitality of the tradition would rather be due to native society’s capacities in reinterpreting, upon the basis of the dry/wet paradigm, the typical elements from the Western mind – transubstantation, capitalization, monetary symbol, inflationist process – whose transforming properties, between material and fictional value, have become part of an adaptive cosmology." ;
+  schema:author "Frédéric Saumade" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Amérique latine histoire et mémoire" ;
+  schema:sameAs <https://doi.org/10.4000/alhim.4618> ;
+  dcterms:identifier "doi:10.4000/alhim.4618" ;
+  dcterms:subject "Culinary Culture and Tourism", "Food, Nutrition, and Cultural Practices", "Latin American history and culture" .

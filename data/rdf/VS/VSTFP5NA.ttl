@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VSTFP5NA>
+  a schema:ScholarlyArticle ;
+  schema:name "The Earth's Remembrance" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VSTFP5NA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VSTFP5NA" ;
+  schema:description "Abstract This conversation brings together Mapuche Weichafe and writer Moira Ivana Millán and Haitian art collector Houngan Jean-Daniel Lafontant. They reflect on the histories of colonialism and anticolonial resistance and discuss the workings of memory, embodiment, and territory, churches, museums, western science and forms of cultural, epistemic, and spiritual extractivism. Millán and Lafontant offer critiques of colonial violence and ongoing environmental destruction, which work together, they argue, to constitute a campaign of terracide that is still being waged on a planetary scale. They conclude by affirming collective struggles against this campaign and calling for a language beyond anthropocentrism." ;
+  schema:author "Cecilia Lisa Eliceche" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Critical Times" ;
+  schema:sameAs <https://doi.org/10.1215/26410478-10800301> ;
+  dcterms:identifier "doi:10.1215/26410478-10800301" ;
+  dcterms:subject "Pacific and Southeast Asian Studies", "Political and Social Dynamics in Chile and Latin America" .

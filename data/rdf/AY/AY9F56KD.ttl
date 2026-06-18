@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AY9F56KD>
+  a schema:Thesis ;
+  schema:name "An introduction to psychoanalysis" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AY9F56KD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AY9F56KD" ;
+  schema:description "Abstract not available." ;
+  schema:author "Arthur Blanchette" ;
+  schema:datePublished "1945" ;
+  schema:publisher "uO Research (University of Ottawa)" ;
+  schema:sameAs <https://doi.org/10.20381/ruor-8762> ;
+  dcterms:identifier "doi:10.20381/ruor-8762" ;
+  dcterms:subject "Psychotherapy Techniques and Applications" .

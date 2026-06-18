@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/USKCYGM2>
+  a schema:ScholarlyArticle ;
+  schema:name "Local perceptions and importance of endogenous beliefs on sacred groves conservation in South Benin" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=USKCYGM2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:USKCYGM2" ;
+  schema:description "Turning forests into sacred groves remains an effective strategy as far as conservation of forests is concerned. Nowadays sacred groves are eroded to a wide range of adversities. In this paper, the authors analyzed (i) perception of population on sacred groves dynamic and (ii) the effect of modern religion expansion on sacred groves conservation. To these end, data were collected using individual interviews on 458 informants sampled in six localities surrounding sacred groves. A Chi-square independence test, analytic comparison of means and principal component analysis were applied for data analysis. Findings showed that the â€‹â€‹sacred grove areas have decreased by more than half during the last three decades (78.06% of interviewees). Categories of sacred forests that are religious groves were the most threatened (70.30% of interviewees). Twenty plants species belonging to 13 botanic families were identified as symbolic species in the sacred groves, Milicia excelsa and Triplochiton scleroxylon being the most common species. Sacred groves provide a wide range of services among which cultural service was found to be the most preferred by the local population (76.90% of citation). Religious groves and secret forests were found to be the ones providing the most diversified services. However, religious beliefs did not affect the use of sacred groves. The reinforcement of the conversion of forests into sacred groves by the introduction of the secret societies could be efficient towards conservation. Nevertheless, there is a need to identify biological factors which can indicate possibility of species extinction so as to ensure restoration of sacred groves. &nbsp; Key words: Local perception, conservation, restoration, sacred groves, symbolic species, Benin" ;
+  schema:author "Evariste Cossi Alohou" ;
+  schema:creator "D. S. J. C. Gbemavo", "Christine Ouinsavi", "Nestor Sokpon" ;
+  schema:datePublished "2016" ;
+  schema:publisher "International Journal of Biodiversity and Conservation" ;
+  schema:sameAs <https://doi.org/10.5897/ijbc2015.0918> ;
+  dcterms:identifier "doi:10.5897/ijbc2015.0918" ;
+  dcterms:subject "African Botany and Ecology Studies", "Agriculture and Rural Development Research", "Ethnobotanical and Medicinal Plants Studies" .

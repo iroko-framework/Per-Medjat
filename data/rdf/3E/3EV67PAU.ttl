@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3EV67PAU>
+  a schema:ScholarlyArticle ;
+  schema:name "Creole Religions of the Caribbean: An Introduction from Vodou and Santeria to Obeah and Espiritismo, by Margarite Fernández and Lizabeth Parvisini-Gebert. New York University Press, 2011 (2nd ed.). 320pp., 20 b&w illustrations, hb. $23.00, ISBN-13: 978081" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3EV67PAU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3EV67PAU" ;
+  schema:description "From Haitian Vodou, Cuban Santería (or Regla de Ocho), Regla de Palo, the Abakuá Secret Society, to the Obeah of the former British colonies of the \"West Indies\" (Antigua, Bahamas, Barbados, Jamaica and Surinam), Jamaican Rastafari, Myalism, Kumina (\"Pocomania\") and Espiritismo (Cuba, Europe, Puerto Rico and United States), authors" ;
+  schema:author "Marzia A. Coltri" ;
+  schema:datePublished "2012" ;
+  schema:publisher "International Journal for the Study of New Religions" ;
+  schema:sameAs <https://doi.org/10.1558/ijsnr.v3i2.292> ;
+  dcterms:identifier "doi:10.1558/ijsnr.v3i2.292" ;
+  dcterms:subject "Caribbean history, culture, and politics" .

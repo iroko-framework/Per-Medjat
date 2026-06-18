@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8EJJFMZN>
+  a schema:ScholarlyArticle ;
+  schema:name "existência dos bruxos (ou como funciona a antropologia)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8EJJFMZN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8EJJFMZN" ;
+  schema:description "Este texto é uma versão ligeiramente remanejada da conferência apresentada na XII Semana de Ciências Sociais da Universidade Federal de São Carlos, em maio de 2014. Partindo de uma situação de campo e da análise de um trecho do famoso livro de Evans-Pritchard sobre a bruxaria Azande, busca explorar a tentação sempre experimentada pela análise antropológica de dissolver como imaginário, ou simbólico, aquilo que as pessoas que estuda de•inem como sendo da ordem do real. Por meio de algumas ideias de Lucien Lévy-Bruhl, levanta a hipótese de que a antropologia estaria apoiada em uma espécie de duplo vínculo, no sentido de Gregory Bateson, ou de duplo vinco, no sentido de Gilles Deleuze, entre o território original representado pelo saber ocidental e a desterritorialização a que é forçada por sua relação com saberes dominados e mundos alternativos." ;
+  schema:author "Márcio Goldman" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Revista de Antropologia da UFSCar" ;
+  schema:sameAs <https://doi.org/10.52426/rau.v6i1.108> ;
+  dcterms:identifier "doi:10.52426/rau.v6i1.108" ;
+  dcterms:subject "French Urban and Social Studies", "Social and Economic Solidarity", "Urban and sociocultural dynamics" .

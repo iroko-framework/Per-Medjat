@@ -1,0 +1,101 @@
+{
+  "key": "6R2XXLGN",
+  "uri": "https://medjat.irokosociety.org/id/library/6R2XXLGN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6R2XXLGN",
+  "zotero": {
+    "group": "6479329",
+    "key": "6R2XXLGN",
+    "version": 2232,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6R2XXLGN",
+    "dateAdded": "2026-05-19T14:19:48Z",
+    "dateModified": "2026-05-19T14:19:48Z"
+  },
+  "display": {
+    "title": "Imperialism, state formation and the establishment of a Muslim community at the Cape of Good Hope, 1770-1840 : a study in urban resistance",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Muhammad 'Adil Bradlow"
+      }
+    ],
+    "year": "1988",
+    "date": "1988",
+    "publisher": "Open University of Cape Town (University of Cape Town)",
+    "publicationTitle": "Open University of Cape Town (University of Cape Town)",
+    "bookTitle": "",
+    "journalAbbreviation": "Open University of Cape Town (University of Cape Town)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In a work of this nature, it goes without saying that scores of people have, in some fashion or other, contributed to the final product.Considerations of space, however, .allowme the opportunity to mention only afaw of these.",
+    "doi": "",
+    "url": "http://hdl.handle.net/11427/17069",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Muhammad 'Adil Bradlow"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Imperialism, state formation and the establishment of a Muslim community at the Cape of Good Hope, 1770-1840 : a study in urban resistance"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Open University of Cape Town (University of Cape Town), 1988."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6R/6R2XXLGN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

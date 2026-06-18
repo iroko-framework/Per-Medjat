@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZJQDYE6N>
+  a schema:Thesis ;
+  schema:name "Can't Go Home Again: Sovereign Entanglements and the Black Radical Tradition in the Twentieth Century" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZJQDYE6N> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZJQDYE6N" ;
+  schema:description "&lt;p&gt;This dissertation investigates the relation between the formation of \"Blackness\" and the Western tradition of sovereignty through the works of late twentieth century Black Radical theorists. I most specifically examine the work of Stokely Carmichael, Amiri Baraka, Frantz Fanon, and Huey P. Newton in order to delineate a shift within Black Radicalism which, due to an intense de-linking of Black nationalism from the concept of territorial sovereignty throughout the 1960s and early 1970s led to the formation of a new subjectivity (\"Blackness\") oriented against and beyond the Western tradition of political sovereignty as a whole. &lt;/p&gt;&lt;p&gt;\\tThis dissertation begins by outlining the parameters of the concept of sovereignty as well as its relation to conquest, coloniality, and racialization more generally. I then examine the formation of Black Power as an expression of anti-colonial sentiments present within the United States and uncover there the influence of W.E.B. DuBois' concept of double-consciousness. I then further examine the concept of Black Power through the work of Amiri Baraka and his notion of \"Blackness\" as the proximity to \"home.\" Each of these expositions of Black Power are undertaken in order to better understand the era of Black Power and its relation to both Black nationalism and the Western tradition of sovereignty. &lt;/p&gt;&lt;p&gt;\\tNext, I turn to the work of Frantz Fanon, whom I claim prepares the way for the idea of \"Blackness\" as an ontological resistance beyond, not only the territorial imperative, but also the logic of sovereignty more generally. This notion of \"Blackness\" as an antidote to sovereign logic present within the work of Fanon allows me to turn to the work of Huey P. Newton in order to demonstrate his conceptualization of \"Blackness\" as an antagonistic subjectivity within a fully globalized society whose onset he had theorized and which he termed \"empire.\" I conclude by drawing on each of the above theorists as well as the work of Angela Davis in order to build a retrospective summary of this alternative lineage of the Black Radical Tradition and its importance for the conceptualization of resistances to and life beyond our contemporary society.&lt;/p&gt;" ;
+  schema:author "Alvaro Andrés Reyes" ;
+  schema:datePublished "2009" ;
+  schema:publisher "DukeSpace (Duke University)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Homelessness and Social Issues", "Race, History, and American Society" .

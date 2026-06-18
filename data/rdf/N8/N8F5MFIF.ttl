@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/N8F5MFIF>
+  a schema:ScholarlyArticle ;
+  schema:name "Symbolic legacies of slavery in Guyana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=N8F5MFIF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:N8F5MFIF" ;
+  schema:description "Focusses on the commemoration and symbolic functions of the slavery past in the Americas, with a particular focus on Guyana. Author explains that while symbolic representations of the legacies of slavery increased in the Americas since the 1960s, the nationalist government under Forbes Burnham since 1970 went further in using the slavery past as its ideological foundation. He discusses how this relates to Guyana's history and ethnic development of 2 main, often opposed groups of African- and Indian-descended groups, calling on their respective slavery or indenture past in emphasizing their national significance. He further describes slavery-related symbolic representations promoted under Burnham, specifically the 1763 slave revolt led by Cuffy, presented as first anticolonial rebellion aimed at liberation, and as a precursor to the PNC government, and other slave rebellions and rebels, such as led by Damon in 1834. He points out how some Indian-Guyanese found that Indian heroes were sidelined in relation to these. Author then describes how the annual commemoration of Emancipation Day continues to refer to the martyrdom of these slave rebels, along with other discursive connections, such as regarding reparations. He also pays attention to the activities of nongovernmental organizations in Guyana up to the present in commemorating the slavery past, often with broader African diaspora connections." ;
+  schema:author "Alvin O. Thompson" ;
+  schema:datePublished "2006" ;
+  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
+  schema:sameAs <https://doi.org/10.1163/22134360-90002494> ;
+  dcterms:identifier "doi:10.1163/22134360-90002494" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Cuban History and Society" .

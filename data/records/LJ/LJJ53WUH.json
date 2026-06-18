@@ -1,0 +1,109 @@
+{
+  "key": "LJJ53WUH",
+  "uri": "https://medjat.irokosociety.org/id/library/LJJ53WUH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LJJ53WUH",
+  "zotero": {
+    "group": "6479329",
+    "key": "LJJ53WUH",
+    "version": 1227,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LJJ53WUH",
+    "dateAdded": "2026-05-19T13:28:34Z",
+    "dateModified": "2026-05-19T13:28:34Z"
+  },
+  "display": {
+    "title": "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "93-111",
+    "abstract": "The Abakua ´mutual-aid society of Cuba, recreated from the E ´kpe `leopard society of West Africa's Cross River basin, is a richly detailed example of African cultural transmission to the Americas.Its material culture, such as masquerades and drum construction, as well as rhythmic structures, are largely based on E ´kpe `models.Its ritual language is expressed through hundreds of chants that identify source regions and historical events; many can be interpreted by speakers of E `fı `k, the pre-colonial lingua franca of the Cross River region (Miller 2005).With the help of both E ´kpe `and Abakua ´leaders, I have examined relationships between the musical practices of West African E ´kpe `, Cuban Abakua ´, as well as Cuban migrants to the United States whose commercial recordings have evoked West African places and events historically relevant to Abakua ´, meanwhile contributing to the evolution of North American jazz.",
+    "doi": "10.4324/9781315829630-11",
+    "url": "https://doi.org/10.4324/9781315829630-11",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Hispanic-African Historical Relations",
+      "Language, Linguistics, Cultural Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "93-111 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9781315829630-11"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LJ/LJJ53WUH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9781315829630-11"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

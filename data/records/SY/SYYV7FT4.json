@@ -1,0 +1,106 @@
+{
+  "key": "SYYV7FT4",
+  "uri": "https://medjat.irokosociety.org/id/library/SYYV7FT4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=SYYV7FT4",
+  "zotero": {
+    "group": "6479329",
+    "key": "SYYV7FT4",
+    "version": 3831,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/SYYV7FT4",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Modern Slavery and a Reconstructed Civil Rights Agenda",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Baher Azmy"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Fordham law review",
+    "publicationTitle": "Fordham law review",
+    "bookTitle": "",
+    "journalAbbreviation": "Fordham law review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "71",
+    "issue": "3",
+    "pages": "981",
+    "abstract": "",
+    "doi": "",
+    "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3872&context=flr",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "International Labor and Employment Law",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Baher Azmy"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Modern Slavery and a Reconstructed Civil Rights Agenda"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Fordham law review, 2002."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "981 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "International Labor and Employment Law"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/SY/SYYV7FT4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

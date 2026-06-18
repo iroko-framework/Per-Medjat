@@ -1,0 +1,125 @@
+{
+  "key": "29DQBEEF",
+  "uri": "https://medjat.irokosociety.org/id/library/29DQBEEF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=29DQBEEF",
+  "zotero": {
+    "group": "6479329",
+    "key": "29DQBEEF",
+    "version": 1463,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/29DQBEEF",
+    "dateAdded": "2026-05-05T00:44:20Z",
+    "dateModified": "2026-05-18T14:30:43Z"
+  },
+  "display": {
+    "title": "Voice of the leopard: African secret societies and Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Miller, Ivor"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "University Press of Mississippi",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Jackson",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "978-1-934110-83-6",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Black people -- Cuba -- Social life and customs",
+      "Secret societies -- Cuba",
+      "Sociedad Abakuá (Cuba)"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Miller, Ivor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Voice of the leopard: African secret societies and Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Jackson: University Press of Mississippi, 2009."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-1-934110-83-6"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Cuba -- Social life and customs"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Secret societies -- Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sociedad Abakuá (Cuba)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/29/29DQBEEF.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/A459C3DY>
+  a schema:Chapter ;
+  schema:name "Introduction" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=A459C3DY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:A459C3DY" ;
+  schema:description "This introductory chapter discusses the main themes and research methodology used in the presented study. This book tells the story of how several generations of West Africans, who were enslaved and forced to migrate to the Caribbean, were able to regroup to form communities in which their specific philosophies and lifeways could be taught to their off spring. It details how the Abakuá mutual aid society of Cuba was recreated in the 1830s from several local variants of the Ékpè leopard society of West Africa’s Cross River basin." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0001> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0001" ;
+  dcterms:subject "African history and culture studies" .

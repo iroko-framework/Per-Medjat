@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Z93BJHAV>
+  a schema:ScholarlyArticle ;
+  schema:name "Victims of trafficking and modern slavery or agents of change? Migrants, brokers, and the state in Ghana and Myanmar" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Z93BJHAV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Z93BJHAV" ;
+  schema:description "Article by Priya Deshingkar, Mariama Awumbila and Joseph Kofi Teye, posted to Journal of the British Academy, volume 7, supplementary issue 1 (Tackling Modern Slavery: Problems and Possibilities), in 2019." ;
+  schema:author "Priya Deshingkar" ;
+  schema:creator "Mariama Awumbila", "Joseph Kofi Teye" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Journal of the British Academy" ;
+  schema:sameAs <https://doi.org/10.5871/jba/007s1.077> ;
+  dcterms:identifier "doi:10.5871/jba/007s1.077" ;
+  dcterms:subject "Asian Geopolitics and Ethnography", "Migration and Labor Dynamics", "Migration, Ethnicity, and Economy" .

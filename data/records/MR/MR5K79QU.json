@@ -1,0 +1,114 @@
+{
+  "key": "MR5K79QU",
+  "uri": "https://medjat.irokosociety.org/id/library/MR5K79QU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MR5K79QU",
+  "zotero": {
+    "group": "6479329",
+    "key": "MR5K79QU",
+    "version": 1845,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MR5K79QU",
+    "dateAdded": "2026-05-19T14:18:17Z",
+    "dateModified": "2026-05-19T14:18:17Z"
+  },
+  "display": {
+    "title": "Numerical simulation of continuous miner rock cutting process",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bo Yu"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Usually, parametric analysis of the continuous miner cutting process is studied by experimental tests. In this dissertation, the need for numerical simulation of the continuous miner rock cutting process is established. In order to fulfill this need, four major numerical methods, namely the Finite Difference Method, the Finite Element Method, the Boundary Element Method, and the Discrete Element Method, are reviewed. The Finite Element Method is then chosen as the simulation tool because it is more advanced and versatile than the other methods.;The rotation and advance of a continuous miner cutter head is simulated by the Finite Element Method with explicit time integration, while dynamic contact with an element erosion algorithm is utilized to model the impact between the bits and the rock elements. Two rock failure modes, shear failure and tensile failure, are implemented in the numerical model.;By using the Automated Rotary Coal/Rock Cutting Simulator as the prototype, a numerical model of a continuous miner is developed and initially checked with experimental data. Then, several cutting parameters including: cutting speed, bit geometry, bit tip size, multiple bit interaction, and free face are studied using the thrust and cutting force calculated from the simulation. The specific work spent in each case is estimated by the thrust, cutting force, cutting time, and the volume of the removed rock. The grooves cut by the bits in the numerical model are used further to investigate the rock ridge failure mechanism. Shear failure is found to be the dominant failure mode for a continuous miner cutting an intact rock.;In the conclusion the numerical modeling method is suggested as a valuable tool for parametric study of the rotary cutting process in the conclusion. And it can be advantageously used for continuous miner bit and drum design and prototype tests.",
+    "doi": "10.33915/etd.2655",
+    "url": "https://doi.org/10.33915/etd.2655",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Advanced machining processes and optimization",
+      "Drilling and Well Engineering",
+      "Tunneling and Rock Mechanics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bo Yu"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Numerical simulation of continuous miner rock cutting process"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2005."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.33915/etd.2655"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Advanced machining processes and optimization"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Drilling and Well Engineering"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Tunneling and Rock Mechanics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/MR/MR5K79QU.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.33915/etd.2655"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

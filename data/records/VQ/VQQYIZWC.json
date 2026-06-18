@@ -1,0 +1,107 @@
+{
+  "key": "VQQYIZWC",
+  "uri": "https://medjat.irokosociety.org/id/library/VQQYIZWC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VQQYIZWC",
+  "zotero": {
+    "group": "6479329",
+    "key": "VQQYIZWC",
+    "version": 1026,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VQQYIZWC",
+    "dateAdded": "2026-05-19T13:27:33Z",
+    "dateModified": "2026-05-19T13:27:33Z"
+  },
+  "display": {
+    "title": "El legado africano en Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Natalia Jimena Rincón Bolívar"
+      }
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "Papers Revista de Sociologia",
+    "publicationTitle": "Papers Revista de Sociologia",
+    "bookTitle": "",
+    "journalAbbreviation": "Papers Revista de Sociologia",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "52",
+    "issue": "",
+    "pages": "155-155",
+    "abstract": "En aquest article es tracta l’activitat religiosa, o parareligiosa, practicada en amplis sectors de la població de color de Cuba, que enfonsa les seves arrels en la seva anterior vida a l’Àfrica i en l’esclavitud. Perquè els esclaus negres van mantenir inicialment el culte als seus antics déus, i també els seus costums i associacions, que en certa manera van sobreviure i a la llarga van donar lloc a diversos sistemes religiosos en els quals van reestructurar les seves creences. Així, les pràctiques religioses de la cultura ioruba van cristal·litzar en un sol cos litúrgic al qual van denominar la Regla de Ocha o santeria; les procedents del Congo i Angola, en la Regla de Palo o mayombe, i de forma semblant van néixer els preceptes religiosos de la societat secreta Abakuá, procedent de Nigèria; les cases de babalawos, etc. Amb la independència (1898) paradoxalment es va produir una certa persecució de tall racista contra la població de color, fins que el 1940 es va promulgar una nova Constitució favorable a la llibertat religiosa. Finalment, l’article descriu sumàriament les diferents actituds que s’han tingut des de 1959 i es tanca amb un quadre que descriu el sincretisme religiós existent entre les diferents verges cristianes i les divinitats afrocubanes equivalents.",
+    "doi": "10.5565/rev/papers.1886",
+    "url": "https://doi.org/10.5565/rev/papers.1886",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Natalia Jimena Rincón Bolívar"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El legado africano en Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Papers Revista de Sociologia, 1997."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "155-155 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5565/rev/papers.1886"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VQ/VQQYIZWC.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5565/rev/papers.1886"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

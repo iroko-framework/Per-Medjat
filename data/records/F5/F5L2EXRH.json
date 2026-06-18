@@ -1,0 +1,107 @@
+{
+  "key": "F5L2EXRH",
+  "uri": "https://medjat.irokosociety.org/id/library/F5L2EXRH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=F5L2EXRH",
+  "zotero": {
+    "group": "6479329",
+    "key": "F5L2EXRH",
+    "version": 3771,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/F5L2EXRH",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "The problem. Trafficking in Humans: The Slavery of Our Age",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Marie Vlachová"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Connections The Quarterly Journal",
+    "publicationTitle": "Connections The Quarterly Journal",
+    "bookTitle": "",
+    "journalAbbreviation": "Connections The Quarterly Journal",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "04",
+    "issue": "4",
+    "pages": "1-16",
+    "abstract": "Trafficking in human beings has been widely recognized as an abhorrent form of modern-day slavery, and condemned as an act that gravely violates universal human rights. Treating people as commodities that can be bought or sold as slaves, that are exploited ruthlessly by those who remove their passports and visas and withhold their earnings to get victims under the trafficker's ultimate control, is one of the fastest growing international crimes worldwide. Enormous profits have created a global network organized by transnational criminal gangs that traffic in people in the same way as arms, drugs, or money. Although most of the world's countries eliminated slavery long ago, trafficking in human beings has become one of the most lucrative activities of organized criminal groups, who have proven to be highly effective in entering countries and regions impoverished by wars, armed conflicts, or badly managed transitions in government.",
+    "doi": "10.11610/connections.04.4.01",
+    "url": "https://doi.org/10.11610/connections.04.4.01",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Marie Vlachová"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The problem. Trafficking in Humans: The Slavery of Our Age"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Connections The Quarterly Journal, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-16 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11610/connections.04.4.01"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/F5/F5L2EXRH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11610/connections.04.4.01"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

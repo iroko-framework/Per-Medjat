@@ -1,0 +1,112 @@
+{
+  "key": "WGZKWBXN",
+  "uri": "https://medjat.irokosociety.org/id/library/WGZKWBXN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WGZKWBXN",
+  "zotero": {
+    "group": "6479329",
+    "key": "WGZKWBXN",
+    "version": 141,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WGZKWBXN",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Manifest destiny's underworld: filibustering in antebellum America",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "May, Robert E."
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "University of North Carolina Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Chapel Hill",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This fascinating study sheds new light on antebellum America's notorious \"filibusters\" - the freebooters and adventurers who organized or participated in armed invasions of nations with whom the United States was formally at peace. Offering the first full-scale analysis of the filibustering movement, Robert May relates the often-tragic stories of illegal expeditions into Cuba, Mexico, Ecuador, Nicaragua, and other Latin American countries and details surprising numbers of aborted plots, as well. May investigates why thousands of men joined filibustering expeditions, how they were financed, and why the U.S. government had little success in curtailing them. Surveying antebellum popular media, he shows how the filibustering phenomenon infiltrated the American psyche in newspapers, theater, music, advertising, and literature. Condemned abroad as pirates, frequently in language strikingly similar to modern American denunciations of foreign terrorists, the filibusters were often celebrated at home as heroes who epitomized the spirit of Manifest Destiny. May concludes by exploring the national consequences of filibustering, arguing that the practice inflicted lasting damage on U.S. relations with foreign countries and contributed to the North-South division over slavery that culminated in the Civil War.",
+    "doi": "",
+    "url": "",
+    "isbn": "0-8078-2703-7",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Filibusters",
+      "History",
+      "Political culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "May, Robert E."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Manifest destiny's underworld: filibustering in antebellum America"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Chapel Hill: University of North Carolina Press, 2002."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "0-8078-2703-7"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Filibusters"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Political culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/WG/WGZKWBXN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M3T43XL3>
+  a schema:ScholarlyArticle ;
+  schema:name "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M3T43XL3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M3T43XL3" ;
+  schema:description "Cet article étudie la dénonciation du\\nmachisme dans De cierta manera (1974-1977),\\nunique long-métrage de la réalisatrice afrocubaine Sara Gómez (1943-1974). Ce film traite de\\nla persistance du machisme à Cuba après la Révolution à travers une relation amoureuse entre\\ndeux personnages de fiction, Mario et Yolanda,\\ndont l’histoire est mêlée à des séquences documentaires sur les milieux marginaux de La\\nHavane. En contrepoint de Mario, encore influencé par les valeurs machistes et les traditions de la secte Abakuá, Yolanda est présentée comme une femme libre et progressiste, à\\nl’image de la nouvelle société. Le film oppose\\nleurs deux univers de manière parfois schématique mais laisse transparaître la complexité du\\nprocessus révolutionnaire cubain, qui lui-même\\nne s’est pas complètement débarrassé de ces valeurs machistes." ;
+  schema:author "Laure Pérez" ;
+  schema:datePublished "2020" ;
+  schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
+  dcterms:subject "Cinema History and Criticism", "Spanish Culture and Identity" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/A2X8V4QE>
+  a schema:ScholarlyArticle ;
+  schema:name "When Is the Time of Slavery - The History of Slavery in Contemporary Legal and Political Argument" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=A2X8V4QE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:A2X8V4QE" ;
+  schema:description "Grosst\"The freed slaves then began another journey, this time not from captivity to slavery, but from slavery to citizenship and" ;
+  schema:author "Ariela Gross" ;
+  schema:datePublished "2008" ;
+  schema:publisher "California Law Review" ;
+  schema:sameAs <https://doi.org/10.15779/z38799k> ;
+  dcterms:identifier "doi:10.15779/z38799k" ;
+  dcterms:subject "American Constitutional Law and Politics" .

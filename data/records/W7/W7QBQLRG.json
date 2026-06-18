@@ -1,0 +1,119 @@
+{
+  "key": "W7QBQLRG",
+  "uri": "https://medjat.irokosociety.org/id/library/W7QBQLRG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W7QBQLRG",
+  "zotero": {
+    "group": "6479329",
+    "key": "W7QBQLRG",
+    "version": 1308,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W7QBQLRG",
+    "dateAdded": "2026-05-19T13:28:48Z",
+    "dateModified": "2026-05-19T13:28:48Z"
+  },
+  "display": {
+    "title": "Race, Gender, and Class Embodied in Cuban Dance",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Yvonne Daniel"
+      }
+    ],
+    "year": "1994",
+    "date": "1994",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "1",
+    "pages": "8-72",
+    "abstract": "Dance \"houses\" or embodies physical, mental, emotional, and spiritual information within culturally specific movement sequences. I Although all dances have varied movements, their movements, songs, and rhythms can be analyzed to demonstrate connections between dance and other arenas ofsocial life; this is the charge of dance anthropology. In this paper, I use the anthropological perspective and methodology to discuss what the dance rumba indicates in terms of race, gender, and class in Cuban society.",
+    "doi": "10.7275/6889",
+    "url": "https://doi.org/10.7275/6889",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies",
+      "Theater, Performance, and Music History"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Yvonne Daniel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Race, Gender, and Class Embodied in Cuban Dance"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1994."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "8-72 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.7275/6889"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Theater, Performance, and Music History"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/W7/W7QBQLRG.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.7275/6889"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

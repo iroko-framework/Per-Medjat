@@ -1,0 +1,102 @@
+{
+  "key": "VXRQSTDU",
+  "uri": "https://medjat.irokosociety.org/id/library/VXRQSTDU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VXRQSTDU",
+  "zotero": {
+    "group": "6479329",
+    "key": "VXRQSTDU",
+    "version": 2103,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VXRQSTDU",
+    "dateAdded": "2026-05-19T14:19:29Z",
+    "dateModified": "2026-05-19T14:19:29Z"
+  },
+  "display": {
+    "title": "Modeling and (adaptive) control of greenhouse climates",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "A.J. Udink ten Cate"
+      }
+    ],
+    "year": "1983",
+    "date": "1983",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The material presented in this thesis can be grouped around four themes, system concepts, modeling, control and adaptive control. In this summary these themes will be treated separately.System conceptsIn Chapters 1 and 2 an overview of the problem formulation is presented. It is suggested that there is some ambiguity with respect to what exactly control is since in practical horticulture control procedures are used. This has motivated to introduce the term GCFC (greenhouse climate feedback/feedforward control) where control in the strict sense is meant. It is ascertained that -despite much research in the field of control procedures- in the field of GCFC little results have been reported in the literature.It is argued that climate control (or more strictly GCFC) in practice restricts itself to climate factors with respect to the greenhouse atmosphere (air temperature and humidity, C02 contents). It is suggested to formulate GCFC) in terms of the crop canopy climate in that notably the radiative part of the control actuators is considered as a controlled variable too.The existing control methods for greenhouse climates are described using the concept of a hierarchical system formulation. Here the problem of creating a beneficial environment for the plants is described as a system with three levels. On the first level GCFC) is found, on level two plant growth on a diurnal basis, and on level three crop growth and development. It is argued that the control procedures as they are employed in the practice of horticulture, can be seen as a combination of the levels one and two, whereas GCFC restricts itself to level one. It is suggested that the control procedures can be improved by solving the GCFC) problem adequately and formulate the procedures as setpoint control of level one.Also, in Chapter 2 an overview of existing literature is presented, both on control in greenhouses and on models of the greenhouse climate.Another conceptual part is presented in Chapter 8, where the optimal control of plant growth is treated. Here the idea of the hierarchical system is employed to describe the optimal control problem. The system is broken down into less complex subsystems (levels in the hierarchical system) and each of the higher levels is optimized in terms of output variables of the lower levels. This assumes that the variables that are used in the optimization correspond with the relevant level.These ideas are reflected against the literature. It is ascertained that measurements on plants can be performed (the speaking plant approach) and that potentially plant transpiration can be regulated -at least in an experimental situation. However, the measurements have to be made in relation with specific knowledge of the plant processes under control. The measurement of single variables like leaf temperature, evapotranspiration etc. alone is not seen to lead to significant results.Although the material in Chapter 8 is speculative by nature, the basic ideas are well established. Scientific knowledge alone does not imply more opportunities of (optimal) control, and for optimal control the approach should be aimed at reducing the complexity of the problem by focusing on variables (and relations between variables) that comply with the level of the hierarchical system.ModelingThe second theme of this thesis concerns the modeling. In Chapter 3 a new approach to the modeling of dynamical greenhouse climate processes is presented. The approach incorporates a sequence of key features which differ from the usual one.The first feature is that the greenhouse climate process -in our case restricted to the temperature- and the actuator processes (mixing valve process and ventilation window process) are described separately. For the mixing valve process that regulates the temperature of the heating pipe network, this is quite natural since the output of the mixing valve process (the heating pipe temperature) can be measured. For the ventilation windows process this is less natural, because the output of this process is the air change rate, which is not directly measurable. However, by the proposed way of description the main non-linearities are removed from the climate process.The following steps follow logically when dynamical systems are of interest: the climate (temperature) process is formulated in terms of incremental variables and a working point is defined. Essential in greenhouses is that the working point is slowly time-varying. By supplying (relatively) high frequency signals as inputs of the system, the low frequency variations of the working point can be rejected using filter techniques. Then parameter estimation is carried out in the time domain, using optimization techniques in order to determine the parameters of a simple model.In this thesis, for the filtering of the signals frequency domain techniques have been used, but filtering in the time domain (with finite impulse response filters) could be used as well. For the test signal, a block signal was applied, because some frequency dependency of the parameters was anticipated. This test signal performs well for the mixing valve as actuator of the process, but for the ventilation windows a test signal spanning a wider frequency range must be used.Up to this point, the traditional goal of control engineering is satisfied, since the process is sufficiently described. However, from the results some dependencies on physical phenomena could be guessed (section 3.4.5). Therefore it was tried to interpret the results in terms of physical parameters. Because a detailed physical model does not comply with the simple dynamical model, an approach was followed using heating-load coefficients (k-values), where the heating-load coefficients enter as the parameters into the simple thermal model.To carry out the interpretation (section 3.4.6), at least one heating-load parameter has to be known. For this, the parameter describing the heat flow from the heating pipe network into the greenhouse is used. This parameter was determined from one type of experiment, and was found to be non-linear.Because the parameter estimation of the dynamical models was carried out on various temperature levels, the non-linearity of the heating system could be checked and was found to comply in both types of experiments.From the parameter of the heating system, the other parameters could be calculated. The values that are found are consistent, as they are confirmed in several different experiments under different outside weather conditions. The value of the heating system parameter was found to agree with values from literature. However, the values found from parameter estimation differ roughly a factor two from the corresponding values found in literature.This latter result could be caused by a defective value of the heating system parameter. Therefore, in Chapter 7 a steady-state analysis is carried out to determine the parameters, where again the heating system parameter is assumed to be known. This time the parameters agree with results found in the literature, so that it may be concluded that the parameters of the dynamical (control) models and the static heating-load models differ, and that the first ones are frequency dependent.For a few cases in Chapter 7 it is also demonstrated, that it is possible to model the slowly time-varying working point, using a quasi-static model. The absence of a long-wave radiation term from the sky in the model can be seen as an omission here. It was suggested that at daytime a quasi-static model should be employed, and that at nighttime a (more simple) steady-state (static) model can be used. When the responses of the working point are combined with the responses of the dynamical model, the \"real\" climate responses can be calculated so that a model of the greenhouse climate is obtained. This model is quite accurate in predicting the momentaneous behaviour of the greenhouse climate process.ControlThe control of greenhouse climates in terms of GCFC is discussed in Chapter 4. Here the attention is focused on temperature control.By analyzing the behaviour of the control loop, performance criteria are formulated, where the attention is focused on the behaviour of the controller when saturations occur caused by the influences of the outside weather conditions. In this respect the control differs from the usual ones. This leads to the formulation of the performance of the GCFC control in terms of overshoot, sag, and undershoot.The performance of a conventional type PI controller is compared with a new dog-lead PI algorithm -which is easily implemented in a computerin terms of the performance criteria. It is seen that the dog-lead algorithm is by far superior in performance with respect to undershoot, better with respect to sag, and similar with respect to overshoot. Since undershoot is the most severe phenomena with respect to poor performance, it is suggested that the dog-lead algorithm is of great practical interest.Also a split-range algorithm is described, which can be used in greenhouses with an upper and a lower heating pipe network.Adaptive controlAn adaptive control method of GCFC of the greenhouse temperature is presented in Chapter 6, and the relevant theory is treated in Chapter 5.The theory is concerned with a novel approach to the estimation of parameters of a dynamical process. The algorithm is based on stability criteria and is formulated as a gradient optimization. From the appearance of the resulting algorithm in the discrete time domain, resemblance to the well known least-squares method is claimed. In the continuous time domain similar algorithms are presented.Adaptive control is presented in Chapter 6. After an outline of the problems associated with the design, results are given of a field test that concludes several years experience with the adaptive method. It is claimed that for the comparison made in the field test, the \"best\" tuned algorithms were compare",
+    "doi": "10.18174/205635",
+    "url": "https://doi.org/10.18174/205635",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Greenhouse Technology and Climate Control"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "A.J. Udink ten Cate"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Modeling and (adaptive) control of greenhouse climates"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1983."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18174/205635"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Greenhouse Technology and Climate Control"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VX/VXRQSTDU.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18174/205635"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/99YE3EJ2>
+  a schema:ScholarlyArticle ;
+  schema:name "El sonido del espíritu en las sociedades secretas de África Central" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=99YE3EJ2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:99YE3EJ2" ;
+  schema:description "espanolEl sonido oculto, simboliza el lenguaje del mundo del mas alla en muchas sociedades secretas africanas. La “Voz” del espiritu o “mascara acustica” tiene una emision en dos espacios: el publico y el privado. Investigamos la posible trayectoria de “La Voz” en las sociedades secretas desde Congo a Camerun. Este fenomeno y otros elementos comunes viajarian en el sentido de las migraciones de subgrupos ndowe. El de los balondo, estaria en el origen de la transmision de la “Voz” en Calabar en la sociedad Ekpe, legando la “mascara acustica” a traves de los esclavos carabali a la sociedad secreta Abakua cubana. Encontramos la “Voz” en sociedades secretas ndowe: Ukuku, Mwiri en Gabon; Ngakola en Congo; Bweti, Mweli en Guinea Ecuatorial; Iyengu en Camerun. Indagamos sobre las posibles relaciones etnicas, o una “criollizacion y ritual” en la transmision de “La Voz”, desde la Cuenca del Congo hasta Calabar. EnglishThe hidden sound emitted by an instrument symbolizes the language of the afterlife in many African secret societies. The Voice of the spirit or acoustic mask has an emission in two spaces: public and private. We investigate the possible trajectory of the Voice in secret societies from Congo to Cameroon. This phenomenon and other common elements would travel in the sense of ndowe subgroup migrations. The Balondo ndowe subgroup, would be in the origin of the transmission of the Voice in Calabar in the Ekpe society, transfering the acoustic mask through the carabali slaves to the Cuban Abakua secret society. We find the Voice in many ndowe subgroups in secret societies: Ukuku, Mwiri in Gabon; Ngakola in Congo; Bweti, Mweli in Equatorial Guinea, Iyengu in Cameroon. We inquire about possible ethnic relations, or a cultural and ritual creolization in the transmission of the “Voice, from the Congo Basin to Calabar." ;
+  schema:author "Isabela de Aranzadi" ;
+  schema:datePublished "2017" ;
+  schema:publisher "XXII Coloquio de Historia Canario-Americana: las ciudades del mundo Atlántico. Pasado, presente y futuro, 2017" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Hispanic-African Historical Relations", "Linguistic Studies and Language Acquisition" .

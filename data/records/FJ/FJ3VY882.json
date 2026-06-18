@@ -1,0 +1,128 @@
+{
+  "key": "FJ3VY882",
+  "uri": "https://medjat.irokosociety.org/id/library/FJ3VY882",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FJ3VY882",
+  "zotero": {
+    "group": "6479329",
+    "key": "FJ3VY882",
+    "version": 3465,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FJ3VY882",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Modern slavery statements: From regulation to substantive supply chain reporting",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stefan Schaper"
+      },
+      {
+        "role": "editor",
+        "name": "Irene Pollach"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Journal of Cleaner Production",
+    "publicationTitle": "Journal of Cleaner Production",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Cleaner Production",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "313",
+    "issue": "",
+    "pages": "127872-127872",
+    "abstract": "Recent years have seen a renewed focus on labor standards in the supply chain, prompted by legislation that requires firms to provide an account of their efforts to combat modern slavery. However, as a common problem of non-financial disclosure regulation, companies can decide the extent and content of their reporting, which could potentially result in merely symbolic disclosures with little substance. We examine the disclosure of substantive actions in modern slavery statements, defined as those disclosures of corporate actions that can positively affect working conditions in supply chains. We examine the corporate disclosure of these actions over time in order to evaluate whether legally mandated disclosure requirements could lead to progress in combatting modern slavery. For this purpose, we collected modern slavery statements from companies that had issued such statements for at least two different years after the introduction of the regulatory requirement in the United Kingdom and performed a content analysis with a coding instrument that captures substantive actions against modern slavery. Our analysis uncovers extremely heterogeneous reporting practices, especially regarding the disclosure of the effectiveness of actions against modern slavery. Based on our analysis, we identify best practices of substantive disclosures to offer a benchmark for corporate self-reports of modern slavery and inform policymaking on modern slavery reporting.",
+    "doi": "10.1016/j.jclepro.2021.127872",
+    "url": "https://doi.org/10.1016/j.jclepro.2021.127872",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Global trade, sustainability, and social impact",
+      "Regulation and Compliance Studies",
+      "Sustainable Supply Chain Management"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stefan Schaper"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Modern slavery statements: From regulation to substantive supply chain reporting"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Cleaner Production, 2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "127872-127872 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1016/j.jclepro.2021.127872"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global trade, sustainability, and social impact"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Regulation and Compliance Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sustainable Supply Chain Management"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Irene Pollach"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FJ/FJ3VY882.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1016/j.jclepro.2021.127872"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

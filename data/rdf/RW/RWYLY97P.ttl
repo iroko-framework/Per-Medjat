@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RWYLY97P>
+  a schema:Chapter ;
+  schema:name "Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RWYLY97P> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RWYLY97P" ;
+  schema:author "Rafael López Valdés" ;
+  schema:creator "Aviva Chomsky" ;
+  schema:datePublished "2019" ;
+  schema:sameAs <https://doi.org/10.1215/9781478004561-045> ;
+  dcterms:identifier "doi:10.1215/9781478004561-045" .

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/DPNAY5IS>
+  a schema:ScholarlyArticle ;
+  schema:name "Rapid evolution of ritual architecture in central Polynesia indicated by precise 230 Th/U coral dating" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DPNAY5IS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DPNAY5IS" ;
+  schema:description "In Polynesia, the complex Society Islands chiefdoms constructed elaborate temples (marae), some of which reached monumental proportions and were associated with human sacrifice in the 'Oro cult. We investigated the development of temples on Mo'orea Island by 230Th/U dating of corals used as architectural elements (facing veneers, cut-and-dressed blocks, and offerings). The three largest coastal marae (associated with the highest-ranked chiefly lineages) and 19 marae in the inland 'Opunohu Valley containing coral architectural elements were dated. Fifteen corals from the coastal temples meet geochemical criteria for accurate 230Th/U dating, yield reproducible ages for each marae, and have a mean uncertainty of 9 y (2sigma). Of 41 corals from wetter inland sites, 12 show some diagenesis and may yield unreliable ages; however, the majority (32) of inland dates are considered accurate. We also obtained six 14C dates on charcoal from four marae. The dates indicate that temple architecture on Mo'orea Island developed rapidly over a period of approximately 140 y (ca. AD 1620-1760), with the largest coastal temples constructed immediately before initial European contact (AD 1767). The result of a seriation of architectural features corresponds closely with this chronology. Acropora coral veneers were superceded by cut-and-dressed Porites coral blocks on altar platforms, followed by development of multitier stepped altar platforms and use of pecked basalt stones associated with the late 'Oro cult. This example demonstrates that elaboration of ritual architecture in complex societies may be surprisingly rapid." ;
+  schema:author "Warren D. Sharp" ;
+  schema:creator "Jennifer G. Kahn", "Christina M. Polito", "Patrick Vinton Kirch" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Proceedings of the National Academy of Sciences" ;
+  schema:sameAs <https://doi.org/10.1073/pnas.1005063107> ;
+  dcterms:identifier "doi:10.1073/pnas.1005063107" ;
+  dcterms:subject "Geology and Paleoclimatology Research", "Island Studies and Pacific Affairs", "Pacific and Southeast Asian Studies" .

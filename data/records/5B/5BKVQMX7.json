@@ -1,0 +1,111 @@
+{
+  "key": "5BKVQMX7",
+  "uri": "https://medjat.irokosociety.org/id/library/5BKVQMX7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5BKVQMX7",
+  "zotero": {
+    "group": "6479329",
+    "key": "5BKVQMX7",
+    "version": 3750,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5BKVQMX7",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "The Mexican War",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David S. Heidler"
+      },
+      {
+        "role": "series editor",
+        "name": "Jeanne T. Heidler"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Greenwood Publishing Group Inc. eBooks",
+    "publicationTitle": "Greenwood Publishing Group Inc. eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Greenwood Publishing Group Inc. eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "<JATS1:p>Victory over Mexico added vast western territories to America, but it also quickened the domestic slavery debate and crippled Mexico for decades, making the Mexican War one of our most ambiguous conflicts. Primary documents, biographical sketches and narrative chapters rounded out by twenty images and maps and a robust bibliography and index make this work by two of America's foremost Antebellum historians a must have to understand one of our most contentious episodes.</JATS1:p> <JATS1:p>The United States went to war with Mexico in the spring of 1846 and by the fall of 1847 American soldiers were walking in the streets of Mexico City. The following February, Mexico was forced to sign the Treaty fo Guadalupe Hidalgo that ceded what became the U.S. Southwest and Pacific Coast. Rather than an isolated episode, the war was the culmination of a series of events that began before Mexican independence and included treaty arrangements with Spain, the revolt of Mexico's northern province of Texas, and the growing discord over American reactions to Texan independence. The legacy of the war was dire for both countries. The victorious United States commenced a bitter argument over the fate of slavery in the territories acquired from Mexico that eventually culminated in southern secession and Civil War. Defeated Mexico coped for decades with a ruined economy and a broken political system while nursing a grudge against the Colossus of the North.</JATS1:p> <JATS1:p>This book examines these events from both the American and Mexican perspectives. Topics covered include succinct histories of the American and Mexican Republics from their colonial founding to their independence from European countries; The problems over Texas, including Anglo immigration, the Texas Revolution, and the controversies surrounding U.S. annexation of Texas; the crises instigated by American annexation of Texas brought on by the crossed purposes of American expansionist aims and domestic concerns over slavery; the northern campaigns of the war in California and New Mexico; Winfield Scott's amphibious landing and siege at Vera Cruz and his epic march to Mexico City and the collapse of the Mexican government; and finally the crafting of the peace treaty and the bitter legacies of the war for both the U.S. and Mexico. Biographical sketches of Valentin Gomez Farias, Jose Joaquin de Herrera, Sam Houston, Stephen Watts Kearny, President James Polk and other notable figures of the event provide firsthand glimpses into the motivations of the key players. Nine maps, eleven images, a detailed chronology, and a dozen vital annotated primary documents add considerable depth to the book. An extensive annotated biography and robust index complete this valuable new edition on one of Young America's most trying and contentious periods.</JATS1:p>",
+    "doi": "10.5040/9798400685170",
+    "url": "https://doi.org/10.5040/9798400685170",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David S. Heidler"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Mexican War"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Greenwood Publishing Group Inc. eBooks, 2005."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5040/9798400685170"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Jeanne T. Heidler"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/5B/5BKVQMX7.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5040/9798400685170"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

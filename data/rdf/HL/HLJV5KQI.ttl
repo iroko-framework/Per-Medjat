@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HLJV5KQI>
+  a schema:ScholarlyArticle ;
+  schema:name "Les guerriers bizango : l'art d'une société secrète vaudoue en Haïti, symbole de liberté et de justice" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HLJV5KQI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HLJV5KQI" ;
+  schema:datePublished "2011" ;
+  schema:publisher "Paris : Lelivredart : Galerie Vibrations, ©2011." ;
+  dcterms:subject "Art, Haitian Exhibitions.", "Bizango (Cult) Exhibitions.", "Exhibition catalogs.", "Haiti Social life and customs Exhibitions.", "Vodou History Haiti Exhibitions." .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KLWIG7XQ>
+  a schema:Thesis ;
+  schema:name "\"We are Going to Destruction as Fast as We Can\": Slavery, the Rule of Law, and the Constitutional Union Party, 1849-1861" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KLWIG7XQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KLWIG7XQ" ;
+  schema:description "The thesis of this dissertation searches for elements of continuity in the continued appeals for a national “Union Party” from roughly 1849 to 1861. Historians have explored various parts of this movement in a discrete fashion, but never has anyone attempted to examine the history of the effort to create a Union Party across the decade of the 1850s. What I find is that all incarnations of the Union Party stressed a common devotion to the rule of law, which they saw as under threat by sectional agitators who stirred up the passions of the public. Whether in debates over the right of the federal government to coerce a state, the legality of the Fugitive Slave Act, and presence of filibustering oversees, or the violence which attended partisan elections, Americans’ respect for the rule of law seemed at issue throughout that turbulent decade. What historians have branded the hallow pronouncement of “the Union, the Constitution, and the Enforcement of the Laws,” I assert, was in actuality a statement against the seeming lawlessness which pervaded the democratic republic of the United States at mid-century. Another point of continuity which this dissertation develops further is the belief among politicians that a partisan realignment was always just around the corner. This was especially true when Democrats and Whigs fought ferocious battles during the period not with each other, but through factions upset at either being deprived of valuable patronage or policies on contentious issues like slavery. In particular, the rage for offices by aspiring politicians and the fraud that this office-seeking encouraged contributed to a decline in popular enthusiasm for the major parties, something advocates of a new Union Party wished to restore to its past heights. Through these two insights, this dissertation invites historians to consider those continuities that underlay even a period of wrenching change like the Civil War Era." ;
+  schema:author "Sean Nalty" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Libra" ;
+  schema:sameAs <https://doi.org/10.18130/v3hr5f> ;
+  dcterms:identifier "doi:10.18130/v3hr5f" ;
+  dcterms:subject "American Constitutional Law and Politics", "Military History and Strategy", "Politics and Conflicts in Afghanistan, Pakistan, and Middle East" .

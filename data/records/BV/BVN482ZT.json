@@ -1,0 +1,102 @@
+{
+  "key": "BVN482ZT",
+  "uri": "https://medjat.irokosociety.org/id/library/BVN482ZT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BVN482ZT",
+  "zotero": {
+    "group": "6479329",
+    "key": "BVN482ZT",
+    "version": 3340,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BVN482ZT",
+    "dateAdded": "2026-05-20T16:34:00Z",
+    "dateModified": "2026-05-20T16:34:00Z"
+  },
+  "display": {
+    "title": "À propos de la seconde campagne antisuperstitieuse en Haïti (1911-1912)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lewis Ampidu Clorméus"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Cairn.info",
+    "publicationTitle": "Cairn.info",
+    "bookTitle": "",
+    "journalAbbreviation": "Cairn.info",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Au ive siècle, l’Éthiopie est le premier pays d’Afrique noire à avoir adopté la religion chrétienne. La sculpture figurative étant bannie, l’édification et la ferveur des fidèles passera par peintures murales, icônes, manuscrits dans les églises et les monastères. Au fil des siècles, des prêtres-peintres vont assimiler et réinterpréter les modèles extérieurs grecs, syriaques, arméniens, italiens, etc. Autour de deux thèmes – les regards et les anges –, les quelques lignes de cette contribution se veulent une invitation à la contemplation des 4 pages en couleurs où sont reproduits quelques peintures éthiopiennes...",
+    "doi": "10.3917/hmc.024.0105",
+    "url": "https://doi.org/10.3917/hmc.024.0105",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Studies and Socio-cultural Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lewis Ampidu Clorméus"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "À propos de la seconde campagne antisuperstitieuse en Haïti (1911-1912)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cairn.info, 2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3917/hmc.024.0105"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies and Socio-cultural Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BV/BVN482ZT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3917/hmc.024.0105"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

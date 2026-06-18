@@ -1,0 +1,114 @@
+{
+  "key": "Y5YTMSNL",
+  "uri": "https://medjat.irokosociety.org/id/library/Y5YTMSNL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Y5YTMSNL",
+  "zotero": {
+    "group": "6479329",
+    "key": "Y5YTMSNL",
+    "version": 3447,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Y5YTMSNL",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Trafficking In Human Beings: Modern Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Silvia Scarpa"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Libreria Editrice Vaticana eBooks",
+    "publicationTitle": "Libreria Editrice Vaticana eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Libreria Editrice Vaticana eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Following a wish expressed by Pope Francis, the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences, together with the FIAMC (the World Federation of Catholic Medical Associations), are organising a preparatory workshop on 2-3 November 2013 in the Casina Pio IV. This will examine human trafficking and modern slavery in order to establish the real state of this phenomenon and an agenda to combat this heinous crime. For example, the natural sciences today can provide new tools that can be used against this new form of slavery, such as a digital registry to compare the DNA of unidentified missing children (including cases of illegal adoption) with that of their family members who have reported their disappearance.",
+    "doi": "10.65398/rjaw2614",
+    "url": "https://doi.org/10.65398/rjaw2614",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Human Rights and Development",
+      "International Law and Human Rights",
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Silvia Scarpa"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Trafficking In Human Beings: Modern Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Libreria Editrice Vaticana eBooks, 2018."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.65398/rjaw2614"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Human Rights and Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "International Law and Human Rights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Y5/Y5YTMSNL.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.65398/rjaw2614"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

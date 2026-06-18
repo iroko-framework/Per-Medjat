@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3WGQ9SSU>
+  a schema:Thesis ;
+  schema:name "Slavery and the household in Bengal, 1770-1880." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3WGQ9SSU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3WGQ9SSU" ;
+  schema:description "This thesis outlines a political economy within which slaves lived and worked, within the households of the hegemons in Bengal between the end of the eighteenth century and the end of the nineteenth. Within household-polities that contained slaves, there were many distinctions according to skill, age, area of origin, and principally of gender. Female slaves, of great importance within the inner slaving economies of India, were however differently thought of, and their work differently conceptualised in the indigenous and colonial regimes. This led to a conflict of laws around issues of legitimacy, marriage, succession and inheritance in the period under study. Where colonial administrators thought of marriage rituals as absent from slave social relations, indigenous holders spoke of female slaves as daughters, and secondary wives. Where the British colonial legal systems had no place for the peculium of the slave, indigenous systems relied on the income-generating and maintenance-providing aspects of the peculium of their slaves. The system of slave-holding that emerged in different sectors of the domestic economy as a result of these multiple conflicts of laws, and presumptions, was thus much more like the colonial Atlantic systems than had hitherto been the case. For, in spite of differences between two slave-holding systems, the colonial state did not abolish slave-holding, as much as changed the organising principles that lent internal consistency to the older system. So while slavery was allowed to persist, the conditions of slaves and masters alike were diminished. At the same time, the colonial regime exerted a more precise control over the labours of slave-women and girls, always critical within the domestic labour economy, towards its own ends. The apotheosis of colonial legal intervention in this task was the Contagious Diseases and Cantonment Acts of the latter half of the nineteenth century." ;
+  schema:author "Indrani Chatterjee" ;
+  schema:datePublished "1996" ;
+  schema:publisher "SOAS Research Online (SOAS University of London)" ;
+  schema:sameAs <https://doi.org/10.25501/soas.00029751> ;
+  dcterms:identifier "doi:10.25501/soas.00029751" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical and Contemporary Political Dynamics", "Vietnamese History and Culture Studies" .

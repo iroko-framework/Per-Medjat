@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3ZQR5P6T>
+  a schema:Book ;
+  schema:name "Silencing the past: power and the production of history" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3ZQR5P6T> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3ZQR5P6T" ;
+  schema:description "In this provocative analysis of historical narrative, Michel-Rolph Trouillot demonstrates how power operates, often invisibly, at all stages in the making of history to silence certain voices. From the West's failure to acknowledge the Haitian Revolution, the most successful slave revolt in history, to the continued debate over denials of the Holocaust, and the meaning of Columbus's arrival in the Americas, Trouillot shows us that history is not simply the recording of facts and events, but a process of actively enforced silences, some unconscious, others quite deliberate." ;
+  schema:author "Trouillot, Michel-Rolph" ;
+  schema:datePublished "1995" ;
+  schema:publisher "Beacon Press" ;
+  dcterms:identifier "isbn:978-0-8070-4310-3" ;
+  dcterms:subject "Historicism", "Historiography", "Power (Social sciences)" .

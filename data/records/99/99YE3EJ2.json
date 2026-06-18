@@ -1,0 +1,112 @@
+{
+  "key": "99YE3EJ2",
+  "uri": "https://medjat.irokosociety.org/id/library/99YE3EJ2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=99YE3EJ2",
+  "zotero": {
+    "group": "6479329",
+    "key": "99YE3EJ2",
+    "version": 1353,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/99YE3EJ2",
+    "dateAdded": "2026-05-19T13:28:57Z",
+    "dateModified": "2026-05-19T13:28:57Z"
+  },
+  "display": {
+    "title": "El sonido del espíritu en las sociedades secretas de África Central",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabela de Aranzadi"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "XXII Coloquio de Historia Canario-Americana: las ciudades del mundo Atlántico. Pasado, presente y futuro, 2017",
+    "publicationTitle": "XXII Coloquio de Historia Canario-Americana: las ciudades del mundo Atlántico. Pasado, presente y futuro, 2017",
+    "bookTitle": "",
+    "journalAbbreviation": "XXII Coloquio de Historia Canario-Americana: las ciudades del mundo Atlántico. Pasado, presente y futuro, 2017",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "144",
+    "abstract": "espanolEl sonido oculto, simboliza el lenguaje del mundo del mas alla en muchas sociedades secretas africanas. La “Voz” del espiritu o “mascara acustica” tiene una emision en dos espacios: el publico y el privado. Investigamos la posible trayectoria de “La Voz” en las sociedades secretas desde Congo a Camerun. Este fenomeno y otros elementos comunes viajarian en el sentido de las migraciones de subgrupos ndowe. El de los balondo, estaria en el origen de la transmision de la “Voz” en Calabar en la sociedad Ekpe, legando la “mascara acustica” a traves de los esclavos carabali a la sociedad secreta Abakua cubana. Encontramos la “Voz” en sociedades secretas ndowe: Ukuku, Mwiri en Gabon; Ngakola en Congo; Bweti, Mweli en Guinea Ecuatorial; Iyengu en Camerun. Indagamos sobre las posibles relaciones etnicas, o una “criollizacion y ritual” en la transmision de “La Voz”, desde la Cuenca del Congo hasta Calabar. EnglishThe hidden sound emitted by an instrument symbolizes the language of the afterlife in many African secret societies. The Voice of the spirit or acoustic mask has an emission in two spaces: public and private. We investigate the possible trajectory of the Voice in secret societies from Congo to Cameroon. This phenomenon and other common elements would travel in the sense of ndowe subgroup migrations. The Balondo ndowe subgroup, would be in the origin of the transmission of the Voice in Calabar in the Ekpe society, transfering the acoustic mask through the carabali slaves to the Cuban Abakua secret society. We find the Voice in many ndowe subgroups in secret societies: Ukuku, Mwiri in Gabon; Ngakola in Congo; Bweti, Mweli in Equatorial Guinea, Iyengu in Cameroon. We inquire about possible ethnic relations, or a cultural and ritual creolization in the transmission of the “Voice, from the Congo Basin to Calabar.",
+    "doi": "",
+    "url": "https://openalex.org/W3026378716",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Hispanic-African Historical Relations",
+      "Linguistic Studies and Language Acquisition"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabela de Aranzadi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El sonido del espíritu en las sociedades secretas de África Central"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "XXII Coloquio de Historia Canario-Americana: las ciudades del mundo Atlántico. Pasado, presente y futuro, 2017, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "144 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic Studies and Language Acquisition"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/99/99YE3EJ2.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

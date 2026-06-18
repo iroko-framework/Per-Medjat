@@ -1,0 +1,119 @@
+{
+  "key": "48ZD55R4",
+  "uri": "https://medjat.irokosociety.org/id/library/48ZD55R4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=48ZD55R4",
+  "zotero": {
+    "group": "6479329",
+    "key": "48ZD55R4",
+    "version": 3843,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/48ZD55R4",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "The Mexican Oil Boom, 1977-85",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Michael Gavin"
+      }
+    ],
+    "year": "1996",
+    "date": "1996",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "164-200",
+    "abstract": "Abstract Throughout the twentieth century petroleum has played a prominent, and occasionally decisive, role in Mexico’s political and economic development, and the 1970s and early 1980s were no exception. Mexico was profoundly shaken by the oil market disturbances that rocked the world economy during that period, and only with great difficulty did Mexico emerge from the macroeconomic cloud left by the shocks.",
+    "doi": "10.1093/oso/9780198294634.003.0005",
+    "url": "https://doi.org/10.1093/oso/9780198294634.003.0005",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Economic Theory and Policy",
+      "Market Dynamics and Volatility",
+      "Natural Resources and Economic Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Michael Gavin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Mexican Oil Boom, 1977-85"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1996."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "164-200 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1093/oso/9780198294634.003.0005"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Theory and Policy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Market Dynamics and Volatility"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Natural Resources and Economic Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/48/48ZD55R4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1093/oso/9780198294634.003.0005"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

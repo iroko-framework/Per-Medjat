@@ -1,0 +1,141 @@
+{
+  "key": "Y845QY6L",
+  "uri": "https://medjat.irokosociety.org/id/library/Y845QY6L",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Y845QY6L",
+  "zotero": {
+    "group": "6479329",
+    "key": "Y845QY6L",
+    "version": 3990,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Y845QY6L",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Evaluation Method for Thixotropy of Clay Subjected to Unconfined Compressive Test",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bin Tang"
+      },
+      {
+        "role": "editor",
+        "name": "Biaohe Zhou"
+      },
+      {
+        "role": "editor",
+        "name": "Liang Xie"
+      },
+      {
+        "role": "editor",
+        "name": "Jianfeng Yin"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Frontiers in Earth Science",
+    "publicationTitle": "Frontiers in Earth Science",
+    "bookTitle": "",
+    "journalAbbreviation": "Frontiers in Earth Science",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "9",
+    "issue": "",
+    "pages": "",
+    "abstract": "Thixotropy is a hot topic in the field of rheology of dispersed systems. Studying the quantitative index and evaluation method for thixotropy of clay is of great significance to evaluate the safety of foundation under long-term load. To explore the index system and classification methods for the thixotropy of clay, unconfined compressive strength tests were carried out on three groups of undisturbed soil and remolded soil that were cured at different times after remodeling of the Zhanjiang Formation in China to obtain the unconfined compressive strength values of the samples and establish the relationship between unconfined compressive strength and curing time of the remodeled soil. The concept of thixotropic sensitivity is introduced to reflect the relationship between thixotropy and structure. According to the relationship between thixotropy sensitivity and curing time and its logarithmic value, two indexes of structural recovery coefficient K and structural recovery index K e were established to evaluate the thixotropy of structural clay in the Zhanjiang Formation. Following the structural classification method of soil, the boundary values of structural recovery coefficients K I and K II are calculated to classify the thixotropy of soil. When the value of K is less than that of K I , the thixotropy of soil is weak. When the value of K is greater than that of K but less than that of K II , the thixotropy of soil is moderate. When the value of K is greater than that of K II , the thixotropy of soil is strong. The method is used to discuss the thixotropy of soil in the literature, and the rationality of the method is verified. Results show that this method can be used to preliminary classify the thixotropy of soil.",
+    "doi": "10.3389/feart.2021.683454",
+    "url": "https://doi.org/10.3389/feart.2021.683454",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Dam Engineering and Safety",
+      "Geotechnical Engineering and Soil Mechanics",
+      "Grouting, Rheology, and Soil Mechanics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bin Tang"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Evaluation Method for Thixotropy of Clay Subjected to Unconfined Compressive Test"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Frontiers in Earth Science, 2021."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3389/feart.2021.683454"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Dam Engineering and Safety"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geotechnical Engineering and Soil Mechanics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Grouting, Rheology, and Soil Mechanics"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Biaohe Zhou"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Liang Xie"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jianfeng Yin"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Y8/Y845QY6L.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3389/feart.2021.683454"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

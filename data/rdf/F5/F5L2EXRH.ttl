@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/F5L2EXRH>
+  a schema:ScholarlyArticle ;
+  schema:name "The problem. Trafficking in Humans: The Slavery of Our Age" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F5L2EXRH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F5L2EXRH" ;
+  schema:description "Trafficking in human beings has been widely recognized as an abhorrent form of modern-day slavery, and condemned as an act that gravely violates universal human rights. Treating people as commodities that can be bought or sold as slaves, that are exploited ruthlessly by those who remove their passports and visas and withhold their earnings to get victims under the trafficker's ultimate control, is one of the fastest growing international crimes worldwide. Enormous profits have created a global network organized by transnational criminal gangs that traffic in people in the same way as arms, drugs, or money. Although most of the world's countries eliminated slavery long ago, trafficking in human beings has become one of the most lucrative activities of organized criminal groups, who have proven to be highly effective in entering countries and regions impoverished by wars, armed conflicts, or badly managed transitions in government." ;
+  schema:author "Marie Vlachová" ;
+  schema:datePublished "2005" ;
+  schema:publisher "Connections The Quarterly Journal" ;
+  schema:sameAs <https://doi.org/10.11610/connections.04.4.01> ;
+  dcterms:identifier "doi:10.11610/connections.04.4.01" ;
+  dcterms:subject "Sex work and related issues" .

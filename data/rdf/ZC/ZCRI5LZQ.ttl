@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZCRI5LZQ>
+  a schema:Book ;
+  schema:name "Urgent archives: Enacting liberatory memory work" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZCRI5LZQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZCRI5LZQ" ;
+  schema:author "Caswell, Michelle" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Routledge" ;
+  dcterms:subject "South Asian American Digital Archive", "Western archival theories", "archival temporalities", "archivists", "artistic representations", "community archives", "liberatory activation", "liberatory memory work", "linear progress narratives", "radical politics", "symbolic annihilation" .

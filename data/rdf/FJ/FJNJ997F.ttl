@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FJNJ997F>
+  a schema:ScholarlyArticle ;
+  schema:name "Review on cadmium removal from aqueous solutions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FJNJ997F> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FJNJ997F" ;
+  schema:description "Cadmium is known to be toxic for living organism even if it is present in low levels. Generally it is associated with zinc and copper minerals and is produced as a byproduct of these industries. It enters the environment from electroplating, smelting, alloy manufacturing, pigments, plastic, cadmium-nickel batteries, fertilizers, pesticides, mining, pigments and dyes, textile operations and refining industries. Various ways of cadmium removal are: precipitation, ion exchange, solvent extraction and adsorption. The present review specifically describes various types of adsorbents which have been used for removing cadmium from aqueous solutions. General emphasis has been on the utilization of agricultural, industrial wastes and low cost synthetic oxides as adsorbents. In most of the studies batch mode data has been evaluated by determining the kinetic, isothermic and thermodynamic parameters. A number of studies have also addressed the mechanism of adsorption process employing instrumental techniques such as XRD, FTIR, SEM etc. Modeling of column data has also been reported by some researchers. More attention needs to be given for regeneration/reuse/ safe disposal of the loaded adsorbents wherein the data are insufficient. The engineering aspects also need attention for commercial application of various adsorbents. International Journal of Engineering, Science and Technology, Vol. 2, No. 7, 2010, pp. 81-103" ;
+  schema:author "K Rao" ;
+  schema:creator "Mamata Mohapatra", "S. Anand", "Putcha Venkateswarlu" ;
+  schema:datePublished "2011" ;
+  schema:publisher "International Journal of Engineering Science and Technology" ;
+  schema:sameAs <https://doi.org/10.4314/ijest.v2i7.63747> ;
+  dcterms:identifier "doi:10.4314/ijest.v2i7.63747" ;
+  dcterms:subject "Adsorption and biosorption for pollutant removal" .

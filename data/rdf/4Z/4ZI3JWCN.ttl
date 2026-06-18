@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4ZI3JWCN>
+  a schema:ScholarlyArticle ;
+  schema:name "L’œuvre de Belkis Ayón : (re)construction d’une postérité" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4ZI3JWCN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4ZI3JWCN" ;
+  schema:description "La Belkis Ayón Estate organise et promeut depuis cinq ans une série d’expositions en Europe sur les estampes et la mémoire de Belkis Ayón, une artiste cubaine afro-descendante disparue prématurément en 1999. Des documentaires et des articles récents, pour la plupart accessibles sur les réseaux sociaux, complètent le dispositif mémoriel d’une artiste qui centra ses recherches thématiques, esthétiques et techniques sur la société abakuá, fermée aux femmes et aux homosexuels. Son parcours a été déterminé par le contexte historique et idéologique cubain des décennies 1980-90, mais son œuvre et sa mémoire sont désormais relues au prisme de sensibilités parfois contradictoires. Belkis Ayón est aujourd’hui montrée comme un exemple de sacrifice par le pouvoir culturel cubain mais revendiquée par ailleurs comme une figure féministe, intersectionnelle et décoloniale par certains milieux politiques et artistiques européens." ;
+  schema:author "Sylvie Mégevand" ;
+  schema:datePublished "2025" ;
+  schema:publisher "HispanismeS" ;
+  schema:sameAs <https://doi.org/10.4000/158qe> ;
+  dcterms:identifier "doi:10.4000/158qe" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Cuban History and Society", "Migration, Identity, and Health" .

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/L77XUF83>
+  a schema:ScholarlyArticle ;
+  schema:name "Afro-Brazilian religions in Portugal: bruxos, priests and pais de santo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=L77XUF83> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:L77XUF83" ;
+  schema:description "The Afro-Brazilian religions that established themselves in Portugal during the last twenty years are becoming more and more popular. The temples are full with Portuguese followers that, after going through the initiation processes, become important in the organization of the religious community and, with time, may themselves become priests. Most of them previously believers in the Catholic church, their turning towards the Afro-Brazilian cults most of the times does not keep them from sustaining their regular church-going practices. As such, many prefer Umbanda, closer to the Catholic matrix, while others turn to Candomblé and to African performances, which are rather new to them. Drawing on field work conducted in Lisbon, in temples and with followers of these cults, and on the pioneer work of Ismael Pordeus Jr., this paper explores some of the aspects of this new “Portuguese” syncretism, the way these cults incorporating possession appeal to the ­Portuguese, and the hermeneutical process of Brazilian influences in Portugal and returning to their roots again, linking the three corners of the Portuguese Black Atlantic." ;
+  schema:author "Clara Saraiva" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Etnografica" ;
+  schema:sameAs <https://doi.org/10.4000/etnografica.292> ;
+  dcterms:identifier "doi:10.4000/etnografica.292" ;
+  dcterms:subject "Ritual", "Religion and Society in Latin America", "Religious Tourism and Spaces", "Urban and sociocultural dynamics", "Candomble" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> .

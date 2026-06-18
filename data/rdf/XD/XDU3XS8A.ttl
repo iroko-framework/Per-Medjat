@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XDU3XS8A>
+  a schema:Book ;
+  schema:name "Afro-Cuban Religions and the Arts" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XDU3XS8A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XDU3XS8A" ;
+  schema:description "<italic>Afro-Cuban Religions and the Arts: A Dog Has Four Legs</italic> <italic>But Takes Only One Path</italic> argues for an understanding of Afro-Cuban religions and Vodou through the arts, be it through music, the visual arts, film, or literature. This book examines the philosophical and spiritual facets of religions like Regla de Ocha, Palo, Abakuá, and Vodou, and how deeply embedded they are in Cuban popular culture. Cuban popular music, from son to salsa, timba to rap, offer reflections on Ocha, Palo, and Abakuá influences. Film and visual arts borrow allegory from Regla de Ocha and Palo beliefs. Myth and the Haitian Revolution is embedded throughout the work of Alejo Carpentier, Aimé Césaire, and Derek Walcott. This volume seeks to dialogue with the works of contemporary artists and Caribbean ancestors such as C.L.R. James, Wilson Harris, and Fernández-Retamar, in order to show the impacts that spiritualism, religious belief, and mythology have had on Afro-Cuban art." ;
+  schema:author "Alan West-Durán" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Lexington Books" ;
+  schema:sameAs <https://doi.org/10.5771/9781793639837> ;
+  dcterms:identifier "doi:10.5771/9781793639837" ;
+  dcterms:identifier "isbn:978-1-7936-3983-7" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies" .

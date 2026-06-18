@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3LBJTJUR>
+  a schema:Chapter ;
+  schema:name "Appendix C: The Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3LBJTJUR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3LBJTJUR" ;
+  schema:author "Alan West-Durán" ;
+  schema:datePublished "2024" ;
+  schema:sameAs <https://doi.org/10.5771/9781793639837-243> ;
+  dcterms:identifier "doi:10.5771/9781793639837-243" ;
+  dcterms:subject "African history and culture analysis" .

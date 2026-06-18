@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SX2846CL>
+  a schema:Book ;
+  schema:name "Black Atlantic Crossings: The Lives and Anti-Racist Tactics of Booker T. Washington and Manuel R. Querino" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SX2846CL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SX2846CL" ;
+  schema:description "Black Atlantic Crossings examines the lives and anti-racist tactics of Booker T. Washington and Manuel R. Querino, placing the two figures in a transatlantic Black Atlantic frame rather than treating them only within U.S. and Brazilian national histories. The book considers their strategies for combating racism through education, politics, and cultural production, and argues for their continuing importance in histories of post-slavery racial thought and activism." ;
+  schema:author "Gledhill, Sabrina" ;
+  schema:creator "Bacelar, Jeferson Afonso", "Gomes, Flavio Dos Santos" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Editora Funmilayo Publishing" ;
+  dcterms:identifier "isbn:978-1-0686064-5-8" ;
+  dcterms:language "English" ;
+  dcterms:subject "Black Atlantic", "Black intellectual history", "Booker T. Washington", "Brazil", "Manuel Querino", "Manuel R. Querino", "United States", "anti-racism", "post-slavery", "race relations" .

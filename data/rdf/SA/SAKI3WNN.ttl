@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SAKI3WNN>
+  a schema:ScholarlyArticle ;
+  schema:name "After the Mining Boom: Demographic and Economic Aspects of Slavery in Mariana, Minas Gerais, 1750–1808" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SAKI3WNN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SAKI3WNN" ;
+  schema:description "Slavery in the interior state of Minas Gerais has been a focal point of the voluminous historiography appearing on Brazilian slavery in the past twenty years. During the mineral boom of the late seventeenth and early eighteenth centuries, Minas was the key region of the colonial Brazilian economy and the largest slaveholding capitania. The older literature on Brazilian history recognized the centrality of slave labor to the eighteenth-century mining sector but concluded that as the mining boom waned after 1750, slavery began to disintegrate. The history of Minas Gerais after the boom was interpreted as a long period of economic stagnation accompanied by reversion to cattle raising and subsistence agriculture, slow demographic growth, and the transfer of the Mineiro slave population during the nineteenth century to the more dynamic coffee-growing areas in Rio de Janeiro and São Paulo." ;
+  schema:author "Laird W. Bergad" ;
+  schema:datePublished "1996" ;
+  schema:publisher "Latin American Research Review" ;
+  schema:sameAs <https://doi.org/10.1017/s002387910001774x> ;
+  dcterms:identifier "doi:10.1017/s002387910001774x" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical and Cultural Archaeology Studies", "History of Colonial Brazil" .

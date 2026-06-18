@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ANGVWVR7>
+  a schema:Chapter ;
+  schema:name "Text-Based Emergency Alert Framework for Under-Resourced Languages in Southern Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ANGVWVR7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ANGVWVR7" ;
+  schema:description "Computational techniques are today bridging communication gap between speakers of different languages through natural language processing (NLP) techniques leading to the current description of the world as a global village. While languages like English, French, Mandarin, Spanish, and Russian, etc., are now easily translated to each other, most native African languages have not witnessed any such automated efforts toward translation to ease communication and information sharing between native speakers and non-speakers. Africa's language diversity is second to none on the planet. Under-resourced Nigerian languages, like Ibibio, Ijaw, Oro, Itshekiri, etc., if automated, could result in discovery of far-reaching knowledge and information. Under-resourced Nigerian languages lack lexical corpora or trained models for NLP tasks. Meeting the need for automated under-resourced language translation requires development of new techniques and expansion of existing machine-driven local language translation tools. Thus, this work proposes the use of a hybrid translation method incorporating rule-based and corpus-based translation approaches. This would result in creation of multilingual framework for automatic machine translation of English to Ibibio, an under-resourced language spoken in southern Nigeria and vice versa. The framework and the resulting Ibibio bilingual application programming interface (API) will drive the generation of multilingual emergency alert system across Southern Nigeria." ;
+  schema:author "Patience U. Usip" ;
+  schema:creator "Funebi Francis Ijebu", "Ifiok J. Udo", "Ikechukwu K. Ollawa" ;
+  schema:datePublished "2023" ;
+  schema:sameAs <https://doi.org/10.1201/9781003313267-5> ;
+  dcterms:identifier "doi:10.1201/9781003313267-5" ;
+  dcterms:subject "Natural Language Processing Techniques", "Speech and dialogue systems" .

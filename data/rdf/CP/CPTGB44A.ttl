@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CPTGB44A>
+  a schema:ScholarlyArticle ;
+  schema:name "“I Got Voodoo, I Got Hoodoo”: Ethnography and Its Objects in Disney’sthe Princess and the Frog" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CPTGB44A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CPTGB44A" ;
+  schema:description "Since the 2009 release of Disney’s The Princess and the Frog, critiques from within religious studies have focused on the role of its villain, Dr. Facilier, and its stereotypical distortions of Haitian Vodou. These are but a fraction of the allusions made to Black Atlantic traditions, however; several scenes contain artifacts pulled from the material cultures of Afro-Brazilian Umbanda and Quimbanda, as well as Afro-Cuban Abakuá, Palo Mayombe, and Lucumí. I demonstrate that filmmakers not only accessed a broader range of ethnographically-informed sources than has been acknowledged, but also engaged in their own ethnographic data collection with Vodou and “Yorùbá” priestess Ava Kay Jones. As a result, the film reproduces an extensively-documented discourse promulgated by practitioners of Afro-Diasporic religions concerning the (im)morality of magic. The film even follows Jones and the foundational scholarly literature on Black Atlantic traditions in furnishing characters with ethnically differentiated props and dwellings, coded as either proximate (Black and West African) or Other (Caribbean and Central African). I argue that filmmakers erred primarily in harboring a Protestant normative bias and depicting things endowed with agency according to the logic of the fetish. I conclude by proposing strategies for more ethically viable future representation of Black Atlantic traditions." ;
+  schema:author "Elizabeth Pérez" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Material Religion" ;
+  schema:sameAs <https://doi.org/10.1080/17432200.2021.1877954> ;
+  dcterms:identifier "doi:10.1080/17432200.2021.1877954" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .

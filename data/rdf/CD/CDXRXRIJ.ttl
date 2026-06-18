@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CDXRXRIJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Exploration of the Nutritional and Functional Properties of Underutilized Grains as an Alternative Source for the Research of Food-Derived Bioactive Peptides" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CDXRXRIJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CDXRXRIJ" ;
+  schema:description "The estimated increase in world population will lead to a deterioration in global food security, aggravated in developing countries by hidden hunger resulting from protein deficiency. To reduce or avoid this crisis, a dietary shift towards the consumption of sustainable, nutrient-rich, and calorically efficient food products has been recommended by the FAO and WHO. Plant proteins derived from grains and seeds provide nutritionally balanced diets, improve health status, reduce poverty, enhance food security, and contain several functional compounds. In this review, the current evidence on the nutritional and functional properties of underutilized grains is summarized, focusing on their incorporation into functional foods and the role of their proteins as novel source of bioactive peptides with health benefits." ;
+  schema:author "Samuel Fernández‐Tomé" ;
+  schema:creator "Tolulope Joshua Ashaolu", "Blanca Hernández‐Ledesma" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Nutrients" ;
+  schema:sameAs <https://doi.org/10.3390/nu15020351> ;
+  dcterms:identifier "doi:10.3390/nu15020351" ;
+  dcterms:subject "Consumer Attitudes and Food Labeling", "Phytase and its Applications", "Protein Hydrolysis and Bioactive Peptides" .

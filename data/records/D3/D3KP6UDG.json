@@ -1,0 +1,107 @@
+{
+  "key": "D3KP6UDG",
+  "uri": "https://medjat.irokosociety.org/id/library/D3KP6UDG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=D3KP6UDG",
+  "zotero": {
+    "group": "6479329",
+    "key": "D3KP6UDG",
+    "version": 3612,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/D3KP6UDG",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "Twenty Years Among the Mexicans: A Narrative of Missionary Labor",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Melinda Rankin"
+      }
+    ],
+    "year": "1875",
+    "date": "1875",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Narrative written by a \"New Hampshire Presbyterian teacher and missionary, who taught in Kentucky, Texas, and New Orleans ... The narrative includes many anecdotes dealing with the American Civil War as well as the Mexican political situation\"--Book dealer's description",
+    "doi": "",
+    "url": "http://www.larramendi.es/es/consulta/registro.do?id=28858",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Asian American and Pacific Histories",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Melinda Rankin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Twenty Years Among the Mexicans: A Narrative of Missionary Labor"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1875."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian American and Pacific Histories"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/D3/D3KP6UDG.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

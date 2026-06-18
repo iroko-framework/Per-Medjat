@@ -1,0 +1,114 @@
+{
+  "key": "FBCP777L",
+  "uri": "https://medjat.irokosociety.org/id/library/FBCP777L",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FBCP777L",
+  "zotero": {
+    "group": "6479329",
+    "key": "FBCP777L",
+    "version": 1569,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FBCP777L",
+    "dateAdded": "2026-05-19T14:17:08Z",
+    "dateModified": "2026-05-19T14:17:08Z"
+  },
+  "display": {
+    "title": "Policing Slavery: Order and the Development of Early Nineteenth-Century New Orleans and Salvador",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gregory K Weimer"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "My dissertation explores the development of policing and slavery in two early nineteenth-century Atlantic cities. This project engages regionally distinct histories through an examination of legislative and police records in New Orleans, Louisiana, and Salvador, Bahia. Through these sources, my dissertation holds that the development of the theories and practices that guided “public order” emerged in similar ways in these Atlantic slaveholding cities. Enslaved people and their actions played an integral role in the evolution of “good order” and its policing. Legislators created laws and institutions to police enslaved people and promote order. In these instances, local government policed slavery through the surveilling and arresting of enslaved people. By mid-century, the prerogative of policing slavery created a comprehensive bureaucratic structure that policed many individuals within the community, not just slaves. In New Orleans and Salvador, slavery was an important part of policing, but not just in the sense we sometimes assume: as a panicked reaction to real or imagined slave rebellions. As the commercial and demographic development of cities created opportunities for enslaved people, local legislation and institutions formed an important part of policing slavery in New Orleans and Salvador. Local government officials—regional and municipal legislators—responded by passing laws that restricted not only where and how enslaved people worked and lived, but also the police that enforced these laws. Police forces, once created, interpreted and applied the laws passed by legislators. They surveilled and arrested individuals, and their actions sometimes triggered further legislative reforms. Thusly, police forces became representations of public well-being, particularly in relation to slavery. By mid-century, new conceptions of public order made the police an accepted part of urban slavery and urban life more generally in New Orleans and Salvador. At the same time, the police surveilled and arrested free people, not just enslaved people, in the name of promoting orderly slavery.",
+    "doi": "10.25148/etd.fidc000107",
+    "url": "https://doi.org/10.25148/etd.fidc000107",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gregory K Weimer"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Policing Slavery: Order and the Development of Early Nineteenth-Century New Orleans and Salvador"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2015."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25148/etd.fidc000107"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FB/FBCP777L.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25148/etd.fidc000107"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

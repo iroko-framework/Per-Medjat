@@ -1,0 +1,125 @@
+{
+  "key": "IC9HGKEJ",
+  "uri": "https://medjat.irokosociety.org/id/library/IC9HGKEJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=IC9HGKEJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "IC9HGKEJ",
+    "version": 645,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/IC9HGKEJ",
+    "dateAdded": "2026-05-18T18:57:18Z",
+    "dateModified": "2026-05-18T18:57:18Z"
+  },
+  "display": {
+    "title": "Influence Of Culture on Women and Leadership Position Among the Yoruba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Adesola Mercy PhD Fasiku"
+      },
+      {
+        "role": "editor",
+        "name": "Clement Oladayo DARAMOLA"
+      },
+      {
+        "role": "editor",
+        "name": "Christianah Omowamide FOLORUNSO"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Journal of Research in Humanities and Social Science",
+    "publicationTitle": "Journal of Research in Humanities and Social Science",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Research in Humanities and Social Science",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "13",
+    "issue": "6",
+    "pages": "43-51",
+    "abstract": "Nigeria, a multi-ethnic and culturally diverse nation, is home to over 300 ethnic groups, with the Yoruba forming one of its most influential populations. Despite the rich cultural heritage of the Yoruba, their traditional practices have historically marginalized women, particularly in leadership roles. This study examines the influence of Yoruba cultural systems on women’s leadership positions in Nigeria, focusing on how traditional beliefs and practices have restricted female participation in political and socio-economic leadership. The central problem addressed in this research is the persistent cultural limitation placed on Yoruba women, which hinders their access to leadership despite significant contributions to family, economy, and community development. The objectives include identifying cultural practices that restrict women's leadership, assessing the current state of female representation in Yoruba political and religious structures, and recommending strategies for promoting gender-inclusive leadership. The study adopts a qualitative methodology, utilizing historical analysis, document review, and key informant interviews from selected Yoruba communities. Primary and secondary sources were analyzed to understand the evolution of women’s roles from pre-colonial to post-colonial periods and how colonial and post-independence structures entrenched gender inequality. Findings reveal that while pre-colonial Yoruba society allowed for influential female figures like the Iyalode, Iyaloja, Iyalaje, Regent, Erelu, Ayaba, among others, colonial systems reinforced patriarchy by sidelining indigenous female leadership roles. Cultural festivals like the Oro and societal expectations about domestic responsibilities further suppress women’s leadership potential. In modern political settings, Yoruba women face systemic discrimination rooted in both cultural and institutional biases. The study concludes that without a cultural reorientation, gender equality in leadership will remain elusive in Yoruba society. It recommends policy reforms, inclusive cultural education, and empowerment programs that challenge patriarchal norms while promoting women’s active participation in governance. Addressing these cultural impediments is essential for achieving gender-balanced development and leadership equity in Nigeria.",
+    "doi": "10.35629/9467-13064351",
+    "url": "https://doi.org/10.35629/9467-13064351",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Education and Politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Adesola Mercy PhD Fasiku"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Influence Of Culture on Women and Leadership Position Among the Yoruba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Research in Humanities and Social Science, 2025."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "43-51 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.35629/9467-13064351"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Education and Politics"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Clement Oladayo DARAMOLA"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Christianah Omowamide FOLORUNSO"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/IC/IC9HGKEJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.35629/9467-13064351"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

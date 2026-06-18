@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BWA87A8Z>
+  a schema:Thesis ;
+  schema:name "Rejecting the False Choice: Foregrounding Indigenous Sovereignty in Planning Theory and Practice" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BWA87A8Z> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BWA87A8Z" ;
+  schema:description "During the latter half of the 20th century, the term sovereignty has become a pivotal concept for describing the political goals of Indigenous movements. The term has come to stand for the general rights of Indigenous peoples to be self-governing and describe efforts to reverse and resist processes of ongoing colonization, dispossession and assimilation. The purpose of this dissertation is two-fold. First, it explores the role of planning in the erosion of Indigenous sovereignty and the creation of conflicts over urban land use and development. More specifically, it examines the role of planning in the project of securing, aggrandizing and normalizing Canada’s sovereignty claims, and illustrates how the idea of sovereignty influences the configuration of relations between Canada and Indigenous peoples. While the concept of sovereignty is not commonly discussed in planning literature or planning policy, it is argued that concepts such as property, jurisdiction, and Aboriginal rights serve as a cipher for sovereignty in the context of planning. This dissertation research finds that the practices and principles of planning aid in the narration of a political imaginary and the creation of a legal geography which affirms Canada’s territorial and moral coherence. This examination of planning is placed against the backdrop of broader historical tendencies in Canadian Aboriginal policy. The second purpose of this dissertation is to consider how taking Indigenous political authority seriously can present new ways of thinking about both planning and sovereignty. It is argued in this dissertation that Indigenous understandings of sovereignty originating in Indigenous law and Indigenous interpretations of Canadian law must be placed in the foreground in planning theory and practice. In the past, the interventions and alternatives advocated by planning both theorists and policy makers to improve the position of Indigenous peoples in planning processes have largely emphasized the recognition and inclusion of Indigenous peoples and reduced Indigenous struggles over territory to the realm of identity politics. As an alternative, foregrounding Indigenous political authority can present new ways of thinking about both planning and sovereignty." ;
+  schema:author "Heather Dorries" ;
+  schema:datePublished "2012" ;
+  schema:publisher "TSpace" ;
+  dcterms:subject "Anthropological Studies and Insights", "Indigenous Health, Education, and Rights", "Water Governance and Infrastructure" .

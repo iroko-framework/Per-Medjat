@@ -1,0 +1,95 @@
+{
+  "key": "LEQW3RZ6",
+  "uri": "https://medjat.irokosociety.org/id/library/LEQW3RZ6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LEQW3RZ6",
+  "zotero": {
+    "group": "6479329",
+    "key": "LEQW3RZ6",
+    "version": 2205,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LEQW3RZ6",
+    "dateAdded": "2026-05-19T14:19:45Z",
+    "dateModified": "2026-05-19T14:19:45Z"
+  },
+  "display": {
+    "title": "A Study of Japanese Loanwords in Chinese",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Haijing Chen"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Duo Research Archive (University of Oslo)",
+    "publicationTitle": "Duo Research Archive (University of Oslo)",
+    "bookTitle": "",
+    "journalAbbreviation": "Duo Research Archive (University of Oslo)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Since Japanese language makes extensive use of Chinese characters in its writing system, and a large portion of its vocabulary is borrowed from Chinese in ancient times, it makes people to believe that Chinese always has the overwhelming influence on Japanese. However, the situation is completely changed since modern times. A great number of Japanese words entered into Chinese. Nevertheless, many Chinese people still think that nowadays Chinese language is in a dominant position in linguistic exchange between Chinese and Japanese. The goal of this research is to give people better understanding of the significance of Japanese loanwords in modern Chinese. In this paper, I analyze the channels, classifications, characteristics and influences of Japanese loanwords in different time backgrounds. The findings are mainly based on about one thousand Japanese loanwords that I collected from dictionaries and academic papers. The main results are that Japanese loanwords take an important part in creating new words and formating modern Chinese. Research also indicates that both linguistic factor and social factor affect loanwords, meanwhile, the host language and society are influenced by loanwords. Therefore both Chinese language and society affect the intakes of Japanese loanwords, at the same time the Chinese language and society are also influenced by Japanese loanwords.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10852/43028",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Linguistics, Language Diversity, and Identity"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Haijing Chen"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Study of Japanese Loanwords in Chinese"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Duo Research Archive (University of Oslo), 2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics, Language Diversity, and Identity"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LE/LEQW3RZ6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

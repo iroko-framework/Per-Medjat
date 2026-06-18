@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GM8B5QSK>
+  a schema:Thesis ;
+  schema:name "Liberdade na escravidão" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GM8B5QSK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GM8B5QSK" ;
+  schema:description "This work examines concepts of freedom materialized in cartas de alforria (a kind of prospect of manumission) in Brazil from 1830 until 1888. We try to answer the question: What means freedom in historical context of slavery? Thus, based on postulates of Argumentative Semantics and some principles of the Semantics of Event, we analyse a corpus constituted by Cartas de alforria from Vitria da Conquista -Bahia (Brazil), complemented with abolitionist laws, to substantiate three hypotheses: a) the cartas de alforria, historically labeled as legal certificates of freedom, operate paradoxaly like linguistic-historical certificates of \"liberation-domination; b) the Cartas de alforria carried a specific concept of freedom exclusive for manumitted black slaves (freedmen) and, in contrast, carried other concept uniquely applicable to free white masters (slave owners); c) the Cartas de alforria, as consuetudinary legal documents, had its efficacy supplemented by positive laws, that equally materialized two concepts of freedom: one to the manumitted; another to the master. The results reveal that, during the mentioned period, it had two kinds of freedom: Transitive Freedom, belonging to the manumitted slaves; and Intransitive Freedom, belonging to the masters." ;
+  schema:author "Jorge Viana Santos" ;
+  schema:datePublished "2008" ;
+  schema:sameAs <https://doi.org/10.47749/t/unicamp.2008.436056> ;
+  dcterms:identifier "doi:10.47749/t/unicamp.2008.436056" ;
+  dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Literature, Culture, and Criticism" .

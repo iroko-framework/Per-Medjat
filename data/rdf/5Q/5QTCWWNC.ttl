@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5QTCWWNC>
+  a schema:ScholarlyArticle ;
+  schema:name "An Overview of Taboo and Superstition among the Yoruba of Southwest of Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5QTCWWNC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5QTCWWNC" ;
+  schema:description "A taboo is something looked down upon by society because of social custom. This article therefore examines an overview of taboo and superstition among the Yoruba of southwest of Nigeria. This work explores the concept of taboos in Yoruba land. It also confirmed whether superstition and taboo means the same thing in Yoruba society. The importance of taboos in Yoruba society is also discussed. It was discovered that taboo in the concept of Yoruba belief is different from superstition because of its usefulness in the society. DOI: 10.5901/mjss.2013.v4n2p221" ;
+  schema:author "Odejobi Cecilia Omobola" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Mediterranean Journal of Social Sciences" ;
+  schema:sameAs <https://doi.org/10.5901/mjss.2013.v4n2p221> ;
+  dcterms:identifier "doi:10.5901/mjss.2013.v4n2p221" ;
+  dcterms:subject "Education and Islamic Studies", "Language, Linguistics, Cultural Analysis", "Religion and Sociopolitical Dynamics in Nigeria" .

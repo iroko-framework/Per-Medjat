@@ -1,0 +1,10 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HEU3FCTC>
+  a schema:WebPage ;
+  schema:name "How Europe underdeveloped Africa - Tulane University" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HEU3FCTC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HEU3FCTC" .

@@ -1,0 +1,95 @@
+{
+  "key": "35TPVIXL",
+  "uri": "https://medjat.irokosociety.org/id/library/35TPVIXL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=35TPVIXL",
+  "zotero": {
+    "group": "6479329",
+    "key": "35TPVIXL",
+    "version": 1596,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/35TPVIXL",
+    "dateAdded": "2026-05-19T14:17:11Z",
+    "dateModified": "2026-05-19T14:17:11Z"
+  },
+  "display": {
+    "title": "Liberating the family? Gender, labor, and sexuality in the rural Western Cape, South Africa, 1823-1853. (Volumes I and II).",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Pamela Scully"
+      }
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The dissertation argues that gender ideologies and practices critically informed slave emancipation in the British Empire. Using official correspondence, court records, missionary journals, and marriage records I focus on the period of amelioration, emancipation, and postemancipation in the rural Western Cape Colony up to the granting of Representative Government in 1853. I analyze how slaves, dependent laborers, slaveholders, missionaries, and officials conceptualized gender relations, the relationship between labor and family, and the meanings of freedom. Legislation ameliorating slavery in the 1820s and 1830s focused on relations within the slave family and represented slave women as requiring special protection in the workplace. In the apprenticeship period from 1834 to 1838 apprentice women became spokespeople in the battle over child labor which was a prime site of struggle in the transition to a wage labor economy. Relationships formed under slavery influenced whether freed people moved to missions or villages or remained on the farms after 1838. Freed people participated in a family economy in which women, men, and children contributed in different ways to the household. Law also framed the worlds of labor. Labor legislation consolidated the conception of women as belonging to a special category of worker by allowing their dismissal should they get married or become pregnant. Slave emancipation produced a preoccupation with cultural categories and sensibility. Freed people of all stations of life married in small numbers after emancipation, partly to signify freedom from slavery. In the 1840s state officials represented women charged with infanticide on the missions as victims of excessive missionary moral zeal. This facilitated the state's aim to limit the power of missionaries over the freed population, and silenced women's claims that patriarchal social relations had contributed to their actions. Finally, analysis of rape cases show that while black women took men to court throughout the postemancipation period judicial decisions were premised upon a belief that black women had no honor to lose. Postemancipation colonial culture was premised on implicit yet powerful connections between race, gender, and authority.",
+    "doi": "",
+    "url": "https://openalex.org/W2746081114",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "South African History and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Pamela Scully"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Liberating the family? Gender, labor, and sexuality in the rural Western Cape, South Africa, 1823-1853. (Volumes I and II)."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 1993."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "South African History and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/35/35TPVIXL.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

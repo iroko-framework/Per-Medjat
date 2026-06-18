@@ -1,0 +1,101 @@
+{
+  "key": "M3T43XL3",
+  "uri": "https://medjat.irokosociety.org/id/library/M3T43XL3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=M3T43XL3",
+  "zotero": {
+    "group": "6479329",
+    "key": "M3T43XL3",
+    "version": 1380,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M3T43XL3",
+    "dateAdded": "2026-05-19T13:29:02Z",
+    "dateModified": "2026-05-19T13:29:02Z"
+  },
+  "display": {
+    "title": "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Laure Pérez"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "publicationTitle": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "bookTitle": "",
+    "journalAbbreviation": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Cet article étudie la dénonciation du\\nmachisme dans De cierta manera (1974-1977),\\nunique long-métrage de la réalisatrice afrocubaine Sara Gómez (1943-1974). Ce film traite de\\nla persistance du machisme à Cuba après la Révolution à travers une relation amoureuse entre\\ndeux personnages de fiction, Mario et Yolanda,\\ndont l’histoire est mêlée à des séquences documentaires sur les milieux marginaux de La\\nHavane. En contrepoint de Mario, encore influencé par les valeurs machistes et les traditions de la secte Abakuá, Yolanda est présentée comme une femme libre et progressiste, à\\nl’image de la nouvelle société. Le film oppose\\nleurs deux univers de manière parfois schématique mais laisse transparaître la complexité du\\nprocessus révolutionnaire cubain, qui lui-même\\nne s’est pas complètement débarrassé de ces valeurs machistes.",
+    "doi": "",
+    "url": "https://hal.science/hal-03779360",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cinema History and Criticism",
+      "Spanish Culture and Identity"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Laure Pérez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2020."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cinema History and Criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Culture and Identity"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/M3/M3T43XL3.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

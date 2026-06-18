@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ALVV8DXE>
+  a schema:ScholarlyArticle ;
+  schema:name "Abakua: rytuał i tragedia / Fernando Ortiz ; przełoż. Katarzyna Górna-Urbańska." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ALVV8DXE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ALVV8DXE" ;
+  schema:author "Fernando Ortiz" ;
+  schema:creator "Katarzyna Górna-Urbańska" ;
+  schema:datePublished "1989" ;
+  schema:publisher "Dialog : miesięcznik Związku Literatów Polskich" ;
+  dcterms:subject "Central European Literary Studies" .

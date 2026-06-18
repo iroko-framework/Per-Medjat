@@ -1,0 +1,113 @@
+{
+  "key": "EZF4W8ZV",
+  "uri": "https://medjat.irokosociety.org/id/library/EZF4W8ZV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EZF4W8ZV",
+  "zotero": {
+    "group": "6479329",
+    "key": "EZF4W8ZV",
+    "version": 1371,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EZF4W8ZV",
+    "dateAdded": "2026-05-19T13:29:00Z",
+    "dateModified": "2026-05-19T13:29:00Z"
+  },
+  "display": {
+    "title": "Transculturación y sincretismo: una visión holística desde la proyección músico-danzaria en diferentes contextos socioculturales cubanos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bárbara Balbuena Gutiérrez"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "Comparative Cultural Studies - European and Latin American Perspectives",
+    "publicationTitle": "Comparative Cultural Studies - European and Latin American Perspectives",
+    "bookTitle": "",
+    "journalAbbreviation": "Comparative Cultural Studies - European and Latin American Perspectives",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "7",
+    "issue": "14",
+    "pages": "45-59",
+    "abstract": "This essay addresses the concept of “transculturation” (Ortiz,1983: 90), which responded to an effort by the fruitful Cuban researcher to decolonize the social sciences in the face of the biased Eurocentrist and colonialist theories then spread throughout America. It analyses why the term syncretism was not the essential and defining factor, in the “configuration of Cuban religious cultural complexes” (Menéndez, 2017: 87) of African descent. The notion of transculturation is then applied to the study of the processes of formation of traditional Cuban popular culture, specifically in its current musician-dance projection, from a holistic view and from the different Cuban sociocultural contexts where they manifest themselves: religious, secular and popular. The instrumental ensembles and dance expressions of the main Cuban religious cultural complexes are classified and characterized: the Rule of Ocha-Ifá, the Arará Rule, the Palo Monte Rule, the Abakuá and Vodú societies. Likewise, the rumba complex, traditional congas and comparsas, and social or popular dances, as manifestations of a lay character where the presence of the cultural memory of the nation is perceived in full symbiosis.",
+    "doi": "10.36253/ccselap-13463",
+    "url": "https://doi.org/10.36253/ccselap-13463",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bárbara Balbuena Gutiérrez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Transculturación y sincretismo: una visión holística desde la proyección músico-danzaria en diferentes contextos socioculturales cubanos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Comparative Cultural Studies - European and Latin American Perspectives, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "45-59 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.36253/ccselap-13463"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EZ/EZF4W8ZV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.36253/ccselap-13463"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

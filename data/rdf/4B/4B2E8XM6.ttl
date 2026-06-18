@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4B2E8XM6>
+  a schema:ScholarlyArticle ;
+  schema:name "Medicinal plants of the Andes and the Amazon - The magic and medicinal flora of Northern Peru" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4B2E8XM6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4B2E8XM6" ;
+  schema:description "The north of Peru represents the \"Health Axis\" of the Central Andes, with the roots of traditional practices going back to the Cupisnique culture (1000 BC). During a decade of research semi-structured interviews of healers, collectors and sellers of medicinal plants were conducted. Bioassays were carried out to evaluate the effectiveness and toxicity of the plants found. The majority (83%) of the 510 species used were native to Peru. 50% of the plants used in the colonial era disappeared from the pharmacopoeia. In the markets, vendors were grouped: common and exotic plants, plants for common diseases, plants only used by healers, and plants with magical purposes. About 974 preparations with up to 29 ingredients treated 164 conditions. Nearly 65% of the medicinal flora are applied in mixtures. Antibacterial activity was confirmed in most plants used for infections. 24% aqueous extract and 76% ethanol extracts showed toxicity. Traditional methods of preparation take this into account when choosing the appropriate solvent for the preparation of a remedy. The growing demand did not increase the significant cultivation of medicinal plants. The majority represent plants collected in nature, causing doubts about the sustainability of trade.The focus of ethnobotanical studies and the participation of local stakeholders have changed a lot in recent decades. From the scientific point of view, the research has gone from simple inventories for example of mainly medicinal plants to detailed quantitative studies, often focused on all useful plants. However, the most important thing is that the research has finally moved away from colonial style research to modern ethnobotany based on the principles of the Nagoya Protocol. This is of great importance for the ethnobiological community. However, these changes have not been the same in all Latin American countries, and there are large regional differences.The objective of this publication is to provide examples of twenty-five years of global research, describing the change of attitude and methodology during that time, highlighting the increasing role of local actors in ethnobotanical research and contributing ideas for the future development of the discipline.With this special issue of Ethnobotany Research and Applications we try to bring 20 years of research in Northern Peru to a wider audience." ;
+  schema:author "Rainer W. Bussmann" ;
+  schema:creator "Douglas Sharon" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Ethnobotany Research and Applications" ;
+  schema:sameAs <https://doi.org/10.32859/era.15.2.001-295> ;
+  dcterms:identifier "doi:10.32859/era.15.2.001-295" ;
+  dcterms:subject "Ethnobotanical and Medicinal Plants Studies", "Psidium guajava Extracts and Applications" .

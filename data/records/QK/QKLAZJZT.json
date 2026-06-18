@@ -1,0 +1,108 @@
+{
+  "key": "QKLAZJZT",
+  "uri": "https://medjat.irokosociety.org/id/library/QKLAZJZT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QKLAZJZT",
+  "zotero": {
+    "group": "6479329",
+    "key": "QKLAZJZT",
+    "version": 2397,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QKLAZJZT",
+    "dateAdded": "2026-05-19T14:20:20Z",
+    "dateModified": "2026-05-19T14:20:20Z"
+  },
+  "display": {
+    "title": "Ephemeral Hinterlands and the Historical Geography of Trujillo, Honduras, 1525-1950.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Taylor E. Mack"
+      }
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The historical geography of Trujillo, Honduras is told through its changing hinterlands. This dissertation uses world systems to approach and understand the historical geography of Trujillo, however, the focus is on this peripheral area of the world system, rather than on the core. The coast of the western Caribbean experiences economic boom and bust cycles. The periodization of Trujillo's historical geography is based on the city's boom and bust periods, using primary documents from archives in Central America and Spain. Trujillo's first boom period lasted from its founding in 1525 until 1550, based on gold exports from the interior. During this time many Old World plants and animals were introduced into Honduras through Trujillo. The native population declined rapidly from disease, overwork, warfare, and many simply fled. From 1550 to the 1640s, the people of Trujillo searched for an alternative product to replace gold, largely relying on sarsaparilla and hides, but to no avail. In the 1640s Trujillo suffered its worst pirate attacks, and was slowly abandoned by 1683. From the 1730s until 1782, Trujillo was a major center for contraband trade. Reoccupied in 1782, Trujillo became a center for colonization, but the Spanish colonists were maladapted to the environment and most of them died. The Black Caribs, deported from their homeland to the Honduran coast, came in similar numbers but were preadapted to the environment and flourished. The foreland for the port changed as trade opened up with Cuba, Great Britain, and the United States, which would eventually dominate the trade. Banana exports began in the late 1800s, and the United Fruit Company gained the concession to build a railroad to service Trujillo. Banana exports reached a peak in the early 1930s, then fell to almost zero by 1940, as banana diseases struck the plantations. Trujillo may be entering a new boom period based on tourism, but there are plans to build an oil refinery at the port. The growing highway network in Honduras, combined with the movement of the frontier of settlement, may create a more permanent hinterland for Trujillo.",
+    "doi": "10.31390/gradschool_disstheses.6433",
+    "url": "https://doi.org/10.31390/gradschool_disstheses.6433",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Economic Zones and Regional Development",
+      "Regional Development and Innovation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Taylor E. Mack"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Ephemeral Hinterlands and the Historical Geography of Trujillo, Honduras, 1525-1950."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1997."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_disstheses.6433"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Zones and Regional Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Regional Development and Innovation"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/QK/QKLAZJZT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_disstheses.6433"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

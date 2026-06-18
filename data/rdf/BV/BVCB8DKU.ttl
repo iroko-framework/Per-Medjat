@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BVCB8DKU>
+  a schema:ScholarlyArticle ;
+  schema:name "Vodou and the U.S. Counterculture" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BVCB8DKU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BVCB8DKU" ;
+  schema:description "The aim of this study was to compare high-risk influential factors for cardiovascular diseases among different young adults. It was a retrospective study carried out from January 2020 to 2022. A total of 700 young adults who underwent a physical examination or were hospitalised at the Baoding No.1 Central Hospital, Baoding, Hebei, P. R. China. The participants were divided into three groups: Young social health examinees (n = 300), who underwent physical examinations in January 2020; young medical workers (n = 300), young hospital employees who underwent physical examinations in January 2020; and young myocardial infarction patients (n = 100), who were hospitalised with myocardial infarction from January 2019 to 2021. Analysis was performed on the cardiovascular high-risk influential factors of different young adults. The proportions of males, smoking history, drinking history, hypertension history, lack of exercise, high stress, obesity, fatty liver levels of serum uric acid (UA), body mass index (BMI), diastolic blood pressure (DBP), systolic blood pressure (SBP), and weight in the young myocardial infarction patient group were higher than the other two groups while the HDL levels were lower than those of the latter two groups (p <0.05). The proportions of drinking history, hypertension history, lack of exercise, and high stress levels of UA, DBP, and SBP in the young medical worker group were higher than those in the young social health examinee group (p <0.05). Multivariate analysis revealed that males, high stress, obesity, high DBP and SBP levels were independent risk factors for cardiovascular diseases in young adults (p <0.05). High-risk influential factors of cardiovascular diseases in young adults include males, high stress, obesity, high blood pressure, etc. Key Words: Young people, Cardiovascular system, Medical workers, High-risk influential factors." ;
+  schema:author "Christian Remse" ;
+  schema:datePublished "2013" ;
+  schema:sameAs <https://doi.org/10.29271/jcpsp.2024.12.1539> ;
+  dcterms:identifier "doi:10.29271/jcpsp.2024.12.1539" ;
+  dcterms:subject "Music History and Culture", "Race, History, and American Society", "Theater, Performance, and Music History", "Haitian Vodou" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .

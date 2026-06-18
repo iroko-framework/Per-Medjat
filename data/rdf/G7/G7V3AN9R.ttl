@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/G7V3AN9R>
+  a schema:Thesis ;
+  schema:name "Citizen Marx: the relationship between Karl Marx and republicanism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G7V3AN9R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G7V3AN9R" ;
+  schema:description "Karl Marx's relationship to republicanism proceeds in three stages: he began his political career as a republican, he subsequently transitioned to communism, and then he finally reconciled his republicanism and communism. Marx's early political writings reveal his commitment to central republican ideas, including popular sovereignty, widespread political participation and universal suffrage. These commitments led him to reject absolute and constitutional monarchy. But they also led to a critique of the modern republic, which Marx argued gave insufficient space for citizens to participate publicly for the common good. He thus gives a republican critique of the republic. Marx's disillusionment with the ability of a modern republic to deliver human emancipation eventually led him to transition to communism. He now argued that the republic would be a bourgeois republic, which would subject the proletariat to the capitalist. He attacked republicans for neglecting social depredation in favour of political reform. However, his transition to communism also carried with it several republican commitments. Unlike the many apolitical versions of communism at the time, Marx insisted that the workers had to establish the republic before communism could emerge. He also extended key republican political ideas, including the objection to arbitrary power, to the social sphere. But what was absent was an account of a more participatory and accountable political alternative to the modern republic. However, the experience of ordinary workers carrying out the legislative and public administration of Paris during the Commune, led Marx to return to many of those early republican themes. He celebrated ordinary citizens' capacity for self-government and advocated popular control over the state and transforming representative democracy into popular delegacy. He came to realise that these political structures were essential to achieving the social goals of communism. He thus came to a synthesis of his early republicanism and later communism." ;
+  schema:author "Bruno Leipold" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Oxford University Research Archive (ORA) (University of Oxford)" ;
+  schema:sameAs <https://doi.org/10.5287/ora-z65ypyvx1> ;
+  dcterms:identifier "doi:10.5287/ora-z65ypyvx1" ;
+  dcterms:subject "Marxism and Critical Theory", "Political Economy and Marxism", "Political Theory and Influence" .

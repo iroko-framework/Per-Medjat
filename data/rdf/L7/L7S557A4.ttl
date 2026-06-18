@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/L7S557A4>
+  a schema:Thesis ;
+  schema:name "The cry of trokosi girls in Ghana. A qualitative study of the trokosi practice in Ghana in light of diakonia and human rights." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=L7S557A4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:L7S557A4" ;
+  schema:description "Children especially girls are under different types of oppression in Sub-Saharan Africa due\\nto various practices, belief systems, values, and laws. In Ghana, one practice that seems to\\nsubjugate women and girls in particular is the troxorvi system. Troxorvi or trokosi is a\\npractice that involves the acceptance of human being especially virgin girls for the\\natonement of real or alleged misconduct of a family member. The committed girl stays in\\nthe shrine as a “slave” and owes allegiance to the deity for the rest of her life. However,\\ncontemporary societies frown upon and make laws to eradicate any form of slavery due to\\nits human right abuses. In 1998, Ghana amended her laws prohibiting the troxorvi practice\\nas well as committing herself to human rights values by signing most of the international\\nlaws on human rights including those on children and women. After a decade of\\npromulgation of the Law against the troxorvi practice, not even a single culprit has been\\narrested. The study explores the human rights abuses within the troxorvi system and efforts\\nby diaconal actors. It further explores how diakonia could be employed as a\\nmultidimensional approach towards eradication of the troxorvi practice in Ghana." ;
+  schema:author "Palma Abla Howusu" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Duo Research Archive (University of Oslo)" ;
+  dcterms:subject "African cultural and philosophical studies", "Homelessness and Social Issues" .

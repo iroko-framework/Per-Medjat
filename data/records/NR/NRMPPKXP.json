@@ -1,0 +1,137 @@
+{
+  "key": "NRMPPKXP",
+  "uri": "https://medjat.irokosociety.org/id/library/NRMPPKXP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NRMPPKXP",
+  "zotero": {
+    "group": "6479329",
+    "key": "NRMPPKXP",
+    "version": 3943,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NRMPPKXP",
+    "dateAdded": "2026-06-17T15:31:05Z",
+    "dateModified": "2026-06-17T15:31:05Z"
+  },
+  "display": {
+    "title": "Analysis of Farmers’ Stated Risk Using Lotteries and Their Perceptions of Climate Change in the Northwest of Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Miguel Ángel Orduño Torres"
+      },
+      {
+        "role": "editor",
+        "name": "Zein Kallas"
+      },
+      {
+        "role": "editor",
+        "name": "Selene Ivette Ornelas Herrera"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Agronomy",
+    "publicationTitle": "Agronomy",
+    "bookTitle": "",
+    "journalAbbreviation": "Agronomy",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "9",
+    "issue": "1",
+    "pages": "4-4",
+    "abstract": "Risk attitudes are relevant factors affecting production, management and investment decisions at the farm level. They are key factors related to farmers’ attitudes towards the environment and climate change. Several methodological approaches, which were considered to be preferable for measuring the level of risk of an economic agent, ranging from highly risk-tolerant to highly risk-averse attitudes, are available. The Multiple Price List (MPL) method is one of the stated approaches that is gaining relevance. In this study, we apply the MPL and relate the risk outcomes to farmers’ socio-economic characteristics and their perceptions of the environment and climate change. Data were collected using a face-to-face survey, carried out with a group of 370 farmers of an irrigation district, located in the northwest of Mexico. The results showed a risk level of about 0.32, according to the Constant Relative Risk Aversion (CRRA) coefficient, locating farmers of the region in a risk-averse group. The heterogeneity analysis showed that the socioeconomic factors and the perceptions of climate change are related to the farmers´ stated risk level. Farmers who are young women, with a tendency to use public support for structural investment, were shown to be risk-tolerant. Farmers considered floods, hail, diseases, pests, and weed growth incidences to be the most frequent weather patterns in the region.",
+    "doi": "10.3390/agronomy9010004",
+    "url": "https://doi.org/10.3390/agronomy9010004",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Agricultural risk and resilience",
+      "Economic and Environmental Valuation",
+      "Economics of Agriculture and Food Markets"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Miguel Ángel Orduño Torres"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Analysis of Farmers’ Stated Risk Using Lotteries and Their Perceptions of Climate Change in the Northwest of Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Agronomy, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "4-4 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/agronomy9010004"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agricultural risk and resilience"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic and Environmental Valuation"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economics of Agriculture and Food Markets"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Zein Kallas"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Selene Ivette Ornelas Herrera"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NR/NRMPPKXP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/agronomy9010004"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

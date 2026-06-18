@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZRD9RY6U>
+  a schema:Thesis ;
+  schema:name "Hybrid machine modelling and control." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZRD9RY6U> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZRD9RY6U" ;
+  schema:description "Non-uniform motion in machines can be conceived in terms of linkage mechanisms or cams which transform the notionally uniform motion of a motor. Alternatively the non-uniform motion can be generated directly by a servo~motor under computer control. The advantage of linkage mechanisms and cams is that they are capable of higher speeds. They usually admit the means of introduction of dynamic balancing without extra parts and a high degree of energy conservation exists within the arrangement in motion. The advantage of servo~motors is that it is easier to re-program their motion to provide the versatility required of many manufacturing processes.&#13;\\nTo generate non-uniform mechanism motion, two alternative techniques are envisaged in the work presented.&#13;\\n(i) where a servo-motor drives a linkage to produce an output. The motion transformation is determined with the geometry of the linkage. The mechanism acts as a non-uniform inertia buffer between the output and the motor.&#13;\\n(ii) where a constant speed motor acts in combination with a servo-motor and a differential mechanism to produce the output motion of a linkage.&#13;\\nMachines of these two kinds combine both linkage and a programmable driver. The first configuration is referred to a programmable machine, the second one is referred to as a hybrid machine. The focus of interest here is on the hybrid machine. One anticipated benefit, the second would have over the first, is that the size of the servo-motor power requirement should come down.&#13;\\nIn order to explore the idea an experimental rig involving a slider-crank mechanism is designed and built. Initially a computer model is developed for this so-called hybrid machine. The motion is implemented on an experimental rig using a sampled data control system. The torque and power relations for the system are considered. The power flow in the rig is analysed and compared with the computer model. The merits of the hybrid machine are then compared with the programmable machine. The hybrid machine is further represented with bond graphs. Lastly, the observations on the present work are presented as a guide for the development and use of hybrid machines." ;
+  schema:author "Lale Canan Tokuz" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Liverpool John Moores University" ;
+  schema:sameAs <https://doi.org/10.24377/ljmu.t.00005039> ;
+  dcterms:identifier "doi:10.24377/ljmu.t.00005039" ;
+  dcterms:subject "Control and Stability of Dynamical Systems", "Modeling and Simulation Systems", "Robotic Mechanisms and Dynamics" .

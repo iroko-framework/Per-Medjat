@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CTXQMJAK>
+  a schema:ScholarlyArticle ;
+  schema:name "Sample Translation: The Sacred Language of the Abakuá ¹" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CTXQMJAK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CTXQMJAK" ;
+  schema:author "P. González Gómez-Cásseres" ;
+  schema:creator "Ivor L. Miller" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Afro-Hispanic review" ;
+  dcterms:subject "Language and cultural evolution", "Language, Linguistics, Cultural Analysis", "Syntax, Semantics, Linguistic Variation" .

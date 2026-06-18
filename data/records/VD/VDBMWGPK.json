@@ -1,0 +1,114 @@
+{
+  "key": "VDBMWGPK",
+  "uri": "https://medjat.irokosociety.org/id/library/VDBMWGPK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VDBMWGPK",
+  "zotero": {
+    "group": "6479329",
+    "key": "VDBMWGPK",
+    "version": 4074,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VDBMWGPK",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Insights into the Interaction of Milk and Dairy Proteins with Aflatoxin M1",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Fabio Granados-Chinchilla"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "InTech eBooks",
+    "journalAbbreviation": "InTech eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this chapter, up-to-date data regarding the nature of protein interaction with a contaminant such as aflatoxin M1 (AFM1) is detailed. Considering that AFM1 is a relevant toxin present in milk and dairy products, it is important to understand such interaction. With this in mind, some specific features of protein chemistry and structure are discussed. AFM1 presence and origin in milk and the latest approaches in AFM1 chemical analysis with special attention to sample preparation techniques to eliminate milk protein–AFM1 interaction will also be addressed. Emphasis will be given to the interaction of AFM1 with whey proteins of which little has been described. In order to represent such interactions, recent scientific evidence is briefly discussed which describes the outcome, stability, and distribution of the toxin among the fractions, especially during the cheese-making process. An in silico model is presented in which some details of the AFM1-protein interactions are described. Finally, two technological applications of proteins in the food industry which are affected negatively by AFM1 contamination, are provided as an example of how the contaminant has a deep relationship in protein behaviour.",
+    "doi": "10.5772/63433",
+    "url": "https://doi.org/10.5772/63433",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Meat and Animal Product Quality",
+      "Mycotoxins in Agriculture and Food",
+      "Probiotics and Fermented Foods"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Fabio Granados-Chinchilla"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Insights into the Interaction of Milk and Dairy Proteins with Aflatoxin M1"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2016."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5772/63433"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Meat and Animal Product Quality"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mycotoxins in Agriculture and Food"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Probiotics and Fermented Foods"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VD/VDBMWGPK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5772/63433"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

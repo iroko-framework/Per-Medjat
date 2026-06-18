@@ -1,0 +1,101 @@
+{
+  "key": "KZSQS38I",
+  "uri": "https://medjat.irokosociety.org/id/library/KZSQS38I",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KZSQS38I",
+  "zotero": {
+    "group": "6479329",
+    "key": "KZSQS38I",
+    "version": 904,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KZSQS38I",
+    "dateAdded": "2026-05-18T23:51:45Z",
+    "dateModified": "2026-05-18T23:51:45Z"
+  },
+  "display": {
+    "title": "Bruxas e bruxos no Nordeste algarvio. Algumas representações da doença e da cura",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cristiana Bastos"
+      }
+    ],
+    "year": "1985",
+    "date": "1985",
+    "publisher": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "publicationTitle": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "bookTitle": "",
+    "journalAbbreviation": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "25",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "http://ojs.letras.up.pt/index.php/tae/article/view/9100",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Death, Funerary Practices, and Mourning",
+      "Health, Nursing, Elderly Care"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cristiana Bastos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bruxas e bruxos no Nordeste algarvio. Algumas representações da doença e da cura"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 1985."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Death, Funerary Practices, and Mourning"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Health, Nursing, Elderly Care"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/KZ/KZSQS38I.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

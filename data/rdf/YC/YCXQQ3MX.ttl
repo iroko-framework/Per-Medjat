@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YCXQQ3MX>
+  a schema:Thesis ;
+  schema:name "United States Anti-Slave Trade Laws in Southeast Africa. The Implementation of American Law in the Final Years of the Transatlantic Slave Trade" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YCXQQ3MX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YCXQQ3MX" ;
+  schema:author "Raphael Albisser" ;
+  schema:datePublished "2013" ;
+  dcterms:subject "Colonialism, slavery, and trade" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K8Q6PD7M>
+  a schema:Book ;
+  schema:name "Havana and the Atlantic in the sixteenth century" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K8Q6PD7M> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K8Q6PD7M" ;
+  schema:author "Fuente, Alejandro de la" ;
+  schema:datePublished "2008" ;
+  schema:publisher "University of North Carolina Press" ;
+  dcterms:identifier "isbn:978-0-8078-3192-2" ;
+  dcterms:subject "Havana (Cuba) -- Economic conditions -- 16th centu", "Havana (Cuba) -- History -- 16th century" .

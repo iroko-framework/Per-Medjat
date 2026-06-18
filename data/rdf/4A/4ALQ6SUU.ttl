@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4ALQ6SUU>
+  a schema:ScholarlyArticle ;
+  schema:name "Estudio de un conjunto de anillos votivos del santuario periurbano de Tútugi (Cerro del Castillo, Galera, Granada)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4ALQ6SUU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4ALQ6SUU" ;
+  schema:description "Este trabajo presenta el estudio morfotipológico y elemental de 46 anillos y 8 objetos de distinta tipología y metal (bronce, plomo, hierro y oro) recuperados en la intervención arqueológica realizada en el santuario periurbano de Tútugi, así como un conjunto de 22 anillos del Museo de Galera, con procedencia del Cerro del Real, que es el yacimiento sobre el que se desarrolla la Tútugi ibero-romana, como análisis básico para poder contrastar los resultados. La mayoría de anillos presentan una tipología similar, con algunas variantes formales, aunque con una heterogeneidad en su manufactura y procedencia. Se utilizaron bronces binarios o bronces plomados de manera indistinta, con un conjunto minoritario de cobres sin alear. Se constata cómo la ofrenda y depósito de los anillos es común al espacio ritual ibero de los siglos IV-III a. C., incorporándose como práctica que viene a completar una amplia cadena de acciones rituales, destacando en este lugar el depósito de miles de ollas y platos/cuencos. Asimismo, incorporamos algunas propuestas interpretativas que ponen de relieve cómo este tipo de ofrendas contribuye a la generación de memorias colectivas que incorporan nuevas fórmulas de cohesión social que tienen en los santuarios espacios de referencia fundamental." ;
+  schema:author "Maria Oliva Rodríguez‐Ariza" ;
+  schema:creator "Ignacio Montero Ruíz", "Carmen Rueda Galán", "Paloma Muriel López", "Eva Montes Moya" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Archivo Español de Arqueología" ;
+  schema:sameAs <https://doi.org/10.3989/aespa.097.024.716> ;
+  dcterms:identifier "doi:10.3989/aespa.097.024.716" ;
+  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Medieval Architecture and Archaeology" .

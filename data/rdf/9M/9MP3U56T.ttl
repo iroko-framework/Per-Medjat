@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9MP3U56T>
+  a schema:Thesis ;
+  schema:name "Letters of Blood and Fire: A Socio-Economic History of International Law" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9MP3U56T> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9MP3U56T" ;
+  schema:description "The financial crash of 2007-2008 brought words like ‘capitalism’, ‘capital’, and ‘socialism’ back in vogue. However, the discipline of international law remains to reflect systematically on its relationship with the ways in which wealth and power are produced and distributed. This thesis examines the relationship between international law, imperialism and capitalism through historical lenses, arguing that the diffusion of capitalist relations is a core function of international law. Analysing the nineteenth-century ‘standard of civilisation’, I contend that transforming (semi)colonised polities into centralised, territorialised states operating as guarantors of capitalist relations of production was at the core of the concept. Extraterritoriality in Japan and the Ottoman Empire serves as a case study to verify this statement and to highlight the transformative functions of the ‘civilising mission’. The Mandates System of the League of Nations established a system of partial internationalisation of this transformative process, while attempting to safeguard the long-term interests of capital through the introduction of limited forms of welfarism. My thesis then argues that decolonisation assumed the form of national statehood due to the transformative functions of nineteenth-century international law. Therefore, the attempt to push for a New International Economic Order was both a challenge to contemporary international law and a reaffirmation of its role in promoting capitalist relations on a global level. These reformist attempts did not succeed, however, and a new model of capitalist accumulation, neoliberalism, became hegemonic after 1990. The quantitative expansion and qualitative refinement of international law during that period was intrinsically linked to the neoliberal aversion to democratic and mass politics. The neoliberal reconstruction of Iraq in the aftermath of the 2003 invasion is interpreted in the light of this reality. In so doing, my thesis highlights the ongoing synergies between international law and capitalist expansion." ;
+  schema:author "Konstantina Tzouvala" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Durham e-Theses (Durham University)" ;
+  dcterms:subject "Global Financial Crisis and Policies", "International Development and Aid", "State Capitalism and Financial Governance" .

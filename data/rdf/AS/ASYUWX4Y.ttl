@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ASYUWX4Y>
+  a schema:Thesis ;
+  schema:name "Um bruxo e seu tempo: as obras de Gerald Gardner como expressões contraculturais" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ASYUWX4Y> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ASYUWX4Y" ;
+  schema:description "Esta dissertacao analisa a historia da Wicca, um sistema religioso criado por Gerald Gardner na Inglaterra em fins da decada de 40, atraves de tres de suas obras que tratam especificamente de sua concepcao de bruxaria, Com o auxilio da Alta Magia (1949), A Bruxaria Hoje (1954) e O Significado da Bruxaria (1959). Dentro de uma perspectiva que leva em consideracao suas inspiracoes para a constituicao de um sistema religioso original resultante de sua circulacao como um seeker dentro do milieu ocultista de sua epoca, busca-se entender a Wicca como um sistema religioso atraves de uma interpretacao contra cultural. Sendo assim este trabalho questiona em que sentido as obras de Gardner sao um produto historico social de seu tempo. Nossa hipotese e a de que suas obras sao um produto historico social da Inglaterra do pos-guerra na medida em que Gardner, ao construir sua concepcao de bruxaria em suas obras, apropriou-se de tendencias contraculturais para compor um sistema religioso contracultural" ;
+  schema:author "Terzetti Filho" ;
+  schema:datePublished "2012" ;
+  dcterms:subject "Food, Nutrition, and Cultural Practices", "Religious Tourism and Spaces", "Urban and sociocultural dynamics" .

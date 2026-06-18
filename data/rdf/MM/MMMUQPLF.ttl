@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MMMUQPLF>
+  a schema:Book ;
+  schema:name "Guide to Afro-Cuban Herbalism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MMMUQPLF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MMMUQPLF" ;
+  schema:description "Guide to Afro-Cuban Herbalism is aimed to serve as a reference tool for practitioners of the various african based traditions such as Afro-Cuban Orisha/Ifa Worship, Vodou, Camdomble, et al. This book provides extensive information on the medicinal, religious and magical uses of 700 plants." ;
+  schema:author "Quiros-Moran, Dalia" ;
+  schema:datePublished "2009" ;
+  schema:publisher "AuthorHouse" ;
+  dcterms:identifier "isbn:978-1-4389-8097-3" ;
+  dcterms:subject "West African traditions", "Central African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .

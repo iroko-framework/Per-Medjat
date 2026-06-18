@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NU3N2DCQ>
+  a schema:Thesis ;
+  schema:name "Covert commerce : a social history of contraband trade in Venezuela, 1701-1789" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NU3N2DCQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NU3N2DCQ" ;
+  schema:description "This project explores how conditions of material scarcity and the potential for profit thrust both foreign and Spanish coastal inhabitants into vast networks of illegal, yet essential, commerce. Based on extensive archival investigations in Venezuela and Spain as well as shorter research trips to archives in England, Colombia, and the United States, I probe the specific dynamics of the largest portion of eighteenth-century Atlantic trade, illicit commerce, as a series of practices imbued with moral economy concerns, political meanings, and legal consequences. The first half of my manuscript uses a prosopographical, collective biography approach to profile the largely unexplored actors in the Spanish Empire’s underground economy off the Venezuelan coast: non-Spanish contrabandists, Spanish American merchants, and corrupt Spanish officials. These ordinary folk participated in quotidian transnational trade in basic goods that violated mercantile Spanish law. The second half examines the social impact that smuggling wrought on Venezuela. I focus specifically on the illicit slave trade and Afro-Caribbean contrabandists, the material culture of smuggled goods in Venezuelan daily life, and violent colonial opposition to anti-contraband strictures through several mid-eighteenth century trade uprisings. Smugglers’ shadowy existence between empires revises our understanding of interimperial contact, local identity formation, commercial autonomy, and popular protest in the early modern world. In its complicated and criminal nature, covert commerce also connects large structural shifts in the burgeoning eighteenth-century global economy to local petty traders." ;
+  schema:author "Jesse Levis Cromwell" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  schema:sameAs <https://doi.org/10.15781/t2gt5fh15> ;
+  dcterms:identifier "doi:10.15781/t2gt5fh15" ;
+  dcterms:subject "History and Politics in Latin America" .

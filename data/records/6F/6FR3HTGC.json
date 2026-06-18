@@ -1,0 +1,102 @@
+{
+  "key": "6FR3HTGC",
+  "uri": "https://medjat.irokosociety.org/id/library/6FR3HTGC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6FR3HTGC",
+  "zotero": {
+    "group": "6479329",
+    "key": "6FR3HTGC",
+    "version": 1944,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6FR3HTGC",
+    "dateAdded": "2026-05-19T14:18:45Z",
+    "dateModified": "2026-05-19T14:18:45Z"
+  },
+  "display": {
+    "title": "Aerodynamics and Control of Quadrotors",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Moses Bangura"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "ANU Open Research (Australian National University)",
+    "publicationTitle": "ANU Open Research (Australian National University)",
+    "bookTitle": "",
+    "journalAbbreviation": "ANU Open Research (Australian National University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Quadrotors are aerial vehicles with a four motor-rotor assembly for generating lift and controllability. Their light weight, ease of design and simple dynamics have increased their use in aerial robotics research. There are many quadrotors that are commercially available or under development. Commercial off-the-shelf quadrotors usually lack the ability to be reprogrammed and are unsuitable for use as research platforms. The open-source code developed in this thesis differs from other open-source systems by focusing on the key performance road blocks in implementing high performance experimental quadrotor platforms for research: motor-rotor control for thrust regulation, velocity and attitude estimation, and control for position regulation and trajectory tracking. In all three of these fundamental subsystems, code sub modules for implementation on commonly available hardware are provided. In addition, the thesis provides guidance on scoping and commissioning open-source hardware components to build a custom quadrotor. A key contribution of the thesis is then a design methodology for the development of experimental quadrotor platforms from open-source or commercial off-the-shelf software and hardware components that have active community support. Quadrotors built following the methodology allows the user access to the operation of the subsystems and, in particular, the user can tune the gains of the observers and controllers in order to push the overall system to its performance limits. This enables the quadrotor framework to be used for a variety of applications such as heavy lifting and high performance aggressive manoeuvres by both the hobby and academic communities. To address the question of thrust control, momentum and blade element theories are used to develop aerodynamic models for rotor blades specific to quadrotors. With the aerodynamic models, a novel thrust estimation and control scheme that improves on existing RPM (revolutions per minute) control of rotors is proposed. The approach taken uses the measured electrical power into the rotors compensating for electrical loses, to estimate changing aerodynamic conditions around a rotor as well as the aerodynamic thrust force. The resulting control algorithms are implemented in real-time on the embedded electronic speed controller (ESC) hardware. Using the estimates of the aerodynamic conditions around the rotor at this level improves the dynamic response to gust as the low-level thrust control is the fastest dynamic level on the vehicle. The aerodynamic estimation scheme enables the vehicle to react almost instantaneously to aerodynamic changes in the environment without affecting the overall dynamic performance of the vehicle. To quantify the resulting improvements in maintaining a desired thrust setpoint using the proposed thrust modelling and control scheme over current state-of-the-art rotor speed control, static and dynamic flight tests are carried out in downdrafts and updrafts of varying strengths. In the static tests, the new scheme is able to determine the changes in axial gust thereby changing the speed of the rotor to maintain the desired thrust setpoint. The dynamic flight test is demonstrated by a path tracking experiment where a quadrotor is flown through an artificial wind gust and the trajectory tracking error measured. The proposed approach for thrust control demonstrably reduced tracking errors compared to the classical RPM rotor control. Non-linear dynamic models for the drag forces on individual rotors of a quadrotor are examined and a combined or lumped drag force model is derived. Combining this drag force model with measurements from the strapdown inertial measurement unit (IMU) and a complementary filter that uses barometer height estimates, the full body-fixed frame velocity measurements are obtained. Adding measurements from an inertial navigation system and a magnetometer, a coupled non-linear complementary filter in both the body-fixed and inertial frames is proposed. The resulting observer is a velocity aided attitude observer that provides estimates of both linear velocities in inertial and body-fixed frames and attitude of the vehicle. The observer is robust to GPS dropouts and can be used in indoor environments without an indoor navigation system such as Vicon motion capture system. A hierarchical control structure for quadrotors is proposed with high-level position/trajectory tracking control and velocity control, mid-level attitude control and low-level motor thrust control based on the time scale separation of each dynamic sublevel. The attitude error dynamics under the proposed attitude control law are shown to be non-autonomous. Using passivity based Lyapunov analysis and showing that the linear dynamics are uniformly completely observable (UCO), the attitude dynamics are shown to be locally exponentially stable. Under the proposed position/trajectory control law, the error dynamics form a block diagonal matrix with eigenvalues in the left half plane. Hence, the proposed position/trajectory tracking controller is locally exponentially stable. The proposed velocity controller which uses the estimated velocity is also shown to be asymptotically stable and its linear dynamics are uniformly completely observable. Hence by the notion of input-to-state stability, the quadrotor is exponentially stable under the proposed control laws. The dynamic properties (acceleration, jerk and snap) of the vehicle are used to algebraically determine feedforward terms (angular velocity and acceleration) which are used in the mid-level attitude controller to enable precise trajectory tracking.",
+    "doi": "10.25911/5d74e84ce3976",
+    "url": "https://doi.org/10.25911/5d74e84ce3976",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Aerospace and Aviation Technology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Moses Bangura"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Aerodynamics and Control of Quadrotors"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "ANU Open Research (Australian National University), 2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25911/5d74e84ce3976"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Aerospace and Aviation Technology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6F/6FR3HTGC.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25911/5d74e84ce3976"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

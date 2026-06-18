@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/P2YK7ASP>
+  a schema:ScholarlyArticle ;
+  schema:name "Black and Brown: African Americans and the Mexican Revolution, 1910 -1920" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=P2YK7ASP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:P2YK7ASP" ;
+  schema:description "In July 1920, when the renegade pugilist Jack Johnson surrendered to U.S. authorities at the Tijuana border, he ended a long exile in Mexico, a country he described as free from racial prejudice and one where blacks could enjoy the full benefits of citizenship. According to Gerald Horne, this event closed a seminal decade not only for Mexico but for African Americans. Slightly mistitled, Black and Brown partially examines the historical relationship between the United States' two largest minority groups; more thoroughly, it explores the impact that Mexico's struggle for self-determination had on black Americans' struggle for equality. That those two movements were linked should come as no surprise. As Horne documents, revolutionary Mexico inherited a nineteenth-century tradition of opposition to black slavery and of inviting black colonization efforts. In the midst of internal violence, blacks in Mexico sometimes formed alliances with rebel leaders when confronting the Jim Crow practices of U.S. businessmen. For example, Johnson, once refused service at a Sanborn's restaurant in Mexico City, returned with a handful of Carrancista generals who demanded (successfully) that the expatriate boxer be seated. Even African Americans living north of the border gained from Mexico's proximity, occupying a multiracial region in which blacks negotiated more freedom and opportunities than they could in the polarized East. Particularly, buffalo soldiers became what Horne calls “functionally white” through their suppression of Indians, Hispanics, and labor groups such as the Industrial Workers of the World (iww)." ;
+  schema:author "James N. Leiker" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Journal of American History" ;
+  schema:sameAs <https://doi.org/10.2307/4485959> ;
+  dcterms:identifier "doi:10.2307/4485959" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies", "Race, History, and American Society" .

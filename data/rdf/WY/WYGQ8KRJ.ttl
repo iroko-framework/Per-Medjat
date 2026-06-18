@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WYGQ8KRJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Cytotoxic, Genotoxic, and Polymorphism Effects on Vanilla planifolia Jacks ex Andrews after Long-Term Exposure to Argovit® Silver Nanoparticles" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WYGQ8KRJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WYGQ8KRJ" ;
+  schema:description "Worldwide demands of Vanilla planifolia lead to finding new options to produce large-scale and contaminant-free crops. Particularly, the Mexican Government has classified Vanilla planifolia at risk and it subject to protection programs since wild species are in danger of extinction and no more than 30 clones have been found. Nanotechnology could help to solve both demands and genetic variability, but toxicological concerns must be solved. In this work, we present the first study of the cytotoxic and genotoxic effects promoted by AgNPs in Vanilla planifolia plantlets after a very long exposure time of six weeks. Our results show that Vanilla planifolia plantlets growth with doses of 25 and 50 mg/L is favored with a small decrease in the mitotic index. A dose-dependency in the frequency of cells with chromosomal aberrations and micronuclei was found. However, genotoxic effects could be considered as minimum due to with the highest concentration employed (200 mg/L), the total percentage of chromatic aberrations is lower than 5% with only three micronuclei in 3000 cells, despite the long-time exposure to AgNP. Therefore, 25 and 50 mg/L (1.5 and 3 mg/L of metallic silver) were identified as safe concentrations for Vanilla planifolia growth on in vitro conditions. Exposure of plantlets to AgNPs increase the polymorphism registered by inter-simple sequence repeat method (ISSR), which could be useful to promote the genetic variability of this species." ;
+  schema:author "J. Bello" ;
+  schema:creator "José Luis Spinoso‐Castillo", "Samantha Arano-Avalos", "Eduardo Martínez‐Estrada", "María Evarista Arellano-García", "Alexey Pestryakov", "Yanis Toledano‐Magaña", "Juan Carlos García‐Ramos", "Nina Bogdanchikova" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Nanomaterials" ;
+  schema:sameAs <https://doi.org/10.3390/nano8100754> ;
+  dcterms:identifier "doi:10.3390/nano8100754" ;
+  dcterms:subject "Biochemical and biochemical processes", "Medicinal Plants and Neuroprotection", "Plant tissue culture and regeneration" .

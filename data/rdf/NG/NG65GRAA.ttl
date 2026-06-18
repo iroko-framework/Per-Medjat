@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NG65GRAA>
+  a schema:ScholarlyArticle ;
+  schema:name "Contemporary Forms of Slavery in Brazil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NG65GRAA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NG65GRAA" ;
+  schema:description "This document is part of a digital collection provided by the Martin P. Catherwood Library, ILR School, Cornell University, pertaining to the effects of globalization on the workplace worldwide. Special emphasis is placed on labor rights, working conditions, labor market changes, and union organizing." ;
+  schema:author "Bhavna Sharma" ;
+  schema:datePublished "2006" ;
+  schema:publisher "eCommons (Cornell University)" ;
+  dcterms:subject "Colonialism, slavery, and trade" .

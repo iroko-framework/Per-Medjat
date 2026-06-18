@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SUEBUIEM>
+  a schema:ScholarlyArticle ;
+  schema:name "Introduction" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SUEBUIEM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SUEBUIEM" ;
+  schema:description "Le trigramme introduit par Bernardin de Sienne dans ses sermons en 1418 ; un phonographe au coeur d'un rituel abakua afro-cubain Philadelphie en 1908 ; une horloge pendule apporte dans la premire colonie pnale australienne en 1788 : trois objets parmi d'autres abords dans ce volume, sans rapport apparent entre eux mais qui se situent tous l'intersection des techniques, des savoirs et des croyances Ce dossier, dirig par deux historiennes (Charlotte Bigg et Marie-Anne Polo de Beaulieu) et trois anthropologues (Stefania Capone, Nathalie Luca et Nadine Wanono), reprend les questionnements dvelopps l'occasion de plusieurs colloques organiss au sein du programme Les techniques du croire et du faire croire du LabEx HaStec 1 Informes par une diversit de courants historiographiques et portant sur des objets trs varis, les contributions rassembles ici se rejoignent cependant sur une srie d'hypothses communes Nous partons d'abord du postulat que croire, faire croire, savoir sont (aussi) des oprations matrielles, physiques, qui dpendent de dispositifs techniques dont l'efficacit n'est pas donne a priori mais dpend du contexte de leur interprtation et de leurs usages Nous nous sommes ainsi attaches rpertorier certains dispositifs techniques, en observer les utilisations parfois contradictoires, les limites, les rappropriations ventuellement antagonistes, les transformations en fonction des publics concerns Nous supposons que, de tout temps et en tous lieux, des objets, des instruments et des techniques plus ou moins sophistiqus, sduisants, fascinants, ont guid des visions du monde dans ses dimensions historiques, cognitives, spirituelles et matrielles, visions qui restent parfois hors de porte des sens, mais jamais au-del de l'imagination l'instar de l'imago thorise par Jean-Claude Schmitt (Polo" ;
+  schema:author "Nathalie Luca" ;
+  schema:creator "Marie Anne Polo de Beaulieu", "Charlotte Bigg", "Stefania Capone", "Nadine Wanono" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Archives de sciences sociales des religions" ;
+  schema:sameAs <https://doi.org/10.4000/assr.45885> ;
+  dcterms:identifier "doi:10.4000/assr.45885" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical Studies and Socio-cultural Analysis", "Historical and Scientific Studies" .

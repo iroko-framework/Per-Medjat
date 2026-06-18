@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/24NCDVPQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Calling the Ancestors to Dance" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=24NCDVPQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:24NCDVPQ" ;
+  schema:description "The Abakuá are an all-male ceremonial association founded in Cuba in the 1830s which persist to this day as exponents of a form of Afrocuban folklore. Legally recognized on the island for the first time in 2005, the Abakuá community has asserted its autonomy and criticized state uses of folklore through public performance events. One such event on August 23, 2011, mobilizes members of the community-at-large alongside professional folkloric performers. The participation of Abakuá community members transforms the event from an official-style folkloric show to a community-centered event through changes in performance practice and the intense affect that catalyzes. This changes not only the structure of performance but the significance of the event, as it no longer centers on official messages, but rather becomes a vehicle for mobilizing the community and demonstrating their autonomy. Examining the event in terms of affective politics, this article proposes the concept of feelings of coherence to understand how collaborative agency of performance intersects with intensity of affect and meaning in performance. Using evidence from interviews and observation, the analysis of the event shows how the community successfully re-frame the event and motivate participation through processes experienced by the individual but operating at the level of the collective." ;
+  schema:author "Elizabeth Kimzey Batiuk" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Journal of Extreme Anthropology" ;
+  schema:sameAs <https://doi.org/10.5617/jea.10289> ;
+  dcterms:identifier "doi:10.5617/jea.10289" ;
+  dcterms:subject "Diversity and Impact of Dance" .

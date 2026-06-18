@@ -1,0 +1,137 @@
+{
+  "key": "JE9XHT3M",
+  "uri": "https://medjat.irokosociety.org/id/library/JE9XHT3M",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JE9XHT3M",
+  "zotero": {
+    "group": "6479329",
+    "key": "JE9XHT3M",
+    "version": 3645,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JE9XHT3M",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Tourism and sexual violence and exploitation in Jamaica: contesting the ‘trafficking and modern slavery’ frame",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Katie Cruz"
+      },
+      {
+        "role": "editor",
+        "name": "Julia O’Connell Davidson"
+      },
+      {
+        "role": "editor",
+        "name": "Jacqueline Sánchez Taylor"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Journal of the British Academy",
+    "publicationTitle": "Journal of the British Academy",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of the British Academy",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "7 (s1)",
+    "issue": "",
+    "pages": "191-216",
+    "abstract": "Article by Katie Cruz, Julia O’Connell Davidson and Jacqueline Sanchez Taylor, posted to Journal of the British Academy, volume 7, supplementary issue 1 (Tackling Modern Slavery: Problems and Possibilities), in 2019.",
+    "doi": "10.5871/jba/007s1.191",
+    "url": "https://doi.org/10.5871/jba/007s1.191",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Migration, Ethnicity, and Economy",
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Katie Cruz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Tourism and sexual violence and exploitation in Jamaica: contesting the ‘trafficking and modern slavery’ frame"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of the British Academy, 2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "191-216 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5871/jba/007s1.191"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Ethnicity, and Economy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Julia O’Connell Davidson"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jacqueline Sánchez Taylor"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JE/JE9XHT3M.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5871/jba/007s1.191"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

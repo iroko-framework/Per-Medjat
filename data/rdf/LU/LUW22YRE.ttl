@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LUW22YRE>
+  a schema:ScholarlyArticle ;
+  schema:name "Reframing Vodou’s Veves through Guided Imagery Therapy as Diasporic Expressions Among Haitians in Miami-Dade County, Florida" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LUW22YRE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LUW22YRE" ;
+  schema:description "The Haitian culture is colorful and possesses a tapestry of images, complex symbols, and art archetypes that seem to brush with the cultural, spiritual, and psychological aspects of Haitian life. There are powerful visual narratives such as images, songs and dance, and arts expressing apparatuses for guided imagery, not expressed, but unite Haitians in Miami-Dade County, Florida. The components of imagery vividness are culturally considered to ascertain whether guided imagery in this culture can be therapeutic. The purpose of this article is to explore guided imagery as a therapeutic expression of mind-body medicine. It proposes an active transformative imagination exercise as guided imagery for three archetypal images as conscious experiences within the culture: The mother, songs and dance, and imagery known as veve (pronounced as vehveh). The tools considered: Gestalt Art, and Dialogue with Art Therapies for songs and dance, and veves, heralded by an Inner Advisor exercise about the mother are expressed to heighten the imagery experiences." ;
+  schema:author "Clarence St.Hilaire" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Journal of Complementary Medicine & Alternative Healthcare" ;
+  schema:sameAs <https://doi.org/10.19080/jcmah.2023.12.555831> ;
+  dcterms:identifier "doi:10.19080/jcmah.2023.12.555831" ;
+  dcterms:subject "Art Therapy and Mental Health", "Child Therapy and Development", "Counseling, Therapy, and Family Dynamics" .

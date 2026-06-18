@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZJ94RPCQ>
+  a schema:Book ;
+  schema:name "Charles Wright in Cuba, 1856-1867" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZJ94RPCQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZJ94RPCQ" ;
+  schema:author "Howard, Richard A." ;
+  schema:datePublished "1986" ;
+  schema:publisher "Mecklermedia" ;
+  dcterms:identifier "isbn:978-0-89887-059-6" .

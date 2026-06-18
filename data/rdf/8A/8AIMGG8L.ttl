@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8AIMGG8L>
+  a schema:Thesis ;
+  schema:name "Railroading Black Families: African American Men, Family, and Labor in Post-Emancipation Georgia." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8AIMGG8L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8AIMGG8L" ;
+  schema:description "This dissertation examines the role of work and family in shaping black men’s masculine identity in the post-emancipation South, focusing in particular on the transition to railroad work in Georgia in the late 19th century. It asks how black men’s working conditions influenced their familial lives and identities as fathers and/or husbands. It also explores how family and ideas and expectations about family life motivated many men’s work habits and desires. As opposed to previous studies that have depicted industrial labor as an escape from family responsibility, my project demonstrates, that for many black men, maintaining family ties and establishing a patriarchal family motivated them to become industrial workers. The drastic shifts in Southern industry, economy, race and gender relations that occurred over the period from 1865 to 1914 did more than introduce black men to varying degrees of freedom and new sectors of the labor market. These shifts also opened up new ways for them to establish new work skills and define the limits of their work and family responsibilities, as well as offer them opportunities to think differently about their notions of masculine authority and autonomy. For many black men, work opportunities and familial identities have been mutually constitutive. At times, a number of black men sought employment through which they could support their households, not just financially, but through deliberate separation from white superiors. They also used their family roles to give purpose and value to their lives, given the hardness of underpaid physical labor. Family concerns were at the heart of many of the criticisms black men leveled against their tasks and employers, both formally and informally. I demonstrate that the nature of African American fatherhood and black men’s aspirations to manhood in the post-emancipation South was partially demonstrated on the job. The work arrangements men agreed to, the labor they performed, the wages they earned, the songs and stories told during and after work, kept them going, and were meaningful in that all of these elements helped create and reinforce new family identities." ;
+  schema:author "CaVar DeWayne Reid" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Deep Blue (University of Michigan)" ;
+  dcterms:subject "American History and Culture", "Canadian Identity and History", "Race, History, and American Society" .

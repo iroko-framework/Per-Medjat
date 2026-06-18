@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CUHMAFE8>
+  a schema:ScholarlyArticle ;
+  schema:name "Slavery and the “American Way of War,” 1607–1861" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CUHMAFE8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CUHMAFE8" ;
+  schema:description "Abstract Slavery and warfare were inextricably intertwined in the history of Britain’s North American colonies and, subsequently, the early republic. Yet this deep connection has not been acknowledged in the historiography. In particular, the debate about an “American way of war” has neglected the profound significance of slavery as a formative factor in America’s “first way of war.” Here, these two forms of organized, systemic violence are considered not merely within a comparative framework but as phenomena whose relationship is so deeply enmeshed that they cannot be meaningfully understood in isolation. Slavery is thus placed centrally in an examination of American war making, from the colonial to the antebellum period. Three main areas are highlighted: slave raiding against Native Americans, slavery as a factor in imperial and national strategy-making and diplomacy, and slavery as an “internal war.”" ;
+  schema:author "Gervase Phillips" ;
+  schema:creator "Laura R. Sandy" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Comparative Studies in Society and History" ;
+  schema:sameAs <https://doi.org/10.1017/s0010417521000268> ;
+  dcterms:identifier "doi:10.1017/s0010417521000268" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade", "Historical Economic and Social Studies" .

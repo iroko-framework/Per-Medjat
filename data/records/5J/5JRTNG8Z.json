@@ -1,0 +1,107 @@
+{
+  "key": "5JRTNG8Z",
+  "uri": "https://medjat.irokosociety.org/id/library/5JRTNG8Z",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5JRTNG8Z",
+  "zotero": {
+    "group": "6479329",
+    "key": "5JRTNG8Z",
+    "version": 1221,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5JRTNG8Z",
+    "dateAdded": "2026-05-19T13:28:33Z",
+    "dateModified": "2026-05-19T13:28:33Z"
+  },
+  "display": {
+    "title": ". Arrival",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "University Press of Mississippi eBooks",
+    "journalAbbreviation": "University Press of Mississippi eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "37-65",
+    "abstract": "This chapter is based largely on Abakuá narratives about the arrival of Carabalá Ékpè members and the various stages in their process of recreating Ékpè in Cuba. They created the first Abakuá lodges and established the three major “ethnic” lineages: Efí, Efó, and Orú. Most of the Abakuá language used to tell this story is contained in chants used even today in ceremonies.",
+    "doi": "10.14325/mississippi/9781934110836.003.0002",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0002",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": ". Arrival"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "37-65 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14325/mississippi/9781934110836.003.0002"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/5J/5JRTNG8Z.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14325/mississippi/9781934110836.003.0002"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

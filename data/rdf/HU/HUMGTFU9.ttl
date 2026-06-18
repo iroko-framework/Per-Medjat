@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HUMGTFU9>
+  a schema:ScholarlyArticle ;
+  schema:name "Los enkomo de la religion abakua" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HUMGTFU9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HUMGTFU9" ;
+  schema:author "R Cárdenas-Duque" ;
+  schema:datePublished "1984" ;
+  dcterms:subject "Caribbean and African Literature and Culture" .

@@ -1,0 +1,107 @@
+{
+  "key": "DU4JDSAG",
+  "uri": "https://medjat.irokosociety.org/id/library/DU4JDSAG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DU4JDSAG",
+  "zotero": {
+    "group": "6479329",
+    "key": "DU4JDSAG",
+    "version": 3355,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DU4JDSAG",
+    "dateAdded": "2026-05-20T16:34:08Z",
+    "dateModified": "2026-05-20T16:34:08Z"
+  },
+  "display": {
+    "title": "Rewriting/Reprising in Edwidge Danticat’s The Dew Breaker",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Corinne Duboin"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Americanae (AECID Library)",
+    "publicationTitle": "Americanae (AECID Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Americanae (AECID Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In her recent novel, The Dew Breaker (2004), Haitian-American writer Edwidge Danticat weaves together the lives of her bruised H aitian characters and their torturer, a former Tonton Macoute , all in exile in the US. Seven of the nine chapters were previously published as separate short stories and have been rearranged to form a novel. The reader is then led to unravel a narrativ e tangle made of many threads. The disparate nature of the book, its non-linear narrat ive, the plurality of stories and voices, the gaps in a fragmented, elliptic text all bear wi tness to an alternative approach to creative writing. Like a seamstress, the novelist p ieces together individual stories, connecting them as the multifarious facets of a gre at whole. In the wake of francophone Haitian writers (namely Jacques Roumain, the author of Masters of the Dew , and Jacques Stephen Alexis who wrote General Sun, My Brother ), Edwidge Danticat fictionalizes the traumatic history of a people con fronted with violence and terror and engages in a complex intertextual game. Combining eand aesthetics, temporal and textual memory, the novelist explores facts and, ra ther than giving answers, raises difficult questions. Her characters, whether victim s or perpetrators, all strive to free themselves from a haunting past: is it ever possibl e to forgive so as to heal the pain? Can one make amends for the harm that has been done to victims who seek redress?",
+    "doi": "",
+    "url": "https://hal.archives-ouvertes.fr/hal-01165802/file/Duboin.Danticat.Dew.Breaker.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "French Literature and Critical Theory",
+      "French Literature and Poetry"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Corinne Duboin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Rewriting/Reprising in Edwidge Danticat’s The Dew Breaker"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Americanae (AECID Library), 2007."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "French Literature and Critical Theory"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "French Literature and Poetry"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/DU/DU4JDSAG.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

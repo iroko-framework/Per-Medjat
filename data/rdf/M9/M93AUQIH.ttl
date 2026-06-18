@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M93AUQIH>
+  a schema:Chapter ;
+  schema:name ". Conclusions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M93AUQIH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M93AUQIH" ;
+  schema:description "Abstract This chapter summarizes the preceding discussions, which showed how African migrants in colonial Cuba, through Abakuá, reorganized their homeland government and passed it onto their offspring in the form of a mutual aid society. Abakuá expanded its urban networks through the interactions of many communities, including African nation-groups, free black artisans, the black and mulatto militias, urban fugitives, and African descendants from Spain. Abakuá groups also functioned as antislavery cells that maintained a sense of morality and history among their communities." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0009> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0009" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Historical Studies in Central America" .

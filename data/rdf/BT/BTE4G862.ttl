@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BTE4G862>
+  a schema:ScholarlyArticle ;
+  schema:name "Caribbean dance from abakua to zouk: how movement shapes identity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BTE4G862> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BTE4G862" ;
+  schema:datePublished "2003" ;
+  schema:publisher "Choice Reviews Online" ;
+  schema:sameAs <https://doi.org/10.5860/choice.40-5139> ;
+  dcterms:identifier "doi:10.5860/choice.40-5139" ;
+  dcterms:subject "Diversity and Impact of Dance", "Sport and Mega-Event Impacts", "Sports, Gender, and Society" .

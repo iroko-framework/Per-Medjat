@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XNT6GLWH>
+  a schema:ScholarlyArticle ;
+  schema:name "Religious objects, objections, and objectives: recent books on afro-cuban religions/the light inside abakuá society arts and cuban cultural history Brown, David H./santería enthroned art, ritual, and innovation in an afro-cuban religion Brown, David H./the virgin, the king, and the royal slaves of el cobre Díaz, María Elena/wizards and scientists explorations in afro-cuban modernity and tradition Palmié, Stephan/botánica los angeles latino popular art in the city of angels Polk, Patrick A. (ed.)/santería healing a journey into the afrocuban world of divinities, spirits, and sorcery Wedel, Johan" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XNT6GLWH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XNT6GLWH" ;
+  schema:author "Jalane Schmidt" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Material Religion" ;
+  schema:sameAs <https://doi.org/10.1080/17432200.2006.11423067> ;
+  dcterms:identifier "doi:10.1080/17432200.2006.11423067" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies", "Philippine History and Culture" .

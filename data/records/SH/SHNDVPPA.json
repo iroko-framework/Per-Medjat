@@ -1,0 +1,117 @@
+{
+  "key": "SHNDVPPA",
+  "uri": "https://medjat.irokosociety.org/id/library/SHNDVPPA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=SHNDVPPA",
+  "zotero": {
+    "group": "6479329",
+    "key": "SHNDVPPA",
+    "version": 993,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/SHNDVPPA",
+    "dateAdded": "2026-05-19T13:27:27Z",
+    "dateModified": "2026-05-19T13:27:27Z"
+  },
+  "display": {
+    "title": "Creole Religions of the Caribbean",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lizabeth Paravisini-Gebert"
+      },
+      {
+        "role": "series editor",
+        "name": "Margarite Fernández Olmos"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "New York University Press eBooks",
+    "publicationTitle": "New York University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "New York University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Creolization-the coming together of diverse beliefs and practices to form new beliefs and practices-is one of the most significant phenomena in Caribbean religious history. Brought together in the crucible of the sugar plantation, Caribbean peoples drew on the variants of Christianity brought by European colonizers, as well as on African religious and healing traditions and the remnants of Amerindian practices, to fashion new systems of belief.Creole Religions of the Caribbean offers a comprehensive introduction to the syncretic religions that have developed in the region. From Vodou, Santería, Regla de Palo, the Abakuá Secret Society, and Obeah to Quimbois and Espiritismo, the volume traces the historical-cultural origins of the major Creole religions, as well as the newer traditions such as Pocomania and Rastafarianism. This second edition updates the scholarship on the religions themselves and also expands the regional considerations of the Diaspora to the U. S. Latino community who are influenced by Creole spiritual practices. Fernández Olmos and Paravisini-Gebert also take into account the increased significance of material culture-art, music, literature-and healing practices influenced by Creole religions.In the Religion, Race, and Ethnicity series",
+    "doi": "10.18574/nyu/9780814728253.001.0001",
+    "url": "https://doi.org/10.18574/nyu/9780814728253.001.0001",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lizabeth Paravisini-Gebert"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Creole Religions of the Caribbean"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New York University Press eBooks, 2020."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18574/nyu/9780814728253.001.0001"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Margarite Fernández Olmos"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/SH/SHNDVPPA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18574/nyu/9780814728253.001.0001"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

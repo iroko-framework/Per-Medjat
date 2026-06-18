@@ -1,0 +1,119 @@
+{
+  "key": "IVJB4554",
+  "uri": "https://medjat.irokosociety.org/id/library/IVJB4554",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=IVJB4554",
+  "zotero": {
+    "group": "6479329",
+    "key": "IVJB4554",
+    "version": 886,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/IVJB4554",
+    "dateAdded": "2026-05-18T23:51:40Z",
+    "dateModified": "2026-05-18T23:51:40Z"
+  },
+  "display": {
+    "title": "Bruxos e Magos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Fábio Carvalho Leite"
+      }
+    ],
+    "year": "1992",
+    "date": "1992",
+    "publisher": "África",
+    "publicationTitle": "África",
+    "bookTitle": "",
+    "journalAbbreviation": "África",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "14-15",
+    "pages": "69-80",
+    "abstract": "Este trabalho está relacionado com um tipo específico de abordagem da problemática da possessão e da feitiçaria em sociedades negro-africanas, permitindo situar a questão em nível material e concreto que transcende o enfoque meramente religioso ou psicológico. Essa abordagem envolve necessariamente a noção de pessoa tal como se formula no quadro de valores civilizatórios da África profunda e o chamado princípio vital de animalidade e espiritualidade de “duplo” ou “sombra”.",
+    "doi": "10.11606/issn.2526-303x.v0i14-15p69-80",
+    "url": "https://doi.org/10.11606/issn.2526-303x.v0i14-15p69-80",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Development, Ethics, and Society",
+      "Literature, Culture, and Criticism",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Fábio Carvalho Leite"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bruxos e Magos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "África, 1992."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "69-80 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/issn.2526-303x.v0i14-15p69-80"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Development, Ethics, and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/IV/IVJB4554.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/issn.2526-303x.v0i14-15p69-80"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

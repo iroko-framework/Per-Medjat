@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RNNBM65H>
+  a schema:ScholarlyArticle ;
+  schema:name "Traditional Communication in Ọrọ" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RNNBM65H> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RNNBM65H" ;
+  schema:description "This study explores the traditional communication systems of the Ọrọ people of Southern Nigeria, speakers of the Ọrọ language and cultural relatives of the Ibibio and Efik. Based on ethnographic research in Okobo, Ẹwẹmẹ, and Uruẹ Ofong, it documents indigenous forms such as palm fronds (ogbín), plantain stems (egbad agam), water rituals (uwakpọ ku mmọñ), town criers (Amaiagama Uduñ), masquerades (Ekpo), gunshots, fire, folklore, proverbs, and personal names. These channels serve multiple functions: mobilizing communities, regulating disputes, enforcing moral codes, entertaining, and sustaining spiritual ties with ancestors. The findings reveal that communication in Ọrọ society is both symbolic and performative, operating as a cultural archive and a mechanism for social cohesion. In an era of globalization and digital dominance, documenting these practices is urgent to safeguard cultural identity and highlight the resilience of indigenous African communication systems." ;
+  schema:author "Golden Ekpo & Willie U. Willie" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Zenodo (CERN European Organization for Nuclear Research)" ;
+  schema:sameAs <https://doi.org/10.5281/zenodo.19060700> ;
+  dcterms:identifier "doi:10.5281/zenodo.19060700" ;
+  dcterms:subject "Indigenous Knowledge Systems and Agriculture", "Media, Communication, and Education", "Multilingual Education and Policy" .

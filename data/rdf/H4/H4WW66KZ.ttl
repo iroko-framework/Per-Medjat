@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/H4WW66KZ>
+  a schema:ScholarlyArticle ;
+  schema:name "The Mexican Constitutional Congress, 1856-1857: A Statistical Analysis" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=H4WW66KZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:H4WW66KZ" ;
+  schema:description "T HE SINGLE MOST IMPORTANT DOCUMENT and symbol of the Reform in Mexico in t-he middle of the nineteenth century is the Constitution of 1857. Because of its importance, it has attracted much scholarly and popular attention, most of which focuses on certain important articles included in the document. The Constitution is noted for the inclusion of the Ley Lerdo, which forced corporations like the Church and the Indian communities to sell their property. The Constitution also contained the Ley Juarez, which severely limited and circumscribed the privileges of the Church and military. For the first time in Mexican history, individuals were to be protected by a bill of rights. Complete equality under the law, abolition of slavery, freedom of speech, freedom of assembly, freedom of the press, freedom to teach whatever one wanted, and restrictions on the application of the death penalty-these were some of the individual rights guaranteed by the Constitution. And these rights remained when the Constitution was revised and rewritten in 19L6-L917.1 Yet, in spite of the significance of the Constitution of 1857, the social composition and voting behavior of the delegates who wrote it been completely neglected. In general, we been led to believe that Mexico's constitutions have been the result of free dis-" ;
+  schema:author "Richard N. Sinkin" ;
+  schema:datePublished "1973" ;
+  schema:publisher "Hispanic American Historical Review" ;
+  schema:sameAs <https://doi.org/10.1215/00182168-53.1.1> ;
+  dcterms:identifier "doi:10.1215/00182168-53.1.1" ;
+  dcterms:subject "Political Dynamics in Latin America" .

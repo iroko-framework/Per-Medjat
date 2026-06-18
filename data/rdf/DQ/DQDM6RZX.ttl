@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/DQDM6RZX>
+  a schema:ScholarlyArticle ;
+  schema:name "Debt as a double-edged risk: A historical case from Nahua (Aztec) Mexico" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DQDM6RZX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DQDM6RZX" ;
+  schema:description "Debt is one of the oldest and most widespread social arrangements that humans use to manage hardship—and it has also been one of the riskiest. David Graeber convincingly makes this case in his recent study of debt over the last five thousand years, but his focus on the Old World leaves open the question of whether similar contradictions emerged among the markets, cities, and states of the Americas. This article uses sixteenth-century documents to reconstruct the practices, institutions, and morality of debt in Nahua society during the Aztec Empire (AD 1428–1521) and show how debt was a double-edged risk in the Aztec economy. Debt played a constructive role, helping some households through hard times and carrying little of the negative moral valence commonly associated with it. However, debts could create new vulnerabilities when secured by selling family members into slavery. Exploitative debt, however, may have only become a problem during economic and environmental crises that made the risks of debt seem less than the risks of other ways to deal with hardship. Without careful attention to cultural context and historical circumstances, generalizations about debt's exploitative aspects are limited in their ability to explain debt's global extent and historical persistence." ;
+  schema:author "John K. Millhauser" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Economic Anthropology" ;
+  schema:sameAs <https://doi.org/10.1002/sea2.12093> ;
+  dcterms:identifier "doi:10.1002/sea2.12093" ;
+  dcterms:subject "Historical Economic and Social Studies" .

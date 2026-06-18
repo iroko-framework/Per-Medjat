@@ -1,0 +1,102 @@
+{
+  "key": "F3R8X7IW",
+  "uri": "https://medjat.irokosociety.org/id/library/F3R8X7IW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=F3R8X7IW",
+  "zotero": {
+    "group": "6479329",
+    "key": "F3R8X7IW",
+    "version": 1314,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/F3R8X7IW",
+    "dateAdded": "2026-05-19T13:28:50Z",
+    "dateModified": "2026-05-19T13:28:50Z"
+  },
+  "display": {
+    "title": "La Sociedad Secreta del Leopardo entre África y América: la búsqueda de una identidad",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Viridiana Tamorri"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "[ES]La Sociedad Secreta Abakuá representa la transculturación en Cuba de la africana Sociedad del Leopardo Ekpe de las etnias Efik, Efor y Oru del Calabar, region africana ubicada en el sureste de Nigeria. Estas etnias compartían los cultos totémicos del pez y del leopardo, el culto de los antepasados y las fuerzas de la naturaleza, además de la práctica de organizarse en sociedades exclusivas.&#13;\\nAbakuá es un fenómeno que fuera del Calabar se puede hallar sólo en Cuba, dónde surgió oficialmente en 1836 en Regla, en la bahía de La Habana, donde bajo el ámparo del cabildo de nación Apapà Efò, nació la primera agrupación o Juego, Efí Butón. &#13;\\nLa creencia religiosa está basada en la conexión entre el mundo de los vivos y el de los muertos, personificados ritualmente por las plazas y los Íremes, las transitorias encarnaciones de los espíritus de los antepasados, que se verifica a partir de la reproducción de la ¿voz¿ de Abasí, el Ser Todopoderoso.&#13;\\nActualmente la presencia de la Sociedad Abakuá se localiza en la zona occidental de Cuba: La Habana con los municipios de Regla, Guanabacoa, Marianao y Arroyo Naranjo; Matanzas y Cárdenas. Esto no significa que no haya fieles abakuá en el resto de la isla o fuera de Cuba pero, así como manda el mito de fundación, sólo en las provincias sobredichas es posible su organización en Potencias, o sea el cumplimiento de los rituales. &#13;\\nAbakuá es un fenómeno muy interesante que se sitúa en el ámbito de estudio del legado africano en Latinoamérica, es decir la Afroamericanística.&#13;\\nMi investigación está centrada en la interpretación y análisis de las dinámcias de construcción de la identidad de los adeptos a partir del mito de fundación, que siendo el recuerdo sagrado, constituye la memoria cultural africana del grupo étnico carabalí.",
+    "doi": "10.14201/gredos.126546",
+    "url": "https://doi.org/10.14201/gredos.126546",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Viridiana Tamorri"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La Sociedad Secreta del Leopardo entre África y América: la búsqueda de una identidad"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14201/gredos.126546"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/F3/F3R8X7IW.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14201/gredos.126546"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

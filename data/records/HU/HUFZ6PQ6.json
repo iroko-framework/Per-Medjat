@@ -1,0 +1,120 @@
+{
+  "key": "HUFZ6PQ6",
+  "uri": "https://medjat.irokosociety.org/id/library/HUFZ6PQ6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HUFZ6PQ6",
+  "zotero": {
+    "group": "6479329",
+    "key": "HUFZ6PQ6",
+    "version": 1471,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HUFZ6PQ6",
+    "dateAdded": "2026-05-05T19:40:51Z",
+    "dateModified": "2026-05-05T19:40:51Z"
+  },
+  "display": {
+    "title": "Los orishas en Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bolívar Aróstegui, Natalia."
+      }
+    ],
+    "year": "1990",
+    "date": "1990",
+    "publisher": "Ediciones Union",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Ciudad de La Habana",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuba -- Religion",
+      "Orisha",
+      "Orishas -- Cuba"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bolívar Aróstegui, Natalia."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los orishas en Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ciudad de La Habana: Ediciones Union, 1990."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba -- Religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Orisha"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Orishas -- Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HU/HUFZ6PQ6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

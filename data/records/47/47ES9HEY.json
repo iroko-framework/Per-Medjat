@@ -1,0 +1,101 @@
+{
+  "key": "47ES9HEY",
+  "uri": "https://medjat.irokosociety.org/id/library/47ES9HEY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=47ES9HEY",
+  "zotero": {
+    "group": "6479329",
+    "key": "47ES9HEY",
+    "version": 3744,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/47ES9HEY",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Slavery By Another Name: \"Voluntary\" Immigrant Detainee Labor and the Thirteenth Amendment",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Anita Sinha"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "eYLS (Yale Law School)",
+    "publicationTitle": "eYLS (Yale Law School)",
+    "bookTitle": "",
+    "journalAbbreviation": "eYLS (Yale Law School)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "11",
+    "issue": "1",
+    "pages": "",
+    "abstract": "During the McCarthy era, Congress passed an obscure law authorizing detained immigrants to work for a payment of one dollar a day. The government justified the provision, which was modeled after the 1949 Geneva Convention’s protections for prisoners of war, in the context of the period’s relative heightened detentions of noncitizens. Soon afterwards, the enactment of the Immigration and Nationality Act of 1952 diminished the use of detention drastically, and the practice of detainee labor lay dormant for decades. Modern changes to immigration law and its systems have rendered immigration detention today the largest mass incarceration movement in U.S. history. The use, and in some cases abuse, of detainee labor is one of the symptoms of an epidemic involving the growing influence of the criminal justice system and prison industry on immigration enforcement. This Article uncovers the historic origins of paid detainee labor, and then situates the practice within a contemporary immigration system that includes for-profit corporations and increasingly punitive characteristics. It examines the legal and policy distinctions between criminal incarceration and immigration detention. In doing so, it describes how detainee labor, particularly in cases when the work is forced, is a violation of the Thirteenth Amendment’s prohibition of slavery and involuntary servitude. The Article concludes by offering additional specific and systemic recommendations, with the overarching objective of scaling back on the immigration detention system’s trend of operating more like a penal than civil institution.",
+    "doi": "",
+    "url": "https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1837&context=facsch_lawrev",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical and Contemporary Political Dynamics",
+      "Torture, Ethics, and Law"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Anita Sinha"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery By Another Name: \"Voluntary\" Immigrant Detainee Labor and the Thirteenth Amendment"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "eYLS (Yale Law School), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Contemporary Political Dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Torture, Ethics, and Law"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/47/47ES9HEY.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GV95RVWP>
+  a schema:ScholarlyArticle ;
+  schema:name "Estudio y restauración de un casco griego del museo de Málaga" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GV95RVWP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GV95RVWP" ;
+  schema:description "Durante el año 2012 se acometió una intervención arqueológica preventiva en un solar ubicado en las calles Jinete y Refino de Málaga, en la que, amén de importantes niveles medievales, se documentó una gran tumba en la cual había sido enterrado un individuo varón acompañado de un magnífico ajuar mortuorio. Este se componía, principalmente, por armamento adscribible a una panoplia hoplita (casco, punta de lanza y restos de un posible escudo), así como de otros elementos de carácter ritual y simbólico (escarabeo de cornalina engastado en oro suspendido por anillo de plata, pátera de plata con roseta central, par de varillas de plata y timaterio cerámico), que denotaban el alto nivel social del inhumado.Una vez trasladados estos materiales al Taller de Patrimonio Arqueológico del Centro de Intervención del IAPH, se le han practicado todos aquellos estudios y análisis concluyentes en la ulterior actuación de restauración, que permitirá su adecuada conservación así como su uso social a través de su musealización. En este artículo se recogen los datos que han aportado la investigación y tratamiento de una de las piezas más destacadas, el casco corintio." ;
+  schema:author "Constanza Rodríguez Segovia" ;
+  schema:creator "Esther Núñez Pariente de León" ;
+  schema:datePublished "2015" ;
+  schema:publisher "PH. Boletín del Instituto Andaluza del Patrimonio Histórico/PH/PH. Boletín del Instituto Andaluz del Patrimonio Histórico/Boletín informativo - Instituto Andaluz del Patrimonio Histórico" ;
+  schema:sameAs <https://doi.org/10.33349/2015.0.3647> ;
+  dcterms:identifier "doi:10.33349/2015.0.3647" ;
+  dcterms:subject "Archaeological and Historical Studies", "Historical Studies of Medieval Iberia", "Maritime and Coastal Archaeology" .

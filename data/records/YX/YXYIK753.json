@@ -1,0 +1,107 @@
+{
+  "key": "YXYIK753",
+  "uri": "https://medjat.irokosociety.org/id/library/YXYIK753",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YXYIK753",
+  "zotero": {
+    "group": "6479329",
+    "key": "YXYIK753",
+    "version": 1653,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YXYIK753",
+    "dateAdded": "2026-05-19T14:17:21Z",
+    "dateModified": "2026-05-19T14:17:21Z"
+  },
+  "display": {
+    "title": "L'autre citoyen : universalisme civique et exclusion sociale et politique au miroir des colonies post-esclavagistes de la Caraïbe française (Martinique, Guadeloupe, années 1840 - années 1890)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Silyane Larcher"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation investigates the apparent contradiction between civil and political equality and the exclusion of the citizens of the French Antilles from general law after 1848. Adressed for its heuristic value, this paradox is resituated within the general economy of French citizenship and at the intersection with the history of the various legal statuses of individuals in the French colonial empire during the second half of the 19th century. This investigation thus traces out a conceptual genealogy of French citizenship from the margins, over the long term. The thesis shows that the civil and politic equality of individuals does not equate to full inclusion in the political sphere: the « community of citizens », is not constituted by the granting 0 rights. The marginalization of citizens who were former slaves finds its origins in a political and moral assessment of the social and historical legacies these citizens. This assessment is measured by the ideal of a concurrence between the autonomous Iiberal individual and the modem Citizen: the universalization of rights and the generalization of the law require that individuals belong to the same social ethos. The other-ing of equals rests, even according to modem principles, on the politicization of social inheritance. It operates as a mechanism of racialization, based on the politicization of origins. Thus French citizenship was neither unitary nor abstract. It worked as much to include as it did to exclude. Its historical construction was articulated according to a certain modality of race, which included not only categorization based on color, but also based on the perceived level of civilization.",
+    "doi": "",
+    "url": "https://openalex.org/W187360915",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Colonialism, slavery, and trade",
+      "Migration, Identity, and Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Silyane Larcher"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "L'autre citoyen : universalisme civique et exclusion sociale et politique au miroir des colonies post-esclavagistes de la Caraïbe française (Martinique, Guadeloupe, années 1840 - années 1890)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/YX/YXYIK753.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

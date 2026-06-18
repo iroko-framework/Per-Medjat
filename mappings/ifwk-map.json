@@ -1,0 +1,70 @@
+{
+  "modules": {
+    "ewe": {
+      "label": "Ew\u00e9",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-ewe.html"
+    },
+    "nkisi": {
+      "label": "Nkisi",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-nkisi.html"
+    },
+    "travay": {
+      "label": "Travay",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-travay.html"
+    },
+    "ile": {
+      "label": "Il\u00e9",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-ile.html"
+    },
+    "marca": {
+      "label": "Marca",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-marca.html"
+    },
+    "ekpe": {
+      "label": "\u00c9kp\u00e8",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-ekpe.html"
+    },
+    "veve": {
+      "label": "V\u00e8v\u00e8",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-veve.html"
+    },
+    "ngoma": {
+      "label": "Ngoma",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-ngoma.html"
+    },
+    "sankofa": {
+      "label": "Sankofa",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-sankofa.html"
+    },
+    "qal": {
+      "label": "Qal",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-qal.html"
+    }
+  },
+  "classes": {
+    "slave-paper": {
+      "label": "Slave Paper",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#SlavePaper"
+    },
+    "documentary-evidence": {
+      "label": "Documentary Evidence",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#DocumentaryEvidence"
+    },
+    "heritage-relationship": {
+      "label": "Heritage Relationship",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#HeritageRelationship"
+    },
+    "reconstructed-practice": {
+      "label": "Reconstructed Practice",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#ReconstructedPractice"
+    },
+    "trans-afro-atlantic-return": {
+      "label": "Trans-Afro-Atlantic Return",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#TransAfroAtlanticReturn"
+    },
+    "reclamation-movement": {
+      "label": "Reclamation Movement",
+      "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#ReclamationMovement"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "key": "2PC5RRRT",
+  "uri": "https://medjat.irokosociety.org/id/library/2PC5RRRT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2PC5RRRT",
+  "zotero": {
+    "group": "6479329",
+    "key": "2PC5RRRT",
+    "version": 4077,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2PC5RRRT",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Got Males?: The Enigmatic Goblin Spider GenusTriaeris(Araneae, Oonopidae)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Norman I. Platnick"
+      },
+      {
+        "role": "editor",
+        "name": "Nadine Dupérré"
+      },
+      {
+        "role": "editor",
+        "name": "Darrell Ubick"
+      },
+      {
+        "role": "editor",
+        "name": "Wouter Fannes"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "American Museum Novitates",
+    "publicationTitle": "American Museum Novitates",
+    "bookTitle": "",
+    "journalAbbreviation": "American Museum Novitates",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3756",
+    "issue": "3756",
+    "pages": "1-36",
+    "abstract": "The type species of the goblin spider genus Triaeris Simon, T. stenaspis Simon, was originally described from Saint Vincent in the Lesser Antilles, but has attained a pantropical distribution and even has introduced populations living in European greenhouses. At least one of those European populations is parthenogenetic, and no males of the species have ever been found. Simon later assigned one additional species to the genus, T. equestris, from Prncipe; that species is also known only from females, but resembles T. stenaspis in having an unusually elongated, ventrally spinose patella on leg I. Numerous other species, from both the Old and New worlds, have subsequently been assigned to Triaeris; all those taxa seem to be either synonyms (including T. berlandi Lawrence from the Democratic Republic of the Congo, T. lepus Suman from Hawaii, and T. lacandonus Brignoli from Guatemala, which are newly synonymized with T. stenaspis) or misplaced in the genus. The modified patella I occurs in four new West African species (T. moca from Bioko and T. fako, T. oku, and T. menchum from Cameroon); unfortunately, those species are also represented only by females. Few other gamasomorphines have patellar spines, and most of those that do have such spines belong to a group of genera in which the males have heavily sclerotized endites, suggesting that Triaeris might belong to that group. Searching West African collections of such taxa revealed two additional new species, T. togo and T. ibadan, that are each represented by both sexes. Female genitalic structure suggests that T. togo is the closest relative of T. stenaspis.",
+    "doi": "10.1206/3756.2",
+    "url": "https://doi.org/10.1206/3756.2",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Hymenoptera taxonomy and phylogeny",
+      "Lepidoptera: Biology and Taxonomy",
+      "Spider Taxonomy and Behavior Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Norman I. Platnick"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Got Males?: The Enigmatic Goblin Spider GenusTriaeris(Araneae, Oonopidae)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "American Museum Novitates, 2012."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-36 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1206/3756.2"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hymenoptera taxonomy and phylogeny"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Lepidoptera: Biology and Taxonomy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spider Taxonomy and Behavior Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Nadine Dupérré"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Darrell Ubick"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Wouter Fannes"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2P/2PC5RRRT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1206/3756.2"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

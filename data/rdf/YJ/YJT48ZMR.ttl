@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YJT48ZMR>
+  a schema:ScholarlyArticle ;
+  schema:name "Trayectorias e identidades en el diálogo Atlántico más allá de las fronteras coloniales: instrumentos de la sociedad cubana Abakuá en el Museo Nacional de Antropología de Madrid" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YJT48ZMR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YJT48ZMR" ;
+  schema:author "Isabela de Aranzadi" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Dialnet (Universidad de la Rioja)" ;
+  dcterms:subject "Cuban History and Society" .

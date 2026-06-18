@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Z79TVXMT>
+  a schema:ScholarlyArticle ;
+  schema:name "Vélez, María Teresa. Drumming for the gods. The life and times of Felipe García Villamil, Santero, Palero and Abakua. Philadelphia: Temple University Press, 2000, 210 p" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Z79TVXMT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Z79TVXMT" ;
+  schema:author "Ramiro Delgado Salazar" ;
+  schema:datePublished "2002" ;
+  schema:publisher "Boletín de antropología. Universidad de Antioquia" ;
+  dcterms:subject "Cultural and Mythological Studies", "Latin American history and culture", "Literature, Magical Realism, García Márquez" .

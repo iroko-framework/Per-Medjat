@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AAFGVU8R>
+  a schema:ScholarlyArticle ;
+  schema:name "More than ‘A Hidden Race’: The Complexities of Blackness in Mexico and Peru" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AAFGVU8R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AAFGVU8R" ;
+  schema:description "In the PBS film series, Black in Latin America, Henry Louis Gates, Jr" ;
+  schema:author "Christina A. Sue" ;
+  schema:creator "Tanya Golash‐Boza" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Latin American and Caribbean Ethnic Studies" ;
+  schema:sameAs <https://doi.org/10.1080/17442222.2013.768462> ;
+  dcterms:identifier "doi:10.1080/17442222.2013.768462" ;
+  dcterms:subject "Anthropological Studies and Insights", "Latin American and Latino Studies", "Politics and Society in Latin America" .

@@ -1,0 +1,95 @@
+{
+  "key": "ER3GWNV6",
+  "uri": "https://medjat.irokosociety.org/id/library/ER3GWNV6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ER3GWNV6",
+  "zotero": {
+    "group": "6479329",
+    "key": "ER3GWNV6",
+    "version": 3540,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ER3GWNV6",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "Lives on the Line: Dispatches from the U.S.-Mexico Border",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Miriam Davidson"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "Project Muse (Johns Hopkins University)",
+    "publicationTitle": "Project Muse (Johns Hopkins University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Project Muse (Johns Hopkins University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Review: Lives on the Line: Dispatches from the U.S.-Mexican Border By Miriam Davidson Reviewed by Xavier E. Gros Mitsui Babcock Ltd., Scotland Davidson Miriam. Lives on the Line: Dispatches from the U.S.-Mexico Border. Tucson, AZ: University of Arizona Press, 2000. 211 pp. ISBN 0-8165-1998-6 (softcover). US$17.95. Recycled, acid-free paper. A tale of modern slavery at the U.S.-Mexico border, Lives on the Line reports on the lives of Mexican immigrants and their exploitation by international factories (or maquiladoras) in the twin cities of Nogales, Arizona, and Nogales, Sonora. Davidson combines documentation gathered through in- depth research with interviews to compile vivid portrayals of humans surviving on the border of the world's foremost economic power. In only five stories, Davidson depicts the violence, poverty, and environmental devastation of Nogales, but also the optimism of young people striving for a better life (p. 9). Despite a faint note of optimism, the amount of work to be performed before citizens from both cities could contemplate the idea of a decent lifestyle appears enormous. Although such work has already started, it takes place at a very slow pace. In the meantime, Ambos Nogales is getting worse. People are dying, and time is running out (p. 79). Davidson is not afraid of writing about the shortcomings of the U.S. government as well as the disinterest of the Mexican government towards their own citizens. She shows that, although labor, human rights, and environmental groups in the United States condemned the factories as exploiters and polluters, toxic contamination continues, and citizens from both sides of the border die from environmental abuses and waste dumping. What emerges from this book is the image of a country's economy built on slavery; where the poorer and less educated are treated as disposable tools. It is a well-documented fact that such behavior has been part of U.S. culture since 1787. Nowadays, Chinese and African slaves have been replaced by Mexicans, and history simply repeats itself. What is more scandalous is that these workers have to struggle to secure a basic meal while others located only a few miles away, on the other side of the border, are wasting food. But the United States is not the only source of the problems. Indeed, the Mexican government was eager to accept the implantation of foreign factories at the border regardless of the working and living conditions of the",
+    "doi": "",
+    "url": "https://openalex.org/W211084432",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Miriam Davidson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Lives on the Line: Dispatches from the U.S.-Mexico Border"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Project Muse (Johns Hopkins University), 2000."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ER/ER3GWNV6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

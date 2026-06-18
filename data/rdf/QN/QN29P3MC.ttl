@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QN29P3MC>
+  a schema:ScholarlyArticle ;
+  schema:name "Sex and Slavery: An Analysis of Three Models of State Human Trafficking Legislation" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QN29P3MC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QN29P3MC" ;
+  schema:description "SEX AND SLAVERY85 perform all manner of services day and night for years.Their passports and immigration documents were held in a locked cabinet, preventing them from fleeing. 2 Federal prosecutors alleged that the defendants lured these inexperienced and uneducated women from their homes overseas with promises of good jobs and decent salaries and ruthlessly exploited them once they arrived. 3 Isolated linguistically and culturally in the United States, with nowhere to go for help, the women had no choice but to submit to their abusers' demands.On the witness stand, the victims bravely told their story, sharing the intimate and often shameful details of their abuse with the jury, punctuated with sobs. 4 The jury found both defendants guilty on all twelve counts, including human trafficking, and sentenced them to eleven and three and a half years in prison, respectively. 5 Stereotypically, the punch line to this story would be that these women were sex slaves, part of a multi-billion dollar criminal industry of exploitation.Many films, made-for-TV movies, television crime dramas, and newspaper exposs use this plotline regularly, retelling a story that dates back to the Victorian era's tales of white slavery. 6 In fact, the women in this real-life story were trafficked to be household domestic workers by a wealthy Long Island businessman and his wife, who was the primary abuser. 7 Human trafficking, or modern day slavery, has become a prominent political issue in the United States in the last decade. 8Quantification of the overall problem is notoriously difficult, 9 but it is clear 2. Id. at 620. 3. Id." ;
+  schema:author "Melynda H. Barnhart" ;
+  schema:datePublished "2009" ;
+  dcterms:subject "Historical and Contemporary Political Dynamics", "Human Rights and Development", "Sex work and related issues" .

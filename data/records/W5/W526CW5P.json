@@ -1,0 +1,128 @@
+{
+  "key": "W526CW5P",
+  "uri": "https://medjat.irokosociety.org/id/library/W526CW5P",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W526CW5P",
+  "zotero": {
+    "group": "6479329",
+    "key": "W526CW5P",
+    "version": 4098,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W526CW5P",
+    "dateAdded": "2026-06-17T15:31:08Z",
+    "dateModified": "2026-06-17T15:31:08Z"
+  },
+  "display": {
+    "title": "Invasive Characteristics of Robinia pseudoacacia and Its Impacts on Species Diversity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hisashi Kato‐Noguchi"
+      },
+      {
+        "role": "editor",
+        "name": "Midori Kato"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Diversity",
+    "publicationTitle": "Diversity",
+    "bookTitle": "",
+    "journalAbbreviation": "Diversity",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "16",
+    "issue": "12",
+    "pages": "773-773",
+    "abstract": "Robinia pseudoacacia is native to North America and has been introduced into many other countries in Europe, South and South East Asia, South America, Africa, and Oceania. The species has been planted intensively in a large area of these countries because of its ornamental and economic values. However, R. pseudoacacia often infests unintended places, including protected areas, and causes significant ecological impacts. The species is now listed as one of the harmful invasive plant species. The characteristics of its life-history, such as the high growth and reproduction rate and adaptive ability to various environmental conditions, may contribute to the invasiveness of the species. The defense ability against natural enemies such as pathogenic fungi and herbivores and its allelopathic potential against the competitive plant species may also contribute to its invasiveness. The R. pseudoacacia infestation alters the ecological functions of the plant community, including the soil microbe community, and reduces the abundance and diversity of the native plant species, including vertebrates and invertebrates in the introduced ranges. R. pseudoacacia is a shade intolerant and early successional tree species and is replaced by larger and more shade tolerant tree species in the native ranges, while plant succession seems not to occur always in the introduced ranges across the different ages of R. pseudoacacia stands. Several other review articles have summarized the afforestation, utilization, biology, and management of the species, but this is the first review focusing on the invasive mechanism of R. pseudoacacia and its impacts on species diversity.",
+    "doi": "10.3390/d16120773",
+    "url": "https://doi.org/10.3390/d16120773",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Bioenergy crop production and management",
+      "Ecology and Vegetation Dynamics Studies",
+      "Plant Parasitism and Resistance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hisashi Kato‐Noguchi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Invasive Characteristics of Robinia pseudoacacia and Its Impacts on Species Diversity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Diversity, 2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "773-773 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/d16120773"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bioenergy crop production and management"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ecology and Vegetation Dynamics Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant Parasitism and Resistance"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Midori Kato"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/W5/W526CW5P.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/d16120773"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

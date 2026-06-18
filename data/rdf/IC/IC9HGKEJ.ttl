@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IC9HGKEJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Influence Of Culture on Women and Leadership Position Among the Yoruba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IC9HGKEJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IC9HGKEJ" ;
+  schema:description "Nigeria, a multi-ethnic and culturally diverse nation, is home to over 300 ethnic groups, with the Yoruba forming one of its most influential populations. Despite the rich cultural heritage of the Yoruba, their traditional practices have historically marginalized women, particularly in leadership roles. This study examines the influence of Yoruba cultural systems on women’s leadership positions in Nigeria, focusing on how traditional beliefs and practices have restricted female participation in political and socio-economic leadership. The central problem addressed in this research is the persistent cultural limitation placed on Yoruba women, which hinders their access to leadership despite significant contributions to family, economy, and community development. The objectives include identifying cultural practices that restrict women's leadership, assessing the current state of female representation in Yoruba political and religious structures, and recommending strategies for promoting gender-inclusive leadership. The study adopts a qualitative methodology, utilizing historical analysis, document review, and key informant interviews from selected Yoruba communities. Primary and secondary sources were analyzed to understand the evolution of women’s roles from pre-colonial to post-colonial periods and how colonial and post-independence structures entrenched gender inequality. Findings reveal that while pre-colonial Yoruba society allowed for influential female figures like the Iyalode, Iyaloja, Iyalaje, Regent, Erelu, Ayaba, among others, colonial systems reinforced patriarchy by sidelining indigenous female leadership roles. Cultural festivals like the Oro and societal expectations about domestic responsibilities further suppress women’s leadership potential. In modern political settings, Yoruba women face systemic discrimination rooted in both cultural and institutional biases. The study concludes that without a cultural reorientation, gender equality in leadership will remain elusive in Yoruba society. It recommends policy reforms, inclusive cultural education, and empowerment programs that challenge patriarchal norms while promoting women’s active participation in governance. Addressing these cultural impediments is essential for achieving gender-balanced development and leadership equity in Nigeria." ;
+  schema:author "Adesola Mercy PhD Fasiku" ;
+  schema:creator "Clement Oladayo DARAMOLA", "Christianah Omowamide FOLORUNSO" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Journal of Research in Humanities and Social Science" ;
+  schema:sameAs <https://doi.org/10.35629/9467-13064351> ;
+  dcterms:identifier "doi:10.35629/9467-13064351" ;
+  dcterms:subject "African Education and Politics" .

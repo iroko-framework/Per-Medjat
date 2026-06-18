@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/U7G3CMY7>
+  a schema:ScholarlyArticle ;
+  schema:name "Etre abakuá à La Havane" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=U7G3CMY7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:U7G3CMY7" ;
+  schema:author "Géraldine Morel" ;
+  schema:datePublished "2012" ;
+  dcterms:subject "Caribbean and African Literature and Culture" .

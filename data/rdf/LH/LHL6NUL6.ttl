@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LHL6NUL6>
+  a schema:Chapter ;
+  schema:name "The Primitive Quality of the Modern" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LHL6NUL6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LHL6NUL6" ;
+  schema:description "Abstract In New York City, Elsie Houston engaged with the artistic fervor of the Harlem Renaissance by exploring music across the African diaspora. She performed African American spirituals, afrocubanismo songs inspired by Abakuá, and Brazilian songs taken from African-based religions such as Candomblé. Elsie’s repertoire celebrated the diverse scope of the modern black experience, and this was a way for her to reject racism. She appeared on stage alongside other artists from across the diaspora such as the Trinidadian dancer Beryl McBurnie and the drumming and dance act Haitian Rada Group. Elsie was also photographed by the Harlem Renaissance photographer Carl Van Vechten in 1940. However, as a lighter-skinned, mixed-race, upper-class Brazilian, Elsie was not consistently recognized as black in the United States, and for some African American critics, she breached the line between cultural celebration and cultural appropriation. Elsie’s conception of racism in Brazil vis-à-vis the United States is also explored." ;
+  schema:author "Adjoa Osei" ;
+  schema:datePublished "2024" ;
+  schema:sameAs <https://doi.org/10.1093/oso/9780197693179.003.0007> ;
+  dcterms:identifier "doi:10.1093/oso/9780197693179.003.0007" ;
+  dcterms:subject "Animal Law and Welfare", "Caribbean history, culture, and politics", "Race, History, and American Society" .

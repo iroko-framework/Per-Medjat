@@ -1,0 +1,107 @@
+{
+  "key": "H4WW66KZ",
+  "uri": "https://medjat.irokosociety.org/id/library/H4WW66KZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=H4WW66KZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "H4WW66KZ",
+    "version": 3546,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/H4WW66KZ",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "The Mexican Constitutional Congress, 1856-1857: A Statistical Analysis",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Richard N. Sinkin"
+      }
+    ],
+    "year": "1973",
+    "date": "1973",
+    "publisher": "Hispanic American Historical Review",
+    "publicationTitle": "Hispanic American Historical Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Hispanic American Historical Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "53",
+    "issue": "1",
+    "pages": "1-26",
+    "abstract": "T HE SINGLE MOST IMPORTANT DOCUMENT and symbol of the Reform in Mexico in t-he middle of the nineteenth century is the Constitution of 1857. Because of its importance, it has attracted much scholarly and popular attention, most of which focuses on certain important articles included in the document. The Constitution is noted for the inclusion of the Ley Lerdo, which forced corporations like the Church and the Indian communities to sell their property. The Constitution also contained the Ley Juarez, which severely limited and circumscribed the privileges of the Church and military. For the first time in Mexican history, individuals were to be protected by a bill of rights. Complete equality under the law, abolition of slavery, freedom of speech, freedom of assembly, freedom of the press, freedom to teach whatever one wanted, and restrictions on the application of the death penalty-these were some of the individual rights guaranteed by the Constitution. And these rights remained when the Constitution was revised and rewritten in 19L6-L917.1 Yet, in spite of the significance of the Constitution of 1857, the social composition and voting behavior of the delegates who wrote it been completely neglected. In general, we been led to believe that Mexico's constitutions have been the result of free dis-",
+    "doi": "10.1215/00182168-53.1.1",
+    "url": "https://doi.org/10.1215/00182168-53.1.1",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Political Dynamics in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Richard N. Sinkin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Mexican Constitutional Congress, 1856-1857: A Statistical Analysis"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Hispanic American Historical Review, 1973."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-26 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/00182168-53.1.1"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Political Dynamics in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/H4/H4WW66KZ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/00182168-53.1.1"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

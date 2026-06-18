@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JKHHUW88>
+  a schema:ScholarlyArticle ;
+  schema:name "Beyond the Border Colonialism, Diaspora and Displacement: Artistic Narratives between Memory and Identity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JKHHUW88> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JKHHUW88" ;
+  schema:description "This thesis explores the link between colonialism, diaspora and displacement, analysing how these themes are addressed in contemporary art through the works of artists such as Belkis Ayón, Tania Bruguera, Coco Fusco, Binta Diaw and Dominique White. My research is developed around the concept of non-place (Marc Augé) and the space in-between (Homi Bhabha), understood as fluid territories in which identity is broken down and recomposed, suspended between memory and oblivion, between roots and transit. The analysis examines artistic practices that reinterpret the collective memory of diasporic communities, with a focus on processes of cultural and identity re-appropriation. Belkis Ayón's work reinterprets the Afro-Cuban mythology of the Abakuá as a metaphor for diaspora and marginality, while Tania Bruguera and Coco Fusco deconstruct the colonial gaze through performance and denunciation of power. Binta Diaw and Dominique White use the body, the sea and shipwreck as symbols of identity fragmentation and the construction of new spaces of belonging. The thesis integrates references to Paul Gilroy, Aníbal Quijano, Frantz Fanon and Enrique Dussel, highlighting how art can function as an archive of memories and an instrument of political resistance. Parallel to the theoretical research, my artistic project proposes a series of installations that evoke the non-place of dislocation, a space of transition and rewriting, where matter - sound, sculpture, performance - become bearers of forgotten histories and new possibilities of belonging. keywords:" ;
+  schema:author "Gabriela Alessandra Queija Du Bois" ;
+  schema:datePublished "2025" ;
+  schema:sameAs <https://doi.org/10.22501/rc.3507774> ;
+  dcterms:identifier "doi:10.22501/rc.3507774" ;
+  dcterms:subject "Asian American and Pacific Histories", "Colonial History and Postcolonial Studies", "Diaspora, migration, transnational identity" .

@@ -1,0 +1,150 @@
+{
+  "key": "YI28NGD9",
+  "uri": "https://medjat.irokosociety.org/id/library/YI28NGD9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YI28NGD9",
+  "zotero": {
+    "group": "6479329",
+    "key": "YI28NGD9",
+    "version": 1065,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YI28NGD9",
+    "dateAdded": "2026-05-19T13:27:42Z",
+    "dateModified": "2026-05-19T13:27:42Z"
+  },
+  "display": {
+    "title": "Des techniques pour croire",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nathalie Luca"
+      },
+      {
+        "role": "editor",
+        "name": "Marie Anne Polo de Beaulieu"
+      },
+      {
+        "role": "editor",
+        "name": "Charlotte Bigg"
+      },
+      {
+        "role": "editor",
+        "name": "Stefania Capone"
+      },
+      {
+        "role": "editor",
+        "name": "Nadine Wanono Gauthier"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Archives de sciences sociales des religions",
+    "publicationTitle": "Archives de sciences sociales des religions",
+    "bookTitle": "",
+    "journalAbbreviation": "Archives de sciences sociales des religions",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "187",
+    "issue": "",
+    "pages": "",
+    "abstract": "Le trigramme introduit par Bernardin de Sienne dans ses sermons en 1418, un phonographe au cœur d'un rituel abakua afro-cubain à Philadelphie en 1908, une horloge à pendule apportée dans la première colonie pénale australienne en 1788, une photographie retrouvée dans le dossier judiciaire d’un « sorcier » afro-brésilien accusé de pratiquer des rites de possession en 1871 Rio de Janeiro : quatre objets parmi d’autres, sans rapport apparent entre eux mais qui servent tous de supports techniques à la production d’une croyance. Entre mise en scène et performance, le dossier « Des techniques pour croire » explore le postulat selon lequel croire et faire croire sont d’abord des opérations matérielles, physiques, indissociables de dispositifs techniques dont l'efficacité n'est pas donnée a priori mais dépend du contexte de leur interprétation, de leurs usages et de leurs éventuelles réappropriations. Ces dispositifs sont ici analysés à la rencontre entre l’anthropologie, les Science and Technology Studies et l’histoire religieuse. The trigram introduced by Bernardin of Siena in his sermons in 1418, a phonograph at the heart of an Afro-Cuban Abakua ritual in Philadelphia in 1908, a pendulum clock brought into the first Australian penal colony in 1788, a photograph found in the court file of an Afro-Brazilian \"sorcerer\" accused of practicing possession rites in 1871 in Rio de Janeiro: four objects among others, without any apparent relationship between them but which all serve as technical supports for the production of a belief. Between staging and performance, the \"Techniques to Believe\" dossier explores the postulate that believing and making people believe are first and foremost material, physical operations, inseparable from technical devices whose effectiveness is not given a priori but depends on the context of their interpretation, their uses and their possible reappropriation. These devices are analyzed here at the meeting between anthropology, Science and Technology Studies and religious history. El trigrama introducido por Bernardin de Siena en sus sermones de 1418, un fonógrafo en el corazón de un ritual afrocubano Abakua en Filadelfia en 1908, un reloj de péndulo introducido en la primera colonia penal australiana en 1788, una fotografía encontrada en el expediente de un \"brujo\" afrobrasileño acusado de practicar ritos de posesión en 1871 en Río de Janeiro: cuatro objetos entre otros, sin ninguna relación aparente entre ellos, pero que sirven de soporte técnico para la producción de una creencia. Entre la puesta en escena y la performance, el dossier \"Técnicas para creer\" explora el postulado de que creer y hacer creer son ante todo operaciones materiales y físicas, inseparables de dispositivos técnicos cuya eficacia no se da a priori sino que depende del contexto de su interpretación, de sus usos y de su posible reapropiación. Estos dispositivos se analizan aquí en el encuentro entre antropología, Science and Technology Studies e historia de las religiones. Il trigramma introdotto da Bernardino da Siena nei suoi sermoni del 1418, un fonografo al centro di un rito afro-cubano Abakua a Philadelphia nel 1908, un orologio a pendolo importato nella prima colonia penale australiana nel 1788, una fotografia ritrovata nel fascicolo giudiziario di uno \"stregone\" afro-brasiliano accusato di praticare riti di possessione nel 1871 a Rio de Janeiro: quattro oggetti, fra gli altri, senza alcuna relazione apparente fra loro, ma tutti utilizzati come supporto tecnico per la produzione di una credenza. Tra messa in scena e performance, il dossier \"Tecniche per credere\" esplora il postulato che credere e far credere sono prima di tutto operazioni materiali, fisiche, inseparabili da dispositivi tecnici, la cui efficacia non è data a priori ma dipende dal contesto della loro interpretazione, dai loro usi e dalla loro possibile riappropriazione. Questi dispositivi sono analizzati all'incrocio tra antropologia, Science and Technology Studies e storia religiosa.",
+    "doi": "10.4000/assr.45881",
+    "url": "https://doi.org/10.4000/assr.45881",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural Insights and Digital Impacts",
+      "Diverse multidisciplinary academic research",
+      "Linguistics and Discourse Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nathalie Luca"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Des techniques pour croire"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Archives de sciences sociales des religions, 2019."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/assr.45881"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural Insights and Digital Impacts"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diverse multidisciplinary academic research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Discourse Analysis"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Marie Anne Polo de Beaulieu"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Charlotte Bigg"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Stefania Capone"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Nadine Wanono Gauthier"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/YI/YI28NGD9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/assr.45881"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

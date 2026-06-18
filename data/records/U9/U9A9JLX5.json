@@ -1,0 +1,108 @@
+{
+  "key": "U9A9JLX5",
+  "uri": "https://medjat.irokosociety.org/id/library/U9A9JLX5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=U9A9JLX5",
+  "zotero": {
+    "group": "6479329",
+    "key": "U9A9JLX5",
+    "version": 3549,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/U9A9JLX5",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "Writing the History of Global Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Trevor Burnard"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Cambridge University Press eBooks",
+    "publicationTitle": "Cambridge University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Cambridge University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This Element shows that existing models of global slavery derived from sociology and modelled closely on antebellum American slavery being normative should be replaced a global slavery that is less American and more global. It argues that we can understand the global history of slavery if we connect it more closely to another important world institution – empires in ways that historicise the study of history as an institution with a history that changes over time and space. Moreover, we can learn from scholars of modern slavery and use more than we do the enormous proliferation of usable sources about the lives, experiences and thoughts of the enslaved, from ancient to modern times, to make these voices of the enslaved crucial drivers of how we conceptualise and describe the varied kinds of global slavery in world history. This title is also available as Open Access on Cambridge Core.",
+    "doi": "10.1017/9781009406284",
+    "url": "https://doi.org/10.1017/9781009406284",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Trevor Burnard"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Writing the History of Global Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press eBooks, 2023."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1017/9781009406284"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/U9/U9A9JLX5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1017/9781009406284"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

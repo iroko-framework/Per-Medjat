@@ -1,0 +1,113 @@
+{
+  "key": "VNPFIGQZ",
+  "uri": "https://medjat.irokosociety.org/id/library/VNPFIGQZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VNPFIGQZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "VNPFIGQZ",
+    "version": 3940,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VNPFIGQZ",
+    "dateAdded": "2026-06-17T15:31:05Z",
+    "dateModified": "2026-06-17T15:31:05Z"
+  },
+  "display": {
+    "title": "A Black Conquistador in Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Péter Gerhard"
+      }
+    ],
+    "year": "1978",
+    "date": "1978",
+    "publisher": "Hispanic American Historical Review",
+    "publicationTitle": "Hispanic American Historical Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Hispanic American Historical Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "58",
+    "issue": "3",
+    "pages": "451-459",
+    "abstract": "While the role played by the people of equatorial Africa in the colonization of Latin America is relatively well-known, it is for the most part an impersonal history that emerges from the contemporary documents: the establishment of a slave trade as a result of the demand for labor to replace a devastated native population; the employment of these black slave's in the more arduous tasks throughout the colonies; and, in most areas, their gradual assimilation through miscegenation with natives (and to a far lesser extent with Europeans) . Information about individual blacks is usually confined to a brief statement of age', physical characteristics, and degree of acculturation at the moment of sale or the taking of estate inventories; less frequently, the place of origin of a slave is indicated. Only rarely do we hear about a slave who achieved distinction in some way. Two examples that come to mind are Valiente, the conquistador of Chile,' and Yanga, the famed maroon leader in Veracruz.2 Although most blacks who came to America in early years were slaves, records of the Casa de Contratacion show that a good many black freedmen from Seville and elsewhere found passage on westwardbound ships.8 Some of them settled in the Caribbean region, and others followed the tide of conquest to Mexico and Peru, identifying themselves no doubt as Catholic subjects of a Spanish king, with much the same privileges and ambitions as white Spaniards. Benito el Negro and Juan el Negro (the latter's real name seems to have been de",
+    "doi": "10.1215/00182168-58.3.451",
+    "url": "https://doi.org/10.1215/00182168-58.3.451",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Péter Gerhard"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Black Conquistador in Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Hispanic American Historical Review, 1978."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "451-459 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/00182168-58.3.451"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VN/VNPFIGQZ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/00182168-58.3.451"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/P8G69BBI>
+  a schema:ScholarlyArticle ;
+  schema:name "After the Revolution: The Search for Roots in Afro-Cuban Culture" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=P8G69BBI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:P8G69BBI" ;
+  schema:description "An abstract is not available for this content so a preview has been provided. As you have access to this content, a full PDF is available via the 'Save PDF' action button." ;
+  schema:author "Jorge Duany" ;
+  schema:datePublished "1988" ;
+  schema:publisher "Latin American Research Review" ;
+  schema:sameAs <https://doi.org/10.1017/s002387910003483x> ;
+  dcterms:identifier "doi:10.1017/s002387910003483x" ;
+  dcterms:subject "Cuban History and Society" .

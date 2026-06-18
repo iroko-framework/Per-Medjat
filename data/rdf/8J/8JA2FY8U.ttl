@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8JA2FY8U>
+  a schema:Book ;
+  schema:name "The Laws of Slavery in Texas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8JA2FY8U> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8JA2FY8U" ;
+  schema:description "The laws that governed the institution of slavery in early Texas were enacted over a fifty-year period in which Texas moved through incarnations as a Spanish colony, a Mexican state, an independent republic, a part of the United States, and a Confederate state. This unusual legal heritage sets Texas apart from the other slave-holding states and provides a unique opportunity to examine how slave laws were enacted and upheld as political and legal structures changed. The Laws of Slavery in Texas makes that examination possible by combining seminal historical essays with excerpts from key legal documents from the slave period and tying them together with interpretive commentary by the foremost scholar on the subject, Randolph B. Campbell. Campbell's commentary focuses on an aspect of slave law that was particularly evident in the evolving legal system of early Texas: the dilemma that arose when human beings were treated as property. As Campbell points out, defining slaves as moveable property, or chattel, presented a serious difficulty to those who wrote and interpreted the law because, unlike any other form of property, slaves were sentient beings. They were held responsible for their crimes, and in numerous other ways statute and case law dealing with slavery recognized the humanness of the enslaved. Attempts to protect the property rights of slave owners led to increasingly restrictive laws—including laws concerning free blacks—that were difficult to uphold. The documents in this collection reveal both the roots of the dilemma and its inevitable outcome." ;
+  schema:author "Bugbee, Lester G." ;
+  schema:creator "Campbell, Randolph B.", "Campbell, Randolph B.", "Davidson, Mark", "Duncan, Marilyn P.", "Greenhill, Joe R.", "Keir Nash, A. E.", "McKnight, Joseph W.", "Pugsley, William S.", "Schoen, Harold" ;
+  schema:datePublished "2010" ;
+  schema:publisher "University of Texas Press eBooks" ;
+  schema:sameAs <https://doi.org/10.7560/721883> ;
+  dcterms:identifier "doi:10.7560/721883" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies", "Race, History, and American Society" .

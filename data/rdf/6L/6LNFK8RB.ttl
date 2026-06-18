@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6LNFK8RB>
+  a schema:Thesis ;
+  schema:name "Supreme Court decision-making in slavery cases" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6LNFK8RB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6LNFK8RB" ;
+  schema:description "This paper looks at Supreme Court decision-making by examining cases that involved issues of slavery. After developing a population of 14 cases, I test the decisions in light of the three alternative hypotheses: attitudinalism, legalism, and regime theory. Each theory explains a different set of cases. The attitudinal model captures cases involving Mississippi laws governing slavery. The legal model explains suits in which the issue was whether a black was a slave or not. Finally, the regime account is most important in fugitive slave law." ;
+  schema:author "Bridge, David (author)" ;
+  schema:datePublished "2015" ;
+  schema:publisher "University of Southern California Digital Library" ;
+  schema:sameAs <https://doi.org/10.25549/usctheses-m729> ;
+  dcterms:identifier "doi:10.25549/usctheses-m729" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Migration and Labor Dynamics", "Sex work and related issues" .

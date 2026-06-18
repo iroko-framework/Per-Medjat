@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SSQ6F62E>
+  a schema:ScholarlyArticle ;
+  schema:name "Slavery, Migration, and Local Development in the Western US" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SSQ6F62E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SSQ6F62E" ;
+  schema:description "This paper examines the effects of migration from eastern slave states in the 19th century on the subsequent development of counties in the Western US. I find that increased migration from slave states has a large, statistically significant negative effect on 2010 income, and no significant effect on racial inequality or overall income inequality. These findings are robust to a variety of specifications, including controls for geographic factors, state fixed effects, and various county level social and economic conditions. Data on individual migrants suggest that the cause of the negative income effect is the lower average human capital endowment of migrants from slave states." ;
+  schema:author "Colin Q Sharpe" ;
+  schema:datePublished "2016" ;
+  schema:publisher "CUNY Academic Works (City University of New York)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Race, History, and American Society" .

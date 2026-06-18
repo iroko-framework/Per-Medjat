@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6UGMIQJW>
+  a schema:ScholarlyArticle ;
+  schema:name "Petrography and Petrochemical Characteristics of Rare Metal Pegmatites around Oro, Southwestern Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6UGMIQJW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6UGMIQJW" ;
+  schema:author "Abiola O. Oyebamiji" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Asia Pacific Journal of Energy and Environment" ;
+  schema:sameAs <https://doi.org/10.18034/apjee.v1i1.483> ;
+  dcterms:identifier "doi:10.18034/apjee.v1i1.483" ;
+  dcterms:subject "Geochemistry and Geologic Mapping" .

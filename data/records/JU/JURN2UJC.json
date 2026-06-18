@@ -1,0 +1,101 @@
+{
+  "key": "JURN2UJC",
+  "uri": "https://medjat.irokosociety.org/id/library/JURN2UJC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JURN2UJC",
+  "zotero": {
+    "group": "6479329",
+    "key": "JURN2UJC",
+    "version": 3376,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JURN2UJC",
+    "dateAdded": "2026-05-20T16:34:21Z",
+    "dateModified": "2026-05-20T16:34:21Z"
+  },
+  "display": {
+    "title": "An American Tradition: Individualism, Secularization and Magic in New Orleans",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stian Bjørgen"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Duo Research Archive (University of Oslo)",
+    "publicationTitle": "Duo Research Archive (University of Oslo)",
+    "bookTitle": "",
+    "journalAbbreviation": "Duo Research Archive (University of Oslo)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this master`s thesis I seek to understand the magical and religious practice in contemporary United States of America. To do this I studied the practice of Voodoo in New Orleans. I wanted to see how a tradition focused on magic and Afro-Caribbean mythology can survive and be practiced in a modern society as contemporary New Orleans. The questions I am raising are how magic and spiritual religion can correlate with modernity and individualism, and if the practices are formed by the traditions or by the greater society. The fieldwork was conducted January to June 2015. The focus will be on reality construction and how the practitioners understand themselves and their function in this reality, as they live in a society formed by disenchantment and Individualism. The claim of this paper is that the traditions are formed by the values of the greater society, that voodoo is used to express individualistic values and an individualistic understanding of the individuals place in the universe. Formed by America, expressed through voodoo, An American Tradition.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10852/54094",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religious Tourism and Spaces",
+      "Vietnamese History and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stian Bjørgen"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "An American Tradition: Individualism, Secularization and Magic in New Orleans"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Duo Research Archive (University of Oslo), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religious Tourism and Spaces"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Vietnamese History and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JU/JURN2UJC.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

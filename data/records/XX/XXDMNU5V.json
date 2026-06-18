@@ -1,0 +1,114 @@
+{
+  "key": "XXDMNU5V",
+  "uri": "https://medjat.irokosociety.org/id/library/XXDMNU5V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XXDMNU5V",
+  "zotero": {
+    "group": "6479329",
+    "key": "XXDMNU5V",
+    "version": 1656,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XXDMNU5V",
+    "dateAdded": "2026-05-19T14:17:23Z",
+    "dateModified": "2026-05-19T14:17:23Z"
+  },
+  "display": {
+    "title": "A escravidão em São Mateus/ES: economia e demografia (1848-1888)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Maria do Carmo de Oliveira Russo"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this essay it is intended to address some aspects of the slavery in So Mateusa port town located in the north of the state of Esprito Santo, Brazilin the nineteenth century\"s second half. The So Mateus village harbora vector for the development of that region at the timeused to gather and distribute all the agricultural production of the regionmainly the manioc flour, which was considered to be one of the best products on the coastand later, the coffee, sheltering a large slave market. Special attention is given to certain features of So Mateus\" agricultural, social and economical structures, aiming to demonstrate the importance of the slavery institution in context as well as the specificity of slaveholding in the region. Therefore, analyses and consultations of Notation Books have been carried out in the Registry Office, where a range of documentes have been found, such as slaves liberation registers, documents of purchase and sale, mortgages, donations, slaves rental, among others, through 1863 to 1888. We also use official records relating to slavery produced under the provincial government, particularly the reports of the Presidents of the Province from the 1840s and the legislation contained in Ementrio of Provincial Laws (1835-1888) and Municipal Posturesin the period studied. In this context was to highlight the regional peculiarities inherent in the region in focus, its historical formation, their agrarian oligarchy, as well as its relationship with the seaport of Conceio da Barra, then called Barra de So Mateus, for a second time, analyze, specifically slavery in this region in the period studied, highlighting possible contributions that search this documentation can bring the whole historiography of the state of Esprito Santo.",
+    "doi": "10.11606/t.8.2011.tde-04052012-124952",
+    "url": "https://doi.org/10.11606/t.8.2011.tde-04052012-124952",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Urban Development and Societal Issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Maria do Carmo de Oliveira Russo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A escravidão em São Mateus/ES: economia e demografia (1848-1888)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/t.8.2011.tde-04052012-124952"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban Development and Societal Issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XX/XXDMNU5V.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/t.8.2011.tde-04052012-124952"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

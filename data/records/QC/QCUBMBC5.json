@@ -1,0 +1,104 @@
+{
+  "key": "QCUBMBC5",
+  "uri": "https://medjat.irokosociety.org/id/library/QCUBMBC5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QCUBMBC5",
+  "zotero": {
+    "group": "6479329",
+    "key": "QCUBMBC5",
+    "version": 3654,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QCUBMBC5",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "The Boisterous Sea of Liberty: A Documentary History of America from Discovery through the Civil War",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David Brion Davis"
+      },
+      {
+        "role": "series editor",
+        "name": "Steven Mintz"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Acknowledgments Introduction PART 1. FIRST ENCOUNTERS The Meaning of America Utilizing the Native Labor Force New World Fantasies Labor Needs The Black Legend A Critique of the Slave Trade PART 2. EUROPEAN COLONIZATION NORTH OF MEXICO Justifications for English Involvement in the New World A Rationale for New World Colonization England's First Enduring North American Settlement Life in Early Virginia Race in Virginia Indentured Servitude The Shift to Slavery Regional Contrasts The Pilgrims Arrive in Plymouth Reasons for Puritan Immigration The Idea of the Covenant Servitude in New England Mounting Conflict with Native Americans Native Americans as Active Agents Puritan Economics King Philip's Struggles for Power An Indian Slave Woman Confesses to Witchcraft The Sin of Slaveholding English Liberties PART 3. A LAND OF CONTRASTS Mercantilist Ideas New Netherlands: America's First Multicultural Society New Netherlands Becomes New York Indian Affairs The Schenectady Massacre Persecution of the Quakers The Quaker Ideal of Religious Tolerance South Carolina Georgia English Liberties and Deference Queen Anne's Immigration and Ethnic Diversity Indentured Servitude Suspicion of Arbitrary Power The Great Awakening Fear of Slave Revolts America as a Land of Opportunity PART 4. THE SEVEN YEARS' WAR British North America in 1775 A Soldier's Diary Fasting and Repentance The Capture of Quebec The Seven Years' and the Growth of Antislavery Sentiment The Fate of Native Americans PART 5. THE AGE OF REVOLUTION The Proclamation of 1763 The Stamp Act Crisis The Townshend Acts The Boston Massacre The Regulators Samuel Adams The Boston Tea Party American Resistance to Britain The Battles of Lexington and Concord Declaring Independence Slavery and the American Revolution Benedict Arnold's Treason The in the South The Articles of Confederation PART 6. CREATING A NEW NATION Native Americans and the American Revolution The Newburgh Conspiracy Slavery in Postrevolutionary America White Slavery Relations with Britain The Critical Period and Shays' Rebellion Northwest Ordinance Creating Republican Governments The U.S. Constitution Debates within the Constitutional Convention The Three-fifths Compromise Fugitive Slaves and the Constitution A Proslavery Document? Ratification Debates The New Republic The Birth of Political Parties The Haitian Revolution The Citizen Genet Affair The Whiskey Rebellion Washington's Farewell Address The Quasi-War with France and the XYZ Affair Jeffersonian Republicanism The Jeffersonians in Power REPEAL OF THE JUDICIARY ACT OF 1801 Judicial Review: Louisiana, Expansion, and Disunionist Conspiracies: Slavery and Race in Jeffersonian America: The American Eagle, the French Tiger, and the British Shark: The Dambargo of 1807: The Road to War: The War Hawks: Clearing the Land of Indians: Missionary Work and Indian Policy: PART 7. ANTEBELLUM AMERICA SHIFTS IN SENSIBILITY: FAMILY, GENDER ROLES, RELIGION, AND THE RISE OF HUMANITARIANISM The Emergence of the Republican Family: Republican Motherhood: Religious Liberalism and Evangelical Revivalism: Disestablishment: ORIGINS OF THE AMERICAN REFORM TRADITION Dueling: Education: Colonization: Postward Nationalism and Division: 1818 AND 1819: WATERSHED YEARS IN AMERICAN HISTORY The Second Bank of the United States: McCullough v. Maryland: Acquiring Florida: The Monroe Doctrine: The Missouri Crisis: Slavery and Sectionalism: The Underground Railroad: The Rise of the Second Party System: The Election of 1824: POWER AND IDEOLOGY IN JACKSON'S AMERICA Nullification and the Bank War: Political Democratization and the Dorr War: Party Competition and the Rise of the Whigs: Antebellum Reform: The Shift to Immediatism: Abolition and Slavery: Nat Turner's Insurrection: Narrative and Testimony of Sarah M. Grimke: Testimony of Angelina Grimke: A Proslavery New Yorker: From Antislavery to Women's Rights: MANIFEST DESTINY Gone to Texas: Texas Annexation: Mounting Sectional Antagonisms: The Amistad Affair: Political Antislavery: The Free Soil Party: The Mexican War: THE ESCALATING CONFLICT OVER SLAVERY The Compromise of 1850: Mass Immigration: The Know-Nothings and the Disintegration of the Second-Party System: AMERICA AT MIDCENTURY Revival of the Slavery Issue: Bleeding Kansas: Bleeding Sumner: The Dred Scott Decision: The Gathering Storm: Harpers Ferry: The Secession Crisis: PART 8. CIVIL WAR THE SIGNIFICANCE OF NAMES The Emancipation Proclamation: Gettysburg: TOWARD RECONSTRUCTION The Nature and History of the Gilder Lehrman Collection:",
+    "doi": "",
+    "url": "https://openalex.org/W1519911761",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David Brion Davis"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Boisterous Sea of Liberty: A Documentary History of America from Discovery through the Civil War"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2000."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Steven Mintz"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/QC/QCUBMBC5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

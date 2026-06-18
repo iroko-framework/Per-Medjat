@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XJZ5WNJ4>
+  a schema:ScholarlyArticle ;
+  schema:name "Reseña de \"Caribbean Dance from Abakuá to Zouk: How Movement Shapes Identity\" de Susanna Sloat (ed.)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XJZ5WNJ4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XJZ5WNJ4" ;
+  schema:author "Mareia Quintero Rivera" ;
+  schema:datePublished "2005" ;
+  dcterms:subject "Cuban History and Society", "Educational Practices and Policies", "Sports and Physical Education Studies" .

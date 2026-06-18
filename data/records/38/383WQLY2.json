@@ -1,0 +1,107 @@
+{
+  "key": "383WQLY2",
+  "uri": "https://medjat.irokosociety.org/id/library/383WQLY2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=383WQLY2",
+  "zotero": {
+    "group": "6479329",
+    "key": "383WQLY2",
+    "version": 1185,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/383WQLY2",
+    "dateAdded": "2026-05-19T13:28:23Z",
+    "dateModified": "2026-05-19T13:28:23Z"
+  },
+  "display": {
+    "title": "The Light Inside: Abakuá Society Arts and Cuban Cultural History. By David H. Brown. (Washington and London, Smithsonian Books, 2003, xviii+286 p., black/white photographs, colour plates, index, ISBN 1-58834-123-2)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ronald Labelle"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "Ethnologies",
+    "publicationTitle": "Ethnologies",
+    "bookTitle": "",
+    "journalAbbreviation": "Ethnologies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "26",
+    "issue": "2",
+    "pages": "337-337",
+    "abstract": "The Light Inside: Abakuá Society Arts and Cuban Cultural History. By David H. Brown. (Washington and London, Smithsonian Books, 2003, xviii+286 p., black/white photographs, colour plates, index, ISBN 1-58834-123-2). Un article de la revue Ethnologies (Québec - Ethnologie du proche) diffusée par la plateforme Érudit.",
+    "doi": "10.7202/013763ar",
+    "url": "https://doi.org/10.7202/013763ar",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ronald Labelle"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Light Inside: Abakuá Society Arts and Cuban Cultural History. By David H. Brown. (Washington and London, Smithsonian Books, 2003, xviii+286 p., black/white photographs, colour plates, index, ISBN 1-58834-123-2)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ethnologies, 2004."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "337-337 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.7202/013763ar"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/38/383WQLY2.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.7202/013763ar"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

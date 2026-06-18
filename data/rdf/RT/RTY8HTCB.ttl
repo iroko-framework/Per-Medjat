@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RTY8HTCB>
+  a schema:ScholarlyArticle ;
+  schema:name "Vodou Ayisyen" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RTY8HTCB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RTY8HTCB" ;
+  schema:description "Vodou ayisyen an pran nesans nan kontèks esklavaj la. Yon relijyon fanmi Wa nan peyi Dawome, nan Afrik oksidantal, esklav sou lil Dayiti yo te tranfòme l kòm yon zouti pou yo rekonstui tèt yo ak fos liberasyon an. Konsa, vodou a te jwe yon wòl primodyal nan pi gwo revolisyon eskav yo reyisi nan tout listwa ak nan kreyasyon Ayiti kòm peyi endepandan. Nan komansman, antwopoloji a ki chita sou yon pèspektiv evolisyonis te konsidere vodou a tankou pwodui yon kilti primitif, moun ki pa sivilize, menm bagay ak maji ak sosèlri, lide sa a te tonbe dako ak mouvman kolonizatè ewopeyen yo. Konsa, Vodou a ta pral sibi plizyè vag pèsekisyon anba men klèje legliz katolik la. Poutan, pandan dènye deseni yo, antwopoloji a te montre ke senkretis ki nan vodou a, espesyalman jan yo reanplaye lapriyè sen ki konn fèt nan legliz katolik yo, se siy kreyasyon yon kilti nouvo ki genyen tolerans nan nannan l. Nou rive konprann panteyon (gwoup lwa òganize) ak rityel li gras ak yon antwopoloji ki chita sou ansanm teyori langaj ak wol senbolik li. Antwopoloji a montre nou tou, vodou ayisyen an se yon fason yo konsève memwa, epi li se patrimwàn pou tout Ayisyen e ke tout pèp dwe respekte depi diznevyèm syèk la." ;
+  schema:author "Laënnec Hurbon" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Open Encyclopedia of Anthropology" ;
+  schema:sameAs <https://doi.org/10.29164/22vodouayisyen> ;
+  dcterms:identifier "doi:10.29164/22vodouayisyen" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Rangeland Management and Livestock Ecology", "Vietnamese History and Culture Studies" .

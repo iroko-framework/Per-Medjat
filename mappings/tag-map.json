@@ -1,0 +1,19 @@
+{
+  "ignoredPrefixes": [
+    "medjat-search:"
+  ],
+  "recordTypeTags": [
+    "Monograph",
+    "Ethnography",
+    "Field Study",
+    "Comparative Literature",
+    "Primary Source",
+    "Reference",
+    "Dictionary",
+    "Encyclopedia",
+    "Anthology",
+    "Dissertation",
+    "Journal Article",
+    "Book Chapter"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "key": "L4PM5WD4",
+  "uri": "https://medjat.irokosociety.org/id/library/L4PM5WD4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=L4PM5WD4",
+  "zotero": {
+    "group": "6479329",
+    "key": "L4PM5WD4",
+    "version": 4095,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/L4PM5WD4",
+    "dateAdded": "2026-06-17T15:31:08Z",
+    "dateModified": "2026-06-17T15:31:08Z"
+  },
+  "display": {
+    "title": "Allelopathic Activity of Canadian Goldenrod (Solidago canadensis L.) Extracts on Seed Germination and Growth of Lettuce (Lactuca sativa L.) and Garden Pepper Cress (Lepidium sativum L.)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Asta Judžentienė"
+      },
+      {
+        "role": "editor",
+        "name": "Jurga Būdienė"
+      },
+      {
+        "role": "editor",
+        "name": "Linas Labanauskas"
+      },
+      {
+        "role": "editor",
+        "name": "Donata Stancelytė"
+      },
+      {
+        "role": "editor",
+        "name": "Irena Nedveckytė"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Plants",
+    "publicationTitle": "Plants",
+    "bookTitle": "",
+    "journalAbbreviation": "Plants",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "7",
+    "pages": "1421-1421",
+    "abstract": "Native to N. America, Canadian goldenrod (Solidago canadensis L.) was introduced to Europe as an ornamental plant and quickly spread here and in other parts of the world. The rapid spread of the plant is due to several reasons: phenotypic plasticity, broad climatic tolerance, propagation via underground rhizomes and seeds that mature in large numbers, etc. Additionally, the success of Canadian goldenrod’s invasion is determined by its allelochemicals that affect seed germination, root formation and whole growth of nearby plants. Allelopathy of various extracts and essential oils (EOs) of S. canadensis on seed germination and growth of lettuce (Lactuca sativa L.) and garden pepper cress (Lepidium sativum L.) was evaluated and compared with other Solidago species (S. virgaurea, S. × niederederi) collected from the same growing locality in Lithuania. Soil characteristics (conductivity, pH and major elements) of the collecting site were determined. Aqueous flower extracts of all studied Solidago species showed the highest inhibitory effect on model plants. Canadian goldenrod leaf water/diethyl ether extract showed highest inhibitory effect in all relative concentrations (1.0; 0.1; 0.01) suppressing growth of L. sativa (from 0 to 2.3 mm compared with 22.7 mm for control samples) and L. sativum (from 0.5 to 16.8 mm compared with 35.3 mm in control). It was noticed that garden pepper cress was more susceptible to Solidago spp. inhibitory effects than lettuce. S. canadensis root EOs comprised mainly of limonene (35.0%) and β-pinene (26.2%) and inflorescence oils containing α-pinene (21.6%), germacrene D (15.1%), limonene (10.2%) and lupenyl acetate (9.8%) exhibited the highest inhibitory effect on lettuce and garden pepper cress growth. Relative germination and vigor index of model plants was conducted. Chemical composition of extracts and EOs was determined by HPLC/DAD/TOF and GC/MS techniques.",
+    "doi": "10.3390/plants12071421",
+    "url": "https://doi.org/10.3390/plants12071421",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Allelopathy and phytotoxic interactions",
+      "Phytochemistry and Biological Activities",
+      "Plant Parasitism and Resistance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Asta Judžentienė"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Allelopathic Activity of Canadian Goldenrod (Solidago canadensis L.) Extracts on Seed Germination and Growth of Lettuce (Lactuca sativa L.) and Garden Pepper Cress (Lepidium sativum L.)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Plants, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1421-1421 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/plants12071421"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Allelopathy and phytotoxic interactions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Phytochemistry and Biological Activities"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant Parasitism and Resistance"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jurga Būdienė"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Linas Labanauskas"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Donata Stancelytė"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Irena Nedveckytė"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/L4/L4PM5WD4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/plants12071421"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

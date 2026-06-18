@@ -1,0 +1,108 @@
+{
+  "key": "VRU26PMI",
+  "uri": "https://medjat.irokosociety.org/id/library/VRU26PMI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VRU26PMI",
+  "zotero": {
+    "group": "6479329",
+    "key": "VRU26PMI",
+    "version": 3358,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VRU26PMI",
+    "dateAdded": "2026-05-20T16:34:09Z",
+    "dateModified": "2026-05-20T16:34:09Z"
+  },
+  "display": {
+    "title": "Sida en Haiti",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Paul Farmer"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Une bibliothÃ¨que numÃ©rique unique et originale dans le monde francophone en sciences sociales et humaines, dÃ©veloppÃ©e en collaboration avec l'UniversitÃ© du QuÃ©bec Ã Chicoutimi, fondÃ©e et dirigÃ©e par Jean-Marie Tremblay, bÃ©nÃ©vole, professeur de sociologie au dÃ©partement des sciences humaines du CÃ©gep de Chicoutimi.",
+    "doi": "10.1522/030148888",
+    "url": "https://doi.org/10.1522/030148888",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis",
+      "Migration, Identity, and Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Paul Farmer"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sida en Haiti"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1522/030148888"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VR/VRU26PMI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1522/030148888"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

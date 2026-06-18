@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EZURACKR>
+  a schema:Thesis ;
+  schema:name "Lex Aquilia and delict damnum iniuria datum of roman law" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EZURACKR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EZURACKR" ;
+  schema:description "I Lex Aquilia and delict damnum iniuria datum of roman law Abstract The subject of this thesis is the Lex Aquilia and the delict of unlawfully caused damage (damnum iniuria datum) contained in this law. The aim of the thesis is a comprehensive analysis of the Lex Aquilia as one of the most important Roman laws and the introduction of damnum iniuria datum contained in it as a universal delict for cases of damage claims in a wide range of cases of killing animals or slaves, cases of damaged things or complete destruction of property. The first part of the thesis serves as an explanation of key concepts from a general point of view, which are necessary to grasp the subject. The concepts of obligation and delictual liability, Roman categorisation of delicts into delicta privata and crimens, and the role of lawsuits (actio) and standing in Roman law are introduced. Furthermore, the sources of the regulation of delict law, primary sources including the Corpus Iuris Civilis, and also various authors most notably Roman lawyer Ulpian, are presented in a brief manner. The aim of the work is achieved in the second part of the thesis by analysis of interrelated institutes, whether they are specific lawsuits of the Lex Aquilia, or introduction of diverse ways of committing this delict by killing (occidere), damaging the..." ;
+  schema:author "Jan Svatek" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Digital Repository (National Repository of Grey Literature)" ;
+  dcterms:subject "Classical Studies and Legal History", "Comparative and International Law Studies", "Diverse Legal and Medical Studies" .

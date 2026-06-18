@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GGWSYEM5>
+  a schema:ScholarlyArticle ;
+  schema:name "Human Trafficking and Contemporary Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GGWSYEM5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GGWSYEM5" ;
+  schema:description "The article begins with a discussion of definitional issues regarding human trafficking and modern slavery and then briefly critiques some popular claims regarding each problem. Examples of macro-level research are critically evaluated, followed by a review of micro-level studies that illustrate tremendous variation and complexity in structural arrangements and individuals' lived experiences. These studies suggest that in this field micro-level research has at least three advantages over grand, macro-level meta-analyses—advantages that are quantitative (i.e., estimating the magnitude of the problem within a measurable universe), qualitative (i.e., documenting complexities in lived experiences), and well suited to formulating contextually appropriate policy and enforcement responses." ;
+  schema:author "Ronald Weitzer" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Annual Review of Sociology" ;
+  schema:sameAs <https://doi.org/10.1146/annurev-soc-073014-112506> ;
+  dcterms:identifier "doi:10.1146/annurev-soc-073014-112506" ;
+  dcterms:subject "HIV, Drug Use, Sexual Risk", "Migration and Labor Dynamics", "Sex work and related issues" .

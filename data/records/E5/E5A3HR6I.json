@@ -1,0 +1,173 @@
+{
+  "key": "E5A3HR6I",
+  "uri": "https://medjat.irokosociety.org/id/library/E5A3HR6I",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=E5A3HR6I",
+  "zotero": {
+    "group": "6479329",
+    "key": "E5A3HR6I",
+    "version": 816,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/E5A3HR6I",
+    "dateAdded": "2026-05-18T18:57:35Z",
+    "dateModified": "2026-05-18T18:57:35Z"
+  },
+  "display": {
+    "title": "Music as a coevolved system for social bonding",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Patrick E. Savage"
+      },
+      {
+        "role": "editor",
+        "name": "Psyche Loui"
+      },
+      {
+        "role": "editor",
+        "name": "Bronwyn Tarr"
+      },
+      {
+        "role": "editor",
+        "name": "Adena Schachner"
+      },
+      {
+        "role": "editor",
+        "name": "Luke Glowacki"
+      },
+      {
+        "role": "editor",
+        "name": "Steven Mithen"
+      },
+      {
+        "role": "editor",
+        "name": "W. Tecumseh Fitch"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "Behavioral and Brain Sciences",
+    "publicationTitle": "Behavioral and Brain Sciences",
+    "bookTitle": "",
+    "journalAbbreviation": "Behavioral and Brain Sciences",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "44",
+    "issue": "",
+    "pages": "e59-e59",
+    "abstract": "Why do humans make music? Theories of the evolution of musicality have focused mainly on the value of music for specific adaptive contexts such as mate selection, parental care, coalition signaling, and group cohesion. Synthesizing and extending previous proposals, we argue that social bonding is an overarching function that unifies all of these theories, and that musicality enabled social bonding at larger scales than grooming and other bonding mechanisms available in ancestral primate societies. We combine cross-disciplinary evidence from archeology, anthropology, biology, musicology, psychology, and neuroscience into a unified framework that accounts for the biological and cultural evolution of music. We argue that the evolution of musicality involves gene-culture coevolution, through which proto-musical behaviors that initially arose and spread as cultural inventions had feedback effects on biological evolution because of their impact on social bonding. We emphasize the deep links between production, perception, prediction, and social reward arising from repetition, synchronization, and harmonization of rhythms and pitches, and summarize empirical evidence for these links at the levels of brain networks, physiological mechanisms, and behaviors across cultures and across species. Finally, we address potential criticisms and make testable predictions for future research, including neurobiological bases of musicality and relationships between human music, language, animal song, and other domains. The music and social bonding hypothesis provides the most comprehensive theory to date of the biological and cultural evolution of music.",
+    "doi": "10.1017/s0140525x20000333",
+    "url": "https://doi.org/10.1017/s0140525x20000333",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Animal Vocal Communication and Behavior",
+      "Neural dynamics and brain function",
+      "Neuroscience and Music Perception"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Patrick E. Savage"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Music as a coevolved system for social bonding"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Behavioral and Brain Sciences, 2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "e59-e59 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1017/s0140525x20000333"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Animal Vocal Communication and Behavior"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Neural dynamics and brain function"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Neuroscience and Music Perception"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Psyche Loui"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Bronwyn Tarr"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Adena Schachner"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Luke Glowacki"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Steven Mithen"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "W. Tecumseh Fitch"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/E5/E5A3HR6I.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1017/s0140525x20000333"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

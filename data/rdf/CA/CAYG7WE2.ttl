@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CAYG7WE2>
+  a schema:ScholarlyArticle ;
+  schema:name "Presencia de la Sociedad Abakuá en Fernando Poo a finales del siglo XIX. Deportados ñáñigos cubanos en la prensa española" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CAYG7WE2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CAYG7WE2" ;
+  schema:description "En este articulo constatamos en Fernando Poo (hoy Bioko), la presencia de los nanigos (miembros de la sociedad secreta Abakua), a traves de la prensa decimononica. De 1862 a 1897 se enviaron cubanos emancipados y deportados a Fernando Poo con cientos de nanigos entre ellos. Esta sociedad fue objeto de represion durante la colonia y la republica y una de las consecuencias sera su deportacion. La influencia abakua en El Bonko o Nankue, rito-danza de los criollos fernandinos constituye la afirmacion de su identidad, el reflejo de una memoria conservada como forma de resistencia, suponiendo un legado de ida y vuelta de la riqueza cultural africana." ;
+  schema:author "Isabela de Aranzadi Pérez" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Batey. Revista Cubana de Antropología Sociocultural (ISSN 2225-529X)" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Cuban History and Society", "Hispanic-African Historical Relations" .

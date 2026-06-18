@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/F3JU8WXV>
+  a schema:ScholarlyArticle ;
+  schema:name "The Relationship between Early Forms of Literacy in Old Calabar and Inherited Manuscripts of the Cuban Abakuá Society" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F3JU8WXV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F3JU8WXV" ;
+  schema:author "Miller, Ivor" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Afro-Hispanic Review" ;
+  dcterms:subject "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

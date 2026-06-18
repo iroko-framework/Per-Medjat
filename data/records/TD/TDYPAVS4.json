@@ -1,0 +1,93 @@
+{
+  "key": "TDYPAVS4",
+  "uri": "https://medjat.irokosociety.org/id/library/TDYPAVS4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TDYPAVS4",
+  "zotero": {
+    "group": "6479329",
+    "key": "TDYPAVS4",
+    "version": 71,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TDYPAVS4",
+    "dateAdded": "2026-05-05T19:42:33Z",
+    "dateModified": "2026-05-05T19:42:33Z"
+  },
+  "display": {
+    "title": "Oral Tradition in the Cult of the Orishas and its Connection with the History of the Yoruba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Verger, Pierre"
+      }
+    ],
+    "year": "1956",
+    "date": "1956",
+    "publisher": "Historical Society of Nigeria",
+    "publicationTitle": "Journal of the Historical Society of Nigeria",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "issue": "1",
+    "pages": "61-63",
+    "abstract": "",
+    "doi": "",
+    "url": "https://www.jstor.org/stable/41856616",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Verger, Pierre"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Oral Tradition in the Cult of the Orishas and its Connection with the History of the Yoruba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Historical Society of Nigeria, 1956."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "61-63 p."
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TD/TDYPAVS4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

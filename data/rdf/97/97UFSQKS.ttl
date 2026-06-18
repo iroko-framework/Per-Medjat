@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/97UFSQKS>
+  a schema:Book ;
+  schema:name "Animal Sacrifice and Religious Freedom: Church of the Lukumi Babalu Aye v. City of Hialeah" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=97UFSQKS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:97UFSQKS" ;
+  schema:description "The Santeria religion of Cuba—the Way of the Saints—mixes West AfricanYoruba culture with Catholicism. Similar to Haitian voodoo, Santeria has long practiced animal sacrifice in certain rites. But when Cuban immigrants brought those rituals to Florida, local authorities were suddenly confronted with a controversial situation that pitted the regulation of public health and morality against religious freedom. After Ernesto Pichardo established a Santeria church in Hialeah in the 1980s, the city of" ;
+  schema:author "O'Brien, David M." ;
+  schema:datePublished "2004" ;
+  schema:publisher "University Press of Kansas" ;
+  dcterms:identifier "isbn:978-0-7006-1303-8" ;
+  dcterms:subject "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

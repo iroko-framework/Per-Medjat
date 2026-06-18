@@ -1,0 +1,107 @@
+{
+  "key": "4LWZR7ZM",
+  "uri": "https://medjat.irokosociety.org/id/library/4LWZR7ZM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4LWZR7ZM",
+  "zotero": {
+    "group": "6479329",
+    "key": "4LWZR7ZM",
+    "version": 1134,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4LWZR7ZM",
+    "dateAdded": "2026-05-19T13:28:04Z",
+    "dateModified": "2026-05-19T13:28:04Z"
+  },
+  "display": {
+    "title": "La influencia de la música cubana de origen abakuá en la música afroperuana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Laureano Arturo Rigol Sera"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Revista Kaylla",
+    "publicationTitle": "Revista Kaylla",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista Kaylla",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "3",
+    "pages": "172-195",
+    "abstract": "El artículo se centra en la exploración de la presencia de elementos afrocubanos, específicamente de origen abakuá, en la música afroperuana, con un enfoque particular en dos producciones discográficas significativas: \"Ritmos negros del Perú\" (1968) de Nicomedes Santa Cruz y su Conjunto Cumanana, y \"Juan de Mata\" (1978) del Conjunto Perú Negro. Tras un análisis exhaustivo de la producción musical de grupos vinculados al movimiento afroperuano posteriores a 1968, se destaca el interés en la propuesta artística del Conjunto Perú Negro. Si bien en su primer álbum, Gran Premio del Festival Hispanoamericano de la Danza y la Canción (1973), se encuentra una referencia a la temática abakuá en la canción \"Canción para ekué\", es en su segunda producción, Son de los diablos (1974), donde se identifican más claramente elementos sonoros propios de la cultura abakuá en uno de los temas. A través de este estudio, se busca aportar a la comprensión de la influencia y la interacción entre las tradiciones musicales afrocubanas y afroperuanas. El análisis detallado de las composiciones seleccionadas permite revelar conexiones y similitudes, así como diferencias y evoluciones en la expresión musical de estas dos culturas afrodescendientes. El artículo busca profundizar en la comprensión de cómo estas influencias se entrelazan y se manifiestan en la música afroperuana, enriqueciendo así el conocimiento sobre la diversidad y la complejidad de las expresiones culturales afrodescendientes en América Latina.",
+    "doi": "10.18800/kaylla.202401.008",
+    "url": "https://doi.org/10.18800/kaylla.202401.008",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Laureano Arturo Rigol Sera"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La influencia de la música cubana de origen abakuá en la música afroperuana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista Kaylla, 2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "172-195 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18800/kaylla.202401.008"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/4L/4LWZR7ZM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18800/kaylla.202401.008"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YAAXELZC>
+  a schema:ScholarlyArticle ;
+  schema:name "African Element in Cuban Culture" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YAAXELZC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YAAXELZC" ;
+  schema:description "Cuba is one of those countries of the Western Hemisphere whose culture has been, throughout all of their history, and still is at present, under the influence of a potent factor: that of the African origin of a large portion of their population. This factor has been most active in all main domains of the spiritual life of Cuban people: in religion, in the intense functioning of the Abakuá cult and other mystical cults of African origin; in music, in dozens of genres of dance and song among which the Cuban son is most conspicuous, and, particularly, in the creative works of A. García Caturla, A. Roldán and other composers that transplanted African rhythms and melodies into the realm of classical music. And, finally, the African element is vividly reflected in Cuban prose and poetry, in the works of A. Carpentier, N. Guillén and their followers." ;
+  schema:author "A. V. Sadikov" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Cuadernos Iberoamericanos" ;
+  schema:sameAs <https://doi.org/10.46272/2409-3416-2023-11-4-124-143> ;
+  dcterms:identifier "doi:10.46272/2409-3416-2023-11-4-124-143" ;
+  dcterms:subject "Cuban History and Society" .

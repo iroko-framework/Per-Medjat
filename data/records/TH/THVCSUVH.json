@@ -1,0 +1,116 @@
+{
+  "key": "THVCSUVH",
+  "uri": "https://medjat.irokosociety.org/id/library/THVCSUVH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=THVCSUVH",
+  "zotero": {
+    "group": "6479329",
+    "key": "THVCSUVH",
+    "version": 1173,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/THVCSUVH",
+    "dateAdded": "2026-05-19T13:28:18Z",
+    "dateModified": "2026-05-19T13:28:18Z"
+  },
+  "display": {
+    "title": "Subversive Spirits and Ostentatious Materials: An African Diasporic Necropolitics of Agitation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Solimar Otero"
+      },
+      {
+        "role": "editor",
+        "name": "K. Wirtz"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "American Religion",
+    "publicationTitle": "American Religion",
+    "bookTitle": "",
+    "journalAbbreviation": "American Religion",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "1",
+    "pages": "11-32",
+    "abstract": "Abstract: Practitioners of Afro-Cuban spiritual modalities work with spirits of the dead, including “mocking” and “perturbing” spirits whose afflictions force a reckoning with histories of violence—what Toni Morrison calls “rememory.” Rememory recognizes the irrepressible power of the abject being, who struggles against non-being. In the wake of the violent erasures and denials of humanity imposed by colonialism, slavery, and the ongoing climate of anti-blackness, African diaspora dead and living engage in collaborative agitations to disrupt the “absenting” logics of (post)colonial, white supremacist, and heteropatriarchal necropolitics. In juxtaposing cases from anti-lynching protests in the United States to femicide at the origins of the Cuban Abakuá brotherhoods, we describe material practices involving unquiet spirits, bones, and traces that produce necropolitical presences. Attending to the afterlives of subversive spirits who refuse erasure provides models for onto-political action in ritual practices that also inform political projects of mourning as protest. Resumen: Los practicantes de las modalidades espirituales afrocubanas trabajan con los espíritus de los muertos, e incluso con los espíritus “burlones” o “perturbadores” cuyas aflicciones fuerzan un enfrentamiento con las historias de la violencia—lo que Toni Morrison nombra “rememoria.” La rememoria reconoce el poder irreprimible del ser abyecto, el que lucha contra el estado de no-ser. En la estela dejada por las violentas tachaduras y negaciones de la humanidad que se han impuesto el colonialismo, la esclavitud, y el clima de anti-negritud que continúa, los muertos y vivos de la diáspora africana entran en agitaciones colaborativas para interrumpir las lógicas “borradoras” de una necropolítica (pos)colonial, supremacista blanca y heteropatriarcal. A yuxtaponer casos desde las protestas en contra el linchamiento en los Estados Unidos hasta el femicidio originario de las fraternidades abakuás cubanas, describimos las prácticas materiales que involucran los espíritus, huesos y huellas inquietos que producen las presencias necropolíticas. La atención a las vidas futuras de los espíritus subversivos que rechazan la supresión provee modelos para la acción onto-política a través de las prácticas rituales que también sustentan los proyectos políticos del luto como protesta.",
+    "doi": "10.2979/amerreli.5.1.02",
+    "url": "https://doi.org/10.2979/amerreli.5.1.02",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Solimar Otero"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Subversive Spirits and Ostentatious Materials: An African Diasporic Necropolitics of Agitation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "American Religion, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "11-32 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.2979/amerreli.5.1.02"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "K. Wirtz"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TH/THVCSUVH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.2979/amerreli.5.1.02"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

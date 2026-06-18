@@ -1,0 +1,114 @@
+{
+  "key": "PXG7BJ7F",
+  "uri": "https://medjat.irokosociety.org/id/library/PXG7BJ7F",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PXG7BJ7F",
+  "zotero": {
+    "group": "6479329",
+    "key": "PXG7BJ7F",
+    "version": 3351,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PXG7BJ7F",
+    "dateAdded": "2026-05-20T16:34:06Z",
+    "dateModified": "2026-05-20T16:34:06Z"
+  },
+  "display": {
+    "title": "TRACES OF VODOUIN HAITIAN FREEMASONRY",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mehmet Aziz GÖKSEL"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+    "publicationTitle": "Zenodo (CERN European Organization for Nuclear Research)",
+    "bookTitle": "",
+    "journalAbbreviation": "Zenodo (CERN European Organization for Nuclear Research)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The inquiry in this research builds on certain insights to uncover how various institutions of Vodou practices take shape, converge, and become rearticulated in the networks of transnational linkages within and in relation to Freemasonry in Haiti. Some scholarly sources connote the issue with a close assumption examining the symbolic similarities that, European Freemasonry is readily adepted into Vodou. This article, furthermore seeks to reach a coherent whole, in the idea that, there might be a connection between Haitian naitional identity and Freemasonry, through Vodou practices. Even though significant literature, reveals the impacts of both Freemasonry and Vodou on each other in Haiti and the major claim is that Freemasonry and the principal masonic utopias, paved the way to transnationalism in Haiti; the primary objective of the study is, not to examine the theological substructure of syncretistic Haitian religions. Nor it will be the major interest to trace here, the formation of Vodou as a religion on the Hispaňola Island. Nevertheless, in order to depict a realistic historical perspective of cultural emancipation of Haiti, Vodou is steressed in corresponding aspects.",
+    "doi": "10.5281/zenodo.6400456",
+    "url": "https://doi.org/10.5281/zenodo.6400456",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anthropological Studies and Insights",
+      "Caribbean and African Literature and Culture",
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mehmet Aziz GÖKSEL"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "TRACES OF VODOUIN HAITIAN FREEMASONRY"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Zenodo (CERN European Organization for Nuclear Research), 2022."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5281/zenodo.6400456"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PX/PXG7BJ7F.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5281/zenodo.6400456"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LXXKMC9C>
+  a schema:Thesis ;
+  schema:name "Analisis Pola Ritme Tradisional Afro-Kuba Pada Komposisi Solo Gitar Fase “Avant-Garde” Karya Leo Brouwer" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LXXKMC9C> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LXXKMC9C" ;
+  schema:description "Studi ini membahas pola ritme tradisional Afro-Kuba pada karya-karya solo gitar avant-garde milik Leo Brouwer. Penelitian ini dilakukan dengan mencari bentuk-bentuk pola ritme tradisional tersebut pada karya-karya Brouwer yang masuk dalam kategori fase avant-garde. Beberapa referensi yang relevan digunakan untuk mengidentifikasi variabel-variabel terkait. Variabel pertama adalah karya-karya Brouwer yang masuk dalam fase avant-garde: Parabola, Canticum, Tarantos, dan La Espiral Eterna, dan bentuk pola-pola ritme tradisional Afro-Kuba. Penulis mengkomparasikan idiom ritme pada karya Brouwer dengan bentuk pola ritme tradisional Afro-Kuba. Hasil penelitian pada karya-karya tersebut ditemukan pola-pola ritme tradisional di tengah gaya musik eksperimental, seperti pola ritme: tressilo, abakua, kobaye, dan cinquillo, yang hadir dalam bentuk modifikasi." ;
+  schema:author "Muhammad Almer Sidqi" ;
+  schema:datePublished "2017" ;
+  dcterms:subject "Cultural and Artistic Studies" .

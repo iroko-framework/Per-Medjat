@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/44FEZJCW>
+  a schema:Book ;
+  schema:name "Guinea's other suns : the African dynamic in Trinidad culture" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=44FEZJCW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:44FEZJCW" ;
+  schema:author "Warner-Lewis, Maureen" ;
+  schema:datePublished "2015" ;
+  schema:publisher "The University of the West Indies Press" ;
+  dcterms:identifier "isbn:976-640-505-0" ;
+  dcterms:subject "Trinidad and Tobago -- Civilization -- African influences", "Shango Baptist" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-shango-baptist> .

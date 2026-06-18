@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TWXAN2ZZ>
+  a schema:Book ;
+  schema:name "Voice of the Leopard" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TWXAN2ZZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TWXAN2ZZ" ;
+  schema:description "Abstract This book shows how African migrants and their political fraternities played a formative role in the history of Cuba. During the eighteenth and nineteenth centuries, no large kingdoms controlled Nigeria and Cameroon's multilingual Cross River basin. Instead, each settlement had its own lodge of the initiation society called Ékpè, or \"leopard,\" which was the highest indigenous authority. Ékpè lodges ruled local communities while also managing regional and long-distance trade. Cross River Africans, enslaved and forcibly brought to colonial Cuba, reorganized their Ékpè clubs covertly in Havana and Matanzas into a mutual-aid society called Abakuá, which became foundational to Cuba's urban life and music. The book's author's extensive fieldwork in Cuba and West Africa documents ritual languages and practices that survived the Middle Passage and evolved into a unifying charter for transplanted slaves and their successors. To gain deeper understanding of the material, the author underwent Ékpè initiation rites in Nigeria after ten years' collaboration with Abakuá initiates in Cuba and the United States. The book argues that Cuban music, art, and even politics rely on complexities of these African-inspired codes of conduct and leadership. The book is a tracing of an African title-society to its Caribbean incarnation, which has deeply influenced Cuba's creative energy and popular consciousness." ;
+  schema:author "Ivor L. Miller" ;
+  schema:creator "Bassey Echeng Bassey" ;
+  schema:datePublished "2009" ;
+  schema:publisher "University Press of Mississippi eBooks" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.001.0001> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.001.0001" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society" .

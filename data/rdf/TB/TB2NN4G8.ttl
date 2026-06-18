@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TB2NN4G8>
+  a schema:ScholarlyArticle ;
+  schema:name "Critical archival studies: An introduction" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TB2NN4G8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TB2NN4G8" ;
+  schema:description "This introduction defines critical archival studies and summarizes the articles including in the special issue." ;
+  schema:author "Caswell, Michelle", "Punzalan, Ricardo", "Sangwand, T-kay" ;
+  schema:datePublished "2022" ;
+  schema:publisher "University of California" ;
+  schema:sameAs <https://doi.org/10.24242/jclis.v1i2.50> ;
+  dcterms:identifier "doi:10.24242/jclis.v1i2.50" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CZBQ6UH3>
+  a schema:ScholarlyArticle ;
+  schema:name "Ben Okri's spirit-child: 'abiku' migration and postmodernity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CZBQ6UH3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CZBQ6UH3" ;
+  schema:description "The widespread notion of the abiku in Nigerian culture says volumes about the heartrending deaths of countless newborns throughout the region's history. It also testifies to a belief in the permeability of the membrane separating the spirit world from \"our\" world. As the abiku puts it, in his family he is surrounded by people \"who are seeded in rich lands, who still believe in mysteries\" (F am 6), people who hold that \"one world contains glimpses of others\" (F am 1 0), and people who acknowledge a personal relationship with these spirits in the course of daily life. In western Nigeria, however, a mother who suspects that her newborn is one of these child-spirits must do whatever she can to persuade the baby to stay in this difficult world, rather than have it return to the spirit-world where it will be bathed \"in the ecstasy of an everlasting love\" (F am 18). Mothers will give such children names like \"Malomo-Do Not Go Again\"; \"Banjoko-Sit Down And Stay With Us\"; \"Duro oro ike-Wait And See How You Will Be Petted\"; and \"Please Stay And Bury Me\" (Maclean 51, 57). Special jewelry and foods are prepared to tempt the baby to choose life, and circumcision for such young boys is frequently postponed (56)." ;
+  schema:author "John C. Hawley" ;
+  schema:datePublished "1995" ;
+  schema:publisher "Scholar Commons (Santa Clara University)" ;
+  dcterms:subject "African cultural and philosophical studies", "African studies and sociopolitical issues", "Postcolonial and Cultural Literary Studies" .

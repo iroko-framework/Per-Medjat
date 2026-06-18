@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2V75IC8C>
+  a schema:Thesis ;
+  schema:name "Modelling Roman agricultural production in the Middle Tiber Valley, Central Italy" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2V75IC8C> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2V75IC8C" ;
+  schema:description "This thesis analyses the potential agricultural production of the regions of South Etruria and Sabina, north of Rome in the Middle Tiber Valley, Central Italy. Historical evidence from Roman authors is combined with archaeological evidence from field survey and geographical resource data, and modelled within a Geographical Information System. Farm size and location are investigated in order to determine any correlation with contemporary Roman recommendations. Multi-criteria evaluation is then used to create suitability maps, showing those regions within the study area best suited to different types of crops. A number of different models for agricultural production within the study area are presented. Many variables are utilised, each presenting a range of possibilities for the carrying capacity of the area, complementing previous studies of demography. Research into workload, nutrition and crop yields provides a basis for determining the supported population of the area. Urban provisioning is investigated also, showing how high yielding models could have supported a large urban population within the studied region, as well as its potential contribution to the food supply of Rome. This analysis showed which agricultural systems could adequately supply urban centres, and highlighted those models that would have led either to an urban dependency on larger scale trade networks or to decline." ;
+  schema:author "Helen Goodchild" ;
+  schema:datePublished "2007" ;
+  schema:publisher "University of Birmingham Institutional Research Archive (University of Birmingham)" ;
+  dcterms:subject "Ancient Mediterranean Archaeology and History" .

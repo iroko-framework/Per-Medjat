@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JSH5B2GI>
+  a schema:Chapter ;
+  schema:name "Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JSH5B2GI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JSH5B2GI" ;
+  schema:description "Abstract This chapter explores Abakuá’s secret society, which had been fundamental in the formation of Cuban national identity. It explains how Abakuá lodges were necessarily created in secrecy due to being persecuted by colonial authorities before the adaptation of Abakuá to the Cuban context. Moreover, Abakuá exemplifies the concept of los cimarrones urbanos, which refers to urban underground fugitives from the cultural system of the colonizer. Abakuá tradition is an important example of established alternatives to assimilation to Western cultural norms. The chapter explains that Abakuá defended an autonomous and collective identity based upon an ancestral heritage that the dominant class persistently tried to abolish." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2024" ;
+  schema:sameAs <https://doi.org/10.1093/oxfordhb/9780190916961.013.7> ;
+  dcterms:identifier "doi:10.1093/oxfordhb/9780190916961.013.7" ;
+  dcterms:subject "Cuban History and Society" .

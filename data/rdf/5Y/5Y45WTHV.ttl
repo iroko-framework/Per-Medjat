@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5Y45WTHV>
+  a schema:Thesis ;
+  schema:name "In nomine dominae : notarial documents and women's lives in Genoese Chios (1348-1522)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5Y45WTHV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5Y45WTHV" ;
+  schema:description "The present study takes a gendered approach towards the notarial documents produced in the Greek island of Chios while it was under Genoese rule (1346-1566). For the first time these deeds are used to investigate women’s lives, focusing particularly on their contribution to the economy of the island and how their marital status influenced it. The first part of the thesis aims to place this research among the other works on Chios and introduce the sources (Introduction), and to contextualise the presence of the Genoese in Chios (Chapter 1). The second part (Chapters 2 and 3) demonstrates that female involvement in the economy was significant despite the limited evidence in records. Besides analysing the few documents where women took part in transactions, the research shows other ways they could have an impact on the economy. Chapter 3, in particular, considers women’s belongings, dividing them into four categories: immovable properties, liquid assets, objects, and slaves. Two very different aspects of slavery are explored in Chapters 2 and 5: the sale of slaves and their enfranchisement. Particular focus is paid to female slaves, as young adult women were especially prised in Chios. Coming mainly from the regions surrounding the Black Sea, slaves contributed to the multi-cultural society on the island. Through the study, examples of cohabitation and collaboration of different communities (Latin, Greek, Jewish) are numerous, as well as those regarding the coexistence of different legal systems: Genoese law, Roman law, and local customs. Marriage is the subject of the third and final part of the thesis (Chapters 4 and 5), focusing on how it influenced women’s lives. Particular attention is given to the argomoniatico, supposedly a tax that widows who did not remarry had to pay. There is no documentary evidence, but this study argues that if the argomoniatico existed, it was a Genoese sanction and did not have Byzantine origins. It would have been a local custom dictated by Chios’ colonial status, which also played a role in women’s unusual involvement in dowry contracts and in the use of the term domina for women who were not necessarily widows. However, considering notions of rights and restrictions examined though the whole thesis, it emerges that in Chios widows had more agency and freedom compared to women with other marital status." ;
+  schema:author "Chiara Ravera" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Nottingham ePrints (University of Nottingham)" ;
+  dcterms:subject "Byzantine Studies and History" .

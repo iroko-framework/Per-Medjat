@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/DU4JDSAG>
+  a schema:ScholarlyArticle ;
+  schema:name "Rewriting/Reprising in Edwidge Danticat’s The Dew Breaker" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DU4JDSAG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DU4JDSAG" ;
+  schema:description "In her recent novel, The Dew Breaker (2004), Haitian-American writer Edwidge Danticat weaves together the lives of her bruised H aitian characters and their torturer, a former Tonton Macoute , all in exile in the US. Seven of the nine chapters were previously published as separate short stories and have been rearranged to form a novel. The reader is then led to unravel a narrativ e tangle made of many threads. The disparate nature of the book, its non-linear narrat ive, the plurality of stories and voices, the gaps in a fragmented, elliptic text all bear wi tness to an alternative approach to creative writing. Like a seamstress, the novelist p ieces together individual stories, connecting them as the multifarious facets of a gre at whole. In the wake of francophone Haitian writers (namely Jacques Roumain, the author of Masters of the Dew , and Jacques Stephen Alexis who wrote General Sun, My Brother ), Edwidge Danticat fictionalizes the traumatic history of a people con fronted with violence and terror and engages in a complex intertextual game. Combining eand aesthetics, temporal and textual memory, the novelist explores facts and, ra ther than giving answers, raises difficult questions. Her characters, whether victim s or perpetrators, all strive to free themselves from a haunting past: is it ever possibl e to forgive so as to heal the pain? Can one make amends for the harm that has been done to victims who seek redress?" ;
+  schema:author "Corinne Duboin" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Americanae (AECID Library)" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "French Literature and Critical Theory", "French Literature and Poetry" .

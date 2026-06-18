@@ -1,0 +1,112 @@
+{
+  "key": "Z79TVXMT",
+  "uri": "https://medjat.irokosociety.org/id/library/Z79TVXMT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Z79TVXMT",
+  "zotero": {
+    "group": "6479329",
+    "key": "Z79TVXMT",
+    "version": 1278,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Z79TVXMT",
+    "dateAdded": "2026-05-19T13:28:43Z",
+    "dateModified": "2026-05-19T13:28:43Z"
+  },
+  "display": {
+    "title": "Vélez, María Teresa. Drumming for the gods. The life and times of Felipe García Villamil, Santero, Palero and Abakua. Philadelphia: Temple University Press, 2000, 210 p",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ramiro Delgado Salazar"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Boletín de antropología. Universidad de Antioquia",
+    "publicationTitle": "Boletín de antropología. Universidad de Antioquia",
+    "bookTitle": "",
+    "journalAbbreviation": "Boletín de antropología. Universidad de Antioquia",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "16",
+    "issue": "33",
+    "pages": "177-179",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W3206360184",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Mythological Studies",
+      "Latin American history and culture",
+      "Literature, Magical Realism, García Márquez"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ramiro Delgado Salazar"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Vélez, María Teresa. Drumming for the gods. The life and times of Felipe García Villamil, Santero, Palero and Abakua. Philadelphia: Temple University Press, 2000, 210 p"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Boletín de antropología. Universidad de Antioquia, 2002."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "177-179 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Mythological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Magical Realism, García Márquez"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Z7/Z79TVXMT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

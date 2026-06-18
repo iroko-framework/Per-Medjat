@@ -1,0 +1,113 @@
+{
+  "key": "KGHNYLGB",
+  "uri": "https://medjat.irokosociety.org/id/library/KGHNYLGB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KGHNYLGB",
+  "zotero": {
+    "group": "6479329",
+    "key": "KGHNYLGB",
+    "version": 1407,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KGHNYLGB",
+    "dateAdded": "2026-05-19T13:29:06Z",
+    "dateModified": "2026-05-19T13:29:06Z"
+  },
+  "display": {
+    "title": "A Drum’s Trans-Atlantic Journey from Africa to the Americas and Back after the end of Slavery: Annobonese and Fernandino musical cultures.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabela de Aranzadi"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "African Sociological Review / Revue Africaine de Sociologie",
+    "publicationTitle": "African Sociological Review / Revue Africaine de Sociologie",
+    "bookTitle": "",
+    "journalAbbreviation": "African Sociological Review / Revue Africaine de Sociologie",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "14",
+    "issue": "1",
+    "pages": "20-47",
+    "abstract": "Musical instruments are an intrinsic part of culture accompanying people as an essential fac- torin shaping the identity preserved through memory. In equatorial guinea there are some ethnic and social groups: fang, Bubi, ndowe, etc. It is in relation to the Annobonese and the fernandinosmusical culture, that the concept of “Return trip to Africa” becomes meaning- ful. This paperdiscusses this focusing on instruments such as cumbé, kunkí, and dances such as cumbé or bonkó, which constitute an African legacy that has returned and has become a part of equatorial guinea’s musical culture. The paper’s main point is that the identity given by the African elements has remained active until today.",
+    "doi": "10.4314/asr.v14i1.70227",
+    "url": "https://doi.org/10.4314/asr.v14i1.70227",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Hispanic-African Historical Relations"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabela de Aranzadi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Drum’s Trans-Atlantic Journey from Africa to the Americas and Back after the end of Slavery: Annobonese and Fernandino musical cultures."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "African Sociological Review / Revue Africaine de Sociologie, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "20-47 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4314/asr.v14i1.70227"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/KG/KGHNYLGB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4314/asr.v14i1.70227"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

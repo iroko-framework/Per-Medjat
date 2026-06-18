@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RLQWFVLX>
+  a schema:Chapter ;
+  schema:name "The Abakuá Society and the African Diaspora" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RLQWFVLX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RLQWFVLX" ;
+  schema:author "David H. Brown" ;
+  schema:datePublished "2019" ;
+  schema:sameAs <https://doi.org/10.4324/9780429283789-3> ;
+  dcterms:identifier "doi:10.4324/9780429283789-3" ;
+  dcterms:subject "African history and culture studies" .

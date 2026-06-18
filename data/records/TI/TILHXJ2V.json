@@ -1,0 +1,128 @@
+{
+  "key": "TILHXJ2V",
+  "uri": "https://medjat.irokosociety.org/id/library/TILHXJ2V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TILHXJ2V",
+  "zotero": {
+    "group": "6479329",
+    "key": "TILHXJ2V",
+    "version": 3468,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TILHXJ2V",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Mothers’ Milk: Slavery, Wet-Nursing, and Black and White Women in the Antebellum South",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Emily West"
+      },
+      {
+        "role": "editor",
+        "name": "Rose Knight"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "The Journal of Southern History",
+    "publicationTitle": "The Journal of Southern History",
+    "bookTitle": "",
+    "journalAbbreviation": "The Journal of Southern History",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "83",
+    "issue": "1",
+    "pages": "37-68",
+    "abstract": "OF EXPLOITATION, AND under slavery it represented the point at which the exploitation of enslaved women as workers and as reproducers literally intersected.Feeding another woman's child with one's own milk constituted a form of labor, but it was work that could only be undertaken by lactating women who had borne their own children.As a form of exploitation specific to slave mothers, enforced wet-nursing constituted a distinct aspect of enslaved women's commodification.The evocative image of an enslaved wet nurse, carefully holding a white child to her breast in order to provide sustenance through her own milk, therefore holds much resonance for historians interested in gender, slavery, and relationships between black and white women in the antebellum South.Wet-nursing bound women together across the racial divide, and white women also sometimes wet-nursed enslaved infants.Yet ultimately, white women used wet-nursing as a tool to manipulate enslaved women's motherhood for slaveholders' own ends.This article evaluates patterns of wet-nursing in the antebellum South by locating the practice along a spectrum of gendered exploitation where enforced wet-nursing sits at one end, women's paid employment of \"professional\" wet nurses exists somewhere in the middle, and informal networks of support where women shared their breast milk lie at the other.Women in the antebellum South practiced forms of wet-nursing across this spectrum.Inextricably linked with ideologies of race, ethnicity, and class, historical patterns of exploitative wet-nursing have shaped contemporary distaste for the practice within the medical profession and elsewhere, even though informal networks of shared breast-feeding (for which little evidence survives) have probably been more common than has hitherto been recognized.",
+    "doi": "10.1353/soh.2017.0001",
+    "url": "https://doi.org/10.1353/soh.2017.0001",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Studies on Reproduction, Gender, Health, and Societal Changes",
+      "Moravian Church and William Blake",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Emily West"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mothers’ Milk: Slavery, Wet-Nursing, and Black and White Women in the Antebellum South"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The Journal of Southern History, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "37-68 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/soh.2017.0001"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies on Reproduction, Gender, Health, and Societal Changes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Moravian Church and William Blake"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Rose Knight"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TI/TILHXJ2V.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/soh.2017.0001"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

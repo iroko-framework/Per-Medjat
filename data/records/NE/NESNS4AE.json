@@ -1,0 +1,101 @@
+{
+  "key": "NESNS4AE",
+  "uri": "https://medjat.irokosociety.org/id/library/NESNS4AE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NESNS4AE",
+  "zotero": {
+    "group": "6479329",
+    "key": "NESNS4AE",
+    "version": 867,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NESNS4AE",
+    "dateAdded": "2026-05-18T18:57:37Z",
+    "dateModified": "2026-05-18T18:57:37Z"
+  },
+  "display": {
+    "title": "APETUNPE ORO-ORUKO AJEMOSOYE ALAINIGBEDEKE LEDE YORUBA",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "O ̣Ajíbóyè"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W3088847537",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cancer and Skin Lesions",
+      "Power Systems and Technologies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "O ̣Ajíbóyè"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "APETUNPE ORO-ORUKO AJEMOSOYE ALAINIGBEDEKE LEDE YORUBA"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cancer and Skin Lesions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Power Systems and Technologies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NE/NESNS4AE.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

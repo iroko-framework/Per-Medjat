@@ -1,0 +1,107 @@
+{
+  "key": "PCS8CJU5",
+  "uri": "https://medjat.irokosociety.org/id/library/PCS8CJU5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PCS8CJU5",
+  "zotero": {
+    "group": "6479329",
+    "key": "PCS8CJU5",
+    "version": 1965,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PCS8CJU5",
+    "dateAdded": "2026-05-19T14:18:50Z",
+    "dateModified": "2026-05-19T14:18:50Z"
+  },
+  "display": {
+    "title": "The East India Company, Transnational Interactions, and the Formation of Forced Labour Regimes, 1635-1730",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Malcolm J. Bennett"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Kent Academic Repository (University of Kent)",
+    "publicationTitle": "Kent Academic Repository (University of Kent)",
+    "bookTitle": "",
+    "journalAbbreviation": "Kent Academic Repository (University of Kent)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This research project explores how the English East India Company's relationship with the institution of slavery developed over the course of the seventeenth century. Slaves and other unfree labourers, such as Asian coolies, worked in agricultural, urban, and domestic occupations in all of the trading outposts, fortified settlements and Asian port cities where the Company maintained a commercial presence. However, it was at the strategically significant South Atlantic colony of St Helena and the isolated pepper entrepot of Bencoolen in West Sumatra that slavery became a particularly significant institution during the late seventeenth century. By 1730, slaves from Madagascar, India and Southeast Asia were an important component of the colonial population and provided the cheap labour necessary to sustain English commerce at these remote settlements. The slave systems at colonies owned by the East India Company emerged out of transnational networks which linked slave societies in the Caribbean with those in the South Atlantic and Asia. Patterns of migration and intercolonial commerce facilitated the exchange of ideas about how to manage various population groups, including slaves, at English plantations within the Indian Ocean basin and beyond. Transfers of expertise from planters and overseers on Barbados, along with the examples of the slaveholding practices used by Dutch, Portuguese, and Muslim powers, were central to the formation of English colonial labour regimes in the Indian Ocean. The transoceanic circulation of knowledge which informed the formation of forced labour regimes at St Helena and Bencoolen provides strong evidence for the integrated and 'entangled' nature of English expansion during the seventeenth century. It also places under further scrutiny the historiographical tradition which separates the Atlantic world from the Indian Ocean, raising important questions over whether the unequivocal division of the two oceans in the historical profession limits the study of European colonialism.",
+    "doi": "",
+    "url": "https://kar.kent.ac.uk/59725/1/54The%20East%20India%20Company%2C%20Transnational%20Interactions%2C%20and%20the%20Formation%20of%20Force.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Asian Studies and History",
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Malcolm J. Bennett"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The East India Company, Transnational Interactions, and the Formation of Forced Labour Regimes, 1635-1730"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Kent Academic Repository (University of Kent), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian Studies and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PC/PCS8CJU5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

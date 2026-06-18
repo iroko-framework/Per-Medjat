@@ -1,0 +1,131 @@
+{
+  "key": "6HQ2MI7F",
+  "uri": "https://medjat.irokosociety.org/id/library/6HQ2MI7F",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6HQ2MI7F",
+  "zotero": {
+    "group": "6479329",
+    "key": "6HQ2MI7F",
+    "version": 1467,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6HQ2MI7F",
+    "dateAdded": "2026-05-05T00:49:35Z",
+    "dateModified": "2026-05-18T23:48:39Z"
+  },
+  "display": {
+    "title": "Black Atlantic Religion: Tradition, Transnationalism, and Matriarchy in the Afro-Brazilian Candomblé",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Matory, J. Lorand"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Princeton University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Princeton",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-691-05927-3",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "Candomble"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Community",
+    "custody": "metadata-only",
+    "subjects": [
+      "Afro-Brazilian",
+      "religion",
+      "sovereignty-without-state-paper",
+      "transnationalism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Matory, J. Lorand"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Black Atlantic Religion: Tradition, Transnationalism, and Matriarchy in the Afro-Brazilian Candomblé"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Princeton: Princeton University Press, 2005."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-691-05927-3"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Brazilian"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "sovereignty-without-state-paper"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "transnationalism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Candomble"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6H/6HQ2MI7F.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Candomble",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/S35UFWLP>
+  a schema:ScholarlyArticle ;
+  schema:name "Ramas, familles, réseaux. Les supports sociaux de la diffusion de la santería cubaine (Cuba-Mexique)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=S35UFWLP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:S35UFWLP" ;
+  schema:description "Ramas, familles, réseaux. Les supports sociaux de la diffusion de la santería cubaine (Cuba-Mexique). La santería cubaine participe d’un processus de transnationalisation qui concerne l’ensemble des religions dites afro-américaines, présentes aujourd’hui en Afrique de l’Ouest, en Europe et sur tout le continent américain. Pour parvenir à cerner cet objet dans son ampleur, l’approche en termes de réseau semble a priori la plus opératoire. L’enquête ethnographique, quand elle concentre son attention sur les liens des acteurs, révèle un maillage complexe d’individus et de groupes reliés entre eux par un ou plusieurs intermédiaires. Mais peut-on se contenter de manière aussi abstraite du terme « réseau transnational » ? Derrière ce terme générique se dessinent en effet plusieurs réalités contingentes. À partir du cas havanais, puis de celui de la diffusion de la santería au Mexique, on tentera de préciser et de mettre à l’épreuve la pertinence de cette notion." ;
+  schema:author "Kali Argyriadis" ;
+  schema:datePublished "2005" ;
+  schema:publisher "Journal de la Société des Américanistes" ;
+  schema:sameAs <https://doi.org/10.4000/jsa.3022> ;
+  dcterms:identifier "doi:10.4000/jsa.3022" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Diaspora, migration, transnational identity", "Multiculturalism, Politics, Migration, Gender" .

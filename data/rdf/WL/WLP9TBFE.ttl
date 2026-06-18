@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WLP9TBFE>
+  a schema:Book ;
+  schema:name "The Allure of the Archives" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WLP9TBFE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WLP9TBFE" ;
+  schema:description "Arlette Farge’s Le Goût de l’archive is widely regarded as a historiographical classic. While combing through two-hundred-year-old judicial records from the Archives of the Bastille, historian Farge was struck by the extraordinarily intimate portrayal they provided of the lives of the poor in pre-Revolutionary France, especially women. She was seduced by the sensuality of old manuscripts and by the revelatory power of voices otherwise lost. In The Allure of the Archives, she conveys the exhilara" ;
+  schema:author "Farge, Arlette" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Yale University Press" ;
+  dcterms:identifier "isbn:978-0-300-17673-5" ;
+  dcterms:subject "Archival Studies" .

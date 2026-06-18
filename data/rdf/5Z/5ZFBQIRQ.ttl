@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5ZFBQIRQ>
+  a schema:Book ;
+  schema:name "Slave emancipation in cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5ZFBQIRQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5ZFBQIRQ" ;
+  schema:description "\"Slave Emancipation in Cuba is the classic study of the end of slavery in Cuba. Rebecca J. Scott explores the dynamics of Cuban emancipation, arguing that slavery was not simply abolished by the metropolitan power of Spain or abandoned because of economic contradictions. Rather, slave emancipation was a prolonged, gradual and conflictive process unfolding through a series of social, legal, and economic transformations.\" \"Scott demonstrates that slaves themselves helped to accelerate the elimination of slavery. Through flight, participation in nationalist insurgency, legal action, and self-purchase, slaves were able to force the issue, helping to dismantle slavery piece by piece. With emancipation, former slaves faced transformed, but still very limited, economic options. By the end of the nineteenth-century, some chose to join a new and ultimately successful rebellion against Spanish power.\" \"In a new afterword, prepared for this edition, the author reflects on the complexities of postemancipation society, and on recent developments in historical methodology that make it possible to address these questions in new ways.\"–BOOK JACKET." ;
+  schema:author "Scott, Rebecca J" ;
+  schema:datePublished "2000" ;
+  schema:publisher "University of Pittsburgh Press" ;
+  dcterms:subject "Enslaved persons -- Emancipation -- Cuba", "Plantation life -- Cuba -- History -- 19th century", "Sugar trade -- Cuba -- History -- 19th century" .

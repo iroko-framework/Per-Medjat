@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JADL24DT>
+  a schema:ScholarlyArticle ;
+  schema:name "Slavery in the 21st Century" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JADL24DT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JADL24DT" ;
+  schema:description "This paper briefly examines the modern practice of slavery. It attempts to demonstrate that slavery is a larger problem than most understand, does exist in the United States, and will outline some effective means to combat it." ;
+  schema:author "Paul R Rickert" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Scholars Crossing (Liberty University)" ;
+  dcterms:subject "Culture, Economy, and Development Studies" .

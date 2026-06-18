@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VHQP9VWM>
+  a schema:Thesis ;
+  schema:name "ENGENDERED EXPERIENCES OF FREEDOM: LIBERATED AFRICAN WOMEN IN RIO DE JANEIRO, 1834-1864" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VHQP9VWM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VHQP9VWM" ;
+  schema:description "“Engendered Experiences of Freedom: Liberated African Women in Rio de Janeiro (1834-1864)” investigates how gender differences in daily lives of liberated African women in Brazil shaped the way they experienced freedom. This research argues that gendered-based differences influenced their experiences of freedom in its various contexts, including their relationship to labor, their struggles for emancipation, and their approach to legal system. Moreover, this thesis follows the lives of particular liberated African women through their process of petitioning for emancipation twenty years after they got to Brazil. Although the first half of the nineteenth century was marked by legal efforts to bar importation of slaves from Africa to Brazil, many slave ships entered Brazilian ports successfully. The Rio da Prata, however, was an exception. In November 1834, the British marine intercepted the vessel, that was halfway between Africa and South America. The Anglo-Brazilian Mixed Commission judged the case as a transgression of the Treaty of 1826, that forbade Brazil to participate in the slave trade, condemned the vessel to be a good-prize and liberated more than two hundred Africans. These Africans worked for private houses and public works in a probation system for at least 20 years when the decree 1303 of 1853 allowed them to access the legal system and request their final emancipation. This process lasted for ten years, when in 1864 the Brazilian government declared emancipated all liberated Africans This thesis intervenes in debates about bondage and resistance by considering liberated Africans women inside the context of slavery in Brazil. It argues that these women had a particular way of fighting for freedom, due, first, to their own capacity of resistance, second to their conditions of labor, and, third, to specificities of the Brazilian set of laws. From legal petitions of emancipation, police records, guardians’ declarations, and newspapers advertisements the chapters follow lives of liberated African women from the Rio da Prata to show how they experienced freedom." ;
+  schema:author "Nadalini Mendes" ;
+  schema:datePublished "2020" ;
+  schema:sameAs <https://doi.org/10.13016/vsmi-jwco> ;
+  dcterms:identifier "doi:10.13016/vsmi-jwco" ;
+  dcterms:subject "Race, History, and American Society" .

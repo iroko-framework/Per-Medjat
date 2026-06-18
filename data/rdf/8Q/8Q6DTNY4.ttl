@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8Q6DTNY4>
+  a schema:Thesis ;
+  schema:name "Syncretic beliefs and practices amongst Muslims in Lagos state Nigeria : with special reference to the Yoruba speaking people of Epe" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8Q6DTNY4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8Q6DTNY4" ;
+  schema:description "Different disciplines have explored the history of Islām in Yoruba land which started in the early 18th century. However, the impact of religious syncretism has not been systematically studied. Therefore, this thesis examines the extent of the involvement of Yoruba Muslims in syncretic beliefs and practices in Nigeria using the Lagos State as a case study, with a view to bringing out the impact of Tawḥīd on them. In agreement with previous research, this study notes that there is a prevalence of religious syncretism among many Yoruba Muslims, but it principally argues that its impact affects many of them negatively. If continuous awareness campaign could be carried out, the phenomenon will be reduced. A triangulated method was used to carry out this study. The findings of this thesis indicated reappraisal of the problem associated with many Yoruba Muslims’ persistence in syncretism and its implications on their faith (īman). While this study appreciates the attempts of some scholars to eradicate this endemic problem, it reveals that Tawḥīd is not yet inculcated into many Yoruba Muslims within the Yoruba religio-cultural context. Therefore, a concerted effort is necessary among all stakeholders in the task of promoting the effective instillation of practical Tawḥīd." ;
+  schema:author "Muhsin Adekunle Balogun" ;
+  schema:datePublished "2011" ;
+  schema:publisher "University of Birmingham Institutional Research Archive (University of Birmingham)" ;
+  dcterms:subject "Education and Islamic Studies", "Historical and Linguistic Studies", "Religion and Sociopolitical Dynamics in Nigeria" .

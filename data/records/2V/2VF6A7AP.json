@@ -1,0 +1,107 @@
+{
+  "key": "2VF6A7AP",
+  "uri": "https://medjat.irokosociety.org/id/library/2VF6A7AP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2VF6A7AP",
+  "zotero": {
+    "group": "6479329",
+    "key": "2VF6A7AP",
+    "version": 2307,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2VF6A7AP",
+    "dateAdded": "2026-05-19T14:20:00Z",
+    "dateModified": "2026-05-19T14:20:00Z"
+  },
+  "display": {
+    "title": "Maladies of Manumission: Illness and Disability in Slave Manumissions in Late Colonial New Granada",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Brandi Waters"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "publicationTitle": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This study examines how enslaved people’s experiences with illness and disability shaped their pursuit of legal freedom. Early studies of manumission in the Americas asserted that ill and disabled slaves were primary candidates for manumission because of their reduced productivity, limited resale value in the market for slaves, and the costs of maintaining them for the rest of their lives. However, sick, elderly, and disabled enslaved people comprised only a small minority of those formally manumitted. How did illness and disability influence enslaved people’s legal strategies when they pursued freedom on the basis of their infirmities? How did medical practitioners impact the legal manumission process? What do the unique obstacles and options that ill and disabled slaves encountered at the nexus of colonial medical and legal authority reveal about the nature of freedom? Employing methods of historical analysis with an interpretive focus on the perspectives of the enslaved, this study examines four petitions for manumission in late colonial New Granada (1788-1803) –from the departments of Bolívar and Antioquia in contemporary Colombia. Contrary to earlier hypotheses, these cases reveal that ill and disabled slaves were not easily manumitted. The process was highly contested and it transformed the roles of medical practitioners as they mediated enslaved people’s access to the law. As a result, enslaved people innovated strategies for navigating medical and legal authority in ways that altered prevailing conceptions of illness in black bodies in a cultural environment that was hostile to their care. Ultimately, their stories demonstrate that illness and disability shaped enslaved people’s politics and the relationship between maladies and manumissions impacted how colonial institutions related to them.",
+    "doi": "",
+    "url": "https://openalex.org/W3137072889",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Historical and Cultural Archaeology Studies",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Brandi Waters"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Maladies of Manumission: Illness and Disability in Slave Manumissions in Late Colonial New Granada"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Access to Scholarship at Harvard (DASH) (Harvard University), 2018."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Cultural Archaeology Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2V/2VF6A7AP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

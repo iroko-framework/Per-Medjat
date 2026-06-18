@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/E8J8V4ZH>
+  a schema:Book ;
+  schema:name "Tambores para invocar a los dioses La vida y tiempos de Felipe García Villamil santero, palero y abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=E8J8V4ZH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:E8J8V4ZH" ;
+  schema:author "María Teresa Vélez" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Editorial Universidad del Rosario eBooks" ;
+  schema:sameAs <https://doi.org/10.2307/j.ctvm203qp> ;
+  dcterms:identifier "doi:10.2307/j.ctvm203qp" ;
+  dcterms:subject "Latin American history and culture" .

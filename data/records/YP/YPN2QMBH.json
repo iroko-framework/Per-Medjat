@@ -1,0 +1,101 @@
+{
+  "key": "YPN2QMBH",
+  "uri": "https://medjat.irokosociety.org/id/library/YPN2QMBH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YPN2QMBH",
+  "zotero": {
+    "group": "6479329",
+    "key": "YPN2QMBH",
+    "version": 678,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YPN2QMBH",
+    "dateAdded": "2026-05-18T18:57:24Z",
+    "dateModified": "2026-05-18T18:57:24Z"
+  },
+  "display": {
+    "title": "Mellan fromhet och vidskepelse: Materialitet och religiositet i det efterreformatoriska Sverige",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Terese Zachrisson"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+    "publicationTitle": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "I avhandlingen undersöks olika förhållningssätt gentemot det materiella i fromhetslivet under 1600- och 1700-talen. Avhandlingens första del behandlar kyrkorummet och dess föremål, som sidoaltare, bilder och reliker. Den andra delen utforskar sakralt laddade punkter i landskapet, som heliga källor och fristående kors, och hur den lokala topografin kunde upplevas och förstås utifrån föreställningar om helgonens närvaro. \\nTidigare forskning har betonat hur de lutherska reformatorerna aldrig avvisade de materiella fromhetsuttrycken, utan att de omtolkades och anpassades till evangeliskt kyrkoliv, och att äldre föreställningar om hur sakrala föremål ägde en inneboende gudomlig kraft förhållandevis tidigt trängdes undan. Denna studie visar dock att frågan om materialitet var betydligt mer laddad än vad tidigare forskning gjort gällande. Under hela undersökningsperioden uttryckte personer inom kyrkoledningen avståndstagande, oro och avsky gentemot företeelser som helgonbilder och heliga källor. Att appropriera de heliga föremålen var en utdragen och komplicerad process. Bland de bredare folklagren föreställdes ofta dessa föremål kunna utstråla och förmedla en läkande och beskyddande kraft, och de brukades i ritualer som inte sällan motarbetades av kyrkoledningen. Det lokala prästerskapet tycks under 1600-talet haft en tolerant inställning till fromhetsbruk som tangerade gränserna för det renläriga, medan avstånden mellan kyrkoherden och allmogen ökade under 1700-talet.",
+    "doi": "",
+    "url": "http://hdl.handle.net/2077/52612",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Legal Studies and Society",
+      "Reformation and Early Modern Christianity"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Terese Zachrisson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mellan fromhet och vidskepelse: Materialitet och religiositet i det efterreformatoriska Sverige"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Gothenburg University Publications Electronic Archive (Gothenburg University), 2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Legal Studies and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Reformation and Early Modern Christianity"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/YP/YPN2QMBH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

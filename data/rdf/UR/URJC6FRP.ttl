@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/URJC6FRP>
+  a schema:ScholarlyArticle ;
+  schema:name "Desperately Ducking Slavery: Dred Scott and Contemporary Constitutional Theory" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=URJC6FRP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:URJC6FRP" ;
+  schema:description "Contemporary constitutional theory rests on three premises.Brown v. Board of Education was correct, Lochner v. New York was wrong, and Dred Scott v. Sandford was also wrong.A few intrepid souls question whether Brown was correctly decided (although they would not have the Supreme Court overrule that decision}.! Some proponents of law and economics favor reviving the freedom of contract and the Lochner decision.zNo one, however, wishes to rethink the universal condemnation of Dred Scott.3 \"American legal and constitutional scholars,\" The Oxford Companion to the Supreme Court states" ;
+  schema:author "Mark A. Graber" ;
+  schema:datePublished "1997" ;
+  schema:publisher "Constitutional commentary" ;
+  schema:sameAs <https://doi.org/10.24926/26390742.1887> ;
+  dcterms:identifier "doi:10.24926/26390742.1887" ;
+  dcterms:subject "American Constitutional Law and Politics", "Legal Systems and Judicial Processes", "Legal and Constitutional Studies" .

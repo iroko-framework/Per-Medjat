@@ -1,0 +1,107 @@
+{
+  "key": "LQZ2FQFQ",
+  "uri": "https://medjat.irokosociety.org/id/library/LQZ2FQFQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LQZ2FQFQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "LQZ2FQFQ",
+    "version": 3342,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LQZ2FQFQ",
+    "dateAdded": "2026-05-20T16:34:01Z",
+    "dateModified": "2026-05-20T16:34:01Z"
+  },
+  "display": {
+    "title": "Le Pouvoir des objets. Culture matérielle et religion en Afrique et en Haïti",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Erwan Dianteill"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "Archives de sciences sociales des religions",
+    "publicationTitle": "Archives de sciences sociales des religions",
+    "bookTitle": "",
+    "journalAbbreviation": "Archives de sciences sociales des religions",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "110",
+    "issue": "",
+    "pages": "29-40",
+    "abstract": "Quel est le statut de la culture matrielle dans les religions africaines et afroamricaines ? Doit-on tenir les objets rituels pour un produit des croyances et des structures sociales particulires ? Faut-il plutt les considrer comme des objets d'art ayant une valeur esthtique universelle ? 2 La publication rcente d'un ouvrage sur les arts premiers comportant une partie sur l'art africain, la cration d'un muse du mme nom, et le dbat intense autour de celui-ci que manifeste la dernire livraison des Cahiers d'tudes africaines nous invite nous pencher sur ces questions. une conception de l'art africain privilgiant les styles, c'est-dire les proprits formelles des objets, s'oppose une approche anthropologique qui vise replacer l'objet dans son contexte culturel, social et religieux. Dans l'un des articles des CEA ( Les masques Dogon : de l'objet au muse de l'Homme l'homme objet de muse , pp. 617-634), Anne Doquet montre ainsi que c'est la seconde conception qui a prvalu lors de la constitution des collections africaines du muse du Trocadro, indpendamment de toute valuation esthtique des objets. C'est la premire, en",
+    "doi": "10.4000/assr.20201",
+    "url": "https://doi.org/10.4000/assr.20201",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Studies and Ethnography"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Erwan Dianteill"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Le Pouvoir des objets. Culture matérielle et religion en Afrique et en Haïti"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Archives de sciences sociales des religions, 2000."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "29-40 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/assr.20201"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Studies and Ethnography"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LQ/LQZ2FQFQ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/assr.20201"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

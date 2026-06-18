@@ -1,0 +1,107 @@
+{
+  "key": "6UGMIQJW",
+  "uri": "https://medjat.irokosociety.org/id/library/6UGMIQJW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6UGMIQJW",
+  "zotero": {
+    "group": "6479329",
+    "key": "6UGMIQJW",
+    "version": 660,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6UGMIQJW",
+    "dateAdded": "2026-05-18T18:57:20Z",
+    "dateModified": "2026-05-18T18:57:20Z"
+  },
+  "display": {
+    "title": "Petrography and Petrochemical Characteristics of Rare Metal Pegmatites around Oro, Southwestern Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Abiola O. Oyebamiji"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Asia Pacific Journal of Energy and Environment",
+    "publicationTitle": "Asia Pacific Journal of Energy and Environment",
+    "bookTitle": "",
+    "journalAbbreviation": "Asia Pacific Journal of Energy and Environment",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "issue": "1",
+    "pages": "71-88",
+    "abstract": "",
+    "doi": "10.18034/apjee.v1i1.483",
+    "url": "https://doi.org/10.18034/apjee.v1i1.483",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Geochemistry and Geologic Mapping"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Abiola O. Oyebamiji"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Petrography and Petrochemical Characteristics of Rare Metal Pegmatites around Oro, Southwestern Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Asia Pacific Journal of Energy and Environment, 2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "71-88 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18034/apjee.v1i1.483"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geochemistry and Geologic Mapping"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6U/6UGMIQJW.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18034/apjee.v1i1.483"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

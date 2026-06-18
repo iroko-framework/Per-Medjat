@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NA9U2V7S>
+  a schema:ScholarlyArticle ;
+  schema:name "Des Noirs sorciers aux babalaos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NA9U2V7S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NA9U2V7S" ;
+  schema:description "Les Havanais pratiquent, de façon complémentaire, diverses modalités de cultes telles que le spiritisme, le catholicisme « pragmatique », le palo et la santería. Ces deux dernières modalités, désignées par le terme « afro-cubain », ne sont pas appréhendées de la même façon par les universitaires. Le palo, paradigme d'une Afrique honteuse, sauvage, est souvent rejeté dans le champ de la sorcellerie, alors que la santería est présentée comme l'héritière directe d'une Afrique savante, prestigieuse et « traditionnelle ». Cette opposition n'a cours dans la pratique que comme support de stratégies d'affirmations individuelles, le palo étant dans les faits abondamment utilisé et indissociable de la santería, comme du spiritisme et du catholicisme. On s'interrogera toutefois sur les enjeux politiques et sociaux de l'utilisation passée et présente de cette dichotomie à Cuba, des élites intellectuelles du début du siècle au gouvernement castriste actuel." ;
+  schema:author "Kali Argyriadis" ;
+  schema:datePublished "2000" ;
+  schema:publisher "Cahiers d études africaines" ;
+  schema:sameAs <https://doi.org/10.4000/etudesafricaines.43> ;
+  dcterms:identifier "doi:10.4000/etudesafricaines.43" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Cuban History and Society" .

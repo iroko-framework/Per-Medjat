@@ -1,0 +1,107 @@
+{
+  "key": "DFVZIL49",
+  "uri": "https://medjat.irokosociety.org/id/library/DFVZIL49",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DFVZIL49",
+  "zotero": {
+    "group": "6479329",
+    "key": "DFVZIL49",
+    "version": 2175,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DFVZIL49",
+    "dateAdded": "2026-05-19T14:19:40Z",
+    "dateModified": "2026-05-19T14:19:40Z"
+  },
+  "display": {
+    "title": "Making and managing femaleness, fertility and motherhood within an urban Gambian area",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Heidi Skramstad"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "Bergen Open Research Archive (BORA) (University of Bergen)",
+    "publicationTitle": "Bergen Open Research Archive (BORA) (University of Bergen)",
+    "bookTitle": "",
+    "journalAbbreviation": "Bergen Open Research Archive (BORA) (University of Bergen)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "for taking care of my eldest son during fieldwork.I am also grateful to the vegetable growers, fruit sellers, members of the Kanyaleng Kafo and my neighbours in Bakau",
+    "doi": "",
+    "url": "http://hdl.handle.net/1956/2737",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Demographic Trends and Gender Preferences",
+      "Female Genital Mutilation/Cutting Issues",
+      "Global Maternal and Child Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Heidi Skramstad"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Making and managing femaleness, fertility and motherhood within an urban Gambian area"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Bergen Open Research Archive (BORA) (University of Bergen), 2008."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Demographic Trends and Gender Preferences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Female Genital Mutilation/Cutting Issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maternal and Child Health"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/DF/DFVZIL49.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

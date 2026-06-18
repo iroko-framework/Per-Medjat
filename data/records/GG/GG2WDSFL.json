@@ -1,0 +1,114 @@
+{
+  "key": "GG2WDSFL",
+  "uri": "https://medjat.irokosociety.org/id/library/GG2WDSFL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GG2WDSFL",
+  "zotero": {
+    "group": "6479329",
+    "key": "GG2WDSFL",
+    "version": 3471,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GG2WDSFL",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "The legacies of slavery in and out of Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Graziella Bertocchi"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "IZA Journal of Migration",
+    "publicationTitle": "IZA Journal of Migration",
+    "bookTitle": "",
+    "journalAbbreviation": "IZA Journal of Migration",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "1",
+    "pages": "",
+    "abstract": "Abstract The slave trades out of Africa represent one of the most significant forced migration experiences in history. In this paper, I illustrate their long-term consequences on contemporaneous socio-economic outcomes, drawing from my own previous work on the topic and from an extensive review of the available literature. I first consider the influence of the slave trade on the “sending” countries in Africa, with attention to their economic, institutional, demographic, and social implications. Next, I evaluate the consequences of the slave trade on the “receiving” countries in the Americas. Here, I distinguish between the case of Latin America and that of the USA. Overall, I show that the slave trades exert a lasting impact along several contemporaneous socio-economic dimensions and across diverse areas of the world. JEL Classification: J47, J15, O15, N30, P48, Z10",
+    "doi": "10.1186/s40176-016-0072-0",
+    "url": "https://doi.org/10.1186/s40176-016-0072-0",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Culture, Economy, and Development Studies",
+      "Migration and Labor Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Graziella Bertocchi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The legacies of slavery in and out of Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "IZA Journal of Migration, 2016."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1186/s40176-016-0072-0"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Culture, Economy, and Development Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration and Labor Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/GG/GG2WDSFL.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1186/s40176-016-0072-0"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

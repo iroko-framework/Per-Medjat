@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9NMG55E5>
+  a schema:ScholarlyArticle ;
+  schema:name "Historiography and Research Problems of Slavery and the Slave Trade in a Global-Historical Perspective" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9NMG55E5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9NMG55E5" ;
+  schema:description "Summary T his article takes a global-historical perspective on all slaveries and slave trades (and contraband trading of human bodies) in relation to today's state of capitalist accumulation. It follows the different “national” schools of slavery research in different imperial traditions, as well as the sections of historical thinking stimulated through slavery research. Although legal ownership over humans does not exist any more, more women and men are in conditions of slavery today than in any other period of history since 1200. Against this background, the article criticizes the concentration in historiography on “hegemonic” slaveries (antique, Islamic, and American plantation slaveries) and proposes a focus on smaller “slaveries” all over the world (first of all of women and children), and on the agency of slaves and slave women, rather than on “great” slavery in a tradition of “Roman Law”." ;
+  schema:author "Michael Zeuske" ;
+  schema:datePublished "2012" ;
+  schema:publisher "International Review of Social History" ;
+  schema:sameAs <https://doi.org/10.1017/s0020859011000770> ;
+  dcterms:identifier "doi:10.1017/s0020859011000770" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

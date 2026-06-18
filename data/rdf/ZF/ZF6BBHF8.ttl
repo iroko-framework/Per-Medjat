@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZF6BBHF8>
+  a schema:Thesis ;
+  schema:name "Shades of grey: slaveholding free women of color in antebellum New Orleans, 1800-1840" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZF6BBHF8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZF6BBHF8" ;
+  schema:description "This dissertation examines the economic opportunities that free women of color could derive from slaveholding, their motivations, and their impact on New Orleans’ antebellum society and economy. Another aim is to find out the role and impact of free women of color from Saint Domingue (later Haiti), whose arrival in New Orleans doubled the number of free women of color in the city. Finally, the analysis of relationships between free women of color and their slaves and with the diverse population of New Orleans plays an important part in this study. Notarial deeds (sales and purchases of slaves, mortgages of slaves, property inventories, powers of attorney, and wills), court records (lawsuits, Supreme Court records, and criminal records), and other public records (federal, state, county and city document, city directories, census data, and church sacramental registers) provide invaluable sources for this study. I use two major research strategies: (1) a statistical analysis of slave ownership among free women of color and (2) case studies. Such methodology allows me to consider slave ownership among these women in an exhaustive manner, including important parameters such as gender, race, and ethnicity. For free women of color, slaves were definitely a source of personal and commercial speculation, which was inherent in the relationship between master and slave. Free women of color did not and could not deny their slaves’ humanity, yet this knowledge, which gleams through the records on certain occasions, did not inhibit them from engaging in the exploitation and trading of slaves of all ages, which, in turn allowed them to acquire significant amounts of property. The data suggests that these aspirations were shared among the large community of free women of color in the urban center of New Orleans. There, they found a sense of community, tied together by a shared heritage, friendship, kinship, religion, education, and above all economic opportunities, creating thriving social and financial networks among themselves and with others throughout the city." ;
+  schema:author "Anne Ulentin" ;
+  schema:datePublished "2012" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_dissertations.3072> ;
+  dcterms:identifier "doi:10.31390/gradschool_dissertations.3072" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Race, History, and American Society" .

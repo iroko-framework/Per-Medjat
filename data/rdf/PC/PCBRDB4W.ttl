@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PCBRDB4W>
+  a schema:ScholarlyArticle ;
+  schema:name "Caribbean religious history: an introduction" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PCBRDB4W> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PCBRDB4W" ;
+  schema:description "Acknowledgments 1 Introduction : Caribbean Crossroads: Historical and Theoretical Considerations 2 Amerindians and Spanish Catholics in Contact 3 Early Colonial Catholicism 4 For God and Nation: Protestantism in the Colonial Caribbean 5 Creole African Traditions: Santeria, Palo Monte, Abakua, Vodou, and Espiritismo 6 Afro-Christian Faiths: Revival Zion and Spiritual Baptists 7 Mainline and Sideline: Post-Independence Mainline Protestantism and Pentecostalism 8 Migration and Revitalization: Hinduism, Islam, and Rastafarianism 9 Legitimation, Indigenization, and Contextualization Conclusion Notes Bibliography Index About the Authors" ;
+  schema:author "Edmonds, Ennis Barrington" ;
+  schema:creator "Gonzalez, Michelle A. 1973-" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Choice Reviews Online" ;
+  schema:sameAs <https://doi.org/10.5860/choice.48-2006> ;
+  dcterms:identifier "doi:10.5860/choice.48-2006" ;
+  dcterms:subject "Caribbean history, culture, and politics" .

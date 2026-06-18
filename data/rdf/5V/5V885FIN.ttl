@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5V885FIN>
+  a schema:ScholarlyArticle ;
+  schema:name "Impuestos locales en Nueva España: negociación y obra pública en el ayuntamiento de Veracruz en el siglo XVIII" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5V885FIN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5V885FIN" ;
+  schema:description "Analysis of local tax negotiation and public works in the Veracruz Ayuntamiento in the eighteenth century. Directly relevant to the colonial fiscal and administrative apparatus in Veracruz." ;
+  schema:author "Celaya Nández, Yovana" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Espacio Tiempo y Forma. Serie IV, Historia Moderna" ;
+  dcterms:subject "New Spain", "Veracruz", "ayuntamiento", "eighteenth century", "local taxation", "negotiation", "public works" .

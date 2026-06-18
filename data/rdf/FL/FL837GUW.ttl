@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FL837GUW>
+  a schema:ScholarlyArticle ;
+  schema:name "Global supply chain of biomass use and the shift of environmental welfare from primary exploiters to final consumers" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FL837GUW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FL837GUW" ;
+  schema:author "Xi Ji" ;
+  schema:creator "Yifang Liu", "Jing Meng", "Xudong Wu" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Applied Energy" ;
+  schema:sameAs <https://doi.org/10.1016/j.apenergy.2020.115484> ;
+  dcterms:identifier "doi:10.1016/j.apenergy.2020.115484" ;
+  dcterms:subject "Bioeconomy and Sustainability Development", "Biofuel production and bioconversion", "Environmental Impact and Sustainability" .

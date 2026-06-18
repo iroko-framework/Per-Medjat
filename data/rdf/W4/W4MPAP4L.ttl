@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/W4MPAP4L>
+  a schema:ScholarlyArticle ;
+  schema:name "Posmrtno oro vo tradiciite na balkanskite Sloveni<br>Posthumous Ritual Dance - <em>Oro</em> - in the Traditions of Balkan Slavs</br>" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=W4MPAP4L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:W4MPAP4L" ;
+  schema:description "The author researches the act of ritual dancing - oro - and singing in the posthumous ritual complex, which presents one of the most important ritual and magic activities in order to destroy or neutralize the effects of death, and at the same time, to protect the living members of the social community, as a whole." ;
+  schema:author "Љупчо Ристески" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Studia mythologica Slavica" ;
+  schema:sameAs <https://doi.org/10.3986/sms.v3i0.1832> ;
+  dcterms:identifier "doi:10.3986/sms.v3i0.1832" ;
+  dcterms:subject "Folklore, Mythology, and Literature Studies", "Linguistics and Cultural Studies", "Linguistics and language evolution" .

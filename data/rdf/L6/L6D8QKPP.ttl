@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/L6D8QKPP>
+  a schema:Thesis ;
+  schema:name "“Africanized Colonies,” The Exploration of African Slave Cultures in Colonial South Carolina from 1690-1800" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=L6D8QKPP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:L6D8QKPP" ;
+  schema:description "The development of slave culture in North American colonies was a complex and dynamic process, which varied depending on place. Gwendolyn Hall argued that lower Louisiana was “clearly the most Africanized slave culture in the United States”. Yet through the exploration of slave culture in colonial South Carolina, between 1690-1800, it becomes apparent that even though each place provided slaves with unique environments, slaves were always too able maintain their African cultures. Moreover, each colony included variables that affected the lives of the slaves and the process of creolization. This work looks at how elements such as laws, frequency of resistance, plantation formation, ethnic make-up and distribution patterns, affected slaves’ cultural experiences in individual places. A comparison of South Carolina to Louisiana provides a fresh perspective of the creolization process of slave culture in South Carolina. Regardless of where slaves ended up in the United States, they all contributed to the development of the places’ society and at the same time contributed their African cultures." ;
+  schema:author "Sara Perkins" ;
+  schema:datePublished "2016" ;
+  schema:publisher "The Atrium (University of Guelph)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Race, History, and American Society" .

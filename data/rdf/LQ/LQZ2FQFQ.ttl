@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LQZ2FQFQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Le Pouvoir des objets. Culture matérielle et religion en Afrique et en Haïti" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LQZ2FQFQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LQZ2FQFQ" ;
+  schema:description "Quel est le statut de la culture matrielle dans les religions africaines et afroamricaines ? Doit-on tenir les objets rituels pour un produit des croyances et des structures sociales particulires ? Faut-il plutt les considrer comme des objets d'art ayant une valeur esthtique universelle ? 2 La publication rcente d'un ouvrage sur les arts premiers comportant une partie sur l'art africain, la cration d'un muse du mme nom, et le dbat intense autour de celui-ci que manifeste la dernire livraison des Cahiers d'tudes africaines nous invite nous pencher sur ces questions. une conception de l'art africain privilgiant les styles, c'est-dire les proprits formelles des objets, s'oppose une approche anthropologique qui vise replacer l'objet dans son contexte culturel, social et religieux. Dans l'un des articles des CEA ( Les masques Dogon : de l'objet au muse de l'Homme l'homme objet de muse , pp. 617-634), Anne Doquet montre ainsi que c'est la seconde conception qui a prvalu lors de la constitution des collections africaines du muse du Trocadro, indpendamment de toute valuation esthtique des objets. C'est la premire, en" ;
+  schema:author "Erwan Dianteill" ;
+  schema:datePublished "2000" ;
+  schema:publisher "Archives de sciences sociales des religions" ;
+  schema:sameAs <https://doi.org/10.4000/assr.20201> ;
+  dcterms:identifier "doi:10.4000/assr.20201" ;
+  dcterms:subject "African Studies and Ethnography" .

@@ -1,0 +1,128 @@
+{
+  "key": "AAFGVU8R",
+  "uri": "https://medjat.irokosociety.org/id/library/AAFGVU8R",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AAFGVU8R",
+  "zotero": {
+    "group": "6479329",
+    "key": "AAFGVU8R",
+    "version": 3942,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AAFGVU8R",
+    "dateAdded": "2026-06-17T15:31:05Z",
+    "dateModified": "2026-06-17T15:31:05Z"
+  },
+  "display": {
+    "title": "More than ‘A Hidden Race’: The Complexities of Blackness in Mexico and Peru",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Christina A. Sue"
+      },
+      {
+        "role": "editor",
+        "name": "Tanya Golash‐Boza"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Latin American and Caribbean Ethnic Studies",
+    "publicationTitle": "Latin American and Caribbean Ethnic Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "Latin American and Caribbean Ethnic Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "issue": "1",
+    "pages": "76-82",
+    "abstract": "In the PBS film series, Black in Latin America, Henry Louis Gates, Jr",
+    "doi": "10.1080/17442222.2013.768462",
+    "url": "https://doi.org/10.1080/17442222.2013.768462",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anthropological Studies and Insights",
+      "Latin American and Latino Studies",
+      "Politics and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Christina A. Sue"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "More than ‘A Hidden Race’: The Complexities of Blackness in Mexico and Peru"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Latin American and Caribbean Ethnic Studies, 2013."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "76-82 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1080/17442222.2013.768462"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Politics and Society in Latin America"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Tanya Golash‐Boza"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AA/AAFGVU8R.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1080/17442222.2013.768462"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

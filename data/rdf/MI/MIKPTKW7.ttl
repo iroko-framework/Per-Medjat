@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MIKPTKW7>
+  a schema:Thesis ;
+  schema:name "Los Raperos: rap, race, and social transformation in contemporary Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MIKPTKW7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MIKPTKW7" ;
+  schema:description "This dissertation explores the emergent movimiento de hip hop cubano (the Cuban hip hop movement) as a critical site to examine the interplay of race and social transformation in contemporary Cuba.Following Cuba's post-1990 economic crisis know as the \"special period,\" the ethnographic investigation centers on the ways young Afro-Cubans are utilizing the expressive cultural space of rap music and broader hip hop \"culture\" to performatively fashion new kinds of transnationally engaged black identity and related race-based social critique.The author suggest that through such young self-identified black Cubans, who comprise the vast majority of raperos/as (rap artists) and their followers, are utilizing the expressive cultural space of rap music and associated hip hop culture to fashion new kinds of transnationally-engaged black identities and related social critiques.Through such identity processes, I contend, a new generation of black and darker-skinned Cubans are positioning themselves in strategic response to the shifting dynamics of race and class within a socialist Cuba that is increasingly shaped by the island's recent insertion into contemporary transnational networks of neoliberal capital.In a post-\"utopian\" Cuba characterized by economic dollarization, expanding tourism, rising social stratification, and -significantlyresurgent levels of racial inequality, I seek to understand how these emergent subjectivities and the social critiques they invoke pose challenges to, as well as contribute to a current reconfiguring of nationally-bounded constructions of race and corresponding ideologies of national non-racialism.My analysis additionally draws attention to the evolving negotiated relationship between Cuban hip hop as a new, potentially oppositional identity-based social phenomenon, and the Cuban state as it attempts to institutionalize hip hop within a prescriptive, socially homogenizing frame of revolutionary national culture.In turn, Cuban hip hop has come to occupy an important site of racially-positioned critique within revolutionary Cuba today.In doing so, I hold, the Cuban hip hop movement has assumed a key role within an evolving black public sphere predicated on the assertion of black political difference within a previously configured non-racial Cuban national imaginary." ;
+  schema:author "Marc D. Perry" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies" .

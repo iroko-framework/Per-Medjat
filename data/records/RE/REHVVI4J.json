@@ -1,0 +1,119 @@
+{
+  "key": "REHVVI4J",
+  "uri": "https://medjat.irokosociety.org/id/library/REHVVI4J",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=REHVVI4J",
+  "zotero": {
+    "group": "6479329",
+    "key": "REHVVI4J",
+    "version": 3567,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/REHVVI4J",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "‘Bound Coolies’ and Other Indentured Workers in the Caribbean: Implications for debates about human trafficking and modern slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kamala Kempadoo"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Anti-Trafficking Review",
+    "publicationTitle": "Anti-Trafficking Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Anti-Trafficking Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "9",
+    "pages": "48-63",
+    "abstract": "Under systems of indenture in the Caribbean, Europeans such as Irish, Scots and Portuguese, as well as Asians, primarily Indians, Chinese and Indonesians, were recruited, often under false pretences, and transported to the ‘New World’, where they were bound to an employer and the plantation in a state of ‘interlocking incarceration’. Indentureship not only preceded, co-existed with, and survived slavery in the Caribbean, but was distinct in law and in practice from slavery. This article argues that the conditions of Caribbean indenture can be seen to be much more analogous to those represented in contemporary discussions about human trafficking and ‘modern slavery’ than those of slavery. Caribbean histories of indenture, it is proposed, can provide more appropriate conceptual tools for thinking about unfree labour today—whether state or privately sponsored—than the concept of slavery, given the parallels between this past migrant labour system in the Caribbean and those we witness and identify today as ‘modern slavery’ or human trafficking. This article thus urges a move away from the conflation of slavery and human trafficking with all forced, bonded and migrant labour, as is commonly the case, and for greater attention for historical evidence.",
+    "doi": "10.14197/atr.20121794",
+    "url": "https://doi.org/10.14197/atr.20121794",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kamala Kempadoo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "‘Bound Coolies’ and Other Indentured Workers in the Caribbean: Implications for debates about human trafficking and modern slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Anti-Trafficking Review, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "48-63 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14197/atr.20121794"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RE/REHVVI4J.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14197/atr.20121794"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

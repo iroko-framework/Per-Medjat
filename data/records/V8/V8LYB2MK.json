@@ -1,0 +1,107 @@
+{
+  "key": "V8LYB2MK",
+  "uri": "https://medjat.irokosociety.org/id/library/V8LYB2MK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V8LYB2MK",
+  "zotero": {
+    "group": "6479329",
+    "key": "V8LYB2MK",
+    "version": 1245,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V8LYB2MK",
+    "dateAdded": "2026-05-19T13:28:37Z",
+    "dateModified": "2026-05-19T13:28:37Z"
+  },
+  "display": {
+    "title": ". Dispersal",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "University Press of Mississippi eBooks",
+    "journalAbbreviation": "University Press of Mississippi eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "119-139",
+    "abstract": "This chapter describes how Abakué was made illegal in 1875, with its members (as well as other anticolonials) dispersed to Spanish penal colonies in North and West Africa. Those who could escaped from Cuba to Florida to join the emerging cigar industry. Responding to scholarship that argues for the recreation of Abakuá lodges in exile, having learned otherwise from Abakuá leaders, the chapter discusses issues basic to the process, which highlight the extraordinary achievements of Abakuá’s foundation in Cuba.",
+    "doi": "10.14325/mississippi/9781934110836.003.0006",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0006",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": ". Dispersal"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "119-139 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14325/mississippi/9781934110836.003.0006"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/V8/V8LYB2MK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14325/mississippi/9781934110836.003.0006"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4TEE7J82>
+  a schema:ScholarlyArticle ;
+  schema:name "Witchcraft and Slavery in Cartagena de Indias" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4TEE7J82> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4TEE7J82" ;
+  schema:description "The witchcraft trials in the Spanish Inquisition's tribunal in Cartagena de Indias had direct links to the trials in Northern Spain. These trials started just after the trials in the Basque country in 1610-14, and show the adoption of a newly coined word for the witches' sabbath not in evidence outside of the Basque country. Once transported to the Americas, the witches' sabbath was reshaped to reflect the fears of the ruling class in colonial slave society. The cannibalistic night flying witch was no longer an old infertile woman; now she was a slave organised in a military fashion, reflecting the armies of runaway male slaves that had established their own societies in the American hinterland. The tribunal in Cartagena de India continued to pass death sentences for diabolical witchcraft in the 1630s despite instructions issued against this in 1614. Only the firm hand of the central council in Madrid stopped these from being carried out, but it could not prevent large numbers of cases from being tried." ;
+  schema:author "Gunnar W. Knutsen" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Magic, ritual, and witchcraft" ;
+  schema:sameAs <https://doi.org/10.1353/mrw.2020.0015> ;
+  dcterms:identifier "doi:10.1353/mrw.2020.0015" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical Economic and Social Studies", "Historical Studies in Latin America" .

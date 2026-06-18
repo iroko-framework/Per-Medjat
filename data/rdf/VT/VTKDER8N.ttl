@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VTKDER8N>
+  a schema:Book ;
+  schema:name "Reglas de Congo: Palo Monte Mayombe" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VTKDER8N> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VTKDER8N" ;
+  schema:author "Cabrera, Lydia" ;
+  schema:datePublished "1979" ;
+  schema:publisher "Peninsular Print." ;
+  dcterms:subject "Central African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .

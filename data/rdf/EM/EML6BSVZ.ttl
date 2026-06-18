@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EML6BSVZ>
+  a schema:Thesis ;
+  schema:name "Controlling the Dragon: An ethno-historical analysis of social engagement among the Kamoro of South-West New Guinea (Indonesian Papua/Irian Jaya)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EML6BSVZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EML6BSVZ" ;
+  schema:description "This thesis examines how the Kamoro (also known as the Mimika) people of the south-west coast of Papua (former Irian Jaya), Indonesia have adapted to major political and economic changes over a long history of interactions with outsiders. More specifically, it is an ethnohistorical analysis of Kamoro strategies of engagement dating back to the seventeenth century, but focusing on the twentieth century. Taking ethnohistory to most generally refer to the investigation of the social and cultural distinctiveness of historical consciousness, this thesis examines how perceptions and activities of the past shape interpretations of the present. Though this thesis privileges Kamoro perspectives, it juxtaposes them against broader ethnohistorical analyses of the “outsiders” with whom they have interacted. For the Kamoro, amoko-kwere, narratives about the ancestral (and eternal) cultural heroes, underlie indigenous modes of historical consciousness which are ultimately grounded in forms of social reciprocity. One key characteristic of the amoko-kwere is the incorporation of foreign elements and their reformulation as products of indigenous agency. As a result of this reinterpretation expectations are raised concerning the exchange of foreign material wealth and abilities, both classified in the Kamoro language as kata. Foreign withholding of kata emerges as a dominant theme in amoko-kwere and is interpreted as theft, ultimately establishing relationships of negative reciprocity between the Kamoro and the powerful outsiders. These feelings are mirrored in contemporary Kamoro conceptions of their relationships with the Indonesian State and the massive PT Freeport Indonesia Mining Company who use a significant amount of Kamoro land for deposition of mining waste (tailings) and for the development of State and company infrastructure." ;
+  schema:author "Todd S. Harple" ;
+  schema:datePublished "2000" ;
+  schema:publisher "ANU Open Research (Australian National University)" ;
+  schema:sameAs <https://doi.org/10.25911/5d7a29e964c71> ;
+  dcterms:identifier "doi:10.25911/5d7a29e964c71" ;
+  dcterms:subject "Pacific and Southeast Asian Studies" .

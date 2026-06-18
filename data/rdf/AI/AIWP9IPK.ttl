@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AIWP9IPK>
+  a schema:Thesis ;
+  schema:name "Slavery in al-Bulqīnī's fatwas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AIWP9IPK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AIWP9IPK" ;
+  schema:description "(in English): This thesis explores the phenomenon of slavery in the collection of fatwas by the Mamluk jurist Sirāj al-Dīn al-Bulqīnī (d. 1403) through the lens of the concept of asymmetric dependency. The aim of the research is to go beyond the traditional binary framework of \"slavery versus freedom\" and to apply a novel perspective on the legal and social aspects of slavery within the context of Islamic law. The analysis focuses on specific fatwas concerning the ownership of persons, marriages, divorces, and the trade of slaves. The legal dimension is examined through al-Bulqīnī's responses, while the social dimension is derived from the questions posed by mustaftīs. The thesis investigates the life spheres of slaves and their owners, highlighting the dynamics of social relationships and the fluidity of slave status, presenting slave law as an expression of asymmetric dependency, as defined by Winnebeck et al. This approach offers a fresh perspective on the study of slavery in the Islamic legal tradition." ;
+  schema:author "Jana Medveďová" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Digital Repository (National Repository of Grey Literature)" ;
+  dcterms:subject "Global Maritime and Colonial Histories", "Islamic Studies and History", "Medieval History and Crusades" .

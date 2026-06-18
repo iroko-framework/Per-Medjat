@@ -1,0 +1,107 @@
+{
+  "key": "C9DJJE2Q",
+  "uri": "https://medjat.irokosociety.org/id/library/C9DJJE2Q",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C9DJJE2Q",
+  "zotero": {
+    "group": "6479329",
+    "key": "C9DJJE2Q",
+    "version": 1413,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C9DJJE2Q",
+    "dateAdded": "2026-05-19T13:29:07Z",
+    "dateModified": "2026-05-19T13:29:07Z"
+  },
+  "display": {
+    "title": "Caribbean Currents: Recent Studies in Caribbean Music",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hope Munro Smith"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Latin American Research Review",
+    "publicationTitle": "Latin American Research Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Latin American Research Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "40",
+    "issue": "3",
+    "pages": "202-205",
+    "abstract": "Central Africa In The Caribbean: Transcending Time, Transforming Cultures. By Maureen Warner-Lewis. (Kingston: University Press of the West Indies, 2003. Pp. 450. $45.00 paper.) Caribbean Dance From Abakua To Zouk: How Movement Shapes Identity. Edited by Susan Sloat. (Gainesville: University Press of Florida, 2002. Pp. 400. $39.95 paper.) The City Of Musical Memory: Salsa, Record Grooves, And Popular Culture In Cali, Colombia. By Lise A. Waxer. (Middletown: Wesleyan University Press, 2002. Pp. 416. $24.95 paper.) Cuban Fire: The Story Of Salsa And Latin Jazz. By Isabelle Leymarie. (London, New York: Continuum, 2002. Pp. 400. $29.95 cloth.) Current studies in music of the Caribbean demonstrate the vitality of the research happening in this region. Some scholars continue to work motifs, such as the creolization process, that have long defined studies in the Caribbean. Others are developing new frameworks to confront contradictory musical developments within particular cultural contexts. Among these are cultural continuities between the African continent and the African diaspora. Although the Africanisms debate may seem old fashioned to some, there are times when it is appropriate, particularly when Afro-Caribbean scholars are undertaking these inquiries as a larger project of legitimating African-based cultural practices within their own postcolonial cultural environments. In her meticulously researched volume Central Africa in the Caribbean Maureen Warner-Lewis seeks \"to explicate, illuminate and interpret Caribbean thought and practice by comparison with Central African world view and custom\" (xxii). In this, Warner-Lewis is something of a linguistic archeologist, uncovering many linguistic survivals surrounding all aspects of culture, including \"personal names, lexical cognates, food types, conceptual, artistic and motor behaviours which link the Caribbean with [End Page 202] Central Africa and which replicate themselves at varying points in Caribbean space\" (xxxi–xxii). As in her earlier work Trinidad Yoruba: From Mother Tongue to Memory (1995),1 Warner-Lewis argues that the inimical conditions of slavery, rather than leading to deprivation of culture, led culture bearers of Central African descent to resolutely hold onto aspects of their cultural identity vis-à-vis both colonial society and other African-based sociolinguistic groups in the Caribbean, such as the Yoruba speakers described in Trinidad Yoruba. While Warner-Lewis agrees that the relative number of Central Africans was small compared to other African linguistic groups, she argues that \"the survival and/or continued use of even one African lexical item in a West Atlantic location is evidence of an integral link, at some point in time, between the particular ethnolinguistic group—or even one individual of this group—and the practice and belief to which this term relates\" (xxii). While some readers might find this a tautology, one must realize the resistance to Afrocentric ideas that persists in West Indian intellectual circles, which has been one of the central features of Warner-Lewis's scholarly works. These Pan-Caribbean projects have occupied Warner-Lewis for the past thirty years, resulting in a book that contains a wealth of information useful for any scholar even casually interested in the region. Music scholars have much to find useful in this work. In addition to the many maps, photos, and diagrams, the author includes over forty song transcriptions she made from interviews with informants in Trinidad and Guyana during the 1960s and 1970s. Interestingly, Warner-Lewis has interwoven discussion of musical and artistic expression with all aspects of life in the region under investigation. Thus, researchers in music will not want to limit themselves to any one chapter but take the work as a whole. Caribbean Dance from Abakua to Zouk is a comprehensive look at the Caribbean region, and includes the viewpoints and experiences of a variety of contributors, from ethnomusicologists to choreographers and cultural leaders. The twenty-two essays in the volume are organized by country, and include the \"small islands\" that tend to be overlooked in such studies (specifically St. Croix, Martinique, Guadeloupe, and Curação). Each author has tried...",
+    "doi": "10.1353/lar.2005.0065",
+    "url": "https://doi.org/10.1353/lar.2005.0065",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hope Munro Smith"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Caribbean Currents: Recent Studies in Caribbean Music"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Latin American Research Review, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "202-205 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/lar.2005.0065"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/C9/C9DJJE2Q.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/lar.2005.0065"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

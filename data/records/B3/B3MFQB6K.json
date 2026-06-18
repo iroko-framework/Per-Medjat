@@ -1,0 +1,107 @@
+{
+  "key": "B3MFQB6K",
+  "uri": "https://medjat.irokosociety.org/id/library/B3MFQB6K",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=B3MFQB6K",
+  "zotero": {
+    "group": "6479329",
+    "key": "B3MFQB6K",
+    "version": 1548,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/B3MFQB6K",
+    "dateAdded": "2026-05-19T14:17:06Z",
+    "dateModified": "2026-05-19T14:17:06Z"
+  },
+  "display": {
+    "title": "Slavery in the Republic of Texas",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Linda Myers Purcell"
+      }
+    ],
+    "year": "1982",
+    "date": "1982",
+    "publisher": "University of North Texas Digital Library (University of North Texas)",
+    "publicationTitle": "University of North Texas Digital Library (University of North Texas)",
+    "bookTitle": "",
+    "journalAbbreviation": "University of North Texas Digital Library (University of North Texas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Slavery was established in Texas with the first Anglo-American settlement in 1822. The constitution of the Republic of Texas protected slavery as did laws passed by the legislature from 1836 to 1846, and the institution of slavery grew throughout the period. Slaves were given adequate food, clothing, and shelter for survival, and they also managed to develop a separate culture. Masters believed that slaves received humane treatment but nevertheless worried constantly about runaways and slave revolts. The Republic's foreign relations and the annexation question were significantly affected by the institution of slavery. The most important primary sources are compilations of the laws of Texas, tax rolls, and traveler's accounts. The most informative secondary source is Abigail Curlee's unpublished doctoral dissertation, \"A Study of Texas Slave Plantations, 1822 to 1865\" written at the University of Texas in 1932.",
+    "doi": "",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc504328/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and Natural History",
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Linda Myers Purcell"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery in the Republic of Texas"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of North Texas Digital Library (University of North Texas), 1982."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and Natural History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/B3/B3MFQB6K.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

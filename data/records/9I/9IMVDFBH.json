@@ -1,0 +1,101 @@
+{
+  "key": "9IMVDFBH",
+  "uri": "https://medjat.irokosociety.org/id/library/9IMVDFBH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9IMVDFBH",
+  "zotero": {
+    "group": "6479329",
+    "key": "9IMVDFBH",
+    "version": 1833,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9IMVDFBH",
+    "dateAdded": "2026-05-19T14:18:13Z",
+    "dateModified": "2026-05-19T14:18:13Z"
+  },
+  "display": {
+    "title": "Jefferson Davis and the Mississippi gubernatorial contest of 1851, with selected letters and speeches concerning the campaign",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kathleen Bailey Davis"
+      }
+    ],
+    "year": "1971",
+    "date": "1971",
+    "publisher": "Rice Digital Scholarship Archive (Rice University)",
+    "publicationTitle": "Rice Digital Scholarship Archive (Rice University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Rice Digital Scholarship Archive (Rice University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Traditional political parties in Mississippi fractured and re-formed during the struggle that climaxed in the passage of the Compromise of 1850. Convinced that these measures further marked the usurpation of southern constitutional rights, Jefferson Davis, a life-long Democrat, strove to unify his party, his state, and the South in order to register southern disapproval. The test of Mississippi's position on the Compromise came in the elections of 1851. After the Democratic State Rights party, led by gubernatorial candidate John A. Quitman, was defeated in the September election for state convention delegates, Quitman withdrew from the race. The Democratic party immediately turned for leadership to Jefferson Davis, who accepted the gubernatorial nomination as his duty and campaigned as vigorously as possible despite ill health in the six weeks remaining before the election. He lost the race, reducing the Unionist party margin of 7,500 votes in the September election to 999, but gained national respect for his political principles and party loyalty. The second part of the thesis consists of eleven selected letters and speeches concerning the campaign. They form a substantial portion of the primary source material on which the first part of the thesis is based. Clarifying footnotes follow each edited item.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1911/89144",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kathleen Bailey Davis"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Jefferson Davis and the Mississippi gubernatorial contest of 1851, with selected letters and speeches concerning the campaign"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Rice Digital Scholarship Archive (Rice University), 1971."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/9I/9IMVDFBH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

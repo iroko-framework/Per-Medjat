@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SXFG2QPZ>
+  a schema:Thesis ;
+  schema:name "Transforming traditions: The dynamics of cultural variation in the Gamo highlands, southwest Ethiopia." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SXFG2QPZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SXFG2QPZ" ;
+  schema:description "This thesis is about cultural variation. Its ethnographic focus is the Gamo highlands of southwest Ethiopia, where there are two politico-ritual systems, one based on sacrifices and the other based on initiations. While the sacrificial system is remarkably homogeneous over the area, the initiatory system varies considerably. The central purpose of this work is to try to understand why these two systems exhibit such different degrees of variation in the same setting and among the same people. After describing the structure of the two cultural systems as they exist in the late twentieth century, the thesis examines some of the politico-economic changes that have taken place in southern Ethiopia over the past few centuries, and considers how some of these external changes would have led to internal cultural change in the highlands. It suggests that external changes are manifested as strains on certain social relations, evidenced as either interpersonal conflicts or communal misfortune, and that people try to resolve these strains through discussions at assemblies. The particular organisation of the Gamo assemblies facilitates decisions that lead to incremental cultural change. The thesis then argues that these incremental changes have various intended and unintended consequences in the different cultural systems. The 'linked chain' pattern of interconnections in the initiatory system leads to complex nonlinear behaviour such that small incremental changes produce dramatic structural transformation, while the 'Russian doll' pattern of interconnections in the sacrificial system leads to linear behaviour such that small changes have only small effects. The thesis therefore concludes that, although change in both systems has been driven by the same politico-economic factors, the form of change has been different due to their different systemic organisation, leading the initiations to transform rather more than the sacrifices. It is for this reason, then, that they exhibit such different degrees of variation." ;
+  schema:author "Dena Freeman" ;
+  schema:datePublished "1999" ;
+  schema:publisher "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)" ;
+  dcterms:subject "African history and culture analysis", "Land Rights and Reforms", "Rangeland Management and Livestock Ecology" .

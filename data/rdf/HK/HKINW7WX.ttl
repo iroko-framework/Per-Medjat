@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HKINW7WX>
+  a schema:Thesis ;
+  schema:name "Capoeiras e valentões na história de São Paulo (1830-1930)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HKINW7WX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HKINW7WX" ;
+  schema:description "Until mid-twentieth century, capoeira had its potential as a record of deeds and wills of enslaved Africans and their descendants ignored by historical study. Based on specific studies about this practice, the historiography advanced significantly. First, more focused at two states known as poles of modern capoeira: Rio de Janeiro and Bahia. After that, new studies have been showing the practice in other areas such as Pernambuco, Par and Maranho. So Paulo was scenario of a vigorous slavery that advanced throughout the nineteenth century and explored thousands of souls. Researches on the lives of slaves at So Paulo territory in this period have shown, albeit loosely, that capoeira was present in the everyday life of cities in urbanization process. Aiming to better understand how this activity is embedded in the cogs of So Paulo society throughout the nineteenth century and the first decades of the twentieth century, we developed a study on this martial art in the capital and other cities, through analysis of sources of diverse naturesreminiscences, newspapers, laws and registers of municipal councils, prisoners record books, documents of the judiciary, such as criminal cases as well as letters and telegrams of authorities. More broadly, we expect that this research contributes to discussions about the formation process in Brazil of the capoeira, an afro-brazilian martial art now practiced worldwide." ;
+  schema:author "Pedro Figueiredo Alves da Cunha" ;
+  schema:datePublished "2011" ;
+  schema:sameAs <https://doi.org/10.11606/d.8.2011.tde-11092012-105013> ;
+  dcterms:identifier "doi:10.11606/d.8.2011.tde-11092012-105013" ;
+  dcterms:subject "Doping in Sports", "Martial Arts: Techniques, Psychology, and Education", "Physical Education and Sports Studies" .

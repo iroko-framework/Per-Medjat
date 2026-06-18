@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/R22TF2AX>
+  a schema:Thesis ;
+  schema:name "Télé-échographie robotisée" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=R22TF2AX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:R22TF2AX" ;
+  schema:description "This report concerns robotic tele-echographic systems seen as a set of many kinds of modules (master site, slave site, communications, image, video conference, haptic systems, etc.). This work takes place in the context of the design, development and evaluation of a such system and is aimed at the slave site realization. A general presentation of robotic tele-echography is provided before focusing on two prototypes evaluation TER1 and TER2 of the slave robot architecture. The slave robot has 6 dof (degres of freedom). The first prototype is considered as a parallel robot with a first structure for the translation motion and a second one for its orientation. The second prototype is a hybrid robot with the translation structure as a parallel one and the orientation structure considered a serial robot. Both prototypes are non rigid cabledriven robots. The heart of this work concerns this new architecture that is provided to respect compliance, lightness and portability constraints. In fact, one of the objectives of this system is to be used where no medical experts are available to carry out the echographic exam. An inverse geometrical model is developed for each prototype to determine the cables lengths that provide displacements (translation and orientation) of the robot over the patient.s body. For the first prototype a control law of the PIDA kind (proportional, integral, derivative with anticipation term) is used. The TER2 robot uses a closed loop joint control too. In-vitro and in-vivo experiments and evaluations have been done and are presented in this report. Experiments were local and long distance (Grenoble-Toulouse, Grenoble-Brest, Grenoble-Toulon). Promising results and the approval of doctors to use this kind of system have been obtained during the experiments." ;
+  schema:author "Adriana Vilchis-Gonzales" ;
+  schema:datePublished "2003" ;
+  schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
+  dcterms:subject "Soft Robotics and Applications", "Surgical Simulation and Training" .

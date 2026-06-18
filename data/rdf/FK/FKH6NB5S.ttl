@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FKH6NB5S>
+  a schema:Thesis ;
+  schema:name "Bayesian Belief Nets and Vines in Aviation Safety and other Applications" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FKH6NB5S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FKH6NB5S" ;
+  schema:description "Prior to the defence, at 09.30 there will be a 20 minutes presentation.The defence will be followed by a reception in the Aula. Bayesian belief nets and vines in aviation safety and other applicationsBayesian Belief Nets and Vines in aviation safety and other applications O. Morales Npoles Bayesian Belief Nets and Vines in aviation safety and other applications Oswaldo Morales Npoles nd other applications nd other applications.The rank correlation of random variables X, Y with cumulative distribution functions F X and F Y is:.The rank correlation is the product moment correlation of the ranks of variables X and Y , and measures strength of monotonic relationship between variables.The conditional rank correlation of X and Y given Z is: CHAPTER 6 Dams Safety in the State of Mexico 1This chapter describes a demonstration model for earth dams safety.The aim of the project was to develop a model to investigate environmental factors that could contribute to different failure modes in earth dams in the highlands of central Mexico.This model would serve as a demonstration model for a larger model that would include larger structures and a countrywide coverage.NPCDBBNs were identified as an appropriate tool for this research.The classical method for structured expert judgment was used for model quantification in the absence of field data." ;
+  schema:author "Oswaldo Morales‐Nápoles" ;
+  schema:datePublished "2010" ;
+  schema:publisher "TNO Repository" ;
+  dcterms:subject "AI-based Problem Solving and Planning", "Bayesian Modeling and Causal Inference", "Risk and Safety Analysis" .

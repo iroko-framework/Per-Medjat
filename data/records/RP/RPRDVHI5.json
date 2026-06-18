@@ -1,0 +1,114 @@
+{
+  "key": "RPRDVHI5",
+  "uri": "https://medjat.irokosociety.org/id/library/RPRDVHI5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RPRDVHI5",
+  "zotero": {
+    "group": "6479329",
+    "key": "RPRDVHI5",
+    "version": 2208,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RPRDVHI5",
+    "dateAdded": "2026-05-19T14:19:46Z",
+    "dateModified": "2026-05-19T14:19:46Z"
+  },
+  "display": {
+    "title": "African American women administrators in higher education: exploring the challenges and experiences at Louisiana public colleges and universities",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Germaine Becks-Moody"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This study explores the challenges that African American women administrators experience as professionals in public institutions of higher education and the strategies they employ to cope with the resulting conflicts. It uses Black Feminism and the five dimensions as a framework for understanding the challenges and experiences. The five dimensions that characterize Black Feminist Thought are: 1) core themes of a Black woman's standpoint; 2) variation of responses to core themes; 3) interdependence of experience and consciousness; 4) consciousness and the struggle for a self-defined standpoint; and 5) interdependence of thought and action. Interviews and participant observations were conducted with 10 African American women administrators at public institutions in Louisiana. Interviews included two presidents, four vice-presidents, and four deans. During open-ended interviews, participants were asked to talk about their challenges and experiences related to their personal and professional experiences as administrators. Ten themes emerged from the research data: spirituality; family support systems; balancing career and family; racism and sexism; lack of respect by colleagues and subordinates; mentoring and networking; isolation and underrepresentation; competency and confidence; professional satisfaction and community consciousness. This study highlights the 10 African American women administrators' challenges and experiences in order to help institutions of higher learning become more supportive and reduce the challenges that promote a chilly work environment.",
+    "doi": "10.31390/gradschool_dissertations.2074",
+    "url": "https://doi.org/10.31390/gradschool_dissertations.2074",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Gender Diversity and Inequality",
+      "Higher Education Research Studies",
+      "Mentoring and Academic Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Germaine Becks-Moody"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "African American women administrators in higher education: exploring the challenges and experiences at Louisiana public colleges and universities"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2004."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_dissertations.2074"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gender Diversity and Inequality"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Higher Education Research Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mentoring and Academic Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RP/RPRDVHI5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_dissertations.2074"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

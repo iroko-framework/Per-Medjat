@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8CI9ICD7>
+  a schema:Thesis ;
+  schema:name "Slavery, Fear, and Disunion in the Lone Star State: Texans' Attitudes toward Secession and the Union, 1846-1861" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8CI9ICD7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8CI9ICD7" ;
+  schema:description "This work is a study of white Texans' attitudes toward their role in the federal Union and their right to secede from it during the antebellum period. The central question of the study is why did people so strongly Unionist in 1846 became so strongly secessionist by 1861. In tracing this significant shift in Texans' sentiment, the author especially emphasizes the racial attitudes of white Texans, their emotional defense of the institution of slavery, and their strong conviction that the Negroes, if emancipated, would destroy white society. Of special importance to this study is the relationship of Texans' racial attitudes to their attitudes toward the Union." ;
+  schema:author "Billy D. Ledbetter" ;
+  schema:datePublished "1972" ;
+  schema:publisher "University of North Texas Digital Library (University of North Texas)" ;
+  dcterms:subject "Irish and British Studies" .

@@ -1,0 +1,95 @@
+{
+  "key": "ZB9XIF7C",
+  "uri": "https://medjat.irokosociety.org/id/library/ZB9XIF7C",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZB9XIF7C",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZB9XIF7C",
+    "version": 1896,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZB9XIF7C",
+    "dateAdded": "2026-05-19T14:18:31Z",
+    "dateModified": "2026-05-19T14:18:31Z"
+  },
+  "display": {
+    "title": "Differentiating Slaves from Wives in Ancient Athens by Social Death",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Emily Bonk"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "The Knowledge Bank (The Ohio State University)",
+    "publicationTitle": "The Knowledge Bank (The Ohio State University)",
+    "bookTitle": "",
+    "journalAbbreviation": "The Knowledge Bank (The Ohio State University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The household ideology of Classical Athens had firmly established each person’s role in the family hierarchy; every person’s defined role also constituted their place in society. Slaves and women were viewed in law to be inferior to male citizens, because their duty within the household was to complete tasks that were undesirable or unfit for men to do. Both women and slaves were thus categorized as chattel (property) under Athenian law, but there was some level of distinction in the household hierarchy between these two groups. The purpose of this study is to examine this distinction to determine what differentiated women and slaves socially. In order to better understand the different roles of women and of slaves in the Athenian household, a host of primary sources were examined, including Greek comedies, philosophical writings, and accounts of law court cases. By examining the roles that slaves and women held in these works, and in light of literary and historical critics, it can be seen that slaves and women were very important in running the household, even though they were treated as inferiors. The level of their inferiority is established through the male householder’s treatment towards them. Women and slaves were held under the same expectations to honor the household and patriarchal authority, and were treated as property through various means such as the capacity to be transferred and expected to do what others tell them. However, slaves experienced what historical sociologists call “social death” by their masters, which differentiates the hierarchy between slaves and women. The results reveal the methodological problem with using law codes to define “chattel” slavery- although the Athenian law upheld women in the ideal as property; in social practice they held positions and functions higher than chattel in the domestic hierarchy. This problematic use of legal definitions to define “the slave” brings a new perspective on how to study ancient slavery.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1811/58522",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Classical Antiquity Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Emily Bonk"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Differentiating Slaves from Wives in Ancient Athens by Social Death"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The Knowledge Bank (The Ohio State University), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Classical Antiquity Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ZB/ZB9XIF7C.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ECL8HDP9>
+  a schema:ScholarlyArticle ;
+  schema:name "MATERIAS PRIMAS Y OBJETOS DE PRESTIGIO EN AJUARES FUNERARIOS COMO TESTIMONIOS DE REDES DE INTERCAMBIO EN EL HORIZONTE CAMPANIFORME" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ECL8HDP9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ECL8HDP9" ;
+  schema:description "El trabajo da a conocer los resultados de recientes análisis realizados a diferentes componentes de los ajuares de enterramientos calcolíticos, especialmente campaniformes, de la región de Madrid. Con esta información, a parte de la clásica panoplia donada en los registros funerarios, otras entregas menos estudiadas evidencian con mayor rotundidad la capacidad adquisitiva y de control que determinados personajes pudieron tener sobre algunos recursos. Además del cobre y el oro, sobre los que ya se ha llamado la atención, el marfil y el cinabrio se perfilan como materias especialmente recurrentes en los registros funerarios campaniformes ricos. Su reiterada presencia indica que, aparte de controlar sus vías de distribución, se amplía el valor simbólico y de prestigio de los ajuares y los ritos de una élite cuyo poder adquiere aún más fuerza de la que se hasta ahora se le había asignado a partir de su clásica panoplia funeraria asociada.Palabras clave: Calcolítico, Campaniforme, Valle Tajo, Ritual FunerarioSummaryThis paper refers the results of recent analyses realized to different components of the chalcolithic grave goods, especially Bell Beaker ones in the Madrid region. New information about the materials of funerary records are not only an expression of the acquisitive capacity that certain prominent individuals could have by the control of some resources, not only copper and gold, but also ivory and cinnabar and their routes of distribution. In addition, the results reveal that the symbolic and prestige value of ivory and cinnabar is extended by an elite which power acquires more relevance which till now there had been assigned from the classic funerary package.Keywords: Chalcolithic, Bell Beaker, Tagus valley, funerary ritual." ;
+  schema:author "Corina Liesau" ;
+  schema:creator "Concepción Blasco" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid" ;
+  schema:sameAs <https://doi.org/10.15366/cupauam2012.38.010> ;
+  dcterms:identifier "doi:10.15366/cupauam2012.38.010" ;
+  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Archaeology and Cultural Heritage" .

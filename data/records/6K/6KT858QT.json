@@ -1,0 +1,144 @@
+{
+  "key": "6KT858QT",
+  "uri": "https://medjat.irokosociety.org/id/library/6KT858QT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6KT858QT",
+  "zotero": {
+    "group": "6479329",
+    "key": "6KT858QT",
+    "version": 4062,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6KT858QT",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Microstructural, Morphological, and Optical Study of Synthesis of ZnO and Pt‑ZnO Nanoparticles by a Simple Method Using Different Precipitating Agents",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ruby Sheila Gines-Palestino"
+      },
+      {
+        "role": "editor",
+        "name": "Carlos Montalvo"
+      },
+      {
+        "role": "editor",
+        "name": "Guadalupe Luna‐Solano"
+      },
+      {
+        "role": "editor",
+        "name": "Luis Pablo Amador-Gómez"
+      },
+      {
+        "role": "editor",
+        "name": "Denis Cantú‐Lozano"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Journal of the Brazilian Chemical Society",
+    "publicationTitle": "Journal of the Brazilian Chemical Society",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of the Brazilian Chemical Society",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Due to its multiple applications, zinc oxide (ZnO) is one of the most used materials in science and technology. Therefore, this research carried out the synthesis of ZnO and Pt-ZnO nanoparticles (NPs) by the direct precipitation method, which is characterized by being simple and reproducible, using two different precipitating agents, potassium hydroxide (KOH) and sodium hydroxide (NaOH); for the doping of Pt-ZnO NPs was used platinum acetylacetone. To evaluate the effect of the precipitating agent on the properties of each doped material, they were characterized by Fourier transform infrared spectroscopy, where the Zn-O vibrations were more pronounced using KOH. X-ray diffraction analysis shows a hexagonal structure (wurtzite) formation for ZnO with NaOH, obtaining a smaller crystal size than the other synthesized materials. Scanning electron microscopy analysis showed hexagonal and hemispherical shapes for ZnO (with NaOH and KOH) and Pt-ZnO (with NaOH), respectively; also, cylindrical shapes were obtained for Pt-ZnO (with KOH). The highest band gap obtained was for the Pt-ZnO material synthesized with KOH.",
+    "doi": "10.21577/0103-5053.20230092",
+    "url": "https://doi.org/10.21577/0103-5053.20230092",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Gas Sensing Nanomaterials and Sensors",
+      "ZnO doping and properties"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ruby Sheila Gines-Palestino"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Microstructural, Morphological, and Optical Study of Synthesis of ZnO and Pt‑ZnO Nanoparticles by a Simple Method Using Different Precipitating Agents"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of the Brazilian Chemical Society, 2023."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.21577/0103-5053.20230092"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gas Sensing Nanomaterials and Sensors"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "ZnO doping and properties"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Carlos Montalvo"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Guadalupe Luna‐Solano"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Luis Pablo Amador-Gómez"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Denis Cantú‐Lozano"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6K/6KT858QT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.21577/0103-5053.20230092"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

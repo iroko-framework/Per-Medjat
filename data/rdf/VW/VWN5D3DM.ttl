@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VWN5D3DM>
+  a schema:ScholarlyArticle ;
+  schema:name "Proverbial Oppression of Women in Yoruba African Culture: A Philosophical Overview" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VWN5D3DM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VWN5D3DM" ;
+  schema:description "This paper posits that there are elements of oppression in some of the Yoruba proverbs that relate to women. It argues that these proverbs violate the rights and dignity of women, and that they are indicators of discrimination against women in Yoruba culture. The paper further argues that the most fundamental but neglected aspect in gender discourse lies in the proverbial resources of the community. The paper provides textual evidence of proverbial oppression of the feminine gender in Yoruba culture, and also underscores their pernicious effects on the struggle for gender balance. The paper contends that there is an urgent need to review the assumptions underlying these proverbs." ;
+  schema:author "OA Balogun" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Thought and Practice" ;
+  schema:sameAs <https://doi.org/10.4314/tp.v2i1.57663> ;
+  dcterms:identifier "doi:10.4314/tp.v2i1.57663" ;
+  dcterms:subject "Language, Metaphor, and Cognition", "Literary Theory and Cultural Hermeneutics", "Postcolonial and Cultural Literary Studies" .

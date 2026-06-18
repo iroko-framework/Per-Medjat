@@ -1,0 +1,158 @@
+{
+  "key": "RVBZV289",
+  "uri": "https://medjat.irokosociety.org/id/library/RVBZV289",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RVBZV289",
+  "zotero": {
+    "group": "6479329",
+    "key": "RVBZV289",
+    "version": 4038,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RVBZV289",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Seleção de genótipos de trigo para rendimento de grãos e qualidade de panificação em ensaios multiambientes",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cristiano Lemes da Silva"
+      },
+      {
+        "role": "editor",
+        "name": "Elesandro Bornhofen"
+      },
+      {
+        "role": "editor",
+        "name": "Matheus Henrique Todeschini"
+      },
+      {
+        "role": "editor",
+        "name": "Anderson Simionato Milioli"
+      },
+      {
+        "role": "editor",
+        "name": "Diego Maciel Trevizan"
+      },
+      {
+        "role": "editor",
+        "name": "Giovani Benin"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Revista CERES",
+    "publicationTitle": "Revista CERES",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista CERES",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "62",
+    "issue": "4",
+    "pages": "360-371",
+    "abstract": "O objetivo deste estudo foi selecionar linhagens de trigo para qualidade de panificação e para rendimento de grãos (RG), em ensaios multiambientes, e identificar ambientes de teste ideais para a seleção. Foram avaliados 39 genótipos de trigo, sendo 18 linhagens e nove cultivares testemunhas, em 2010, e 11 linhagens e quatro cultivares testemunhas, em 2011, no Estado do Paraná. Algumas linhagens e locais não foram repetidos entre os dois anos. O delineamento experimental utilizado foi o de blocos casualizados, com três repetições. A metodologia, em gráfico biplot GGE (Genotype and Genotype-by-Environment), foi utilizada para a avaliação de genótipos e ambientes de teste. Na safra 2010, os locais de Nova Fátima, Pitangueiras e Ventania foram discriminantes (maximizaram a expressão do RG e diferenciação entre genótipos) e representativos do conjunto de ambientes avaliados. Em 2011, Rolândia e Astorga destacaram-se como ambientes ideais para seleção simultânea para RG e qualidade de panificação. As linhagens BIO-08528 e BIO-08228 foram classificadas como genótipos ideais para o RG e a concentração proteica dos grãos (CPG), respectivamente. Na safra 2011, as linhagens BIO-10161 e BIO-10141 foram superiores para RG e para qualidade de panificação, respectivamente. O teste de sedimentação SDS e a CPG correlacionaram-se entre si (r = 0,61**) e foram moderadamente associados com a força de glúten (r = 0,49** e 0,74**), indicando que podem ser utilizados na seleção indireta para qualidade de panificação.",
+    "doi": "10.1590/0034-737x201562040005",
+    "url": "https://doi.org/10.1590/0034-737x201562040005",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Genetics and Plant Breeding",
+      "Sugarcane Cultivation and Processing"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cristiano Lemes da Silva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Seleção de genótipos de trigo para rendimento de grãos e qualidade de panificação em ensaios multiambientes"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista CERES, 2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "360-371 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/0034-737x201562040005"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Genetics and Plant Breeding"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sugarcane Cultivation and Processing"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Elesandro Bornhofen"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Matheus Henrique Todeschini"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Anderson Simionato Milioli"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Diego Maciel Trevizan"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Giovani Benin"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RV/RVBZV289.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/0034-737x201562040005"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

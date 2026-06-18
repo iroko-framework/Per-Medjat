@@ -1,0 +1,107 @@
+{
+  "key": "RLQWFVLX",
+  "uri": "https://medjat.irokosociety.org/id/library/RLQWFVLX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RLQWFVLX",
+  "zotero": {
+    "group": "6479329",
+    "key": "RLQWFVLX",
+    "version": 1161,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RLQWFVLX",
+    "dateAdded": "2026-05-19T13:28:13Z",
+    "dateModified": "2026-05-19T13:28:13Z"
+  },
+  "display": {
+    "title": "The Abakuá Society and the African Diaspora",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David H. Brown"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "9-30",
+    "abstract": "",
+    "doi": "10.4324/9780429283789-3",
+    "url": "https://doi.org/10.4324/9780429283789-3",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David H. Brown"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Abakuá Society and the African Diaspora"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "9-30 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9780429283789-3"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RL/RLQWFVLX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9780429283789-3"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

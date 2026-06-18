@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MQFYPHDT>
+  a schema:ScholarlyArticle ;
+  schema:name "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MQFYPHDT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MQFYPHDT" ;
+  schema:description "Los rituales mortuorios del pasado constituyeron un fenómeno complejo, que expresaba múltiples dimensiones de los roles sociales de los inhumados. Analizamos el caso de la denominada Tumba 11 del cementerio de La Isla de Tilcara, provincia de Jujuy, ubicada tentativamente entre los siglos IX y XI. Se adelantan los resultados de los estudios técnicos realizados sobre un conjunto de piezas de oro incluidas en los materiales de la tumba. También se informa de los análisis químicos de otros objetos de oro, procedentes de Pueblo Viejo de La Cueva, en la misma provincia y asignados al mismo momento histórico." ;
+  schema:author "Myriam Tarragó" ;
+  schema:creator "Luis R. González", "Gimena Ávalos", "Marcelo Lamamí" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Boletín del Museo Chileno de Arte Precolombino" ;
+  schema:sameAs <https://doi.org/10.4067/s0718-68942010000200004> ;
+  dcterms:identifier "doi:10.4067/s0718-68942010000200004" ;
+  dcterms:subject "Latin American Legal and Economic Studies", "Migration, Education, Indigenous Social Dynamics", "Paleopathology and ancient diseases" .

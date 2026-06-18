@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JMFAVCR6>
+  a schema:ScholarlyArticle ;
+  schema:name "Cuba: tres disquisiciones etnológicas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JMFAVCR6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JMFAVCR6" ;
+  schema:description "La pob1aei6n de Cuba fue integrandose por grupos que arribaron a sus playas en oleadas venidas de las otras isw vecinas y de las masas continentales americana, europea, africana y asiatica. Cada contingente inmigratorio trajo, junto a los elementos de su cultura material, aquellos otros que formaban parte de su vida espiritual y, entre estos, la diversidad de creencias religiosas que habia ido desarrollandose en cada uno de esos nuc1eos humanos." ;
+  schema:author "Miguel Barnet" ;
+  schema:datePublished "1984" ;
+  schema:publisher "Iberoamericana – Nordic Journal of Latin American and Caribbean Studies" ;
+  schema:sameAs <https://doi.org/10.16993/iberoamericana.320> ;
+  dcterms:identifier "doi:10.16993/iberoamericana.320" ;
+  dcterms:subject "Cuban History and Society" .

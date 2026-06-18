@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8N8J6W8K>
+  a schema:Thesis ;
+  schema:name "The Biafran frontier, trade, slaves, and Aro society, c. 1750-1905" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8N8J6W8K> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8N8J6W8K" ;
+  schema:description "For 400 years, African societies supplied the labour needs of the Amencas through forced migration.This reality provokes basic questions, such as how Afnca supplied so many captives, the organization of the trade in the hinterland, the trade's political, social and cultural implications, its gender and other composition, and how African societies adjusted to the suppression of the tram-oceanic trafic in the 19\" century.This study addresses these questions as they relate to the Bight of Biafh, a major expurring region.The region is of special interest because its trade developed relatively late, expanded dramaticaily frorn the mid-1 8h century onwards in the absence of large centralized states, and drew a higher proportion of females than any other region.This enquiry describes the system that produced the individuals who were forced into Atlantic slavery.Based on marinent joumals, quantitative data sets, archival material, oral data, and scholarly literature, this work demonstrates that the nse and expansion of the Aro merchant group primarily influenced the character of the Biafian trade.Unlike previous studies, which explain the organization of the hinterland trade on the basis of presence or absence of state systerns, this anaiysis associates it with the dynamics of a trade diaspora Seeing Aro Settlements in the context of a trade diaspora thmws light on crucial aspects of trade organization, commercial politics, insritutiond change, and cultural development The gender structure of the Biafkan trade was a fwction of the prevailing socio-cultural processes and the specific configuration of slave marketsdomestic, Saharan, and Atlantic.Unlike existing studies of the slave trade which have sought to explain the modes of enslavement by reference to export sarnples alone, this work incorporates the categories of captives retained in in the region.The study maintains that the means by which a person becarne captive was the principal determinant of his or her destination." ;
+  schema:author "G. Ugo Nwokeji" ;
+  schema:datePublished "1999" ;
+  schema:publisher "TSpace (University of Toronto)" ;
+  dcterms:subject "African history and culture analysis", "African history and culture studies", "Historical and Contemporary Political Dynamics" .

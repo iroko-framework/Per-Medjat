@@ -1,0 +1,107 @@
+{
+  "key": "3LBJTJUR",
+  "uri": "https://medjat.irokosociety.org/id/library/3LBJTJUR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3LBJTJUR",
+  "zotero": {
+    "group": "6479329",
+    "key": "3LBJTJUR",
+    "version": 1152,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3LBJTJUR",
+    "dateAdded": "2026-05-19T13:28:10Z",
+    "dateModified": "2026-05-19T13:28:10Z"
+  },
+  "display": {
+    "title": "Appendix C: The Abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alan West-Durán"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "Lexington Books",
+    "journalAbbreviation": "Lexington Books",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "243-246",
+    "abstract": "",
+    "doi": "10.5771/9781793639837-243",
+    "url": "https://doi.org/10.5771/9781793639837-243",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alan West-Durán"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Appendix C: The Abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "243-246 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5771/9781793639837-243"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/3L/3LBJTJUR.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5771/9781793639837-243"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

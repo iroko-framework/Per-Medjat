@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M5DGT7P8>
+  a schema:Thesis ;
+  schema:name "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M5DGT7P8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M5DGT7P8" ;
+  schema:description "A literary work can be a means of delivering some messages to those who are interested in it. Literary works are presented in many ways: novels, prose, or drama. They can be enjoyed easily through audio visual performance or films. Films become appropriate media to describe the situations that are intended to tell. The researcher chooses a film entitled 12 Years a Slave to be analyzed. It is a 2013 British-American historical drama film directed by Steve McQueen. It is an adaptation of the 1853 slave narrative memoir entitled Twelve Years a Slave by Solomon Northup, a New York State-born free African American man who was kidnapped in Washington, D.C. in 1841 and sold into slavery. Northup worked on plantations in the state of Louisiana for twelve years before his release. His journey for 12 years including his struggle to be a free man is amazing. The researcher wants to reveal the human right violations found in the film through the setting and the plot of the story. The theory used is the new historicism theory. The writer uses library research to find the theories related to his research and some sources from the internet to support his analysis, and he arranges them descriptively. The writer also uses some books dealing with some basic and supporting theories about slavery and human right violations to analyze the film. By seeing the main message of this film which is that slavery is a crime and the cruelest way to employ people, the researcher needs to classify the human right violations in slavery based on the articles of the UN UDHR (United Nations Universal Declaration of Human Rights). There are nine violations occurring in the practice of slavery in this film. Those include violation in human rights on the employment, law, social status, identity, family, education, mobility, speech, and basic needs." ;
+  schema:author "Bagus Ardian Hakim" ;
+  schema:datePublished "2015" ;
+  dcterms:subject "African studies and sociopolitical issues", "Global Maritime and Colonial Histories" .

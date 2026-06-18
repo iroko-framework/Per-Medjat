@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RB8MGK5P>
+  a schema:Thesis ;
+  schema:name "Legislation and its effects on race relations in southeastern Indiana, 1785-1860." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RB8MGK5P> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RB8MGK5P" ;
+  schema:description "Residents of Indiana debated the status of Blacks from the time the area was part of the Northwest Territory until the Civil War. An anti-slavery faction gained control of the Indiana territorial legislature and assured Black’s rights through early statehood; however, from the mid-1820s until 1851 anti-black leaders passed repressive legislation. Officials in the southeastern Indiana counties and cities ignored the repressive laws unless events forced them to act. In 1820 one in four Blacks in Indiana lived in the southeastern counties of Jefferson, Clark, and Floyd. By 1850, those county’s seats - Madison, Jeffersonville, and New Albany, respectively - were the largest urban areas in Indiana. Businesses of those counties and cities relied on trade with the slave state of Kentucky, but also relied on the industry of their Black residents. For these two reasons, those counties and cities developed distinctively from the rest of the state." ;
+  schema:author "Derek D. Varble" ;
+  schema:datePublished "2014" ;
+  schema:sameAs <https://doi.org/10.18297/etd/1485> ;
+  dcterms:identifier "doi:10.18297/etd/1485" ;
+  dcterms:subject "American Constitutional Law and Politics", "American History and Culture" .

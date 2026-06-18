@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BLIHW292>
+  a schema:Thesis ;
+  schema:name "The politics of labour and development in Trinidad and Tobago" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BLIHW292> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BLIHW292" ;
+  schema:description "This thesis is a labour history of Trinidad and Tobago, concentrating on the period from 1937 to 1990. The study attempts to show that there is not a unified or homogenous working class, and for this reason both traditional Marxist and industrial relations theories are rejected. Instead, the history of labour focuses on how the working classes have been divided by factors such as race, gender, class structure and politics. These divisions are used as an explanation for the absence of a popular socialist party in the country. It concludes that the economic recession of the 1980s has led to the worst crisis in the history of the labour movement, but at the same time, this has laid the framework for a new strategy of social movement unionism, which attempts to constructively engage with, rather than ignore, divisions within the working classes.&#13;\\n&#13;\\nThe main sources of data were documentary and archival material, and in particular, reports made by the British TUC and Colonial Office, industrial relations legislation, and trade union and political party documents and manifestoes. For the contemporary period, these sources of data were supplemented by fifteen interviews with leading figures in trade union and labour politics.&#13;\\n&#13;\\nThe work is based on a macro approach to the study of labour, and as such constitutes a new and original approach to the study of labour in Trinidad and Tobago. In addition, more contemporary trade union documents and interviews provided the researcher with new and original material." ;
+  schema:author "Ray Kiely" ;
+  schema:datePublished "1991" ;
+  schema:publisher "Warwick Research Archive Portal (University of Warwick)" ;
+  dcterms:subject "Caribbean history, culture, and politics" .

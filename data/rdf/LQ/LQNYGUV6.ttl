@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LQNYGUV6>
+  a schema:ScholarlyArticle ;
+  schema:name "Sarita and the Revolution: Race and Cuban Cinema" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LQNYGUV6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LQNYGUV6" ;
+  schema:description "nnb" ;
+  schema:author "Haseenah Ebrahim" ;
+  schema:datePublished "2007" ;
+  schema:publisher "European Review of Latin American and Caribbean Studies | Revista Europea de Estudios Latinoamericanos y del Caribe" ;
+  schema:sameAs <https://doi.org/10.18352/erlacs.9642> ;
+  dcterms:identifier "doi:10.18352/erlacs.9642" ;
+  dcterms:subject "Cinema and Media Studies", "Cuban History and Society" .

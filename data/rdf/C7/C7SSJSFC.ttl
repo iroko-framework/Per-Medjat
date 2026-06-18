@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/C7SSJSFC>
+  a schema:Chapter ;
+  schema:name "Spirited Identities: Creole Religions, Creole/U.S. Latina Literature, and the Initiated Reader" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C7SSJSFC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C7SSJSFC" ;
+  schema:description "In nineteenth-century Caribbean, while the three major African-derived religions in Cuba—La Regla de Ocha (the Rule of the Orisha) or Santería (the way of the saints), Regla de Palo, and the Abakuá Secret Society—were undergoing a consolidation, Spiritualist and Spiritist practices of North America and Europe were making their way across the seas to the region and to Latin America for yet another spiritual transformation. The enthusiasm for Spiritist philosophical, religious, and healing notions were a response to several important factors in nineteenth- and twentieth-century Caribbean societies, among them the social upheaval created by the quest for democracy and the Diaspora of Caribbean peoples to the United States, a situation not unlike the present day. The Creolization process led to the creation of distinctly Cuban and Puerto Rican varieties of Spiritism—Espiritismo—and, in the Diaspora to the United States, the combination of Spiritism and Santería, often referred to as Santerismo.KeywordsSecret SocietySpirit WorldSpiritual IntelligenceAncestor SpiritSpirit GuideThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves." ;
+  schema:author "Margarite Fernández Olmos" ;
+  schema:datePublished "2007" ;
+  schema:sameAs <https://doi.org/10.1057/9780230609266_4> ;
+  dcterms:identifier "doi:10.1057/9780230609266_4" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Latin American and Latino Studies" .

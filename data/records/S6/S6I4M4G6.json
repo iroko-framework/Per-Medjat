@@ -1,0 +1,121 @@
+{
+  "key": "S6I4M4G6",
+  "uri": "https://medjat.irokosociety.org/id/library/S6I4M4G6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=S6I4M4G6",
+  "zotero": {
+    "group": "6479329",
+    "key": "S6I4M4G6",
+    "version": 2446,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/S6I4M4G6",
+    "dateAdded": "2026-05-20T01:05:48Z",
+    "dateModified": "2026-05-20T02:00:42Z"
+  },
+  "display": {
+    "title": "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Herskovits, Melville J."
+      }
+    ],
+    "year": "1937",
+    "date": "1937",
+    "publisher": "American Anthropologist",
+    "publicationTitle": "American Anthropologist",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.1525/aa.1937.39.4.02a00080",
+    "url": "https://doi.org/10.1525/aa.1937.39.4.02a00080",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Syncretic/Creole"
+    ],
+    "themes": [
+      "Lineage",
+      "Material Culture"
+    ],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "digitally-held",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Herskovits, Melville J."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "American Anthropologist, 1937."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1525/aa.1937.39.4.02a00080"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Lineage"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Material Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Syncretic/Creole"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/S6/S6I4M4G6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1525/aa.1937.39.4.02a00080"
+    ],
+    "about": [
+      {
+        "label": "Syncretic/Creole",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

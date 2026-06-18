@@ -1,0 +1,113 @@
+{
+  "key": "JN5JRLSL",
+  "uri": "https://medjat.irokosociety.org/id/library/JN5JRLSL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JN5JRLSL",
+  "zotero": {
+    "group": "6479329",
+    "key": "JN5JRLSL",
+    "version": 1431,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JN5JRLSL",
+    "dateAdded": "2026-05-19T13:29:12Z",
+    "dateModified": "2026-05-19T13:29:12Z"
+  },
+  "display": {
+    "title": "Converting and Disputing the Role of Traditional Cultural Institutions in Cameroon’s Cross River Basin, 1916–1961",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Henry Kam Kah"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Asian Journal of Peacebuilding",
+    "publicationTitle": "Asian Journal of Peacebuilding",
+    "bookTitle": "",
+    "journalAbbreviation": "Asian Journal of Peacebuilding",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "2",
+    "pages": "267-287",
+    "abstract": "This article probes the British and missionary misinterpretation and presentation of the role of Ekpe, Nfam, and Obasinjom cultural institutions as irrelevant in the governance of people of the Cross River Basin of Cameroon. The British colonial enterprise in the area was sustained on a seemingly conscious yet uncritical effort to label these institutions as mainly ceremonial and food consuming in nature. This impression notwithstanding, these institutions remained popular and continuously spread into the nooks and crannies of the Cross River Basin of Cameroon and beyond.",
+    "doi": "10.18588/201711.00a032",
+    "url": "https://doi.org/10.18588/201711.00a032",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Henry Kam Kah"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Converting and Disputing the Role of Traditional Cultural Institutions in Cameroon’s Cross River Basin, 1916–1961"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Asian Journal of Peacebuilding, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "267-287 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18588/201711.00a032"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JN/JN5JRLSL.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18588/201711.00a032"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

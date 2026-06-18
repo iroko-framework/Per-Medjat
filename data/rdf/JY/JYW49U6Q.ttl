@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JYW49U6Q>
+  a schema:Thesis ;
+  schema:name "Escravos e terras entre posses e títulos: a construção social do direito de propriedade no Brasil (1835-1889)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JYW49U6Q> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JYW49U6Q" ;
+  schema:description "This thesis aims to analyze the social construction of relations between people and things in Brazil between 1835 and 1889. For this purpose, I analyzed 74 legal proceedings that were processed before the Court of Appeals of Rio de Janeiro and which discussed dominion and possession over slaves and land. In the first chapter, I analyze the contours that the legal category of possession acquired in nineteenth-century Brazil. Then I analyze the role of social recognition in the configuration of possessory situations. Finally, I describe how interpretations of possession theories delegitimized acts of land usage by certain groups -indigenous and aggregates -as possessory acts. In the second chapter, I analyze the debates over domain titles and the process of document production by parties in legal proceedings. I also analyze the role of judicial demarcations in this production process and how titles issued by married women were often delegitimized. In the end, I discuss the new configurations that debates over titles acquired in the last decades of the nineteenth century. In the third chapter, I analyze cases of illegal and irregular acquisitions of slaves and lands. I conclude that the process of construction of private property in Brazil during the nineteenth century built upon the pre-existing structure of ius commune by resignifying its cathegories." ;
+  schema:author "Mariana Armond Dias Paes" ;
+  schema:datePublished "2018" ;
+  schema:sameAs <https://doi.org/10.11606/t.2.2018.tde-06112020-183430> ;
+  dcterms:identifier "doi:10.11606/t.2.2018.tde-06112020-183430" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Development, Ethics, and Society", "History of Colonial Brazil" .

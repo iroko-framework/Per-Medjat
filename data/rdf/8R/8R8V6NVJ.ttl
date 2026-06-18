@@ -1,0 +1,19 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8R8V6NVJ>
+  a schema:Book ;
+  schema:name "Obeah, Orisa, and religious identity in Trinidad. Volume II, Orisa: Africana nations and the power of black sacred imagination" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8R8V6NVJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8R8V6NVJ" ;
+  schema:description "\"Obeah, Orisa, and Religious Identity in Trinidad is an expansive two-volume examination of social imaginaries concerning Obeah and Yoruba-Orisa from colonialism to the present. Analyzing their entangled histories and systems of devotion, Tracey E. Hucks and Dianne M. Stewart articulate how these religions were criminalized during slavery and colonialism yet still demonstrated autonomous modes of expression and self-defense. In Volume II, Orisa, Stewart scrutinizes the West African heritage and religious imagination of Yoruba-Orisa devotees in Trinidad from the mid-nineteenth century to the present and explores their meaning-making traditions in the wake of slavery and colonialism. She investigates the pivotal periods of nineteenth-century liberated African resettlement, the twentieth-century Black Power movement, and subsequent campaigns for the civil right to religious freedom in Trinidad. Disrupting syncretism frameworks, Stewart probes the salience of Africa as a religious symbol and the prominence of Africana nations and religious nationalisms in projects of black belonging and identity formation, including those of Orisa mothers. Contributing to global womanist thought and activism, Yoruba-Orisa spiritual mothers disclose the fullness of the black religious imagination's affective, hermeneutic, and political capacities.\"-- Provided by publisher." ;
+  schema:author "Stewart, Dianne M" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Duke University Press" ;
+  schema:sameAs <https://doi.org/10.1515/9781478092773> ;
+  dcterms:identifier "doi:10.1515/9781478092773" ;
+  dcterms:identifier "isbn:978-1-4780-2215-2" ;
+  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

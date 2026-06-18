@@ -1,0 +1,102 @@
+{
+  "key": "ULIFXK76",
+  "uri": "https://medjat.irokosociety.org/id/library/ULIFXK76",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ULIFXK76",
+  "zotero": {
+    "group": "6479329",
+    "key": "ULIFXK76",
+    "version": 1281,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ULIFXK76",
+    "dateAdded": "2026-05-19T13:28:43Z",
+    "dateModified": "2026-05-19T13:28:43Z"
+  },
+  "display": {
+    "title": "Afro-Cuban religions and the arts a dog has four legs but takes only one path",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "West-Durán, Alan 1953-"
+      }
+    ],
+    "year": "",
+    "date": "",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"This book examines the philosophical and spiritual facets of religions like Regla de Ocha, Palo, Abakuá, and Vodou, and how deeply embedded they are in Cuban popular culture and art, be it music, the visual arts, film, or literature.\"--",
+    "doi": "",
+    "url": "https://openalex.org/W7114302771",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "West-Durán, Alan 1953-"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Afro-Cuban religions and the arts a dog has four legs but takes only one path"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/UL/ULIFXK76.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

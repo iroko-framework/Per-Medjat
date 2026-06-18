@@ -1,0 +1,114 @@
+{
+  "key": "59CA2AEZ",
+  "uri": "https://medjat.irokosociety.org/id/library/59CA2AEZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=59CA2AEZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "59CA2AEZ",
+    "version": 1629,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/59CA2AEZ",
+    "dateAdded": "2026-05-19T14:17:17Z",
+    "dateModified": "2026-05-19T14:17:17Z"
+  },
+  "display": {
+    "title": "La madame et la mademoiselle: Creole women in Louisiana, 1718-1865",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Katy Morlas"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In Louisiana during the eighteenth and nineteenth centuries, a unique group of people known as Creole created a culture that differed from the rest of the United States. Descendants of the first French and Spanish settlers, Creoles both black and white struggled to maintain their heritage despite an influx of Anglo-American Protestants into Louisiana; women in particular sought to preserve their culture. Although black Creole women have received significant attention, their white counterparts remain virtually absent in scholarship. This thesis focuses on the lives of white Creole women in the River Parishes and New Orleans and seeks to recreate the lives of both independent women plantation owners as well as women who served as wives and mothers. Creole women in Louisiana differed from women in the rest of the United States in their language, religion, legal system, and traditions; they also resided in a more racially fluid environment. Creole women spoke French, and most refused to allow their children to learn English. They were governed by civil rather than common law, which included a system of community property that enabled them to own property, resulting in a large number of female plantation owners. This legal system also gave them the right to draft their own wills, obtain legal separations from their husbands, and act as private business owners. Catholicism provided these women with the Blessed Virgin Mary, a powerful model of female authority and virtue absent in the Protestantism dominant in the rest of the country at the time. Creole women often had family members who were both black and white and faced complex tensions that arose from the mixing of races. Unlike many women in the rest of the South, Creole women plantation owners viewed themselves as masters capable of running a plantation and disciplining their slaves without hesitation. All these factors created distinct differences between Creole women in southeast Louisiana and the women in the rest of their state and nation.",
+    "doi": "10.31390/gradschool_theses.908",
+    "url": "https://doi.org/10.31390/gradschool_theses.908",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Katy Morlas"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La madame et la mademoiselle: Creole women in Louisiana, 1718-1865"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2005."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_theses.908"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/59/59CA2AEZ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_theses.908"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

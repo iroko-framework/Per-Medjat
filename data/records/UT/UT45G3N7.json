@@ -1,0 +1,107 @@
+{
+  "key": "UT45G3N7",
+  "uri": "https://medjat.irokosociety.org/id/library/UT45G3N7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=UT45G3N7",
+  "zotero": {
+    "group": "6479329",
+    "key": "UT45G3N7",
+    "version": 2343,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/UT45G3N7",
+    "dateAdded": "2026-05-19T14:20:06Z",
+    "dateModified": "2026-05-19T14:20:06Z"
+  },
+  "display": {
+    "title": "Leadership and the gospel in the early Pauline churches",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Malcolm Bruce Button"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Boloka Institutional Repository (North-west University)",
+    "publicationTitle": "Boloka Institutional Repository (North-west University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Boloka Institutional Repository (North-west University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Leadership and the gospel in the early Pauline churches.The aim of this study is to gain insight into the leadership processes and dynamics operative in the early Pauline churches.The study is based on Paul's Early Letters (i.e. 1 & 2 Thessalonians, Galatians, 1 & 2 Corinthians, and Romans) and uses a combination of socio-historical and exegetical approaches.The idea that leadership in the early Pauline churches was determined by wealth, social status, and patronage is prominent in the literature, and is examined in detail.Recent research on the economic stratification of first-century Graeco-Roman society challenges the idea that leadership in the early Pauline churches was exercised by wealthy patrons.It can be observed in the Early Letters that Paul's leadership role was the most prominent one, and that other leaders, both local and itinerant, were regarded as his coworkers.The study therefore examines Paul's thinking about his own leadership role, especially his ministry aims and methods.Two aims stand out: (a) that believers appear blameless at the return of Christ; and (b) that the body of Christ be built up.Paul saw himself as an apostle and as God's coworker; he was convinced that the gospel, as God's power for salvation, received through faith, was the means by which these aims would be accomplished.Therefore his ministry was first and foremost a ministry of the gospel which aimed to establish people in faith.Passages relating to Paul's coworkers show that they were ministers of the gospel in their own right, and that they shared in all aspects of Paul's ministry except those pertaining specifically to his apostleship.Paul often refers to his ministry as a grace that he has received from God.The ministry of others is similarly understood in terms of grace .This observation leads to a study of divine equipping in the ministry of Paul and his coworkers.I conclude that, for Paul, the work of the Holy Spirit in empowering leaders and making their work effective was fundamental to authentic ministry/leadership.Finally, theoretical perspectives from leadership studies and social psychology are used to bring conceptual unity to the exegetical results.A definition of leadership is formulated and the wellknown power/interaction model of French and Raven is adapted and used to analyse leadership in the early Pauline churches.The aim is to understand both theological and socio-historical aspects of leadership and how they interacted in the early Pauline communities.I conclude that leadership in these communities entailed a social process in which the most important forms of influence were spiritual and empowering.A local leadership role had begun to develop, but was not yet formalized into an official structure.Overall, I conclude that the gospel of Jesus Christ, as God's power for the salvation of all who believe, was the central dynamic of leadership in the early Pauline churches.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10394/10832",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Biblical Studies and Interpretation",
+      "Christian Theology and Mission",
+      "Religion, Society, and Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Malcolm Bruce Button"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Leadership and the gospel in the early Pauline churches"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Boloka Institutional Repository (North-west University), 2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biblical Studies and Interpretation"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Christian Theology and Mission"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion, Society, and Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/UT/UT45G3N7.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

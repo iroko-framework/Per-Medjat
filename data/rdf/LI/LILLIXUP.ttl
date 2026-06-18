@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LILLIXUP>
+  a schema:Thesis ;
+  schema:name "Rethinking the concept of race's conundrums in African philosophy." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LILLIXUP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LILLIXUP" ;
+  schema:description "The pattern of discourse in the history of African philosophy resulted from historic events such as slavery, colonialism, race and racism.Historically therefore, the concept of race played a significant part in the existence of African philosophy.Recent years have seen a series of studies on the concept of race, with philosophers at the lead of this research development.These philosophers, including" ;
+  schema:author "Ovett Nwosimiri" ;
+  schema:datePublished "2015" ;
+  schema:publisher "ResearchSpace (University of KwaZulu-Natal)" ;
+  dcterms:subject "African cultural and philosophical studies" .

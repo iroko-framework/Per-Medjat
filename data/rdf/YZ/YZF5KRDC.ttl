@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YZF5KRDC>
+  a schema:ScholarlyArticle ;
+  schema:name "Análisis de competitividad sistémica de las mypes bajo un enfoque de productividad, innovación e industria 4.0" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YZF5KRDC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YZF5KRDC" ;
+  schema:description "El objetivo del presente es determinar la forma de medir la asociación y correlación del índice de productividad, lo grados de adopción de innovaciones y el uso del comercio electrónico de las mypes. Además, de un análisis de competitividad sistémico a partir de los resultados del cuestionario aplicado a 464 directores de las mypes de la región Córdoba, Yanga y Fortín utilizando en el periodo de inicio de la pandemia. Donde se comprobó la existencia de una relación positiva entre las variables sistémicas de la innovación y la productividad. Abstract The purpose of this investigative research is to understand how the application of ISO 2600 Standards influence productivity within micro and small enterprises located in the municipality of Veracruz, in the State of Veracruz, Mexico. With regards to the n)ythodology, the analysis of 502 enterprises was performed with the use of an instrument which was validated and integrated with 230 items in seven parts. To carry out this investigation, this research focused on questions 33 and 34 (Posada, Penta, &amp; Aguilar, 2020). The results that were obtained tend to demonstrate the existence of a positive correlation mean; between the , application of ISO 26000 standards and productivity in micro and small enterprises." ;
+  schema:author "Alejandro De Jesús Hernández-Peralta" ;
+  schema:creator "Juan Carlos Crudet Balderas", "Jesabel Gómez Sánchez", "Ivette Pérez Hernández" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Revista Relayn - Micro y Pequeñas empresas en Latinoamérica" ;
+  schema:sameAs <https://doi.org/10.46990/relayn.2021.5.1.20> ;
+  dcterms:identifier "doi:10.46990/relayn.2021.5.1.20" ;
+  dcterms:subject "Business, Innovation, and Economy", "Diverse Applied Research Studies", "Educational and Organizational Development" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/775P388K>
+  a schema:Thesis ;
+  schema:name "Caminhos da emancipação: redes solidárias de libertação dos escravos na região central do Espírito Santo oitocentista" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=775P388K> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:775P388K" ;
+  schema:description "Throughout the nineteenth century, several instances of Brazilian power interacted with the slave communities through laws enacted now to control their lives, sometimes to establish parameters for the everyday freedom and civil. The cities, towns, farms, villages and forums were centers of social and political relations of slaves, freedmen and free, where such norms, interests, tensions, negotiations and agreements marked the everyday. Given this universe, the dissertation seeks, first, to describe the legal structures that has standardized and controlled the lives of slaves and others, focusing on the central region of the Imperial Espírito Santo. Various aspects of work and social, cultural and everyday life of slaves and other social groups have been addressed. Given the context and local legal universe, the second part of the work advances to national regulatory frameworks and analyzes a wide practical experience of slaves and their communities in a relationship with a legal and institutional framework that became known as the gradual process of liberation embraced by Imperial Government and carried out by the courts in the provinces. The quantitative and qualitative analysis of lawsuits and relative freedom allowed an overview of aspects of the socioeconomic profile of the slaves who had their names enrolled in government programs release. The analysis of these struggles led to the observation of the behaviors, motivations and ways of acting of captives, their families and other partners. They sought, in justice, the civil freedom, understood as another way of life improvement and social mobility and settlement of conflicts of interest experienced in master-slave relationship. Founded in Brazilian historiography latest, which seeks to understand such struggles for freedom, the dissertation describes the structures of control and official paths of emancipation and narrates stories of liberations Immersed in solidarity networks that were recorded on local laws, cases concerning freedom, police register, Espírito Santo's newspapers of the nineteenth century, among other sources." ;
+  schema:author "Michel Dal Col Costa" ;
+  schema:datePublished "2013" ;
+  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Literature, Culture, and Criticism" .

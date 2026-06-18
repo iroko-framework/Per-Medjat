@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FBCP777L>
+  a schema:Thesis ;
+  schema:name "Policing Slavery: Order and the Development of Early Nineteenth-Century New Orleans and Salvador" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FBCP777L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FBCP777L" ;
+  schema:description "My dissertation explores the development of policing and slavery in two early nineteenth-century Atlantic cities. This project engages regionally distinct histories through an examination of legislative and police records in New Orleans, Louisiana, and Salvador, Bahia. Through these sources, my dissertation holds that the development of the theories and practices that guided “public order” emerged in similar ways in these Atlantic slaveholding cities. Enslaved people and their actions played an integral role in the evolution of “good order” and its policing. Legislators created laws and institutions to police enslaved people and promote order. In these instances, local government policed slavery through the surveilling and arresting of enslaved people. By mid-century, the prerogative of policing slavery created a comprehensive bureaucratic structure that policed many individuals within the community, not just slaves. In New Orleans and Salvador, slavery was an important part of policing, but not just in the sense we sometimes assume: as a panicked reaction to real or imagined slave rebellions. As the commercial and demographic development of cities created opportunities for enslaved people, local legislation and institutions formed an important part of policing slavery in New Orleans and Salvador. Local government officials—regional and municipal legislators—responded by passing laws that restricted not only where and how enslaved people worked and lived, but also the police that enforced these laws. Police forces, once created, interpreted and applied the laws passed by legislators. They surveilled and arrested individuals, and their actions sometimes triggered further legislative reforms. Thusly, police forces became representations of public well-being, particularly in relation to slavery. By mid-century, new conceptions of public order made the police an accepted part of urban slavery and urban life more generally in New Orleans and Salvador. At the same time, the police surveilled and arrested free people, not just enslaved people, in the name of promoting orderly slavery." ;
+  schema:author "Gregory K Weimer" ;
+  schema:datePublished "2015" ;
+  schema:sameAs <https://doi.org/10.25148/etd.fidc000107> ;
+  dcterms:identifier "doi:10.25148/etd.fidc000107" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Cuban History and Society" .

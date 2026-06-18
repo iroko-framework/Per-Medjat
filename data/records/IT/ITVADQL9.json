@@ -1,0 +1,134 @@
+{
+  "key": "ITVADQL9",
+  "uri": "https://medjat.irokosociety.org/id/library/ITVADQL9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ITVADQL9",
+  "zotero": {
+    "group": "6479329",
+    "key": "ITVADQL9",
+    "version": 3456,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ITVADQL9",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Migrants and their vulnerability to human trafficking, modern slavery and forced labour",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "John Latham-Sprinkle"
+      },
+      {
+        "role": "editor",
+        "name": "Fiona David"
+      },
+      {
+        "role": "editor",
+        "name": "Katharine Bryant"
+      },
+      {
+        "role": "editor",
+        "name": "Jacqueline Joudo Larsen"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Ghent University Academic Bibliography (Ghent University)",
+    "publicationTitle": "Ghent University Academic Bibliography (Ghent University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Ghent University Academic Bibliography (Ghent University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "What makes migrants vulnerable to human trafficking and associated forms of exploitation and abuse? A new study, undertaken by Minderoo Foundation’s Walk Free initiative and IOM, examines the connection between migration and modern slavery, and focuses on which migrants are most vulnerable, and in what circumstances, to modern slavery. The report explores various sites of vulnerability where migrants are particularly susceptible to human trafficking, forced labour and modern slavery. These include private dwellings, border crossings, irregular migration routes and conflict zones. The report illustrates that migrants are most vulnerable to exploitation in situations where the authority of the State and society are unable to protect them. It also analyses the characteristics of victims that are thought to contribute to their vulnerability. In addition, the study explains some characteristics of offenders, including worldviews that allow them to rationalize the exploitation of others. Lastly, the study looks at examples of enabling environments or contexts, such as restrictive immigration policies, that engender or exacerbate vulnerability. Prepared for the Alliance 8.7 Action Group on Migration, the report examines the recent research literature through a crime prevention lens in order to identify a set of salient features that can help understand the relevant connections between migration and vulnerability to forced labour, human trafficking and modern slavery. This study was made possible through funding provided by the Government of the United Kingdom through UK aid.",
+    "doi": "",
+    "url": "https://biblio.ugent.be/publication/8636089/file/8636091",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Migration and Labor Dynamics",
+      "Migration, Refugees, and Integration",
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "John Latham-Sprinkle"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Migrants and their vulnerability to human trafficking, modern slavery and forced labour"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ghent University Academic Bibliography (Ghent University), 2019."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration and Labor Dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Refugees, and Integration"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Fiona David"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Katharine Bryant"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jacqueline Joudo Larsen"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/IT/ITVADQL9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

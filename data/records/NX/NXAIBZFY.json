@@ -1,0 +1,114 @@
+{
+  "key": "NXAIBZFY",
+  "uri": "https://medjat.irokosociety.org/id/library/NXAIBZFY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NXAIBZFY",
+  "zotero": {
+    "group": "6479329",
+    "key": "NXAIBZFY",
+    "version": 3334,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NXAIBZFY",
+    "dateAdded": "2026-05-20T16:33:57Z",
+    "dateModified": "2026-05-20T16:33:57Z"
+  },
+  "display": {
+    "title": "The Haitian Revolution and Jean-Jacques Dessalines: The End of History and the Last Man Standing",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Paul C. Mocombe"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Philosophy study",
+    "publicationTitle": "Philosophy study",
+    "bookTitle": "",
+    "journalAbbreviation": "Philosophy study",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "13",
+    "issue": "5",
+    "pages": "",
+    "abstract": "This work, using a structurationist approach, phenomenological structuralism, argues that the Haitian Revolution and Jean-Jacques Dessalines represented the first embodiment of Alexandre Kojve's \"End of History\" thesis.Following the Haitian Revolution, which is a revolt against slavery and mercantilist capitalism, the founder of the country, Jean-Jacques Dessalines, attempted to synthesize three forms of system and social integration on the island in order to constitute the nation of Haiti: the mercantilist and liberal capitalism of the Affranchis, petit-bourgeois blacks and mulatto elites, respectively; and the Lakouism, communism, of the African majority on the island.In this sense, Dessalines represented the first embodiment of Kojve's end of history Hegelian thesis.Using a structurationist, structural Marxist, understanding of practical consciousness constitution, the work explores the origins and basis for Dessalines's social, political, and economic policies to that end.The death of Dessalines, I conclude, would undermine this revolutionary impetus of the Haitian Revolution, rendering it insignificant, and converted Haiti into the so-called poorest country in the Western Hemisphere under American neoliberal capitalist hegemony.",
+    "doi": "10.17265/2159-5313/2023.05.003",
+    "url": "https://doi.org/10.17265/2159-5313/2023.05.003",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Paul C. Mocombe"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Haitian Revolution and Jean-Jacques Dessalines: The End of History and the Last Man Standing"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Philosophy study, 2023."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.17265/2159-5313/2023.05.003"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NX/NXAIBZFY.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.17265/2159-5313/2023.05.003"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

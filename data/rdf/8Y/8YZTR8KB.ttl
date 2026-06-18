@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8YZTR8KB>
+  a schema:Thesis ;
+  schema:name "Milk matters: contemporary representations of breast-giving, property, and the self" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8YZTR8KB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8YZTR8KB" ;
+  schema:description "This dissertation insists that by studying literary scenes of breastfeeding we can learn about women's relationships with property and potential for self-determination.The argument uses six texts ranging from antebellum slave narratives, which contest the right of women to nurse their own children, to recent fiction from India that simultaneously venerates maternity while regulating its physical attributes through oppressive laws of caste and marriage.These texts portray breastmilk as property that can be stolen, sold, or otherwise manipulated, as are the lactating characters that must claim their milk or have it used against them.Rather than depicting apolitical maternal bonds, these portrayals emphasize the economic and material elements of breastfeeding by certain women-wives, slaves, servants, and outcastes-who challenge their subjugated status and assert their agency by \"breast-giving,\" my term for nursing to achieve personal or vii political efficacy.This activity, I argue, is akin to \"stealing oneself,\" slave vernacular for escape, which underscores the significance of so-called property determining its employment by controlling what its body produces.My analyses illuminate both the hierarchies that distinguish persons from property in these texts and the exigency of women's subversive declarations of self within them." ;
+  schema:author "Lynn Nicole Makau" ;
+  schema:datePublished "2005" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  dcterms:subject "Culinary Culture and Tourism" .

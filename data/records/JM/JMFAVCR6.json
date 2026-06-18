@@ -1,0 +1,107 @@
+{
+  "key": "JMFAVCR6",
+  "uri": "https://medjat.irokosociety.org/id/library/JMFAVCR6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JMFAVCR6",
+  "zotero": {
+    "group": "6479329",
+    "key": "JMFAVCR6",
+    "version": 1425,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JMFAVCR6",
+    "dateAdded": "2026-05-19T13:29:10Z",
+    "dateModified": "2026-05-19T13:29:10Z"
+  },
+  "display": {
+    "title": "Cuba: tres disquisiciones etnológicas",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Miguel Barnet"
+      }
+    ],
+    "year": "1984",
+    "date": "1984",
+    "publisher": "Iberoamericana – Nordic Journal of Latin American and Caribbean Studies",
+    "publicationTitle": "Iberoamericana – Nordic Journal of Latin American and Caribbean Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "Iberoamericana – Nordic Journal of Latin American and Caribbean Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "13",
+    "issue": "2",
+    "pages": "61-61",
+    "abstract": "La pob1aei6n de Cuba fue integrandose por grupos que arribaron a sus playas en oleadas venidas de las otras isw vecinas y de las masas continentales americana, europea, africana y asiatica. Cada contingente inmigratorio trajo, junto a los elementos de su cultura material, aquellos otros que formaban parte de su vida espiritual y, entre estos, la diversidad de creencias religiosas que habia ido desarrollandose en cada uno de esos nuc1eos humanos.",
+    "doi": "10.16993/iberoamericana.320",
+    "url": "https://doi.org/10.16993/iberoamericana.320",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Miguel Barnet"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cuba: tres disquisiciones etnológicas"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Iberoamericana – Nordic Journal of Latin American and Caribbean Studies, 1984."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "61-61 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.16993/iberoamericana.320"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JM/JMFAVCR6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.16993/iberoamericana.320"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

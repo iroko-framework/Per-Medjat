@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RBV2DQJC>
+  a schema:ScholarlyArticle ;
+  schema:name "The Abakua Secret Society in Cuba: Language and Culture" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RBV2DQJC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RBV2DQJC" ;
+  schema:author "Rafael A. Núñez Cedeño" ;
+  schema:datePublished "1988" ;
+  schema:publisher "Hispania" ;
+  schema:sameAs <https://doi.org/10.2307/343234> ;
+  dcterms:identifier "doi:10.2307/343234" ;
+  dcterms:subject "Cuban History and Society" .

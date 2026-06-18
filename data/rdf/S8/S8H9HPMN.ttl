@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/S8H9HPMN>
+  a schema:Thesis ;
+  schema:name "The creative writer and West Indian society : Jamaica 1900-1950" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=S8H9HPMN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:S8H9HPMN" ;
+  schema:description "Reinhard Sander, whose help and support at every stage of this project has been invaluable.We first met as a result of our mutual research interests and over the years the checking of quotations and footnotes has become a regular feature of our life together.Apart from allowing" ;
+  schema:author "Claudette Rhonda Cobham-Sander" ;
+  schema:datePublished "1981" ;
+  schema:publisher "St Andrews Research Repository (St Andrews Research Repository)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Migration, Ethnicity, and Economy" .

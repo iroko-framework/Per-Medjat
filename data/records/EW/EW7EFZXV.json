@@ -1,0 +1,108 @@
+{
+  "key": "EW7EFZXV",
+  "uri": "https://medjat.irokosociety.org/id/library/EW7EFZXV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EW7EFZXV",
+  "zotero": {
+    "group": "6479329",
+    "key": "EW7EFZXV",
+    "version": 4035,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EW7EFZXV",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "“Negros, aquí? Blacks, here?”: Blackness in the Mexican Archive",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Pablo Miguel Sierra Silva"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "InVisible Culture",
+    "publicationTitle": "InVisible Culture",
+    "bookTitle": "",
+    "journalAbbreviation": "InVisible Culture",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.47761/494a02f6.588e2d78",
+    "url": "https://doi.org/10.47761/494a02f6.588e2d78",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Pablo Miguel Sierra Silva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "“Negros, aquí? Blacks, here?”: Blackness in the Mexican Archive"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "InVisible Culture, 2020."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.47761/494a02f6.588e2d78"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EW/EW7EFZXV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.47761/494a02f6.588e2d78"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

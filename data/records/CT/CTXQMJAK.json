@@ -1,0 +1,121 @@
+{
+  "key": "CTXQMJAK",
+  "uri": "https://medjat.irokosociety.org/id/library/CTXQMJAK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CTXQMJAK",
+  "zotero": {
+    "group": "6479329",
+    "key": "CTXQMJAK",
+    "version": 1182,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CTXQMJAK",
+    "dateAdded": "2026-05-19T13:28:21Z",
+    "dateModified": "2026-05-19T13:28:21Z"
+  },
+  "display": {
+    "title": "Sample Translation: The Sacred Language of the Abakuá ¹",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "P. González Gómez-Cásseres"
+      },
+      {
+        "role": "editor",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Afro-Hispanic review",
+    "publicationTitle": "Afro-Hispanic review",
+    "bookTitle": "",
+    "journalAbbreviation": "Afro-Hispanic review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "35",
+    "issue": "2",
+    "pages": "124",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W2955223333",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Language and cultural evolution",
+      "Language, Linguistics, Cultural Analysis",
+      "Syntax, Semantics, Linguistic Variation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "P. González Gómez-Cásseres"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sample Translation: The Sacred Language of the Abakuá ¹"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Afro-Hispanic review, 2016."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "124 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language and cultural evolution"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Syntax, Semantics, Linguistic Variation"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/CT/CTXQMJAK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

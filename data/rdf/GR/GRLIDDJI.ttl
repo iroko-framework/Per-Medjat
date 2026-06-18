@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GRLIDDJI>
+  a schema:ScholarlyArticle ;
+  schema:name "African traditional religions in the Caribbean and Brazil: models of religious tourism and impacts of commodification" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GRLIDDJI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GRLIDDJI" ;
+  schema:description "African traditional religions (ATRs) in the Caribbean and Brazil are currently undergoing processes of transformation and commodification due to the influx of religious tourism. This research note reflects preliminary findings on the marketing of ATRs in four locales: Santería (Cuba), Candomblé (Brazil), Vodou (Haiti), and Orisha (Trinidad). Methods employed include participant observation, data collection, and textual analysis. This research can assist in assessing the overall impact tourism ha" ;
+  schema:author "Hernandez-Ramdwar, Camille" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Routledge" ;
+  schema:sameAs <https://doi.org/10.1080/1743873X.2013.765750> ;
+  dcterms:identifier "doi:10.1080/1743873X.2013.765750" .

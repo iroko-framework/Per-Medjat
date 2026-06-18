@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8GULIHR7>
+  a schema:ScholarlyArticle ;
+  schema:name "Trois capitaines pour un empereur ! Histoires de bizango" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8GULIHR7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8GULIHR7" ;
+  schema:description "Depuis 2007, d’innombrables statues dites bizango, du nom d’une société secrète en Haïti, ont surgi sur la scène internationale du marché de l’art et des musées sans que leur généalogie ou l’existence d’une culture matérielle de ces sociétés aient été questionnées. À partir de l’acquisition d’une de ces statues par le musée du quai Branly, cet article se propose de retracer l’histoire récente de cette statuaire, les conditions de sa commercialisation et les raisons de son succès. Les bizango ont-ils été à un moment de leur histoire des artefacts utilisés dans des rituels de sociétés secrètes ou relèvent-ils exclusivement d’une démarche artistique et commerciale ? Peut-on réellement tracer une frontière entre objet rituel et objet esthétique ? Que nous disent-ils des tentatives de patrimonialisation et d’institutionnalisation du vodou ? Ne renvoient-ils pas à un imaginaire occidental inépuisable et infatigable quand il s’agit de diaboliser Haïti ?" ;
+  schema:author "Catherine Benoît" ;
+  schema:creator "André Delpuech" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Gradhiva" ;
+  schema:sameAs <https://doi.org/10.4000/gradhiva.2961> ;
+  dcterms:identifier "doi:10.4000/gradhiva.2961" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Cultural Identity and Heritage", "French Urban and Social Studies" .

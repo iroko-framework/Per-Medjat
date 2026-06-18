@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2J5LKP5J>
+  a schema:Thesis ;
+  schema:name "Asians and Africans in Ugandan Urban Life, 1959-1972." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2J5LKP5J> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2J5LKP5J" ;
+  schema:description "This study examines the relationship between racial thought, urban infrastructure, and urban sociality during a period of rapid change in Uganda’s political order and public spheres. It shifts focus away from a teleological narrative of racialization, in which the 1972 Asian expulsion constitutes a totalizing legacy of Ugandan Asian history, to arenas of contestation over the production of racial categories, urban space, and history. Each chapter considers Ugandans’ efforts to reshape ideas about racial difference and to control the spaces in which such ideas took shape in daily practice. Analyzing the multiple registers in which Ugandans produced, used, and elided racial categories reveals tensions that are too often hidden in expulsion narratives." ;
+  schema:author "Edgar C. Taylor" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Deep Blue (University of Michigan)" ;
+  dcterms:subject "African history and culture studies" .

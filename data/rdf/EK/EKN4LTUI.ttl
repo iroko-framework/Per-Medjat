@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EKN4LTUI>
+  a schema:ScholarlyArticle ;
+  schema:name "Ciudad informal, territorialidades de producción social del espacio urbano en asentamientos humanos (Armenia - Quindío (Colombia)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EKN4LTUI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EKN4LTUI" ;
+  schema:description "espanolSe desarrolla la categoria de ciudad informal como accion de territorializacion que se materializa por medio de produccion social del espacio, en tanto proceso y producto de la segregacion socio-espacial urbana en la busqueda del derecho al territorio. A su vez, se evidencia, a partir del caso de la ciudad de Armenia - Quindio (Colombia), como la configuracion territorial de esta se debe, en gran medida, a la produccion de ciudad informal, situacion que debe ser tenida en cuenta por las diferentes politicas de ordenamiento territorial. Finalmente, se indaga en como las condiciones de un fragmento de ciudad informal en Armenia no solo han sido una respuesta de adecuacion y superacion de condiciones a las que han sido relegados sus pobladores, de igual forma, se revela que tal situacion forma un escenario de su realidad que configura luchas por la territorializacion de sus derechos. EnglishThe category of informal city is developed as an action of territorialization that materializes the notion of the social production of space, as a process and product of urban socio-spatial segregation in the search for the right to territory. Subsequently, it is evidenced from the case of the city of Armenia (Colombia), how the territorial configuration of this and other cities is due, to a great extent, to the production of informal city, a situation that must be taken into account by the different policies of territorial ordering. Finally, it is investigated how the conditions of an informal city fragment in Armenia not only have been a response of adaptation and overcoming conditions to which their inhabitants have been relegated, in turn, it is evident that such situation forms a scenario of their reality that configures struggles for territorialization of their rights." ;
+  schema:author "Yonier Castañeda-Pérez" ;
+  schema:creator "Ana Catalina Hernández-Ramírez", "P", "D Bogot", "D Mxico", "Aprile-Gniset", "Capel", "M Cardoso", "Fritschy B. A", "Castaeda-Prez", "N Clichevsky", "La Por", "M Cravino", "Fernndez Wagner", "R", "B Nates-Cruz", "Pino Vsquez", "M Santos", "R", "; Vargas" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Ciudad y Territorio Estudios Territoriales" ;
+  schema:sameAs <https://doi.org/10.37230/cytet.2021.207.08> ;
+  dcterms:identifier "doi:10.37230/cytet.2021.207.08" ;
+  dcterms:subject "Galician and Iberian cultural studies", "Latin American Urban Studies", "Regional Development and Innovation" .

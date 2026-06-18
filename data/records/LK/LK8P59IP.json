@@ -1,0 +1,108 @@
+{
+  "key": "LK8P59IP",
+  "uri": "https://medjat.irokosociety.org/id/library/LK8P59IP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LK8P59IP",
+  "zotero": {
+    "group": "6479329",
+    "key": "LK8P59IP",
+    "version": 2331,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LK8P59IP",
+    "dateAdded": "2026-05-19T14:20:04Z",
+    "dateModified": "2026-05-19T14:20:04Z"
+  },
+  "display": {
+    "title": "Government and opinion in the Gambia, 1816-1901",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Florence K. Omolara Mahoney"
+      }
+    ],
+    "year": "1963",
+    "date": "1963",
+    "publisher": "SOAS Research Online (SOAS University of London)",
+    "publicationTitle": "SOAS Research Online (SOAS University of London)",
+    "bookTitle": "",
+    "journalAbbreviation": "SOAS Research Online (SOAS University of London)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The British colony of the Gambia was founded in lB16 by a military detachment and a community of British merchants with their dependents transferred from Senegal.. Their purpose was to check illegitimate trade by slavers,and to promote legitimate trade.But part1c1pation, in the river:.'trade-in wax, gold and ivorywas fraught with d1fficulties, among them rivalry from French traders operating from Albreda',and constant obstruction along trade routes 'lin the interior.Nor was commercial activity facilitated by the development of the groundnut.Indeed, dependence on a single cash crop created an unstable economy; for which reason the Brit1sh colcny Government planned to cedethe~ to France.Until 1888 the colo~ was governed, intermittently, from Sierra Leone; and the resulting delay in the execution of laws and the administration of justice caused serious hardship.Wesleyan missionaries had arrived im the colo~ soon after its foundation and embarked upon evangelisation and educational work there.With the influx of Liberated Africans from Freetown, missionaries became agenCies for their rehabilitation.To the work of Wesleyans was joined that of Roman Catholics and Anglicans in the latter half of the nineteenth centur,y.With the consolidation of Islam in the river states by reform movements of the mid-nineteenth century, missionar.rlabour, especially in the field of education, was seriously retarded.This investigation into the history of the Gambia has had as its subject matter the development of communities in the colony, their relations with each other and with the colonial Government which, after 1842, consisted of a Governor, an Executive Council and a Legislative Council with unofficial representation.The stu~ centres on articulate groups and individuals in the colony, in an attempt to analyse public opinion in the period.",
+    "doi": "10.25501/soas.00032195",
+    "url": "https://doi.org/10.25501/soas.00032195",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Florence K. Omolara Mahoney"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Government and opinion in the Gambia, 1816-1901"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SOAS Research Online (SOAS University of London), 1963."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25501/soas.00032195"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LK/LK8P59IP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25501/soas.00032195"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

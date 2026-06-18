@@ -1,0 +1,106 @@
+{
+  "key": "2Q7HYIWJ",
+  "uri": "https://medjat.irokosociety.org/id/library/2Q7HYIWJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2Q7HYIWJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "2Q7HYIWJ",
+    "version": 1472,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2Q7HYIWJ",
+    "dateAdded": "2026-05-05T19:41:29Z",
+    "dateModified": "2026-05-05T19:41:29Z"
+  },
+  "display": {
+    "title": "Santería: Correcting the Myths and Uncovering the Realities of a Growing Religion",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Clark, Mary Ann"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Praeger",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Westport, Conn",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Santería, also known as Yoruba, Lukumi, or Orisha, was originally brought to the Americas from Africa by enslaved peoples destined for the Caribbean and South America. By the late 1980s it was estimated that more than 70 million African and American people participated in, or were familiar with, the various forms of Santeria, including traditional religions in Africa, Vodun in Haiti, Candomble in Brazil, Shango religion in Trinidad, Santeria in Cuba and, of course, variants of all of these in the U.S. Today there are practitioners around the world including Europe and Asia. Because of the secretive nature of the religion, it has been difficult to get accurate and objective information, but here, Clark introduces readers to the religion, explores the basic elements, including the Orisha, and answers the many questions Santeria arouses in observers and practitioners alike. Santería was brought to the United States in two principle waves, one in the early 1960s after the Cuban Revolution and later by the Marielitos who escaped from the island in the 1980s. Since then it has spread to the larger Hispanic community, to the African American community, and to other segments of society as well. Today, practitioners can be found in every state, and interest in Orisha and related traditions has gained popularity. As the number of practitioners has grown so has public awareness. In this compelling introduction, Clark answers such questions as where did this religion come from? What do practioners believe? Is it a cult? What takes place at a ritual event? How does it view death and the afterlife? Is there ritual sacrifice? Clark, a practitioner as well as a scholar of the faith, dispels the myths that surround this religious practice, and brings readers to a better understanding of this growing faith in America.",
+    "doi": "",
+    "url": "",
+    "isbn": "979-8-216-01082-1",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Clark, Mary Ann"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Santería: Correcting the Myths and Uncovering the Realities of a Growing Religion"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Westport, Conn: Praeger, 2007."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "979-8-216-01082-1"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2Q/2Q7HYIWJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

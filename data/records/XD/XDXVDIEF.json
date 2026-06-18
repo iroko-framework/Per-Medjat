@@ -1,0 +1,107 @@
+{
+  "key": "XDXVDIEF",
+  "uri": "https://medjat.irokosociety.org/id/library/XDXVDIEF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XDXVDIEF",
+  "zotero": {
+    "group": "6479329",
+    "key": "XDXVDIEF",
+    "version": 1962,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XDXVDIEF",
+    "dateAdded": "2026-05-19T14:18:49Z",
+    "dateModified": "2026-05-19T14:18:49Z"
+  },
+  "display": {
+    "title": "The process of social formation on the island of Rodrigues (Indian Ocean).",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alexis M. Gardella"
+      }
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "publicationTitle": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "bookTitle": "",
+    "journalAbbreviation": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Rodrigues is a small island, 5,5 by 13 miles, lying 400 miles to the east of Mauritius in the western Indian Ocean. First settled in the early 19th century by French colonists and their Bast African, Malagasy and East Indian slaves, it was initially controlled by the French, then taken over by the British, finally becoming a dependency of Mauritius in the mid-twentieth century. Rodrigues' recent settlement, isolation and small-scale in conditions of relative autonomy from the metropolitan centers of control, allows a situation which requires a consideration of the very processes of social and cultural creation. Rodriguans view their society as socially and culturally divided into two groups, Montagnard and Creole. This division purportedly reflects the society's initial social configuration, with Creoles the descendants of the early European settlers, white and free, and with the Montagnards the descendants of black slaves. While this social separation is neither as straightforward nor as unambiguous as Rodriguans would have it, it does reflect what is fundamentally a difference in sociopolitical stance vis-a-vis both the metropole and each other. The thesis explores the social implications of these two sociopolitical stances through the description and analysis of the quotidian social organization of the two groups and an explication of their respective key ceremonial events. Both stances evidence a resistance to, and a differential reworking of, metropolitan modes of domination, equally economic, political, social and religious, and directed at the establishment of autonomous spheres of social action. This sociocultural marronage was in the past and is still intrinsic to the actual social structure of the society, beyond what is manifest in ceremonial occasions and in the rhetoric of political discourse. The process of social formation on the island of Rodrigues illustrates a particular people's expression of survival and resistance and the manner in which power - its perception and the attempts to control it - is integral to not only the most mundane aspects of society, but also to its very creation.",
+    "doi": "",
+    "url": "http://etheses.lse.ac.uk/2001/1/U484164.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Caribbean history, culture, and politics",
+      "Economic Zones and Regional Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alexis M. Gardella"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The process of social formation on the island of Rodrigues (Indian Ocean)."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science), 1998."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Zones and Regional Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XD/XDXVDIEF.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

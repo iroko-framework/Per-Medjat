@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4SIWGKU8>
+  a schema:Thesis ;
+  schema:name "Eurocentric Archival Knowledge Production and Decolonizing Archival Theory" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4SIWGKU8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4SIWGKU8" ;
+  schema:description "This dissertation is interested in how archival theory—the theoretical work of archiving produced by archivists and, to a lesser extent, the modes of doing archival research deployed by researchers—tackles the colonial roots and routes of archives, archivists and archival theories and practices. At the base of this examination of archival theory is the assumption that theory produces the object it evaluates. Thus, as opposed to interrogating a pre-existing archive, archival theory produces imaginative and material archival spaces in which archivists and researchers labour. In this dissertation, then, I examine the ways in which Eurocentric intellectual frameworks continue to frame archival theory and, thus, delimit how archivists and researchers produce knowledge about and through archives. In particular, this dissertation is interested in how the Eurocentrism underwriting archival theory as much shapes archivists’ understanding of colonialism and colonial archives by establishing the archive’s and archival theory’s geography, history and future trajectory as covers over the archives’ and archival theory’s colonial history. With an eye to the work of contemporary archivists and theorists who critically interrogate the ways archives and archivists reproduce unequal social relations of power, the following chapters negotiate the tension within these critiques between developing more democratic, socially just and postcolonial archives and archival theory, and the Eurocentric intellectual frameworks that reiterate the divisions between West and non-West, modern societies and traditional communities, literate and oral, and between reason and feeling. The works of Canadian archivists and scholars figure prominently in my dissertation as they both shape my analyses of the effects of Eurocentrism and continuing settler colonial relations on archives, archiving and archival research, and also become objects of analysis through which I trace out the discourses that work to secure and trouble settler title and entitlement to Aboriginal land by erasing or nullifying Indigenous sovereignty in and through Canada’s archives. The aim of my dissertation is to propose modes of archival knowledge production that trouble, if not displace, these Eurocentric and settler frameworks to decolonize archives and archival theory." ;
+  schema:author "Aaron Andrew Gordon" ;
+  schema:datePublished "2014" ;
+  schema:publisher "YorkSpace (York University)" ;
+  dcterms:subject "Archaeological Research and Protection", "Cuban History and Society", "Digital and Traditional Archives Management" .

@@ -1,0 +1,100 @@
+{
+  "key": "9XLJAPIG",
+  "uri": "https://medjat.irokosociety.org/id/library/9XLJAPIG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9XLJAPIG",
+  "zotero": {
+    "group": "6479329",
+    "key": "9XLJAPIG",
+    "version": 3343,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9XLJAPIG",
+    "dateAdded": "2026-05-20T16:34:02Z",
+    "dateModified": "2026-05-20T16:34:02Z"
+  },
+  "display": {
+    "title": "Possessing the Land for Jesus",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Elizabeth McAlister"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Wesleyan University Digital Collections (Wesleyan University)",
+    "publicationTitle": "Wesleyan University Digital Collections (Wesleyan University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Wesleyan University Digital Collections (Wesleyan University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "177-205",
+    "abstract": "This essay describes and analyses the transnational cross-fertilization of a Third Wave Evangelical evolving spiritual geography and argues that theologians, together with ordinary people on the ground, are developing a corresponding new legal imaginary. This legal imaginary hinges on its logics of possession and law, on the one hand, and its spatial imagery, on the other. Spirit-filled Evangelical Christians in Haiti, the Americas, and throughout the world are engaged in an ongoing religious production of space, geography, and law that they envision and produce in intersecting cosmic, global, national, local, and bodily spheres. Each level, besides being interrelated and articulated together with the others, is also imbricated in a series of unseen legal, political and diplomatic regimes that religious actors discern through Bible reading and revelation from the Holy Spirit. A small number of scholars have written on the Third Wave movement and how the spatiotemporal drive of this form of neo-pentecostal spirituality takes on local valences as evangelicals throughout the Americas indigenize it in variations on a common theme. Still, the juridical and diplomatic logic and rhetoric that underpins it have not yet been examined. Spiritual Warfare Christians are together engaged in a transnational religious production of space, law, and logics of ownership and possession that is animating new collective identities. Spiritual Warfare theology bestows on ordinary Haitians living through abject and traumatic displacement the role of God’s prophets, ambassadors, missionaries, and warriors in the ultimate cosmic battle between good and evil. Unfortunately for non-Protestants, and for the political project of religious pluralism, such evangelicals find ultimate meaning at the expense of traditional life ways.",
+    "doi": "",
+    "url": "https://wesscholar.wesleyan.edu/div2facpubs/177",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Biblical Studies and Interpretation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Elizabeth McAlister"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Possessing the Land for Jesus"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Wesleyan University Digital Collections (Wesleyan University), 2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "177-205 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biblical Studies and Interpretation"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/9X/9XLJAPIG.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

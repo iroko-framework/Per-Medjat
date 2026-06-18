@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JN5JRLSL>
+  a schema:ScholarlyArticle ;
+  schema:name "Converting and Disputing the Role of Traditional Cultural Institutions in Cameroon’s Cross River Basin, 1916–1961" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JN5JRLSL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JN5JRLSL" ;
+  schema:description "This article probes the British and missionary misinterpretation and presentation of the role of Ekpe, Nfam, and Obasinjom cultural institutions as irrelevant in the governance of people of the Cross River Basin of Cameroon. The British colonial enterprise in the area was sustained on a seemingly conscious yet uncritical effort to label these institutions as mainly ceremonial and food consuming in nature. This impression notwithstanding, these institutions remained popular and continuously spread into the nooks and crannies of the Cross River Basin of Cameroon and beyond." ;
+  schema:author "Henry Kam Kah" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Asian Journal of Peacebuilding" ;
+  schema:sameAs <https://doi.org/10.18588/201711.00a032> ;
+  dcterms:identifier "doi:10.18588/201711.00a032" ;
+  dcterms:subject "African history and culture studies", "Global Maritime and Colonial Histories" .

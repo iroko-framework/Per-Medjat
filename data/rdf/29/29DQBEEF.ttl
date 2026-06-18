@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/29DQBEEF>
+  a schema:Book ;
+  schema:name "Voice of the leopard: African secret societies and Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=29DQBEEF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:29DQBEEF" ;
+  schema:author "Miller, Ivor" ;
+  schema:datePublished "2009" ;
+  schema:publisher "University Press of Mississippi" ;
+  dcterms:identifier "isbn:978-1-934110-83-6" ;
+  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

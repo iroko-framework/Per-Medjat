@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LG7APPCT>
+  a schema:ScholarlyArticle ;
+  schema:name "Cuban heritage in Africa: Deported Ñáñigos to Fernando Po in the 19th century" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LG7APPCT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LG7APPCT" ;
+  schema:description "This paper focuses on the 19th century deportation of Nanigos (members of Abakua, a Cuban secret society) to Fernando Po (Bioko). I argue against the widely held negative image of this group as portrayed in the news and press information in Spanish newspapers from 1865 to 1950 that document the Cuban heritage in Africa. I highlight the point that the deportation of Nanigos to Africa was,in part, due to their association with,in part, due to their association with rebel groups in the decades and years prior to and during the War of Independence. Further, I pointed out the need of the Spanish Government to colonize the African island and use it to harbor expelled groups from the Caribbean island prosecuted for their rebellious character against the colony. As a result, many emancipated slaves1 and Cuban people were deported to Fernando Po in the second half of the nineteenth century, which explains their presence on the island. I discuss, in details, their memory, which has been maintained through some cultural elements - rituals, body attires, and musical and dance elements.. Keywords: Nanigos, slave heritage, Bonko ritual dance, Nankue ritual dance, initiation societies, Cuban deportees" ;
+  schema:author "Isabela de Aranzadi" ;
+  schema:datePublished "2014" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Cuban History and Society", "Hispanic-African Historical Relations" .

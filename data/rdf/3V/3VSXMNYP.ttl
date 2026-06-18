@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3VSXMNYP>
+  a schema:ScholarlyArticle ;
+  schema:name "The Decline of Proverbs as a Creative Oral Expression: A Case Study of Proverb Usage among the Ondo in the South Western Part of Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3VSXMNYP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3VSXMNYP" ;
+  schema:description "It cannot be disputed that proverbs occupy a very central position in creative art. It is deployed in many societies to bring peace where there is hatred, particularly during the settlement of conflicts, disputes and misunderstandings; to facilitate pardon where there is injury, to engender faith where there is doubt, to bring hope where there is despair and light where there is darkness in human relationships, activities and interactions. That creativity is evident through the numerous ways in which proverbs are used, is not in doubt. The value of proverbs is encapsulated in this Yoruba proverb: „Owe l.esin oro; bi oro ba s.onu, owe ni a fi nwa a. meaning „A proverb is a horse which can carry you swiftly (just like creative reflective thinking) to the discovery of ideas sought.. Furthermore, the Ibo culture sees „proverbs as the palm oil with which words are eaten.. However the question had been raised at several quarters whether the use of this very creative oral art has been on the increase or on the decline in human societies. To provide a rational response to this important question, this paper presents a report of the findings of a study on the decline of the use of proverbs and subsequently suggests ways to strengthen and popularize the use of proverbs in the society." ;
+  schema:author "CA Akinmade" ;
+  schema:datePublished "2012" ;
+  schema:publisher "AFRREV LALIGENS An International Journal of Language Literature and Gender Studies" ;
+  dcterms:subject "Language, Metaphor, and Cognition" .

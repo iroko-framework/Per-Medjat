@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5MGY4HKR>
+  a schema:Thesis ;
+  schema:name "Reclaiming my body : black women and the fight for reproductive justice." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5MGY4HKR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5MGY4HKR" ;
+  schema:description "My paper explores the unique forms of reproductive inequality experienced by poor women of color during the nineteenth and twentieth centuries. By analyzing the experiences of eight African-American women, I will illuminate their struggles and triumphs in the fight for reproductive justice. I focus on the impact of the breeding system of enslavement, inhumane medical experimentation and forced and coercive sterilization. In this work I argue that Black women’s subordinate status across multiple racial, gendered, and socioeconomic systems allows them invaluable insight into said systems and especially how they work in tandem to recreate oppression. Finally I explore the holes in the traditional reproductive rights framework, particularly in its failure to account for the concerns of poor Black women, and also discuss future implications of the reproductive justice framework on clinical practice and policy formation." ;
+  schema:author "Shelby Pumphrey" ;
+  schema:datePublished "2014" ;
+  schema:sameAs <https://doi.org/10.18297/etd/1164> ;
+  dcterms:identifier "doi:10.18297/etd/1164" ;
+  dcterms:subject "American Constitutional Law and Politics", "Historical Studies on Reproduction, Gender, Health, and Societal Changes", "Race, History, and American Society" .

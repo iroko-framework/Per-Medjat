@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TD4GTWJE>
+  a schema:ScholarlyArticle ;
+  schema:name "A view from itia ororó kande" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TD4GTWJE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TD4GTWJE" ;
+  schema:description "The Cuban male esoteric sodality abakuá has long been interpreted as a transatlantically displaced version of the type of secret society known as ekpe or ngbe in the Cross-River region of south-eastern Nigeria and south-western Cameroon. While not disputing such attributions of African origins, this essay seeks to trace the contours of an alternative history of abakuá. My aim is to confront \"objectivist\" accounts of the diffusionary history of ekpe and abakuá with the ways in which contemporary members of Cuban abakuá ritually produce relations to an African past which they create by performing it into being in the New World present. © 2006 European Association of Social Anthropologists." ;
+  schema:author "Palmié, Stephan" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Social Anthropology" .

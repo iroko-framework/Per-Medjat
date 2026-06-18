@@ -1,0 +1,107 @@
+{
+  "key": "FRA7RSMH",
+  "uri": "https://medjat.irokosociety.org/id/library/FRA7RSMH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FRA7RSMH",
+  "zotero": {
+    "group": "6479329",
+    "key": "FRA7RSMH",
+    "version": 1980,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FRA7RSMH",
+    "dateAdded": "2026-05-19T14:18:55Z",
+    "dateModified": "2026-05-19T14:18:55Z"
+  },
+  "display": {
+    "title": "Memories of the future : maroon intellectuals from the Caribbean and the sources of their communication strategies, 1925-1940",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "W. F. Santiago-Valles"
+      }
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "Summit (Simon Fraser University)",
+    "publicationTitle": "Summit (Simon Fraser University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Summit (Simon Fraser University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "across the Caribbean region and the groups in which they pioneered research about popular communication strategies between 1925 and 1940.By considering the history of the connections made between collective memories and the means of confirming how those interventions were shared in other territories, it is possible to examine how direct(ed) experience and consciousness are modified through social practices that turn the popular into a cultural force.This CHAPTER I END NOTES C.L.R",
+    "doi": "",
+    "url": "http://summit.sfu.ca/item/7469",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Australian History and Society",
+      "Caribbean history, culture, and politics",
+      "Postcolonial and Cultural Literary Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "W. F. Santiago-Valles"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Memories of the future : maroon intellectuals from the Caribbean and the sources of their communication strategies, 1925-1940"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Summit (Simon Fraser University), 1997."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Australian History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Postcolonial and Cultural Literary Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FR/FRA7RSMH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

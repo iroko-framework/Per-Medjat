@@ -1,0 +1,128 @@
+{
+  "key": "JUFYQXCD",
+  "uri": "https://medjat.irokosociety.org/id/library/JUFYQXCD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JUFYQXCD",
+  "zotero": {
+    "group": "6479329",
+    "key": "JUFYQXCD",
+    "version": 3666,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JUFYQXCD",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Tacking towards freedom? Bringing journeys out of slavery into dialogue with contemporary migration",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ângelo Martins"
+      },
+      {
+        "role": "editor",
+        "name": "Julia O’Connell Davidson"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Journal of Ethnic and Migration Studies",
+    "publicationTitle": "Journal of Ethnic and Migration Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Ethnic and Migration Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "48",
+    "issue": "7",
+    "pages": "1479-1495",
+    "abstract": "Antislavery actors evoke the history of the transatlantic slave trade in campaigns to mobilise action to address the suffering experienced by contemporary migrants described as ‘victims of trafficking’. That framing has been picked up by state actors who present measures to supress unauthorised migration per se as necessary to protect migrants from a ‘modern-day slave trade’. Yet the parallel between trafficking and the slave trade is undermined by the fact that people who today are described as ‘trafficked’, as much as those described as ‘smuggled’, actively wish to travel and do so in the hope that by moving, they will secure greater freedoms. This article therefore asks whether there are similarities between the journeys of contemporary unauthorised migrants and those of enslaved people who fled from slavery in the Atlantic World, and if so, why. Bringing data from historical sources on slave flight into dialogue with data on the journeys of contemporary sub-Saharan African migrants to Europe and Brazil, it identifies a number of experiential parallels, and argues that for those concerned with migrants’ rights, enslaved people’s fugitivity potentially offers a more fruitful point of historical comparison than does the slave trade.",
+    "doi": "10.1080/1369183x.2021.1886062",
+    "url": "https://doi.org/10.1080/1369183x.2021.1886062",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Migration and Labor Dynamics",
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ângelo Martins"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Tacking towards freedom? Bringing journeys out of slavery into dialogue with contemporary migration"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Ethnic and Migration Studies, 2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1479-1495 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1080/1369183x.2021.1886062"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration and Labor Dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Julia O’Connell Davidson"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JU/JUFYQXCD.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1080/1369183x.2021.1886062"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "key": "G3GKESB5",
+  "uri": "https://medjat.irokosociety.org/id/library/G3GKESB5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G3GKESB5",
+  "zotero": {
+    "group": "6479329",
+    "key": "G3GKESB5",
+    "version": 795,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G3GKESB5",
+    "dateAdded": "2026-05-18T18:57:34Z",
+    "dateModified": "2026-05-18T18:57:34Z"
+  },
+  "display": {
+    "title": "Inter-religious relations in Yorubaland, Nigeria: corpus methods and anthropological survey data",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Insa Nolte"
+      },
+      {
+        "role": "editor",
+        "name": "Clyde Ancarno"
+      },
+      {
+        "role": "editor",
+        "name": "Rebecca Jones"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Corpora",
+    "publicationTitle": "Corpora",
+    "bookTitle": "",
+    "journalAbbreviation": "Corpora",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "13",
+    "issue": "1",
+    "pages": "27-64",
+    "abstract": "This paper uses corpus methods to support the analysis of data collected as part of a large-scale ethnographic project that focusses on inter-religious relations in south-west Nigeria. Our corpus consists of answers to the open questions asked in a survey. The paper explores how people in the Yoruba-speaking south-west region of Nigeria, particularly Muslims and Christians, manage their religious differences. Through this analysis of inter-religious relations, we demonstrate how corpus linguistics can assist analyses of text-based data gathered in anthropological research. Meanwhile, our study also highlights the necessity of using anthropological methods and knowledge to interpret corpus outputs adequately. We carry out three types of analyses: keyness analysis, collocation analysis and concordance analysis. These analyses allow us to determine the ‘aboutness’ of our corpus. Four themes emerge from our analyses: (1) religion; (2) co-operation, tolerance and shared communal values such as ‘Yoruba-ness’; (3) social identities and hierarchies; and (4) the expression of boundaries and personal dislike of other religious practices.",
+    "doi": "10.3366/cor.2018.0135",
+    "url": "https://doi.org/10.3366/cor.2018.0135",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Natural Language Processing Techniques",
+      "Swearing, Euphemism, Multilingualism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Insa Nolte"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Inter-religious relations in Yorubaland, Nigeria: corpus methods and anthropological survey data"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Corpora, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "27-64 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3366/cor.2018.0135"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Natural Language Processing Techniques"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Swearing, Euphemism, Multilingualism"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Clyde Ancarno"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Rebecca Jones"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/G3/G3GKESB5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3366/cor.2018.0135"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

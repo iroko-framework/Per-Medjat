@@ -1,0 +1,107 @@
+{
+  "key": "KFE4E4FQ",
+  "uri": "https://medjat.irokosociety.org/id/library/KFE4E4FQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KFE4E4FQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "KFE4E4FQ",
+    "version": 1515,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KFE4E4FQ",
+    "dateAdded": "2026-05-19T14:17:01Z",
+    "dateModified": "2026-05-19T14:17:01Z"
+  },
+  "display": {
+    "title": "The Law as Influence on Slaves' Lives.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "K. Tax"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Utrecht University Repository (Utrecht University)",
+    "publicationTitle": "Utrecht University Repository (Utrecht University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Utrecht University Repository (Utrecht University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This essay will concentrate on the impact of slave laws on, or its role in, slaves’ lives in the American south during the most of the antebellum period, namely 1800-1860. This period is chosen because slavery did not change profoundly during these years, which it did during the first decades of independence and during and after the Civil War. The antebellum legal system started developing around this period and became dissembled by the Civil War. \\nThe questions used to find an answer to the main question are divided between two chapters. The first chapter will concentrate on slaveholders: the extent to which they upheld states’ laws and slaveholders’ reasons for this. Furthermore, attention will be paid to the influence of slaveholders’ attitudes on the severity of punishments. The second chapter will address whether the law offered slaves protection and why, whereby slave families and violence toward slaves will be considered. Additionally, attention will be paid to slaves on trial. In the concluding chapter, these findings will be combined in an attempt to answer the main question.",
+    "doi": "",
+    "url": "https://openalex.org/W79534552",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Colonialism, slavery, and trade",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "K. Tax"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Law as Influence on Slaves' Lives."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Utrecht University Repository (Utrecht University), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/KF/KFE4E4FQ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

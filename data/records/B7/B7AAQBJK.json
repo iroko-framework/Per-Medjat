@@ -1,0 +1,107 @@
+{
+  "key": "B7AAQBJK",
+  "uri": "https://medjat.irokosociety.org/id/library/B7AAQBJK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=B7AAQBJK",
+  "zotero": {
+    "group": "6479329",
+    "key": "B7AAQBJK",
+    "version": 4029,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/B7AAQBJK",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Artificial Encounters with Mexico: The Lithographs of Claudio Linati",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Giustina Renzoni"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "CU Scholar (University of Colorado Boulder)",
+    "publicationTitle": "CU Scholar (University of Colorado Boulder)",
+    "bookTitle": "",
+    "journalAbbreviation": "CU Scholar (University of Colorado Boulder)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Recent scholarship on Latin American costumbrista literature has primarily focused on the genreâs relationship with its European predecessors. Although this has provided a rich genealogical analysis of the genreâs development in Latin America, it does not take into account the relationship between costumbrista literature, casta paintings and travel accounts. This thesis explores the previously overlooked comparative relationship between these genres in order to explore the construction of identities through protoethnographic and autoethnographic works in Mexico, specifically focusing on a selection of eighteenth-Â­century casta paintings, the 1828 travel account, Costumes civils, militaires et religieux, produced by Italian lithographer, Claudio Linati, and the 1853 costumbrista book, Los mexicanos pintados por sÃ­ mismos, produced by a collection of Mexican artists and authors.",
+    "doi": "",
+    "url": "https://scholar.colorado.edu/downloads/2z10wq65r",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Afro-Latin American Studies",
+      "Literary and Philosophical Studies",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Giustina Renzoni"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Artificial Encounters with Mexico: The Lithographs of Claudio Linati"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "CU Scholar (University of Colorado Boulder), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Latin American Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literary and Philosophical Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/B7/B7AAQBJK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

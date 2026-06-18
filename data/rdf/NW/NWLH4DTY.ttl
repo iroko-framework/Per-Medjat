@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NWLH4DTY>
+  a schema:ScholarlyArticle ;
+  schema:name "Tangled roots: Kalenda and other neo-African dances in the circum-Caribbean" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NWLH4DTY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NWLH4DTY" ;
+  schema:description "Investigates descriptions of Afro-Caribbean dances in early chronicles and historical material. Author focuses on choreography, as well as on musical instruments and their use. He pays special attention to descriptions of the Martinican kalenda dance. He discusses descriptions from the 18th c. of black Caribbean dance in French and other colonies, by priests and others, of the kalenda as a couple dance within a ring, and descriptions of other widespread early dances in the Caribbean, such as chica. Author notes that in these early descriptions the authors focus obsessively on eroticism, thus simplifying and exaggerating the dances as sexual, and ignoring their variety. Further, he analyses early chronicles on other widespread dances in the circum-Caribbean, such as stick-fighting dances, bamboula, djouba, and belair, comparing with present-day Caribbean dances, and on \"challenge dancing\" involving a dance soloist \"challenged\" by a lead drummer, found, for instance, in kalenda and rumba. In addition, the author focuses on the dances' musical accompaniment by drums, and the drum types and methods, specifically transverse drumming and drumming with sticks on the side of the drum, found today in kalenda, and other Caribbean styles. He points at the inaccuracy of some chronicles, mixing up dance names, and recurring superficiality and stereotypes. He nonetheless concludes from them that slaves from the Congo/Angola region probably played a crucial role in forming these early dance styles, and that their spread was connected with French colonialism and slavery and migrations from (once) French colonies. He describes probable Congolese/Angolan influences, such as pelvic isolation, challenge dances, couple dancing within a circle, and transverse drumming, but indicates that these are over time combined with other African and other influences." ;
+  schema:author "Julian Gerstin" ;
+  schema:datePublished "2004" ;
+  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
+  schema:sameAs <https://doi.org/10.1163/13822373-90002516> ;
+  dcterms:identifier "doi:10.1163/13822373-90002516" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Music History and Culture" .

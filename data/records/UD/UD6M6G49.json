@@ -1,0 +1,107 @@
+{
+  "key": "UD6M6G49",
+  "uri": "https://medjat.irokosociety.org/id/library/UD6M6G49",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=UD6M6G49",
+  "zotero": {
+    "group": "6479329",
+    "key": "UD6M6G49",
+    "version": 3332,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/UD6M6G49",
+    "dateAdded": "2026-05-20T16:33:56Z",
+    "dateModified": "2026-05-20T16:33:56Z"
+  },
+  "display": {
+    "title": "Secret Societies",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Michel S. Laguerre"
+      }
+    ],
+    "year": "1989",
+    "date": "1989",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "Palgrave Macmillan UK eBooks",
+    "journalAbbreviation": "Palgrave Macmillan UK eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "71-81",
+    "abstract": "Secret societies have been widespread in Haiti ever since the country’s independence from France in 1804. Each one is part of a network and serves as an underground government, police force and judicial body. The extent of their control over rural Haiti has not yet been evaluated. Their importance in regard to rural politics cannot be ignored. The focus of this chapter is on one kind of secret society — the Bizango — because it has ramifications all over the island. There is another kind, found especially on the island of La Gonâve, where the secret society is also an agricultural association. However the functioning of the latter as well as that of other secret societies will not be analysed here.",
+    "doi": "10.1007/978-1-349-19920-4_6",
+    "url": "https://doi.org/10.1007/978-1-349-19920-4_6",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Studies and Socio-cultural Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Michel S. Laguerre"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Secret Societies"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1989."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "71-81 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1007/978-1-349-19920-4_6"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies and Socio-cultural Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/UD/UD6M6G49.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1007/978-1-349-19920-4_6"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

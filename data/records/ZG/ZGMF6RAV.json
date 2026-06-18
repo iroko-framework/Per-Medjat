@@ -1,0 +1,119 @@
+{
+  "key": "ZGMF6RAV",
+  "uri": "https://medjat.irokosociety.org/id/library/ZGMF6RAV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZGMF6RAV",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZGMF6RAV",
+    "version": 1392,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZGMF6RAV",
+    "dateAdded": "2026-05-19T13:29:04Z",
+    "dateModified": "2026-05-19T13:29:04Z"
+  },
+  "display": {
+    "title": "Carnival and National Identity in the Poetry of Afrocubanismo by Thomas S Anderson",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Celucien L. Joseph"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Callaloo",
+    "publicationTitle": "Callaloo",
+    "bookTitle": "",
+    "journalAbbreviation": "Callaloo",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "36",
+    "issue": "2",
+    "pages": "498-500",
+    "abstract": "Reviewed by: Carnival and National Identity in the Poetry of Afrocubanismo by Thomas S Anderson Celucien L. Joseph (bio) Anderson, Thomas S. Carnival and National Identity in the Poetry of Afrocubanismo. Gainesville: UP of Florida, 2011. In Carnival and National Identity in the Poetry of Afrocubanismo, Thomas Anderson analyzes the relationship between Cuban culture and national identity in ten carnival-inspired poems influenced by Afro-Cuban customs and cultural manifestations in the works of six well-known Afrocubanismo writers, spanning from 1916 to 1953. Anderson underscores the sociopolitical and historical contexts of these poems which have shaped the literary production and message of the Afrocubanismo movement. Chapter 1 registers the racially-motivated stereotypes and negative attitudes, what Anderson calls “strong prejudices,” toward the Afro-Cuban population and the African customs and cultural expressions in the Cuban society. Anderson argues that Felipe Picardo Moya’s poem “La comparsa,” a precursor to Afrocubanismo poetry, reveals deep-seated biases against Afro-Cuban carnival celebrations and other related cultural expressions, was instrumental in the cultural suppression of Afro-Cuban customs, and ultimately “led to official bans against them during the early decades of the twentieth century” (20, 43). [End Page 498] Chapter 2 underscores the influence of Alejo Carpentier in the genesis of Afrocubanismo; careful attention is given to the significance of his religious-inspired poems and particularly the overlooked poem “Juego santo.” Anderson argues cogently that Carpentier was the first Afrocubanismo poet to focus on the sacred Afro-Cuban rituals, and to attempt to interpret the esoretic rites of the Abakuá secret society in poetry (20–21, 54). He elaborates upon this thesis by a careful reading of “Liturgia” and “Juego santo” in which Carpentier melds poetically two public spectacles: sacred Abakua processions and secular carnival comparsas—what the author phrases “an act of poetic syncretism.” Chapter 3 moves the discussion forward by a painstaking analysis of Nicolás Guillén’s most widely read and anthologized poem “Sensemayá: canto para matar una culebra.” Anderson’s creative interpretation of “Sensemayá” is both brilliant and persuasive. By examining “Sensemayá” in relationship to nineteenth-century celebrations of Día de Reyes, the author declares that the poem is closely linked to traditional twentieth-century’s Afro-Cuban comparsas. Anderson contends that the poem is a polemically and “carefully constructed response to the many bans that were enacted against Afro-Cuban carnival processions during the early decades of the twentieth century” (80). He also suggests that the well-known “killing” the snake ritual in Afro-Cuban carnival celebrations as poetically featured in “Sensemayá” should rather be understood as the poet’s interpretation of the ceremonial as a symbolic act of Cuban cultural renewal, representing both by the anticipating creature’s rebirth and its ensuring survival. Chapter 4 explores the contribution of Emilio Ballaga to Afrocubanismo by engaging his 1934 famous anthology Cuaderno de poesía negra. Andersons remarks that Ballaga’s poem “Comparsa habanera” counters racial bigotries and misapprehensions of African-derived customs by acknowledging their importance to the Cuban experience and by supporting the “unity of blacks and whites in the forging of the Cuban community that was culturally mulatto” (108). On the other hand, Anderson criticizes Ballaga for his hypocrisy and his deployment of racial slurs. He observes that while in this poem, Ballaga attempts to “replace negative portrayals of black Cubans by authors of previous generations with sincere and authentic images,” he nevertheless marks Afro-Cuban comparseros with “bozal speech, ignorance, primitive superstitions, drunkenness, and unrestrained sexuality” (139). Chapter 5 outlines the political aspect of comparsas associated with chambelonas, Cuba’s Liberal Party politicians. Anderson exposes the double standards of white politicians who, on one hand, despised Afro-Cuban customs and carnival traditions, and on the other hand, exploited Afro-Cubans’ votes to “drum up support” for their campaigns and to promote their own political agendas during the formative years of the Cuban Republic (142). In “Quintin Barahona,” José Zacarías Tallet represents Afro-Cubans with broken Spanish, stupid, uneducated, highly exaggerated bozal speech, and with “Congo” lips (143–44). On the other hand, he advocates a black political consciousness by encouraging black Cubans to be actively involved in the political life of...",
+    "doi": "10.1353/cal.2013.0099",
+    "url": "https://doi.org/10.1353/cal.2013.0099",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Celucien L. Joseph"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Carnival and National Identity in the Poetry of Afrocubanismo by Thomas S Anderson"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Callaloo, 2013."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "498-500 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/cal.2013.0099"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ZG/ZGMF6RAV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/cal.2013.0099"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

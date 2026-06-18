@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IIX3ULWM>
+  a schema:ScholarlyArticle ;
+  schema:name "Santos y Misterios as Channels of Communication in the Diaspora: Afro-Dominican Religious Practices Abroad" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IIX3ULWM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IIX3ULWM" ;
+  schema:description "Whereas most Afro-Caribbean Creole religious practices have been the focus of scholarly studies for some time, such practices in the Dominican Republic have received considerably less attention. Drawing on ethnographic fieldwork among Dominican women in Madrid and the southwestern Dominican Republic, this article presents the saints of the Dominican Vodou pantheon as actual communication agents who enable transnational practitioners to maintain communication and to solve migration-related proble" ;
+  schema:author "Sánchez-Carretero, Cristina" ;
+  schema:datePublished "2005" ;
+  schema:publisher "University of Illinois Press on behalf of American Folklore Society" ;
+  schema:sameAs <https://doi.org/10.2307/4137916> ;
+  dcterms:identifier "doi:10.2307/4137916" .

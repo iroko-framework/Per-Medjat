@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/B54J8G6L>
+  a schema:ScholarlyArticle ;
+  schema:name "Rhythmic Archetypes in Instrumental Music from Africa and the Diaspora" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=B54J8G6L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:B54J8G6L" ;
+  schema:description "In this paper I will propose a method for analyzing the rhythmic organization of instrumental music in Africa and the Diaspora using a set of six rhythmic tropes I call rhythmic archetypes. (1) A rhythmic archetype is a commonly used rhythmic formula that exists on both the surface-structural level, occurring within various parts of a music ensemble, and the deep-structural level, where it serves as a prototype for a multitude of possible variations through changes in pitch, timbre, and rhythm. Rhythmic archetypes may be produced by individual parts or may emerge from the resultant texture of multiple parts. Those who play some form of African music will know and use patterns like these-in African-inspired popular music styles like jazz, salsa, and reggae, musicians give them names like tumbao, montuno, martillo, mambo, walking the bass, and one drop. (2) In Africa, rhythmic archetype patterns may not be given specific terms; instead, they are more often expressed by singing or playing the resultant combination they produce with the other parts. (3) [2] As I will discuss below, other researchers have observed some of these patterns within their areas of study, but to date they have not connected them with other African music traditions. Instead, the prevailing tendency has been to view the rhythmic archetypes examined below as rhythmic oddities, applying a host of terms such as additive rhythm, polymeter, and cross-rhythm to describe the supposed rhythmic tension they produce. (4) In this comprehensive study, however, I will demonstrate the recurrence of these six rhythmic archetype patterns in several African music traditions, documented here using over forty transcriptions and audio examples. Due to the ubiquity and regularity of these patterns, I will argue that rhythmic archetypes are not sources of rhythmic dissonance, but rather form a set of phrase-building blocks in many African music systems. I will further contend that phrases constructed using rhythmic archetypes cannot be analyzed outside of the complete rhythmic background where they typically occur, which would likely contain accompaniment of some sort such as dancing, singing and clapping. Recognizing this multi-sensorial perception of the rhythmic background within the minds of enculturated listeners, (5) I will argue that rhythmic archetypes enhance the effect of the metric background rather than disrupt or clash against it." ;
+  schema:author "James Burns" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Music Theory Online" ;
+  schema:sameAs <https://doi.org/10.30535/mto.16.4.1> ;
+  dcterms:identifier "doi:10.30535/mto.16.4.1" ;
+  dcterms:subject "Music History and Culture", "Music Technology and Sound Studies", "Musicology and Musical Analysis" .

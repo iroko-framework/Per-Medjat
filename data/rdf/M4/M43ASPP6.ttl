@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M43ASPP6>
+  a schema:ScholarlyArticle ;
+  schema:name "Reasons for culling cows from a productive herd" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M43ASPP6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M43ASPP6" ;
+  schema:description "The article provides data on the causes and premature culling of cows. Extraordinary activities are a matter of productivity of cows, which significantly affect the efficiency of milk production in livestock farms. First of all, the number and intensity of manifestations of other pathological processes in the body to enhance the quality of milk (grade, bacterial contamination, etc.). The next factor in the economic condition of both an individual economy and the industry as a whole is the length of the productive period. Premature culling of cows entails damage from inefficient use of feed, costs for the unproductive period (from birth to 1 calving), losses from undersupply of calves and often loss of breeding value of the livestock. The aim of the work was to establish the reasons for the culling of cows, which affects the efficiency of the enterprise, especially at the age of 4-6 years (3-5 lactations). At the same time, we used the data of the Uniform-Agri accounting program of the Astarta-Kiev agricultural holding, statistical research methods, and the processing of the data obtained was carried out using a Microsoft Excel 2016 spreadsheet processor. It was found that during 2017-2019. out of 47,282 16538 head retired, which amounted to about 35.0% of the total breeding stock, the largest number of retired cows was observed in the first lactation - 4602, which is 27.8%. In 37.1% of cases, obstetric and gynecological diseases and pathological conditions of the mammary gland were diagnosed. At the same time, 24.5% of culled cows were diagnosed with surgical pathology. In addition, 20.8% of cows dropped out due to metabolic disorders, due to violations of the parameters of keeping and feeding. The next step was to determine the proportion of cow culling due to obstetric (23.9%), gynecological (49.0%), surgical (59.1%) pathology and breast diseases (27.7%). It was also important that 30% of the culled cows had a diagnosis of maceration and mummification of the fetus or ordinary abortion. It should be noted that the vast majority of animals had obstetric, gynecological and surgical pathology at the same time. The culling of animals by age was: after the 1st lactation 31.9%, the 2nd lactation decreased by 12.6 %, and the 3rd, 4th and 5th and more lactations, respectively, by 3.0%. 2.9 and 4.3% Key words: cow, culling, obstetric, gynecological, surgical pathology." ;
+  schema:author "A. Kraevsky" ;
+  schema:creator "Олександр Чекан", "Наталія Петрівна Гребеник", "Y. Musienko", "M. Travetsky", "V. Dopa", "V. Kasyanenko", "Andrey Lazorenko" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Naukovij vìsnik veterinarnoï medicini" ;
+  schema:sameAs <https://doi.org/10.33245/2310-4902-2022-173-1-14-32> ;
+  dcterms:identifier "doi:10.33245/2310-4902-2022-173-1-14-32" ;
+  dcterms:subject "Agriculture Market Analysis Ukraine", "Agriculture and Biological Studies", "Animal Nutrition and Health" .

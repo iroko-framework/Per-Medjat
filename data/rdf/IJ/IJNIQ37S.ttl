@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IJNIQ37S>
+  a schema:Thesis ;
+  schema:name "The Sound of Silence: Ideology of National Identity and Racial Inequality in Contemporary Curaçao" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IJNIQ37S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IJNIQ37S" ;
+  schema:description "This dissertation addresses racism in contemporary Curaçao—a former Dutch colony in the Caribbean that remains a component of the Kingdom of The Netherlands. The dissertation theorizes racism as a partially hidden constituent of the island’s ideology of national identity, which throughout its history has emulated hybridity before being influenced, more recently, by multiculturalism. The research’s main objective is to uncover the ways race and racism have been entangled with Curaçao’s hegemonic ideology of national identity, a reality too often omitted and always under-theorized in Dutch and Dutch Caribbean scholarship. Using historical, ethnographic, statistic, and discourse analysis data, the dissertation reveals how profound the operations of race have been on Curaçaoan society, and on all Curaçaoans on the island and in the diaspora. It discusses the historical formation of ideologies of race and national identity in Curaçao, to contribute to the explanation of the current state of race relations on the island. It exposes the silencing impacts that the hegemonic ideology of national identity has had on individual Curaçaoans’ understanding of self through the reflexive presentation of an intergenerational family history. The dissertation ends with ethnographic analytic descriptions of five neighborhoods differently located in Curaçao’s racial/spatial order, which reveal the mechanizations of multiculturalism and the prevalence of racism." ;
+  schema:author "Angela E. Roe" ;
+  schema:datePublished "2016" ;
+  schema:sameAs <https://doi.org/10.25148/etd.fidc000734> ;
+  dcterms:identifier "doi:10.25148/etd.fidc000734" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cultural Identity and Representation", "Globalization and Cultural Identity" .

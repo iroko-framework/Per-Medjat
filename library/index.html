@@ -7,6 +7,7 @@
   <title>Medjat Library · Per Medjat · Iroko Historical Society</title>
   <meta name="description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
   <link rel="canonical" href="https://medjat.irokosociety.org/library/">
+  <link rel="alternate" type="text/turtle" href="/data/library.ttl">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Per Medjat - Iroko Historical Society">
   <meta property="og:title" content="Medjat Library · Per Medjat · Iroko Historical Society">
@@ -119,6 +120,12 @@
 
     /* ── Record stack (no grid — avoids ghost empty cells) ────── */
     #catalog-grid { display: flex; flex-direction: column; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; margin-bottom: 2rem; }
+    .catalog-pagination { display: none; align-items: center; justify-content: space-between; gap: .75rem; margin: -1rem 0 2rem; font-family: var(--mono); font-size: .65rem; letter-spacing: .06em; color: var(--ink-soft); }
+    .catalog-pagination.visible { display: flex; }
+    .pagination-actions { display: flex; gap: .4rem; }
+    .pagination-btn { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; text-transform: uppercase; padding: .42em .85em; border: 1px solid var(--rule-strong); border-radius: 3px; background: var(--paper); color: #1a3468; cursor: pointer; }
+    .pagination-btn:hover:not(:disabled) { border-color: #1a3468; background: rgba(26,52,104,.05); }
+    .pagination-btn:disabled { opacity: .45; cursor: default; }
 
     /* ── Record card ───────────────────────────────────────────── */
     .rec-card { background: var(--paper); padding: 1.2rem 1.4rem; display: flex; flex-direction: column; gap: .3rem; transition: background .12s; border-bottom: 1px solid var(--rule); }
@@ -155,6 +162,7 @@
     /* Subject chips — free-text keywords; neutral base, lapis hover signals searchability */
     .rec-subject { font-family: var(--sans); font-size: .7rem; background: var(--paper-deep); color: var(--ink-mid); padding: .15em .6em; border-radius: 2px; border: 1px solid var(--rule-strong); cursor: pointer; transition: background .12s, color .12s, border-color .12s; }
     .rec-subject:hover { background: #1a3468; color: #f0ece0; border-color: #c8a84b; }
+    .rec-theme { font-family: var(--mono); font-size: .58rem; letter-spacing: .04em; text-transform: uppercase; background: var(--paper-deep); color: var(--ink-mid); padding: .12em .55em; border-radius: 2px; border: 1px solid var(--rule-strong); }
 
     /* Iroko framework concept chips — amber/gold, distinct from access/tradition */
     .rec-iroko { font-family: var(--mono); font-size: .6rem; letter-spacing: .04em; padding: .15em .6em; border-radius: 2px; background: var(--gold-light); color: var(--gold); border: 1px solid rgba(160,120,48,.3); text-decoration: none; }
@@ -173,8 +181,17 @@
     /* MARC detail toggle */
     .marc-toggle { font-family: var(--mono); font-size: .6rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-soft); background: none; border: none; cursor: pointer; padding: 0; margin-top: .3rem; display: inline-flex; align-items: center; gap: .25rem; }
     .marc-toggle:hover { color: #1a3468; }
+    .detail-actions { display: flex; gap: .75rem; flex-wrap: wrap; align-items: center; margin-top: .35rem; }
     .marc-detail { display: none; margin-top: .75rem; padding-top: .75rem; border-top: 1px solid var(--rule); }
     .marc-detail.open { display: block; }
+    .detail-loading, .detail-error, .detail-empty { font-family: var(--mono); font-size: .68rem; letter-spacing: .04em; color: var(--ink-soft); padding: .35rem 0; }
+    .detail-error { color: var(--terracotta); }
+    .catalog-detail-abstract { font-size: .84rem; color: var(--ink-mid); line-height: 1.65; margin: 0 0 .85rem; max-width: 82ch; }
+    .linked-data-list { display: grid; gap: .45rem; margin-top: .2rem; }
+    .linked-data-row { display: grid; grid-template-columns: 9rem minmax(0,1fr); gap: .75rem; align-items: baseline; font-size: .78rem; }
+    .linked-data-label { font-family: var(--mono); font-size: .58rem; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); }
+    .linked-data-value { color: var(--ink-mid); overflow-wrap: anywhere; }
+    .semantic-chip-row { display: flex; gap: .35rem; flex-wrap: wrap; }
     .marc-table { width: 100%; border-collapse: collapse; }
     .marc-table td { padding: .2rem 0; vertical-align: top; font-size: .78rem; }
     .marc-field { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--green-mid); width: 2.5rem; min-width: 2.5rem; padding-right: .4rem; }
@@ -216,6 +233,8 @@
       .catalog-search-wrap { grid-template-columns: 1fr auto auto; }
       .adv-grid { grid-template-columns: 1fr; }
       .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; }
+      .catalog-pagination { align-items: stretch; flex-direction: column; }
+      .linked-data-row { grid-template-columns: 1fr; gap: .15rem; }
     }
   </style>
   <!-- Google Analytics -->
@@ -357,6 +376,13 @@
     <div class="active-filter-chips" id="active-chips"></div>
     <div id="no-results">No records match your search.</div>
     <div id="catalog-grid" role="list"></div>
+    <div class="catalog-pagination" id="catalog-pagination" aria-label="Catalog pagination">
+      <span id="pagination-status"></span>
+      <div class="pagination-actions">
+        <button class="pagination-btn" id="prev-page" type="button">Previous</button>
+        <button class="pagination-btn" id="next-page" type="button">Next</button>
+      </div>
+    </div>
   </div>
 
   <p class="section-label" id="holdings-label">Holdings</p>
@@ -426,6 +452,10 @@ const ZOTERO_GROUP = '6479329';
 // child attachments and notes are automatically excluded.
 const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items/top`;
 const FEATURED_WORK_URL = 'featured-work.json';
+const DATA_BASE = new URL('../data/', window.location.href);
+const INDEX_URL = new URL('library.index.json', DATA_BASE);
+const FACETS_URL = new URL('library.facets.json', DATA_BASE);
+const PAGE_SIZE = 50;
 
 /* ── Tradition vocabulary — loaded from iroko-core.ttl via JSON ─── */
 // Source: https://ontology.irokosociety.org/vocab/tradition-vocab.json
@@ -925,7 +955,7 @@ function buildCard(rec, n) {
   const cardId = `rc-${e(rec.key)}`;
   return `
 <div class="rec-card" role="listitem" id="${cardId}">
-  <div class="rec-num">rec·${String(n+1).padStart(4,'0')}</div>
+  <div class="rec-num">zotero ${e(rec.key)}</div>
   <div class="rec-title">${e(rec.title)}${rec.subtitle ? `<em> : ${e(rec.subtitle)}</em>` : ''}</div>
   ${authorDisplay ? `<div class="rec-author">${e(authorDisplay)}${rec.date ? ' &middot; ' + e(rec.date) : ''}</div>` : ''}
   ${rec.abstract ? `<div class="rec-abstract">${e(rec.abstract)}</div>` : ''}
@@ -956,11 +986,331 @@ function toggleMarc(id) {
   if (b) b.innerHTML = (d.classList.contains('open') ? '&#9662;' : '&#9656;') + ' marc record';
 }
 
+const FULL_RECORD_CACHE = new Map();
+
+function recordJsonUrl(key) {
+  return new URL(`records/${String(key).slice(0, 2).toUpperCase()}/${key}.json`, DATA_BASE);
+}
+
+async function loadFullRecord(key) {
+  if (FULL_RECORD_CACHE.has(key)) return FULL_RECORD_CACHE.get(key);
+  const res = await fetch(recordJsonUrl(key), { cache: 'no-cache' });
+  if (!res.ok) throw new Error(`Record ${key} returned ${res.status}`);
+  const record = await res.json();
+  FULL_RECORD_CACHE.set(key, record);
+  return record;
+}
+
+function creatorLine(rec) {
+  const creators = rec.creators || rec.creatorLabels || [];
+  if (!creators.length) return '';
+  return creators.length <= 3 ? creators.join('; ') : creators.slice(0, 2).join('; ') + ', et al.';
+}
+
+function custodyLabel(value) {
+  const labels = {
+    'held-ihs': 'IHS Holds',
+    'digitally-held': 'IHS Digital',
+    'external-reference': 'External Ref',
+    'known-inaccessible': 'Record Only',
+    'metadata-only': 'Metadata Only',
+  };
+  return labels[value] || value || 'Metadata Only';
+}
+
+function buildCatalogCard(rec, n) {
+  const key = rec.key || '';
+  const authorDisplay = creatorLine(rec);
+  const pubLine = rec.publicationLine || [rec.publisher, rec.year].filter(Boolean).join(', ');
+  const custody = custodyLabel(rec.custody);
+  const custodyClass = rec.custody === 'metadata-only' || !rec.custody ? 'custody-badge-meta' : 'custody-badge';
+  const doiLink = rec.doi
+    ? `<a class="rec-doi" href="https://doi.org/${e(rec.doi)}" target="_blank" rel="noopener" title="Open via DOI">DOI</a>`
+    : '';
+  const urlLink = rec.url
+    ? `<a class="rec-url" href="${e(rec.url)}" target="_blank" rel="noopener" title="${e(rec.url)}">URL &#8599;</a>`
+    : '';
+  const tradBadges = (rec.traditions || []).map(t => {
+    const href = rec.traditionLinks && rec.traditionLinks[t];
+    return href
+      ? `<a class="rec-trad rec-trad--linked" href="${e(href)}" target="_blank" rel="noopener" title="View ${e(t)} in Iroko ontology">${e(t)}</a>`
+      : `<span class="rec-trad">${e(t)}</span>`;
+  }).join('');
+  const themeBadges = (rec.themes || []).map(t =>
+    `<button class="rec-subject rec-theme" type="button" data-term="${e(t)}">${e(t)}</button>`
+  ).join('');
+  const typeBadge = rec.recordTypeLabel ? `<span class="rec-type">${e(rec.recordTypeLabel)}</span>` : '';
+  const ifwkChips = [
+    ...(rec.frameworkModules || []).map(t => `Module: ${t}`),
+    ...(rec.frameworkClasses || []).map(t => `Class: ${t}`),
+  ].map(label => `<span class="rec-iroko">${e(label)}</span>`).join('');
+
+  return `
+<div class="rec-card" role="listitem" id="rc-${e(key)}" data-key="${e(key)}">
+  <div class="rec-num">zotero ${e(key)}</div>
+  <div class="rec-title">${e(rec.title)}${rec.subtitle ? `<em> : ${e(rec.subtitle)}</em>` : ''}</div>
+  ${authorDisplay ? `<div class="rec-author">${e(authorDisplay)}${rec.year ? ' &middot; ' + e(rec.year) : ''}</div>` : ''}
+  ${pubLine ? `<div class="rec-pub">${e(pubLine)}</div>` : ''}
+  <div class="rec-foot">
+    <div class="rec-foot-row1">
+      ${tradBadges}${typeBadge}${themeBadges}
+      <span class="access-badge access-public">${e(rec.access || rec.accessLabel || 'Public')}</span>
+      ${ifwkChips}
+    </div>
+    <div class="rec-foot-row2">
+      <span class="rec-custody-label">IHS Custody:</span>
+      <span class="${custodyClass}">${e(custody)}</span>${doiLink}${urlLink}
+    </div>
+  </div>
+  <div class="detail-actions">
+    <button class="marc-toggle" type="button" data-panel-button="abstract-${e(key)}" onclick="toggleDetailPanel('${e(key)}','abstract')">&#9656; abstract</button>
+    <button class="marc-toggle" type="button" data-panel-button="catalog-${e(key)}" onclick="toggleDetailPanel('${e(key)}','catalog')">&#9656; catalog details</button>
+    <button class="marc-toggle" type="button" data-panel-button="linked-${e(key)}" onclick="toggleDetailPanel('${e(key)}','linked')">&#9656; linked data</button>
+    <button class="marc-toggle" type="button" onclick="downloadRis('${e(key)}', this)">download RIS</button>
+  </div>
+  <div class="marc-detail" id="abstract-detail-${e(key)}"></div>
+  <div class="marc-detail" id="catalog-detail-${e(key)}"></div>
+  <div class="marc-detail" id="linked-detail-${e(key)}"></div>
+</div>`;
+}
+
+function setPanelButton(key, type, open) {
+  const btn = document.querySelector(`[data-panel-button="${type}-${CSS.escape(key)}"]`);
+  if (!btn) return;
+  const labels = {
+    abstract: ' abstract',
+    catalog: ' catalog details',
+    linked: ' linked data',
+  };
+  btn.innerHTML = (open ? '&#9662;' : '&#9656;') + (labels[type] || ' details');
+}
+
+function closeDetailPanels(key, exceptType = '') {
+  ['abstract', 'catalog', 'linked'].forEach(type => {
+    if (type === exceptType) return;
+    const panel = document.getElementById(`${type}-detail-${key}`);
+    if (panel) panel.classList.remove('open');
+    setPanelButton(key, type, false);
+  });
+}
+
+async function toggleDetailPanel(key, type, forceOpen = false) {
+  const panel = document.getElementById(`${type}-detail-${key}`);
+  if (!panel) return;
+  const isOpen = panel.classList.contains('open');
+  if (isOpen && !forceOpen) {
+    panel.classList.remove('open');
+    setPanelButton(key, type, false);
+    return;
+  }
+  closeDetailPanels(key, type);
+  panel.classList.add('open');
+  setPanelButton(key, type, true);
+  if (panel.dataset.loaded === 'true') return;
+  panel.innerHTML = '<div class="detail-loading">Loading record details...</div>';
+  try {
+    const full = await loadFullRecord(key);
+    panel.innerHTML = type === 'abstract'
+      ? renderAbstractDetail(full)
+      : type === 'catalog'
+        ? renderCatalogDetail(full)
+        : renderLinkedDataDetail(full);
+    panel.dataset.loaded = 'true';
+    panel.querySelectorAll('.rec-subject').forEach(btn => {
+      btn.addEventListener('click', () => searchForTerm(btn.dataset.term));
+    });
+  } catch (err) {
+    panel.innerHTML = `<div class="detail-error">Record detail unavailable: ${e(err.message)}</div>`;
+  }
+}
+
+function renderAbstractDetail(full) {
+  const display = full.display || {};
+  if (!display.abstract) return '<div class="detail-empty">No abstract is available for this record.</div>';
+  return `<p class="catalog-detail-abstract">${e(display.abstract)}</p>`;
+}
+
+function renderCatalogDetail(full) {
+  const marc = full.marc || [];
+  const rows = marc.map(row => {
+    const value = row.field === '650'
+      ? `<button class="rec-subject" type="button" data-term="${e(row.value)}">${e(row.value)}</button>`
+      : e(row.value || '');
+    return `<tr><td class="marc-field">${e(row.field || '')}</td><td class="marc-label">${e(row.label || '')}</td><td class="marc-val">${value}</td></tr>`;
+  }).join('');
+  if (!rows) return '<div class="detail-empty">No expanded catalog details are available for this record.</div>';
+  return `<table class="marc-table">${rows}</table>`;
+}
+
+function linkedRow(label, value) {
+  if (!value) return '';
+  return `<div class="linked-data-row"><div class="linked-data-label">${e(label)}</div><div class="linked-data-value">${value}</div></div>`;
+}
+
+function linkValue(url, label) {
+  if (!url) return '';
+  const href = new URL(url, window.location.href).href;
+  return `<a href="${e(href)}" target="_blank" rel="noopener">${e(label || href)}</a>`;
+}
+
+function renderLinkedDataDetail(full) {
+  const ld = full.linkedData || {};
+  const about = ld.about || [];
+  const authorities = ld.authorityMappings || [];
+  const aboutHtml = about.length
+    ? `<div class="semantic-chip-row">${about.map(item => item.uri ? linkValue(item.uri, `${item.type}: ${item.label}`) : `<span class="rec-iroko">${e(item.type)}: ${e(item.label)}</span>`).join('')}</div>`
+    : '<span class="detail-empty">No Iroko or tradition mappings recorded.</span>';
+  const authorityHtml = authorities.length
+    ? `<div class="semantic-chip-row">${authorities.map(item => item.uri ? linkValue(item.uri, `${item.source}: ${item.label}`) : `<span>${e(item.source)}: ${e(item.label)}</span>`).join('')}</div>`
+    : '<span class="detail-empty">No external authority mappings recorded.</span>';
+  const sameAsHtml = (ld.sameAs || []).length
+    ? `<div class="semantic-chip-row">${ld.sameAs.map(url => linkValue(url, url)).join('')}</div>`
+    : '';
+
+  return `<div class="linked-data-list">
+    ${linkedRow('Medjat URI', linkValue(full.uri, full.uri))}
+    ${linkedRow('Zotero key', e(full.zotero?.key || full.key || ''))}
+    ${linkedRow('Item TTL', linkValue(ld.ttl, 'Open Turtle record'))}
+    ${linkedRow('Library TTL', linkValue(ld.aggregateTtl || '/data/library.ttl', 'Open aggregate Turtle graph'))}
+    ${linkedRow('Iroko mappings', aboutHtml)}
+    ${linkedRow('Authorities', authorityHtml)}
+    ${sameAsHtml ? linkedRow('Same as', sameAsHtml) : ''}
+  </div>`;
+}
+
+function risType(itemType) {
+  return {
+    book: 'BOOK',
+    bookSection: 'CHAP',
+    conferencePaper: 'CPAPER',
+    dictionaryEntry: 'DICT',
+    document: 'GEN',
+    encyclopediaArticle: 'ENCYC',
+    interview: 'INTV',
+    journalArticle: 'JOUR',
+    letter: 'GEN',
+    manuscript: 'MANSCPT',
+    newspaperArticle: 'NEWS',
+    presentation: 'SLIDE',
+    report: 'RPRT',
+    thesis: 'THES',
+    webpage: 'ELEC',
+  }[itemType] || 'GEN';
+}
+
+function risClean(value) {
+  return String(value || '').replace(/<[^>]+>/g, '').replace(/\r?\n+/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function risPush(lines, tag, value) {
+  const cleaned = risClean(value);
+  if (cleaned) lines.push(`${tag}  - ${cleaned}`);
+}
+
+function splitPageRange(pages) {
+  const cleaned = risClean(pages);
+  const match = cleaned.match(/^([A-Za-z]?\d+)\s*[-–—]\s*([A-Za-z]?\d+)$/);
+  return match ? [match[1], match[2]] : [cleaned, ''];
+}
+
+function buildRis(full) {
+  const display = full.display || {};
+  const tags = full.publicTags || {};
+  const itemType = full.zotero?.itemType || '';
+  const lines = [`TY  - ${risType(itemType)}`];
+  const title = [display.title, display.subtitle].filter(Boolean).join(': ');
+  const container = itemType === 'book' ? '' : (display.bookTitle || display.publicationTitle || '');
+  const isSerial = ['journalArticle', 'newspaperArticle', 'magazineArticle'].includes(itemType);
+  const isPublisherBacked = ['book', 'bookSection', 'report', 'thesis', 'conferencePaper'].includes(itemType);
+  const [startPage, endPage] = splitPageRange(display.pages);
+
+  risPush(lines, 'ID', full.key);
+  risPush(lines, 'TI', title);
+  (display.creators || []).forEach(creator => {
+    const role = String(creator.role || '').toLowerCase();
+    const tag = role.includes('editor') ? 'ED' : role.includes('translator') ? 'A4' : 'AU';
+    risPush(lines, tag, creator.name);
+  });
+  if (container) {
+    risPush(lines, 'T2', container);
+    if (isSerial) {
+      risPush(lines, 'JO', display.journalAbbreviation || container);
+      risPush(lines, 'JF', container);
+    }
+  }
+  risPush(lines, 'PY', display.year);
+  if (isPublisherBacked) risPush(lines, 'PB', display.university || display.publisher);
+  risPush(lines, 'CY', display.place);
+  risPush(lines, 'ET', display.edition);
+  risPush(lines, 'VL', display.volume);
+  risPush(lines, 'IS', display.issue);
+  if (startPage && (isSerial || itemType === 'bookSection')) risPush(lines, 'SP', startPage);
+  if (endPage) risPush(lines, 'EP', endPage);
+  risPush(lines, 'T3', display.series);
+  risPush(lines, 'SN', display.isbn || display.issn);
+  risPush(lines, 'DO', display.doi);
+  risPush(lines, 'UR', display.url || full.viewUrl || full.uri);
+  risPush(lines, 'N2', display.abstract);
+  (tags.language || []).forEach(value => risPush(lines, 'LA', value));
+  [
+    ...(tags.traditions || []),
+    ...(tags.themes || []),
+    ...(tags.subjects || []),
+    ...(tags.region || []),
+    ...((full.ifwk || {}).classes || []),
+    ...((full.ifwk || {}).modules || []),
+  ].forEach(value => risPush(lines, 'KW', value));
+  risPush(lines, 'DB', 'Medjat Library');
+  risPush(lines, 'AN', `zotero:${full.zotero?.group || ZOTERO_GROUP}:${full.key}`);
+  lines.push('ER  -');
+  return lines.join('\r\n') + '\r\n';
+}
+
+async function downloadRis(key, button) {
+  const original = button ? button.textContent : '';
+  if (button) {
+    button.disabled = true;
+    button.textContent = 'preparing RIS';
+  }
+  try {
+    const full = await loadFullRecord(key);
+    const blob = new Blob([buildRis(full)], { type: 'application/x-research-info-systems;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `medjat-library-${key}.ris`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+  } catch (err) {
+    console.warn('[Per-Medjat] RIS export unavailable', err);
+    alert(`RIS export unavailable: ${err.message}`);
+  } finally {
+    if (button) {
+      button.disabled = false;
+      button.textContent = original || 'download RIS';
+    }
+  }
+}
+
+function searchForTerm(term) {
+  F.query = term || '';
+  F.item = '';
+  PAGE = 1;
+  document.getElementById('search-input').value = F.query;
+  syncQuickLinks();
+  render();
+}
+
 /* ── State ──────────────────────────────────────────────────── */
 let ALL = [];
+let FACETS = null;
+let PAGE = 1;
 let QUICK_CATEGORY = 'type';
 let F = {
   query: '',
+  item: '',
   tradition: '',
   theme: '',
   type: '',
@@ -985,6 +1335,9 @@ function filtered() {
     const themes = r.themes || [];
     const frameworkClasses = r.frameworkClasses || [];
     const frameworkModules = r.frameworkModules || [];
+    const creators = r.creators || r.creatorLabels || [];
+
+    if (F.item && r.key !== F.item) return false;
 
     // Tradition filter — supports __untagged__ catch-all
     if (F.tradition === '__untagged__') {
@@ -1004,10 +1357,10 @@ function filtered() {
     if (F.type && r.itemType !== F.type) return false;
     if (F.frameworkClass && !frameworkClasses.includes(F.frameworkClass)) return false;
     if (F.frameworkModule && !frameworkModules.includes(F.frameworkModule)) return false;
-    if (F.access && r.accessLabel !== F.access) return false;
+    if (F.access && (r.access || r.accessLabel) !== F.access) return false;
 
     if (F.author) {
-      const h = (r.creatorLabels || r.creators.map(c => c.last + ' ' + c.first)).join(' ').toLowerCase();
+      const h = creators.map(c => typeof c === 'string' ? c : (c.last + ' ' + c.first)).join(' ').toLowerCase();
       if (!h.includes(F.author.toLowerCase())) return false;
     }
     if (F.title) {
@@ -1017,16 +1370,16 @@ function filtered() {
       if (!r.publisher.toLowerCase().includes(F.publisher.toLowerCase())) return false;
     }
     if (F.query) {
-      const h = [
+      const h = (r.searchText || [
         r.title, r.subtitle,
-        ...r.creators.map(c => c.last + ' ' + c.first),
-        ...r.tags,
+        ...creators.map(c => typeof c === 'string' ? c : (c.last + ' ' + c.first)),
+        ...(r.tags || []),
         ...themes,
         ...frameworkClasses,
         ...frameworkModules,
-        r.accessLabel || '',
-        r.publisher, r.abstract
-      ].join(' ').toLowerCase();
+        r.access || r.accessLabel || '',
+        r.publisher
+      ].join(' ')).toLowerCase();
       if (!h.includes(F.query.toLowerCase())) return false;
     }
     return true;
@@ -1039,25 +1392,40 @@ function sorted(recs) {
   if (k === 'title')     return c.sort((a,b) => a.title.localeCompare(b.title));
   if (k === 'date-desc') return c.sort((a,b) => (b.date||'0').localeCompare(a.date||'0'));
   if (k === 'date-asc')  return c.sort((a,b) => (a.date||'0').localeCompare(b.date||'0'));
-  return c.sort((a,b) => ((a.creators[0]?.last||a.title).localeCompare(b.creators[0]?.last||b.title)));
+  const sortName = r => {
+    const first = (r.creators || r.creatorLabels || [])[0];
+    if (typeof first === 'string') return first;
+    return first?.last || first?.name || r.title || '';
+  };
+  return c.sort((a,b) => sortName(a).localeCompare(sortName(b)));
 }
 
 /* ── Render ─────────────────────────────────────────────────── */
 function render() {
   const active = F.query || F.tradition || F.theme || F.type || F.author || F.title || F.publisher ||
-    F.frameworkClass || F.frameworkModule || F.access;
+    F.frameworkClass || F.frameworkModule || F.access || F.item;
   const area   = document.getElementById('results-area');
-  if (!active) { area.classList.remove('visible'); syncQuickLinks(); return; }
+  const pager = document.getElementById('catalog-pagination');
+  if (!active) {
+    area.classList.remove('visible');
+    if (pager) pager.classList.remove('visible');
+    syncQuickLinks();
+    return;
+  }
 
   area.classList.add('visible');
   const recs = sorted(filtered());
   const grid = document.getElementById('catalog-grid');
   const noRes = document.getElementById('no-results');
   const sum   = document.getElementById('results-summary');
+  const status = document.getElementById('pagination-status');
+  const prev = document.getElementById('prev-page');
+  const next = document.getElementById('next-page');
 
   // Active chips
   const chips = document.getElementById('active-chips');
   chips.innerHTML = '';
+  if (F.item)      chips.innerHTML += chip('item',      `Item: ${F.item}`);
   if (F.query)     chips.innerHTML += chip('query',     `"${F.query}"`);
   if (F.tradition) chips.innerHTML += chip('tradition', F.tradition === '__untagged__' ? 'Tradition: Untagged' : F.tradition);
   if (F.theme)     chips.innerHTML += chip('theme',     F.theme     === '__untagged__' ? 'Theme: Untagged'     : `Theme: ${F.theme}`);
@@ -1076,21 +1444,32 @@ function render() {
   if (recs.length === 0) {
     grid.innerHTML = ''; noRes.style.display = 'block';
     sum.textContent = 'No records found';
+    if (pager) pager.classList.remove('visible');
   } else {
     noRes.style.display = 'none';
-    sum.textContent = recs.length === ALL.length
-      ? `${ALL.length} record${ALL.length !== 1 ? 's' : ''}`
-      : `${recs.length} of ${ALL.length}`;
-    grid.innerHTML = recs.map((r,i) => buildCard(r,i)).join('');
+    const totalPages = Math.max(1, Math.ceil(recs.length / PAGE_SIZE));
+    PAGE = Math.min(Math.max(1, PAGE), totalPages);
+    const start = (PAGE - 1) * PAGE_SIZE;
+    const pageRecs = recs.slice(start, start + PAGE_SIZE);
+    const from = start + 1;
+    const to = start + pageRecs.length;
+    sum.textContent = `Showing ${from}-${to} of ${recs.length} record${recs.length !== 1 ? 's' : ''}`;
+    grid.innerHTML = pageRecs.map((r,i) => buildCatalogCard(r, start + i)).join('');
     grid.querySelectorAll('.rec-subject').forEach(btn => {
-      btn.addEventListener('click', () => {
-        F.query = btn.dataset.term;
-        F.tradition = '';
-        document.getElementById('search-input').value = btn.dataset.term;
-        syncQuickLinks();
-        render();
-      });
+      btn.addEventListener('click', () => searchForTerm(btn.dataset.term));
     });
+    if (pager) {
+      pager.classList.toggle('visible', recs.length > PAGE_SIZE);
+      if (status) status.textContent = `Page ${PAGE} of ${totalPages}`;
+      if (prev) {
+        prev.disabled = PAGE <= 1;
+        prev.onclick = () => { if (PAGE > 1) { PAGE--; render(); } };
+      }
+      if (next) {
+        next.disabled = PAGE >= totalPages;
+        next.onclick = () => { if (PAGE < totalPages) { PAGE++; render(); } };
+      }
+    }
   }
   syncQuickLinks();
 }
@@ -1106,6 +1485,7 @@ function clearF(key) {
     const sel = document.getElementById('adv-tradition');
     if (sel) sel.value = '';
   }
+  PAGE = 1;
   syncQuickLinks();
   render();
 }
@@ -1196,7 +1576,34 @@ function quickGroup() {
   return QUICK_GROUPS.find(g => g.key === QUICK_CATEGORY) || QUICK_GROUPS[0];
 }
 
+function quickFacetName(group) {
+  return {
+    type: 'recordTypes',
+    tradition: 'traditions',
+    theme: 'themes',
+    frameworkClass: 'frameworkClasses',
+    frameworkModule: 'frameworkModules',
+    access: 'access',
+  }[group.key] || group.key;
+}
+
 function quickOptionCounts(group) {
+  const facetName = quickFacetName(group);
+  const facet = FACETS && FACETS[facetName];
+  if (facet) {
+    let untagged = 0;
+    const entries = Object.entries(facet).reduce((acc, [value, data]) => {
+      const count = typeof data === 'object' ? data.count : data;
+      if (value === '__untagged__') {
+        untagged = count || 0;
+      } else {
+        acc.push([value, count || 0]);
+      }
+      return acc;
+    }, []).sort((a, b) => b[1] - a[1] || group.display(a[0]).localeCompare(group.display(b[0])));
+    return { entries, untagged };
+  }
+
   const counts = {};
   let untagged = 0;
   ALL.forEach(r => {
@@ -1247,6 +1654,8 @@ function buildQuickLinks() {
   row.querySelectorAll('.filter-pill').forEach(p => {
     p.onclick = () => {
       F[group.field] = F[group.field] === p.dataset.value ? '' : p.dataset.value;
+      F.item = '';
+      PAGE = 1;
       syncQuickLinks();
       render();
     };
@@ -1272,6 +1681,8 @@ function syncQuickLinks() {
 
 function triggerSearch() {
   F.query = document.getElementById('search-input').value.trim();
+  F.item = '';
+  PAGE = 1;
   syncQuickLinks(); render();
 }
 
@@ -1292,6 +1703,8 @@ function applyAdv() {
   F.publisher = document.getElementById('adv-publisher').value.trim();
   const trad  = document.getElementById('adv-tradition').value;
   F.tradition = trad;
+  F.item = '';
+  PAGE = 1;
   syncQuickLinks(); render();
 }
 
@@ -1301,6 +1714,7 @@ function clearAdv() {
     document.getElementById(id).value = '';
   });
   document.getElementById('adv-tradition').value = '';
+  PAGE = 1;
   syncQuickLinks(); render();
 }
 
@@ -1329,7 +1743,98 @@ function _setLoadingMsg(msg) {
   if (el) el.textContent = msg;
 }
 
+function recordIndexFromFull(full) {
+  const display = full.display || {};
+  const tags = full.publicTags || {};
+  const ifwk = full.ifwk || {};
+  const creators = (display.creators || []).map(c => c.name).filter(Boolean);
+  const searchText = [
+    display.title,
+    display.subtitle,
+    creators.join(' '),
+    display.year,
+    display.publisher,
+    tags.recordType,
+    ...(tags.traditions || []),
+    ...(tags.themes || []),
+    ...(tags.subjects || []),
+    ...(ifwk.classes || []),
+    ...(ifwk.modules || []),
+    ...(tags.language || []),
+    ...(tags.region || []),
+  ].join(' ').toLowerCase();
+  return {
+    key: full.key,
+    title: display.title || '',
+    subtitle: display.subtitle || '',
+    creators,
+    year: display.year || '',
+    date: display.year || '',
+    publisher: display.publisher || display.publicationTitle || '',
+    publicationLine: [display.place ? `${display.place}:` : '', display.publisher ? `${display.publisher},` : '', display.year ? `${display.year}.` : ''].filter(Boolean).join(' '),
+    itemType: full.zotero?.itemType || '',
+    recordTypeLabel: tags.recordType || 'Record',
+    traditions: tags.traditions || [],
+    traditionLinks: {},
+    themes: tags.themes || [],
+    frameworkClasses: ifwk.classes || [],
+    frameworkModules: ifwk.modules || [],
+    access: tags.access || 'Public',
+    custody: tags.custody || 'metadata-only',
+    language: tags.language || [],
+    region: tags.region || [],
+    doi: display.doi || '',
+    url: display.url || '',
+    searchText,
+  };
+}
+
+async function loadStaticCatalog() {
+  const [indexRes, facetsRes] = await Promise.all([
+    fetch(INDEX_URL, { cache: 'no-cache' }),
+    fetch(FACETS_URL, { cache: 'no-cache' }).catch(() => null),
+  ]);
+  if (!indexRes.ok) throw new Error(`Index returned ${indexRes.status}`);
+  const index = await indexRes.json();
+  if (!Array.isArray(index)) throw new Error('Catalog index is not an array');
+  ALL = index;
+  if (facetsRes && facetsRes.ok) FACETS = await facetsRes.json();
+}
+
+async function openItemFromQuery() {
+  const key = (new URLSearchParams(window.location.search).get('item') || '').trim();
+  if (!key) return;
+  F.item = key;
+  PAGE = 1;
+  if (!ALL.some(r => r.key === key)) {
+    const full = await loadFullRecord(key);
+    ALL = [recordIndexFromFull(full), ...ALL];
+    FACETS = null;
+    _rebuildUI();
+  }
+  render();
+  window.setTimeout(() => {
+    const card = document.getElementById(`rc-${key}`);
+    if (card) card.scrollIntoView({ block: 'start' });
+    toggleDetailPanel(key, 'catalog', true);
+  }, 0);
+}
+
 async function init() {
+  document.getElementById('quick-option-row').innerHTML =
+    '<span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Loading catalog index...</span>';
+  try {
+    await loadStaticCatalog();
+    _rebuildUI();
+    await openItemFromQuery();
+  } catch(err) {
+    document.getElementById('quick-option-row').innerHTML = '';
+    const errEl = document.getElementById('load-error');
+    errEl.style.display = 'block';
+    errEl.textContent = `Catalog unavailable: ${err.message}`;
+  }
+  return;
+
   const vocabPromise = loadTraditionVocab();
 
   // ── Cache-hit path: render immediately, refresh silently in background ──────
@@ -1376,7 +1881,7 @@ async function init() {
 
 document.getElementById('search-input').addEventListener('keydown', ev => { if (ev.key === 'Enter') triggerSearch(); });
 document.getElementById('search-input').addEventListener('input', ev => { if (!ev.target.value) clearF('query'); });
-document.getElementById('sort-select').addEventListener('change', render);
+document.getElementById('sort-select').addEventListener('change', () => { PAGE = 1; render(); });
 
 // Enter key in adv panel fields triggers Apply
 ['adv-author','adv-title','adv-publisher'].forEach(id => {

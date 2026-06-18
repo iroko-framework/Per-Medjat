@@ -1,0 +1,119 @@
+{
+  "key": "IDEDRSSK",
+  "uri": "https://medjat.irokosociety.org/id/library/IDEDRSSK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=IDEDRSSK",
+  "zotero": {
+    "group": "6479329",
+    "key": "IDEDRSSK",
+    "version": 984,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/IDEDRSSK",
+    "dateAdded": "2026-05-19T13:27:25Z",
+    "dateModified": "2026-05-19T13:27:25Z"
+  },
+  "display": {
+    "title": "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "African and Black Diaspora An International Journal",
+    "publicationTitle": "African and Black Diaspora An International Journal",
+    "bookTitle": "",
+    "journalAbbreviation": "African and Black Diaspora An International Journal",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "1",
+    "pages": "85-103",
+    "abstract": "The Abakuá mutual-aid society of Cuba, recreated from the Ékpè leopard society of West Africa's Cross River basin, is a richly detailed example of African cultural transmission to the Americas. Its material culture, such as masquerades and drum construction, as well as rhythmic structures, are largely based on Ékpè models. Its ritual language is expressed through hundreds of chants that identify source regions and historical events; many can be interpreted by speakers of Èfìk, the pre-colonial lingua franca of the Cross River region (Miller 2005). With the help of both Ékpè and Abakuá leaders, I have examined relationships between the musical practices of West African Ékpè, Cuban Abakuá, as well as Cuban migrants to the United States whose commercial recordings have evoked West African places and events historically relevant to Abakuá, meanwhile contributing to the evolution of North American jazz.",
+    "doi": "10.1080/17528631.2012.629437",
+    "url": "https://doi.org/10.1080/17528631.2012.629437",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Caribbean history, culture, and politics",
+      "Hispanic-African Historical Relations"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "African and Black Diaspora An International Journal, 2011."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "85-103 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1080/17528631.2012.629437"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ID/IDEDRSSK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1080/17528631.2012.629437"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

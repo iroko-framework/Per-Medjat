@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FG69THNJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Unimaginable Homelands? \"Africa\" and the Abakua Historical Imagination" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FG69THNJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FG69THNJ" ;
+  schema:author "Kenneth Routon" ;
+  schema:datePublished "2005" ;
+  schema:publisher "Journal of Latin American Anthropology" ;
+  schema:sameAs <https://doi.org/10.1525/jlat.2005.10.2.370> ;
+  dcterms:identifier "doi:10.1525/jlat.2005.10.2.370" ;
+  dcterms:subject "African history and culture studies", "Caribbean history, culture, and politics", "Postcolonial and Cultural Literary Studies" .

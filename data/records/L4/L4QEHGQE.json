@@ -1,0 +1,107 @@
+{
+  "key": "L4QEHGQE",
+  "uri": "https://medjat.irokosociety.org/id/library/L4QEHGQE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=L4QEHGQE",
+  "zotero": {
+    "group": "6479329",
+    "key": "L4QEHGQE",
+    "version": 1848,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/L4QEHGQE",
+    "dateAdded": "2026-05-19T14:18:18Z",
+    "dateModified": "2026-05-19T14:18:18Z"
+  },
+  "display": {
+    "title": "A history of Barbuda under the Codringtons 1738-1833",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Margaret T. Tweedy"
+      }
+    ],
+    "year": "1981",
+    "date": "1981",
+    "publisher": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+    "publicationTitle": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+    "bookTitle": "",
+    "journalAbbreviation": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Barbuda, a flat island twenty-five miles north of Antigua, had few inhabitants before the late seventeenth century. From 1684 to 1870 it was leased from the Crown by members of the Codrington family who administered it as part of their West Indian estates, by 1738 concentrated in Antigua. Barbuda's thin soil and susceptibility to drought made it unsuitable for sugar-growing, but it was developed by the Codringtons as a stock-rearing island which supplied their sugar estates and the market with meat and draught animals. This was usually the most profitable part of the economy, but the proprietor also received salvage awards from ships wrecked off the island's dangerous coasts. In addition, the Codringtons encouraged crop-growing and a miscellaneous assortment of activities which they hoped would increase their returns. The Codringtons for the period of this thesis were conscientious and usually effective absentee owners, and when there were efficient managers on Barbuda reasonable profits were made, though neither Sir William nor Sir Bethell Codrington (the two proprietors at this time) felt that they received an adequate return on their capital invested in slaves and stock. The slave population on Barbuda is particularly interesting because there was a natural growth from 172 in 1746 to 503 in 1831, because of favourable social conditions. Succeeding generations of families therefore grew up on Barbuda developing a strong attachment to the island. Attempts made by the attorneys to utilize this increase by transferring slaves to Antigua met with little success. Opposition from the slaves themselves and an unwillingness to harm them by the proprietor meant that in the main only those who transgressed were transferred. This slave society was a relatively happy one, the only serious disturbance coming before 1746, with some restlessness after 1820.",
+    "doi": "",
+    "url": "http://etheses.bham.ac.uk//id/eprint/5356/5/Tweedy81MLitt.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Margaret T. Tweedy"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A history of Barbuda under the Codringtons 1738-1833"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of Birmingham Institutional Research Archive (University of Birmingham), 1981."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/L4/L4QEHGQE.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

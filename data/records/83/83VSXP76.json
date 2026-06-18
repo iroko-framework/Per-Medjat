@@ -1,0 +1,113 @@
+{
+  "key": "83VSXP76",
+  "uri": "https://medjat.irokosociety.org/id/library/83VSXP76",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=83VSXP76",
+  "zotero": {
+    "group": "6479329",
+    "key": "83VSXP76",
+    "version": 1341,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/83VSXP76",
+    "dateAdded": "2026-05-19T13:28:55Z",
+    "dateModified": "2026-05-19T13:28:55Z"
+  },
+  "display": {
+    "title": "Carnival and Ñáñiguismo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Thomas F. Anderson"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "University Press of Florida eBooks",
+    "journalAbbreviation": "University Press of Florida eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "49-78",
+    "abstract": "Abstract The focus of this chapter—“Carnival and Ñáñiguismo: Poetic Syncretism in Alejo Carpentier's ‘Juego santo’”—is a little-studied poem by one of the earliest literary proponents of Afrocubanismo. This chapter begins with a brief exploration of Carpentier's decisive role as a founder of this artistic and cultural movement, but the focus is on the poem itself and, more specifically, its relationship to and evocation of Afro-Cuban carnival traditions. The chapter demonstrates how—in an act of poetic syncretism—Alejo Carpentier melds two public spectacles that had long been associated with Ñáñiguismo, or the Abakuá secret society: semi-public, sacred processions that were performed as part of ñáñigo initiation ceremonies, and carnivalesque “comparsas ñáñigas,” which first emerged during nineteenth-century Día de Reyes celebrations, and then eventually became integrated into traditional carnival festivities.",
+    "doi": "10.5744/florida/9780813035581.003.0003",
+    "url": "https://doi.org/10.5744/florida/9780813035581.003.0003",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Social Studies in Latin America",
+      "Latin American history and culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Thomas F. Anderson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Carnival and Ñáñiguismo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2011."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "49-78 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5744/florida/9780813035581.003.0003"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Social Studies in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/83/83VSXP76.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5744/florida/9780813035581.003.0003"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

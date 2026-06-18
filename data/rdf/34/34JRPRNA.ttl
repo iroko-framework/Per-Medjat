@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/34JRPRNA>
+  a schema:ScholarlyArticle ;
+  schema:name "The Rise of American Ingenuity: Innovation and Inventors of the Golden Age" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=34JRPRNA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:34JRPRNA" ;
+  schema:description "We examine the golden age of U.S. innovation by undertaking a major data collection exercise linking historical U.S. patents to state and county-level aggregates and matching inventors to Federal Censuses between 1880 and 1940. We identify a causal relationship between patented inventions and long-run economic growth and outline a basic framework for analyzing key macro and micro-level determinants. We find a positive relationship between innovation and drivers of regional performance including population density, financial development and geographic connectedness. We also explore the impact of social structure measured by slavery and religion. We then profile the characteristics of inventors and their life cycle finding that inventors were highly educated, positively selected through exit early in their careers, made time allocation decisions such as delayed marriage, and tended to migrate to places that were conducive to innovation. Father's income was positively correlated with becoming an inventor, though not when controlling for the child's education. We show there were strong financial returns to technological development. Finally, we document an inverted-U shaped relationship between inequality and innovation but also show that innovative places tended to be more socially mobile. Our new data help to address important questions related to innovation and long-run growth dynamics." ;
+  schema:author "Ufuk Akcigit" ;
+  schema:creator "John Grigsby", "Tom Nicholas" ;
+  schema:datePublished "2017" ;
+  schema:publisher "National Bureau of Economic Research" ;
+  schema:sameAs <https://doi.org/10.3386/w23047> ;
+  dcterms:identifier "doi:10.3386/w23047" ;
+  dcterms:subject "Culture, Economy, and Development Studies", "Economic Growth and Productivity", "Historical Economic and Social Studies" .

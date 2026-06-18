@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/39XACX54>
+  a schema:Book ;
+  schema:name "Ewé: The Use of Plants in Yoruba Society" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=39XACX54> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:39XACX54" ;
+  schema:author "Verger, Pierre" ;
+  schema:datePublished "1995" ;
+  schema:publisher "Odebrecht; Editora Schwarcz" ;
+  dcterms:identifier "isbn:85-7164-514-0" ;
+  dcterms:subject "Rituals", "Herbs", "Yorubá" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html> .

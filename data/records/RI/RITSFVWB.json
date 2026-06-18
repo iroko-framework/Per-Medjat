@@ -1,0 +1,100 @@
+{
+  "key": "RITSFVWB",
+  "uri": "https://medjat.irokosociety.org/id/library/RITSFVWB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RITSFVWB",
+  "zotero": {
+    "group": "6479329",
+    "key": "RITSFVWB",
+    "version": 792,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RITSFVWB",
+    "dateAdded": "2026-05-18T18:57:34Z",
+    "dateModified": "2026-05-18T18:57:34Z"
+  },
+  "display": {
+    "title": "El tesoro de los Quimbayas, un siglo después",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Pablo Gamboa Hinestrosa"
+      }
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "Ensayos Historia y Teoría del Arte",
+    "publicationTitle": "Ensayos Historia y Teoría del Arte",
+    "bookTitle": "",
+    "journalAbbreviation": "Ensayos Historia y Teoría del Arte",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "5",
+    "pages": "211-234",
+    "abstract": "En la region del Quindio, en 1890, cerca del pueblo de Filandia, los guaqueros sacaron un ajuar funerario en oro y ceramica, sepultado entre los siglos II a.c. y X d.c. correspondiente al estilo quimbaya clasico. Por su riqueza, rareza, cantidad y diversidad de objetos rituales o de sus suntuosos atuendos, - exquisitas obras de arte de las mas refinada orfebreria - las 123 piezas de esta ofrenda, constituidas como simbolos religiosos o emblemas jerarquicos precolombinos, son El Tesoro de los Quimbayas. Un siglo despues de su descubrimiento, de haberse expuesto en 1892, durante el IV Centenario de America, en Madrid, y de su donacion a la Corona Espanola, nos proponemos hacer algunos planteamientos sobre estos hechos desde la problematica de identidad y patrimonio cultural.",
+    "doi": "",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=203585",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and Cultural Heritage"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Pablo Gamboa Hinestrosa"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El tesoro de los Quimbayas, un siglo después"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ensayos Historia y Teoría del Arte, 1998."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "211-234 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and Cultural Heritage"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RI/RITSFVWB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

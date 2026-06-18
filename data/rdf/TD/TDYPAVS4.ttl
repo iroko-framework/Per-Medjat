@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TDYPAVS4>
+  a schema:ScholarlyArticle ;
+  schema:name "Oral Tradition in the Cult of the Orishas and its Connection with the History of the Yoruba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TDYPAVS4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TDYPAVS4" ;
+  schema:author "Verger, Pierre" ;
+  schema:datePublished "1956" ;
+  schema:publisher "Historical Society of Nigeria" .

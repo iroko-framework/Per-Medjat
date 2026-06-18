@@ -1,0 +1,119 @@
+{
+  "key": "P5CCLUKX",
+  "uri": "https://medjat.irokosociety.org/id/library/P5CCLUKX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=P5CCLUKX",
+  "zotero": {
+    "group": "6479329",
+    "key": "P5CCLUKX",
+    "version": 3672,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/P5CCLUKX",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "The Jesuits and Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Adam Rothman"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "Journal of Jesuit Studies",
+    "publicationTitle": "Journal of Jesuit Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Jesuit Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "issue": "1",
+    "pages": "1-10",
+    "abstract": "Abstract Despite extensive historiography, most people are not aware that the Society of Jesus owned people. Even Jesuit historiography sometimes neglects that complicated history. The historiography of slavery, however, has long tapped into Jesuit sources and produced a rich scholarship on Jesuit debates over slavery and their slaveholding practices across the Americas. This essay places Jesuit slaveholding in the context of the Jesuits’ global history and argues that genealogical research and calls for reconciliation provide an opportunity to renew and reorient scholarship towards the social history of the people owned by the Jesuits.",
+    "doi": "10.1163/22141332-0801p001",
+    "url": "https://doi.org/10.1163/22141332-0801p001",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Colonialism, slavery, and trade",
+      "Historical and Contemporary Political Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Adam Rothman"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Jesuits and Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Jesuit Studies, 2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-10 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/22141332-0801p001"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Contemporary Political Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/P5/P5CCLUKX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/22141332-0801p001"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

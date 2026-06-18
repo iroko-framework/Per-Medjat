@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GGKQ5LAK>
+  a schema:Thesis ;
+  schema:name "Making Black Girls Real: Reconstructing Black Girlhood In the U.S., 1861-1963" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GGKQ5LAK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GGKQ5LAK" ;
+  schema:description "University of Minnesota Ph.D. dissertation.June 2016. Major: American Studies. Advisor: Roderick Ferguson. 1 computer file (PDF); xii, 250 pages." ;
+  schema:author "Tammy C. Owens" ;
+  schema:datePublished "2016" ;
+  schema:publisher "University of Minnesota Digital Conservancy (University of Minnesota)" ;
+  dcterms:subject "Gender Roles and Identity Studies", "Historical Studies on Reproduction, Gender, Health, and Societal Changes", "Race, History, and American Society" .

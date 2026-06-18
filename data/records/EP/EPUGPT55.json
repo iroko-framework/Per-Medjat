@@ -1,0 +1,155 @@
+{
+  "key": "EPUGPT55",
+  "uri": "https://medjat.irokosociety.org/id/library/EPUGPT55",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EPUGPT55",
+  "zotero": {
+    "group": "6479329",
+    "key": "EPUGPT55",
+    "version": 4125,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EPUGPT55",
+    "dateAdded": "2026-06-17T15:31:08Z",
+    "dateModified": "2026-06-17T15:31:08Z"
+  },
+  "display": {
+    "title": "Arbuscular mycorrhizal fungi community in coffee agroforestry, consortium and monoculture systems",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Welluma Teixeira Barros"
+      },
+      {
+        "role": "editor",
+        "name": "Patrícia Anjos Bittencourt Barreto‐Garcia"
+      },
+      {
+        "role": "editor",
+        "name": "Orivaldo José Saggin Júnior"
+      },
+      {
+        "role": "editor",
+        "name": "RAFAEL N. SCORIZA"
+      },
+      {
+        "role": "editor",
+        "name": "MAICON S. DA SILVA"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "Anais da Academia Brasileira de Ciências",
+    "publicationTitle": "Anais da Academia Brasileira de Ciências",
+    "bookTitle": "",
+    "journalAbbreviation": "Anais da Academia Brasileira de Ciências",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "94",
+    "issue": "3",
+    "pages": "e20201228-e20201228",
+    "abstract": "Understanding the effects of different production systems on arbuscular mycorrhizal fungi (AMF) can help to interpret interactions between their components and to define management strategies. As a result, our study was conducted on soils under three coffee production systems (one homogeneous and two heterogeneous) and in a native forest located in the Bahia state, Brazil. This study aimed to answer the following questions: 1) Does the organization and management of the coffee production system affect the occurrence and diversity of AMF?; and 2) Is the seasonality effect similar between systems? To do so, soil samples (0-10 cm depth) were collected at two times of the year (rainy and dry). Number of spores (NS) and average richness did not show differences between the systems, only between seasons. There was a reduction in NS in the dry season (1.4 and 2.7 spores g-1 soil) in relation to the rainy season (3.8 to 12.5 spores g-1 soil). The influence of coffee production systems was observed in the presence and absence of some AMF species. The AMF community was shown to be related to the plant species composition of the system, which was reflected in the dissimilarity of heterogeneous systems in relation to the coffee monoculture system.",
+    "doi": "10.1590/0001-3765202220201228",
+    "url": "https://doi.org/10.1590/0001-3765202220201228",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cocoa and Sweet Potato Agronomy",
+      "Forest Ecology and Biodiversity Studies",
+      "Mycorrhizal Fungi and Plant Interactions"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Welluma Teixeira Barros"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Arbuscular mycorrhizal fungi community in coffee agroforestry, consortium and monoculture systems"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Anais da Academia Brasileira de Ciências, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "e20201228-e20201228 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/0001-3765202220201228"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cocoa and Sweet Potato Agronomy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Forest Ecology and Biodiversity Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mycorrhizal Fungi and Plant Interactions"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Patrícia Anjos Bittencourt Barreto‐Garcia"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Orivaldo José Saggin Júnior"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "RAFAEL N. SCORIZA"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "MAICON S. DA SILVA"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EP/EPUGPT55.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/0001-3765202220201228"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

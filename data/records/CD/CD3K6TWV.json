@@ -1,0 +1,102 @@
+{
+  "key": "CD3K6TWV",
+  "uri": "https://medjat.irokosociety.org/id/library/CD3K6TWV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CD3K6TWV",
+  "zotero": {
+    "group": "6479329",
+    "key": "CD3K6TWV",
+    "version": 957,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CD3K6TWV",
+    "dateAdded": "2026-05-19T13:27:20Z",
+    "dateModified": "2026-05-19T13:27:20Z"
+  },
+  "display": {
+    "title": "Enjeux de pouvoir, pouvoir en jeu et institutionnalisation de la société secrète abakuá à la Havane",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Géraldine Morel-Baró"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "EchoGéo",
+    "publicationTitle": "EchoGéo",
+    "bookTitle": "",
+    "journalAbbreviation": "EchoGéo",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "",
+    "pages": "",
+    "abstract": "La société secrète masculine abakuá est une modalité de culte localisée à l'ouest de l'île de Cuba. Maçonnerie noire ou confrérie à but charitable, cette organisation a de tout temps entretenu des relations ambiguës et conflictuelles avec le pouvoir en place. Qu'en est-il dès lors de ses relations avec le gouvernement socialiste actuel et de la lutte menée par ses dirigeants pour une reconnaissance officielle? Ce changement de statut, survenu en 2005 est loin d'être anodin et pose des questions pertinentes sur le pouvoir en général dans l'espace urbain et sur l'insertion des pratiques religieuses au sein du processus révolutionnaire.",
+    "doi": "10.4000/echogeo.11706",
+    "url": "https://doi.org/10.4000/echogeo.11706",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Géraldine Morel-Baró"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Enjeux de pouvoir, pouvoir en jeu et institutionnalisation de la société secrète abakuá à la Havane"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "EchoGéo, 2010."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/echogeo.11706"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/CD/CD3K6TWV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/echogeo.11706"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

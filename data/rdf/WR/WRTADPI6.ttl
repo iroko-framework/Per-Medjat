@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WRTADPI6>
+  a schema:ScholarlyArticle ;
+  schema:name "Yaqui Women: Contemporary Life Histories" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WRTADPI6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WRTADPI6" ;
+  schema:description "The four life histories collected here-personal accounts of the Yaqui wars, deportation from Sonora in virtual slavery, life as soldaderas with the Mexican Revolutionary army, emigration to Arizona to escape persecution, the rebuilding of the Yaqui villages in post-Revolutionary Sonora, and life in the modern Yaqui communities-constitute remarkable documents of human endurance, valuable for both their historical and their anthropological insights. In addition, they shed new light on the roles of women, a group that is underrepresented in studies of Yaquis as well as in life history literature. Based on the belief that the life history approach, focusing on individual rather than cultures or societies, can contribute significantly to anthropological research, the book includes a discussion of life history methodology and illustrates its applicability to questions of social roles and variations in adaptive strategies." ;
+  schema:author "Anne Beidler" ;
+  schema:creator "Jane H. Kelley" ;
+  schema:datePublished "1979" ;
+  schema:publisher "The American Indian Quarterly" ;
+  schema:sameAs <https://doi.org/10.2307/1183778> ;
+  dcterms:identifier "doi:10.2307/1183778" ;
+  dcterms:subject "Culinary Culture and Tourism", "Indigenous Studies and Ecology", "Latin American and Latino Studies" .

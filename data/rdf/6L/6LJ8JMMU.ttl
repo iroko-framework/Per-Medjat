@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6LJ8JMMU>
+  a schema:ScholarlyArticle ;
+  schema:name "Preventing Modern Slavery Through Corporate Social Responsibility Disclosure: An Analysis of the U.S. Hospitality and Tourism Industry" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6LJ8JMMU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6LJ8JMMU" ;
+  schema:description "Despite growing international awareness and legislation, the hospitality and tourism industries are still hot spots for modern slavery due to the nature of their businesses. The purpose of this study is to explore corporate social responsibility (CSR) disclosures of firms in the U.S. hospitality and tourism industry and to examine what actions they have incorporated regarding protecting human rights and preventing modern slavery. Using content analysis, this study provided a benchmarking assessment from a sample of hospitality and tourism companies that were top ranked for their human rights and supply chain performance by CSRHub. A total of 30 code instruments have been classified into three main themes on combating modern slavery including formal guidelines and resources, company-wide compliances and policies, and actions." ;
+  schema:author "Yue Vaughan" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Cornell Hospitality Quarterly" ;
+  schema:sameAs <https://doi.org/10.1177/19389655231182082> ;
+  dcterms:identifier "doi:10.1177/19389655231182082" ;
+  dcterms:subject "Corporate Social Responsibility Reporting", "Environmental Sustainability in Business", "Global trade, sustainability, and social impact" .

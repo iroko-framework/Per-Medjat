@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LVG6QNXM>
+  a schema:Thesis ;
+  schema:name "A History of Methodism in Haiti 1817-1916." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LVG6QNXM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LVG6QNXM" ;
+  schema:description "Haiti was the first French-speaking country outside Europe, and the first non-British colony, where Methodist missionary work was established by John Brown and James Catts in 1817. Their short stay was followed by a period of twenty years when the Methodists in Port-au-Prince were organised under Haitian leadership. The arrival of missionary Mark Baker Bird in 1839 brought this indigenous period to its close. The time between 1804 (the year of Haiti's independence) and 1860 (the year when a Concordat was signed with the Vatican) saw the Roman Catholic community in Haiti in schism with Rome. During this time, Methodists understood their role in terms of non-sectarian collaboration with those attempting to evolve national institutions. After the signing of the Concordat, a significant change of climate can be noted. The Roman Catholics became self-confident, foreign-led, and an anti-protestant church. On the Protestant side, the different churches (Baptist, Episcopalian, and Methodist) tended to line up with nationalists and freemasons who mounted a campaign against the Concordat. Protestants in general, and Methodists among them, became increasingly sectarian. Some important Haitian intellectuals, however, who had been formed within a Methodist communion which remained true to the teaching and influence of Mark Bird, continued to take the larger view. This thesis emphasises the work of men such as J.B. Dehoux, a key figure in the world of medicine in 19th century Haiti; and Louis-Joseph Janvier, diplomat and political theorist; and also Etzer Vilaire, poet, teacher, and vice president of the Haitian Court of Appeal. All saw religion in the context of wider questions and issues, and established a distinctive intellectual tradition. The concentration of work in the towns of Haiti, the narrow social limits of the Methodists after the initial and better-balanced phase, the failure to produce Haitian ministers, all led to internal dissension, limits on the possibilities of growth, and a reduction of influence in the country generally by 1916 - tendencies which only later were to be reversed." ;
+  schema:author "Leslie Griffiths" ;
+  schema:datePublished "1987" ;
+  schema:publisher "SOAS Research Online (SOAS University of London)" ;
+  schema:sameAs <https://doi.org/10.25501/soas.00034083> ;
+  dcterms:identifier "doi:10.25501/soas.00034083" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade" .

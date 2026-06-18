@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NCI7848I>
+  a schema:ScholarlyArticle ;
+  schema:name "Grammatical Structure, Historical Development, and Religious Usage of Afro-Cuban Bozal Speech" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NCI7848I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NCI7848I" ;
+  schema:author "Isabel Castellanos" ;
+  schema:datePublished "1990" ;
+  schema:publisher "IUScholarWorks (Indiana University)" ;
+  dcterms:subject "Cuban History and Society", "Linguistic Variation and Morphology", "Multilingual Education and Policy" .

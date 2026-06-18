@@ -1,0 +1,107 @@
+{
+  "key": "Y7BWMDC9",
+  "uri": "https://medjat.irokosociety.org/id/library/Y7BWMDC9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Y7BWMDC9",
+  "zotero": {
+    "group": "6479329",
+    "key": "Y7BWMDC9",
+    "version": 3326,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Y7BWMDC9",
+    "dateAdded": "2026-05-20T16:33:53Z",
+    "dateModified": "2026-05-20T16:33:53Z"
+  },
+  "display": {
+    "title": "The Founding Myths of the Haitian Nation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Maximilien Laroche"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Small Axe A Caribbean Journal of Criticism",
+    "publicationTitle": "Small Axe A Caribbean Journal of Criticism",
+    "bookTitle": "",
+    "journalAbbreviation": "Small Axe A Caribbean Journal of Criticism",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "9",
+    "issue": "2",
+    "pages": "1-15",
+    "abstract": "Translated by Martin Munro.",
+    "doi": "10.1215/-9-2-1",
+    "url": "https://doi.org/10.1215/-9-2-1",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Maximilien Laroche"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Founding Myths of the Haitian Nation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Small Axe A Caribbean Journal of Criticism, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-15 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/-9-2-1"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Y7/Y7BWMDC9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/-9-2-1"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

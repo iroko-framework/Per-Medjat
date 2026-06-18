@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K35QC4NP>
+  a schema:Chapter ;
+  schema:name "The Giant Lamellophones" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K35QC4NP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K35QC4NP" ;
+  schema:description "In the study of organology, African lamellophones are a unique class of musical instruments. It is to the transatlantic influence of Afro-Cuban music that we turn to reconstruct the creation and diffusion of the giant lamellophones. These instruments were associated with Abakua lodges, the Western Cuban outpost of fraternal associations which originated in southeastern Nigeria and southwestern Cameroon. With the advent of the Cuban son in the early 20th century, the music and instrumentation of the son conjuntos were heard and replicated through the medium of records, films, and touring groups in Jamaica, Puerto Rico, Colombia, and Argentina. Inter-island migrant workers helped to spread Cuban musical instruments and performance practices throughout the Caribbean. In 1965, the musicologist George List recorded a Colombian marimbula player, Jose Isabel Castillo Martinez, who employed a “showy” technique wherein he passed his left hand underneath his bent knee to play the instrument, an attitude with clear connections to the Angolan likembe and other handheld lamellophones." ;
+  schema:author "Richard Graham" ;
+  schema:datePublished "2021" ;
+  schema:sameAs <https://doi.org/10.4324/9781003003526-22> ;
+  dcterms:identifier "doi:10.4324/9781003003526-22" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Music History and Culture" .

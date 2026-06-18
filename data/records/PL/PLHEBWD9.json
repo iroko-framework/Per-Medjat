@@ -1,0 +1,101 @@
+{
+  "key": "PLHEBWD9",
+  "uri": "https://medjat.irokosociety.org/id/library/PLHEBWD9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PLHEBWD9",
+  "zotero": {
+    "group": "6479329",
+    "key": "PLHEBWD9",
+    "version": 1743,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PLHEBWD9",
+    "dateAdded": "2026-05-19T14:17:48Z",
+    "dateModified": "2026-05-19T14:17:48Z"
+  },
+  "display": {
+    "title": "Hearts divided: The marriage and family of Elizabeth and William Wirt, 1802-1834",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Anya Jabour"
+      }
+    ],
+    "year": "1995",
+    "date": "1995",
+    "publisher": "Rice Digital Scholarship Archive (Rice University)",
+    "publicationTitle": "Rice Digital Scholarship Archive (Rice University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Rice Digital Scholarship Archive (Rice University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This joint biography of Elizabeth Gamble Wirt (1784-1857) and William Wirt (1772-1834) tells the story of a middle-class couple in the upper South from 1802 to 1834. The Wirts were members of the emerging urban professional class in the nineteenth-century United States. William Wirt was U.S. Attorney General from 1817 to 1829 and a literary figure who contributed to the legend of the Old South. Elizabeth Wirt was the first American to author a book on the \"language of flowers.\" Although both Elizabeth and William Wirt wrote for publication, their most prolific writings were personal and family correspondence. William Wirt's law practice in Virginia, Washington, D.C., and Maryland separated the couple for many months each year. While apart, the Wirts wrote letters that covered every aspect of their lives: their desire for companionship in their marriage and family; their experiments in modern childrearing; their respective roles in their domestic economy; their supervision of slaves and servants in household production; and their gender roles as husband and wife, father and mother, and master and mistress.\\nWhen Elizabeth and William Wirt married in 1802, they hoped to achieve equality and reciprocity in their marriage. As partners in both love and finances, they planned to make their union the nucleus of a family defined by affection, not by social prescriptions of masculinity and femininity. While the Wirts embraced the ideals of domesticity, they resisted the division of men's lives and women's lives into the separate spheres of home and work. This study documents the Wirts' repeated redefinition of gender roles throughout their marriage. Elizabeth and William Wirt never achieved the high standards they set for themselves, but their lives and letters deepen our understanding of men, women, and the family in nineteenth-century America.\\nUsing interdisciplinary insights from scholarship on religion, architecture, and literature as well as United States social history, women, and families, this study contributes to the fields of women's history, gender studies, the history of childhood education, nineteenth-century America, and the U.S. South.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1911/16833",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Anya Jabour"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Hearts divided: The marriage and family of Elizabeth and William Wirt, 1802-1834"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Rice Digital Scholarship Archive (Rice University), 1995."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PL/PLHEBWD9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K4KB6QBG>
+  a schema:Thesis ;
+  schema:name "Slaves and Slaveholders in the Choctaw Nation: 1830-1866" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K4KB6QBG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K4KB6QBG" ;
+  schema:description "Racial slavery was a critical element in the cultural development of the Choctaws and was a derivative of the peculiar institution in southern states. The idea of genial and hospitable slave owners can no more be conclusively demonstrated for the Choctaws than for the antebellum South. The participation of Choctaws in the Civil War and formal alliance with the Confederacy was dominantly influenced by the slaveholding and a connection with southern identity, but was also influenced by financial concerns and an inability to remain neutral than a protection of the peculiar institution. Had the Civil War not taken place, the rate of Choctaw slave ownership possibly would have reached the level of southern states and the Choctaws would be considered part of the South." ;
+  schema:author "Jeffrey L. Fortney" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.12794/metadc28371> ;
+  dcterms:identifier "doi:10.12794/metadc28371" ;
+  dcterms:subject "American Literature and Culture", "Canadian Identity and History", "Migration, Health, Geopolitics, Historical Geography" .

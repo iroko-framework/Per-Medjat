@@ -1,0 +1,119 @@
+{
+  "key": "N8YS5F48",
+  "uri": "https://medjat.irokosociety.org/id/library/N8YS5F48",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=N8YS5F48",
+  "zotero": {
+    "group": "6479329",
+    "key": "N8YS5F48",
+    "version": 621,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/N8YS5F48",
+    "dateAdded": "2026-05-18T18:57:14Z",
+    "dateModified": "2026-05-18T18:57:14Z"
+  },
+  "display": {
+    "title": "A spatio‐temporal analysis of ‘Oro cult marae in the’ Opunohu Valley, Mo'orea, Society Islands",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jennifer G. Kahn"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Archaeology in Oceania/Archæology & physical anthropology in Oceania",
+    "publicationTitle": "Archaeology in Oceania/Archæology & physical anthropology in Oceania",
+    "bookTitle": "",
+    "journalAbbreviation": "Archaeology in Oceania/Archæology & physical anthropology in Oceania",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "45",
+    "issue": "2",
+    "pages": "103-110",
+    "abstract": "ABSTRACT A new war cult dedicated to the god 'Oro emerged in late prehistory in the Society Islands and was linked to shifts in temple architecture, religious rituals, and sacred regalia. Legends suggest that this war cult developed in the Leeward Islands and was translocated to the Windward group prior to European contact. This article summarizes ethnohistoric data for the 'Oro war cult, including its relationship to new temple styles in the Windward group constructed from worked rounded stones. Such temples are found in both inland and coastal contexts. Extant chronological data on Windward marae of the 'Oro style are synthesized. A new spatio‐temporal case study of four 'Oro style temples from the 'Opunohu Valley, Mo'orea demonstrates considerable variability in temple morphology and chronology. This is linked to differences among socio‐political maneuverings of high status lineage chiefs versus lower status lineage chiefs in the 'Opunohu Valley and perhaps to functional variation among the types of 'Oro style marae structures found in inland contexts. The new chronology suggests a rapid translocation of the 'Oro style war cult into the Windward group, somewhat earlier than previous archaeological work had suggested.",
+    "doi": "10.1002/j.1834-4453.2010.tb00085.x",
+    "url": "https://doi.org/10.1002/j.1834-4453.2010.tb00085.x",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and ancient environmental studies",
+      "Geology and Paleoclimatology Research",
+      "Pacific and Southeast Asian Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jennifer G. Kahn"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A spatio‐temporal analysis of ‘Oro cult marae in the’ Opunohu Valley, Mo'orea, Society Islands"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Archaeology in Oceania/Archæology & physical anthropology in Oceania, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "103-110 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1002/j.1834-4453.2010.tb00085.x"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and ancient environmental studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geology and Paleoclimatology Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pacific and Southeast Asian Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/N8/N8YS5F48.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1002/j.1834-4453.2010.tb00085.x"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

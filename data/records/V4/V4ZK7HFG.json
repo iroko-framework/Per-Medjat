@@ -1,0 +1,107 @@
+{
+  "key": "V4ZK7HFG",
+  "uri": "https://medjat.irokosociety.org/id/library/V4ZK7HFG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V4ZK7HFG",
+  "zotero": {
+    "group": "6479329",
+    "key": "V4ZK7HFG",
+    "version": 2055,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V4ZK7HFG",
+    "dateAdded": "2026-05-19T14:19:18Z",
+    "dateModified": "2026-05-19T14:19:18Z"
+  },
+  "display": {
+    "title": "Simulation Based Analysis of Kinematics, Dynamics and Control of Space Robots",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Shafina Sultana"
+      }
+    ],
+    "year": "1996",
+    "date": "1996",
+    "publisher": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)",
+    "publicationTitle": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)",
+    "bookTitle": "",
+    "journalAbbreviation": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The space robotics kinematics, dynamics and control were studied by simulation. An emerging concept in space robotics is the Virtual Manipulator (VM) concept. In this study, the VM concept was enhanced and verified through simulation. The mathematical software package MATHEMATICA was used to compute the formulations. In the kinematics simulation of free-floating space robotics systems the concept of VM was enhanced which relates to the homogeneous matrix formulation. This was established by simulation results, there are no external forces condition, the inverse kinematics solution can be solved. In the area of space robot dynamic identification, the method based on conservation law of linear and angular momentum of a space robot from the VM approach was introduced. It was shown that the acceleration of the Virtual Base (VB) was proportionally equal to the change of its position in inertial space from the applied forces or torques. The forces or torques rotates about the system center of mass. A PD control law was used with the simulation test to identify the dynamic parameters. In the problem of trajectory planning, the VM concept was utilized that allow the space robot translation and rotation with respect to an inertial reference frame. A method was developed that can compute the satellite platform moments from the manipulator's motion. The resolved motion rate control algorithm was used for time periodic feedback control. In the simulation results, a satellite-based three degrees of freedom robot was simulated using schematic illustrations. The telerobotic control system was used in the space robotics control. In the masterslave control environment study, several considerations were taken into account, like the master and slave arm configuration, telemonitoring force feedback algorithm, and dynamic characteristics of master and slave arm. In this study a complete and enhanced master-slave space robotics system was established by simulation.",
+    "doi": "",
+    "url": "http://psasir.upm.edu.my/id/eprint/9978/1/FK_1996_3_A.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Modular Robots and Swarm Intelligence",
+      "Soft Robotics and Applications",
+      "Space Satellite Systems and Control"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Shafina Sultana"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Simulation Based Analysis of Kinematics, Dynamics and Control of Space Robots"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia), 1996."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Modular Robots and Swarm Intelligence"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Soft Robotics and Applications"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Space Satellite Systems and Control"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/V4/V4ZK7HFG.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

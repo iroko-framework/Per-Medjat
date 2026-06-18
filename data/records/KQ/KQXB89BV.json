@@ -1,0 +1,119 @@
+{
+  "key": "KQXB89BV",
+  "uri": "https://medjat.irokosociety.org/id/library/KQXB89BV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KQXB89BV",
+  "zotero": {
+    "group": "6479329",
+    "key": "KQXB89BV",
+    "version": 3329,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KQXB89BV",
+    "dateAdded": "2026-05-20T16:33:55Z",
+    "dateModified": "2026-05-20T16:33:55Z"
+  },
+  "display": {
+    "title": "Libérer le double, la beauté sera convulsive…",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rachel Beauvoir-Dominique"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Gradhiva",
+    "publicationTitle": "Gradhiva",
+    "bookTitle": "",
+    "journalAbbreviation": "Gradhiva",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "issue": "1",
+    "pages": "57-69",
+    "abstract": "Rachel Beauvoir-Dominique, Libérer le double, la beauté sera convulsive... À propos d’une collection d’art vodou. — De 1980 à ce jour, grâce au dévouement de Madame Marianne Lehmann, une collection unique de trésors du répertoire plastique vodou et « Makaya » a été rassemblée. Dotée de plusieurs milliers d’objets de culte, cette impressionnante collection n’a pas encore été exposée publiquement de manière permanente ; elle a cependant déjà attiré l’attention de nombreuses institutions nationales et internationales. La signification de ces pièces va bien au-delà de leur pratique quotidienne, l’esthétique particulière qui s’en dégage remettant en question les conceptions de l’art classique. Elles renseignent en outre sur l’ensemble de la culture vodou, tant dans ses composantes historiques que dans son fonctionnement actuel.",
+    "doi": "10.4000/gradhiva.271",
+    "url": "https://doi.org/10.4000/gradhiva.271",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural Identity and Heritage",
+      "French Historical and Cultural Studies",
+      "French Urban and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rachel Beauvoir-Dominique"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Libérer le double, la beauté sera convulsive…"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Gradhiva, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "57-69 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/gradhiva.271"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural Identity and Heritage"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "French Historical and Cultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "French Urban and Social Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/KQ/KQXB89BV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/gradhiva.271"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

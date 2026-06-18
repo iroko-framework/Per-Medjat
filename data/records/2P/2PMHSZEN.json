@@ -1,0 +1,137 @@
+{
+  "key": "2PMHSZEN",
+  "uri": "https://medjat.irokosociety.org/id/library/2PMHSZEN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2PMHSZEN",
+  "zotero": {
+    "group": "6479329",
+    "key": "2PMHSZEN",
+    "version": 3441,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2PMHSZEN",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Horizontal collaboration in response to modern slavery legislation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Amy Benstead"
+      },
+      {
+        "role": "editor",
+        "name": "Linda C. Hendry"
+      },
+      {
+        "role": "editor",
+        "name": "Mark Stevenson"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "International Journal of Operations & Production Management",
+    "publicationTitle": "International Journal of Operations & Production Management",
+    "bookTitle": "",
+    "journalAbbreviation": "International Journal of Operations & Production Management",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "38",
+    "issue": "12",
+    "pages": "2286-2312",
+    "abstract": "Purpose The purpose of this paper is to investigate how horizontal collaboration aids organisations in responding to modern slavery legislation and in gaining a socially sustainable competitive advantage. Design/methodology/approach Action research has been conducted in the textiles and fashion industry and a relational perspective adopted to interpret five collaborative initiatives taken to tackle modern slavery (e.g. joint training and supplier audits). The primary engagement has been with a multi-billion pound turnover company and its collaborations with 35 brands/retailers. A non-government organisation and a trade body have also participated. Findings Successful horizontal collaboration is dependent on both relational capital and effective (formal and informal) governance mechanisms. In collaborating, firms have generated relational rents and reduced costs creating a socially sustainable competitive advantage, as suggested by the relational perspective. Yet, limits to horizontal collaboration also exist. Research limitations/implications The focus is on one industry only, hence there is scope to extend the study to other industries or forms of collaboration taking place across industries. Practical implications Successful horizontal collaborative relationships rely on actors having a similar mindset and being able to decouple the commercial and sustainability agendas, especially when direct competitors are involved. Further, working with non-business actors can facilitate collaboration and provide knowledge and resources important for overcoming the uncertainty that is manifest when responding to new legislation. Social implications Social sustainability improvements aim to enhance ethical trade and benefit vulnerable workers. Originality/value Prior literature has focussed on vertical collaboration with few prior studies of horizontal collaboration, particularly in a socially sustainable supply chain context. Moreover, there has been limited research into modern slavery from a supply chain perspective. Both successful and unsuccessful initiatives are studied, providing insights into (in)effective collaboration.",
+    "doi": "10.1108/ijopm-10-2017-0611",
+    "url": "https://doi.org/10.1108/ijopm-10-2017-0611",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Global trade, sustainability, and social impact",
+      "Outsourcing and Supply Chain Management",
+      "Sustainable Supply Chain Management"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Amy Benstead"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Horizontal collaboration in response to modern slavery legislation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "International Journal of Operations & Production Management, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "2286-2312 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1108/ijopm-10-2017-0611"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global trade, sustainability, and social impact"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Outsourcing and Supply Chain Management"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sustainable Supply Chain Management"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Linda C. Hendry"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Mark Stevenson"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2P/2PMHSZEN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1108/ijopm-10-2017-0611"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

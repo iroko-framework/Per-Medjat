@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YPWYDG8I>
+  a schema:Thesis ;
+  schema:name "Law and community in a slave society : Stellenbosch district, c.1760-1820" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YPWYDG8I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YPWYDG8I" ;
+  schema:description "m m u n i t yThe Southwestern Cape was the orbit of agrarian production at the Cape.It is here, according to Robert Ross, where the origins of 'quasi-capitalist' agriculture were to be found. 1Despite the criticism levelled at Ross 2 , he has nevertheless successfully qualified the thesis (first challenged by Bill Freund) that \"class dis tine tions in the European sense did not app 1 y with in the white community\". 3 In the course of the eighteenth century a rural landed elite --the 'Cape gentry' --had emerged in the southwestern Cape who had managed to gain substantial control \\ over the loca 1 or~ans of power to such an extent that by the nineteenth century the \"authorities in Cape Town simply could not 1 .R. Ross, \"The Orig ins of Capita 1 is t Agr icu 1 tu re in the Cape Colony: A Survey\" in W. BeiTilart et al (eds>, Putting a Plough to the Ground: Accumulation and Dispossession in Rural South Africa," ;
+  schema:author "Wayne Dooling" ;
+  schema:datePublished "1991" ;
+  schema:publisher "Open University of Cape Town (University of Cape Town)" ;
+  dcterms:subject "African history and culture studies", "Legal Issues in South Africa", "South African History and Culture" .

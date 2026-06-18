@@ -1,0 +1,116 @@
+{
+  "key": "TREPA7S4",
+  "uri": "https://medjat.irokosociety.org/id/library/TREPA7S4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TREPA7S4",
+  "zotero": {
+    "group": "6479329",
+    "key": "TREPA7S4",
+    "version": 3846,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TREPA7S4",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Factor Endowments, Inequality, and Paths of Development among New World Economies",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stanley L. Engerman"
+      },
+      {
+        "role": "editor",
+        "name": "Kenneth L. Sokoloff"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Economía",
+    "publicationTitle": "Economía",
+    "bookTitle": "",
+    "journalAbbreviation": "Economía",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3",
+    "issue": "1",
+    "pages": "41-109",
+    "abstract": "Whereas traditional explanations of differences in long-run paths of development across the Americas generally point to the significance of differences in national heritage or religion, we highlight the relevance of stark contrasts in the degree of inequality in wealth, human capital, and political power in accounting for how fundamental economic institutions evolved over time.",
+    "doi": "10.1353/eco.2002.0013",
+    "url": "https://doi.org/10.1353/eco.2002.0013",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Economic Growth and Productivity"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stanley L. Engerman"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Factor Endowments, Inequality, and Paths of Development among New World Economies"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Economía, 2002."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "41-109 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/eco.2002.0013"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Growth and Productivity"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Kenneth L. Sokoloff"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TR/TREPA7S4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/eco.2002.0013"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

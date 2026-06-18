@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K3NZ9YAT>
+  a schema:ScholarlyArticle ;
+  schema:name "Modern slavery and the Global Reporting Initiative – A bridge too far?" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K3NZ9YAT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K3NZ9YAT" ;
+  schema:description "Abstract As the Global Reporting Initiative currently provides the most widely used set of voluntary sustainability reporting standards, the question arises as to the extent to which the Initiative's multi‐stakeholder governance is helping towards ending modern slavery in line with the United Nations Sustainable Development Goal 8. Stakeholder theory and examination of the Initiative's sustainability standards are used, to examine the issue. Evidence from the Initiative's set of universal, topic and sector standards reveals that, while forced and child labour are identified as granular material topics for sustainability reporting, the broader concept of modern slavery has not been recognised as a required material theme for disclosure. One recent exception is voluntary publication of three new sector standards, where the modern slavery term appears to be introduced as a symbolic rather than a substantive notion. Main contributions from the research relate to, first, providing a critique of the multi‐stakeholder foundations for governance as used by the Initiative; second, examination of the results of the Initiative's standard setting process in terms of its standards and their incorporation of modern slavery, from a multi‐stakeholder governance perspective with the hope of improving governance in the future." ;
+  schema:author "Roger Burritt" ;
+  schema:creator "Katherine L. Christ" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Business Strategy & Development" ;
+  schema:sameAs <https://doi.org/10.1002/bsd2.239> ;
+  dcterms:identifier "doi:10.1002/bsd2.239" ;
+  dcterms:subject "Corporate Social Responsibility Reporting", "Global trade, sustainability, and social impact", "Mining and Resource Management" .

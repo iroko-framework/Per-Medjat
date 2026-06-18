@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FUQVKV28>
+  a schema:ScholarlyArticle ;
+  schema:name "Passage of Darkness: The Ethnobiology of the Haitian Zombie, by Wade Davis" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FUQVKV28> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FUQVKV28" ;
+  schema:description "H.P. Lovecraft and Indiana Jones move over! Wade Davis has shown once again that facts can be stranger than even the strangest fiction. Northern readers interested in the resilience of traditional lifeways and mechanisms for sharing power in traditional societies will find food for thought in this book. Those interested in traditional uses of plants and animals will learn something new. Even those cabin-bound sourdoughs who need a good mental holiday in the tropics should pick it up. Anyone seriously skeptical of the powers of magic, bored with science, unconvinced of the value of interdisciplinary research or unfamiliar with the discipline of ethnobiology should make Passage of Darkness required reading." ;
+  schema:author "Jack Van Camp" ;
+  schema:datePublished "1989" ;
+  schema:publisher "ARCTIC" ;
+  schema:sameAs <https://doi.org/10.14430/arctic1950> ;
+  dcterms:identifier "doi:10.14430/arctic1950" ;
+  dcterms:subject "Gothic Literature and Media Analysis", "Yersinia bacterium, plague, ectoparasites research" .

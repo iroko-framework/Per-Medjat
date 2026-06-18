@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Z67QNUA4>
+  a schema:ScholarlyArticle ;
+  schema:name "Societats Secretes a Haití: outopos de la memòria." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Z67QNUA4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Z67QNUA4" ;
+  schema:description "La història d’Haití ha quedat marcada tant per la tracta d’esclaus i les pràctiques escla­vagistes de l’època colonial, com per la resistència front aquestes pràctiques. L’èxit de la revolta d’esclaus (1791-1804) que va portar a la independència del país, constitueix un cas únic en la història. Du­rant l’època d’esclavitud, però també durant les guerres per la independència, les comu­nitats de marrons (esclaus rebels) van jugar un rol essencial. En l’Haití contemporani, trobem altres grups que, com les comunitats de marrons d’antuvi, fan del secret i l’ocul­tació un dels seus principals modus d’existir i d’operar: les societats secretes. Temu­des, denigrades o deformades, però sempre presents en l’imaginari de la societat que podríem anomenar vudú o tradicional, aquestes societats han desenvolupat algunes funcions imprescindibles per l’equilibri de la societat. Són font de justícia en un país on les estructures administratives sempre queden lluny des de tots els punts de vista i, sobretot, esdevenen els llocs de la memò­ria silenciada, una memòria que guarda el record viu de l’horror de l’esclavatge i de la societat colonial, però també l’esperan­ça que al menys una vegada la lluita per la llibertat va triomfar front els mecanismes d’opressió i deshumanització." ;
+  schema:author "Joan Gimeno Prats" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Quaderns de l Institut Català d Antropologia" ;
+  schema:sameAs <https://doi.org/10.56247/qua.364> ;
+  dcterms:identifier "doi:10.56247/qua.364" ;
+  dcterms:subject "African history and culture studies", "Agriculture and Rural Development Research", "Global Maritime and Colonial Histories" .

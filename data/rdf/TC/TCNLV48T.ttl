@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TCNLV48T>
+  a schema:Thesis ;
+  schema:name "The African Boom? Evaluating Economic Growth in the Roman Province of Africa Proconsularis" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TCNLV48T> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TCNLV48T" ;
+  schema:description "This study attempts to evaluate the social implications of economic changes that occurred in Roman North Africa between the fall of Carthage in 146 BC and the arrival of the Vandals in the mid-5th century AD. Several authors have argued that Africa experienced significant economic growth during this period. Some have even argued that this increase in economic activity resulted in the lower orders being substantially better off by late Antiquity than they had been previously. Here, as well as assembling much quantitative information, I examine the qualitative elements which characterised this specific period of expansion in economic activity, manifested most clearly in the increasing exportation of African ceramics to Rome in the late 2nd century AD and the intensification of agricultural production visible in the remains of farms specialising in the production of olive oil and wine.&#13;\\nI repudiate the use of certain modern economic concepts such as “GDP”, “per capita income”, and “consumer behaviour”, which I see as reflecting the neoliberalisation of the study of the Roman economy. In their place, I attempt to substitute an approach that examines the changing structure of ancient North African society in its particular historical context. Substantial use is made of archaeological data, as well as literary and epigraphic sources, to try to piece together this structure.&#13;\\nA primary conclusion is that, from the point of the Roman conquest onward, high levels of inequality existed between Africa’s various social classes. Whilst the landscape of North Africa changed hugely during the course of the Roman period, privileged elites were able, at all times, to secure a high degree of personal wealth at the expense of an exploited mass of peasants and agricultural labourers. The structural inequalities between classes that existed in the aftermath of the conquest, although qualitatively altered, still existed nearly six centuries later, in spite of considerable economic growth having occurred." ;
+  schema:author "Matthew S. Hobson" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Leicester Research Archive (University of Leicester)" ;
+  dcterms:subject "Classical Antiquity Studies", "Historical and Architectural Studies", "Islamic Finance and Banking Studies" .

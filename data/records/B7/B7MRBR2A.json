@@ -1,0 +1,95 @@
+{
+  "key": "B7MRBR2A",
+  "uri": "https://medjat.irokosociety.org/id/library/B7MRBR2A",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=B7MRBR2A",
+  "zotero": {
+    "group": "6479329",
+    "key": "B7MRBR2A",
+    "version": 2262,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/B7MRBR2A",
+    "dateAdded": "2026-05-19T14:19:53Z",
+    "dateModified": "2026-05-19T14:19:53Z"
+  },
+  "display": {
+    "title": "\"And There See Justice Done\": The Problem of Law in the African American Literary Tradition",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Christopher M. Brown"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "publicationTitle": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation argues that careful attention to African American literature reveals that the different terms through which we understand race and law are in fact incommensurable, and that the clash of their competing logics constitutes a fundamental, and unremarked upon, organizing theme of the black literary tradition. The law's relationship with its racialized subjects - and its troubled and troubling relationship with African Americans in particular - emblematizes this collision of radically different perspectives. The meaning of equality and freedom, for instance, are ideas often understood in radically different terms by the law and by the literature that critiques it. The rupture produced by this divergence is revealed in the competing texts of the two cultures: on the one hand, in legal disputes and legal texts, in laws and in the deliberations out of which they are constructed; and on the other, in the cultural productions of the African American community, and in particular in its rich tradition of letters. Reading a broad range of works across that tradition, from the earliest slave petitions to the contemporary novel, I offer a new way to understand the relationship between the law, the African American experience of the law, and the texts that narrate their fundamental disjuncture. Showing that African American literature actually begins with the law, I first investigate the transition of black writing from legal petitions and pamphlets to more literary forms at the end of the eighteenth century. These first black narratives anticipate the inevitable failure of their more legalistic counterparts to remedy injustice, and instead cast their critiques of the law in metaphor. My project then reads both canonical and less-celebrated texts across the entire tradition of African American letters - from Equiano's 1789 Interesting Narrative to Edward Jones' 2003 The Known World - to show that the formal and figurative elements of much of the tradition of African American writing are in fact premised in the law: unexpected and repeated scenes of madness and incompetence attack the illogic of slavery; literary portrayals of black traitors reveal the fundamental tension between black loyalty to the nation and the nation's betrayal of the race; the passing narrative satirizes white anxiety about the law's inability to police the color line; the figure of blindness belies a twenty-first century critique of the law's own colorblindness. And finally, I develop the larger claim that theorizing the rupture between these legal and literary texts can help us to solidify the coherence of an African American literary tradition that is increasingly understood as fractured, and simultaneously resist the law's compulsion to universalize the particular narratives of its many diverse subjects.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1903/13642",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Christopher M. Brown"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "\"And There See Justice Done\": The Problem of Law in the African American Literary Tradition"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Repository at the University of Maryland (University of Maryland College Park), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/B7/B7MRBR2A.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

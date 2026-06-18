@@ -1,0 +1,100 @@
+{
+  "key": "979Y7KPQ",
+  "uri": "https://medjat.irokosociety.org/id/library/979Y7KPQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=979Y7KPQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "979Y7KPQ",
+    "version": 104,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/979Y7KPQ",
+    "dateAdded": "2026-05-14T15:45:19Z",
+    "dateModified": "2026-05-14T15:45:19Z"
+  },
+  "display": {
+    "title": "Humans in shackles: an Atlantic history of slavery",
+    "subtitle": "",
+    "shortTitle": "Humans in shackles",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Araujo, Ana Lucia"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "University of Chicago Press",
+    "publicationTitle": "",
+    "bookTitle": "Atlantic history of slavery",
+    "journalAbbreviation": "",
+    "place": "Chicago",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"Ana Lucia Araujo's Humans in Shackles is an Atlantic cultural history of slavery in the Americas that sets out to redress the imbalances of existing general histories of slavery by centering on the lived experience of enslaved men and women. In this panoramic book, Araujo provides a humanistic, narrative history that explores in detail the social, cultural, and religious dimensions of the lives of bondspeople. She surveys the trajectories of men, women, and children from Africa to the Americas, examining how European powers reached Africa, how they traded with various African societies, and how Africans were captured, transported to the coast, and taken across the Atlantic Ocean in the hold of slave ships. The book further explores African captives' working conditions in plantations and urban areas; how bondspeople built families despite the abuses they suffered; and how enslaved people congregated, recreated their cultures and religions, and organized rebellions. The book draws not only on a large array of primary sources-travel accounts, pamphlets, newspapers articles, slave ship logs, fugitive slave advertisements, slave narratives, wills, laws, and correspondence in English, Portuguese, French, and Spanish-but it also incorporates visual sources such as engravings, photographs, watercolors, artifacts, monuments, and heritage sites. Humans in Shackles is a testament to the more than twenty years the author has spent studying the history of slavery and the Atlantic slave trade. Ultimately, it argues that the long era in which humans racialized as Black were placed in shackles is indispensable to understanding the construction of the Americas\"–Provided by publisher.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-226-77158-8",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Slavery -- Atlantic Ocean Region -- History"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Araujo, Ana Lucia"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Humans in shackles: an Atlantic history of slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Chicago: University of Chicago Press, 2024."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-226-77158-8"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Atlantic Ocean Region -- History"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/97/979Y7KPQ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

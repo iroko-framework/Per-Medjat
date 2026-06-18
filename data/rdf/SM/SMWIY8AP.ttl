@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SMWIY8AP>
+  a schema:Thesis ;
+  schema:name "Negotiating a slave regime: free people of color in Cuba, 1844-1868" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SMWIY8AP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SMWIY8AP" ;
+  schema:description "Nacional Jos Mart in Havana enriched this study immensely.Finally, I owe a tremendous debt of gratitude to my family." ;
+  schema:author "Michele Bernita Reid" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society" .

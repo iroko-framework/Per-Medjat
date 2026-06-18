@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RAFXN7LZ>
+  a schema:ScholarlyArticle ;
+  schema:name "O bruxo contra o comunista ou: o incômodo ceticismo de Machado de Assis" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RAFXN7LZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RAFXN7LZ" ;
+  schema:description "O artigo comenta a presença do ceticismo na obra de Joaquim Maria Machado de Assis a partir da crítica que lhe faz Octávio Brandão em O niilista Machado de Assis, publicado em 1958. Brandão iguala os termos \"ceticismo\", \"niilismo\", \"cinismo\" e \"pessimismo\" para melhor desqualificar a obra de Machado de Assis. O artigo procura demonstrar que esses termos designam filosofias muito diferentes, reconhecendo o ceticismo em Machado para sustentar que seu valor artístico deriva precisamente deste ceticismo." ;
+  schema:author "G. Krause" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Kriterion Revista de Filosofia" ;
+  schema:sameAs <https://doi.org/10.1590/s0100-512x2007000100014> ;
+  dcterms:identifier "doi:10.1590/s0100-512x2007000100014" ;
+  dcterms:subject "Brazilian cultural history and politics", "Cultural, Media, and Literary Studies", "Literature, Culture, and Criticism" .

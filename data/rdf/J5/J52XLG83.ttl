@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/J52XLG83>
+  a schema:ScholarlyArticle ;
+  schema:name "Los Abakuá: Identidadyresistencia Cultural En La Historia Cubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=J52XLG83> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:J52XLG83" ;
+  schema:author "Lahouaria Naab" ;
+  schema:datePublished "2025" ;
+  schema:publisher "مجلة جسور المعرفة" ;
+  schema:sameAs <https://doi.org/10.35645/1711-011-003-012> ;
+  dcterms:identifier "doi:10.35645/1711-011-003-012" ;
+  dcterms:subject "Afro-Latin American Studies", "Cuban History and Society", "Historical Studies in Central America" .

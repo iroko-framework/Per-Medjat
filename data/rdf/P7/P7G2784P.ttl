@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/P7G2784P>
+  a schema:Thesis ;
+  schema:name "Britská kolonizace Jižní Afriky v první polovině 19. století" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=P7G2784P> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:P7G2784P" ;
+  schema:description "In 1796, the first time the British occupied the Cape, a former Dutch colony in 1806 then definitely. British colonial policy in South Africa was initially influenced by the former practice of the Dutch East India Company. Problems inherited from the past involving government, law and the institution of slavery. Very thorny questions were slave trade and land ownership. In 1807 a law was adopted to ban the import of slaves in the colonies of the British Empire. In 1809 was issued collection of laws by Lord Calendon called Calendon code. In 1811 Governor John Cradock established circulation courts. In 1820 arrived in the Cape Colony of British settlers in 4000 to increase proportion of the white population of British origin. In 1828 was issued Ordinance 50, in 1833 Britain abolished slavery law with effect from 1838. These government actions led to disputes with the Boer population, which peaked in 1836, leaving Boers in the so-called Great Trek, which had a significant impact on indigenous communities strains disrupted at the time mfecane and led to the establishment of the independent Boer republics. Key words: Africans - Boers - Cape of Good Hope - colonial policy - emancipation - Great Britain - Great Trek - South Africa - slavery" ;
+  schema:author "Pavel Miler" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Digital Repository (National Repository of Grey Literature)" ;
+  dcterms:subject "Global Maritime and Colonial Histories", "Island Studies and Pacific Affairs", "Travel Writing and Literature" .

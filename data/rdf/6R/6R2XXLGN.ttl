@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6R2XXLGN>
+  a schema:Thesis ;
+  schema:name "Imperialism, state formation and the establishment of a Muslim community at the Cape of Good Hope, 1770-1840 : a study in urban resistance" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6R2XXLGN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6R2XXLGN" ;
+  schema:description "In a work of this nature, it goes without saying that scores of people have, in some fashion or other, contributed to the final product.Considerations of space, however, .allowme the opportunity to mention only afaw of these." ;
+  schema:author "Muhammad 'Adil Bradlow" ;
+  schema:datePublished "1988" ;
+  schema:publisher "Open University of Cape Town (University of Cape Town)" ;
+  dcterms:subject "African history and culture studies", "Global Maritime and Colonial Histories" .

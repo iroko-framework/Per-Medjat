@@ -1,0 +1,190 @@
+{
+  "key": "2LBKGAWM",
+  "uri": "https://medjat.irokosociety.org/id/library/2LBKGAWM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2LBKGAWM",
+  "zotero": {
+    "group": "6479329",
+    "key": "2LBKGAWM",
+    "version": 123,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2LBKGAWM",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "The pirates Laffite: the treacherous world of the corsairs of the Gulf",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Davis, William C."
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Harcourt",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Orlando",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "0-15-100403-X",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "-1826?",
+      "1815",
+      "America",
+      "Battle of",
+      "Gulf of",
+      "Gulf of -- History -- 19th",
+      "Gulf of -- History -- 19th century",
+      "Jean",
+      "La.",
+      "Laffite",
+      "Louisiana -- History -- 1803-1865",
+      "New Orleans",
+      "Pierre",
+      "Pirates -- Louisiana",
+      "Pirates -- Mexico",
+      "Privateering -- Mexico"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Davis, William C."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The pirates Laffite: the treacherous world of the corsairs of the Gulf"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Orlando: Harcourt, 2005."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "0-15-100403-X"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "-1826?"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "1815"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Battle of"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gulf of"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gulf of -- History -- 19th"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gulf of -- History -- 19th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Jean"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "La."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Laffite"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Louisiana -- History -- 1803-1865"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "New Orleans"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pierre"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pirates -- Louisiana"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pirates -- Mexico"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Privateering -- Mexico"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2L/2LBKGAWM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

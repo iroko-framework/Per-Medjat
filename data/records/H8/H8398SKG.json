@@ -1,0 +1,128 @@
+{
+  "key": "H8398SKG",
+  "uri": "https://medjat.irokosociety.org/id/library/H8398SKG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=H8398SKG",
+  "zotero": {
+    "group": "6479329",
+    "key": "H8398SKG",
+    "version": 699,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/H8398SKG",
+    "dateAdded": "2026-05-18T18:57:30Z",
+    "dateModified": "2026-05-18T18:57:30Z"
+  },
+  "display": {
+    "title": "Marae reflections: On the evolution of stratified chiefdoms in the Leeward Society Islands",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Paul Wallin"
+      },
+      {
+        "role": "editor",
+        "name": "Reidar Solsvik"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Archaeology in Oceania/Archæology & physical anthropology in Oceania",
+    "publicationTitle": "Archaeology in Oceania/Archæology & physical anthropology in Oceania",
+    "bookTitle": "",
+    "journalAbbreviation": "Archaeology in Oceania/Archæology & physical anthropology in Oceania",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "45",
+    "issue": "2",
+    "pages": "86-93",
+    "abstract": "ABSTRACT Based on archaeological data it is time to re‐evaluate the stratified chiefdom of the Leeward Society Islands. The model was constructed mainly on ethno‐historical/ethnological data and has been used extensively, and this social system has been projected back in time, sometimes maybe too far. The question that may be asked is: What happened during almost 1000 years of settlement in the Society Islands? Here we take as our starting point Irving Goldman's interpretation of social organization in the Society Islands, and argue for an earlier existence of either traditional chiefdoms and/or open chiefdoms in the Leeward Society Islands. New archaeological investigations of marae and habitations show that the stratified chiefdom in the Society Islands was a late development, and that the society went through several changes through time. Summary of the archaeological evidence on the evolution of a stratified chiefdom on Huahine The earliest ritual space on Huahine is possibly represented by an upright stone placed on the early Vaito'otia/Fa'ahia site, dated to around AD 1300. However, our 14 C dates clearly shows that the first transformation period — when marae structures with ahu were first built on Huahine — began around AD 1450. On closer inspection all these dates are associated with medium‐sized marae structures, which probably represent family or lineage marae classes, of Wallin's type 4.1 (Wallin 1993:66), possibly expressing an ‘open chiefdom’. The large megalithic marae of Wallin's type 4.2 date between AD 1650 and 1750. These latter structures, closely connected to the war god 'Oro , were also associated with the development of a complex social stratification on island to inter‐island levels. Small marae also dated late and were tied to specified functions, probably the development of differentiation among the specialists in the society, or a rise in status for certain groups of priests, tahua 's. This may indicate that craft specialisation became more visible and controlled during this time, which can be seen as another sign of the development of a stratified society.",
+    "doi": "10.1002/j.1834-4453.2010.tb00083.x",
+    "url": "https://doi.org/10.1002/j.1834-4453.2010.tb00083.x",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and ancient environmental studies",
+      "Australian Indigenous Culture and History",
+      "Pacific and Southeast Asian Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Paul Wallin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Marae reflections: On the evolution of stratified chiefdoms in the Leeward Society Islands"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Archaeology in Oceania/Archæology & physical anthropology in Oceania, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "86-93 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1002/j.1834-4453.2010.tb00083.x"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and ancient environmental studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Australian Indigenous Culture and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pacific and Southeast Asian Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Reidar Solsvik"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/H8/H8398SKG.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1002/j.1834-4453.2010.tb00083.x"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

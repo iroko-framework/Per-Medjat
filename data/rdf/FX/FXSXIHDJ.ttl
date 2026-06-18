@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FXSXIHDJ>
+  a schema:Thesis ;
+  schema:name "Calypso as a Vehicle for Political Commentary: An Endangered Musical Species" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FXSXIHDJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FXSXIHDJ" ;
+  schema:description "Calypso, widely regarded today (in 2015) as the national music of the two-island Caribbean state of Trinidad and Tobago, was born out of the struggle in the 18th century of enslaved Africans in Trinidad to maintain their cultural traditions. The music of the slaves was banned by the colonial authorities and after emancipation in the 19th century, their songs, many with biting, satirical lyrics and political and social commentary, were subject to repressive censorship laws." ;
+  schema:author "Darryl Dean" ;
+  schema:datePublished "2015" ;
+  schema:sameAs <https://doi.org/10.22215/etd/2015-11142> ;
+  dcterms:identifier "doi:10.22215/etd/2015-11142" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Music History and Culture" .

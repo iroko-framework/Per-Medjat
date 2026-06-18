@@ -1,0 +1,107 @@
+{
+  "key": "8AIMGG8L",
+  "uri": "https://medjat.irokosociety.org/id/library/8AIMGG8L",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8AIMGG8L",
+  "zotero": {
+    "group": "6479329",
+    "key": "8AIMGG8L",
+    "version": 2187,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8AIMGG8L",
+    "dateAdded": "2026-05-19T14:19:42Z",
+    "dateModified": "2026-05-19T14:19:42Z"
+  },
+  "display": {
+    "title": "Railroading Black Families: African American Men, Family, and Labor in Post-Emancipation Georgia.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "CaVar DeWayne Reid"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation examines the role of work and family in shaping black men’s masculine identity in the post-emancipation South, focusing in particular on the transition to railroad work in Georgia in the late 19th century. It asks how black men’s working conditions influenced their familial lives and identities as fathers and/or husbands. It also explores how family and ideas and expectations about family life motivated many men’s work habits and desires. As opposed to previous studies that have depicted industrial labor as an escape from family responsibility, my project demonstrates, that for many black men, maintaining family ties and establishing a patriarchal family motivated them to become industrial workers. The drastic shifts in Southern industry, economy, race and gender relations that occurred over the period from 1865 to 1914 did more than introduce black men to varying degrees of freedom and new sectors of the labor market. These shifts also opened up new ways for them to establish new work skills and define the limits of their work and family responsibilities, as well as offer them opportunities to think differently about their notions of masculine authority and autonomy. For many black men, work opportunities and familial identities have been mutually constitutive. At times, a number of black men sought employment through which they could support their households, not just financially, but through deliberate separation from white superiors. They also used their family roles to give purpose and value to their lives, given the hardness of underpaid physical labor. Family concerns were at the heart of many of the criticisms black men leveled against their tasks and employers, both formally and informally. I demonstrate that the nature of African American fatherhood and black men’s aspirations to manhood in the post-emancipation South was partially demonstrated on the job. The work arrangements men agreed to, the labor they performed, the wages they earned, the songs and stories told during and after work, kept them going, and were meaningful in that all of these elements helped create and reinforce new family identities.",
+    "doi": "",
+    "url": "https://hdl.handle.net/2027.42/133312",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American History and Culture",
+      "Canadian Identity and History",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "CaVar DeWayne Reid"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Railroading Black Families: African American Men, Family, and Labor in Post-Emancipation Georgia."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Canadian Identity and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/8A/8AIMGG8L.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

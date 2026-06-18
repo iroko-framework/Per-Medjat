@@ -1,0 +1,113 @@
+{
+  "key": "BMEGWR23",
+  "uri": "https://medjat.irokosociety.org/id/library/BMEGWR23",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BMEGWR23",
+  "zotero": {
+    "group": "6479329",
+    "key": "BMEGWR23",
+    "version": 3681,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BMEGWR23",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Beyond Slavery: The Multilayered Legacy of Africans in Latin America and the Caribbean",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David G. Sweet"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "Hispanic American Historical Review",
+    "publicationTitle": "Hispanic American Historical Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Hispanic American Historical Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "88",
+    "issue": "3",
+    "pages": "502-504",
+    "abstract": "Students of “black history” in the United States have accomplished a great deal over the past several decades, but they have been surprisingly slow to acknowledge in practice that the stage on which the African diaspora has unfolded over five centuries is an extraordinarily broad one. Most African Americans have always lived outside the United States; most aspects of black experience here have parallels elsewhere; and the study of African American experience anywhere ought therefore to be informed, wherever possible, by comparative perspectives. Similar blinders have handicapped a good many specialists in Caribbean and Latin American black history, causing them to miss the opportunities for useful comparison with North America and Brazil.Though this tantalizing smorgasbord of a book, designed as a reader for undergraduate courses, is miscellaneous in coverage and only sporadically concerned with exercises in comparison, it can nevertheless contribute quite a lot to the development of comparative approaches. Those who seek new understandings of familiar subjects in a close examination of comparable experiences elsewhere will find plenty of sustenance in these pages. The contributors, mostly seasoned historians of Latin America, include David Geggus, Camilla Townsend, Ricardo Salvatore, Dario Euraque, Eduardo Silva, Aline Helg, Darién J. Davis, Judith Michelle Williams, Aviva Chomsky, Sujatha Fernandes, Jason Stanyek, Bobby Vaughn, and Ben Vinson III. The individual contributions are on the whole well written and convincingly documented. Notes are ample and conveniently situated at the ends of chapters.In the skillful hands of these authors we are introduced to the resounding impact that the Haitian Revolution and independence in 1804 had upon slave consciousness and political economy everywhere in the slave-holding Americas. Enterprising slaves in early nineteenth-century Guayaquil are seen organizing an effort to achieve their own freedom by collective self-purchase. In Buenos Aires, free blacks live large under the rule of their patron, caudillo and president Juan Manuel de Rosas, down to 1852; but they are soon pushed back into the shadows by the Liberal national elite that overthrows him. In Honduras, the descendents of eighteenth-century pardos and mulattos, now elevated to a provincial elite, play a key role in the submission and assimilation to the Liberal civil order of Indian communities, once populous and culturally independent. A few decades later, black abolitionists employ as their symbol of freedom the camellias cultivated by an escaped slave community near Rio de Janeiro, while struggling belatedly to eliminate the last remnants of the “peculiar institution” from the Empire of Brazil. Early in the twentieth century, the organized black citizenry of newly independent Cuba confronts head-on the barriers imposed by a deeply entrenched official racism. In the 1930s and 1940s, black pride movements sweep the Caribbean and Brazil with wide-ranging effects upon political, cultural, and intellectual life. In all of these instances, African American agency is evident, while the long-term constraints upon it are fully acknowledged.The resilience of Afro-Latin Americans and the startling precariousness and complexity of their life today are made unforgettable by three essays on current affairs. Millions of black Colombians from the maritime lowlands are displaced, despite the vigorous organizing of resistance at the grass roots, as the result of a half-century of U.S.-sponsored civil war and neoliberal land-grabbing. Hip-hop culture, both imported and homegrown, plays a many-faceted, deeply political role among black youth in Cuba, Venezuela, and Brazil. The migration of many thousands of black Mexicans from the Costa Chica of Guerrero to the Winston-Salem area of North Carolina reveals surprising things about race and social norms in both countries. Finally, a useful contribution by the editor himself reviews the evolving treatment of peoples of African descent in Latin American cinema, both feature films and documentaries.The introduction sketches broad outlines for nineteenth- and twentieth-century black history in the Caribbean and Latin America, and provides some conceptual framing for the stories to come. There is an index, a glossary, and a time line of recent Afro-Latin American history, a respectable list of suggestions for further reading, and even a list of NGOs and resources concerned with contemporary Afro-Latin American life. All in all, in addition to being usable as an undergraduate reader, Beyond Slavery has a reasonable claim to a place on the shelves of serious students anywhere of African diasporic experience in the New World.",
+    "doi": "10.1215/00182168-2008-337",
+    "url": "https://doi.org/10.1215/00182168-2008-337",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David G. Sweet"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Beyond Slavery: The Multilayered Legacy of Africans in Latin America and the Caribbean"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Hispanic American Historical Review, 2008."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "502-504 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/00182168-2008-337"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BM/BMEGWR23.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/00182168-2008-337"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

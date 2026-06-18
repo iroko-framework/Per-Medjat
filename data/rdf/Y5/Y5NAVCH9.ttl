@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Y5NAVCH9>
+  a schema:ScholarlyArticle ;
+  schema:name "Trump, Race, and Reproduction in the Afterlife of Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Y5NAVCH9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Y5NAVCH9" ;
+  schema:description "I want to come at the question of reproduction in the era of Donald Trump via my own work on racism and reproduction. To be sure, the unjust policies inflicted by Trump hold all bodies hostage. But I take a Black feminist approach to explore some of the reproductive issues facing Black and brown women in the United States to make the point that this moment of reproductive control has been rehearsed in earlier periods of U.S. history. I place two examples in conversation to trace racism' s imprint in the realm of reproduction. The point is to show that contemporary Black and brown bodies are inextricably entangled with past articulations of white supremacy and power. These issues are complicated and require a bit of unpacking; let me begin with an event shared with me." ;
+  schema:author "Dána‐Ain Davis" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Cultural Anthropology" ;
+  schema:sameAs <https://doi.org/10.14506/ca34.1.05> ;
+  dcterms:identifier "doi:10.14506/ca34.1.05" ;
+  dcterms:subject "Race, History, and American Society" .

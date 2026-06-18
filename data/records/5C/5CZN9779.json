@@ -1,0 +1,119 @@
+{
+  "key": "5CZN9779",
+  "uri": "https://medjat.irokosociety.org/id/library/5CZN9779",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5CZN9779",
+  "zotero": {
+    "group": "6479329",
+    "key": "5CZN9779",
+    "version": 1236,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5CZN9779",
+    "dateAdded": "2026-05-19T13:28:36Z",
+    "dateModified": "2026-05-19T13:28:36Z"
+  },
+  "display": {
+    "title": "The miracle of creolization : a retrospective",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Richard Price"
+      }
+    ],
+    "year": "2001",
+    "date": "2001",
+    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "publicationTitle": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "bookTitle": "",
+    "journalAbbreviation": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "75",
+    "issue": "1-2",
+    "pages": "35-64",
+    "abstract": "Expands upon ideas in the essay The birth of African-American culture (1992) the author co-wrote with Mintz, mainly concerning the creolization process among American blacks. Author describes how other scholars contested this essay, and argued that the African heritage, e.g. of African ethnicities, was more, and longer, present among slaves than Price and Mintz argued. He further expounds on these differing views regarding the speed and extent of cultural adaptation among (descendants of) African slaves in the Americas.",
+    "doi": "10.1163/13822373-90002557",
+    "url": "https://doi.org/10.1163/13822373-90002557",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Richard Price"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The miracle of creolization : a retrospective"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2001."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "35-64 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/13822373-90002557"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/5C/5CZN9779.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/13822373-90002557"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

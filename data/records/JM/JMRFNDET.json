@@ -1,0 +1,146 @@
+{
+  "key": "JMRFNDET",
+  "uri": "https://medjat.irokosociety.org/id/library/JMRFNDET",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JMRFNDET",
+  "zotero": {
+    "group": "6479329",
+    "key": "JMRFNDET",
+    "version": 3957,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JMRFNDET",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "A Hybrid Sensing Approach for Pure and Adulterated Honey Classification",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Norazian Subari"
+      },
+      {
+        "role": "editor",
+        "name": "Junita Mohamad–Saleh"
+      },
+      {
+        "role": "editor",
+        "name": "Ali Yeon Md Shakaff"
+      },
+      {
+        "role": "editor",
+        "name": "Ammar Zakaria"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Sensors",
+    "publicationTitle": "Sensors",
+    "bookTitle": "",
+    "journalAbbreviation": "Sensors",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "10",
+    "pages": "14022-14040",
+    "abstract": "This paper presents a comparison between data from single modality and fusion methods to classify Tualang honey as pure or adulterated using Linear Discriminant Analysis (LDA) and Principal Component Analysis (PCA) statistical classification approaches. Ten different brands of certified pure Tualang honey were obtained throughout peninsular Malaysia and Sumatera, Indonesia. Various concentrations of two types of sugar solution (beet and cane sugar) were used in this investigation to create honey samples of 20%, 40%, 60% and 80% adulteration concentrations. Honey data extracted from an electronic nose (e-nose) and Fourier Transform Infrared Spectroscopy (FTIR) were gathered, analyzed and compared based on fusion methods. Visual observation of classification plots revealed that the PCA approach able to distinct pure and adulterated honey samples better than the LDA technique. Overall, the validated classification results based on FTIR data (88.0%) gave higher classification accuracy than e-nose data (76.5%) using the LDA technique. Honey classification based on normalized low-level and intermediate-level FTIR and e-nose fusion data scored classification accuracies of 92.2% and 88.7%, respectively using the Stepwise LDA method. The results suggested that pure and adulterated honey samples were better classified using FTIR and e-nose fusion data than single modality data.",
+    "doi": "10.3390/s121014022",
+    "url": "https://doi.org/10.3390/s121014022",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Advanced Chemical Sensor Technologies",
+      "Bee Products Chemical Analysis",
+      "Spectroscopy and Chemometric Analyses"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Norazian Subari"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Hybrid Sensing Approach for Pure and Adulterated Honey Classification"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Sensors, 2012."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "14022-14040 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/s121014022"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Advanced Chemical Sensor Technologies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bee Products Chemical Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spectroscopy and Chemometric Analyses"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Junita Mohamad–Saleh"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ali Yeon Md Shakaff"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ammar Zakaria"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JM/JMRFNDET.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/s121014022"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

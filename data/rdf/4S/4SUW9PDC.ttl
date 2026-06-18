@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4SUW9PDC>
+  a schema:Thesis ;
+  schema:name "Law and transgression: free, freed and slaves women and sexual crimes in the nineteen century (São Paulo 1830-1888)." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4SUW9PDC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4SUW9PDC" ;
+  schema:description "O presente trabalho analisa a relação entre as tradições legislativas, primeiro lusa e depois brasileira, a respeito dos crimes de estupro e de rapto e os casos registrados, julgados e punidos, ou não, na cidade de São Paulo na vigência do Código Criminal do Império do Brasil. Primeiro código criminal do Brasil independente, elaborado com o objetivo de superar a legislação criminal herdada da antiga metrópole lusa, considerada pelos oitocentistas como inaplicável à nova realidade nacional, o Código guardou, contudo, continuidades e rupturas com a tradição portuguesa sobre o estupro e o rapto. Mudanças nas concepções sobre os crimes, as penas, as vítimas e os criminosos foram realizadas. Com a promulgação do Código do Processo Criminal, em 1832, emergiram novos procedimentos validadores da averiguação dos crimes e do julgamento do criminosos. A defesa da honra e a diferenciação moral entre as potenciais vítimas, entretanto, continuaram a guiar a legislação, ao passo que uma ampliação na compreensão do conceito de violência foi realizada, passando a considerar também as ameaças e o terror sofrido pela vítima como elementos que agravavam a culpa dos acusados. Apesar da nova legislação e da ampliação do sistema judiciário, as fontes policiais e judiciárias indicam que esses delitos, cuja ocorrência era considerada recorrente pelos contemporâneos, continuaram a ser alvo de pouca judicialização. Em observância às legislações principais e a alguns decretos complementares, os poucos casos reportados e julgados na cidade de São Paulo no Oitocentos sugerem níveis de preocupação e expedição de diligências de peritos e autoridades policiais e judiciais na averiguação dos delitos, flexibilidades e irregularidades na montagem das peças que compuseram os processos-crime, diferentes motivações alegadas para a prática dos delitos, mudanças de percepção quanto à violência, quanto à estima da honra, quanto às diferentes posturas pessoais dos envolvidos e da própria sociedade diante dos relatos de réus, vítimas e testemunhas, assim como das estratégias da defesa e da acusação." ;
+  schema:author "Bruno Henrique Soares" ;
+  schema:datePublished "2019" ;
+  schema:publisher "UNESP Institutional Repository (São Paulo State University)" ;
+  dcterms:subject "History of Colonial Brazil", "History of Medicine and Tropical Health", "Medieval and Early Modern Justice" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TP63NEMD>
+  a schema:ScholarlyArticle ;
+  schema:name "“Using History to Make Slavery History”: The African American Past and the Challenge of Contemporary Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TP63NEMD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TP63NEMD" ;
+  schema:description "This article argues that contemporary antislavery activism in the United States is programmatically undermined and ethically compromised unless it is firmly grounded in a deep understanding of the African American past. Far too frequently those who claim to be “the new abolitionists” evince no interest in what the original abolitionist movement might have to teach them and seem entirely detached from a U.S. history in which the mass, systematic enslavement of African Americans and its consequences are dominating themes. As a result contemporary antislavery activism too often marginalizes the struggle for racial justice in the United States and even indulges in racist ideology. In an effort to overcome these problems, this article seeks to demonstrate in specific detail how knowledge of the African American past can empower opposition to slavery as we encounter it today." ;
+  schema:author "James B. Stewart" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Social Inclusion" ;
+  schema:sameAs <https://doi.org/10.17645/si.v3i1.143> ;
+  dcterms:identifier "doi:10.17645/si.v3i1.143" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade", "Race, History, and American Society" .

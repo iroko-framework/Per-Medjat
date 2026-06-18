@@ -1,0 +1,95 @@
+{
+  "key": "FIZLFT7F",
+  "uri": "https://medjat.irokosociety.org/id/library/FIZLFT7F",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FIZLFT7F",
+  "zotero": {
+    "group": "6479329",
+    "key": "FIZLFT7F",
+    "version": 2160,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FIZLFT7F",
+    "dateAdded": "2026-05-19T14:19:37Z",
+    "dateModified": "2026-05-19T14:19:37Z"
+  },
+  "display": {
+    "title": "Andrómaca de Eurípides: Mujer y, además, esclava. Tensiones entre la naturaleza y la convención de la esclavitud.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Laura Giraldo Martínez"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "present investigation under the name of Andromache of Euripides: woman and also salve. Tension between conventional and natural has the purpose of tracing the relation between the master and the that is dealt in Aristotle's first book of the Politics, the idea is to approach to the difference among the natural slavery and the one that has its basis in strength or in the convention of law. The analysis was focused in making clear the great tension that is created by wanting to identify the natural slaves and those who had been called slaves by accident, since for the Greek philosopher, even though the nature tends to make clear distinctions between men's souls and bodies, it does not always succeeds and often the opposite thing happens. Taking into account Aristotle s view on slavery, we were interested in checking how Euripides, one hundred years before, brought on stage what the philosopher defined as conventional slavery or slavery as a result of war. The conventional or natural that the philosopher refers to, stops being any slave to become a character who has his own gender and his own personal race: Andromache. The tragic poet, through his characters voices, does not only anticipates the difficulty of making these distinctions, but also binds us with the impact that the fact of these slaves are women.",
+    "doi": "",
+    "url": "https://openalex.org/W2286511223",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Mythological Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Laura Giraldo Martínez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Andrómaca de Eurípides: Mujer y, además, esclava. Tensiones entre la naturaleza y la convención de la esclavitud."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Mythological Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FI/FIZLFT7F.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

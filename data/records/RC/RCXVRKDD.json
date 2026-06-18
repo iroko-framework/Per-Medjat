@@ -1,0 +1,107 @@
+{
+  "key": "RCXVRKDD",
+  "uri": "https://medjat.irokosociety.org/id/library/RCXVRKDD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RCXVRKDD",
+  "zotero": {
+    "group": "6479329",
+    "key": "RCXVRKDD",
+    "version": 786,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RCXVRKDD",
+    "dateAdded": "2026-05-18T18:57:34Z",
+    "dateModified": "2026-05-18T18:57:34Z"
+  },
+  "display": {
+    "title": "Golden UFOs: The Indian Poems/Los ovnis de oro: poemas indios",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Marc Zimmerman"
+      }
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "Hispanic American Historical Review",
+    "publicationTitle": "Hispanic American Historical Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Hispanic American Historical Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "73",
+    "issue": "2",
+    "pages": "295-296",
+    "abstract": "INTRODUCTION LOS OVNIS DO ORO GOLDEN UFOS NELE KANTULE NELE OF KANTULE ENTREVISTA CON EL CACIQUE YABILIGUINA INTERVIEW WITH CACIQUE YABILIGUINA LA TIERRA QUE DIOS NOS ENTREGO THE LAND GOD GAVE US SIERRA NEVADA SIERRA NEVADA LOS YARUROS THE YARUROS LA ARCADIA PERIDIDA LOST ARCADIA LOS HIJOS DEL BOSQUE DE LAS PALABRAS-ALMAS THE SONS OF THE FOREST OF THE WORDS-SOULS KAYANERENHKOWA KAYANERENHKOWA TAHIRASSAWICHI EN WASHINGTON TAHIRASSAWICHI IN WASHINGTON MARCHAS PAWNEES PAWNEE MARCHES LA DANZA DEL ESPIRITU THE GHOST DANCE GRABACIONES DE LA PIPA SAGRADA THE SACRED PIPE RECORDINGS CANTARES MEXICANOS I II III IV V VI VII MEXICAN SONGS I II III IV V VI VII NEZAHUALCOYOTL NEZAHUALCOYATL LOS TLAMATINIMES THE TLAMATINIMES IN XOCHITL IN CUICATL IN XOCHITL IN CUICATL QUETZALCOATL ZUETZALCOATL LA NINA NAHUATL THE NAHUATL GIRL MILPA MILPA LA CARRETERA CAUSEWAY BAJO EL COMAL NEGRO UNDER THE BLACK COMAL LAS CIUDADES PERDIDAS LOST CITIES MAYAPAN MAYAPAN KATUN 11 AHAU KATUN 11 AHAU 8 AHAU 8 AHAU ARDILLA DE LOS TUNES DE UN KATUN SQUIRREL OF THE TUNS OF A KATUN ORACULOS DE TIKAL (DE UN AH KIN DE KU) ORACLES OF TIKAL (FROM AN AH KIN OF KU) ECONOMIA DE TAHUANTINSUYU THE ECONOMY OF AHUANTINSUYU EL SECRETO DE MACHU-PICCHU THE SECRET OF MACHU PICCHU GLOSSARY",
+    "doi": "10.1215/00182168-73.2.295",
+    "url": "https://doi.org/10.1215/00182168-73.2.295",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American history and culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Marc Zimmerman"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Golden UFOs: The Indian Poems/Los ovnis de oro: poemas indios"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Hispanic American Historical Review, 1993."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "295-296 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/00182168-73.2.295"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RC/RCXVRKDD.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/00182168-73.2.295"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

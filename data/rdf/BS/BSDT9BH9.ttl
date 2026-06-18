@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BSDT9BH9>
+  a schema:ScholarlyArticle ;
+  schema:name "A view from itia ororó kande1" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BSDT9BH9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BSDT9BH9" ;
+  schema:description "La confrerie esoterique cubaine abakua est interpretee depuis longtemps comme une version transatlantique deplacee du type de societe secrete connue sous le nom de ekpe ou ngbe dans la region du Cross River au sud-est du Nigeria et au sud-ouest du Cameroun. Cet essai ne conteste pas leurs origines africaines, mais essaie de retracer les contours d'une histoire alternative des abakua. Mon objectif est de confronter les recits «objectivistes» de l'histoire de la diffusion des ekpe et abakua a la facon dont les membres contemporains des abakua cubains produisent des relations avec un passe africain qu'ils creent en lui donnant vie de maniere performative dans le present du Nouveau Monde." ;
+  schema:author "Stephan Palmié" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Social Anthropology" ;
+  schema:sameAs <https://doi.org/10.1111/j.1469-8676.2006.tb00026.x> ;
+  dcterms:identifier "doi:10.1111/j.1469-8676.2006.tb00026.x" ;
+  dcterms:subject "Anthropological Studies and Insights", "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade" .

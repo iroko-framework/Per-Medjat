@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KE7PFKV7>
+  a schema:ScholarlyArticle ;
+  schema:name "El itón abakuá y su universalidad simbólica" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KE7PFKV7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KE7PFKV7" ;
+  schema:description "Todas las expresiones religiosas populares cubanas son portadoras de un amplio contenido simbólico que, junto con la diversidad y carácter secreto o público de sus ritos, sirven de sostén al conjunto de normas, valores y principios que las rigen. De éstas, las sociedades masculinas abakuá poseen un amplio arsenal de objetos que envuelven todo el proceso participativo de los practicantes: desde el altar que preside cada uno de los recintos de consagración religiosa, los instrumentos musicales del conjunto biankomeko, los estandartes con los correspondientes emblemas del sistema gráfico ereniyó, los trajes de íremes en los que se encarnan representaciones humanas de los antepasados para ser testigos de las ceremonias, hasta los yesos que son ritualmente preparados y oportunamente usados en una suerte de arte efímero que se hace y se deshace según las variaciones de cada etapa del proceso ritual. Todos éstos y otros, que harían innecesaria una larga lista, forman un corpus objetual portador de contenidos simbólicos<br> relacionados entre sí y que sirven de complemento interactivo al corpus de ideas que los cargan de significados." ;
+  schema:author "Jesús Guanche" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Zenodo (CERN European Organization for Nuclear Research)" ;
+  schema:sameAs <https://doi.org/10.5281/zenodo.5915317> ;
+  dcterms:identifier "doi:10.5281/zenodo.5915317" ;
+  dcterms:subject "Archaeological and Geological Studies", "Cultural and Mythological Studies", "Language, Linguistics, Cultural Analysis" .

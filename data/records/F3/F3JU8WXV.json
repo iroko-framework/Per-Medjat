@@ -1,0 +1,101 @@
+{
+  "key": "F3JU8WXV",
+  "uri": "https://medjat.irokosociety.org/id/library/F3JU8WXV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=F3JU8WXV",
+  "zotero": {
+    "group": "6479329",
+    "key": "F3JU8WXV",
+    "version": 1465,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/F3JU8WXV",
+    "dateAdded": "2026-05-05T00:44:20Z",
+    "dateModified": "2026-05-18T14:30:40Z"
+  },
+  "display": {
+    "title": "The Relationship between Early Forms of Literacy in Old Calabar and Inherited Manuscripts of the Cuban Abakuá Society",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Miller, Ivor"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Afro-Hispanic Review",
+    "publicationTitle": "Afro-Hispanic Review",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "35",
+    "issue": "2",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Miller, Ivor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Relationship between Early Forms of Literacy in Old Calabar and Inherited Manuscripts of the Cuban Abakuá Society"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Afro-Hispanic Review, 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/F3/F3JU8WXV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

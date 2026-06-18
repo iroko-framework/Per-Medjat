@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/7TQFU9WZ>
+  a schema:Thesis ;
+  schema:name "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7TQFU9WZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7TQFU9WZ" ;
+  schema:description "Based on bibliographical research and the analysis of court rulings, this study investigates the characterization of slave-like labor by Brazilian courts. After the alteration of article 149 of the Brazilian Penal Code, introduced by Law nº 10.803/2003, which typifies the practice of contemporary slavery in Brazil, divergent characterizations of this practice remain. The courts currently employ the broadest concept of contemporary slave labor, in which the crime is characterized by the engagement in one of the following conducts established as a criminal offense: labor with the restriction of freedom, submission to exhaustive working conditions, degrading working conditions, and debt bondage. The engagement in one of the above is therefore enough to constitute a crime. Contemporary slave labor in Brazil is not characterized only by the restriction of the worker’s freedom, as in the case of forced labor or debt bondage, but also through the submission of the workers to situations that offend their human dignity. Individual freedom and the dignity of the human person, fundamental tenets of the Brazilian Federal Constitution, are juridical resources safeguarded by law. Contemporary slavery is not limited to the mere infringement of labor laws, but represents a severe violation of the human rights of the workers involved." ;
+  schema:author "Camila Guimarães de Melo" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:subject "Brazilian Legal Issues", "Migration, Racism, and Human Rights", "Social and Political Issues" .

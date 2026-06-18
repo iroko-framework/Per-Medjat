@@ -1,0 +1,128 @@
+{
+  "key": "CBKA65WX",
+  "uri": "https://medjat.irokosociety.org/id/library/CBKA65WX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CBKA65WX",
+  "zotero": {
+    "group": "6479329",
+    "key": "CBKA65WX",
+    "version": 3699,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CBKA65WX",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Slavery versus Labor",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Giuseppe Dari‐Mattiacci"
+      },
+      {
+        "role": "editor",
+        "name": "Guilherme de Oliveira"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Review of Law & Economics",
+    "publicationTitle": "Review of Law & Economics",
+    "bookTitle": "",
+    "journalAbbreviation": "Review of Law & Economics",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "17",
+    "issue": "3",
+    "pages": "495-568",
+    "abstract": "Abstract Slavery has been a long-lasting and often endemic problem across time and space, and has commonly coexisted with a free-labor market. To understand (and possibly eradicate) slavery, one needs to unpack its relationship with free labor. Under what conditions would a principal choose to buy a slave rather than to hire a free worker? First, slaves cannot leave at will, which reduces turnover costs; second, slaves can be subjected to physical punishments, which reduces enforcement costs. In complex tasks, relation-specific investments are responsible for high turnover costs, which makes principals prefer slaves over workers. At the other end of the spectrum, in simple tasks, the threat of physical punishment is a relatively cheap way to produce incentives as compared to rewards, because effort is easy to monitor, which again makes slaves the cheaper alternative. The resulting equilibrium price in the market for slaves affects demand in the labor market and induces principals to hire workers for tasks of intermediate complexity. The available historical evidence is consistent with this pattern. Our analysis sheds light on cross-society differences in the use of slaves, on diachronic trends, and on the effects of current anti-slavery policies.",
+    "doi": "10.1515/rle-2021-0049",
+    "url": "https://doi.org/10.1515/rle-2021-0049",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Culture, Economy, and Development Studies",
+      "Experimental Behavioral Economics Studies",
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Giuseppe Dari‐Mattiacci"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery versus Labor"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Review of Law & Economics, 2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "495-568 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1515/rle-2021-0049"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Culture, Economy, and Development Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Experimental Behavioral Economics Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Guilherme de Oliveira"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/CB/CBKA65WX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1515/rle-2021-0049"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

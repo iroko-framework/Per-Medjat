@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/857DRSNL>
+  a schema:Thesis ;
+  schema:name "The cotton trade and Brazilian foreign commerce during the industrial revolution" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=857DRSNL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:857DRSNL" ;
+  schema:description "Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on. It is our responsibility to leave the people of the future a free hand. In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time. This we will do if we say we have the answers now, so" ;
+  schema:author "Thales Pereira" ;
+  schema:datePublished "2017" ;
+  schema:sameAs <https://doi.org/10.11606/t.12.2017.tde-17082017-091648> ;
+  dcterms:identifier "doi:10.11606/t.12.2017.tde-17082017-091648" ;
+  dcterms:subject "Economic Growth and Productivity", "Economic Theory and Policy", "Global trade and economics" .

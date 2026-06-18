@@ -1,0 +1,114 @@
+{
+  "key": "BMPVV9DQ",
+  "uri": "https://medjat.irokosociety.org/id/library/BMPVV9DQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BMPVV9DQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "BMPVV9DQ",
+    "version": 1503,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BMPVV9DQ",
+    "dateAdded": "2026-05-19T14:16:59Z",
+    "dateModified": "2026-05-19T14:16:59Z"
+  },
+  "display": {
+    "title": "The Wolof of Saloum : social structure and rural development in Senegal",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "L.B. Venema"
+      }
+    ],
+    "year": "1978",
+    "date": "1978",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "<p/>The study refers to the Wolof of Saloum, Senegal. Its aim was to examine which factors had induced change in rural stratification, co-operation and cohesion. Their significance for administration of rural development was studied. Views of historians and anthropologists are discussed. Literature was examined to determine the processes which had undermined the traditional Wolof states. In this manner, rural development administration was also studied since the colonial period. Fieldwork lasted one and a half years; for one year, a community-study was conducted, the other months were spent on completing questionnaires in the Arrondissement Medinah Sabach.<p/>The Islam reform movement had already undermined the power of the Wolof rulers before the spread of groundnut as a cashcrop and the consequent establishment of French colonial rule. This movement did not alter the differences in status and in influence between freeborn villagers and their slaves. In Saloum, the slaves founded independent farms after the 1st World War. Wealth, acquired by cultivating groundnuts and performing commercial sideactivities, has also become important to obtain influence. In the village studied, some descendents of slaves had become rich and a few were members of the councils of the village cooperative and party-branch. Agricultural co-operation was partly an expression of local stratification. Aid in labour was also given to in-laws, friends and the poor. Although wage labour had increased, co-operation had not been decreased by incorporation in the moneyeconomy. This incorporation and the application of Islam law had disintegrated the compound into households and the households into individual farms. In this process, other factors were probably important too. The government organizations concerned with the increase in agricultural production had insufficient knowledge of fragmentation of the domestic units, hierarchy in local power networks and the aristocratic culture pattern. It is likely that the propagated innovations did not decrease indebtedness and the difference in wealth between villagers.",
+    "doi": "10.18174/16142",
+    "url": "https://doi.org/10.18174/16142",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Studies and Ethnography",
+      "African history and culture studies",
+      "Agriculture and Rural Development Research"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "L.B. Venema"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Wolof of Saloum : social structure and rural development in Senegal"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1978."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18174/16142"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Studies and Ethnography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agriculture and Rural Development Research"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BM/BMPVV9DQ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18174/16142"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

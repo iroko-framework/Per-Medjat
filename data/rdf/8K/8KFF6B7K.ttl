@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8KFF6B7K>
+  a schema:ScholarlyArticle ;
+  schema:name "Les signatures des dieux. Graphismes et action rituelle dans les religions afro-cubaines" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8KFF6B7K> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8KFF6B7K" ;
+  schema:description "Cet article s’intéresse aux graphismes en usage au sein des religions afro-cubaines, notamment dans le palo monte et l’abakuá. Il examine comment ces signes, appelés firmas ou « signatures », participent à la dramaturgie rituelle. Qu’il s’agisse d’une cérémonie collective ou, plus modestement, d’un « travail » magique pour un patient, les graphismes saturent l’espace, les artefacts et les corps des participants. Ils servent à figurer les esprits des morts, les dieux, les astres ou tout autre agent non humain mobilisé par le rite. Ils donnent également à voir les actions invisibles que ces entités sont censées accomplir. Ils constituent en somme des diagrammes de l’action rituelle : à la fois une représentation de ses parties invisibles et le schème organisateur qui structure son déroulement. Combinant les approches sémiotique et pragmatique, l’article étudie à la fois ce que représentent les signes graphiques et ce qu’ils permettent de faire." ;
+  schema:author "Julien Bonhomme" ;
+  schema:creator "Katerina Kerestetzi" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Gradhiva" ;
+  schema:sameAs <https://doi.org/10.4000/gradhiva.3044> ;
+  dcterms:identifier "doi:10.4000/gradhiva.3044" ;
+  dcterms:subject "Diverse multidisciplinary academic research", "Linguistics and Discourse Analysis", "Literary and Cultural Studies" .

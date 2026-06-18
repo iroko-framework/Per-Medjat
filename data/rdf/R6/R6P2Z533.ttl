@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/R6P2Z533>
+  a schema:Book ;
+  schema:name "Black society in spanish florida" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=R6P2Z533> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:R6P2Z533" ;
+  schema:author "Landers, Jane" ;
+  schema:datePublished "1999" ;
+  schema:publisher "University of Illinois Press" ;
+  dcterms:identifier "isbn:0-252-02446-X" ;
+  dcterms:subject "1565-1763", "1784-1821", "African Americans -- Florida -- History", "African Americans -- Florida -- Social conditions", "Florida -- History -- Spanish colony", "Slavery -- Florida -- History" .

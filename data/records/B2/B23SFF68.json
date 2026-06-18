@@ -1,0 +1,107 @@
+{
+  "key": "B23SFF68",
+  "uri": "https://medjat.irokosociety.org/id/library/B23SFF68",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=B23SFF68",
+  "zotero": {
+    "group": "6479329",
+    "key": "B23SFF68",
+    "version": 2235,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/B23SFF68",
+    "dateAdded": "2026-05-19T14:19:49Z",
+    "dateModified": "2026-05-19T14:19:49Z"
+  },
+  "display": {
+    "title": "L'esclavage dans l'Empire ottoman (XVIe-XVIIe siècle) : fondements juridiques, réalités socio-économiques, représentations",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hayri Gökşin Özkoray"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "publicationTitle": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "bookTitle": "",
+    "journalAbbreviation": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Ottoman historiography dealing with slavery has been concentrated particularly on the later period of the Empire (19th-20th c.) and produced monographs of research and synthesis (B. Lewis 1971, 1990 ; E. Toledano 1982, 1997, 2007 ; H. Erdem 1996 ; M. Zilfi 2010).). For the early-modern period, there is a growing body of articles on localized aspects of the servile phenomenon. This dissertation’s objective is to realize the first monograph on slavery in the Ottoman society of the so-called “classical” period in whatever language it may be. The main focus is on slavery in the private space as opposed to the more well-known and studied sultan’s slaves and the military-administrative servitude (the “kul system”). Based essentially on archival documents of the Ottoman state, legal and juridical records, as well as literary texts, the dissertation tackles problems of juridical, social, economical, cultural history, as well as that of mentalities. Thus the research’s main axes concern the legal doctrine of slavery as an institution and the implementation of law by the Ottoman authorities; the slave trade; various forms of slave labour; slavery in everyday life; the fate of manumitted slaves; but also the representations of slavery by the Ottoman elites (topic to which a third of the thesis is devoted). The geographical framework covers the “central provinces” (Rumelia, Istanbul, Anatolia), but the dissertation also includes micro-studies on Syria (Arab-speaking but inseparable from Anatolia), Egypt, Crimea, Caucasus and Kurdistan.",
+    "doi": "",
+    "url": "https://openalex.org/W2897953554",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories",
+      "Islamic Studies and History"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hayri Gökşin Özkoray"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "L'esclavage dans l'Empire ottoman (XVIe-XVIIe siècle) : fondements juridiques, réalités socio-économiques, représentations"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Islamic Studies and History"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/B2/B23SFF68.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

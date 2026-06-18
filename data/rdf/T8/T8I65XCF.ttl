@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/T8I65XCF>
+  a schema:ScholarlyArticle ;
+  schema:name "Modern Slavery and Migrant Smuggling: A Sustainable Development Perspective" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=T8I65XCF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:T8I65XCF" ;
+  schema:description "Modern slavery—denoting acute exploitation of people for personal or commercial gain—is said to affect nearly 50 million people around the globe, making it a global issue that requires coordinated crosssectoral and integrated responses. Some efforts have been made to that effect, including through an emerging legislative regulation at domestic and regional levels. Migrants, in particular those with unsettled status, are particularly vulnerable to modern forms of slavery due to manifold enabling circumstances, including the lack of, or capacity to offer them, protection or limited access to legitimate forms of employment or social protection. However, global responses to migrant smuggling and irregular migrants are in stark contrast to the commitments made to address modern slavery. The increasing focus on the securitisation of migration obscures the underlying social, economic and political ‘push’ factors that fuel modern slavery. Thus, a more comprehensive response is needed that examines the issues of migration management, market regulation and development more widely. This paper uses a comparative lens to examine global developments in regulating labour-related forms of modern slavery vis-à-vis migration management in the context of achieving sustainable development goals. Received: 31 July 2022Accepted: 10 October 2022" ;
+  schema:author "Natalia Szablewska" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Cuadernos Europeos de Deusto" ;
+  schema:sameAs <https://doi.org/10.18543/ced.2589> ;
+  dcterms:identifier "doi:10.18543/ced.2589" ;
+  dcterms:subject "Migration and Labor Dynamics" .

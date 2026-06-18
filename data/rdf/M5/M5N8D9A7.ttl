@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M5N8D9A7>
+  a schema:Thesis ;
+  schema:name "Artificial Intelligence as a Roman Slave" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M5N8D9A7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M5N8D9A7" ;
+  schema:description "Artificial Intelligence as a Roman Slave Abstract This thesis, Artificial Intelligence as a Roman Slave, presents a compelling interdisciplinary inquiry into the parallels between ancient legal systems and modern technological developments. It explores how Roman slavery-where individuals were legally classified as property yet granted limited agency-can illuminate the evolving legal and ethical status of artificial intelligence (\"AI\"). Roman law carefully structured the lives of slaves through stages such as birth, enslavement, escape, manumission, and death, blending strict control with occasional autonomy and economic participation. In doing so, it established a highly elaborate legal framework that simultaneously denied personhood while acknowledging human capacity for action, a paradox that closely mirrors today's debates surrounding AI. Drawing on this model, the thesis critically examines whether intelligent machines, despite their growing autonomy through advanced hardware and adaptive software, remain confined to legal frameworks that regard them solely as tools or property. By tracing AI's lifecycle-its creation, operational control, potential resistance, and deactivation-the study reveals striking parallels between the governance of historical slaves and that of intelligent systems. Ultimately, it..." ;
+  schema:author "Tomáš Vojáček" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Digital Repository (National Repository of Grey Literature)" ;
+  dcterms:subject "Artificial Intelligence in Law", "Interdisciplinary Studies: Technology, Society, and Humanities", "Law, AI, and Intellectual Property" .

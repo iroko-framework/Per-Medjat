@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/R4PJDIL3>
+  a schema:ScholarlyArticle ;
+  schema:name "Mito, literatura y nación: el mito de Sikán y la construcción del mundo Abakuá en Alejo Carpentier y Lydia Cabrera" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=R4PJDIL3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:R4PJDIL3" ;
+  schema:description "Las sociedades secretas abakuá han sido históricamente asociadas con el crimen y la delincuencia dentro del imaginario cubano. Una mirada atenta revela, en cambio, la necesidad de repensar la naturaleza de estas organizaciones de ayuda mutua basadas en un complejo universo mítico-religioso. El mito genesíaco de Sikán funciona como punto de apoyo de una cosmovisión única dentro del espectro de los cultos afrocubanos, entre los que se incluye el abakuá. El siguiente ensayo explora la incorporación de este mito y de la presencia abakuá en textos de Alejo Carpentier y Lydia Cabrera, y su relación con una hibridez genérica marcada por lo etnográfico y lo literario. Con este propósito, el presente ensayo se orienta hacia la búsqueda y deconstrucción de representaciones literarias de la presencia negra en Cuba y sus efectos en la configuración de las obras en cuestión." ;
+  schema:author "Alberto Sosa Cabanas" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Mitologías hoy" ;
+  schema:sameAs <https://doi.org/10.5565/rev/mitologias.602> ;
+  dcterms:identifier "doi:10.5565/rev/mitologias.602" ;
+  dcterms:subject "Cuban History and Society", "Literature, Magical Realism, García Márquez", "Philippine History and Culture" .

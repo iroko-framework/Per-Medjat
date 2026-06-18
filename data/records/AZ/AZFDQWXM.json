@@ -1,0 +1,119 @@
+{
+  "key": "AZFDQWXM",
+  "uri": "https://medjat.irokosociety.org/id/library/AZFDQWXM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AZFDQWXM",
+  "zotero": {
+    "group": "6479329",
+    "key": "AZFDQWXM",
+    "version": 1053,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AZFDQWXM",
+    "dateAdded": "2026-05-19T13:27:39Z",
+    "dateModified": "2026-05-19T13:27:39Z"
+  },
+  "display": {
+    "title": "The Sacred Language of the Abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lydia Cabrera"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "University Press of Mississippi eBooks",
+    "publicationTitle": "University Press of Mississippi eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "University Press of Mississippi eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "1",
+    "abstract": "In 1988, Lydia Cabrera (1899–1991) published <italic>La lengua sagrada de los Ñáñigos</italic>, an Abakuá phrasebook that is to this day the largest work available on any African diaspora community in the Americas. In the early 1800s in Cuba, enslaved Africans from the Cross River region of southeastern Nigeria and southwestern Cameroon created Abakuá societies for protection and mutual aid. Abakuá rites reenact mythic legends of the institution’s history in Africa, using dance, chants, drumming, symbolic writing, herbs, domestic animals, and masked performers to represent African ancestors. Criminalized and scorned in the colonial era, Abakuá members were at the same time contributing to the creation of a unique Cuban culture, including rumba music, now considered a national treasure Translated for the first time into English, Cabrera’s lexicon documents phrases vital to the creation of a specific African-derived identity in Cuba and presents the first ‘insiders’ view of this African heritage. This text presents thoroughly researched commentaries that link hundreds of entries to the context of mythic rites, skilled ritual performance, and the influence of Abakuá in Cuban society and popular music. Generously illustrated with photographs and drawings, this volume includes a new introduction to Cabrera’s writing as well as appendices that situate this important work in Cuba’s history.",
+    "doi": "10.14325/mississippi/9781496829443.001.0001",
+    "url": "https://doi.org/10.14325/mississippi/9781496829443.001.0001",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis",
+      "Language and cultural evolution",
+      "Language, Linguistics, Cultural Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lydia Cabrera"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Sacred Language of the Abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University Press of Mississippi eBooks, 2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14325/mississippi/9781496829443.001.0001"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language and cultural evolution"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AZ/AZFDQWXM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14325/mississippi/9781496829443.001.0001"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

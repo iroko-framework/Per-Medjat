@@ -1,0 +1,113 @@
+{
+  "key": "WJ6GT5CQ",
+  "uri": "https://medjat.irokosociety.org/id/library/WJ6GT5CQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WJ6GT5CQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "WJ6GT5CQ",
+    "version": 3362,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WJ6GT5CQ",
+    "dateAdded": "2026-05-20T16:34:10Z",
+    "dateModified": "2026-05-20T16:34:10Z"
+  },
+  "display": {
+    "title": "Bêtes Noires",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lauren Derby"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Lauren Derby explores storytelling traditions between the people of Haiti and the Dominican Republic, focusing on shapeshifting spirit demons called baka/bacá as a way to reckon with a shared history of enslavement, colonialism, and exploitation.",
+    "doi": "",
+    "url": "https://directory.doabooks.org/handle/20.500.12854/170263",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Geography",
+      "History",
+      "Narrative",
+      "Sociology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lauren Derby"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bêtes Noires"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Narrative"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sociology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/WJ/WJ6GT5CQ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PKM7MRSC>
+  a schema:Book ;
+  schema:name "La sociedad secreta Abakuá : narrada por viejos adeptos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PKM7MRSC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PKM7MRSC" ;
+  schema:author "Lydia Cabrera" ;
+  schema:datePublished "1970" ;
+  dcterms:subject "Indigenous Cultures and History" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZJCM6CKX>
+  a schema:ScholarlyArticle ;
+  schema:name "El Ayuntamiento de Xalapa y su potestad fiscal: definición, negociación y milicias, 1794-1803" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZJCM6CKX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZJCM6CKX" ;
+  schema:description "Analysis of the Xalapa Ayuntamiento's fiscal powers, negotiation with intendants, and militia organization in the Veracruz region, 1794-1803. Directly relevant to the pre-1808 routine administrative period in the people laundering / slave paper framework." ;
+  schema:author "Celaya Nández, Yovana" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Estudios de Historia Novohispana" ;
+  schema:sameAs <https://doi.org/10.22201/IIH.24486922E.2021.65.77116> ;
+  dcterms:identifier "doi:10.22201/IIH.24486922E.2021.65.77116" ;
+  dcterms:subject "Bourbon reforms", "New Spain", "Veracruz", "ayuntamientos", "fiscal history", "intendentes", "jurisdicción fiscal", "milicias" .

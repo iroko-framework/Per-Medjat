@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YGJI9X3I>
+  a schema:ScholarlyArticle ;
+  schema:name "The Afro-Cuban Abakua: Rhythmic origins to modern applications" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YGJI9X3I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YGJI9X3I" ;
+  schema:author "Donald Brooks Truly" ;
+  schema:datePublished "2009" ;
+  dcterms:subject "Cuban History and Society", "Music History and Culture", "Theater, Performance, and Music History" .

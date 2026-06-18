@@ -1,0 +1,114 @@
+{
+  "key": "9AR8BHL5",
+  "uri": "https://medjat.irokosociety.org/id/library/9AR8BHL5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9AR8BHL5",
+  "zotero": {
+    "group": "6479329",
+    "key": "9AR8BHL5",
+    "version": 1572,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9AR8BHL5",
+    "dateAdded": "2026-05-19T14:17:08Z",
+    "dateModified": "2026-05-19T14:17:08Z"
+  },
+  "display": {
+    "title": "Liberated Africans and Law in the South Atlantic, c. 1839-1871",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jake Subryan Richards"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Apollo (University of Cambridge)",
+    "publicationTitle": "Apollo (University of Cambridge)",
+    "bookTitle": "",
+    "journalAbbreviation": "Apollo (University of Cambridge)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis explores how anti-slave-trade laws shaped the opportunities and limitations for enslaved people during the most intensive phase of abolition (c. 1839-1856) against the Brazilian slave trade, the largest in the Atlantic world. It focuses on case studies from Sierra Leone, South Africa, and Brazil, which were connected by the legal regime against the slave routes from South East Africa and West Central Africa to Brazil. Legal agents implemented bilateral treaty and parliamentary laws to reclassify enslaved captives as ‘liberated Africans’ through sanctioning the naval capture of slave ships, court adjudications of these captures, and the apprenticeship of the slaves. At the end of apprenticeship, the polity in which liberated Africans had served the apprenticeship generally had jurisdiction to determine their post-apprenticeship legal status. Historians have made two major claims regarding liberated Africans. Some scholars have argued that treaty and local laws attributed legal rights to liberated Africans. Others have argued that vested interests used apprenticeship to subject liberated Africans to de facto re-enslavement. However, historians have not addressed the fundamental ambiguities that agents of law (judges, naval officers, diplomats) and the enslaved faced in interpreting, implementing, and responding to anti-slave-trade laws. The central argument of the thesis is that continual interactions between agents of law and the slaves shaped the legal status of liberated Africans in different contexts. The first chapter argues that naval capture produced conditions similar to the Middle Passage, generating significant uncertainty for the slaves regarding how the naval crew would treat them. The second and third chapters focus on court adjudication, demonstrating that anti-slave-trade courts shaped norms for slaves’ testimony and interpolity relations on the Brazilian and the Upper Guinea coasts. The fourth chapter argues that state officials and hirers envisioned the apprenticeship of liberated Africans as producing ‘free labourers’ through wage incentives and punishments. However, liberated Africans did not subscribe to a worldview which gave primacy to wages and instead prioritized independent economic activity. The fifth and final chapter uses new archival material from magistrate records and the Ministério da Justiça in Rio to uncover the processes that ended apprenticeship, including petitioning the state and negotiating new labour relations.",
+    "doi": "10.17863/cam.54347",
+    "url": "https://doi.org/10.17863/cam.54347",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jake Subryan Richards"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Liberated Africans and Law in the South Atlantic, c. 1839-1871"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Apollo (University of Cambridge), 2019."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.17863/cam.54347"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/9A/9AR8BHL5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.17863/cam.54347"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

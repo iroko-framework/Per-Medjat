@@ -1,0 +1,124 @@
+{
+  "key": "TW878A9F",
+  "uri": "https://medjat.irokosociety.org/id/library/TW878A9F",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TW878A9F",
+  "zotero": {
+    "group": "6479329",
+    "key": "TW878A9F",
+    "version": 130,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TW878A9F",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Archives power: memory, accountability, and social justice",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jimerson, Randall C"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Society of American Archivists",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Chicago, Ill",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Argues to answer some of the complex social, political, professional, and ethical questions that are at the heart of the roles and identity of the archive professional, their significance in modern society, and their impact on human history and culture.",
+    "doi": "",
+    "url": "",
+    "isbn": "1-931666-30-X",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archives -- Political aspects",
+      "Archives -- Social aspects",
+      "Archivists -- Professional ethics",
+      "Public interest",
+      "Social justice"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jimerson, Randall C"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Archives power: memory, accountability, and social justice"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Chicago, Ill: Society of American Archivists, 2009."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "1-931666-30-X"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archives -- Political aspects"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archives -- Social aspects"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archivists -- Professional ethics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Public interest"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social justice"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TW/TW878A9F.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/7GJM8FFV>
+  a schema:Thesis ;
+  schema:name "Martin Luther King, Jr.’s Struggle For Equality for Black People in America" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7GJM8FFV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7GJM8FFV" ;
+  schema:description "This research is about “Martin Luther King Jr.’s Struggle for Equality for Black People in America”. This library research thesis is based on historical and biographical approach. The purpose of this research is to find out how Martin Luther King Jr. struggled for equality in America especially for the black people. Historical approach is used to view the historical background of the black people in America from the first settlement and first slave trade to the slave abolishment until in the middle of 20th Century. Biographical approach, however, is used in this thesis to view the struggle conducted by Martin Luther King Jr. in order to fight for the civil rights. After analyzing the background of the black people, the writer found out that the reason Martin Luther King Jr. fought for civil rights was because of the law that was not run in practice in America, even though black people are guaranteed by the law. Martin Luther King, Jr. made a significant change to America especially for the black people. Even though issues of racism are still found these days in America, generally the life of the black people in America developed to a good improvement in economy as well as in politics." ;
+  schema:author "Arief Wijaya Junor" ;
+  schema:datePublished "2003" ;
+  dcterms:subject "21st Century Education and Governance", "Attention Economy in Education and Business", "Education Methods and Practices" .

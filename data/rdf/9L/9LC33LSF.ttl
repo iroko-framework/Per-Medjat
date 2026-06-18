@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9LC33LSF>
+  a schema:ScholarlyArticle ;
+  schema:name "Abakuás en la ficción criminal cubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9LC33LSF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9LC33LSF" ;
+  schema:description "Esta contribución lleva a cabo una revisión de la presencia de la sociedad abakuá en la literatura y el cine cubanos vinculados con la ficción criminal. Este género literario fue adquiriendo consistencia dentro de las letras de la Isla durante el siglo XX hasta convertirse en una de las señas de identidad de la narrativa cubana actual. Así pues, y partiendo de la revisión de los casos de la película La hija del policía o Entre los ñáñigos [1917] y de la novela Fantoches 1926, se presta además atención al libro de relatos ¼ fambá y 19 cuentos más de 1967, del escritor Gerardo del Valle (1898-1973). Se aprecia así la evolución en el tratamiento de los personajes abakuás en los distintos momentos cronológicos especialmente en lo tocante a su vinculación con el crimen y la violencia" ;
+  schema:author "Emilio J. Gallardo-Saborido" ;
+  schema:datePublished "2018" ;
+  schema:publisher "DIGITAL.CSIC (Spanish National Research Council (CSIC))" ;
+  dcterms:subject "Cinema History and Criticism", "Cuban History and Society", "Latin American Literature Studies" .

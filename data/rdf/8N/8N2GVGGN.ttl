@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8N2GVGGN>
+  a schema:Chapter ;
+  schema:name "Weed Resistance to Herbicides" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8N2GVGGN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8N2GVGGN" ;
+  schema:description "Unfortunately, herbicide resistance developed shortly after the introduction of the herbicides 2,4‐D in 1957. According the herbicide resistance mechanisms, all processes can be grouped as follows: target‐site resistance, non‐target‐site resistance, cross‐resistance and multiple‐resistance. Target‐site resistance is generally due to a single or several mutations in the gene encoding the herbicide‐target enzyme, which, in turn, decreases the affinity for herbicide binding to that enzyme. Non‐target‐site resistance is caused by mechanisms that reduce the amount of herbicidal active compound before it can attack the plant through the reduced absorption or altered translocation, increased herbicide sequestration or enhanced herbicide metabolism. Cross‐resistance means that a single‐resistance mechanism causes resistance to several herbicides with some mode of action. Multiple‐resistance is a situation where two or more resistance mechanisms are present within the same plant, often due to sequential selection by herbicides with different modes of action. Currently, herbicide resistance has been reported in 478 weed biotypes (252 weed species) in 67 countries. Many of those biotypes are resistant to acetolactate synthase (ALS) inhibitors, PS II inhibitors, ACC‐ase inhibitors and EPSPS inhibitors. Strategy for herbicide‐resistance weed management must involve all the available preventive, cultural, mechanical and chemical measures for effective, safe and cost‐effective weed control." ;
+  schema:author "Sаvа Vrbničаnin" ;
+  schema:creator "Danijela Pavlović", "Drаgаnа Bоžić" ;
+  schema:datePublished "2017" ;
+  schema:sameAs <https://doi.org/10.5772/67979> ;
+  dcterms:identifier "doi:10.5772/67979" ;
+  dcterms:subject "Agronomic Practices and Intercropping Systems", "Allelopathy and phytotoxic interactions", "Weed Control and Herbicide Applications" .

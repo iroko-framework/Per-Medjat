@@ -1,0 +1,114 @@
+{
+  "key": "AQFW2LBJ",
+  "uri": "https://medjat.irokosociety.org/id/library/AQFW2LBJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AQFW2LBJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "AQFW2LBJ",
+    "version": 3849,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AQFW2LBJ",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Religious language and the ideology of black slavery: Notes on Alonso de Sandoval’s De Instauranda Aethiopum Salute",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Roberto Hofmeister Pich"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Filosofia Unisinos",
+    "publicationTitle": "Filosofia Unisinos",
+    "bookTitle": "",
+    "journalAbbreviation": "Filosofia Unisinos",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "18",
+    "issue": "3",
+    "pages": "",
+    "abstract": "The purpose of this study is to characterize how religious language, discourse and practices, in contexts of Catholic missionary work during the so-called colonial period of Latin American history, reveal ethical and political contents and presuppositions which are central to understand social-historical phenomena and human relationships such as Black slavery. What I briefly analyze in the work of Alonso de Sandoval S.J. (De instauranda Aethiopum salute, 1627) are some levels of religious discourse and description of standard religious practices that may reveal how the connection between colonization and Christian mission both subverted and corrupted religion and how Christian mission, by its own terms, help structuring and confirming the politics of colonization, particularly contributing, at the level of social-political ideas and mental framework, to the long prevailing system of Black slavery in Latin America.",
+    "doi": "10.4013/fsu.2017.183.13",
+    "url": "https://doi.org/10.4013/fsu.2017.183.13",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Studies in Latin America",
+      "Latin American history and culture",
+      "Religious and Theological Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Roberto Hofmeister Pich"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Religious language and the ideology of black slavery: Notes on Alonso de Sandoval’s De Instauranda Aethiopum Salute"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Filosofia Unisinos, 2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4013/fsu.2017.183.13"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religious and Theological Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AQ/AQFW2LBJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4013/fsu.2017.183.13"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

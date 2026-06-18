@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8IMEF25Y>
+  a schema:Book ;
+  schema:name "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8IMEF25Y> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8IMEF25Y" ;
+  schema:description "Brown's work gives a very complete ethno-history of Santeria to date. He also gives the only treatment of the history of the office of the Babalawo in Cuba. He introduces the reader to Adechina, the first Babalawo in Cuba. Brown also tells how Adechina and his students were able to propagate the traditions of Ifa in Cuba. This text will provide the bulk of my details on Cuba and her Babalawo." ;
+  schema:author "Brown, David H." ;
+  schema:datePublished "2003" ;
+  schema:publisher "University of Chicago Press" ;
+  dcterms:identifier "isbn:0-226-07610-5" .

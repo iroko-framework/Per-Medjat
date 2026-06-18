@@ -1,0 +1,108 @@
+{
+  "key": "FUQVKV28",
+  "uri": "https://medjat.irokosociety.org/id/library/FUQVKV28",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FUQVKV28",
+  "zotero": {
+    "group": "6479329",
+    "key": "FUQVKV28",
+    "version": 3354,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FUQVKV28",
+    "dateAdded": "2026-05-20T16:34:07Z",
+    "dateModified": "2026-05-20T16:34:07Z"
+  },
+  "display": {
+    "title": "Passage of Darkness: The Ethnobiology of the Haitian Zombie, by Wade Davis",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jack Van Camp"
+      }
+    ],
+    "year": "1989",
+    "date": "1989",
+    "publisher": "ARCTIC",
+    "publicationTitle": "ARCTIC",
+    "bookTitle": "",
+    "journalAbbreviation": "ARCTIC",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "42",
+    "issue": "3",
+    "pages": "",
+    "abstract": "H.P. Lovecraft and Indiana Jones move over! Wade Davis has shown once again that facts can be stranger than even the strangest fiction. Northern readers interested in the resilience of traditional lifeways and mechanisms for sharing power in traditional societies will find food for thought in this book. Those interested in traditional uses of plants and animals will learn something new. Even those cabin-bound sourdoughs who need a good mental holiday in the tropics should pick it up. Anyone seriously skeptical of the powers of magic, bored with science, unconvinced of the value of interdisciplinary research or unfamiliar with the discipline of ethnobiology should make Passage of Darkness required reading.",
+    "doi": "10.14430/arctic1950",
+    "url": "https://doi.org/10.14430/arctic1950",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Gothic Literature and Media Analysis",
+      "Yersinia bacterium, plague, ectoparasites research"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jack Van Camp"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Passage of Darkness: The Ethnobiology of the Haitian Zombie, by Wade Davis"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "ARCTIC, 1989."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14430/arctic1950"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gothic Literature and Media Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yersinia bacterium, plague, ectoparasites research"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FU/FUQVKV28.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14430/arctic1950"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

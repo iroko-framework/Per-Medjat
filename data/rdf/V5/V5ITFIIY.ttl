@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V5ITFIIY>
+  a schema:ScholarlyArticle ;
+  schema:name "O Milagre da crioulização: retrospectiva" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V5ITFIIY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V5ITFIIY" ;
+  schema:description "Neste ensaio o autor expande, desenvolve e atualiza idéias originalmente elaboradas no clássico O nascimento da cultura afro-americana, de 1973, no qual os autores propõem uma interpretação para o surgimento de formas culturais africano-americanas originais determinada pelo contexto das plantation societies. Ao mesmo tempo procura responder às críticas dirigidas contra o modelo desenvolvido nesse livro. As críticas podem ser associadas à \"virada discursiva\" prevalecente em muitos estudos contemporâneos, por um lado. Por outro, se ligam a uma interpretação engajada do passado africano-americano informada por teorias afrocêntricas ou críticas da supremacia branca e do eurocentrismo." ;
+  schema:author "Richard Price" ;
+  schema:datePublished "2003" ;
+  schema:publisher "Estudos Afro-Asiáticos" ;
+  schema:sameAs <https://doi.org/10.1590/s0101-546x2003000300002> ;
+  dcterms:identifier "doi:10.1590/s0101-546x2003000300002" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Literature, Culture, and Criticism" .

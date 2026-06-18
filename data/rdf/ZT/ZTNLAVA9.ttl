@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZTNLAVA9>
+  a schema:Thesis ;
+  schema:name "William Davenport, the Slave Trade, and Merchant Enterprise in Eighteenth-Century Liverpool" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZTNLAVA9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZTNLAVA9" ;
+  schema:description "&lt;p&gt;This thesis examines the business history of William Davenport (1725-1797), a Liverpool slave trading merchant from 1748 until 1786. Through an examination of a recently discovered collection of Davenport's business papers and personal letters, this thesis places Davenport in the context of Liverpool's development as a slaving port, and the growth of the town's slaving merchant community. It explains how Davenport became one of the largest slaving merchants of his generation, and one of the wealthiest Guinea merchants in Liverpool's history. To explain Davenport's rise the thesis focuses on how he managed his slaving company. It studies two distinct areas of the Guinea coast where he traded for slaves - Old Calabar and Cameroon - and demonstrates how he cultivated merchant partners, and developed a supply chain of trading goods, to suit the unique conditions of both African markets. The thesis also explores Davenport's business profits by examining his returns from several different areas of investment, including the slave trade, the ivory trade and his speculation in financial securities. By building a composite picture of Davenport's diverse business concerns the thesis argues that the profits of the slave trade were crucial to his financial success. Davenport's enterprising expansion of the slave trade into the Cameroon in the 1750s was decisive in generating his slaving profits, and ultimately his wealth.&lt;/p&gt;" ;
+  schema:author "Nicholas Radburn" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.26686/wgtn.16968493> ;
+  dcterms:identifier "doi:10.26686/wgtn.16968493" ;
+  dcterms:subject "Australian History and Society", "Colonialism, slavery, and trade", "Historical Economic and Social Studies" .

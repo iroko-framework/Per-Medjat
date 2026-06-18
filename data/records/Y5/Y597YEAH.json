@@ -1,0 +1,107 @@
+{
+  "key": "Y597YEAH",
+  "uri": "https://medjat.irokosociety.org/id/library/Y597YEAH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Y597YEAH",
+  "zotero": {
+    "group": "6479329",
+    "key": "Y597YEAH",
+    "version": 3621,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Y597YEAH",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "In “the Language of the Criminal”: Slavery and Colonialism in Ibero-America",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Evelyn P. Jennings"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Latin American Research Review",
+    "publicationTitle": "Latin American Research Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Latin American Research Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "49",
+    "issue": "2",
+    "pages": "282-294",
+    "abstract": "In “the Language of the Criminal”Slavery and Colonialism in Ibero-America Evelyn P. Jennings (bio) Public Memory of Slavery: Victims and Perpetrators in the South Atlantic. By Ana Lucia Araujo. Amherst, NY: Cambria Press, 2010. Pp. xix + 478. $139.99 cloth. ISBN: 9781604977141. Africans to Spanish America: Expanding the Diaspora. Edited by Sherwin K. Bryant, Rachel Sarah O’Toole, and Ben Vinson III. Champaign: University of Illinois Press, 2012. Pp. 279. $50.00 cloth. ISBN: 9780252036637. Women and Slavery in Nineteenth-Century Colonial Cuba. By Sarah L. Franklin. Rochester, NY: University of Rochester Press, 2012. Pp. xi + 223. $90.00 cloth. ISBN: 9781580464024. Voices of the Enslaved in Nineteenth-Century Cuba. By Gloria García Rodríguez. Translated by Nancy L. Westrate. Chapel Hill: University of North Carolina Press, 2011. Pp. xviii + 220. $26.95 paper. ISBN: 9780807871942. Bound Lives: Africans, Indians, and the Making of Race in Colonial Peru. By Rachel Sarah O’Toole. Pittsburgh, PA: University of Pittsburgh Press, 2012. Pp. xii + 257. $25.95 paper. ISBN: 9780822961932. “Damned Notions of Liberty”: Slavery, Culture, and Power in Colonial Mexico, 1640–1769. By Frank T. Proctor III. Albuquerque: University of New Mexico Press, 2011. Pp. xiv + 282. $27.95 paper. ISBN: 9780826349668. The Hierarchies of Slavery in Santos, Brazil, 1822–1888. By Ian Read. Stanford, CA: Stanford University Press, 2012. Pp. xiv + 275. $65.00 cloth. ISBN: 9780804774147. For isn’t it odd that the only language I have in which to speak of this crime is the language of the criminal who committed the crime? —Jamaica Kincaid, A Small Place Given slavery’s longevity and widespread past practice, historians of the Americas have struggled to understand and interpret the many questions raised by an institution that ultimately came to represent the antithesis of freedom, and the legacies of racism and discrimination that continue to oppress the descendants of slaves. Do we best understand enslavement by emphasizing the system’s horrors and injustices or by highlighting the efforts of slaves to resist or escape them? Do we best capture the experiences of the enslaved in aggregate statistics or through individual cases? Did all slaves yearn for freedom or did most submit [End Page 282] and adapt to their bondage? Is it possible that the inherent binary of these questions obscures more than it reveals? A number of significant works of scholarship on slavery in the mid-twentieth century, some employing statistical methods, tried to understand slavery as an institution or system—of thought, of labor, or of economic and social relations. These efforts produced some masterful syntheses that shaped the field for decades thereafter.1 Much of this scholarship was dominated by examinations of plantation slavery in the United States, the Caribbean, and Brazil, leading to the implicit assumption that plantation slaves’ experiences were the norm. For much of Ibero-America outside of northeastern Brazil, however, the plantation model explained little about slavery over the colonial period. Instead evidence mounted that the occupations and experiences of slaves varied considerably across the diverse regions of the Iberians’ American empires. In another thread of interpretation, some scholars also expressed qualms about the dehumanization they felt was inherent in broad discussions of slavery as a system. They heeded the call of Kátia Mattoso and others “to rescue these men and women from the anonymity in which they have been kept for so long by the combined effects of the old slave system and the new statistics.”2 Finding sources that reveal slaves’ own thoughts and perspectives continues to be a challenge and a subject of debate among scholars. Few of the enslaved were literate or had opportunities to record their unmediated thoughts and feelings. The Iberians, on the other hand, kept copious documents on both the institution and its victims, usually written by literate, free whites. These documents showed the lives of slaves as both people and property—as chattel in bills of sale and wills, as laborers in their owners’ account books, as witnesses or defendants in court records, as spouses and parents in parish records, as objects of scrutiny in Inquisition files, as recipients or petitioners in manumission cases. After decades of debate on how to make sense...",
+    "doi": "10.1353/lar.2014.0020",
+    "url": "https://doi.org/10.1353/lar.2014.0020",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Evelyn P. Jennings"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "In “the Language of the Criminal”: Slavery and Colonialism in Ibero-America"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Latin American Research Review, 2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "282-294 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/lar.2014.0020"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Y5/Y597YEAH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/lar.2014.0020"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

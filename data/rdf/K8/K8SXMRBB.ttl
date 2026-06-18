@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K8SXMRBB>
+  a schema:Book ;
+  schema:name "The Cooking of History: How Not to Study Afro-Cuban Religion" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K8SXMRBB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K8SXMRBB" ;
+  schema:description "Over a lifetime of studying Cuban Santería and other religions related to Orisha worship—a practice also found among the Yoruba in West Africa—Stephan Palmié has grown progressively uneasy with the assumptions inherent in the very term Afro-Cuban religion. In The Cooking of History he provides a comprehensive analysis of these assumptions, in the process offering an incisive critique both of the anthropology of religion and of scholarship on the cultural history of the Afro-Atlantic World. Under" ;
+  schema:author "Palmié, Stephan" ;
+  schema:datePublished "2013" ;
+  schema:publisher "University Of Chicago Press" ;
+  dcterms:identifier "isbn:0-226-01956-X" .

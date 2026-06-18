@@ -1,0 +1,116 @@
+{
+  "key": "85U5RCFZ",
+  "uri": "https://medjat.irokosociety.org/id/library/85U5RCFZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=85U5RCFZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "85U5RCFZ",
+    "version": 3576,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/85U5RCFZ",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "Worker feedback technologies and combatting modern slavery in global supply chains: examining the effectiveness of remediation-oriented and due-diligence-oriented technologies in identifying and addressing forced labour and human trafficking",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lisa Rende Taylor"
+      },
+      {
+        "role": "editor",
+        "name": "Elena Shih"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Journal of the British Academy",
+    "publicationTitle": "Journal of the British Academy",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of the British Academy",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "7 (s1)",
+    "issue": "",
+    "pages": "131-165",
+    "abstract": "The global proliferation of mobile-phone-based technologies in countries producing goods for global export-including SMS, smartphone apps, hotlines, polls, and other methods-offers exciting opportunities for collecting worker feedback to support corporate responsible sourcing. This seven-country study analysed how such technologies vary based on their fundamental relationships with workers and with businesses, and their commitments to workers and business, which leads to varying impacts on workers' lives. Due-diligence-oriented technology tools were found to help control risk in supply-chain hot spots, but rarely identified modern slavery due to gaining little trust from workers, and business clients not being ready to expose or address modern slavery. Empowerment-oriented worker feedback tools were found to regularly identify modern slavery, forced labour, and human trafficking and to assist exploited workers, but most had no connection to business's due diligence. Key ethical concerns were exposed as well, including the burden that some technology tools place on worker respondents, with insufficient benefits and safeguards to those vulnerable informant populations.",
+    "doi": "10.5871/jba/007s1.131",
+    "url": "https://doi.org/10.5871/jba/007s1.131",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lisa Rende Taylor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Worker feedback technologies and combatting modern slavery in global supply chains: examining the effectiveness of remediation-oriented and due-diligence-oriented technologies in identifying and addressing forced labour and human trafficking"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of the British Academy, 2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "131-165 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5871/jba/007s1.131"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Elena Shih"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/85/85U5RCFZ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5871/jba/007s1.131"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

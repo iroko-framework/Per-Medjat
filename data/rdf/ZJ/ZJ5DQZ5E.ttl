@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZJ5DQZ5E>
+  a schema:Thesis ;
+  schema:name "The Schooline of black: special historical Alagoad (1840-1890)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZJ5DQZ5E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZJ5DQZ5E" ;
+  schema:description "This study proposes to examine the processes by which free blacks and freed slaves were able to access the letters in the corresponding period 1840 to 1890. Following this approach to know what kind of education was taught and know the reasons for this type of training offered. Following the theoretical and methodological orientation of the Annales school to develop this work we use the journalistic sources, mainly through notices of runaway slaves, who presented the field of reading, writing and arithmetic, besides the school maps of the 1840s, and reports of the provincial presidents and directors of pubic education, appointments of religious brotherhoods, and rare books at the time. We have the support and guidance from studies of Veiga (2008), Fonseca (2007), Cruz (2008), which have studies on the education of blacks in the period in question, Xavier (2007) and Bittencourt (2008) to understand and analyze the level of student learning. The paper addresses the issue of school as a civilization, the inferiority of blacks, as well as education as a way to launder the Brazilian population and the brotherhoods as a space for reading and writing to blacks. This context of Alagoas at the time focusing on the economic, social, cultural and educational. In the face of power supplies, we can say that the public school system of Alagoas, in spite of total abandonment in which it was, served to free blacks. And after that the Free Womb Law of 1871 the enslaved could attend night courses and minors who were emancipated by that Law could have access to the letters through the Central School. We can also see that the education offered in this social group was aimed at teaching civilization in the customs and behaviors, as well as education for work." ;
+  schema:author "Monica Luise Santos" ;
+  schema:datePublished "2011" ;
+  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:subject "History of Colonial Brazil", "History of Education Research in Brazil", "Race, Identity, and Education in Brazil" .

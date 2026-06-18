@@ -1,0 +1,107 @@
+{
+  "key": "V3KHJMEP",
+  "uri": "https://medjat.irokosociety.org/id/library/V3KHJMEP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V3KHJMEP",
+  "zotero": {
+    "group": "6479329",
+    "key": "V3KHJMEP",
+    "version": 1890,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V3KHJMEP",
+    "dateAdded": "2026-05-19T14:18:29Z",
+    "dateModified": "2026-05-19T14:18:29Z"
+  },
+  "display": {
+    "title": "Hidden Signs, Haunting Shadows: Literary Currencies of Blackness in Upper Canadian Texts",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Phanuel Antwi"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "MacSphere (McMaster University)",
+    "publicationTitle": "MacSphere (McMaster University)",
+    "bookTitle": "",
+    "journalAbbreviation": "MacSphere (McMaster University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "It might be time for critics of early Canadian literature to avoid avoiding blackness in early Canada in their work. This dissertation<em> </em>takes up the recurrent pattern of displacement that emerges in critical studies that recall or rediscover early Canada. It attends in particular to the displacements and subordinations of Canadian blackness, particularly those conspicuously avoided by critics or rendered conspicuously absent by authors in the literatures of Upper Canada during the height of the Underground Railroad era, between 1830 and 1860. Not only is blackness in Upper Canada concealed, omitted, derided, and caricatured, but these representational formulas shape the hegemonic common-sense of what Antonio Gramsci terms “the national popular.” I argue that canonical texts contain accounts of early Canadian blackness from the national popular and subsequent criticisms of them produce an attitude and a history that excises blackness when literary and cultural critics examine the complexities of early Canada. Informed by Stuart Hall’s concept of the “floating signifier,” I draw the tropes of blackness out from behind the backdrop of early Canadian texts and into the foreground of Canadian literary and cultural criticism as well as critical race studies; in turn, this theoretical model helps me to explain what cultural work “undefined and indefinable” blackness did in early Canada and in contemporary imaginings of it (Clarke <em>Odysseys</em>, 16). Working out this paradox in John Richardson’s <em>Wacousta </em>and <em>The Canadian Brothers</em>, Susanna Moodie’s <em>Roughing It in the Bush</em>, and Catharine Parr Traill’s <em>The Canadian Settlers Guide</em>, my three chapters examine how these Upper Canadian authors display as much as hide the crucial roles of blackness in the formation of Canada and Canadian national identity.",
+    "doi": "",
+    "url": "http://hdl.handle.net/11375/11359",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American and British Literature Analysis",
+      "Canadian Identity and History",
+      "Short Stories in Global Literature"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Phanuel Antwi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Hidden Signs, Haunting Shadows: Literary Currencies of Blackness in Upper Canadian Texts"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "MacSphere (McMaster University), 2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American and British Literature Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Canadian Identity and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Short Stories in Global Literature"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/V3/V3KHJMEP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

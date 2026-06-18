@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ESMN4JYZ>
+  a schema:ScholarlyArticle ;
+  schema:name "Potentialities of the Egúngún festival as a tool for tourism development in Ogbomoso, Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ESMN4JYZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ESMN4JYZ" ;
+  schema:description "The Ogbms people like their kinsmen in other Yoruba towns of Southwestern Nigeria, celebrate the Egngn festival in honour of their dead. This festival is organized annually to appease the ancestors and to seek protection, blessing, favour and prosperity in all their endeavours. It is in their belief that the festival provides an opportunity for a reunion between the dead ancestors and the living members of their family. Like many other festivals in Yoruba land, the festival brings together people who live at home and abroad for various reasons. During this period an unprecedented rise in population is observed. The Yoruba, with specific reference to the Ogbms people are religious and this can be seen in the number of churches, mosques, shrines, temples and other places of worship located within their towns. In the light of the above, the number of visitors to this annual Egngn festival in the last ten years has also been on the increase. This paper comments on some results of a research conducted by the author between June, 2001 and June, 2010 in Ogbms, South-western Nigeria Yoruba town. It also examines the status of Egngn in the past and present time. The study looks at the impact of this festival on the economy of the people and that of the community. Furthermore, the paper queries the relationship of other tourism sectors to the Egngn festival. The study also considers through interviews the reasons for the ever increasing number of visitors to this festival. Therefore, the paper concludes that the Egngn festival has potential for tourism development if it is properly packaged." ;
+  schema:author "D. Olajide Makinde" ;
+  schema:datePublished "2011" ;
+  schema:publisher "WIT transactions on ecology and the environment" ;
+  schema:sameAs <https://doi.org/10.2495/rav110531> ;
+  dcterms:identifier "doi:10.2495/rav110531" ;
+  dcterms:subject "American Literature and Humor Studies" .

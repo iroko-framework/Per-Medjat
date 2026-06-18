@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/B5C8H3LM>
+  a schema:ScholarlyArticle ;
+  schema:name "Reading Psalm 35 in Africa (Yoruba) Perspective" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=B5C8H3LM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:B5C8H3LM" ;
+  schema:description "Psalm 35 appears to be one of the scariest Psalms because of the various expressions of hate and the Psalmist invoking wrath and death on his enemies. In the Western context, it is not one of the favourites of the Psalms. However, in a Yoruba context, Psalm 35 is one of the favourites because of its use for purposes of defence, victory, and protection. The purpose of this article is to discuss how Psalm 35 is used in a Yoruba context to meet the peculiar need of Yoruba people against enemies. Although there are similarities and differences between Psalm 35 and Yoruba ofo oro ogede, the similarities actually influence Yoruba Christians and non-Christians to use Psalm 35 like ofo or madarikan, orogede with a firm belief that it contains a more mysterious power from God than the Yoruba ofo, ogede and madarikan. Psalm 35 is, therefore, read, memorized, chanted, sung or inscribed in parchment to express the African faith, and their personal origin from God. Psalm 35 is also read in order to motivate God to perform a miracle as he has done originally with the people of ancient Israel." ;
+  schema:author "David Tuesday Adamo" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Old Testament Essays" ;
+  schema:sameAs <https://doi.org/10.17159/2312-3621/2019/v32n3a9> ;
+  dcterms:identifier "doi:10.17159/2312-3621/2019/v32n3a9" ;
+  dcterms:subject "Biblical Studies and Interpretation", "Christian Theology and Mission", "Contemporary Christian Leadership and Education" .

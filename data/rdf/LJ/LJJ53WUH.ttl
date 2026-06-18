@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LJJ53WUH>
+  a schema:Chapter ;
+  schema:name "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LJJ53WUH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LJJ53WUH" ;
+  schema:description "The Abakua ´mutual-aid society of Cuba, recreated from the E ´kpe `leopard society of West Africa's Cross River basin, is a richly detailed example of African cultural transmission to the Americas.Its material culture, such as masquerades and drum construction, as well as rhythmic structures, are largely based on E ´kpe `models.Its ritual language is expressed through hundreds of chants that identify source regions and historical events; many can be interpreted by speakers of E `fı `k, the pre-colonial lingua franca of the Cross River region (Miller 2005).With the help of both E ´kpe `and Abakua ´leaders, I have examined relationships between the musical practices of West African E ´kpe `, Cuban Abakua ´, as well as Cuban migrants to the United States whose commercial recordings have evoked West African places and events historically relevant to Abakua ´, meanwhile contributing to the evolution of North American jazz." ;
+  schema:datePublished "2014" ;
+  schema:sameAs <https://doi.org/10.4324/9781315829630-11> ;
+  dcterms:identifier "doi:10.4324/9781315829630-11" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Hispanic-African Historical Relations", "Language, Linguistics, Cultural Analysis" .

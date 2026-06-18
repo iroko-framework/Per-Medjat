@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QDWCKZ4R>
+  a schema:ScholarlyArticle ;
+  schema:name "MODERN SLAVERY: A REGIONAL FOCUS" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QDWCKZ4R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QDWCKZ4R" ;
+  schema:description "Kevin Bales, through his study in Understanding Global Slavery: A Reader, provides an important quantitative analysis on the predictive factors of modern slavery. Upon examining his study though, several issues arise including too few observations for several of the variables and the lack of a regional variable. The author decided to rerun his study with replacements for the problematic variables used previously. Upon obtaining the results from this, the author examined development theory (development is believed to be closely liked to slavery), and began creating an alternative model, which eventually included the addition of a regional variable. This model differed from Bales', but showed that region matters in predicting modern slavery and further examination of the regions separated out shows there are differences in what predicts slavery in various regions. The potential policy implications include targeting appropriate programs in a region to fight the issues might lead to slavery there." ;
+  schema:author "Amanda J. Gould" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Digital Commons - DU (University of Denver)" ;
+  dcterms:subject "Indian Economic and Social Development", "International Development and Aid", "Taxation and Compliance Studies" .

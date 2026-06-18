@@ -1,0 +1,128 @@
+{
+  "key": "MYD6T3PN",
+  "uri": "https://medjat.irokosociety.org/id/library/MYD6T3PN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MYD6T3PN",
+  "zotero": {
+    "group": "6479329",
+    "key": "MYD6T3PN",
+    "version": 3958,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MYD6T3PN",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Claudia Rocío Magaña González, Yanga Villagómez Velázquez (Coordinadores). 2018. Hacia una reflexión decolonial de la alimentación en el occidente de México. [Toward a decolonial reflection of the diet in western Mexico] México. Taller Editorial la Casa del Mago, 226 p.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "María de Lourdes Hernández Rodríguez"
+      },
+      {
+        "role": "editor",
+        "name": "Andrés María Ramírez"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Agricultura Sociedad y Desarrollo",
+    "publicationTitle": "Agricultura Sociedad y Desarrollo",
+    "bookTitle": "",
+    "journalAbbreviation": "Agricultura Sociedad y Desarrollo",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "16",
+    "issue": "2",
+    "pages": "265-268",
+    "abstract": "",
+    "doi": "10.22231/asyd.v16i2.1010",
+    "url": "https://doi.org/10.22231/asyd.v16i2.1010",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Agricultural and Food Production Studies",
+      "Culinary Culture and Tourism",
+      "Food, Nutrition, and Cultural Practices"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "María de Lourdes Hernández Rodríguez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Claudia Rocío Magaña González, Yanga Villagómez Velázquez (Coordinadores). 2018. Hacia una reflexión decolonial de la alimentación en el occidente de México. [Toward a decolonial reflection of the diet in western Mexico] México. Taller Editorial la Casa del Mago, 226 p."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Agricultura Sociedad y Desarrollo, 2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "265-268 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.22231/asyd.v16i2.1010"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agricultural and Food Production Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Culinary Culture and Tourism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Food, Nutrition, and Cultural Practices"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Andrés María Ramírez"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/MY/MYD6T3PN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.22231/asyd.v16i2.1010"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

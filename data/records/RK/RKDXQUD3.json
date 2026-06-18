@@ -1,0 +1,101 @@
+{
+  "key": "RKDXQUD3",
+  "uri": "https://medjat.irokosociety.org/id/library/RKDXQUD3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RKDXQUD3",
+  "zotero": {
+    "group": "6479329",
+    "key": "RKDXQUD3",
+    "version": 3370,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RKDXQUD3",
+    "dateAdded": "2026-05-20T16:34:15Z",
+    "dateModified": "2026-05-20T16:34:15Z"
+  },
+  "display": {
+    "title": "Digital Preservation of Haitian Mythology Music Notation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Pierre A. BoisAubin"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "publicationTitle": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This project aims at preserving Haitian mythology music; it is conceptualized as having two components:\\n\\n•\\tDigital Preservation Archive: The process generates equivalent notation of hardcopies as well as supplementary audio clip. The resulting artifacts are archived in a website.\\n\\n\\n•\\tMusic Production Using Media Technologies: is an effort to stimulate interest in the music. Digital media technologies are applied toward arranging mythology songs for small Afro Western styled musical group. We design a workflow for notating, recording, and staging the music.",
+    "doi": "",
+    "url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:24078357",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Diverse Musicological Studies",
+      "Maritime and Coastal Archaeology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Pierre A. BoisAubin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Digital Preservation of Haitian Mythology Music Notation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Access to Scholarship at Harvard (DASH) (Harvard University), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diverse Musicological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Maritime and Coastal Archaeology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RK/RKDXQUD3.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

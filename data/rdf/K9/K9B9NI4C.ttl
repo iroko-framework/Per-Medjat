@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K9B9NI4C>
+  a schema:Chapter ;
+  schema:name "Artist Segue 5: José Bedia" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K9B9NI4C> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K9B9NI4C" ;
+  schema:description "Cuban American José Bedia's artistic practice mirrors ethnography through his close examination of cultural performance and ritual, material culture, imagery, and storytelling. He is a participant-observer of cultural ways of knowing, which become synthesized in his art. His fieldwork with the Semana Santa in Mexico, the Lakota in North America, and Afro-Transatlantic cultures such as Le Regla Kongo, Regla de Ocho, and the Leopard Society of Abakuas, to name a few, is reflected in his artistic practice. He immerses himself into the place and with the event as a learner, making sketches, taking photographs, and writing notes. These understandings appear in his art." ;
+  schema:author "Ann Rowson Love" ;
+  schema:creator "Deborah Randolph" ;
+  schema:datePublished "2024" ;
+  schema:sameAs <https://doi.org/10.4324/9780429262326-11> ;
+  dcterms:identifier "doi:10.4324/9780429262326-11" ;
+  dcterms:subject "History, Culture, and Society" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YZFI528Q>
+  a schema:ScholarlyArticle ;
+  schema:name "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YZFI528Q> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YZFI528Q" ;
+  schema:description "The article focuses on exploring the presence of Afro-Cuban elements, specifically of Abakuá origin, in Afro-Peruvian music, with a particular focus on two significant record productions: \"Ritmos negros del Perú\" (1968) by Nicomedes Santa Cruz and his Conjunto Cumanana, and \"Juan de Mata\" (1978) by Conjunto Perú Negro. After a thorough analysis of the musical production of groups associated with the Afro-Peruvian movement post-1968, the artistic proposal of Conjunto Perú Negro emerges as particularly interesting. While their first album, Gran Premio del Festival Hispanoamericano de la Danza y la Canción (1973), contains a reference to the Abakuá theme in the song \"Canción para ekué\", it is in their second production, Son de los diablos (1974), where elements specific to Abakuá culture can be more clearly identified in one of the tracks. Through this study, the aim is to contribute to understanding the influence and interaction between Afro-Cuban and Afro-Peruvian musical traditions. The detailed analysis of the selected compositions reveals connections, similarities, as well as differences and evolutions in the musical expression of these two Afro-descendant cultures. The article seeks to deepen the understanding of how these influences intertwine and manifest in Afro-Peruvian music, thereby enriching knowledge about the diversity and complexity of Afro-descendant cultural expressions in Latin America." ;
+  schema:author "Rigol Sera, Laureano Arturo" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Revistas PUCP (Pontificia Universidad Católica del Perú)" ;
+  dcterms:subject "Aesthetics", "Anthropology", "Art", "Diversity (politics)", "Ethnology", "Expression (computer science)", "Focus (optics)", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology", "Theme (computing)" .

@@ -1,0 +1,102 @@
+{
+  "key": "XZG75JJ9",
+  "uri": "https://medjat.irokosociety.org/id/library/XZG75JJ9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XZG75JJ9",
+  "zotero": {
+    "group": "6479329",
+    "key": "XZG75JJ9",
+    "version": 1929,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XZG75JJ9",
+    "dateAdded": "2026-05-19T14:18:40Z",
+    "dateModified": "2026-05-19T14:18:40Z"
+  },
+  "display": {
+    "title": "Southern Apologetic Themes, as Expressed in Selected Ceremonial Speaking of Confederate Veterans, 1889-1900.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Howard Dorgan"
+      }
+    ],
+    "year": "1971",
+    "date": "1971",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The purpose of this investigation is to examine selected ceremonial addresses delivered at convocations of Confederate veterans between 1889 and the close of 1900. Analysis is made first of the numerous apologetic rationales employed by these ex-Confederate orators, second of the ap parent motivations of these speakers in advancing such rationales, and third of the effect of these rationales upon the creation of a Confederate myth. Furthermore, the study discusses the historical background to the development of a Confederate apologia, 1865-1889; examines the occasions for Confederate veteran ceremonial oratory between 1889 and the close of 1900; briefly reviews the contributions of ten representative orators; analyzes selected speeches for ratio nales relative to the causes of the Civil VTar, the character of Confederate soldiers. Confederate leaders, and Southern women, and the meanings of Confederate defeat; and, finally, draws conclusions concerning the nature and consequence of the emerging Confederate myth. In general, this study reveals that Confederate veteran ceremonial orators, between 1889 and 1900, spoke of the true cause of the Civil War as being misunderstood. They argued that slavery had not been a meaningful issue, but that the true cause had been, first, a basic dichotomy vii in constitutional interpretations and# second, an inherent disparity in the philosophical, cultural, and religious natures of the two sections. They further proclaimed that Southerners had fought for principles of state sovereignty and individual rights, and that in doing so they had upheld the original principles of the American Founding Fathers. Next, this study indicates that these speakers charged the war had not been lost due to any imperfections in Southern character, that, to the contrary, the Confeder ate soldier, the Confederate leader, and the Southern woman had courageously sacrificed for the cause and that Southern character had been vindicated by their heroic struggles. In addition, this study reveals that these orators proclaimed the Confederate cause not to be lost, arguing that principles of state sovereignty and individual rights had emerged-or were emerging-victorious. They further asserted that the Confederate struggle had stemmed the tide of centralism and that Northerners would eventually praise the South for having preserved the integrity of state and local governments. Furthermore, speakers implied that Con federate defeat had been divinely inspired, that the Con federacy had been sacrificed in order to dramatize the correctness of its cause, thereby precipitating the eventual victory of that cause. Finally, this study indicates that Confederate veteran ceremonial oratory was instrumental in promulgating viii a Confederate myth, that this myth depicted the Southern people and their cause with romanticized and heroic images, that these glorified images served to re-establish regional pride, and that this rebirth of regional pride in turn served to alleviate that sectional humiliation resulting from Confederate defeat-Furthermore, the study reveals that the myth promoted an image of a totally unified people who had allegedly fought in one accord to preserve the es sence of constitutional freedom and who afterwards maintained this sectional unity as a bulwark against encroachments on constitutionally guaranteed state sovereignty and individual freedom.",
+    "doi": "10.31390/gradschool_disstheses.2047",
+    "url": "https://doi.org/10.31390/gradschool_disstheses.2047",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Howard Dorgan"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Southern Apologetic Themes, as Expressed in Selected Ceremonial Speaking of Confederate Veterans, 1889-1900."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1971."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_disstheses.2047"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XZ/XZG75JJ9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_disstheses.2047"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

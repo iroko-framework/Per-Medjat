@@ -1,0 +1,137 @@
+{
+  "key": "KTQTHG53",
+  "uri": "https://medjat.irokosociety.org/id/library/KTQTHG53",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KTQTHG53",
+  "zotero": {
+    "group": "6479329",
+    "key": "KTQTHG53",
+    "version": 3792,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KTQTHG53",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Neo‐Slavery as Instrumentalization: Amazon, Surrogate Motherhood, and Mobile Phones",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bülent Diken"
+      },
+      {
+        "role": "editor",
+        "name": "Tuğba Göçer"
+      },
+      {
+        "role": "editor",
+        "name": "Mesut Uçak"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Sociology Lens",
+    "publicationTitle": "Sociology Lens",
+    "bookTitle": "",
+    "journalAbbreviation": "Sociology Lens",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "39",
+    "issue": "1",
+    "pages": "97-105",
+    "abstract": "ABSTRACT Despite being perceived as a remnant of the past, slavery persists in today's increasingly economized and biopoliticized world. To thematize the actuality of slavery, we initially return to Aristotle's discussion/justification of slavery as instrumentalization of human beings. Then we revisit Plato's allegory of the cave through three distinct readings. This threefold reading enables us to frame three present‐day cases/examples to reconsider slavery: the Amazon, surrogate motherhood, and the cell phone. The concept of use is pivotal for such reconsideration. Finally, we propose the concept of neo‐slavery. Although the traditional accounts of slavery understand slavery through its triangulation with property relations and force, we suggest another triangulation here: neo‐slavery, instrumental use, and consent. In this way, the examination of the three cases casts the traditional accounts of slavery in a new light, revitalizing the concept of slavery by putting it into a different use.",
+    "doi": "10.1111/johs.70030",
+    "url": "https://doi.org/10.1111/johs.70030",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Sex work and related issues",
+      "Water Governance and Infrastructure"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bülent Diken"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Neo‐Slavery as Instrumentalization: Amazon, Surrogate Motherhood, and Mobile Phones"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Sociology Lens, 2025."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "97-105 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1111/johs.70030"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Water Governance and Infrastructure"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Tuğba Göçer"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Mesut Uçak"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/KT/KTQTHG53.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1111/johs.70030"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

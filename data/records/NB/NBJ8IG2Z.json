@@ -1,0 +1,114 @@
+{
+  "key": "NBJ8IG2Z",
+  "uri": "https://medjat.irokosociety.org/id/library/NBJ8IG2Z",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NBJ8IG2Z",
+  "zotero": {
+    "group": "6479329",
+    "key": "NBJ8IG2Z",
+    "version": 3507,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NBJ8IG2Z",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Slavery and the Pursuit of Freedom in 16th-Century Santo Domingo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Richard Lee Turits"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Oxford Research Encyclopedia of Latin American History",
+    "publicationTitle": "Oxford Research Encyclopedia of Latin American History",
+    "bookTitle": "",
+    "journalAbbreviation": "Oxford Research Encyclopedia of Latin American History",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract In the past, scholars of Latin America often assumed that Spanish colonists abandoned the Caribbean for the bullion riches of Mexico and Peru almost immediately after their conquest, while many Caribbeanists have imagined that Barbados, colonized by the British in the mid-1600s, was the “first black slave society.” Yet, in fact, more than a century earlier in the colony of Santo Domingo (then officially known as la Isla Española or simply la Española), European colonists built the first major American plantation economy and society made up mostly of enslaved people. Those held in chains on the island reached into the tens of thousands by the mid-1500s, and Santo Domingo became a pivotal crossroads in the early modern Atlantic. At first the enslaved population included thousands of people the Spanish called “Indians,” taken from other parts of the Caribbean and the Americas, and even an occasional enslaved person of European (Orthodox Christian or Muslim) descent. But after the mid-1500s slavery in Santo Domingo became isolated to people of African descent. This contrasted with the preexisting demography of slavery in southern Europe, where the enslaved were of more diverse geographic origins. Santo Domingo thus initiated a trajectory of racial and plantation slavery whose contours would shape the course of history in the Americas overall. Santo Domingo’s slave-based economy would also, though, be the first to collapse, at the end of the 16th century, partly because of sustained resistance by the enslaved—their continual escape and rebellion—that was costly for planters. The enslaved had composed most of society in the prior century. Now the majority were escaped and, to a lesser extent, freed slaves, living with substantial autonomy as independent peasants dispersed across the countryside. These themes are illuminated through an exploration of one of the earliest freedom suits in the Americas. This suit was won on appeal in Santo Domingo in 1531 through remarkable transatlantic collaboration by family members and sailors as well as through the evident power of notarized documents in the Spanish Empire.",
+    "doi": "10.1093/acrefore/9780199366439.013.344",
+    "url": "https://doi.org/10.1093/acrefore/9780199366439.013.344",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Richard Lee Turits"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery and the Pursuit of Freedom in 16th-Century Santo Domingo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Oxford Research Encyclopedia of Latin American History, 2019."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1093/acrefore/9780199366439.013.344"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NB/NBJ8IG2Z.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1093/acrefore/9780199366439.013.344"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

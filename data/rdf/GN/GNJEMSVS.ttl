@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GNJEMSVS>
+  a schema:Thesis ;
+  schema:name "Design and Control of Self-organizing Systems" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GNJEMSVS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GNJEMSVS" ;
+  schema:description "Complex systems are usually difficult to design and control. There are several particular methods for coping with complexity, but there is no general approach to build complex systems. In this thesis I propose a methodology to aid engineers in the design and control of complex systems. This is based on the description of systems as self-organizing. Starting from the agent metaphor, the methodology proposes a conceptual framework and a series of steps to follow to find proper mechanisms that will promote elements to find solutions by actively interacting among themselves. The main premise of the methodology claims that reducing the “friction” of interactions between elements of a system will result in a higher “satisfaction” of the system, i.e. better performance.\\n\\nA general introduction to complex thinking is given, since designing self-organizing systems requires a non-classical thought, while practical notions of complexity and self-organization are put forward. To illustrate the methodology, I present three case studies. Self-organizing traffic light controllers are proposed and studied with multi-agent simulations, outperforming traditional methods. Methods for improving communication within self-organizing bureaucracies are advanced, introducing a simple computational model to illustrate the benefits of self-organization. In the last case study, requirements for self-organizing artifacts in an ambient intelligence scenario are discussed. Philosophical implications of the conceptual framework are also put forward." ;
+  schema:author "Carlos Gershenson" ;
+  schema:datePublished "2007" ;
+  schema:publisher "CogPrints (University of Southampton)" ;
+  dcterms:subject "Complex Systems and Decision Making", "Computability, Logic, AI Algorithms", "Slime Mold and Myxomycetes Research" .

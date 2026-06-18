@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8WP5E2PK>
+  a schema:ScholarlyArticle ;
+  schema:name "Prácticas mágico – religiosas en Ecué – Yamba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8WP5E2PK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8WP5E2PK" ;
+  schema:description "Este Articulo pretende mostrar como las practicas magico - religiosas afrocubanas reafirman la identidad cultural a traves de la obra Ecue-Yamba-O. En ella convergen manifestaciones culturales afrocubanas en la que se develan rasgos de identidad: Creencias magico- religiosas como: Mito, Ritos, Brujeria, La Cosmogonia Yoruba y La Religion Catolica, El naniguismo o Abakua. Todos y cada uno de estos aspectos logran mantenerse gracias a la funcionalidad de la oralidad que apuesta a la memoria cultural de personajes como MenegildoCue y su familia." ;
+  schema:author "Nellys Montenegro de la Hoz" ;
+  schema:datePublished "2014" ;
+  dcterms:subject "Literature, Culture, and Aesthetics", "Literature, Magical Realism, García Márquez" .

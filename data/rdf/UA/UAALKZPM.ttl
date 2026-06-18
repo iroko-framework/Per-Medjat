@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/UAALKZPM>
+  a schema:Thesis ;
+  schema:name "Our Country is the World: Radical American Abolitionists Abroad" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=UAALKZPM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:UAALKZPM" ;
+  schema:description "This thesis is my doctoral dissertation submitted for my Ph.D in history at Johns Hopkins University." ;
+  schema:author "W. Caleb McDaniel" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Rice Digital Scholarship Archive (Rice University)" ;
+  dcterms:subject "Race, History, and American Society" .

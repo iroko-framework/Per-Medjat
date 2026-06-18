@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QQ2CTWRA>
+  a schema:ScholarlyArticle ;
+  schema:name "Écrivains haïtiens au Québec. Une écriture du dépassement identitaire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QQ2CTWRA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QQ2CTWRA" ;
+  schema:description "Cette étude aborde l’éclatement d’une mouvance littéraire au sein de la littérature québécoise. Elle s’appuie principalement sur cinq romanciers haïtiens qui ont décidé de s’exiler et qui, à partir de leur terre d’accueil, abordent certains thèmes sur Haïti, colorés par leur nouvel environnement. Ce faisant, ils décrivent une réalité singulière liée à l’histoire tourmentée de leur pays d’origine. Bien qu’ils partagent leur langue avec les francophones du Québec, ces écrivains conservent leur préoccupation identitaire, leur combat culturel et leur prise de conscience politique. Leur écriture imprime une facture singulière au discours romanesque et poétique dans le champ de la littérature québécoise." ;
+  schema:author "Najib Redouane" ;
+  schema:datePublished "2011" ;
+  schema:publisher "Globe Revue internationale d’études québécoises" ;
+  schema:sameAs <https://doi.org/10.7202/1000692ar> ;
+  dcterms:identifier "doi:10.7202/1000692ar" ;
+  dcterms:subject "Canadian Identity and History", "Linguistic and Sociocultural Studies", "Linguistics and Discourse Analysis", "Haitian Vodou" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .

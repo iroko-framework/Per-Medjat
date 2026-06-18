@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/93PUVSID>
+  a schema:ScholarlyArticle ;
+  schema:name "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=93PUVSID> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:93PUVSID" ;
+  schema:author "Isabela de Aranzadi" ;
+  schema:datePublished "2015" ;
+  dcterms:subject "Cuban History and Society", "Spanish Literature and Culture Studies" .

@@ -1,0 +1,114 @@
+{
+  "key": "PV9TBFWI",
+  "uri": "https://medjat.irokosociety.org/id/library/PV9TBFWI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PV9TBFWI",
+  "zotero": {
+    "group": "6479329",
+    "key": "PV9TBFWI",
+    "version": 3383,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PV9TBFWI",
+    "dateAdded": "2026-05-20T16:34:28Z",
+    "dateModified": "2026-05-20T16:34:28Z"
+  },
+  "display": {
+    "title": "Sankofa: a circulação dos provérbios africanos: oralidade, escrita, imagens e imaginários",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alan Santos de Oliveira"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this research, we study the circulation of African proverbs by oral and written means, in imagetic and imaginary forms, from African societies to the diaspora context in countries such as Brazil and Haiti. We realize that the African proverbs have multiple meanings, not intended only for advice and guidance. They can be seen in works of art, writing, music, praise, literary imagination and images as a support for a message or as an influence for aesthetics and artistic creation. To talk about proverbs as a communication flow instrument, we had the need for an inquiry directed to the past, but without the desire to follow a linear procedure, basing in a proverb-symbol, sankofa, which means: \"it's never too late to go back and take what was behind\". Sankofa teaches us the wisdom to look at the past and bring something that was ignored, forgotten, for the present in order to build the future, like Janus, the Roman god of change and transitions, whom we seek here in a African perspective. This work aims to understand the proverbs and, on this journey, we joined the Communicationthrough the Aesthetics -and Paremiology -the discipline that studies the proverbs and phraseological resources.",
+    "doi": "10.26512/2016.02.d.20735",
+    "url": "https://doi.org/10.26512/2016.02.d.20735",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural, Media, and Literary Studies",
+      "Linguistics and Education Research",
+      "Literature, Culture, and Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alan Santos de Oliveira"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sankofa: a circulação dos provérbios africanos: oralidade, escrita, imagens e imaginários"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2016."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.26512/2016.02.d.20735"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural, Media, and Literary Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Education Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PV/PV9TBFWI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.26512/2016.02.d.20735"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

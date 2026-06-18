@@ -1,0 +1,119 @@
+{
+  "key": "FNJN3QB5",
+  "uri": "https://medjat.irokosociety.org/id/library/FNJN3QB5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FNJN3QB5",
+  "zotero": {
+    "group": "6479329",
+    "key": "FNJN3QB5",
+    "version": 3711,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FNJN3QB5",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Slavery and Just Compensation in American Constitutionalism",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stephan Stohler"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Law & Social Inquiry",
+    "publicationTitle": "Law & Social Inquiry",
+    "bookTitle": "",
+    "journalAbbreviation": "Law & Social Inquiry",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "44",
+    "issue": "1",
+    "pages": "102-135",
+    "abstract": "The existence of compensation clauses, guaranteeing compensation when governments took private property, in antebellum state constitutions varied considerably across states and over time. Existing explanations struggle to account for such variation. I argue that slavery had an important, though varied, influence, depending on the changing strategic behavior of proslavery constitutional drafters. Proslavery delegates opposed compensation when they expected to control political decision making, but supported compensation when uncertain. This argument identifies another way that slavery impacted US constitutional development, and further suggests that American rights development resembles the experiences of other countries where elite interests were threatened.",
+    "doi": "10.1111/lsi.12351",
+    "url": "https://doi.org/10.1111/lsi.12351",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Judicial and Constitutional Studies",
+      "Legal and Constitutional Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stephan Stohler"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery and Just Compensation in American Constitutionalism"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Law & Social Inquiry, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "102-135 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1111/lsi.12351"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Judicial and Constitutional Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal and Constitutional Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FN/FNJN3QB5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1111/lsi.12351"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

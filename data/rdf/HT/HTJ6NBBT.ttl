@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HTJ6NBBT>
+  a schema:ScholarlyArticle ;
+  schema:name "Information and Communication Technologies and the Effects of Globalization: Twenty-First Century “Digital Slavery” for Developing Countries—Myth or Reality?" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HTJ6NBBT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HTJ6NBBT" ;
+  schema:description "Abstract The main goal of this paper is to examine the ICT (Information and Communication Technology) revolution and the concept of globalization as they effect developing countries. Globalization as one of the reasons for possible widening of the gap between the poor and the rich nations was examined and the emerging concept of “digital slavery” was carefully evaluated. The wide gap in availability and use of ICTs across the world and the influences ICTs exert on globalization at the expense of developing countries were carefully examined and suggestions and necessary policies were offered for developing countries to leap-frog the industrialization stage and transform their economies into high value-added information economies that can compete with the advanced countries on the global market. This is why it is important for Africa, in general, and Nigeria, in particular, to be aware of the implications, prepare to avoid the most telling consequences and prepare to meet its challenges." ;
+  schema:author "L. A. Ogunsola" ;
+  schema:datePublished "2005" ;
+  schema:publisher "Lincoln (University of Nebraska)" ;
+  dcterms:subject "Economic Growth and Development", "ICT Impact and Policies", "Indian Economic and Social Development" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/C5ARVMBQ>
+  a schema:Book ;
+  schema:name "Hoodoo--conjuration--witchcraft--rootwork: Beliefs accepted by many Negroes and white persons, these being orally recorded among Blacks and whites." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C5ARVMBQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C5ARVMBQ" ;
+  schema:author "Hyatt, Harry Middleton" ;
+  schema:datePublished "1970" ;
+  schema:publisher "Printed by Western Pub.; distributed by American University Bookstore, Washington" ;
+  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Syncretic/Creole" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> .

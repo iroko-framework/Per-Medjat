@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4C8UTV46>
+  a schema:ScholarlyArticle ;
+  schema:name "Presencia de la sociedad abakuá en Fernando Poo a finales del siglo XIX. Deportados ñáñigos cubanos en la prensa española / Presence of the Abakuá society in Fernando Poo at the end of the 19th Century. Deported Cuban ñañigos in the Spanish press" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4C8UTV46> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4C8UTV46" ;
+  schema:description "En este articulo constatamos en Fernando Poo(Bioko), la presencia de los nanigos (miembros de lasociedad secreta cubana Abakua), a traves de la prensadecimononica. El bonko o nankue, rito-danza de loscriollos fernandinos analizado en un trabajo anterior,refleja el legado abakua, confirmado ahora en elarchivo escrito. De 1862 a 1897 se enviaron cubanosemancipados y deportados a Fernando Poo. En estetrabajo documentamos las deportaciones realizadas afinal de siglo XIX desde Cuba, con cientos de nanigoshacia Fernando Poo, pasando por Cadiz y Canarias. Laprimera logia abakua en Cuba se funda en 1836,siendo esta sociedad objeto de represion durante lacolonia y la republica. Una de las consecuencias serasu deportacion. La influencia abakua en Biokoconstituye la afirmacion de su identidad y el reflejo deuna memoria conservada como forma de resistencia,suponiendo un legado de ida y vuelta de la riquezacultural africana. In this article we confirm the presence of nanigos(members of Abakua, a Cuban secret society) inFernando Poo (Bioko), through the press in nineteenthcentury. The Bonko or Nankue, a ritual-dance amongFernandino Creoles, analyzed in a previous work,reflects the Abakua legacy now confirmed in thewritten archive. From 1862 to 1897, emancipated anddeported Cubans were sent to Fernando Poo. In thispaper we document the deportations carried out by theend of the nineteenth century, with hundreds ofnanigos leaving Cuba to Fernando Poo, passingthrough Cadiz and the Canary Islands. The firstAbakua juego (lodge) was founded in Cuba in 1836,and this society was repressed during the colonial andrepublican periods. One consequence was deportation.The Abakua influence in Bioko is asserting its identityand reflects their memory preserved as a form ofresistance, assuming a return of a legacy of Africancultural wealth." ;
+  schema:author "Isabela de Aranzadi" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Coloquios de Historia Canario Americana" ;
+  dcterms:subject "Cuban History and Society", "Hispanic-African Historical Relations", "Spanish Literature and Culture Studies" .

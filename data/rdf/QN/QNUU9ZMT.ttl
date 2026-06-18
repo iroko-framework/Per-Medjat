@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QNUU9ZMT>
+  a schema:ScholarlyArticle ;
+  schema:name "A Secret Society Goes Public: The Relationship between Abakua and Cuban Popular Culture" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QNUU9ZMT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QNUU9ZMT" ;
+  schema:description "eties of the Cross River region. It was founded in Havana, Cuba, in 1836 to resist slavery, and has since been active in many aspects of Cuban culture. Although her-metic and little known even within Cuba, an analysis of Cuban popular music recorded from the 1920s until the present reveals Abakua influence in nearly every genre of Cuban popular music. Abakua lore is orally transmitted, and Cuban musi-cians who are Abakua members have continually documented key aspects of their society&amp;apos;s history in commercial recordings, often in Abakua language. Because theirs is a secret language for initiates only, Abakua have commercially recorded actual chants of the society, knowing that outsiders cannot interpret them. Even so, these recordings have been very popular because the Abakua represent a rebel-lious, even anticolonial, aspect of Cuban culture. Now played throughout the Amer-icas, Mrica, Europe, and Asia, Cuban popular music and its derivatives maintain Abakua language and aesthetics as integral elements. Because so little has been written about the society by members themselves, commercial recordings with Abakua content are an important source of knowledge about this group. While lis-tening to the lyrics, I realized that Abakua musicians have sung about their contri-butions to Cuban history, their liberation struggles, and race relations. My research suggests the rising importance of Abakua as a symbol of Cuban culture. Resume: La Societe des hommes Abakua tire son origine des Societes Ekpe ouest africaines de la region de Cross River. Elle fut fondee a Havane a Cuba en 1836 pour resister al&amp;apos;esclavage et est depuis active dans bien des aspects de la culture cubaine. Bien qu&amp;apos;elle reste hermetique et peu connue meme al&amp;apos;interieurde Cuba," ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2000" ;
+  schema:publisher "African Studies Review" ;
+  schema:sameAs <https://doi.org/10.2307/524726> ;
+  dcterms:identifier "doi:10.2307/524726" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Cuban History and Society" .

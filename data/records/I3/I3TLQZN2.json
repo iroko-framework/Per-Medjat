@@ -1,0 +1,107 @@
+{
+  "key": "I3TLQZN2",
+  "uri": "https://medjat.irokosociety.org/id/library/I3TLQZN2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=I3TLQZN2",
+  "zotero": {
+    "group": "6479329",
+    "key": "I3TLQZN2",
+    "version": 2379,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/I3TLQZN2",
+    "dateAdded": "2026-05-19T14:20:15Z",
+    "dateModified": "2026-05-19T14:20:15Z"
+  },
+  "display": {
+    "title": "Reaching for the Promised Land: the role of culture, issues of leadership and social stratification within British Caribbean Christianity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Doreen Morrison"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+    "publicationTitle": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+    "bookTitle": "",
+    "journalAbbreviation": "University of Birmingham Institutional Research Archive (University of Birmingham)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Caribbean communities in Britain are known for the high religiosity of their people, and yet as ‘popular’ as the Church appears to be, there is at the same time an over-representation of many in the criminal justice, mental health and social care systems. This thesis takes a new approach to examining the effectiveness of the Church in their lives; rather than examine its belief systems and rituals, it looks at the worship and personal experience of Baptists, the oldest inherited Christian denomination, through the lens of culture. It reveals through practices and experiences, that British Caribbean Christians continue to maintain an allegiance to inherited missionary prejudices against Caribbean culture, enforced by leaders, through a system of social stratification, resulting in self-loathing, alienation and dislocation. They are a people who respect biblical stories and particularly the story of the Exodus, which gives meaning to not just their religious, but social and political lives. This thesis theologically reflects on that story, reframing it to demonstrate that Moses is indeed to be celebrated, but not simply as one who leads God’s people out of Egypt, but to the Promised Land; being a successful prototype of a leadership founded on cultural inclusion.",
+    "doi": "",
+    "url": "http://etheses.bham.ac.uk/3481/1/Morrison12PhD.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Postcolonial and Cultural Literary Studies",
+      "Religion, Society, and Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Doreen Morrison"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Reaching for the Promised Land: the role of culture, issues of leadership and social stratification within British Caribbean Christianity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of Birmingham Institutional Research Archive (University of Birmingham), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Postcolonial and Cultural Literary Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion, Society, and Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/I3/I3TLQZN2.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

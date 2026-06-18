@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/DXX8GMUP>
+  a schema:Thesis ;
+  schema:name "Roman constructions of fortuna" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DXX8GMUP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DXX8GMUP" ;
+  schema:description "This thesis investigates the Roman idea of <em>fortuna</em>, by examining its representation in different media (coins, cults, philosophy, and literature) and the thought worlds which these media inhabited. Drawing chiefly on evidence from the late Republic and the first two centuries of the Empire, I examine the interactions between the meanings of <em>fortuna</em> and the contexts in which they occur, showing how <em>fortuna</em> was used to construct understandings of broader social processes. Chapter 1 charts how various groups and individuals appropriated the religious character of <em>fortuna</em> into discourses of power to promote their interests, from the first archaic cults through to Imperial <em>fortunae</em>. By propitiating <em>fortuna</em>, the founders and worshippers of these cults attempted to ‘tame’ <em>fortuna</em> by representing themselves or the groups to which they belonged as particularly favoured by this deity. Chapter 2 examines how literary authors used <em>fortuna</em> to talk about ideas of social status, luck, chance, and fate. How these authors chose to describe <em>fortuna</em>, or which powers they chose to ascribe to her, were choices frequently determined by the text’s relationship to the structures of Roman power. Chapter 3 examines the iconography of <em>fortuna</em> on Imperial coins, for which I used a statistical methodology to quantify her numismatic representation. This sets our understanding of the interconnections between numismatic iconography and cultural and political history on a firmer basis and allows us to analyse more precisely how <em>fortuna</em> was imagined in imperial ideology. I look at the periods in which <em>fortuna</em> was most often deployed and when her iconography and legends underwent the greatest changes, discussing the political and cultural contexts that motivated these uses. Chapter 4 addresses philosophical conceptions of <em>fortuna</em>. I look at what was peculiarly Roman about how Roman Stoics and Epicureans figured <em>fortuna</em> in their physics and ethics, focusing especially on the philosophical and cultural implications of their concern with <em>fortuna</em>." ;
+  schema:author "Lydia Matthews" ;
+  schema:datePublished "2011" ;
+  schema:publisher "Oxford University Research Archive (ORA) (University of Oxford)" ;
+  schema:sameAs <https://doi.org/10.5287/ora-2njyrzb2w> ;
+  dcterms:identifier "doi:10.5287/ora-2njyrzb2w" ;
+  dcterms:subject "Classical Antiquity Studies", "Historical and Literary Studies", "Historical, Religious, and Philosophical Studies" .

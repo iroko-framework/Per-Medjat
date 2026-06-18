@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AKIC3HHM>
+  a schema:Thesis ;
+  schema:name "Etre Abakua à La Havane: pouvoir en jeu, enjeux de pouvoir et mise en scène de soi" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AKIC3HHM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AKIC3HHM" ;
+  schema:author "Morel-Baré Diaz Géraldine Morel-Baré Diaz Géraldine" ;
+  schema:datePublished "2012" ;
+  schema:sameAs <https://doi.org/10.35662/unine-thesis-2272> ;
+  dcterms:identifier "doi:10.35662/unine-thesis-2272" ;
+  dcterms:subject "African history and culture studies", "Migration, Identity, and Health", "Multiculturalism, Politics, Migration, Gender" .

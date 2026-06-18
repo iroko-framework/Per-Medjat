@@ -1,0 +1,114 @@
+{
+  "key": "SCZ9SVDJ",
+  "uri": "https://medjat.irokosociety.org/id/library/SCZ9SVDJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=SCZ9SVDJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "SCZ9SVDJ",
+    "version": 3453,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/SCZ9SVDJ",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "The Black Middle",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Matthew Restall"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Stanford University Press eBooks",
+    "publicationTitle": "Stanford University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Stanford University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Winner of the Conference on Latin American History's 2010 Mexican History Book Prize. The Black Middle is the first full-length study of black African slaves and other people of African descent in the Spanish colonial province of Yucatan. Matthew Restall makes expert use of Spanish and Maya language documents from the sixteenth through the nineteenth centuries, found in a dozen different archives. His goal is to discover what life was like for a people hitherto ignored by historians. He explores such topics as slavery and freedom, militia service and family life, bigamy and witchcraft, and the ways in which Afro-Yucatecans (as he dubs them) interacted with Mayas and Spaniards. Restall concludes that, in numerous ways, Afro-Yucatecans lived and worked in a middle space between—but closely connected to—Mayas and Spaniards. The book's \"black middle\" thesis has profound implications for the study of Africans throughout the Americas.",
+    "doi": "10.1515/9781503624757",
+    "url": "https://doi.org/10.1515/9781503624757",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Studies in Central America",
+      "Latin American history and culture",
+      "Politics and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Matthew Restall"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Black Middle"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Stanford University Press eBooks, 2009."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1515/9781503624757"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Central America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Politics and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/SC/SCZ9SVDJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1515/9781503624757"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

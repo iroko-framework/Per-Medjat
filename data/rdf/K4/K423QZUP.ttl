@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/K423QZUP>
+  a schema:Thesis ;
+  schema:name "\"Good For Rosetta\" : The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=K423QZUP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:K423QZUP" ;
+  schema:description "Rosetta Armstead was a sixteen year old enslaved girl who in March of 1855 was being transported through the state of Ohio on her way to Kentucky, where she was to become the nurse to her owner’s infant child. While overnighting in Columbus she came to the attention of local abolitionists and her case was brought in front of the Ohio courts. Her whirlwind case challenged the Fugitive Slave Law of 1850 as well as the authority of the federal government when her freedom was granted by the power of Ohio’s state courts. Her case highlights key issues in the 1850’s political crisis around slavery and states rights which would eventually ignite the Civil War. The fracture points around power, and the tensions between North and South, federal and state authority, were all brought up in the contentious decision which freed Rosetta from bondage." ;
+  schema:author "Alexandra Berg" ;
+  schema:datePublished "2020" ;
+  schema:sameAs <https://doi.org/10.15760/honors.920> ;
+  dcterms:identifier "doi:10.15760/honors.920" ;
+  dcterms:subject "American Constitutional Law and Politics", "American History and Culture", "Race, History, and American Society" .

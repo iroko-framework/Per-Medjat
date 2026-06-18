@@ -1,0 +1,107 @@
+{
+  "key": "HTJ6NBBT",
+  "uri": "https://medjat.irokosociety.org/id/library/HTJ6NBBT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HTJ6NBBT",
+  "zotero": {
+    "group": "6479329",
+    "key": "HTJ6NBBT",
+    "version": 3522,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HTJ6NBBT",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "Information and Communication Technologies and the Effects of Globalization: Twenty-First Century “Digital Slavery” for Developing Countries—Myth or Reality?",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "L. A. Ogunsola"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Lincoln (University of Nebraska)",
+    "publicationTitle": "Lincoln (University of Nebraska)",
+    "bookTitle": "",
+    "journalAbbreviation": "Lincoln (University of Nebraska)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract The main goal of this paper is to examine the ICT (Information and Communication Technology) revolution and the concept of globalization as they effect developing countries. Globalization as one of the reasons for possible widening of the gap between the poor and the rich nations was examined and the emerging concept of “digital slavery” was carefully evaluated. The wide gap in availability and use of ICTs across the world and the influences ICTs exert on globalization at the expense of developing countries were carefully examined and suggestions and necessary policies were offered for developing countries to leap-frog the industrialization stage and transform their economies into high value-added information economies that can compete with the advanced countries on the global market. This is why it is important for Africa, in general, and Nigeria, in particular, to be aware of the implications, prepare to avoid the most telling consequences and prepare to meet its challenges.",
+    "doi": "",
+    "url": "https://digitalcommons.unl.edu/ejasljournal/58",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Economic Growth and Development",
+      "ICT Impact and Policies",
+      "Indian Economic and Social Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "L. A. Ogunsola"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Information and Communication Technologies and the Effects of Globalization: Twenty-First Century “Digital Slavery” for Developing Countries—Myth or Reality?"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Lincoln (University of Nebraska), 2005."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Growth and Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "ICT Impact and Policies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indian Economic and Social Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HT/HTJ6NBBT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

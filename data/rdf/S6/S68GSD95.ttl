@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/S68GSD95>
+  a schema:ScholarlyArticle ;
+  schema:name "Análisis arqueobotánico de una preparación culinaria recuperada en el poblado prehispánico tardío El Molino (Depto. de Belén, Catamarca)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=S68GSD95> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:S68GSD95" ;
+  schema:description "Se presentan los resultados obtenidos del estudio de una masa aglutinada constituida por semillas y estructuras leñosas blandas carbonizadas y sin carbonizar, recuperada próxima a un objeto de oro en el recinto 34 del sitio El Molino (Valle de Hualfín), en el que se localizó, además, un entierro humano. El análisis de una muestra de 104 semillas condujo a determinar que el mayor porcentaje pertenece a Chenopodium carnosolum, maleza agrícola conocida como ajara que se asocia al cultivo de las quinoas; un solo ejemplar se identificó como posible Ch. hircinum, mientras que otro no pudo identificarse taxonómicamente. Asimismo, casi la totalidad de las semillas estudiadas estaban inmaduras al momento de su cosecha y tienen evidencia de haber sufrido un procesamiento de desaponificación e hidratación. Teniendo en cuenta el contexto de hallazgo, se considera que esta masa corresponde a una preparación culinaria, la cual podría haber estado involucrada en ceremonias destinadas a los antepasados y haber sido parte de las ritualidades vinculadas a los cierres de ciclo. Asimismo, el posible consumo de ajara durante un evento ritual manifiesta una importante significación, y, por lo tanto, podría considerarse como más que una maleza." ;
+  schema:author "Juana Fuertes" ;
+  schema:creator "María Laura López" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Revista del Museo de Antropología" ;
+  schema:sameAs <https://doi.org/10.31048/1852.4826.v17.n2.44258> ;
+  dcterms:identifier "doi:10.31048/1852.4826.v17.n2.44258" ;
+  dcterms:subject "Archaeology and ancient environmental studies", "Environmental and Cultural Studies in Latin America and Beyond", "Pacific and Southeast Asian Studies" .

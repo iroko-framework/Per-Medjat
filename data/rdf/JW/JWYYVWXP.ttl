@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JWYYVWXP>
+  a schema:ScholarlyArticle ;
+  schema:name "The Queens Give Heat: Haitian Women's Spiritual Play‐Labor in Rara" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JWYYVWXP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JWYYVWXP" ;
+  schema:description "Abstract Every year in Haiti and its diaspora, the Lenten and Vodou festivals of Rara occur through Easter Sunday. In this article, I argue that religious performances, such as Rara, are critical sites of Black women's social and economic empowerment. In particular, the women performers of Rara or the queens use Rara to empower themselves. Based on long‐term ethnographic research in Haiti, I attend to the way Black women transform play and Black religious expression into labor or what I call spiritual play‐labor. This concept builds on the works of Robin D.G. Kelley's (1997) and Oneka LaBennett's (2011) in which they attend to the ways that Black youth turn play and Black cultural expression into labor. I use Spiritual play‐labor as an analytic to explore the ways that Haitian women turn spiritual performances and Rara's carnivalesque play into labor that is compensated. The queen's reframing of their performance as labor relies upon their understanding of chalè or heat in which Black women's beauty and bodily work are central. Situating myself within the field of Black feminist anthropology, I explore my role as a feminist ethnographer in advocating with the queens to reframe their spiritual play into labor." ;
+  schema:author "Elena Herminia Guzman" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Feminist Anthropology" ;
+  schema:sameAs <https://doi.org/10.1002/fea2.12053> ;
+  dcterms:identifier "doi:10.1002/fea2.12053" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .

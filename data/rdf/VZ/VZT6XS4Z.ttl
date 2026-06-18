@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VZT6XS4Z>
+  a schema:Thesis ;
+  schema:name "Urban slavery in the Southwest" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VZT6XS4Z> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VZT6XS4Z" ;
+  schema:author "Paul D. Lack" ;
+  schema:datePublished "1973" ;
+  schema:publisher "ThinkTech (Texas Tech University)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Latin American and Latino Studies" .

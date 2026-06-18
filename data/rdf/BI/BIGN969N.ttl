@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BIGN969N>
+  a schema:ScholarlyArticle ;
+  schema:name "Griaule's Legacy: Rethinking \"la parole claire\" in Dogon Studies" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BIGN969N> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BIGN969N" ;
+  schema:description "RÉSUMÉL'héritage de Griaule : repenser la Parole claire dans les études dogon.Comment lire l'œuvre de Griaule et évaluer son héritage ethnographique ? Que peut-on tirer de son projet ethnophilosophique ? Pour répondre à ces questions, je propose une relecture critique de son ethnographie dogon ainsi qu'un nouveau modèle du savoir ésotérique qu'il prétendit révéler. Ma relecture s'appuie sur deux approches méthodologiques qui redéfinissent le projet exégétique en des termes socialement plus dynamiques. La première approche, qui se fonde sur ma recherche sur les Yoruba au Nigeria, s'appuie sur l'hypothèse selon laquelle les niveaux ésotériques des systèmes philosophiques africains sont en réalité indéterminés et instables, et cette capacité à contredire ou bouleverser le savoir officiel ou ésotérique rend le savoir secret opératoire et donc puissant. La seconde approche méthodologique fait passer l'analyse élaborée de la langue et du symbolisme dogon de l'École de Griaule au niveau de l'analyse pragmatique, plaçant les symboles et schémas dominants ainsi que les genres discursifs rituels dans leurs contextes perfomatifs. En nous concentrant sur les actes de langage, les locatifs, le glissement pronominal et les idées qu'ont les Dogon de leur mise en scène linguistique, nous pouvons revenir sur les riches matériaux dogon et en tirer un modèle dynamique de l'action critique comme l'héritage durable de « la parole claire »." ;
+  schema:author "Andrew Apter" ;
+  schema:datePublished "2005" ;
+  schema:publisher "Cahiers d études africaines" ;
+  schema:sameAs <https://doi.org/10.4000/etudesafricaines.14901> ;
+  dcterms:identifier "doi:10.4000/etudesafricaines.14901" ;
+  dcterms:subject "African history and culture analysis", "Anthropological Studies and Insights", "Global Maritime and Colonial Histories" .

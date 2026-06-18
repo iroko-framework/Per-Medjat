@@ -1,0 +1,107 @@
+{
+  "key": "9HSFTQE7",
+  "uri": "https://medjat.irokosociety.org/id/library/9HSFTQE7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9HSFTQE7",
+  "zotero": {
+    "group": "6479329",
+    "key": "9HSFTQE7",
+    "version": 3379,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9HSFTQE7",
+    "dateAdded": "2026-05-20T16:34:24Z",
+    "dateModified": "2026-05-20T16:34:24Z"
+  },
+  "display": {
+    "title": "Inculturação da fé : perspectivas históricas, culturais e religiosas dos afro-haitianos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Wilner Charles"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "publicationTitle": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "bookTitle": "",
+    "journalAbbreviation": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "O presente trabalho defende a temática de inculturação da fé na perspectiva histórica, cultural e religiosa afro-haitiana. A investigação busca descobrir a compreensão da fé cristã inculturada desde a percepção da realidade afro-haitiana, pelo fato de que o vodu aparece como manifestação central e sintetizadora da cultura desse povo. Essa teoria é comprovada à luz da caminhada histórica, caraterísticas do pensamento e à descrição das divindades dessa sociedade em comunhão e confrontação com a fé e teologia cristã que se identificam com a luta e resistência da comunidade afro-haitiana. A inculturação da fé, segundo a lógica afro-haitiana, é entendida como confrontação contra o novo modelo de escravização e de dominação presente em todas as camadas dessa sociedade",
+    "doi": "",
+    "url": "https://tede2.pucrs.br/tede2/bitstream/tede/11189/2/Wilner_Charles_TES.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Christian Theology and Mission",
+      "Race, Identity, and Education in Brazil",
+      "Religion and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Wilner Charles"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Inculturação da fé : perspectivas históricas, culturais e religiosas dos afro-haitianos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2023."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Christian Theology and Mission"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/9H/9HSFTQE7.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

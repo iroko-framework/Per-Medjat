@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PV9TBFWI>
+  a schema:Thesis ;
+  schema:name "Sankofa: a circulação dos provérbios africanos: oralidade, escrita, imagens e imaginários" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PV9TBFWI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PV9TBFWI" ;
+  schema:description "In this research, we study the circulation of African proverbs by oral and written means, in imagetic and imaginary forms, from African societies to the diaspora context in countries such as Brazil and Haiti. We realize that the African proverbs have multiple meanings, not intended only for advice and guidance. They can be seen in works of art, writing, music, praise, literary imagination and images as a support for a message or as an influence for aesthetics and artistic creation. To talk about proverbs as a communication flow instrument, we had the need for an inquiry directed to the past, but without the desire to follow a linear procedure, basing in a proverb-symbol, sankofa, which means: \"it's never too late to go back and take what was behind\". Sankofa teaches us the wisdom to look at the past and bring something that was ignored, forgotten, for the present in order to build the future, like Janus, the Roman god of change and transitions, whom we seek here in a African perspective. This work aims to understand the proverbs and, on this journey, we joined the Communicationthrough the Aesthetics -and Paremiology -the discipline that studies the proverbs and phraseological resources." ;
+  schema:author "Alan Santos de Oliveira" ;
+  schema:datePublished "2016" ;
+  schema:sameAs <https://doi.org/10.26512/2016.02.d.20735> ;
+  dcterms:identifier "doi:10.26512/2016.02.d.20735" ;
+  dcterms:subject "Cultural, Media, and Literary Studies", "Linguistics and Education Research", "Literature, Culture, and Criticism" .

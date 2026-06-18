@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V9HGWZEW>
+  a schema:ScholarlyArticle ;
+  schema:name "Literature and Music : The Intermediality in Stanley Péan's Works" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V9HGWZEW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V9HGWZEW" ;
+  schema:description "The Intermediality in Stanley Pan's Works The paper explores the relationship between literary and musical works withitin the domain of \"interart studies,\" focusing ont he transgression between arts, a source of inspiration frequently found in the texts of authors of Haitian origin.In analyzing the works of Dany Laferrire, Ursula Mathis-Moser uses the term intermediality to describe the role of music and song in his writing.This article aims to reflect on the same subject in the works of his compatriot, Stanley Pan, a novelist and short story writer, also known as a music lover and lyricist.Using Le temps s'enfuit (Time flies), a story intended for youth, as a backdrop, we have analyzed two of his novels, Zombi blues and Bizango, where music, often jazz, appears as an important thematic element.Like Dany Laferrire, Stanley Pan belongs to the Haitian diaspora in Canada.In his texts, he builds a fantasy world influenced by the Haitian imagination and voodoo beliefs.It seems that the music and sounds evoked are echoes of the island's oral tradition, expressing the nostalgia of the emigrants who had to leave it.In the conclusion, we demonstrate how music contributes to the discourse of exile in the works of French-speaking Caribbean authors." ;
+  schema:author "Květuše KUNEŠOVÁ" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Écho des études romanes" ;
+  schema:sameAs <https://doi.org/10.32725/eer.2024.007> ;
+  dcterms:identifier "doi:10.32725/eer.2024.007" ;
+  dcterms:subject "French Literature and Poetry" .

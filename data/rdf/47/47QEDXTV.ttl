@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/47QEDXTV>
+  a schema:Chapter ;
+  schema:name "The Afro-Cuban Religious Traditions of Regla de Palo and the Abakuá Secret Society" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=47QEDXTV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:47QEDXTV" ;
+  schema:author "Lizabeth Paravisini-Gebert" ;
+  schema:creator "Margarite Fernández Olmos" ;
+  schema:datePublished "2020" ;
+  schema:publisher "New York University Press eBooks" ;
+  schema:sameAs <https://doi.org/10.18574/nyu/9780814728253.003.0010> ;
+  dcterms:identifier "doi:10.18574/nyu/9780814728253.003.0010" ;
+  dcterms:subject "Cuban History and Society" .

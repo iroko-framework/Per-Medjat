@@ -1,0 +1,114 @@
+{
+  "key": "YU7YIRB8",
+  "uri": "https://medjat.irokosociety.org/id/library/YU7YIRB8",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YU7YIRB8",
+  "zotero": {
+    "group": "6479329",
+    "key": "YU7YIRB8",
+    "version": 2259,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YU7YIRB8",
+    "dateAdded": "2026-05-19T14:19:52Z",
+    "dateModified": "2026-05-19T14:19:52Z"
+  },
+  "display": {
+    "title": "Political economy, geographical imagination, and territory in the making and unmaking of New Granada, 1739-1830",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "María José Afanador-Llach"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation interrogates the intersections between political economy and territoriality during the transition from colony to republic in New Granada—modern day Colombia, Venezuela, Ecuador, and Panamá. It proposes a framework to analyze the discursive and on-the-ground impacts of early-modern political economy in pre-, and post-colonial politico-geographic debate. This dissertation sheds light on the territorial shifts and political debates between 1739 and 1830. First, it traces the imperial reform that led to the establishment of the viceroyalty of New Granada in 1739 and its territorialization over the course of the eighteenth century. Second, it analyses the fragmentation of New Granada into autonomous sovereign states starting in the 1810s. Third, it studies the Spanish military recovery of New Granada during the Reconquista wars. Lastly, it explores the unification of the Gran Colombian republic and its separation in 1830. To fully comprehend the political and territorial outcomes of the era, it is essential to understand that the coexistence of different spatial conceptions within colonial territories shifted both along geopolitical contingencies and spatial political economies that were long in the making. The rearrangement of territories from the eighteenth century to the republican era implied negotiations among often opposing ideas and interests over how to economically and politically organize and connect different spaces. Geographical imagination and ideas about nature played a central role in these processes. Throughout the eighteenth century and beyond, this tradition informed debates involving rights over municipal, imperial, and national spaces advancing conceptions of territory that shaped political debate. Because of its distinctive position, New Granada provides a useful perspective from which to explore key themes in the history of eighteenth-century imperial reform, the revolutionary period, and the early republican era.",
+    "doi": "10.15781/t2zs2kd39",
+    "url": "https://doi.org/10.15781/t2zs2kd39",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Historical and Cultural Archaeology Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "María José Afanador-Llach"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Political economy, geographical imagination, and territory in the making and unmaking of New Granada, 1739-1830"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2016."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15781/t2zs2kd39"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Cultural Archaeology Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/YU/YU7YIRB8.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15781/t2zs2kd39"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

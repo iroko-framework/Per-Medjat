@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JEYGLREF>
+  a schema:Report ;
+  schema:name "The Saga of Teofila Slavery and Credit Circulation in 19th-Century Rio de Janeiro" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JEYGLREF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JEYGLREF" ;
+  schema:description "This paper follows the enslaved woman Teofila from captivity to freedom in 19th-century Rio de Janeiro. To become a free woman, Teofila had to navigate the complex private credit networks of the West African community of the Brazilian capital city. With limited banking activity, the cariocas relied on one another for their financial needs, making for a highly convivial credit market that reflected and reinforced the vast inequalities of Brazilian slave society. While following Teofila through the courts of Rio de Janeiro, this paper will demonstrate that one of the cornerstones of the city’s credit market was the presence of an intertwined relationship between credit and private property. The commerce in human beings like Teofila produced thousands of negotiable titles, with slavery working as a propeller for credit circulation and one of its pillars – slave property was the primary collateral for unpaid debts." ;
+  schema:author "Clemente Penna" ;
+  schema:datePublished "2021" ;
+  schema:sameAs <https://doi.org/10.46877/penna.2021.39> ;
+  dcterms:identifier "doi:10.46877/penna.2021.39" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "History of Colonial Brazil" .

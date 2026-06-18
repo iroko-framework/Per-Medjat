@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PNWXGMZG>
+  a schema:ScholarlyArticle ;
+  schema:name "Relationship between self-esteem and achievement motivation of women in colleges of education, Kwara State" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PNWXGMZG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PNWXGMZG" ;
+  schema:description "Although achievement motivation is known to be typically characteristic of all human beings, its attainment is largely influenced by the result of evaluation or judgment of ones own worth. This paper examines the extent to which the worth of College women as judged by them influenced certain domains of achievement related contexts. Female students (N = 560) attending Kwara State College of Education at Ilorin and Oro participated in this study. In each College, the 280 female students who were randomly selected were representatives of the Schools of Art and Social Sciences, Sciences, Languages and Vocational/Technical Education. Students completed the College Women Achievement Motivation Questionnaire (CWAMQ) and the College Women Self-Esteem Questionnaires (CWSEQ) which both followed the four points Likert Scale Format. Pearson Product Moment Correlation Coefficient and the t-test statistics were employed to test the relationship and difference between Self-esteem and achievement motivation respectively. The result showed a statistically significant relationship between achievement motivation and Self-esteem of College women with Pearson Product Moment Coefficient of .192. There was a significant difference between the Self-esteem of their counterparts who are low in achievement motivation. Based on the findings it was recommended that college women need to imbibe the spirit of hard work which can influence competence on tasks and disregard worry, fear and anxiety which influence low self-esteem.The Nigerian Journal of Guidance and Counselling Vol. 8 (1) 2002: pp. 221-230" ;
+  schema:author "B Tayo Ajayi" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Nigerian Journal of Guidance and Counselling" ;
+  schema:sameAs <https://doi.org/10.4314/njgc.v8i1.36966> ;
+  dcterms:identifier "doi:10.4314/njgc.v8i1.36966" ;
+  dcterms:subject "African Education and Politics", "Education, Achievement, and Giftedness" .

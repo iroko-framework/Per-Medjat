@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PP32TLJL>
+  a schema:ScholarlyArticle ;
+  schema:name "Making Indians 'White': The Judicial Abolition of Native Slavery in Revolutionary Virginia and its Racial Legacy" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PP32TLJL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PP32TLJL" ;
+  schema:description "Note that this Comment uses the words \"Indian\" and \"Native\" interchangeably to refer to descendents of North America's indigenous inhabitants.The word \"Indian,\" as opposed to the bulkier \"Native American,\" is used despite its colonial" ;
+  schema:author "Gregory Ablavsky" ;
+  schema:datePublished "2011" ;
+  schema:publisher "University of Pennsylvania Law Review" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade" .

@@ -1,0 +1,108 @@
+{
+  "key": "LVG6QNXM",
+  "uri": "https://medjat.irokosociety.org/id/library/LVG6QNXM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LVG6QNXM",
+  "zotero": {
+    "group": "6479329",
+    "key": "LVG6QNXM",
+    "version": 2268,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LVG6QNXM",
+    "dateAdded": "2026-05-19T14:19:53Z",
+    "dateModified": "2026-05-19T14:19:53Z"
+  },
+  "display": {
+    "title": "A History of Methodism in Haiti 1817-1916.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Leslie Griffiths"
+      }
+    ],
+    "year": "1987",
+    "date": "1987",
+    "publisher": "SOAS Research Online (SOAS University of London)",
+    "publicationTitle": "SOAS Research Online (SOAS University of London)",
+    "bookTitle": "",
+    "journalAbbreviation": "SOAS Research Online (SOAS University of London)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Haiti was the first French-speaking country outside Europe, and the first non-British colony, where Methodist missionary work was established by John Brown and James Catts in 1817. Their short stay was followed by a period of twenty years when the Methodists in Port-au-Prince were organised under Haitian leadership. The arrival of missionary Mark Baker Bird in 1839 brought this indigenous period to its close. The time between 1804 (the year of Haiti's independence) and 1860 (the year when a Concordat was signed with the Vatican) saw the Roman Catholic community in Haiti in schism with Rome. During this time, Methodists understood their role in terms of non-sectarian collaboration with those attempting to evolve national institutions. After the signing of the Concordat, a significant change of climate can be noted. The Roman Catholics became self-confident, foreign-led, and an anti-protestant church. On the Protestant side, the different churches (Baptist, Episcopalian, and Methodist) tended to line up with nationalists and freemasons who mounted a campaign against the Concordat. Protestants in general, and Methodists among them, became increasingly sectarian. Some important Haitian intellectuals, however, who had been formed within a Methodist communion which remained true to the teaching and influence of Mark Bird, continued to take the larger view. This thesis emphasises the work of men such as J.B. Dehoux, a key figure in the world of medicine in 19th century Haiti; and Louis-Joseph Janvier, diplomat and political theorist; and also Etzer Vilaire, poet, teacher, and vice president of the Haitian Court of Appeal. All saw religion in the context of wider questions and issues, and established a distinctive intellectual tradition. The concentration of work in the towns of Haiti, the narrow social limits of the Methodists after the initial and better-balanced phase, the failure to produce Haitian ministers, all led to internal dissension, limits on the possibilities of growth, and a reduction of influence in the country generally by 1916 - tendencies which only later were to be reversed.",
+    "doi": "10.25501/soas.00034083",
+    "url": "https://doi.org/10.25501/soas.00034083",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Leslie Griffiths"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A History of Methodism in Haiti 1817-1916."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SOAS Research Online (SOAS University of London), 1987."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25501/soas.00034083"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LV/LVG6QNXM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25501/soas.00034083"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

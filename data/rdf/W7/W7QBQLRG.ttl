@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/W7QBQLRG>
+  a schema:ScholarlyArticle ;
+  schema:name "Race, Gender, and Class Embodied in Cuban Dance" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=W7QBQLRG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:W7QBQLRG" ;
+  schema:description "Dance \"houses\" or embodies physical, mental, emotional, and spiritual information within culturally specific movement sequences. I Although all dances have varied movements, their movements, songs, and rhythms can be analyzed to demonstrate connections between dance and other arenas ofsocial life; this is the charge of dance anthropology. In this paper, I use the anthropological perspective and methodology to discuss what the dance rumba indicates in terms of race, gender, and class in Cuban society." ;
+  schema:author "Yvonne Daniel" ;
+  schema:datePublished "1994" ;
+  schema:sameAs <https://doi.org/10.7275/6889> ;
+  dcterms:identifier "doi:10.7275/6889" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies", "Theater, Performance, and Music History" .

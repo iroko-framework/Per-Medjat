@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VQQYIZWC>
+  a schema:ScholarlyArticle ;
+  schema:name "El legado africano en Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VQQYIZWC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VQQYIZWC" ;
+  schema:description "En aquest article es tracta l’activitat religiosa, o parareligiosa, practicada en amplis sectors de la població de color de Cuba, que enfonsa les seves arrels en la seva anterior vida a l’Àfrica i en l’esclavitud. Perquè els esclaus negres van mantenir inicialment el culte als seus antics déus, i també els seus costums i associacions, que en certa manera van sobreviure i a la llarga van donar lloc a diversos sistemes religiosos en els quals van reestructurar les seves creences. Així, les pràctiques religioses de la cultura ioruba van cristal·litzar en un sol cos litúrgic al qual van denominar la Regla de Ocha o santeria; les procedents del Congo i Angola, en la Regla de Palo o mayombe, i de forma semblant van néixer els preceptes religiosos de la societat secreta Abakuá, procedent de Nigèria; les cases de babalawos, etc. Amb la independència (1898) paradoxalment es va produir una certa persecució de tall racista contra la població de color, fins que el 1940 es va promulgar una nova Constitució favorable a la llibertat religiosa. Finalment, l’article descriu sumàriament les diferents actituds que s’han tingut des de 1959 i es tanca amb un quadre que descriu el sincretisme religiós existent entre les diferents verges cristianes i les divinitats afrocubanes equivalents." ;
+  schema:author "Natalia Jimena Rincón Bolívar" ;
+  schema:datePublished "1997" ;
+  schema:publisher "Papers Revista de Sociologia" ;
+  schema:sameAs <https://doi.org/10.5565/rev/papers.1886> ;
+  dcterms:identifier "doi:10.5565/rev/papers.1886" ;
+  dcterms:subject "Cuban History and Society" .

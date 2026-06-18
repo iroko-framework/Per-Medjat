@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/565FTYNN>
+  a schema:ScholarlyArticle ;
+  schema:name "Los Ñáñigos. Sociedad secreta" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=565FTYNN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:565FTYNN" ;
+  schema:description "The traffic of African slaves -The Negro Trade- took a numerous population a variety of regions, especially South Nigeria and Camerun, to different places of America. In Black Africa there used to be secret societies composed by different tribes that could get to have a powerful domain over the population. In 1836, the African slaves population in Cuba founded an Ekpe type Secret Society which is still in operation until now. Nanigos or Abakua, is the Cuban society of African origin, thanks to which it's bee possible to conserve African I traditions and customs with high degree of fidelity. The strength of african nationality, together with the spanish one, forms an important part of the cuban nationality" ;
+  schema:author "Bertha Fernández" ;
+  schema:datePublished "1998" ;
+  schema:publisher "TRAMAS. Subjetividad y procesos sociales" ;
+  dcterms:subject "Cuban History and Society" .

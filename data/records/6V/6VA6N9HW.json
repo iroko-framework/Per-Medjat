@@ -1,0 +1,114 @@
+{
+  "key": "6VA6N9HW",
+  "uri": "https://medjat.irokosociety.org/id/library/6VA6N9HW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6VA6N9HW",
+  "zotero": {
+    "group": "6479329",
+    "key": "6VA6N9HW",
+    "version": 3423,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6VA6N9HW",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Urban Slavery in Colonial Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Pablo Miguel Sierra Silva"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Cambridge University Press eBooks",
+    "publicationTitle": "Cambridge University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Cambridge University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Using the city of Puebla de los Ángeles, the second-largest urban center in colonial Mexico (viceroyalty of New Spain), Pablo Miguel Sierra Silva investigates Spaniards' imposition of slavery on Africans, Asians, and their families. He analyzes the experiences of these slaves in four distinct urban settings: the marketplace, the convent, the textile mill, and the elite residence. In so doing, Urban Slavery in Colonial Mexico advances a new understanding of how, when, and why transatlantic and transpacific merchant networks converged in Central Mexico during the seventeenth century. As a social and cultural history, it also addresses how enslaved people formed social networks to contest their bondage. Sierra Silva challenges readers to understand the everyday nature of urban slavery and engages the rich Spanish and indigenous history of the Puebla region while intertwining it with African diaspora studies.",
+    "doi": "10.1017/9781108304245",
+    "url": "https://doi.org/10.1017/9781108304245",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society",
+      "Historical Studies in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Pablo Miguel Sierra Silva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Urban Slavery in Colonial Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press eBooks, 2018."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1017/9781108304245"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6V/6VA6N9HW.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1017/9781108304245"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

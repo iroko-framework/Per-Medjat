@@ -1,0 +1,95 @@
+{
+  "key": "ML93JNRB",
+  "uri": "https://medjat.irokosociety.org/id/library/ML93JNRB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ML93JNRB",
+  "zotero": {
+    "group": "6479329",
+    "key": "ML93JNRB",
+    "version": 1512,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ML93JNRB",
+    "dateAdded": "2026-05-19T14:17:00Z",
+    "dateModified": "2026-05-19T14:17:00Z"
+  },
+  "display": {
+    "title": "The development of criminal law in Jamaica up to 1900",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Adolph Edwards"
+      }
+    ],
+    "year": "1968",
+    "date": "1968",
+    "publisher": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "publicationTitle": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "bookTitle": "",
+    "journalAbbreviation": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This work attempt to trace the development of criminal law in Jamaica from 1655 when the English captured the Island, up to 1900. In tracing this development emphasis is placed more on legislative enactments and their policies than on judicial decisions, for it was in the field of penal legislation the Jamaican law tended to differ from English law.&#13;\\nIn chapter 1, the introduction of English law into the Island is outline, and a theory as to Jamaica's status is proposed.&#13;\\nIn Chapters 2 and 3 the background in which the penal legislation was enacted and administered in the 18th and 19th centuries is related. This necessitates an examination of the inhabitants, the legislators, the judiciary and the legal institutions.&#13;\\nIn Chapters 4 and 5 the penal legislation relating to slaves is discussed. The various legislative devices aimed at preventing rebellions and at protecting the slave owners' property are related.&#13;\\nIn Chapters 6, 7 and 8 the laws to protect the State, Persons and Property respectively are outlined.&#13;\\nIn Chapter 9, four problems of particular importance to Jamaica are examined. These problems are Piracy, Obeah, Praedial larceny and Vagrancy.&#13;\\nIn Chapter 10 the attempt to codify the criminal law is related. Reasons for the failure at codification are suggested.&#13;\\nIn Chapter 11 a brief look is taken at certain trends in penal legislation in the 20th century.&#13;\\nIn Chapter 12, conclusions are drawn on the data provided in the preceding Chapters and certain proposals relative to the criminal law of Jamaica are put forward.",
+    "doi": "",
+    "url": "https://openalex.org/W2412812659",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Adolph Edwards"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The development of criminal law in Jamaica up to 1900"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science), 1968."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ML/ML93JNRB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

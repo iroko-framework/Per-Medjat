@@ -1,0 +1,107 @@
+{
+  "key": "24MNVWVJ",
+  "uri": "https://medjat.irokosociety.org/id/library/24MNVWVJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=24MNVWVJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "24MNVWVJ",
+    "version": 3377,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/24MNVWVJ",
+    "dateAdded": "2026-05-20T16:34:22Z",
+    "dateModified": "2026-05-20T16:34:22Z"
+  },
+  "display": {
+    "title": "Representation of cultural identities in Quebecois literature from 1980: The rise of the migrant voices",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Reynaud, Celine M. G"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "Enlighten: Theses (The University of Glasgow)",
+    "publicationTitle": "Enlighten: Theses (The University of Glasgow)",
+    "bookTitle": "",
+    "journalAbbreviation": "Enlighten: Theses (The University of Glasgow)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Migrant literature in Quebec has always existed. However, in the late 1970s and the early 1980s, a change occurred in the attitude of migrant authors. Instead of blending into Quebecois society and literature by adopting similar lifestyles and topics, they started retaining their cultural differences, and used their personal experience of displacement as material for their fictional literary work. During the 1990s particularly, the concept of transculture - based on topics associated with migration such as dislocation and hybridity - developed and began to challenge - within literary work at least - the existing cultural and geographical borders. In this thesis, we will explore the work of four selected groups of migrant authors - namely French, Middle Eastern, Haitian and Jewish authors - and highlight the topics specific to each group. Coming from very different backgrounds, their reasons for migrating and their expectations about Quebec vary greatly. The French show characters who feel out of place in France because they are unable to accept the changes within their own society. They idealise Quebec and see it mainly as a bastion of traditional French values, which is bound to lead them to disillusion. Middle Eastern authors, mainly female, present characters originally migrating to Quebec in hope of a better material life, but who also found an unexpected liberation. In Middle Eastern novels, women are the true beneficiaries of migration because they discover independence through feminist theories and the support of laws that guarantee personal freedom. As for Haitian writers, they focus mainly on the topic of memory and attempt to hold on to the past through literary creation. Their work also questions the process of becoming a migrant and dealing with Otherness in an adoptive culture. Contrary to Haitians, Jewish writers express a fragmented sense of identity due to gaps in their personal and collective memories, an overlap between their national and Jewish identities, and their migration to a new country. Despite their different origins, the four groups of authors have topics in common. Some novels depict the different steps to becoming a migrant and how individuals become disconnected from their cultures and lands of origin. Another part of migrant authors' work shows the identity crisis that ensues from living in a foreign country and features some of the mechanisms that migrants adopt in order to cope with the new elements of their adoptive country and to retain their sense of cultural identity. Learning to compromise, they recreate a 'home' in their adoptive country, but they also reinvent the borders between cultures and countries by combining elements from both worlds. Migrant authors show that dislocation renders individuals less dependent on national identity, and allows them a greater freedom and an increased role in the concept and composition of cultural identities.",
+    "doi": "",
+    "url": "http://theses.gla.ac.uk/74066/1/10753976.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Linguistic and Sociocultural Studies",
+      "North African History and Literature"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Reynaud, Celine M. G"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Representation of cultural identities in Quebecois literature from 1980: The rise of the migrant voices"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Enlighten: Theses (The University of Glasgow), 2003."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic and Sociocultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "North African History and Literature"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/24/24MNVWVJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

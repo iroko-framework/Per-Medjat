@@ -1,0 +1,95 @@
+{
+  "key": "LILLIXUP",
+  "uri": "https://medjat.irokosociety.org/id/library/LILLIXUP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LILLIXUP",
+  "zotero": {
+    "group": "6479329",
+    "key": "LILLIXUP",
+    "version": 2310,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LILLIXUP",
+    "dateAdded": "2026-05-19T14:20:00Z",
+    "dateModified": "2026-05-19T14:20:00Z"
+  },
+  "display": {
+    "title": "Rethinking the concept of race's conundrums in African philosophy.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ovett Nwosimiri"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "ResearchSpace (University of KwaZulu-Natal)",
+    "publicationTitle": "ResearchSpace (University of KwaZulu-Natal)",
+    "bookTitle": "",
+    "journalAbbreviation": "ResearchSpace (University of KwaZulu-Natal)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The pattern of discourse in the history of African philosophy resulted from historic events such as slavery, colonialism, race and racism.Historically therefore, the concept of race played a significant part in the existence of African philosophy.Recent years have seen a series of studies on the concept of race, with philosophers at the lead of this research development.These philosophers, including",
+    "doi": "",
+    "url": "http://hdl.handle.net/10413/13357",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African cultural and philosophical studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ovett Nwosimiri"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Rethinking the concept of race's conundrums in African philosophy."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "ResearchSpace (University of KwaZulu-Natal), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African cultural and philosophical studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LI/LILLIXUP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

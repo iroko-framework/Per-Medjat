@@ -1,0 +1,112 @@
+{
+  "key": "8298TXMV",
+  "uri": "https://medjat.irokosociety.org/id/library/8298TXMV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8298TXMV",
+  "zotero": {
+    "group": "6479329",
+    "key": "8298TXMV",
+    "version": 3690,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8298TXMV",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Global Sex Trafficking and the Trafficking Victims Protection Act of 2000: Legislative Responses to the Problem of Modern Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rosy Kandathil"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "1",
+    "pages": "87-118",
+    "abstract": "Human trafficking is becoming the fastest growing criminal activity in the world. Generally, trafficking is defined as the transportation of persons across international borders for labor purposes, by means of force, fraud, or coercion. Commerce directly related to human slavery yields approximately $7-$10 billion a year, trailing only behind drugs and weapons trade for international profit. According to recent congressional findings, over 700,000 human beings are trafficked across international borders each year, including approximately 50,000 women and children into the United States. Women and girl children are the primary targets for sexual exploitation into prostitution, pornography, sex tourism, and other commercial sex activities. Police authorities readily admit that their estimates regarding the volume of victims are conservative. These facts are a stark indication that the problem of human slavery is immediate, large, and local.",
+    "doi": "",
+    "url": "https://repository.law.umich.edu/mjgl/vol12/iss1/2",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Human Rights and Development",
+      "International Labor and Employment Law",
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rosy Kandathil"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Global Sex Trafficking and the Trafficking Victims Protection Act of 2000: Legislative Responses to the Problem of Modern Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "87-118 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Human Rights and Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "International Labor and Employment Law"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/82/8298TXMV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

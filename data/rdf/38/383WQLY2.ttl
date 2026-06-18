@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/383WQLY2>
+  a schema:ScholarlyArticle ;
+  schema:name "The Light Inside: Abakuá Society Arts and Cuban Cultural History. By David H. Brown. (Washington and London, Smithsonian Books, 2003, xviii+286 p., black/white photographs, colour plates, index, ISBN 1-58834-123-2)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=383WQLY2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:383WQLY2" ;
+  schema:description "The Light Inside: Abakuá Society Arts and Cuban Cultural History. By David H. Brown. (Washington and London, Smithsonian Books, 2003, xviii+286 p., black/white photographs, colour plates, index, ISBN 1-58834-123-2). Un article de la revue Ethnologies (Québec - Ethnologie du proche) diffusée par la plateforme Érudit." ;
+  schema:author "Ronald Labelle" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Ethnologies" ;
+  schema:sameAs <https://doi.org/10.7202/013763ar> ;
+  dcterms:identifier "doi:10.7202/013763ar" ;
+  dcterms:subject "Cuban History and Society" .

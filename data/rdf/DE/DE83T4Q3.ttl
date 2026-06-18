@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/DE83T4Q3>
+  a schema:Thesis ;
+  schema:name "Diasporic identities, autochthonous rights: Race, gender, and the cultural politics of Creole land rights in Nicaragua" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DE83T4Q3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DE83T4Q3" ;
+  schema:description "This project began the first summer I went to Nicaragua in 1998 and continues" ;
+  schema:author "Jennifer Goett" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Land Rights and Reforms" .

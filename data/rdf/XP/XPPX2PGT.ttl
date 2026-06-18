@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XPPX2PGT>
+  a schema:Thesis ;
+  schema:name "\"We Can Learn To Mother Ourselves\": The Queer Survival of Black Feminism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XPPX2PGT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XPPX2PGT" ;
+  schema:description "&lt;p&gt;\"We Can Learn to Mother Ourselves\": The Queer Survival of Black Feminism 1968-1996 addresses the questions of mothering and survival from a queer, diasporic literary perspective, arguing that the literary practices of Black feminists Audre Lorde, June Jordan, Alexis De Veaux and Barbara Smith enable a counternarrative to a neoliberal logic that criminalizes Black mothering and the survival of Black people outside and after their utility to capital. Treating Audre Lorde and June Jordan as primary theorists of mothering and survival, and Alexis De Veaux and Barbara Smith as key literary historical figures in the queer manifestation of Black feminist modes of literary production, this dissertation uses previously unavailable archival material, and queer of color critique and critical Black diasporic theoretical approaches to create an intergenerative reading practice. An intergenerative reading practice interrupts the social reproduction of meaning and value across time, and places untimely literary moments and products in poetic relationship to each other in order to reveal the possibility of another meaning of life. Ultimately this dissertation functions as a sample narrative towards the alternate meaning of life that the poetic breaks of Black feminist literary production in the queer spaces of counter-cultural markets, classrooms, autonomous publishing collectives make possible, concluding that mothering is indeed a reflexive and queer way of reading the present in the service of a substantively different future in which our outlawed love survives.&lt;/p&gt;" ;
+  schema:author "Alexis Pauline Gumbs" ;
+  schema:datePublished "2010" ;
+  schema:publisher "DukeSpace (Duke University)" ;
+  dcterms:subject "Gender, Labor, and Family Dynamics" .

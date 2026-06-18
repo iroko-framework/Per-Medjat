@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AT2453DA>
+  a schema:Book ;
+  schema:name "Freebooters and smugglers: the foreign slave trade in the United States after 1808" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AT2453DA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AT2453DA" ;
+  schema:author "Obadele-Starks, Ernest" ;
+  schema:datePublished "2007" ;
+  schema:publisher "University of Arkansas Press" ;
+  dcterms:identifier "isbn:978-1-55728-858-5" ;
+  dcterms:subject "Pirates -- United States -- History -- 19th centur", "Slave trade -- Africa -- History -- 19th century", "Slave trade -- United States -- History -- 19th ce", "Slave traders -- United States -- History -- 19th", "Slavery -- Law and legislation -- United States --", "Slavery -- Southern States -- History -- 19th cent", "Smugglers -- United States -- History -- 19th cent" .

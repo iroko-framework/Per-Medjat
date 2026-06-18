@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/59CA2AEZ>
+  a schema:Thesis ;
+  schema:name "La madame et la mademoiselle: Creole women in Louisiana, 1718-1865" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=59CA2AEZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:59CA2AEZ" ;
+  schema:description "In Louisiana during the eighteenth and nineteenth centuries, a unique group of people known as Creole created a culture that differed from the rest of the United States. Descendants of the first French and Spanish settlers, Creoles both black and white struggled to maintain their heritage despite an influx of Anglo-American Protestants into Louisiana; women in particular sought to preserve their culture. Although black Creole women have received significant attention, their white counterparts remain virtually absent in scholarship. This thesis focuses on the lives of white Creole women in the River Parishes and New Orleans and seeks to recreate the lives of both independent women plantation owners as well as women who served as wives and mothers. Creole women in Louisiana differed from women in the rest of the United States in their language, religion, legal system, and traditions; they also resided in a more racially fluid environment. Creole women spoke French, and most refused to allow their children to learn English. They were governed by civil rather than common law, which included a system of community property that enabled them to own property, resulting in a large number of female plantation owners. This legal system also gave them the right to draft their own wills, obtain legal separations from their husbands, and act as private business owners. Catholicism provided these women with the Blessed Virgin Mary, a powerful model of female authority and virtue absent in the Protestantism dominant in the rest of the country at the time. Creole women often had family members who were both black and white and faced complex tensions that arose from the mixing of races. Unlike many women in the rest of the South, Creole women plantation owners viewed themselves as masters capable of running a plantation and disciplining their slaves without hesitation. All these factors created distinct differences between Creole women in southeast Louisiana and the women in the rest of their state and nation." ;
+  schema:author "Katy Morlas" ;
+  schema:datePublished "2005" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_theses.908> ;
+  dcterms:identifier "doi:10.31390/gradschool_theses.908" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Race, History, and American Society" .

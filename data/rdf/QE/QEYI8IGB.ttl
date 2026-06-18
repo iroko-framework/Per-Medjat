@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QEYI8IGB>
+  a schema:ScholarlyArticle ;
+  schema:name "The Impact of Urbanization on Housing Development: The Lagos Experience, Nigeria." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QEYI8IGB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QEYI8IGB" ;
+  schema:description "The impact of rapid population growth on housing development in a developing economy is usually a consequence of the push of the rural areas and the pull of the town. There is always an upsurge and conglomeration of people in city centres with the resultant effects on housing growth arising from acute unemployment. This growth and physical expansion of cities have been accompanied by unplanned urban sprawl, environmental pollution, deterioration, deficiencies in modern basic facilities, and general urban decay. As increased poverty and urbanization exert more pressures on urban facilities, most Nigerian cities tend to have lost their original dignity, social cohesion and administrative efficiency. This paper revealed the consequences of the problems of urbanization in Nigeria using empirical data from the metropolitan Lagos.The study is based on data collected from sixteen Local Government Areas consisting of 53 residential zones in metropolitan Lagos. Out of the total number of 135,820 properties, a size of about 1% (1,500) was randomly selected. Descriptive and inferential statistics were employed to resolve the objectives and the formulated hypotheses. Some of the findings include the upsurge in population growth rate of the city that took a sharp turn in the 20th century caused by rural-urban migration thereby resulting in an unprecedented high rent cost due to the insufficient housing delivery system. Also the spatial expansion of the city was massive to the extent that the boundaries could no longer be differentiated from the adjoining Ogun State.Key words: Urbanization, environment and housing provision." ;
+  schema:author "OE Aluko" ;
+  schema:datePublished "2011" ;
+  schema:publisher "Ethiopian Journal of Environmental Studies and Management" ;
+  schema:sameAs <https://doi.org/10.4314/ejesm.v3i3.63967> ;
+  dcterms:identifier "doi:10.4314/ejesm.v3i3.63967" ;
+  dcterms:subject "Urban and Rural Development Challenges" .

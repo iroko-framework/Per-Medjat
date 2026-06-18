@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9AR8BHL5>
+  a schema:Thesis ;
+  schema:name "Liberated Africans and Law in the South Atlantic, c. 1839-1871" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9AR8BHL5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9AR8BHL5" ;
+  schema:description "This thesis explores how anti-slave-trade laws shaped the opportunities and limitations for enslaved people during the most intensive phase of abolition (c. 1839-1856) against the Brazilian slave trade, the largest in the Atlantic world. It focuses on case studies from Sierra Leone, South Africa, and Brazil, which were connected by the legal regime against the slave routes from South East Africa and West Central Africa to Brazil. Legal agents implemented bilateral treaty and parliamentary laws to reclassify enslaved captives as ‘liberated Africans’ through sanctioning the naval capture of slave ships, court adjudications of these captures, and the apprenticeship of the slaves. At the end of apprenticeship, the polity in which liberated Africans had served the apprenticeship generally had jurisdiction to determine their post-apprenticeship legal status. Historians have made two major claims regarding liberated Africans. Some scholars have argued that treaty and local laws attributed legal rights to liberated Africans. Others have argued that vested interests used apprenticeship to subject liberated Africans to de facto re-enslavement. However, historians have not addressed the fundamental ambiguities that agents of law (judges, naval officers, diplomats) and the enslaved faced in interpreting, implementing, and responding to anti-slave-trade laws. The central argument of the thesis is that continual interactions between agents of law and the slaves shaped the legal status of liberated Africans in different contexts. The first chapter argues that naval capture produced conditions similar to the Middle Passage, generating significant uncertainty for the slaves regarding how the naval crew would treat them. The second and third chapters focus on court adjudication, demonstrating that anti-slave-trade courts shaped norms for slaves’ testimony and interpolity relations on the Brazilian and the Upper Guinea coasts. The fourth chapter argues that state officials and hirers envisioned the apprenticeship of liberated Africans as producing ‘free labourers’ through wage incentives and punishments. However, liberated Africans did not subscribe to a worldview which gave primacy to wages and instead prioritized independent economic activity. The fifth and final chapter uses new archival material from magistrate records and the Ministério da Justiça in Rio to uncover the processes that ended apprenticeship, including petitioning the state and negotiating new labour relations." ;
+  schema:author "Jake Subryan Richards" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Apollo (University of Cambridge)" ;
+  schema:sameAs <https://doi.org/10.17863/cam.54347> ;
+  dcterms:identifier "doi:10.17863/cam.54347" ;
+  dcterms:subject "African history and culture studies", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

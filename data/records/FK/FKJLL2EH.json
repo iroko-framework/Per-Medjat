@@ -1,0 +1,146 @@
+{
+  "key": "FKJLL2EH",
+  "uri": "https://medjat.irokosociety.org/id/library/FKJLL2EH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FKJLL2EH",
+  "zotero": {
+    "group": "6479329",
+    "key": "FKJLL2EH",
+    "version": 3984,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FKJLL2EH",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "NUEVOS REGISTROS DE LA LAGARTIJA INTRODUCIDA Anolis sagrei (SQUAMATA: DACTYLOIDAE) EN EL ESTADO DE VERACRUZ, MÉXICO",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Víctor Vásquez-Cruz"
+      },
+      {
+        "role": "editor",
+        "name": "Arleth Reynoso-Martínez"
+      },
+      {
+        "role": "editor",
+        "name": "Landet González-Galindo"
+      },
+      {
+        "role": "editor",
+        "name": "Oscar Cid-Mora"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Revista Latinoamericana de Herpetología",
+    "publicationTitle": "Revista Latinoamericana de Herpetología",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista Latinoamericana de Herpetología",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "4",
+    "issue": "1",
+    "pages": "211-211",
+    "abstract": "Resumen. — Anolis sagrei es una especie nativa de Bahamas, el archipiélago de Cuba y Pequeño Caimán que se ha introducido en diferentes partes del mundo. Esta especie ha sido registrada en varios lugares de México, incluido el estado de Veracruz. Aquí, reportamos tres nuevas localidades para esta especie que complementan el conocimiento de su distribución en el estado de Veracruz.",
+    "doi": "10.22201/fc.25942158e.2021.1.223",
+    "url": "https://doi.org/10.22201/fc.25942158e.2021.1.223",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Amphibian and Reptile Biology",
+      "Evolution and Paleontology Studies",
+      "Physiological and biochemical adaptations"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Víctor Vásquez-Cruz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "NUEVOS REGISTROS DE LA LAGARTIJA INTRODUCIDA Anolis sagrei (SQUAMATA: DACTYLOIDAE) EN EL ESTADO DE VERACRUZ, MÉXICO"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista Latinoamericana de Herpetología, 2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "211-211 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.22201/fc.25942158e.2021.1.223"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Amphibian and Reptile Biology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Evolution and Paleontology Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Physiological and biochemical adaptations"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Arleth Reynoso-Martínez"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Landet González-Galindo"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Oscar Cid-Mora"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FK/FKJLL2EH.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.22201/fc.25942158e.2021.1.223"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6KT858QT>
+  a schema:ScholarlyArticle ;
+  schema:name "Microstructural, Morphological, and Optical Study of Synthesis of ZnO and Pt‑ZnO Nanoparticles by a Simple Method Using Different Precipitating Agents" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6KT858QT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6KT858QT" ;
+  schema:description "Due to its multiple applications, zinc oxide (ZnO) is one of the most used materials in science and technology. Therefore, this research carried out the synthesis of ZnO and Pt-ZnO nanoparticles (NPs) by the direct precipitation method, which is characterized by being simple and reproducible, using two different precipitating agents, potassium hydroxide (KOH) and sodium hydroxide (NaOH); for the doping of Pt-ZnO NPs was used platinum acetylacetone. To evaluate the effect of the precipitating agent on the properties of each doped material, they were characterized by Fourier transform infrared spectroscopy, where the Zn-O vibrations were more pronounced using KOH. X-ray diffraction analysis shows a hexagonal structure (wurtzite) formation for ZnO with NaOH, obtaining a smaller crystal size than the other synthesized materials. Scanning electron microscopy analysis showed hexagonal and hemispherical shapes for ZnO (with NaOH and KOH) and Pt-ZnO (with NaOH), respectively; also, cylindrical shapes were obtained for Pt-ZnO (with KOH). The highest band gap obtained was for the Pt-ZnO material synthesized with KOH." ;
+  schema:author "Ruby Sheila Gines-Palestino" ;
+  schema:creator "Carlos Montalvo", "Guadalupe Luna‐Solano", "Luis Pablo Amador-Gómez", "Denis Cantú‐Lozano" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Journal of the Brazilian Chemical Society" ;
+  schema:sameAs <https://doi.org/10.21577/0103-5053.20230092> ;
+  dcterms:identifier "doi:10.21577/0103-5053.20230092" ;
+  dcterms:subject "Gas Sensing Nanomaterials and Sensors", "ZnO doping and properties" .

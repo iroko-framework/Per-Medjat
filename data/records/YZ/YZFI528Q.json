@@ -1,0 +1,173 @@
+{
+  "key": "YZFI528Q",
+  "uri": "https://medjat.irokosociety.org/id/library/YZFI528Q",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YZFI528Q",
+  "zotero": {
+    "group": "6479329",
+    "key": "YZFI528Q",
+    "version": 1089,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YZFI528Q",
+    "dateAdded": "2026-05-19T13:27:48Z",
+    "dateModified": "2026-05-19T13:27:48Z"
+  },
+  "display": {
+    "title": "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rigol Sera, Laureano Arturo"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Revistas PUCP (Pontificia Universidad Católica del Perú)",
+    "publicationTitle": "Revistas PUCP (Pontificia Universidad Católica del Perú)",
+    "bookTitle": "",
+    "journalAbbreviation": "Revistas PUCP (Pontificia Universidad Católica del Perú)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The article focuses on exploring the presence of Afro-Cuban elements, specifically of Abakuá origin, in Afro-Peruvian music, with a particular focus on two significant record productions: \"Ritmos negros del Perú\" (1968) by Nicomedes Santa Cruz and his Conjunto Cumanana, and \"Juan de Mata\" (1978) by Conjunto Perú Negro. After a thorough analysis of the musical production of groups associated with the Afro-Peruvian movement post-1968, the artistic proposal of Conjunto Perú Negro emerges as particularly interesting. While their first album, Gran Premio del Festival Hispanoamericano de la Danza y la Canción (1973), contains a reference to the Abakuá theme in the song \"Canción para ekué\", it is in their second production, Son de los diablos (1974), where elements specific to Abakuá culture can be more clearly identified in one of the tracks. Through this study, the aim is to contribute to understanding the influence and interaction between Afro-Cuban and Afro-Peruvian musical traditions. The detailed analysis of the selected compositions reveals connections, similarities, as well as differences and evolutions in the musical expression of these two Afro-descendant cultures. The article seeks to deepen the understanding of how these influences intertwine and manifest in Afro-Peruvian music, thereby enriching knowledge about the diversity and complexity of Afro-descendant cultural expressions in Latin America.",
+    "doi": "",
+    "url": "http://revistas.pucp.edu.pe/index.php/kaylla/article/view/28511",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Aesthetics",
+      "Anthropology",
+      "Art",
+      "Diversity (politics)",
+      "Ethnology",
+      "Expression (computer science)",
+      "Focus (optics)",
+      "History",
+      "Humanities",
+      "Musical",
+      "Musical analysis",
+      "Musical expression",
+      "Sociology",
+      "Theme (computing)"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rigol Sera, Laureano Arturo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revistas PUCP (Pontificia Universidad Católica del Perú), 2024."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Aesthetics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Art"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diversity (politics)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ethnology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Expression (computer science)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Focus (optics)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Humanities"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Musical"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Musical analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Musical expression"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sociology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Theme (computing)"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/YZ/YZFI528Q.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

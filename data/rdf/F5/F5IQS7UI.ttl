@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/F5IQS7UI>
+  a schema:ScholarlyArticle ;
+  schema:name "Creole religions of the Caribbean: an introduction from Vodou and Santeria to Obeah and Espiritismo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F5IQS7UI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F5IQS7UI" ;
+  schema:description "Acknowledgments Preface to the First Edition Preface to the Second Edition Foreword Joseph M. Murphy, Georgetown University Introduction 1 Historical Background 2 The Orisha Tradition in Cuba: Santeria/Regla de Ocha 3 The Afro-Cuban Religious Traditions of Regla de Palo and the Abakua Secret Society 4 Haitian Vodou 5 Obeah, Myal, and Quimbois 6 Rastafarianism 7 Espiritismo: Creole Spiritism in Cuba, Puerto Rico, and the United States Glossary Notes Works Cited Index About the Authors" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Choice Reviews Online" ;
+  schema:sameAs <https://doi.org/10.5860/choice.41-3362> ;
+  dcterms:identifier "doi:10.5860/choice.41-3362" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Cuban History and Society" .

@@ -1,0 +1,102 @@
+{
+  "key": "V75MPNSE",
+  "uri": "https://medjat.irokosociety.org/id/library/V75MPNSE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V75MPNSE",
+  "zotero": {
+    "group": "6479329",
+    "key": "V75MPNSE",
+    "version": 3795,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V75MPNSE",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Evolution of Anti-Slavery Sentiments From 1776 to 1865 & a Critique of Reparations",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Biff Baker"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Journal of Business Diversity",
+    "publicationTitle": "Journal of Business Diversity",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Business Diversity",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "23",
+    "issue": "3",
+    "pages": "",
+    "abstract": "Slavery existed in pre-modern societies throughout the world. While enslaving other peoples in most civilizations was legal, only Western civilization developed a moral revulsion against it. Therefore, the United States dialogue about slavery and reparations should focus on recognizing the 4000 years of slavery that ended through the efforts of abolitionists and their allies. The American abolitionist movement was fueled by a diverse group of individuals, including Quaker abolitionists, women’s rights activists, and influential figures like Olaudah Equiano, Frederick Douglass, Sojourner Truth, and Martin Delany. The moral and political philosophies of Kant, Mill, Nietzsche, and Hegel also influenced the abolitionist movement with ideas about the inherent worth and dignity of human beings, individual liberty, and freedom, shaping the abolitionist movement’s vision of a future without slavery. This led to a Civil War which was the catalyst for ratifying a U.S. Constitutional Amendment in 1865 that eliminated slavery nationwide. In 2019, discussions resurfaced about reparations for slavery, raising questions about justice, individual responsibility, and the potential impact on social cohesion.",
+    "doi": "10.33423/jbd.v23i3.6419",
+    "url": "https://doi.org/10.33423/jbd.v23i3.6419",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Biff Baker"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Evolution of Anti-Slavery Sentiments From 1776 to 1865 & a Critique of Reparations"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Business Diversity, 2023."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.33423/jbd.v23i3.6419"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/V7/V75MPNSE.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.33423/jbd.v23i3.6419"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

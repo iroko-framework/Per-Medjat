@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FCS7QQG6>
+  a schema:Thesis ;
+  schema:name "The Cape Khoisan in the Eastern districts of the colony before and after Ordinance 50 of 1828" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FCS7QQG6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FCS7QQG6" ;
+  schema:description "My study arose from a wish to consolidate work begun in the 1970s concerning the indigenous people of the Cape -the 'Bushmen' and 'Hottentots' of the historical record who, properly, are called San and Khoi, or 'the Khoisan' My idea was to build upon existing work (of others, chiefly, but also of my own) concerning their dispossession and subordination by colonists from Europe.The focus has, as far as possible, been the people themselves, with Ordinance 50 of 1828 the pivotal point.The ordinance removed certain disabilities peculiar to the Khoisan and other 'free people of colour' in the colony, and conferred equality before the law.Other researchers have explored the alleged vagrancy of Ordinance SO's beneficiaries, its impact upon wages, and the government's administration of the law.V. CONCLUSION 399 12. Looking Back, Looking Ahead 403 'It is .. the thousand means that the spirit of oppression can employ and which I cannot recount: Honouring Ordinance SO's intent 403 'The Boors have abundance of lands, and the Settlers but the Hottentots not' Auguries for Khoisan welfare in the Kat River Settlement Coloured identity and 'Hottentot nationalism' Theorising subjugation The Khoisan, the colonists and Ordinance 50: A legacy" ;
+  schema:author "V. C. Malherbe" ;
+  schema:datePublished "1997" ;
+  schema:publisher "Open University of Cape Town (University of Cape Town)" ;
+  dcterms:subject "Legal Issues in South Africa" .

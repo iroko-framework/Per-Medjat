@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KD7UDFVD>
+  a schema:Thesis ;
+  schema:name "The operation of whiteness and forgetting in Africville, a geography of racism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KD7UDFVD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KD7UDFVD" ;
+  schema:author "Jennifer Nelson" ;
+  schema:datePublished "2001" ;
+  schema:publisher "Library and Archives Canada (Government of Canada)" ;
+  dcterms:subject "African history and culture studies" .

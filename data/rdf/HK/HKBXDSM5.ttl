@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HKBXDSM5>
+  a schema:ScholarlyArticle ;
+  schema:name "The Religious Recluse of the Oro Cult and Yoruba Bardic Tradition" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HKBXDSM5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HKBXDSM5" ;
+  schema:description "This study examines the indigenous institution of the Oro cult, its organizations and the various dramatic components embedded in the nocturnal processions of its religious recluse. It is hoped that this study will be of benefit to theatre practitioners, students and those in other related disciplines on the subjects of African theatre." ;
+  schema:author "Shola Balogun" ;
+  schema:datePublished "2016" ;
+  schema:publisher "International Journal for Social Studies" ;
+  dcterms:subject "African history and culture analysis", "Postcolonial and Cultural Literary Studies", "Shakespeare, Adaptation, and Literary Criticism" .

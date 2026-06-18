@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FRAWM8JF>
+  a schema:Book ;
+  schema:name "Tell My Horse: Voodoo and Life in Haiti and Jamaica" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FRAWM8JF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FRAWM8JF" ;
+  schema:author "Hurston, Zora Neale" ;
+  schema:datePublished "1938" ;
+  schema:publisher "J. B. Lippincott" ;
+  dcterms:identifier "isbn:0-06-169513-0" ;
+  dcterms:subject "Haitian Vodou", "Afro-Indigenous" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> .

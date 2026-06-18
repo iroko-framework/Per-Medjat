@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/P44XDE5V>
+  a schema:ScholarlyArticle ;
+  schema:name "Of things said and unsaid: Power, archival silences, and power in silence" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=P44XDE5V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:P44XDE5V" ;
+  schema:description "This article examines the dynamics of silence in archives. It argues that silences are, in part, the manifestation of the actions of the powerful in denying the marginal access to archives and that this has a significant impact on the ability of the marginal groups to form social memory and history. Archivists and researchers can read archives “against the grain” and begin to highlight these silences and give voice to the silenced. This, however, may be a difficult and contentious activity and one that should not be entered into lightly. The article then examines how silence can be a method used by the marginalized to deny the archives their records as a way to exercise their power over the powerful." ;
+  schema:author "Carter, Rodney G S" ;
+  schema:datePublished "2006" ;
+  schema:publisher "Association of Canadian Archivists" ;
+  dcterms:subject "Archives", "Collective memory", "Freedom of information", "Grain", "Silence", "Social groups" .

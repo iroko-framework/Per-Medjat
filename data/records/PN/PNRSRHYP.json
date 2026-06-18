@@ -1,0 +1,108 @@
+{
+  "key": "PNRSRHYP",
+  "uri": "https://medjat.irokosociety.org/id/library/PNRSRHYP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PNRSRHYP",
+  "zotero": {
+    "group": "6479329",
+    "key": "PNRSRHYP",
+    "version": 3789,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PNRSRHYP",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Negro Slavery in Louisiana.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "John D. Taylor"
+      }
+    ],
+    "year": "1952",
+    "date": "1952",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Hie institution of slavery existed in Louisiana for almost two centuries* This work attempts to paint a reasonably detailed picture o f the institution. In so far as possible* this picture is presented from the point of view of the slave. Scarce materials pertaining to slavery proved to be abundant, is a special class of human beings, Negro slaves wore subject to nunerous police regulations, and these regulations* directly or indirectly, reveal much of their way of life, As property* slaves required deeds* bills of sale and other legal documents, Various aspects of slavery were noted in the newspapers of the day. Travellers were particularly interested In the scene they observed in South Louisiana, and many of them left records of what they saw. Planta tion records reveal much concerning the Negroes who worked them* while letters and other private papers of the period also contain much Information concerning the peculiar institution. In addition, there are a number of secondary works which throw lipjrt on on facet cap another of Louisiana slavery. Thus there was no dearth of materials on which to base this study. It was always necessary to remember, however, that most of these sources described slavery from the point of view of the white slaveholder. Thus the material had to be examined closely. White Louisianians, especially after the beginning of the sectional contro-* 2",
+    "doi": "10.31390/gradschool_disstheses.8025",
+    "url": "https://doi.org/10.31390/gradschool_disstheses.8025",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "John D. Taylor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Negro Slavery in Louisiana."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1952."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_disstheses.8025"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PN/PNRSRHYP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_disstheses.8025"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

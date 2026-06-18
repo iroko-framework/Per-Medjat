@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TREPA7S4>
+  a schema:ScholarlyArticle ;
+  schema:name "Factor Endowments, Inequality, and Paths of Development among New World Economies" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TREPA7S4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TREPA7S4" ;
+  schema:description "Whereas traditional explanations of differences in long-run paths of development across the Americas generally point to the significance of differences in national heritage or religion, we highlight the relevance of stark contrasts in the degree of inequality in wealth, human capital, and political power in accounting for how fundamental economic institutions evolved over time." ;
+  schema:author "Stanley L. Engerman" ;
+  schema:creator "Kenneth L. Sokoloff" ;
+  schema:datePublished "2002" ;
+  schema:publisher "Economía" ;
+  schema:sameAs <https://doi.org/10.1353/eco.2002.0013> ;
+  dcterms:identifier "doi:10.1353/eco.2002.0013" ;
+  dcterms:subject "Economic Growth and Productivity" .

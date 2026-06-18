@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YSECJCEW>
+  a schema:ScholarlyArticle ;
+  schema:name "Awe-Kikọ Ọrọ Yoruba Anjemi (Yoruba Anjemi grammar book)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YSECJCEW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YSECJCEW" ;
+  schema:description "The entire manuscript is available for download as a single PDF file. Higher-resolution images may be available upon request. For technical assistance, please contact open-help@bu.edu. Fieldwork Team: Dr. Mustapha Hashim Kurfi (Principal Investigator), Malam Umar Hajji Mustapha (Local Project Manager) and Abdullahi Mohammed (General Field Facilitator). Technical Team: Prof. Fallou Ngom (Director African Studies Center), and Eleni Castro (Technical Lead, BU Libraries). This collection of Yoruba Anjemi materials are copied as part of the African Studies Center’s African Ajami Library. Access Condition and Copyright: These materials are subject to copyright. All rights reserved to the author. For use, distribution or reproduction contact Professor Fallou Ngom (fngom@bu.edu). Citation: Materials in this web edition should be cited as: Kurfi, Mustapha Hashim, Ngom, Fallou, and Castro, Eleni (2019). African Ajami Library: Digital Preservation of Yoruba Anjemi Materials of Southwestern Nigeria. Boston: Boston University Libraries: http://hdl.handle.net/2144/38122. For Inquiries: Please contact Professor Fallou Ngom (fngom@bu.edu)." ;
+  schema:author "Markaz Ihyahil Islam Abayawo" ;
+  schema:creator "Ilorin – Nigeria" ;
+  schema:datePublished "2020" ;
+  dcterms:subject "African history and culture analysis", "Language, Linguistics, Cultural Analysis", "Linguistic Studies and Language Acquisition" .

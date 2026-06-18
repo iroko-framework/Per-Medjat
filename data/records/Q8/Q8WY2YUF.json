@@ -1,0 +1,112 @@
+{
+  "key": "Q8WY2YUF",
+  "uri": "https://medjat.irokosociety.org/id/library/Q8WY2YUF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Q8WY2YUF",
+  "zotero": {
+    "group": "6479329",
+    "key": "Q8WY2YUF",
+    "version": 3483,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Q8WY2YUF",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "The Thirteenth Amendment: Modern Slavery, Capitalism, and Mass Incarceration",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Michele Goodwin"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "104",
+    "issue": "4",
+    "pages": "899-990",
+    "abstract": "Slavery's preservation in the United State can-in part-be explained by its fluid transformations, which continuously exacted economic gains, preserved southern social order, and inured benefits to private parties as well as the state. These transformations did not outpace law. Rather, the rule of law in the south and lawlessness among local law enforcement frequently accommodated these transformations and innovations. Historically, efforts to stamp out the myriad forms of slavery-convict leasing, peonage, contract transfers, so-called \"apprenticeships,\" and chain gangs-frequently fell short because of local collusion and complicity, weak federal interventions and protections, and violence. The specter of lynching, which included the hanging women and children, bombings of churches and homes, and arrests, succeeded in instilling a crippling fear among even the most courageous southern Blacks. Local and state laws aggravated these injustices and provided little or no relief for Black men, women, and children subjected to them. These historic conditions matter today. With the ratification of the Punishment Clause, states lacked any disincentive to do otherwise. Effectively, there were no consequences for continuing slavery within the means articulated by the Thirteenth Amendment. If anything, the Thirteenth Amendment's Punishment Clause may have exacerbated slavery's spread into states that had previously abolished the practice. Substantively, freedom shall not and truly cannot exist without a fundamental change in the criminal justice system, including the abolishment of the Punishment Clause.",
+    "doi": "",
+    "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=4798&context=clr",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Criminal Justice and Corrections Analysis",
+      "Legal Systems and Judicial Processes",
+      "Taxation and Compliance Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Michele Goodwin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Thirteenth Amendment: Modern Slavery, Capitalism, and Mass Incarceration"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "899-990 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Criminal Justice and Corrections Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal Systems and Judicial Processes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Taxation and Compliance Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Q8/Q8WY2YUF.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

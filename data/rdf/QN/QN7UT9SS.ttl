@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QN7UT9SS>
+  a schema:ScholarlyArticle ;
+  schema:name "Hacia una reflexión decolonial de la alimentación en el Occidente de México" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QN7UT9SS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QN7UT9SS" ;
+  schema:description "Hacia una reflexion decolonial de la alimentacion en el Occidente de MexicoClaudia R. Magana y Yanga Villagomez (coords.) (2018).Mexico: La Casa del Mago226 p.ISBN: 978-607-9207-95-3" ;
+  schema:author "Jordi Gascón" ;
+  schema:datePublished "2020" ;
+  dcterms:subject "Agricultural and Food Production Studies", "Culinary Culture and Tourism", "Food, Nutrition, and Cultural Practices" .

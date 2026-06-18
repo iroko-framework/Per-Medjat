@@ -1,0 +1,128 @@
+{
+  "key": "54PXLY4S",
+  "uri": "https://medjat.irokosociety.org/id/library/54PXLY4S",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=54PXLY4S",
+  "zotero": {
+    "group": "6479329",
+    "key": "54PXLY4S",
+    "version": 3369,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/54PXLY4S",
+    "dateAdded": "2026-05-20T16:34:15Z",
+    "dateModified": "2026-05-20T16:34:15Z"
+  },
+  "display": {
+    "title": "Zenbaki errealak eraikitzen",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Javier Gutiérrez García"
+      },
+      {
+        "role": "editor",
+        "name": "Imanol Mozo Carollo"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "EKAIA Euskal Herriko Unibertsitateko Zientzi eta Teknologi Aldizkaria",
+    "publicationTitle": "EKAIA Euskal Herriko Unibertsitateko Zientzi eta Teknologi Aldizkaria",
+    "bookTitle": "",
+    "journalAbbreviation": "EKAIA Euskal Herriko Unibertsitateko Zientzi eta Teknologi Aldizkaria",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "29",
+    "pages": "107-125",
+    "abstract": "Zenbaki errealak funtsezko tresna eta oinarrizko eredu dira matematikaren arlo anitzetan. Hala ere, sarritan definizio zorrotzik emateari uko egiten zaio. Historian zehar aurkeztu diren zenbait aukera azalduz, hutsune hau betetzea da artikulu honen xedea. Bide honetan, zenbaki errealen definizio sintetikoaren eta zenbaki arrazionalen deskribapen zorrotzaren ondoren, eginbehar hau modu zuzenan gauzatzen lehenengoak izan ziren Cantor-en, Dedekind-ren eta Weierstrass-en eraikuntza klasikoak aurkeztuko ditugu. Azkenik, Rota eta bere lankideen lana azalduko dugu, bide batez, beste ikuspuntu batetik, aljebrarena hain justu, definitzerik dagoela erakutsiz.",
+    "doi": "10.1387/ekaia.14582",
+    "url": "https://doi.org/10.1387/ekaia.14582",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Basque language and culture studies",
+      "Historical Studies in Science",
+      "History of Education in Spain"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Javier Gutiérrez García"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Zenbaki errealak eraikitzen"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "EKAIA Euskal Herriko Unibertsitateko Zientzi eta Teknologi Aldizkaria, 2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "107-125 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1387/ekaia.14582"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Basque language and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Science"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Education in Spain"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Imanol Mozo Carollo"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/54/54PXLY4S.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1387/ekaia.14582"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

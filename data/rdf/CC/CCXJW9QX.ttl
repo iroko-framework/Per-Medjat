@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CCXJW9QX>
+  a schema:Chapter ;
+  schema:name "Las reformas borbónicas y la invención de Veracruz" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CCXJW9QX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CCXJW9QX" ;
+  schema:description "Chapter on the Bourbon reforms and the institutional construction of Veracruz. Provides the administrative and political framework within which the slave paper corridor operated. Directly cited in the Ortiz Escamilla outreach letter." ;
+  schema:author "Ducey, Michael", "Ortiz Escamilla, Juan", "Méndez Maín, Silvia María" ;
+  schema:creator "Aguilar Sánchez, Martín Gabriel", "Ortiz Escamilla, Juan" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Universidad Veracruzana" ;
+  dcterms:identifier "isbn:978-607-8923-53-3" ;
+  dcterms:subject "Bourbon reforms", "New Spain", "Veracruz", "colonial history" .

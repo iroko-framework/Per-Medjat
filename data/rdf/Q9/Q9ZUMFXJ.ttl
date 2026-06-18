@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Q9ZUMFXJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Des larmes aux rires en cortège, performer la dignité" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Q9ZUMFXJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Q9ZUMFXJ" ;
+  schema:description "Des éclats de rire rompirent le silence d’une après-midi lourde et chargée de peines dans le quartier de Bel-Air à Port-au-Prince (Haïti). Les passants venaient de découvrir que le cercueil de petite taille autour duquel ils s’étaient rassemblés, émus et pleins de compassion, accueillait un chien. Cet animal est pourtant un symbole de la violence coloniale et de la déshumanisation en Haïti. À quoi bon et pourquoi donc offrir cercueil et sépulture à cette bête ? Qui sont les hommes qui ont organisé une telle procession funèbre et à quelles fins ? En entremêlant les dires et les rires des auteurs et acteurs de ce cortège, les musiciens du rara Chanpwèl Blada – pratique culturelle haïtienne des classes populaires des campagnes et des villes, mêlant musique, chant, danse, vodou et circulation dans l’espace –, cet article explore les multiples tensions et jeux parcourant cette scène entre procession funèbre et performance, gravité et légèreté, mort et vie, animalité et humanité, impuissance et puissance, indignité et dignité." ;
+  schema:author "Mathilde Périvier" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Cahiers de littérature orale" ;
+  schema:sameAs <https://doi.org/10.4000/15cgg> ;
+  dcterms:identifier "doi:10.4000/15cgg" ;
+  dcterms:subject "African Studies and Ethnography", "Caribbean and African Literature and Culture", "Cultural Identity and Heritage" .

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V68M6XCS>
+  a schema:ScholarlyArticle ;
+  schema:name "Eliminating Lymphatic Filariasis, Onchocerciasis, and Schistosomiasis from the Americas: Breaking a Historical Legacy of Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V68M6XCS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V68M6XCS" ;
+  schema:description "velopment in the United States and in the Caribbean led to the spontaneous disappearance of LF in some areas and substantial declines in the prevalence of infection in others [7]. Ongoing transmission in the Western Hemisphere, now limited to four countries (Brazil, the Dominican Republic, Haiti, and Guyana), is concentrated in impoverished settings and appears to be a growing problem in urban slums. LF elimination programs based on the mass distribution of antifilarial drugs have been developed in all four countries and have resulted in declines in the prevalence of filarial infection ([8] and unpublished data). However, all four programs are resource challenged and none have achieved full coverage of at-risk populations." ;
+  schema:author "Patrick J. Lammie" ;
+  schema:creator "John Lindo", "W. Evan Secor", "Javier Vásquez", "Steven K. Ault", "Mark L. Eberhard" ;
+  schema:datePublished "2007" ;
+  schema:publisher "PLoS neglected tropical diseases" ;
+  schema:sameAs <https://doi.org/10.1371/journal.pntd.0000071> ;
+  dcterms:identifier "doi:10.1371/journal.pntd.0000071" ;
+  dcterms:subject "Parasite Biology and Host Interactions", "Parasites and Host Interactions", "Parasitic Diseases Research and Treatment" .

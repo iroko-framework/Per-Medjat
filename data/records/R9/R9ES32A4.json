@@ -1,0 +1,128 @@
+{
+  "key": "R9ES32A4",
+  "uri": "https://medjat.irokosociety.org/id/library/R9ES32A4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=R9ES32A4",
+  "zotero": {
+    "group": "6479329",
+    "key": "R9ES32A4",
+    "version": 3361,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/R9ES32A4",
+    "dateAdded": "2026-05-20T16:34:10Z",
+    "dateModified": "2026-05-20T16:34:10Z"
+  },
+  "display": {
+    "title": "Hommage à Maximilien Laroche",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nubia Tourrucôo Jacques Hanciau"
+      },
+      {
+        "role": "editor",
+        "name": "Zilả Bernd"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Interfaces Brasil/Canadá",
+    "publicationTitle": "Interfaces Brasil/Canadá",
+    "bookTitle": "",
+    "journalAbbreviation": "Interfaces Brasil/Canadá",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "17",
+    "issue": "2",
+    "pages": "158-158",
+    "abstract": "En 2010, Nubia Hanciau, éditrice à l´époque de la revue Interfaces Brasil-Canadá a eu la bonne idée d´interpréter la pensée de ses collègues brésiliens – qui admiraient profondément Maximilien Laroche – de lui rendre hommage. Elle a très bien souligné les principales caractéristiques de cet intellectuel qui, vivant au Québec et enseignant à l´Université Laval, était né en Haïti, pays qui revient constamment dans ses réflexions. Une magnifique idée celle de rendre hommage à ce collègue qui, à part d´être un éminent professeur et penseur, était aussi un être humain incomparable par son immense capacité de s´ouvrir à la relation avec les autres dans la diversité.",
+    "doi": "10.15210/interfaces.v17i2.11899",
+    "url": "https://doi.org/10.15210/interfaces.v17i2.11899",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Canadian Identity and History",
+      "French Urban and Social Studies",
+      "Migration, Identity, and Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nubia Tourrucôo Jacques Hanciau"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Hommage à Maximilien Laroche"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Interfaces Brasil/Canadá, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "158-158 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15210/interfaces.v17i2.11899"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Canadian Identity and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "French Urban and Social Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Zilả Bernd"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/R9/R9ES32A4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15210/interfaces.v17i2.11899"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

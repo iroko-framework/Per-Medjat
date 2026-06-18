@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QKLAZJZT>
+  a schema:Thesis ;
+  schema:name "Ephemeral Hinterlands and the Historical Geography of Trujillo, Honduras, 1525-1950." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QKLAZJZT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QKLAZJZT" ;
+  schema:description "The historical geography of Trujillo, Honduras is told through its changing hinterlands. This dissertation uses world systems to approach and understand the historical geography of Trujillo, however, the focus is on this peripheral area of the world system, rather than on the core. The coast of the western Caribbean experiences economic boom and bust cycles. The periodization of Trujillo's historical geography is based on the city's boom and bust periods, using primary documents from archives in Central America and Spain. Trujillo's first boom period lasted from its founding in 1525 until 1550, based on gold exports from the interior. During this time many Old World plants and animals were introduced into Honduras through Trujillo. The native population declined rapidly from disease, overwork, warfare, and many simply fled. From 1550 to the 1640s, the people of Trujillo searched for an alternative product to replace gold, largely relying on sarsaparilla and hides, but to no avail. In the 1640s Trujillo suffered its worst pirate attacks, and was slowly abandoned by 1683. From the 1730s until 1782, Trujillo was a major center for contraband trade. Reoccupied in 1782, Trujillo became a center for colonization, but the Spanish colonists were maladapted to the environment and most of them died. The Black Caribs, deported from their homeland to the Honduran coast, came in similar numbers but were preadapted to the environment and flourished. The foreland for the port changed as trade opened up with Cuba, Great Britain, and the United States, which would eventually dominate the trade. Banana exports began in the late 1800s, and the United Fruit Company gained the concession to build a railroad to service Trujillo. Banana exports reached a peak in the early 1930s, then fell to almost zero by 1940, as banana diseases struck the plantations. Trujillo may be entering a new boom period based on tourism, but there are plans to build an oil refinery at the port. The growing highway network in Honduras, combined with the movement of the frontier of settlement, may create a more permanent hinterland for Trujillo." ;
+  schema:author "Taylor E. Mack" ;
+  schema:datePublished "1997" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_disstheses.6433> ;
+  dcterms:identifier "doi:10.31390/gradschool_disstheses.6433" ;
+  dcterms:subject "Economic Zones and Regional Development", "Regional Development and Innovation" .

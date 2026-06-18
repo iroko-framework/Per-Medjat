@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/S6I4M4G6>
+  a schema:ScholarlyArticle ;
+  schema:name "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=S6I4M4G6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:S6I4M4G6" ;
+  schema:author "Herskovits, Melville J." ;
+  schema:datePublished "1937" ;
+  schema:publisher "American Anthropologist" ;
+  schema:sameAs <https://doi.org/10.1525/aa.1937.39.4.02a00080> ;
+  dcterms:identifier "doi:10.1525/aa.1937.39.4.02a00080" ;
+  dcterms:subject "Lineage", "Material Culture", "Syncretic/Creole" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> .

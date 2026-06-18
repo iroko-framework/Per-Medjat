@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FRNXQUS4>
+  a schema:Book ;
+  schema:name "Drumming for the Gods: The Life and Times of Felipe Garcia Villamil, Santero, Palero and Abakua" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FRNXQUS4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FRNXQUS4" ;
+  schema:description "Acknowledgments A Note on Spelling Prologue Part I: Learning the Trade 1. Background 2. Entrance into the Afro-Cuban Religious World 3. Early Musical Experiences 4. Learning to Play Bata 5. History of the Drums Part II: Life as a Musician during the Revolution 6. Making Ends Meet 7. Becoming a Cultural Worker 8. Performing Afro-Cuban Religious Music in Secular Public Contexts 9. Performing Afro-Cuban Religious Music in Private Ritual Contexts 10. Searching for Alternatives: Becoming a Craftsman of Religious Objects 11. Crafting A Bembe Drum: Manufacturing Material Culture to Obey the Orichas Part III: Life as a Diasporic Musician 12. Leaving Cuba 13. Building the Present: Exercising His Trade in His New Home 14. The Tools of the Trade 15. The Artisan Transformed into an Artist 16. Filipe's There Faces His Here 17. The Struggle of Memory over Forgetting Epilogue Notes Bibliography Glossary Index Photographs" ;
+  schema:author "María Teresa Vélez" ;
+  schema:datePublished "2000" ;
+  dcterms:subject "Cuban History and Society" .

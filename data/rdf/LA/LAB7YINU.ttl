@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LAB7YINU>
+  a schema:Thesis ;
+  schema:name "La réparation des séquelles de la traite négrière transatlantique et de l'esclavage colonial français : obstacles juridiques et perspectives politiques" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LAB7YINU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LAB7YINU" ;
+  schema:description "French colonial slavery, introduced in the mid-17th century, was definitively abolished by decree on April 27, 1848. Described by this decree as an attack on human dignity, it was deemed incompatible with the values of the new Republic. The annihilation of this institution, which had been set up by the State and remained active for over two centuries, was not an easy task. It was out of the question to take slaves away from the colonists without compensation. It was a \"matter of justice», the French government stated. Like those in Saint-Domingue (Haïti), the colonists in the \"Four Old Colonies\" were therefore compensated. However, no compensation was provided for the former slaves and their heirs, who would consequently suffer this injustice from generation to generation. With the passage of time, slavery is now considered a crime against humanity, and their descendants are now demanding reparation. It's a daring, original approach, challenging French positive law, which is being put to the test to judge facts dating back more than two centuries. Would such an endeavor enables the claimants to obtain satisfaction through legal channels? If not, should the idea of reparation be abandoned or rejected altogether, or should extra-judicial mechanisms be created to satisfy the claims of the descendants of slaves? This thesis provides an answer by demonstrating that a form of reparation, albeit far removed from the judicial paradigm due to the obstacles in positive law that it has detailed, is not only possible, but above all achievable." ;
+  schema:author "Windy Phele" ;
+  schema:datePublished "2025" ;
+  schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Migration, Identity, and Health" .

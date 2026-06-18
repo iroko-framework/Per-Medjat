@@ -1,0 +1,107 @@
+{
+  "key": "QSRW636E",
+  "uri": "https://medjat.irokosociety.org/id/library/QSRW636E",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QSRW636E",
+  "zotero": {
+    "group": "6479329",
+    "key": "QSRW636E",
+    "version": 2016,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QSRW636E",
+    "dateAdded": "2026-05-19T14:19:06Z",
+    "dateModified": "2026-05-19T14:19:06Z"
+  },
+  "display": {
+    "title": "Slaves and slavery in Louisiana: the evolution of Atlantic world identities, 1791-1831",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kevin Roberts"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "One never really leaves Louisiana.It has that quality-an almost indescribable pull-that I suppose most Southern places do.Even as I began my graduate study in history at Virginia Tech, a place striking in its topographical and cultural differences with Louisiana, I wondered if I might respond to that pull not by physically returning there, but by studying it.With a timely nudge from my thesis advisor, Randy Shifflett, I realized that Louisiana was more than an",
+    "doi": "",
+    "url": "http://hdl.handle.net/2152/885",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kevin Roberts"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slaves and slavery in Louisiana: the evolution of Atlantic world identities, 1791-1831"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2003."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/QS/QSRW636E.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

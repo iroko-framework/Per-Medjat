@@ -1,0 +1,146 @@
+{
+  "key": "FL837GUW",
+  "uri": "https://medjat.irokosociety.org/id/library/FL837GUW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FL837GUW",
+  "zotero": {
+    "group": "6479329",
+    "key": "FL837GUW",
+    "version": 3975,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FL837GUW",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Global supply chain of biomass use and the shift of environmental welfare from primary exploiters to final consumers",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Xi Ji"
+      },
+      {
+        "role": "editor",
+        "name": "Yifang Liu"
+      },
+      {
+        "role": "editor",
+        "name": "Jing Meng"
+      },
+      {
+        "role": "editor",
+        "name": "Xudong Wu"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "Applied Energy",
+    "publicationTitle": "Applied Energy",
+    "bookTitle": "",
+    "journalAbbreviation": "Applied Energy",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "276",
+    "issue": "",
+    "pages": "115484-115484",
+    "abstract": "",
+    "doi": "10.1016/j.apenergy.2020.115484",
+    "url": "https://doi.org/10.1016/j.apenergy.2020.115484",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Bioeconomy and Sustainability Development",
+      "Biofuel production and bioconversion",
+      "Environmental Impact and Sustainability"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Xi Ji"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Global supply chain of biomass use and the shift of environmental welfare from primary exploiters to final consumers"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Applied Energy, 2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "115484-115484 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1016/j.apenergy.2020.115484"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bioeconomy and Sustainability Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biofuel production and bioconversion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Environmental Impact and Sustainability"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Yifang Liu"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jing Meng"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Xudong Wu"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FL/FL837GUW.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1016/j.apenergy.2020.115484"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

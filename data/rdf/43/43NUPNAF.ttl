@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/43NUPNAF>
+  a schema:ScholarlyArticle ;
+  schema:name "Trade, Slavery, and State Coercion of Labor: Egypt during the First Globalization Era" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=43NUPNAF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:43NUPNAF" ;
+  schema:description "Abstract I investigate the effects of trade on labor coercion under the dual-coercive institutions of slavery and state coercion. Employing novel data from Egypt, I document that the cotton boom in 1861–1865 increased both imported slaveholdings of the rural middle class and state coercion of local workers by the elite. As state coercion reduced wage employment, it reinforced the demand for slaves among the rural middle class. While the abolition of slavery in 1877 increased wages, it did not affect state coercion or wage employment. I discuss the political effects of the abolition as a potential explanation for these findings. “The barbarism of the [U.S.] South, while destroying itself, [appeared] in the providence of God to be working out the regeneration of Egypt.” North American Review 98, no. 203 (1864, p. 483), quoted in Earle (1926)" ;
+  schema:author "Mohamed Saleh" ;
+  schema:datePublished "2024" ;
+  schema:publisher "The Journal of Economic History" ;
+  schema:sameAs <https://doi.org/10.1017/s002205072400038x> ;
+  dcterms:identifier "doi:10.1017/s002205072400038x" ;
+  dcterms:subject "Culture, Economy, and Development Studies", "Islamic Studies and History", "Political Conflict and Governance" .

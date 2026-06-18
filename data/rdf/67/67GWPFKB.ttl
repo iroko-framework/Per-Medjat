@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/67GWPFKB>
+  a schema:ScholarlyArticle ;
+  schema:name "Presencia de la paloma turca (Streptopelia decaocto) en el archipiélago de Revillagigedo, México" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=67GWPFKB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:67GWPFKB" ;
+  schema:description "Registramos la presencia de Streptopelia decaocto en dos islas del archipiélago de Revillagigedo: isla Clarión e isla Socorro. Observamostres adultos de S. decaocto entre marzo y julio de 2015. En ambas islas las aves se encontraron asociadas a sitios conactividad humana: en las instalaciones del destacamento militar de la Marina, Armada de México y en uno de sus buques. Serequieren de más estudios que permitan evaluar la distribución, abundancia y efectos de S. decaocto en las islas de Revillagigedo." ;
+  schema:author "Diego Adolfo González-Zamora" ;
+  schema:creator "Luis Felipe Angulo-Castellanos", "Salvador Hernández", "Humberto Almanza-Rodríguez", "Luis Abraham Aguilar Nuño" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Huitzil Revista Mexicana de Ornitología" ;
+  schema:sameAs <https://doi.org/10.28947/hrmo.2016.17.1.228> ;
+  dcterms:identifier "doi:10.28947/hrmo.2016.17.1.228" ;
+  dcterms:subject "Avian ecology and behavior", "Marine animal studies overview", "Turtle Biology and Conservation" .

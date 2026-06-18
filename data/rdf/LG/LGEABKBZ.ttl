@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LGEABKBZ>
+  a schema:Thesis ;
+  schema:name "From Protest to Praxis: A History of Islamic Schools in North America" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LGEABKBZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LGEABKBZ" ;
+  schema:description "This work attempts to achieve two overarching objectives: firstly to trace the historical growth of Islamic schools in North America and secondly, to explore the ideological and philosophical values that have shaped the vision of these schools. The historical growth of Islamic schools in North America has been led by two distinct communities among Sunni Muslims: the indigenous and the immigrant. Specific to the North American Muslim diaspora “indigenous ” represents the African American Muslim community of Imam Warith Deen Mohammed (1933-2008), and “immigrant ” refers to the generation of Sunni Muslims who settled in North America in the 1960s and 1970s. Through oral history, this study attempts to capture the voices, sentiments, and aspirations of those that struggled to establish the earliest full-time Islamic schools. The study examines these voices for the ways Islamic education is defined differently based on generational, contextual, and ideological perspectives. Recognizing the diverse lived experiences of Muslim communities in North America, the findings are organized in four distinct, yet often overlapping historical phases that map the growth and development of" ;
+  schema:author "Nadeem Memon" ;
+  schema:datePublished "2010" ;
+  schema:publisher "TSpace" ;
+  dcterms:subject "Education and Islamic Studies" .

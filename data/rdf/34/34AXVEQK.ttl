@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/34AXVEQK>
+  a schema:Book ;
+  schema:name "The spanish frontier in north america" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=34AXVEQK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:34AXVEQK" ;
+  schema:description "From the Publisher: In 1513, when Ponce de Leon stepped ashore on a beach of what is now Florida, Spain gained its first foothold in North America. For the next three hundred years, Spaniards ranged through the continent building forts to defend strategic places, missions to proselytize Indians, and farms, ranches, and towns to reconstruct a familiar Iberian world. This engagingly written and well-illustrated book presents an up-to-date overview of the Spanish colonial period in North America. It provides a sweeping account not only of the Spaniards' impact on the lives, institutions, and environments of the native peoples but also of the effect of native North Americans on the societies and cultures of the Spanish settlers. With apt quotations and colorful detail, David J. Weber evokes the dramatic era of the first Spanish-Indian contact in North America, describes the establishment, expansion, and retraction of the Spanish frontier, and recounts the forging of a Hispanic empire that ranged from Florida to California. Weber refutes the common assumption that while the English and French came to the New World to settle or engage in honest trade, the Spaniards came simply to plunder. The Spanish missionaries, soldiers, and traders who lived in America were influenced by diverse motives, and Weber shows that their behavior must be viewed in the context of their own time and within their own frame of reference. Throughout his book Weber deals with many other interesting issues, including the difference between English, French, and Spanish treatment of Indians, the social and economic integration of Indian women into Hispanic society, and the reasons why Spanish communities in North America failed to develop at the rate that the English settlements did. His magisterial work broadens our understanding of the American past by illuminating a neglected but integral part of the nation's heritage." ;
+  schema:author "Weber, David J." ;
+  schema:datePublished "2009" ;
+  schema:publisher "Yale University Press" ;
+  dcterms:identifier "isbn:1-282-35163-X" ;
+  dcterms:subject "Frontier and pioneer life -- Southern States", "Frontier and pioneer life -- Southwest", "New", "New -- History", "New -- History -- To 1848", "Southern States -- History -- Colonial period", "Southwest", "Spaniards -- Southern States -- History", "Spaniards -- Southwest", "ca." .

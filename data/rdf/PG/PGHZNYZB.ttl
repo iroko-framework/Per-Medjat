@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PGHZNYZB>
+  a schema:Book ;
+  schema:name "Cultural Heritage and Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PGHZNYZB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PGHZNYZB" ;
+  schema:description "In the recent cultural heritage boom, community-based and national identity projects are intertwined with interest in cultural tourism and sites of the memory of enslavement. Questions of historical guilt and present responsibility have become a source of social conflict, particularly in multicultural societies with an enslaving past. This became apparent in the context of the Black Lives Matter movement in 2020, when statues of enslavers and colonizers were toppled, controversial debates about streets and places named after them re-ignited, and the European Union apologized for slavery after the racist murder of George Floyd. Related debates focus on museums, on artworks acquired unjustly in societies under colonial rule, the question of whether and how museums should narrate the hidden past of enslavement and colonialism, including their own colonial origins with respect to narratives about presumed European supremacy, and the need to establish new monuments for the enslaved, their resistance, and abolitionists of African descent. In this volume, we address this dissonant cultural heritage in Europe, with a strong focus on the tangible remains of enslavement in the Atlantic space in the continent. This may concern, for instance, the residences of royal, noble, and bourgeois enslavers; charitable and cultural institutions, universities, banks, and insurance companies, financed by the traders and owners of enslaved Africans; merchants who dealt in sugar, coffee, and cotton; and the owners of factories who profited from exports to the African and Caribbean markets related to Atlantic slavery." ;
+  schema:author "Cultural heritage and slavery: perspectives from Europe (Veranstaltung) 2021 Online" ;
+  schema:creator "Conermann, Stephan 1964-", "Rauhut, Claudia 1974-", "Schmieder, Ulrike", "Zeuske, Michael 1952-", "Walter de Gruyter GmbH & Co. KG" ;
+  schema:datePublished "2023" ;
+  schema:sameAs <https://doi.org/10.1515/9783111331492> ;
+  dcterms:identifier "doi:10.1515/9783111331492" ;
+  dcterms:subject "Colonialism, slavery, and trade" .

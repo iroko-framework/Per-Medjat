@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4YI6YYI6>
+  a schema:ScholarlyArticle ;
+  schema:name "Poor Man's Crop? Slavery in Brazilian Cotton Regions (1800-1850)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4YI6YYI6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4YI6YYI6" ;
+  schema:description "Abstract Much of the literature about cotton production in Brazil during the nineteenth century considers cotton as a \"poor man's crop\" - cultivated by small farmers who did not employ a large slave labor force. However, information provided in population maps from the period between 1800 and 1840 shows that slaves represented half the population in Maranhão, the most important cotton exporter in Brazil until the 1840s. This represented a higher share than in any region in northeast Brazil and was comparable to the slave population shares recorded in the United States' cotton South. This paper shows that, during the cotton boom years (1790-1820), not only was the cotton exported from northeast Brazil to Britain and continental Europe cultivated on large plantations, but also, slave prices were higher in Maranhão than in other Brazilian provinces." ;
+  schema:author "Thales Pereira" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Estudos Econômicos (São Paulo)" ;
+  schema:sameAs <https://doi.org/10.1590/0101-41614843tzp> ;
+  dcterms:identifier "doi:10.1590/0101-41614843tzp" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical Economic and Social Studies", "History of Colonial Brazil" .

@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZNALMU47>
+  a schema:ScholarlyArticle ;
+  schema:name "Etre abakuá à La Havane: pouvoir en jeu, enjeux de pouvoir et mise en scène de soi" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZNALMU47> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZNALMU47" ;
+  schema:author "Géraldine Morel" ;
+  schema:datePublished "2012" ;
+  dcterms:subject "Agriculture and Rural Development Research", "Caribbean and African Literature and Culture", "Migration, Identity, and Health" .

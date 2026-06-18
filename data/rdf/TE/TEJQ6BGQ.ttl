@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TEJQ6BGQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Masculinité et relations de genre dans la société secrète abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TEJQ6BGQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TEJQ6BGQ" ;
+  schema:description "La société secrète abakuá fait partie intégrante de l’univers religieux afro-cubain. Toutefois, son mode de fonctionnement ainsi que son système de recrutement « au mérite » s’inscrivent aux antipodes de la logique religieuse commune aux autres modalités de culte présentes sur l’île et reposant sur un échange de bons procédés entre hommes et dieux (transe, sacrifice, divination). En effet, être abakuá implique avant tout une construction de genre spécifique fondée sur une masculinité de type « machiste ». Cet article propose une analyse de l’engagement abakuá sous l’angle du genre en s’intéressant aux modalités d’affirmation de cette identité masculine centrale dans le culte, ainsi qu’aux représentations et aux interactions qui la sous-tendent. Le machisme en tant que système de pouvoir est légitimé au niveau mythologique, rituel et social, et la construction de la masculinité qui en découle repose sur une comparaison tant avec les femmes, exclues rituellement mais omniprésentes socialement, qu’avec les hommes homosexuels, véritable miroir antagonique des caïds du milieu populaire havanais." ;
+  schema:author "Géraldine Morel" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Ateliers d anthropologie" ;
+  schema:sameAs <https://doi.org/10.4000/ateliers.9392> ;
+  dcterms:identifier "doi:10.4000/ateliers.9392" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Social Sciences and Humanities" .

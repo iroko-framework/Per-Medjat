@@ -1,0 +1,114 @@
+{
+  "key": "RRNKVKWU",
+  "uri": "https://medjat.irokosociety.org/id/library/RRNKVKWU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RRNKVKWU",
+  "zotero": {
+    "group": "6479329",
+    "key": "RRNKVKWU",
+    "version": 3338,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RRNKVKWU",
+    "dateAdded": "2026-05-20T16:34:00Z",
+    "dateModified": "2026-05-20T16:34:00Z"
+  },
+  "display": {
+    "title": "Causes of Conversion from Catholicism to Protestantism in Haiti and the role of Vodou after Conversion",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Yola Ménard-Saint Clair"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The purpose of this thesis was to examine the choice patterns that lead to conversion from Catholicism to Protestantism and the role of Vodou after conversion. This study highlights disappointment with the church as the leading cause of conversion in Haiti. Other causes significant to the study were examined. In illness and healing lie the controversies of religious conversion in Haiti. The only way to cure Satanic Illness is by resorting to magic. However, conversion to Protestantism means rejection of Vodou and all of its practice. A secondary purpose is to determine the role of Vodou after conversion. A total of 100 participants between the ages of 18 to 44 were included in this study. Seven percent (7%) converted for economic reasons, 43% selected disappointment with the church, 17% community/environment encounter, 13% sickness/near death experience, 2% economic and disappointment, 7% community/environment encounter and disappointment with the church, 9% disappointment sickness and near death experience, 1% economic and sickness near death experience, 1% economic and community/environment encounter. Findings suggest that Vodou is deeply rooted in Haitian identity, though all Haitians may not practice Vodou; but there are characteristics in the Haitian society that suggest that Haitians are Vodouisant. For the conversion process to be successful in Haiti it has to deeply acknowledged Vodou, the religion practiced by the masses in Haiti.",
+    "doi": "10.25148/etd.fi12113010",
+    "url": "https://doi.org/10.25148/etd.fi12113010",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Yola Ménard-Saint Clair"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Causes of Conversion from Catholicism to Protestantism in Haiti and the role of Vodou after Conversion"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25148/etd.fi12113010"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RR/RRNKVKWU.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25148/etd.fi12113010"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

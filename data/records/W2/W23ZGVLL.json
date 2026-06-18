@@ -1,0 +1,114 @@
+{
+  "key": "W23ZGVLL",
+  "uri": "https://medjat.irokosociety.org/id/library/W23ZGVLL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W23ZGVLL",
+  "zotero": {
+    "group": "6479329",
+    "key": "W23ZGVLL",
+    "version": 1893,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W23ZGVLL",
+    "dateAdded": "2026-05-19T14:18:30Z",
+    "dateModified": "2026-05-19T14:18:30Z"
+  },
+  "display": {
+    "title": "A lei de 10 de junho de 1835",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ricardo Figueiredo Pirola"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Brazil's imperial regent sanctioned a new law to repress crimes committed by slaves. Compared to the existing legislation, the new law shortened trial and sentencing procedures, and increased the number of slave crimes which were to be subject to mandatory capital punishment. Despite historiography of this law's central role in the repression of slave protests and in the application of the death penalty, the subject-matter",
+    "doi": "10.47749/t/unicamp.2012.896850",
+    "url": "https://doi.org/10.47749/t/unicamp.2012.896850",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ricardo Figueiredo Pirola"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A lei de 10 de junho de 1835"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.47749/t/unicamp.2012.896850"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/W2/W23ZGVLL.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.47749/t/unicamp.2012.896850"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

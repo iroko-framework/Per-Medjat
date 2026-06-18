@@ -1,0 +1,123 @@
+{
+  "key": "3KSJJVW6",
+  "uri": "https://medjat.irokosociety.org/id/library/3KSJJVW6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3KSJJVW6",
+  "zotero": {
+    "group": "6479329",
+    "key": "3KSJJVW6",
+    "version": 639,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3KSJJVW6",
+    "dateAdded": "2026-05-18T18:57:17Z",
+    "dateModified": "2026-05-18T18:57:17Z"
+  },
+  "display": {
+    "title": "Triplochiton scleroxylon K. Schum (Malvaceae-Sterculioideae): a key species of the Oro worship in Benin",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gabin Ganka"
+      },
+      {
+        "role": "editor",
+        "name": "Adandé Belarmain Fandohan"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Ethnobotany Research and Applications",
+    "publicationTitle": "Ethnobotany Research and Applications",
+    "bookTitle": "",
+    "journalAbbreviation": "Ethnobotany Research and Applications",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "22",
+    "issue": "",
+    "pages": "",
+    "abstract": "Background: The African whitewood (Triplochiton scleroxylon), is a sacred and revered species in the tradition of the Oro cult in Benin. The species’ natural stands are in decline and are confined to sacred forests owned by Oro secret societies. Information on its cultural uses and significance in the tradition of the Oro cult is however, poorly documented. The objective of this study is to assess the cultural keystone status of the species in the tradition of Oro worship in Benin. Method: One hundred and twenty-five members of the secret society of the cult were investigated on the names and meanings of all the species used in this tradition. Six (06) identification indices of key cultural species were used for this purpose: the importance and use value of the species, their value as an additional source of income, their psycho-socio-cultural function, their ethno-taxonomic diversity and their degree of irreplaceability. Cultural keystone status scores were estimated and various statistical tests were performed to examine their variation and correlation with the calculated indices. Results: Ten specific uses of the African whitewood were reported; of which the top three were all of spiritual and ritual importance. Key cultural species indicators showed a high value of T. scleroxylon for the tradition of \"Oro\" worship in Benin. Conclusion: Triplochiton scleroxylon is a cultural keystone species for the Oro cult in Benin. It would be interesting to examine the potential impact of the decline of this species on the identity and stability of the Oro cult. Keywords: African whitewood tree, key cultural species, bio cultural diversity, Benin. Resumé Contexte et objectif: Le Samba (Triplochiton scleroxylon), est une espèce sacrée et vénérée dans la tradition du culte Oro au Bénin. Les peuplements naturels de l’espèce sont en déclin et se réduisent de plus en plus aux forêts sacrées du culte Oro. Les informations sur ses usages et son importance culturels dans la tradition du culte Oro sont toutefois peu documentées. L’objectif de cette étude est d’évaluer le statut de clé de voûte cultuel de l’espèce dans la tradition du culte Oro au Bénin. Méthode: Cent vingt-cinq membres de la société secrète du culte ont été enquêtés sur les noms et significations de toutes les essences utilisées dans cette tradition. Six (06) indices d’identification d’espèces culturelles clés ont été utilisés à cet effet. Il s’agit de : l'importance et la valeur d'usage des espèces, leur valeur en tant que source additionnelle de revenu, leur fonction psycho-socio-culturelle, leur diversité ethno-taxonomique et leur degré d’irremplaçabilité. Les scores du statut clé de voûte culturelle ont été estimés et divers tests statistiques ont été réalisés pour examiner leur variation et corrélation avec les indices calculés. Résultats: Les indicateurs d’espèce culturelle clé ont montré dans le contexte culturel actuel et historique du Bénin, de fortes valeurs de T. scleroxylon pour la tradition du culte « Oro ». Conclusio: Triplochiton scleroxylon est une clé de voûte culturelle du culte Oro au Bénin. Il serait intéressant d’examiner l’impact potentiel du déclin de cette espèce sur l’identité, la stabilité, et la perpétuité du culte Oro. Mots clés: Samba, espèce culturelle clé, diversité bioculturelle, Bénin.",
+    "doi": "10.32859/era.22.43.1-14",
+    "url": "https://doi.org/10.32859/era.22.43.1-14",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Botany and Ecology Studies",
+      "Agriculture and Rural Development Research",
+      "Plant Diversity and Evolution"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gabin Ganka"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Triplochiton scleroxylon K. Schum (Malvaceae-Sterculioideae): a key species of the Oro worship in Benin"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ethnobotany Research and Applications, 2021."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.32859/era.22.43.1-14"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Botany and Ecology Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agriculture and Rural Development Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant Diversity and Evolution"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Adandé Belarmain Fandohan"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/3K/3KSJJVW6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.32859/era.22.43.1-14"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

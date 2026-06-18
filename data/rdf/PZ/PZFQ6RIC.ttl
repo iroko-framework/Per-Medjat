@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PZFQ6RIC>
+  a schema:ScholarlyArticle ;
+  schema:name "Sikanékue, Mujer Fundacional En Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PZFQ6RIC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PZFQ6RIC" ;
+  schema:author "P. González Gómez-Cásseres" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Afro-Hispanic review" ;
+  dcterms:subject "Latin American Cultural Politics", "Latin American socio-political dynamics" .

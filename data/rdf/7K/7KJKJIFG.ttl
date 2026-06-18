@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/7KJKJIFG>
+  a schema:ScholarlyArticle ;
+  schema:name "The Ékpè-Abakuá Continuum" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7KJKJIFG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7KJKJIFG" ;
+  schema:description "Building on nearly three decades of research in Cameroon, Cuba and Nigeria, Miller articulates an active Diaspora heritage between West Africa’s Ékpè ‘leopard’ society for community justice and the Cuban Abakuá mutual-aid society. After describing a collective research methodology engaged with initiates of both groups, he articulates an overarching narrative of this trans-Atlantic civilization. Through an examination of the literature about them, he identifies historical biases towards these institutions that hinder a contemporary dialogue with State representatives in each location." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Zanj The Journal of Critical Global South Studies" ;
+  schema:sameAs <https://doi.org/10.13169/zanjglobsoutstud.4.1.0005> ;
+  dcterms:identifier "doi:10.13169/zanjglobsoutstud.4.1.0005" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Diaspora, migration, transnational identity" .

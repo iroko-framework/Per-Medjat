@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5JRTNG8Z>
+  a schema:Chapter ;
+  schema:name ". Arrival" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5JRTNG8Z> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5JRTNG8Z" ;
+  schema:description "This chapter is based largely on Abakuá narratives about the arrival of Carabalá Ékpè members and the various stages in their process of recreating Ékpè in Cuba. They created the first Abakuá lodges and established the three major “ethnic” lineages: Efí, Efó, and Orú. Most of the Abakuá language used to tell this story is contained in chants used even today in ceremonies." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0002> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0002" ;
+  dcterms:subject "Cuban History and Society" .

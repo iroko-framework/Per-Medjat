@@ -1,0 +1,116 @@
+{
+  "key": "43X5R5DX",
+  "uri": "https://medjat.irokosociety.org/id/library/43X5R5DX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=43X5R5DX",
+  "zotero": {
+    "group": "6479329",
+    "key": "43X5R5DX",
+    "version": 681,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/43X5R5DX",
+    "dateAdded": "2026-05-18T18:57:24Z",
+    "dateModified": "2026-05-18T18:57:24Z"
+  },
+  "display": {
+    "title": "The Aba Women’s War of 1929 in Eastern Nigeria as anti-colonial protest",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Egodi Uchendu"
+      },
+      {
+        "role": "editor",
+        "name": "Uche Uwaezuoke Okonkwo"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "245-254",
+    "abstract": "Eastern Nigeria was the official name for the area south of River Benue and east of River Niger, stretching southwards to the Bight of Biafra and the Atlantic Ocean. It has been home to the Igbo, Ibibio, Annang, Oro, Efik, Ejegham, and Ijaw ethnic groups since precolonial times. The setting up of the colonial Native Treasury law in 1916 to encourage British satellite states such as Nigeria to pay tax for the running of the colonial government was not a welcome development in Eastern Nigeria. Initially, men were made to pay tax and did not have much case to make against it. In 1929, however, Okezie Okugo, a colonial warrant chief, gave instructions for the counting of women, allegedly for the purpose of taxation. Suddenly, what men had endured was unacceptable to the women, who mobilized themselves widely across all ethnic groups in the region to protest colonial taxation of women as well as other social and political grievances. The women’s reaction unearthed deep-seated native resentment against the colonial experiment. Using materials especially from Nigerian archives, our chapter will examine the Aba Women’s War as anti-colonial resistance and also consider other cultural struggles that emerged from it.",
+    "doi": "10.4324/9780429243578-29",
+    "url": "https://doi.org/10.4324/9780429243578-29",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Egodi Uchendu"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Aba Women’s War of 1929 in Eastern Nigeria as anti-colonial protest"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "245-254 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9780429243578-29"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Uche Uwaezuoke Okonkwo"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/43/43X5R5DX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9780429243578-29"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

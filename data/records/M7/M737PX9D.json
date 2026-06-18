@@ -1,0 +1,114 @@
+{
+  "key": "M737PX9D",
+  "uri": "https://medjat.irokosociety.org/id/library/M737PX9D",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=M737PX9D",
+  "zotero": {
+    "group": "6479329",
+    "key": "M737PX9D",
+    "version": 1869,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M737PX9D",
+    "dateAdded": "2026-05-19T14:18:24Z",
+    "dateModified": "2026-05-19T14:18:24Z"
+  },
+  "display": {
+    "title": "The Sky is our Roof, the Earth our Floor: Orang Rimba Customs and Religion in the Bukit Duabelas Region of Jambi, Sumatra",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Steven Sager"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "ANU Open Research (Australian National University)",
+    "publicationTitle": "ANU Open Research (Australian National University)",
+    "bookTitle": "",
+    "journalAbbreviation": "ANU Open Research (Australian National University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This is an ethnographic study of the Orang Rimba ('people of the forest'), a Malay-speaking minority group who traditionally lived throughout the lowland rainforests of Jambi, Sumatra. The Orang Rimba have much in common with surrounding Malay peoples, including a similar local dialect and variants of regional Malay customs and beliefs. They are different from the Malay and other Austronesian peoples in that they have a unique, mobile, flexible economy that traditionally shifts in and out of periods of swidden gardening and a very nomadic life based on digging for wild yams, largely upon death. They have an egalitarian social system based on sharing and reciprocity, which occurs within the context of a system of relationships in which women have great rights over forest resources and extraordinary distribution rights. They are also unique for their traditional non-Islamic religious beliefs, which they believe are crucial towards maintaining their way of life in the forest based on maintaining separation with the outside world. ... ¶ This thesis explores how the Orang Rimba maintain their distinct social identity as 'the people of the forest' through an examination of their customs, beliefs and religion (adat), and their belief and ritual surrounding fruits and the annual season of fruits, a primary season in the lowland dipterocarp forests of Sumatra. Throughout the thesis, I explore some of the key concepts, structural categories (forest-village, upstream-downstream, mobility-sedentism, hot-cold, and reason-passion), and metaphor that run through their system of beliefs and religion, and how some of these beliefs influence their social, moral and cosmological orders, relations amongst themselves, and with the outside world. ...",
+    "doi": "10.25911/5d7a2d0a4fcc8",
+    "url": "https://doi.org/10.25911/5d7a2d0a4fcc8",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Asian Studies and History",
+      "Cultural and Artistic Studies",
+      "Cultural and Religious Practices in Indonesia"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Steven Sager"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Sky is our Roof, the Earth our Floor: Orang Rimba Customs and Religion in the Bukit Duabelas Region of Jambi, Sumatra"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "ANU Open Research (Australian National University), 2008."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25911/5d7a2d0a4fcc8"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian Studies and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Artistic Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Religious Practices in Indonesia"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/M7/M737PX9D.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25911/5d7a2d0a4fcc8"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

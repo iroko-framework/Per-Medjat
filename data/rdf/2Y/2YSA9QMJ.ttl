@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2YSA9QMJ>
+  a schema:ScholarlyArticle ;
+  schema:name "A Critical Review of Remote Sensing Approaches and Deep Learning Techniques in Archaeology" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2YSA9QMJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2YSA9QMJ" ;
+  schema:description "To date, comprehensive reviews and discussions of the strengths and limitations of Remote Sensing (RS) standalone and combination approaches, and Deep Learning (DL)-based RS datasets in archaeology have been limited. The objective of this paper is, therefore, to review and critically discuss existing studies that have applied these advanced approaches in archaeology, with a specific focus on digital preservation and object detection. RS standalone approaches including range-based and image-based modelling (e.g., laser scanning and SfM photogrammetry) have several disadvantages in terms of spatial resolution, penetrations, textures, colours, and accuracy. These limitations have led some archaeological studies to fuse/integrate multiple RS datasets to overcome limitations and produce comparatively detailed outcomes. However, there are still knowledge gaps in examining the effectiveness of these RS approaches in enhancing the detection of archaeological remains/areas. Thus, this review paper is likely to deliver valuable comprehension for archaeological studies to fill knowledge gaps and further advance exploration of archaeological areas/features using RS along with DL approaches." ;
+  schema:author "Israa Kadhim" ;
+  schema:creator "Fanar M. Abed" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Sensors" ;
+  schema:sameAs <https://doi.org/10.3390/s23062918> ;
+  dcterms:identifier "doi:10.3390/s23062918" ;
+  dcterms:subject "3D Surveying and Cultural Heritage", "Archaeological Research and Protection", "Remote Sensing and LiDAR Applications" .

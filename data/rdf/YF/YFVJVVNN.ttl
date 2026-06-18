@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YFVJVVNN>
+  a schema:ScholarlyArticle ;
+  schema:name "\"Don't Mess with the Saints\": Popular Music and Afro-Cuban Religion" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YFVJVVNN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YFVJVVNN" ;
+  schema:description "Dr. Alan West-Durán examined the influence of Ocha, Palo, and Abakuá in the island's music and their intimate relationship with Cuban daily life." ;
+  schema:author "Alan West-Durán" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Florida International University Digital Commons (Florida International University)" ;
+  dcterms:subject "Music", "Cuban History and Society", "West African traditions", "Central African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .

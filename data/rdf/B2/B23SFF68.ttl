@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/B23SFF68>
+  a schema:Thesis ;
+  schema:name "L'esclavage dans l'Empire ottoman (XVIe-XVIIe siècle) : fondements juridiques, réalités socio-économiques, représentations" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=B23SFF68> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:B23SFF68" ;
+  schema:description "Ottoman historiography dealing with slavery has been concentrated particularly on the later period of the Empire (19th-20th c.) and produced monographs of research and synthesis (B. Lewis 1971, 1990 ; E. Toledano 1982, 1997, 2007 ; H. Erdem 1996 ; M. Zilfi 2010).). For the early-modern period, there is a growing body of articles on localized aspects of the servile phenomenon. This dissertation’s objective is to realize the first monograph on slavery in the Ottoman society of the so-called “classical” period in whatever language it may be. The main focus is on slavery in the private space as opposed to the more well-known and studied sultan’s slaves and the military-administrative servitude (the “kul system”). Based essentially on archival documents of the Ottoman state, legal and juridical records, as well as literary texts, the dissertation tackles problems of juridical, social, economical, cultural history, as well as that of mentalities. Thus the research’s main axes concern the legal doctrine of slavery as an institution and the implementation of law by the Ottoman authorities; the slave trade; various forms of slave labour; slavery in everyday life; the fate of manumitted slaves; but also the representations of slavery by the Ottoman elites (topic to which a third of the thesis is devoted). The geographical framework covers the “central provinces” (Rumelia, Istanbul, Anatolia), but the dissertation also includes micro-studies on Syria (Arab-speaking but inseparable from Anatolia), Egypt, Crimea, Caucasus and Kurdistan." ;
+  schema:author "Hayri Gökşin Özkoray" ;
+  schema:datePublished "2017" ;
+  schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories", "Islamic Studies and History" .

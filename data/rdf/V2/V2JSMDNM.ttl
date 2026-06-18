@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V2JSMDNM>
+  a schema:Thesis ;
+  schema:name "Por-Tugu-Ese?: The protestant Tugu community of Jakarta, Indonesia" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V2JSMDNM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V2JSMDNM" ;
+  schema:description "Although many centuries have passed since Portugal’s Age of Discoveries, enduring hybrid communities are still surviving in places where the Portuguese had been present. Portuguese identity in Malacca, Larantuka, and East Timor, for example, has always been associated with Catholicism. But in Batavia, the Portuguese-speaking population (the Mardijkers, slaves, and Burghers) was converted to Calvinism under Dutch colonization, forming the Protestant Portuguese community in Indonesia. The original contribution of this study is to examine how and why the Protestant Tugu community in postcolonial Indonesia has maintained its integrity as “Portuguese” and has endured collectively for five centuries. To answer these questions, ethnographic fieldwork was undertaken in Kampung Tugu (and Pejambon) in Jakarta, Indonesia. In particular, we focus on the role of local religious practices, as well as on dimensions of the genealogies, apparel, and music of this quintessentially Creole group" ;
+  schema:author "Raan-Hann Tan" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Repositório Institucional do ISCTE-IUL (ISCTE-IUL)" ;
+  dcterms:subject "Anthropological Studies and Insights", "Asian Studies and History", "Colonialism, slavery, and trade" .

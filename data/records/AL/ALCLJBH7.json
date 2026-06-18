@@ -1,0 +1,106 @@
+{
+  "key": "ALCLJBH7",
+  "uri": "https://medjat.irokosociety.org/id/library/ALCLJBH7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ALCLJBH7",
+  "zotero": {
+    "group": "6479329",
+    "key": "ALCLJBH7",
+    "version": 1487,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ALCLJBH7",
+    "dateAdded": "2026-05-05T01:45:48Z",
+    "dateModified": "2026-05-05T01:45:48Z"
+  },
+  "display": {
+    "title": "Palo Mayombe: The Garden of Blood and Bones",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Frisvold, Nicholaj de Mattos"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "Scarlet Imprint",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "London",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-9567203-9-9",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Frisvold, Nicholaj de Mattos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Palo Mayombe: The Garden of Blood and Bones"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London: Scarlet Imprint, 2011."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-9567203-9-9"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AL/ALCLJBH7.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

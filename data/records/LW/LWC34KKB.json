@@ -1,0 +1,100 @@
+{
+  "key": "LWC34KKB",
+  "uri": "https://medjat.irokosociety.org/id/library/LWC34KKB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LWC34KKB",
+  "zotero": {
+    "group": "6479329",
+    "key": "LWC34KKB",
+    "version": 1098,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LWC34KKB",
+    "dateAdded": "2026-05-19T13:27:52Z",
+    "dateModified": "2026-05-19T13:27:52Z"
+  },
+  "display": {
+    "title": "Abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rafael López Valdés"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "201-202",
+    "abstract": "",
+    "doi": "10.2307/j.ctv11smxrz.47",
+    "url": "https://doi.org/10.2307/j.ctv11smxrz.47",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rafael López Valdés"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "201-202 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.2307/j.ctv11smxrz.47"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LW/LWC34KKB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.2307/j.ctv11smxrz.47"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

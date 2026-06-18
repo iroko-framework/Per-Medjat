@@ -1,0 +1,95 @@
+{
+  "key": "PLXRFH26",
+  "uri": "https://medjat.irokosociety.org/id/library/PLXRFH26",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PLXRFH26",
+  "zotero": {
+    "group": "6479329",
+    "key": "PLXRFH26",
+    "version": 954,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PLXRFH26",
+    "dateAdded": "2026-05-19T13:27:19Z",
+    "dateModified": "2026-05-19T13:27:19Z"
+  },
+  "display": {
+    "title": "The Light Inside: Abakuá Society Arts and Cuban Cultural History",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David H. Brown"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W2978494682",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David H. Brown"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Light Inside: Abakuá Society Arts and Cuban Cultural History"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2003."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PL/PLXRFH26.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

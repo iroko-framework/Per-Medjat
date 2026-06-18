@@ -1,0 +1,119 @@
+{
+  "key": "W4MPAP4L",
+  "uri": "https://medjat.irokosociety.org/id/library/W4MPAP4L",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W4MPAP4L",
+  "zotero": {
+    "group": "6479329",
+    "key": "W4MPAP4L",
+    "version": 831,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W4MPAP4L",
+    "dateAdded": "2026-05-18T18:57:36Z",
+    "dateModified": "2026-05-18T18:57:36Z"
+  },
+  "display": {
+    "title": "Posmrtno oro vo tradiciite na balkanskite Sloveni<br>Posthumous Ritual Dance - <em>Oro</em> - in the Traditions of Balkan Slavs</br>",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Љупчо Ристески"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Studia mythologica Slavica",
+    "publicationTitle": "Studia mythologica Slavica",
+    "bookTitle": "",
+    "journalAbbreviation": "Studia mythologica Slavica",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3",
+    "issue": "",
+    "pages": "133-148",
+    "abstract": "The author researches the act of ritual dancing - oro - and singing in the posthumous ritual complex, which presents one of the most important ritual and magic activities in order to destroy or neutralize the effects of death, and at the same time, to protect the living members of the social community, as a whole.",
+    "doi": "10.3986/sms.v3i0.1832",
+    "url": "https://doi.org/10.3986/sms.v3i0.1832",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Folklore, Mythology, and Literature Studies",
+      "Linguistics and Cultural Studies",
+      "Linguistics and language evolution"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Љупчо Ристески"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Posmrtno oro vo tradiciite na balkanskite Sloveni<br>Posthumous Ritual Dance - <em>Oro</em> - in the Traditions of Balkan Slavs</br>"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Studia mythologica Slavica, 2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "133-148 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3986/sms.v3i0.1832"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folklore, Mythology, and Literature Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Cultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and language evolution"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/W4/W4MPAP4L.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3986/sms.v3i0.1832"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

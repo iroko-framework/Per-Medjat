@@ -1,0 +1,114 @@
+{
+  "key": "PHCF3VKS",
+  "uri": "https://medjat.irokosociety.org/id/library/PHCF3VKS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PHCF3VKS",
+  "zotero": {
+    "group": "6479329",
+    "key": "PHCF3VKS",
+    "version": 2178,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PHCF3VKS",
+    "dateAdded": "2026-05-19T14:19:41Z",
+    "dateModified": "2026-05-19T14:19:41Z"
+  },
+  "display": {
+    "title": "Energy processing by means of power gyrators",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "A. Cid‐Pastor"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "En aquesta tesi doctoral es presenta un mètode sistemàtic per a la síntesi de giradors de potència. A partir d'aquest mètode s'han generat i classificat diverses estructures giradores. Cadascun d'aquests giradors, que poden tenir característiques diferents, pot ser útil en diferents aplicacions.&lt;br/&gt;Des d'un punt de vista circuital, es tracta d'una estructura de dos ports que es caracteritza per algun d'aquests dos grups d'equacions: 1) I1=gV2, I2=gV1 , 2) V1=rI2, V2=rI1, on I1, V1, i I2, V2 són els valors en contínua corresponents als valors de tensió i corrent als ports d'entrada i sortida respectivament, essent g (r) la conductància (resistència) del girador.&lt;br/&gt;En aquesta tesi, les estructures giradores de potència s'han classificat en funció de com transformen una font d'excitació al port d'entrada en la seva representació dual al port de sortida. Segons aquesta classificació es poden distingir tres tipus de giradors: 1) girador de potència de tipus G, 2) girador de potència de tipus G amb corrent d'entrada controlada i 3) giradors de potència de tipus R. Les categories 1 i 2 són les dues possibles solucions de síntesi de les equacions (1), mentre que la categoria 3 correspon a la solució de síntesi de les equacions (2).&lt;br/&gt;A més a més, no existeixen estudis sistemàtics on basant-se en les equacions de definició s'arribi finalment a una verificació experimental. En aquesta tesi es presenta el disseny i anàlisi dels giradors que s'han presentat. L'anàlisi cobreix exhaustivament l'estudi tant del comportament dinàmic com estàtic dels giradors presentats. Aquests giradors es poden considerar com estructures canòniques per al processat de potència.&lt;br/&gt;A més a més, es presenten algunes funcions bàsiques del processat de potència realitzades amb giradors de potència. Com per exemple: conversió tensió-corrent, corrent-tensió, adaptació d'impedàncies i regulació de tensió.&lt;br/&gt;Les característiques de cada girador depenen no només de la topologia convertidora sinó també del funcionament del control del convertidor. S'han investigat dos tècniques de control: el control en mode lliscant i el control no lineal basat en dinàmica zero. Per tant, les estructures giradores proposades poden treballar tant a freqüència constant com a freqüència variable.&lt;br/&gt;Finalment s'han verificat les previsions teòriques mitjançant simulació i verificació experimental. In this thesis, a systematic approach to the synthesis of power gyrators is presented. Based on this approach, several gyrator structures can be generated and classified. Each of these gyrators has its own features and is suitable of different applications.&lt;br/&gt;From a circuit standpoint, a power gyrator is a two-port structure characterized by any of the following two set of equations: 1) I1=gV2, I2=gV1 , 2) V1=rI2, V2=rI1, where I1, V1, and I2, V2 are DC values of current and voltage at input and output ports respectively and g ( r ) is the gyrator conductance ( resistance ).&lt;br/&gt;In this thesis, power gyrator structures are classified by the manner they transform an excitation source at the input port into its dual representation at the output port. Based on this classification, there exist three types of power gyrators: 1) power gyrators of type G, 2) power gyrators of type G with controlled input current and 3) power gyrators of type R. Categories 1 and 2 are the two possible synthesis solutions to the set of equations ( 1 ) while category 3 corresponds to the synthesis solution of ( 2 ).&lt;br/&gt;Thus far, no systematic works have been done starting at the definition equations and ending at the experimental verification. In this thesis, the analysis and design for the disclosed power gyrators are presented. The analysis covers exhaustingly the study of both static and dynamic behavior of the reported power gyrators. These power gyrators presented can be considered as canonical structures for power processing.&lt;br/&gt;Thus, some basic power processing functions done by the presented power gyrators are reported. Namely, voltage to current conversion, current to voltage conversion, impedance matching and voltage regulation.&lt;br/&gt;The performance characteristics of a power gyrator depend not only on the circuit topology but also depend on the converter control operation.&lt;br/&gt;Hence, two main control schemes are investigated, namely, sliding-mode control schemes and zero-dynamics-based PWM nonlinear control. Therefore, the proposed gyrator structures can operate indistinctly at constant or at variable switching frequency.&lt;br/&gt;In addition, experimental and computer simulation results of the power gyrators presented are given in order to verify the theoretical predictions.",
+    "doi": "10.5821/dissertation-2117-93649",
+    "url": "https://doi.org/10.5821/dissertation-2117-93649",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Advanced DC-DC Converters",
+      "Electric Motor Design and Analysis",
+      "Induction Heating and Inverter Technology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "A. Cid‐Pastor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Energy processing by means of power gyrators"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2005."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5821/dissertation-2117-93649"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Advanced DC-DC Converters"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Electric Motor Design and Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Induction Heating and Inverter Technology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PH/PHCF3VKS.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5821/dissertation-2117-93649"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

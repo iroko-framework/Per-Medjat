@@ -1,0 +1,107 @@
+{
+  "key": "CPUAX6Q4",
+  "uri": "https://medjat.irokosociety.org/id/library/CPUAX6Q4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CPUAX6Q4",
+  "zotero": {
+    "group": "6479329",
+    "key": "CPUAX6Q4",
+    "version": 3328,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CPUAX6Q4",
+    "dateAdded": "2026-05-20T16:33:54Z",
+    "dateModified": "2026-05-20T16:33:54Z"
+  },
+  "display": {
+    "title": "Nou La, We Here: Remembrance and Power in the Arts of Haitian Vodou",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Leslie Anne Brice"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "publicationTitle": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Haitian Vodou is vast, accumulative, and constantly in flux, drawing from many sources and traditions as it adapts to changes in the world, as well as to the needs and imaginations of its adherents. With its origins in west and central Africa, along with the strategies for transformation that are at the heart of many religions there, Vodou developed into its current form as a response to forced transatlantic migration, enslavement, encounters with Amerindian traditions, Catholicism, Freemasonry, the complications that emerged in the quest for liberty, the consequences of a successful slave revolt, and the establishment of an independent state. It is largely the last three points that contribute to Vodou's strong military ethos, and with that, Vodou's focus on liberation. Based on field research between 2000 and 2004, in Washington, D.C. and in Haiti, this dissertation examines Vodou visual arts in relation to Haiti's revolutionary history, and how the arts articulate related themes of militarism, liberation, and resistance. Central to this study is remembrance, or the active and purposeful remembering of diverse lived experiences that practitioners evoke, express, and promote through visual and performing arts. Remembrance includes the historical, socioeconomic, political, and sacred realities that shape Vodou practice today and thereby provides a larger context for interpreting visual expressions. Equally important to this interpretation is the sacred world, which includes the spirits, the ancestors, and Vodou cosmological principles. Along the lines of remembrance and the sacred world, this dissertation examines the sacred spaces, altars, and power objects that practitioners create with their own aesthetic sensibilities and cosmological interpretations. It considers how practitioners actively remember and engage the past to empower themselves and their communities in the present. By weaving together the historical, social, the political, and the cosmological, along with an emphasis on practitioner agency, this dissertation underscores the transatlantic scope of Vodou visual creations. In doing so, it brings into focus just how pragmatic this religion and its objects are, and suggests how visuality offers people a sense of self-determinism in their lives.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1903/7746",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Leslie Anne Brice"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Nou La, We Here: Remembrance and Power in the Arts of Haitian Vodou"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Repository at the University of Maryland (University of Maryland College Park), 2007."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/CP/CPUAX6Q4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

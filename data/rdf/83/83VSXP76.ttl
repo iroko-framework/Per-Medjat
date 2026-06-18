@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/83VSXP76>
+  a schema:Chapter ;
+  schema:name "Carnival and Ñáñiguismo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=83VSXP76> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:83VSXP76" ;
+  schema:description "Abstract The focus of this chapter—“Carnival and Ñáñiguismo: Poetic Syncretism in Alejo Carpentier's ‘Juego santo’”—is a little-studied poem by one of the earliest literary proponents of Afrocubanismo. This chapter begins with a brief exploration of Carpentier's decisive role as a founder of this artistic and cultural movement, but the focus is on the poem itself and, more specifically, its relationship to and evocation of Afro-Cuban carnival traditions. The chapter demonstrates how—in an act of poetic syncretism—Alejo Carpentier melds two public spectacles that had long been associated with Ñáñiguismo, or the Abakuá secret society: semi-public, sacred processions that were performed as part of ñáñigo initiation ceremonies, and carnivalesque “comparsas ñáñigas,” which first emerged during nineteenth-century Día de Reyes celebrations, and then eventually became integrated into traditional carnival festivities." ;
+  schema:author "Thomas F. Anderson" ;
+  schema:datePublished "2011" ;
+  schema:sameAs <https://doi.org/10.5744/florida/9780813035581.003.0003> ;
+  dcterms:identifier "doi:10.5744/florida/9780813035581.003.0003" ;
+  dcterms:subject "Cultural and Social Studies in Latin America", "Latin American history and culture" .

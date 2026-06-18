@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/P72Z9FZV>
+  a schema:ScholarlyArticle ;
+  schema:name "Plantas utilizadas en las ceremonias de la sociedad secreta Abakua: Trabajo etnobotánico de los ritos del Vudú" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=P72Z9FZV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:P72Z9FZV" ;
+  schema:description "Among afrocuban rituals we have studied these of the Abakua's secret society. Several plants are used in the production of spiritual waters' like Ocimum basilicum, Partenium hysterophorus, Ceiba pentandra, etc. Usually, the plants used in these rituals aren't of african origin but useful and common ones in everyday's life. Like in other afrocuban religions, plants are wdely used in their rituals, as the seven sacred herbs or the seven sacred woods. We have made an etnobotanical study of these plants." ;
+  schema:author "V.R Fuentes Fiallo" ;
+  schema:datePublished "2000" ;
+  schema:publisher "Natura Medicatrix: Revista médica para el estudio y difusión de las medicinas alternativas" ;
+  dcterms:subject "African cultural and philosophical studies" .

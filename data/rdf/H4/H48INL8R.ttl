@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/H48INL8R>
+  a schema:ScholarlyArticle ;
+  schema:name "Les objets vivants des religions afro-cubaines : ontologies, biologies, écosystèmes" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=H48INL8R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:H48INL8R" ;
+  schema:description "Cet article porte sur certains objets rituels des religions afro-cubaines qui sont considérés comme vivants : colliers de la santería qui « parlent », poupées du spiritisme qui « fument », tambours des Abakuá qui « procréent », chaudrons du palo monte qui « se croient vivants ». Pour les pratiquants de ces religions, ces objets sont plus que de simples représentations de divinités et d’esprits mais de véritables incarnations ; ils sont dotés d’intentionnalité et de capacité d’action mais aussi des propriétés et des besoins propres aux êtres vivants : soif, faim, chaleur, croissance, désirs… L’objectif de cet article est d’examiner les processus techniques, matériels et rituels par lesquels la vie vient à ces artefacts. Quelles actions, quelles interactions, quels gestes sont impliqués dans la chaîne opératoire qui transforme un assemblage de matières inertes en une entité vivante et agissante ? L’étude porte aussi sur la composition matérielle de cette vie artificielle et tâche de révéler les logiques intrinsèques qui attribuent à certaines substances et actions la capacité d’engendrer la vie. Finalement elle s’intéresse à la vie de ces objets dans leur « habitat naturel ». Nous verrons comment leur environnement impacte leur manière d’interagir avec les pratiquants mais aussi avec les autres objets." ;
+  schema:author "Katerina Kerestetzi" ;
+  schema:datePublished "2021" ;
+  schema:publisher "Cahiers d anthropologie sociale" ;
+  schema:sameAs <https://doi.org/10.3917/cas.019.0088> ;
+  dcterms:identifier "doi:10.3917/cas.019.0088" ;
+  dcterms:subject "Environmental and Cultural Studies in Latin America and Beyond", "Geographies of human-animal interactions", "Literary and Cultural Studies" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IXYVLFVG>
+  a schema:Thesis ;
+  schema:name "Illicit Mobilities and Wandering Lives: Indigent Transiency in the Mid-Atlantic, 1816-1850" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IXYVLFVG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IXYVLFVG" ;
+  schema:description "This dissertation is a social history of indigent transiency, written using the records of criminal justice systems and poor relief infrastructure in order to examine the lives, experiences, and socio-political significance of vagrants and pauper migrants in the Mid-Atlantic between 1816 and 1850. It examines the causes for and consequences of illicit mobilities in this period, and argues that the policing of vagrancy and pauper mobility demonstrate key interpretations of the role of the state in defining and regulating class. It is the first study to link conceptually indigent transiency with the policing of vagrancy, limitations on the movement of African Americans, forced transportation of the wandering poor, and management of the spread of disease in this period.&#13;\\nThis study follows the vagrants and pauper migrants whose geographical movements were at odds with settlement laws, state constitutions, and welfare policies. It charts how the itinerant poor were forcibly transported to places deemed by the state to be their legal settlement through the process of pauper removal long after most historians acknowledge removal to have ended. It also considers the ways in which fugitive slaves and runaway servants experienced a transition from the oppression of an unfree labour status to the oppression of poverty after participating in illicit forms of mobility.&#13;\\nThis dissertation advances one central argument: that indigent transiency, in its many shapes and through the varied forms of its management, contributed significantly to contemporary understandings of citizenship, community, labour status, freedom of movement, the spread of disease, and the transformation of punishment in the early American republic. It proposes that indigent transiency was among the most important factors in determining how the poor lived, interacted with, and were viewed by local and state governments and their representatives, both under the law and by law enforcement, in this period." ;
+  schema:author "Kristin O’Brassill-Kulfan" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Leicester Research Archive (University of Leicester)" ;
+  dcterms:subject "American History and Culture", "Latin American and Latino Studies", "Race, History, and American Society" .

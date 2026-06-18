@@ -1,0 +1,128 @@
+{
+  "key": "5JA7MW82",
+  "uri": "https://medjat.irokosociety.org/id/library/5JA7MW82",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5JA7MW82",
+  "zotero": {
+    "group": "6479329",
+    "key": "5JA7MW82",
+    "version": 702,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5JA7MW82",
+    "dateAdded": "2026-05-18T18:57:30Z",
+    "dateModified": "2026-05-18T18:57:30Z"
+  },
+  "display": {
+    "title": "Fíbula de codo tipo Huelva en el entorno norte de la Vega de Granada",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Javier Carrasco Rus"
+      },
+      {
+        "role": "editor",
+        "name": "Juan Antonio Pachón Romero"
+      }
+    ],
+    "year": "2001",
+    "date": "2001",
+    "publisher": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla",
+    "publicationTitle": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla",
+    "bookTitle": "",
+    "journalAbbreviation": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "10",
+    "pages": "235-248",
+    "abstract": "El hallazgo de una nueva fíbula de codo 'tipo Huelva', en el borde norte de la Vega de Granada, contribuye a ratificar la importancia del Sureste y, concretamente, de la provincia de Granada en el desarrollo de la metalurgia del Bronce Final hispano. La composición de su aleación, pobre en estaño y con presencia de arsénico, la adscribe al grupo granadino como una producción más de los talleres metalúrgicos existentes, al tiempo que la separa del conjunto de la Ría de Huelva y del oeste peninsular. Por otro lado, su exclusiva decoración con botones de oro le confiere un carácter suntuario que debemos poner en relación con los rituales propios del mundo funerario y de prestigio de las clases sociales eminentes en las últimas comunidades prehistóricas. Todo ello en íntima conexión con los problemas del intercambio de bienes, la precolonización, las interrelaciones mediterráneas y la extensión del uso de tejidos de lujo.",
+    "doi": "10.12795/spal.2001.i10.16",
+    "url": "https://doi.org/10.12795/spal.2001.i10.16",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeological and Geological Studies",
+      "Archaeological and Historical Studies",
+      "Historical Studies of Medieval Iberia"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Javier Carrasco Rus"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Fíbula de codo tipo Huelva en el entorno norte de la Vega de Granada"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla, 2001."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "235-248 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.12795/spal.2001.i10.16"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeological and Geological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeological and Historical Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies of Medieval Iberia"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Juan Antonio Pachón Romero"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/5J/5JA7MW82.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.12795/spal.2001.i10.16"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

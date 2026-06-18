@@ -1,0 +1,102 @@
+{
+  "key": "T96EZ6XJ",
+  "uri": "https://medjat.irokosociety.org/id/library/T96EZ6XJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=T96EZ6XJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "T96EZ6XJ",
+    "version": 1692,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/T96EZ6XJ",
+    "dateAdded": "2026-05-19T14:17:34Z",
+    "dateModified": "2026-05-19T14:17:34Z"
+  },
+  "display": {
+    "title": "The Politics and culture of literacy in Georgia, 1800-1920",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "James Bruce Fort"
+      }
+    ],
+    "year": "1999",
+    "date": "1999",
+    "publisher": "Libra",
+    "publicationTitle": "Libra",
+    "bookTitle": "",
+    "journalAbbreviation": "Libra",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation examines the uses and meanings of reading in the nineteenth­ century American South. In a region where social relations were largely defined by slavery and its aftermath, contests over education were tense, unpredictable, and frequently bloody. Literacy figured centrally in many of the region's major struggles: the relationship between slaveowners and slaves, the competing efforts to create and constrain black freedom following emancipation, and the disfranchisement of black voters at the turn of the century. Education signified piety and propriety, self-culture and self-control, all virtues carefully cultivated and highly prized in nineteenth-century America. Early advocates of public schooling argued that education and citizenship were indissociable, a sentiment that was refined and reshaped over the course of the nineteenth century. The effort to define this relationship, throughout the century a leitmotif of American public life, bubbled to the surface in the South at critical moments: during the early national period, as Americans sought to put the nation's founding principles into motion; during the 1830s, as insurrectionists and abolitionists sought to undermine slavery; during Reconstruction, with the institution of black male citizenship; and at last, during the disfranchisement movement of the 1890s and 1900s, with the imposition of literacy tests. This study examines each of these episodes in turn, focusing especially on how iii the ideology of literacy was contested and redefined, how the ability to read and write came to stand for moral, social, and civic worthiness, and how that perception of worthiness was, by the end of the nineteenth century, cynically and perversely twisted into a justification for disfranchisement under the guise of what was blandly and misleadingly termed \"qualified suffrage.\" The capricious manner in which literacy tests were administered made a mockery of the ideals of an informed citizenry. White Democrats sometimes drew on the language of principle as they wrote the disfranchisement laws, but they had their eyes fixed firmly on the bottom line: their goal was to solidify their political and racial domination by eliminating black voters from the rolls. Disfranchisement left the political process atrophied and hollow in the Southern states for the next sixty-five years. Note: Abstract extracted from PDF file via OCR.",
+    "doi": "10.18130/v3t930",
+    "url": "https://doi.org/10.18130/v3t930",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Media, Communication, and Education"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "James Bruce Fort"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Politics and culture of literacy in Georgia, 1800-1920"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Libra, 1999."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18130/v3t930"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Media, Communication, and Education"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/T9/T96EZ6XJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18130/v3t930"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

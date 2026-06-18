@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8C7BRIYB>
+  a schema:ScholarlyArticle ;
+  schema:name "Cuban Abakuá Chants: Examining New Linguistic and Historical Evidence for the African Diaspora" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8C7BRIYB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8C7BRIYB" ;
+  schema:description "Abstract: The Cuban Abakuá society—derived from the Èfik Ékpè and Ejagham Úgbè societies of southeastern Nigeria and southwestern Cameroon—was founded in Havana in the 1830s by captured leaders of Cross River villages. This paper examines the process by which West African Ékpè members were able to understand contemporary Cuban Abakuá chants, and indicates how these texts may be used as historical documents. This methodology involves first recording and interpreting Abakuá chants with Cuban elders, and then interpreting these same chants with the aid of West African Èfik speakers. The correlation of data in these chants with those in documents created by Europeans and Africans from the eighteenth to twentieth centuries indicates a vocabulary that includes many geographic and ethnic names and an occasional historical figure. These examples may lead to a reevaluation of the extent to which African identity and culture were transmitted during the transAtlantic diaspora. Abakuá intellectuals have used commercial recordings to extol their history and ritual lineages. Evidence indicates that Cuban Abakuá identity is based on detailed knowledge of ritual lineages stemming from specific locations in their homelands, and not upon a vague notion of an African “national” or “ethnic” identity. The persistence of the Abakuá society contradicts the official construction of a Cuban national identity." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2005" ;
+  schema:publisher "African Studies Review" ;
+  schema:sameAs <https://doi.org/10.1353/arw.2005.0030> ;
+  dcterms:identifier "doi:10.1353/arw.2005.0030" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Race, History, and American Society" .

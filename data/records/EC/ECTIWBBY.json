@@ -1,0 +1,107 @@
+{
+  "key": "ECTIWBBY",
+  "uri": "https://medjat.irokosociety.org/id/library/ECTIWBBY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ECTIWBBY",
+  "zotero": {
+    "group": "6479329",
+    "key": "ECTIWBBY",
+    "version": 1800,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ECTIWBBY",
+    "dateAdded": "2026-05-19T14:18:04Z",
+    "dateModified": "2026-05-19T14:18:04Z"
+  },
+  "display": {
+    "title": "Antjie/Andries Somers: decoding the bodily inscriptions of a South African folklore character",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Maryne Steenekamp"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+    "publicationTitle": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+    "bookTitle": "",
+    "journalAbbreviation": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The Antjie/Andries Somers folklore character invites different decodings since it has many different&#13;\\ninscriptions. These proposed inscriptions aids this research project to explore the historical value&#13;\\nthis folklore character exhibits when compared to changes in South African social and political&#13;\\nclimates since the abolishment of the slave laws in 1834 until the present.&#13;\\nThis symbiotic relationship between culture and character, as well as the continuous restructuring&#13;\\nof the character, is explored in an attempt to understand the changing fears and anxieties projected&#13;\\nonto the Antjie/Andries Somers persona. This cultural icon also underwent a continuous number of&#13;\\ndifferent interpretations and manifestations as experienced by the Afrikaans speaking community&#13;\\nduring the past centuries.&#13;\\nThe body with relation to gender is another pivotal point regarding the Antjie/Andries Somers&#13;\\nfolklore as well as the question concerning the physical change from male to female. This relates to&#13;\\nthe controversy surrounding a woman as an object of “evil” that is investigated through the different&#13;\\nmythologies regarding the origin of sin using the biblical character of Eve. These explorations of&#13;\\n“evil” as an inscription on women is further examined against the backdrop of the patriarchal&#13;\\nsociety and some of the many dominant religious practices from that time.&#13;\\nDespite a vast archive of information on the various embodiments of Antjie/Andries Somers, the&#13;\\ncharacter as well as the embodiments, is still shrouded in mystery and the research project aims to&#13;\\nprovide information about some of these manifestations.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10539/10449",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural Identity and Representation",
+      "Folklore, Mythology, and Literature Studies",
+      "Philippine History and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Maryne Steenekamp"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Antjie/Andries Somers: decoding the bodily inscriptions of a South African folklore character"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg), 2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural Identity and Representation"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folklore, Mythology, and Literature Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Philippine History and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EC/ECTIWBBY.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

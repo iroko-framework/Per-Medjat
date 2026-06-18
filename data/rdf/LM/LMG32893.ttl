@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LMG32893>
+  a schema:Thesis ;
+  schema:name "\"Right and Ready\": The law practice of Nathaniel Hart Davis, 1850--1883 (Texas)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LMG32893> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LMG32893" ;
+  schema:description "Historians are unfamiliar with the frontier attorney. We know little of who he represented, what types of cases he litigated and his day-to-day labors. Nathaniel Hart Davis practiced law in Montgomery, Texas from 1850 to 1883; by examining his career we may shed light on these issues.\\nDavis specialized in civil law. Debt collection dominated his practice, but he also litigated land disputes, probate, slave law and divorce cases. He represented the propertied citizens of Montgomery, nearly always acting on behalf of the plaintiff. His energies were devoted primarily to out-of-court tasks: gathering information, tracking down debtors, buying and selling real estate for speculators, and disposing of probate property and debts.\\nDavis was not the stereotypical incompetent, ignorant, parasitical frontier attorney. A cautious, learned man, Davis fulfilled a vital role in his community. He tried to ensure relatively smooth business transactions in an unstable Texas economy." ;
+  schema:author "Brian Dirck" ;
+  schema:datePublished "1991" ;
+  schema:publisher "Rice Digital Scholarship Archive (Rice University)" ;
+  dcterms:subject "American History and Culture", "Archaeology and Natural History", "Latin American and Latino Studies" .

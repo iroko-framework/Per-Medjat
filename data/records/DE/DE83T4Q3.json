@@ -1,0 +1,107 @@
+{
+  "key": "DE83T4Q3",
+  "uri": "https://medjat.irokosociety.org/id/library/DE83T4Q3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DE83T4Q3",
+  "zotero": {
+    "group": "6479329",
+    "key": "DE83T4Q3",
+    "version": 1764,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DE83T4Q3",
+    "dateAdded": "2026-05-19T14:17:53Z",
+    "dateModified": "2026-05-19T14:17:53Z"
+  },
+  "display": {
+    "title": "Diasporic identities, autochthonous rights: Race, gender, and the cultural politics of Creole land rights in Nicaragua",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jennifer Goett"
+      }
+    ],
+    "year": "2006",
+    "date": "2006",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This project began the first summer I went to Nicaragua in 1998 and continues",
+    "doi": "",
+    "url": "http://hdl.handle.net/2152/2870",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Land Rights and Reforms"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jennifer Goett"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Diasporic identities, autochthonous rights: Race, gender, and the cultural politics of Creole land rights in Nicaragua"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2006."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Land Rights and Reforms"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/DE/DE83T4Q3.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

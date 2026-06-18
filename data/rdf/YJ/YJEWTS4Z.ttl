@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YJEWTS4Z>
+  a schema:ScholarlyArticle ;
+  schema:name "A lo cubano: taniec i reprezentacje kubańskości w kontekście turystyki kulturowej" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YJEWTS4Z> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YJEWTS4Z" ;
+  schema:description "Artykuł analizuje sposoby, w jakie, w warunkach dynamicznych przemian zachodzących na Kubie, niematerialne dziedzictwo kulturowe staję się podstawowym zasobem generującym dochód, zanurzonym w skomplikowanych sieciach wyobrażeń i reprezentacji kreowanych przez przemysł turystyczny. W związku ze wzrostem znaczenia turystyki opartej na doświadczeniu (‘experiential tourism’ Salazar 2011), praktyki cielesne (w tym taniec) zajmują kluczową pozycję nie tylko dla instytucji zajmujących się ochroną i promocją dziedzictwa kulturowego, ale również w przypadku małych przedsiębiorstw stanowiących dla Kubańczyków alternatywne źródła dochodu poza sektorem państwowym. Szkoły tańca oraz rosnąca popularność tańców kubańskich poza wyspą pokazują, w jaki sposób następuje przyswajanie i adaptacja niektórych turystycznych wyobrażeń w lokalnej narracji o kubańskości oraz jak ciała nabierają walorów transakcyjnych. Realia gospodarcze i nierówności społeczne wynikające z kontaktów z obcokrajowcami skutkują twórczym podejściem do zysków, utrwalając jednocześnie oczekiwania i fantazje dotyczące Kuby. Niejednokrotnie zjawisko to jest silnie naznaczone rasowo, jako że wielu ciemnoskórych Kubańczyków może wykorzystać pozory „rasowej autentyczności” w przestrzeniach związanych z tańcem. Artykuł opiera się na materiałach zgromadzonych w trakcie kilkumiesięcznych badań terenowych prowadzonych w Hawanie w latach 2015-2016 oraz 2018 wśród profesjonalnych tancerzy, instruktorów i właścicieli szkół tańca." ;
+  schema:author "Ruxandra Ana" ;
+  schema:datePublished "2018" ;
+  schema:publisher "LUD Organ Polskiego Towarzystwa Ludoznawczego i Komitetu Nauk Etnologicznych PAN" ;
+  schema:sameAs <https://doi.org/10.12775/lud102.2018.16> ;
+  dcterms:identifier "doi:10.12775/lud102.2018.16" ;
+  dcterms:subject "Cuban History and Society", "Sport and Mega-Event Impacts", "Sports and Physical Education Studies" .

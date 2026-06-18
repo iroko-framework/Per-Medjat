@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/S7FTHMKX>
+  a schema:ScholarlyArticle ;
+  schema:name "A spiritual contact zone. Re-inventing Ritual Space in The Netherlands' Afrika Museum" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=S7FTHMKX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:S7FTHMKX" ;
+  schema:description "The research project Holy Ground, led by Paul Post and Arie Molendijk, has drawn attention to the process of 're-inventing ritual space in modern Western culture' by examining various places, such as 'rooms of silence and memorial shrines for victims of disease and violence'. Here we want to address 'the art museum as a ritual site', especially with regard to a major exhibition that sought to bring religious experiences across. Our case is Roots &amp; More: The Journey of the Spirits, a roundbreaking exhibition in the Netherlands' Afrika Museum, focusing on spirituality in the art from the African diaspora. 'At the heart of the exhibition', states curator Wouter Welling, 'we can recognise a magical consciousness, which, despite the Enlightenment, we have never lost touch with'. Or as Irene Hübner, the director of the Afrika Museum, phrases it: 'A striking aspect that will undoubtedly come to the fore is that the concept of a world where humans and spirits interact, is not that different from old magico-religious practices in the West.' What is more, many 'Western secular individuals' seem to be on a spiritual quest. Therefore, Hübner suggests, the exhibition 'can also be a journey to a spiritual motherland for them'. In other words, the makers of Roots &amp; More considered the ritual space of the Afrika Museum a spiritual contact zone." ;
+  schema:author "Elise Kleuskens" ;
+  schema:creator "Suzanne Thijs", "Mariske Westendorp", "H.J.M. Venbrux" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Data Archiving and Networked Services (DANS)" ;
+  dcterms:subject "Anthropological Studies and Insights", "Philippine History and Culture", "Religious Tourism and Spaces" .

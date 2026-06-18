@@ -1,0 +1,107 @@
+{
+  "key": "6FIP9SHP",
+  "uri": "https://medjat.irokosociety.org/id/library/6FIP9SHP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6FIP9SHP",
+  "zotero": {
+    "group": "6479329",
+    "key": "6FIP9SHP",
+    "version": 3768,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6FIP9SHP",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Global Indios: The Indigenous Struggle for Justice in Sixteenth-Century Spain",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alcira Dueñas"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Hispanic American Historical Review",
+    "publicationTitle": "Hispanic American Historical Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Hispanic American Historical Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "96",
+    "issue": "3",
+    "pages": "562-564",
+    "abstract": "In the midst of the Spanish conquest of America, captives from various global settings were forced out of their native homelands and moved by their masters across the oceans and closer to the king's seat. From that locus, slaves later approached the podiums of the royal courts to challenge the crown by using its own legal discourse of freedom. Nancy van Deusen has written a masterpiece of early modern ethnohistory that brings to light a veritable diaspora of indigenous slaves in Spain, while expanding the meaning of indio as a global and changing identifier constructed outside the colonial confines of America.Van Deusen argues that multiple descriptions of indio emerged in the royal courtrooms, streets, and households of Castile between 1530 and 1585. Encapsulated in 127 lawsuits, the captives' stories and constructed identities revealed a life in movement from local to global loci. A byproduct of the Iberian transoceanic expansion that forced them into a mobile diaspora, slaves from North and West Africa and from South and Southeast Asia found themselves sharing domestic and legal spaces with their masters, in a movable “indioscape” that linked the early modern world. True subjects, Indian slaves in Spain held memories and a sense of belonging to their places of origin (“rootedness”) while being aware of the time and location where their enslavement and displacement (“routedness”) had begun (p. 13).The bondage journey starts in Carmona, a global village in the vicinity of Seville in 1554, where Felipa and Beatríz undertook their legal fight for freedom. These cases foreground identitary politics, the courtroom culture, and the slaves' social milieu and networks central to the book. Considering slavery as a process of continual “becoming” (p. 65), van Deusen explores the circumstances and places where captivity had begun, slaves' work lives and fears, and the social tensions in the Castilian households. Chapter 3 examines the problematic enforcement of freedom and the mechanisms that Spain prepared to implement antislavery laws (the 1543 and 1549 inspections). Lawyers and clerics debunked the notion of natural slavery, but slaves found themselves in a perpetually ambivalent state between bondage and freedom.Examining the effects of legal culture, chapter 4 demonstrates how the category indio was formed in the courtroom through processes, expert witnesses, evidence, and the power of the legal documents, which seemed to acquire significant autonomy. Legal formalities became fetishes that eventually created an imperial knowledge of bondage. A discussion of the legal tenets of natural slavery (just war, rescate), in chapter 5, explains the legal strategies that petitioners crafted to avoid associations with naturalezas akin to those of natural slaves. Using physiognomic variables, language, and declaring provenance from interimperial disputed territories (chapters 6 and 7) was strategic for slaves from disparate global spots (Indonesian Moluccas, the borderlands between Rio de Janeiro and Buenos Aires, and Burma in Southeast Asia). Litigants expected that recognition as indios entitled them to freedom. Van Deusen thus identifies the “floating” quality of the category indio, as slaves from distant places imagined themselves and their origin differently, especially where the imperial borders were fuzzy and sovereignty a matter of legal dispute. These subjects were “transimperial indios” who contributed to the making of the early modern world.Overall, van Deusen's book is of paramount importance as it raises crucial questions about ethnic identity formation and the royal ambivalence about Indian freedom. One wonders if “global indios” in Castile mirror in any way the thousands of Andeans forced out of their homelands to work in Potosí after 1535, even though they were not legally acknowledged to be slaves. How did these diasporic miners see themselves in unfamiliar environs? In particular, readers may wonder if Amerindians in the Andes also raised petitions for freedom in areas where early indigenous slavery, both local and global, persisted through the 1600s (p. 224). From Tatiana Seijas's Asian Slaves in Colonial Mexico: From Chinos to Indians (2014) we learn that, hoping to become indios, chinos (from the Philippines) filed petitions to regain freedom in colonial Mexico. But much more remains to be said about how Indian slaves in Peru, Central America, and Mexico used the courts for freedom, like their counterparts in Castile did, or otherwise. Thus, van Deusen's conclusions about Indian slaves' struggles for justice would have a dialogic perspective from both sides of the Atlantic in future research.In another vein, van Deusen argues that identities were constructed in a relational manner, among other forms (p. 12). Provided that the appropriate documentation is available, and to better assess native plaintiffs' legal agency, it would be important to also focus on indigenous slaves' own perceptions and descriptions of their masters in the courtroom, a relational construction of slaveholders' identity. Did enslaved Indians attempt to present their captors in a particular light? What impact did these depictions have on the legal outcome?Lastly, van Deusen's incisive perspective on the creation of “indioness” and the legal pursuits of Indian slaves in the Castilian courts destabilizes afresh Immanuel Wallerstein's world-systems theory, which attempted to explain the rise of the West by differentiating discrete cores and peripheries. Global Indios, among other well-known critical approaches not only unveils the very presence of the peripheries at the core of the Spanish empire (“decentering the center” [p. 228]) but also illuminates how the former changed the historical consciousness of the latter.",
+    "doi": "10.1215/00182168-3601742",
+    "url": "https://doi.org/10.1215/00182168-3601742",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alcira Dueñas"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Global Indios: The Indigenous Struggle for Justice in Sixteenth-Century Spain"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Hispanic American Historical Review, 2016."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "562-564 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/00182168-3601742"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/6F/6FIP9SHP.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/00182168-3601742"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

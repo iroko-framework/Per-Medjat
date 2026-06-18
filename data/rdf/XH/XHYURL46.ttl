@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XHYURL46>
+  a schema:Thesis ;
+  schema:name "Jornalero: Indigenous Migrant Farmworkers along the U.S./Mexican Border" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XHYURL46> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XHYURL46" ;
+  schema:description "On March 17, 2015, tens of thousands of migrant jornaleros (rural salaried farmworkers) began a three-month long general strike that brought agricultural production to a grinding halt in the valley of San Quintín, Baja California, Mexico. The striking workers called themselves the “slaves of the twenty-first century” for being displaced from their communities of origin to work ten- to twelve-hour shifts seven days a week for an average pay of 100 pesos a day (roughly U.S.$6) without the benefits and protections afforded by Mexican labor law. \\n\\nThis dissertation contributes to an understanding of how the intersections of race, ethnicity, gender, and class, make migrant farmworkers in Mexico extremely vulnerable to exploitation. Through collaborative and engaged research, I demonstrate and analyze the precarious conditions in which migrant farmworkers live and work. Despite this exploitation, through decades of farm labor and indigenous rights organizing, farmworkers have been active protagonists in struggles aimed at democratizing global agricultural enclaves in northern Mexico. I document and analyze their struggles for labor and indigenous rights, including the birth of Mexico’s first independent farmworker union. As well, I analyze corporate-sponsored programs of fair and equitable food that in their own way seek to improve labor conditions on transnational agricultural plantations with varying degrees of success. \\n\\nDue to economic globalization and free trade programs like the North American Free Trade Agreement (NAFTA), the U.S. and Mexican economies are intimately linked. Consumers on the U.S. side of the border contribute to the unjust conditions in the fields on the Mexican side through the consumption of fruits and vegetables made under conditions of extreme economic and social precarity. This research seeks to contribute to better understanding the living and working conditions of indigenous Mexican farmworkers in global agricultural enclaves along the U.S./Mexican border. Through research and advocacy it may be possible to end abuses and exploitation in global food commodity chains." ;
+  schema:author "James Daria" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Scholars' Bank (University of Oregon)" ;
+  dcterms:subject "Migration and Labor Dynamics", "Migration, Ethnicity, and Economy" .

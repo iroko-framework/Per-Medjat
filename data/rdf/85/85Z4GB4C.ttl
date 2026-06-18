@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/85Z4GB4C>
+  a schema:Thesis ;
+  schema:name "Conflitos entre jesuitas e colonos na America Portuguesa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=85Z4GB4C> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:85Z4GB4C" ;
+  schema:description "The present work analyses the conflicts between the Jesuits and the \"colonos\", that happened after the publication of the document from Urbano VIII, Commissum Nobis, in 22/04/1639, about the freedom of the Americans Indians, which threatened with excommunication everyone that held a Indian as a slave. The studied zones of conflicts correspond the modern Brazilian States of Maranho, Rio de Janeiro e So Paulo. The essence of these conflicts were in the difficult relationship between the \"colonos\" and the members of Jesus Company, about the Indians labour administration. The laws that controlled the Indian slavery hesitated between the freedom and the slavery of the Indians, and sometimes had been benefitted also the Jesuits and also the \"colonos\". All these events happened in the Portuguese America Colonization, inside of the Old Colonial System, which labour that had been adopted was the compulsory labour." ;
+  schema:author "Joely Aparecida Ungaretti Pinheiro" ;
+  schema:datePublished "2007" ;
+  schema:sameAs <https://doi.org/10.47749/t/unicamp.2007.399018> ;
+  dcterms:identifier "doi:10.47749/t/unicamp.2007.399018" ;
+  dcterms:subject "History of Colonial Brazil", "Migration, Racism, and Human Rights" .

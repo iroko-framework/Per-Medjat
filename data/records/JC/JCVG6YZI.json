@@ -1,0 +1,113 @@
+{
+  "key": "JCVG6YZI",
+  "uri": "https://medjat.irokosociety.org/id/library/JCVG6YZI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JCVG6YZI",
+  "zotero": {
+    "group": "6479329",
+    "key": "JCVG6YZI",
+    "version": 3594,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JCVG6YZI",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "The Cartography of Slavery and the Authority of Statistics",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Susan Schulten"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Civil War history",
+    "publicationTitle": "Civil War history",
+    "bookTitle": "",
+    "journalAbbreviation": "Civil War history",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "56",
+    "issue": "1",
+    "pages": "5-32",
+    "abstract": "Over the west staircase of the Senate wing of the U.S. Capitol hangs an iconic image of American history, entitled First Reading of the Emancipation Proclamation of President Lincoln (see figure Painted by Francis Bicknell Carpenter in 1864, it portrays Lincoln's announcement of emancipation to his cabinet in July 1862. The painting immortalized a particular version of events and a narrative of Lincoln as the Great Emancipator which only grew over the next century. To create the painting, Carpenter spent six months in the White House, and he recorded his experience in a memoir published just after the president's assassination. In 2005, the painting's cultural currency was renewed when it appeared in lithographic form on the cover of Doris Kearns Goodwin's bestselling Team of Rivals. Goodwin uses the painting to imagine that moment when Lincoln, surrounded by battlefield maps on racks, in folios, and leaning against the walls, transformed the war into a moral contest. In Goodwin's telling, as in Carpenter's painting and American civic memory, Lincoln's decision is treated as a defining moment of moral courage.",
+    "doi": "10.1353/cwh.0.0141",
+    "url": "https://doi.org/10.1353/cwh.0.0141",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Susan Schulten"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Cartography of Slavery and the Authority of Statistics"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Civil War history, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "5-32 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/cwh.0.0141"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/JC/JCVG6YZI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/cwh.0.0141"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

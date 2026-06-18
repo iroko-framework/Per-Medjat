@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/35TZB6N9>
+  a schema:ScholarlyArticle ;
+  schema:name "Crime-Reporting Practices Among Market Women in Oyo, Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=35TZB6N9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:35TZB6N9" ;
+  schema:description "Crime surveys of businesses have revealed that while crimes in which men were victims tend to be reported, those in which women were victims are likely to go unreported to the police. Understanding the reasons behind male reporting and female non-reporting is useful not only for collection of crime statistics but also for improving crime control competences of law enforcement agencies. This article examines the impact of crime involving market women on their crime-reporting practices in Oyo town, Oyo State, Nigeria. The study adopted quantitative and qualitative approaches. Copies of a questionnaire were administered to collect quantitative data from randomly selected 210 market women at Akesan, Sabo, and Mosadoba markets in Oyo town. Five focus group discussions, in-depth and key informant interviews were conducted to complement quantitative data. Both data were analyzed. The study found that cultural considerations stand between crime events that hurt the economic interests of women and their readiness to report to the police. Due to the very low confidence that market women have in the ability and willingness of the police to apprehend criminals, they prefer to internalize their losses, take their cases to traditional rulers who use “oro cult” to protect them against criminals, or approach available faith-based options such as churches and mosques. The article concludes that women have economy-enriching roles to play in the context of sustainable security. It therefore suggests that the government should address public safety to enable market women make their modest contribution to Nigeria’s economic development." ;
+  schema:author "Johnson Oluwole Ayodele" ;
+  schema:datePublished "2015" ;
+  schema:publisher "SAGE Open" ;
+  schema:sameAs <https://doi.org/10.1177/2158244015579940> ;
+  dcterms:identifier "doi:10.1177/2158244015579940" ;
+  dcterms:subject "Crime Patterns and Interventions", "Cybercrime and Law Enforcement Studies", "Terrorism, Counterterrorism, and Political Violence" .

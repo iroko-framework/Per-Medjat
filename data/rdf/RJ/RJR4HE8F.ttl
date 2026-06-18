@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RJR4HE8F>
+  a schema:ScholarlyArticle ;
+  schema:name "Slavery and the Rise of the Nineteenth-Century American Economy" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RJR4HE8F> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RJR4HE8F" ;
+  schema:description "The essay considers the claim that slavery played a leading role in the acceleration of US economic growth in the nineteenth century. Although popular among pro-slavery apologists, the proposition fails under rigorous historical scrutiny. The slave South discouraged immigration, underinvested in transportation infrastructure, and failed to educate the majority of its population. It is not even clear that the region produced more cotton than it would have under a counterfactual alternative settlement by free family farmers, on the free-state pattern. The grain of truth in recently popular narratives is that many northerners and business interests were complicit in the crime of slavery: routinely engaging in transactions with slaveholders, even promoting activities that facilitated slavery and the domestic slave trade. Complicity complicates simple historical moralism, but it is quite different from the notion that the prosperity of the nation as a whole derived from slavery in any fundamental way." ;
+  schema:author "Gavin Wright" ;
+  schema:datePublished "2022" ;
+  schema:publisher "The Journal of Economic Perspectives" ;
+  schema:sameAs <https://doi.org/10.1257/jep.36.2.123> ;
+  dcterms:identifier "doi:10.1257/jep.36.2.123" ;
+  dcterms:subject "Economic Theory and Policy", "Political Economy and Marxism", "Taxation and Compliance Studies" .

@@ -1,0 +1,144 @@
+{
+  "key": "ZJCM6CKX",
+  "uri": "https://medjat.irokosociety.org/id/library/ZJCM6CKX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZJCM6CKX",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZJCM6CKX",
+    "version": 94,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZJCM6CKX",
+    "dateAdded": "2026-05-08T21:44:40Z",
+    "dateModified": "2026-05-08T21:44:40Z"
+  },
+  "display": {
+    "title": "El Ayuntamiento de Xalapa y su potestad fiscal: definición, negociación y milicias, 1794-1803",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Celaya Nández, Yovana"
+      }
+    ],
+    "year": "2021",
+    "date": "2021-07-02",
+    "publisher": "Estudios de Historia Novohispana",
+    "publicationTitle": "Estudios de Historia Novohispana",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "65",
+    "issue": "",
+    "pages": "",
+    "abstract": "Analysis of the Xalapa Ayuntamiento's fiscal powers, negotiation with intendants, and militia organization in the Veracruz region, 1794-1803. Directly relevant to the pre-1808 routine administrative period in the people laundering / slave paper framework.",
+    "doi": "10.22201/IIH.24486922E.2021.65.77116",
+    "url": "https://novohispana.historicas.unam.mx/index.php/ehn/article/view/77116",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Bourbon reforms",
+      "New Spain",
+      "Veracruz",
+      "ayuntamientos",
+      "fiscal history",
+      "intendentes",
+      "jurisdicción fiscal",
+      "milicias"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Celaya Nández, Yovana"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El Ayuntamiento de Xalapa y su potestad fiscal: definición, negociación y milicias, 1794-1803"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Estudios de Historia Novohispana, 2021."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.22201/IIH.24486922E.2021.65.77116"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bourbon reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "New Spain"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Veracruz"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "ayuntamientos"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "fiscal history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "intendentes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "jurisdicción fiscal"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "milicias"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ZJ/ZJCM6CKX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.22201/IIH.24486922E.2021.65.77116"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

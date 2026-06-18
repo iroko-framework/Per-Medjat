@@ -1,0 +1,119 @@
+{
+  "key": "EW3K8LAN",
+  "uri": "https://medjat.irokosociety.org/id/library/EW3K8LAN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EW3K8LAN",
+  "zotero": {
+    "group": "6479329",
+    "key": "EW3K8LAN",
+    "version": 4128,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EW3K8LAN",
+    "dateAdded": "2026-06-17T15:31:08Z",
+    "dateModified": "2026-06-17T15:31:08Z"
+  },
+  "display": {
+    "title": "The Power of Language and the Language of Power: Sociolinguistic Methods and Social Histories of Language and Political Power in Mobutu’s Congo-Zaire (1965–1997)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Joshua Castillo"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "History in Africa",
+    "publicationTitle": "History in Africa",
+    "bookTitle": "",
+    "journalAbbreviation": "History in Africa",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "50",
+    "issue": "",
+    "pages": "7-39",
+    "abstract": "Abstract This article argues for the potential of sociolinguistic methods to write post-colonial African history using a case study of the Mobutu regime’s use of Lingala as its language of power ( langue du pouvoir ) in order to rule Congo-Zaire. Oral history interviews conducted in DRC from 2019 to 2021, corroborated by sociolinguistic and political science analyses from the period under study, reveal how the Mobutu regime’s use of Lingala contributed to the privatization of the Zairian state, and the fracturing of Zairian society, but also the strengthening of Zairian and later Congolese national identity.",
+    "doi": "10.1017/hia.2022.13",
+    "url": "https://doi.org/10.1017/hia.2022.13",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Interpreting and Communication in Healthcare",
+      "Linguistic and Sociocultural Studies",
+      "Multilingual Education and Policy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Joshua Castillo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Power of Language and the Language of Power: Sociolinguistic Methods and Social Histories of Language and Political Power in Mobutu’s Congo-Zaire (1965–1997)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "History in Africa, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "7-39 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1017/hia.2022.13"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Interpreting and Communication in Healthcare"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic and Sociocultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multilingual Education and Policy"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EW/EW3K8LAN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1017/hia.2022.13"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

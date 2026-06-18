@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/G9IYYPGY>
+  a schema:Book ;
+  schema:name "El Monte: Igbo-Finda; Ewe Orisha; Vititi Nfinda" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G9IYYPGY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G9IYYPGY" ;
+  schema:author "Cabrera, Lydia" ;
+  schema:datePublished "1992" ;
+  schema:publisher "Ediciones Universal" ;
+  dcterms:identifier "isbn:0-89729-009-7" ;
+  dcterms:subject "Osanyin", "Osain", "Ozain", "Ọsanyìn", "Herbs", "West African traditions", "Central African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .

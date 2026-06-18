@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9HSFTQE7>
+  a schema:Thesis ;
+  schema:name "Inculturação da fé : perspectivas históricas, culturais e religiosas dos afro-haitianos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9HSFTQE7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9HSFTQE7" ;
+  schema:description "O presente trabalho defende a temática de inculturação da fé na perspectiva histórica, cultural e religiosa afro-haitiana. A investigação busca descobrir a compreensão da fé cristã inculturada desde a percepção da realidade afro-haitiana, pelo fato de que o vodu aparece como manifestação central e sintetizadora da cultura desse povo. Essa teoria é comprovada à luz da caminhada histórica, caraterísticas do pensamento e à descrição das divindades dessa sociedade em comunhão e confrontação com a fé e teologia cristã que se identificam com a luta e resistência da comunidade afro-haitiana. A inculturação da fé, segundo a lógica afro-haitiana, é entendida como confrontação contra o novo modelo de escravização e de dominação presente em todas as camadas dessa sociedade" ;
+  schema:author "Wilner Charles" ;
+  schema:datePublished "2023" ;
+  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:subject "Christian Theology and Mission", "Race, Identity, and Education in Brazil", "Religion and Society in Latin America" .

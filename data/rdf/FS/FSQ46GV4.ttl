@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FSQ46GV4>
+  a schema:Thesis ;
+  schema:name "Picturing voices, writing thickness : a multimodal approach to translating the Afro-Cuban tales of Lydia Cabrera" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FSQ46GV4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FSQ46GV4" ;
+  schema:description "Lydia Cabrera's career spans much of the twentieth century and her many books provide a unique insight into Afro-Cuban religions, customs, and folktales. Her work crosses the boundaries between ethnography, linguistics and fiction and her texts are inscribed with the dual strands of the African and Iberian cultures that fuse together to form the Cuban. Nonetheless, Cabrera's oeuvre remains relatively unknown outside Spanish-speaking academic circles and to date very little of it has been translated. This research project aims to address Cabrera's unwarranted obscurity by presenting English translations of twelve of her Afro-Cuban tales alongside hitherto unpublished archival material. Polyvocality is identified as a key feature of her work and ways in which 'voice' operates in her four collections of short stories are analysed. It is considered important that all the participants in the story-telling chain be 'heard' in any new presentation of Cabrera's work. This means paying attention to Cabrera as author of the published texts, but also to the informants who were her oral sources, to the translator, and to the reader of the new English versions. The fact that Cabrera's tales often encompass both the scientific (ethnographic) and the artistic (literary), makes the process of translating them a rich and complex endeavour. In formulating a creative response to this complexity, insights are drawn from visual art, concrete poetry, and ethnography. The notion of 'thick translation' (Appiah 1993/2000) provides the theoretical underpinning for the multimodal artefact which is developed. This PhD therefore also crosses disciplines - translation studies and interactive media - and comprises two parts; a written thesis and a DVD-Rom. Ultimately, it is suggested that one future direction for &#13;\\ntranslation is to take a 'visual turn' towards a practice which does more than offer one written text in the place of another." ;
+  schema:author "Anna-Marjatta Milsom" ;
+  schema:datePublished "2008" ;
+  schema:publisher "Middlesex University Research Repository (Middlesex University Of London)" ;
+  dcterms:subject "Cuban History and Society", "Media, Gender, and Advertising", "Translation Studies and Practices" .

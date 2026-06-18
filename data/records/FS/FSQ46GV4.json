@@ -1,0 +1,107 @@
+{
+  "key": "FSQ46GV4",
+  "uri": "https://medjat.irokosociety.org/id/library/FSQ46GV4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FSQ46GV4",
+  "zotero": {
+    "group": "6479329",
+    "key": "FSQ46GV4",
+    "version": 2334,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FSQ46GV4",
+    "dateAdded": "2026-05-19T14:20:04Z",
+    "dateModified": "2026-05-19T14:20:04Z"
+  },
+  "display": {
+    "title": "Picturing voices, writing thickness : a multimodal approach to translating the Afro-Cuban tales of Lydia Cabrera",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Anna-Marjatta Milsom"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "Middlesex University Research Repository (Middlesex University Of London)",
+    "publicationTitle": "Middlesex University Research Repository (Middlesex University Of London)",
+    "bookTitle": "",
+    "journalAbbreviation": "Middlesex University Research Repository (Middlesex University Of London)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Lydia Cabrera's career spans much of the twentieth century and her many books provide a unique insight into Afro-Cuban religions, customs, and folktales. Her work crosses the boundaries between ethnography, linguistics and fiction and her texts are inscribed with the dual strands of the African and Iberian cultures that fuse together to form the Cuban. Nonetheless, Cabrera's oeuvre remains relatively unknown outside Spanish-speaking academic circles and to date very little of it has been translated. This research project aims to address Cabrera's unwarranted obscurity by presenting English translations of twelve of her Afro-Cuban tales alongside hitherto unpublished archival material. Polyvocality is identified as a key feature of her work and ways in which 'voice' operates in her four collections of short stories are analysed. It is considered important that all the participants in the story-telling chain be 'heard' in any new presentation of Cabrera's work. This means paying attention to Cabrera as author of the published texts, but also to the informants who were her oral sources, to the translator, and to the reader of the new English versions. The fact that Cabrera's tales often encompass both the scientific (ethnographic) and the artistic (literary), makes the process of translating them a rich and complex endeavour. In formulating a creative response to this complexity, insights are drawn from visual art, concrete poetry, and ethnography. The notion of 'thick translation' (Appiah 1993/2000) provides the theoretical underpinning for the multimodal artefact which is developed. This PhD therefore also crosses disciplines - translation studies and interactive media - and comprises two parts; a written thesis and a DVD-Rom. Ultimately, it is suggested that one future direction for &#13;\\ntranslation is to take a 'visual turn' towards a practice which does more than offer one written text in the place of another.",
+    "doi": "",
+    "url": "https://eprints.mdx.ac.uk/10750/1/568385.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Media, Gender, and Advertising",
+      "Translation Studies and Practices"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Anna-Marjatta Milsom"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Picturing voices, writing thickness : a multimodal approach to translating the Afro-Cuban tales of Lydia Cabrera"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Middlesex University Research Repository (Middlesex University Of London), 2008."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Media, Gender, and Advertising"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Translation Studies and Practices"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FS/FSQ46GV4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

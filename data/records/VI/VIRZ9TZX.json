@@ -1,0 +1,115 @@
+{
+  "key": "VIRZ9TZX",
+  "uri": "https://medjat.irokosociety.org/id/library/VIRZ9TZX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VIRZ9TZX",
+  "zotero": {
+    "group": "6479329",
+    "key": "VIRZ9TZX",
+    "version": 810,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VIRZ9TZX",
+    "dateAdded": "2026-05-18T18:57:35Z",
+    "dateModified": "2026-05-18T18:57:35Z"
+  },
+  "display": {
+    "title": "Sacred Forests : Indigenous Knowledge and Cultural Beliefs for Conservation of Forests in Ifo Local Government Area of Ogun State, Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "GB Adesiji"
+      },
+      {
+        "role": "editor",
+        "name": "FD Babalola"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "African Journal of sustainable Development",
+    "publicationTitle": "African Journal of sustainable Development",
+    "bookTitle": "",
+    "journalAbbreviation": "African Journal of sustainable Development",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "issue": "1",
+    "pages": "117-134",
+    "abstract": "The study was designed to assess the use of indigenous knowledge in forest conservation by the local people of Ifo Local Government Area (LGA) of Ogun State. Purposeful sampling technique was used to select two villages: Balogun and Ososun in Oke-pata community, Ifo LGA. The communities were selected based on their housing of sacred forests dedicated to one god or the other. The respondents for the study include traditional rulers and chiefs, forest priests, rural dwellers and selected key informants. Seventy-one respondents were interviewed through the useof structured questionnaire complemented with field observation and in-depth interview. All the sampled respondents (100%) were aware of at least a sacred forest in their respective communities. In Ososun community, the respondents mentioned Igbo Igunuko (59%) and Igbo Oro (41%) as their sacred forest, while all the dwellers in Balogun mentioned Igbo so’ro, which housed a river, believed to possess powers that heal children of their diseases. About 95.8% of the respondents affirmed that people were not allowed to extract products from the sacred forests. However, all the respondents (100%) affirmed the susceptibility of religious activities in the sacred forests. Some of the resources protected in the sacred forests are rare plants and animal species as well as the customs and beliefs of the people. Among the perceptions of the local people in the sacred forest include: the sacred forest is the foundation of the communities; the forest is a place of residence of the gods of the land, rituals done in the forests determine the productivity of the rural communities, and women and unauthorized people must not enter to avoid the punishment by the gods. There should be policies that protect the indigenous peoples’ cultural heritage such as the sacred forest so that they would not be tampered with during developmental projects resulting from urbanisation and other land competing activities. Keywords: Sacred forest, cultural belief, conservation, indigenous knowledge, religious activities",
+    "doi": "",
+    "url": "https://openalex.org/W788834310",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Botany and Ecology Studies",
+      "Conservation, Biodiversity, and Resource Management"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "GB Adesiji"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sacred Forests : Indigenous Knowledge and Cultural Beliefs for Conservation of Forests in Ifo Local Government Area of Ogun State, Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "African Journal of sustainable Development, 2012."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "117-134 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Botany and Ecology Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Conservation, Biodiversity, and Resource Management"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "FD Babalola"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VI/VIRZ9TZX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

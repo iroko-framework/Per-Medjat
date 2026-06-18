@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QLFLX2UP>
+  a schema:Thesis ;
+  schema:name "Aboriginal Convicts: Race, Law and Transportation in Colonial New South Wales" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QLFLX2UP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QLFLX2UP" ;
+  schema:description "No description available" ;
+  schema:author "Kristyn Harman" ;
+  schema:datePublished "2008" ;
+  schema:publisher "eCite Digital Repository (University of Tasmania)" ;
+  schema:sameAs <https://doi.org/10.25959/23210153> ;
+  dcterms:identifier "doi:10.25959/23210153" ;
+  dcterms:subject "Australian History and Society", "Colonialism, slavery, and trade", "Historical and Cultural Archaeology Studies" .

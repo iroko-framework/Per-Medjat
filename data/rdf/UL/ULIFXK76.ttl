@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ULIFXK76>
+  a schema:ScholarlyArticle ;
+  schema:name "Afro-Cuban religions and the arts a dog has four legs but takes only one path" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ULIFXK76> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ULIFXK76" ;
+  schema:description "\"This book examines the philosophical and spiritual facets of religions like Regla de Ocha, Palo, Abakuá, and Vodou, and how deeply embedded they are in Cuban popular culture and art, be it music, the visual arts, film, or literature.\"--" ;
+  schema:author "West-Durán, Alan 1953-" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Cuban History and Society", "Latin American and Latino Studies" .

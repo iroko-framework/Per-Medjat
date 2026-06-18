@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RKPLQSPQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Los signos cubanos de los ritos abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RKPLQSPQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RKPLQSPQ" ;
+  schema:author "Jesús Guanche" ;
+  schema:datePublished "1995" ;
+  dcterms:subject "Cuban History and Society" .

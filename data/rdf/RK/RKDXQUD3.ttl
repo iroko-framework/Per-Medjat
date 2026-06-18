@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RKDXQUD3>
+  a schema:Thesis ;
+  schema:name "Digital Preservation of Haitian Mythology Music Notation" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RKDXQUD3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RKDXQUD3" ;
+  schema:description "This project aims at preserving Haitian mythology music; it is conceptualized as having two components:\\n\\n•\\tDigital Preservation Archive: The process generates equivalent notation of hardcopies as well as supplementary audio clip. The resulting artifacts are archived in a website.\\n\\n\\n•\\tMusic Production Using Media Technologies: is an effort to stimulate interest in the music. Digital media technologies are applied toward arranging mythology songs for small Afro Western styled musical group. We design a workflow for notating, recording, and staging the music." ;
+  schema:author "Pierre A. BoisAubin" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Digital Access to Scholarship at Harvard (DASH) (Harvard University)" ;
+  dcterms:subject "Diverse Musicological Studies", "Maritime and Coastal Archaeology" .

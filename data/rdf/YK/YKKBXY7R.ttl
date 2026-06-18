@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YKKBXY7R>
+  a schema:ScholarlyArticle ;
+  schema:name "« La création plastique d’Haïti » : un univers artistique entre histoire, rencontres et matières" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YKKBXY7R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YKKBXY7R" ;
+  schema:description "Le texte seul" ;
+  schema:author "Dimitri Béchacq" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Lectures anthropologiques" ;
+  schema:sameAs <https://doi.org/10.4000/14oa0> ;
+  dcterms:identifier "doi:10.4000/14oa0" ;
+  dcterms:subject "Canadian Identity and History", "Cultural Identity and Heritage", "Cultural Insights and Digital Impacts" .

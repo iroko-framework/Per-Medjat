@@ -1,0 +1,114 @@
+{
+  "key": "35TZB6N9",
+  "uri": "https://medjat.irokosociety.org/id/library/35TZB6N9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=35TZB6N9",
+  "zotero": {
+    "group": "6479329",
+    "key": "35TZB6N9",
+    "version": 633,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/35TZB6N9",
+    "dateAdded": "2026-05-18T18:57:16Z",
+    "dateModified": "2026-05-18T18:57:16Z"
+  },
+  "display": {
+    "title": "Crime-Reporting Practices Among Market Women in Oyo, Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Johnson Oluwole Ayodele"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "SAGE Open",
+    "publicationTitle": "SAGE Open",
+    "bookTitle": "",
+    "journalAbbreviation": "SAGE Open",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "2",
+    "pages": "",
+    "abstract": "Crime surveys of businesses have revealed that while crimes in which men were victims tend to be reported, those in which women were victims are likely to go unreported to the police. Understanding the reasons behind male reporting and female non-reporting is useful not only for collection of crime statistics but also for improving crime control competences of law enforcement agencies. This article examines the impact of crime involving market women on their crime-reporting practices in Oyo town, Oyo State, Nigeria. The study adopted quantitative and qualitative approaches. Copies of a questionnaire were administered to collect quantitative data from randomly selected 210 market women at Akesan, Sabo, and Mosadoba markets in Oyo town. Five focus group discussions, in-depth and key informant interviews were conducted to complement quantitative data. Both data were analyzed. The study found that cultural considerations stand between crime events that hurt the economic interests of women and their readiness to report to the police. Due to the very low confidence that market women have in the ability and willingness of the police to apprehend criminals, they prefer to internalize their losses, take their cases to traditional rulers who use “oro cult” to protect them against criminals, or approach available faith-based options such as churches and mosques. The article concludes that women have economy-enriching roles to play in the context of sustainable security. It therefore suggests that the government should address public safety to enable market women make their modest contribution to Nigeria’s economic development.",
+    "doi": "10.1177/2158244015579940",
+    "url": "https://doi.org/10.1177/2158244015579940",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Crime Patterns and Interventions",
+      "Cybercrime and Law Enforcement Studies",
+      "Terrorism, Counterterrorism, and Political Violence"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Johnson Oluwole Ayodele"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Crime-Reporting Practices Among Market Women in Oyo, Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SAGE Open, 2015."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1177/2158244015579940"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Crime Patterns and Interventions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cybercrime and Law Enforcement Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Terrorism, Counterterrorism, and Political Violence"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/35/35TZB6N9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1177/2158244015579940"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

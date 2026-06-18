@@ -1,0 +1,123 @@
+{
+  "key": "4M53ZCVM",
+  "uri": "https://medjat.irokosociety.org/id/library/4M53ZCVM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4M53ZCVM",
+  "zotero": {
+    "group": "6479329",
+    "key": "4M53ZCVM",
+    "version": 1440,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4M53ZCVM",
+    "dateAdded": "2026-05-19T13:29:13Z",
+    "dateModified": "2026-05-19T13:29:13Z"
+  },
+  "display": {
+    "title": "The Adaptation of English Consonants by Efik Learners of English",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Eyo Mensah"
+      },
+      {
+        "role": "editor",
+        "name": "Eyamba Mensah"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "English Language Teaching",
+    "publicationTitle": "English Language Teaching",
+    "bookTitle": "",
+    "journalAbbreviation": "English Language Teaching",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "7",
+    "issue": "3",
+    "pages": "",
+    "abstract": "One of the linguistic outcomes of the sustained contact of a target language (L2) with a source language (L1) in the course of history is the adaptation and integration of loanwords from the former into the lexicon of the latter. This paper discusses the phonological strategies and parameters for the adaptation of English consonants (which mainly affect nouns) into Efik. The paper discusses the factors that are responsible for borrowing and convergence as well as the linguistic consequences of loanwords in the Efik expanded vocabulary. We submit that though the pattern of borrowing is tailored to agree with the phonological system of the source language, some of the changes are however, as a result of indigenous innovations or prosodic patterns. We argue in this paper that target-source language contact phenomenon is an important source of lexical enrichment of the target language, which has expanded its functional domains to cope with modern challenges. The paper considers the implication of the study for the English language teaching and learning classroom in the Efik non-native environment.",
+    "doi": "10.5539/elt.v7n3p38",
+    "url": "https://doi.org/10.5539/elt.v7n3p38",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Linguistic Variation and Morphology",
+      "Phonetics and Phonology Research",
+      "Syntax, Semantics, Linguistic Variation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Eyo Mensah"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Adaptation of English Consonants by Efik Learners of English"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "English Language Teaching, 2014."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5539/elt.v7n3p38"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic Variation and Morphology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Phonetics and Phonology Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Syntax, Semantics, Linguistic Variation"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Eyamba Mensah"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/4M/4M53ZCVM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5539/elt.v7n3p38"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

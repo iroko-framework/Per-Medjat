@@ -1,0 +1,102 @@
+{
+  "key": "LBQ679XU",
+  "uri": "https://medjat.irokosociety.org/id/library/LBQ679XU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LBQ679XU",
+  "zotero": {
+    "group": "6479329",
+    "key": "LBQ679XU",
+    "version": 4059,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LBQ679XU",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Integrating science with farmer knowledge: Sorghum diversity management in north-east Ghana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "C.Y. Kudadjie"
+      }
+    ],
+    "year": "2006",
+    "date": "2006",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Keywords: Convergence of sciences, diversity management, experimentation, farmer knowledge, genetic diversity, Ghana, plant variation, private sector, research, Sorghum bicolor (L.)Moench, small-scale farmers, seed quality.Sub-optimal impact of agricultural research is connected to lack of involvement of farmers. This is especially true forAfricawhere problems are diverse and complex. Farmer participation might help research to become better focused and resulting technologies more adopted. However, linking researchers and farmers effectively in research is not easy. Even though African farmers are often very innovative, technology development is influenced by other stakeholders and takes place within a wide institutional context and policy framework over which farmers have little control. Convergence of Sciences offers an alternative way of organizing research whereby the agricultural innovation process is recognized as a multi-stakeholder process.This thesis situates science and farmer initiative within the context of sorghum genetic resource management. Sorghum plays a pivotal role in the agrarian life and culture of small farmers in north-eastGhana. The value of genetic diversity for farmers provides strong justification for placing emphasis on, and pursuing research into, two main areas: the need to support farmers' own efforts in diversity management and variety maintenance, and - as an important component of that aspect - the need to pay attention to farmers' seed management and storage practices.The thesis shows how farmers and scientists can effectively engage in agricultural research towards a sustainable use and management of sorghum genetic resources. Convergence is explored between researchers and farmers and between the biosciences and social sciences. The possibility for convergence between farmers, public sector researchers and private sector interests under market-driven conditions for sorghum production is also explored.The results indicate that joint learning and experimentation under local conditions is a useful and effective means through which unschooled small-scale farmers and scientists can actively engage in the research process. Such an approach provides the opportunity for an intensive and sustained interaction between both farmers and scientists. Going along the pathway of experimentation has shown that farmers are capable of joining in scientific research, have an indigenous capacity for astute observation, and are capable of forming a good working notion of science as it is practised in the formal sector. However, a conscious effort must be made to embed these scientific principles in the farmers' local and cultural context in order to make the capability of farmers as co-researchers become more apparent. Through farmers' own analysis (facilitated and stimulated by researchers) of test data, they correctly infer that in order to improve the physiological seed quality of their early maturing varieties, they need to pay closer attention to the conditions under which harvesting, seed selection, and storage occur.Scientific methods and tools from the biological and social science disciplines are used for gathering and analysing qualitative and quantitative data during the joint learning and experimentation phase of the study and for generating knowledge. Molecular marker techniques from bioscience helped to determine the extent of diversity used by farmers, while anthropological information provided a deeper understanding of how cultural and socio-economic factors influence farmers' use and management of sorghum varieties.The case of contract farming provided the important lesson that making contract farming work is often contingent upon mobilizing both technical and farmer knowledge for technological problem solving. Making technology part of the contracting process helps reinforce among all contracting parties the need to work jointly towards effective solutions to production problems in an uncertain world where effective new knowledge is at a premium. This requires the recognition by contracting companies of the fact that where the technology is an important problem, offering ways of negotiating about the various contributions of relevant parties in the contract would lead to better application of technology.Sorghum remains an important crop for farmers who stand to gain a lot more if researchers commit and apply themselves to partnership with farmers as co-researchers. This thesis has thrown some light on how such partnerships for new and effective knowledge might evolve. Convergence of Sciences, as an alternative approach to the linear model of planning, designing and implementing research, appears to hold much promise for small farmers such as those found in the north-eastern part ofGhana",
+    "doi": "10.18174/121861",
+    "url": "https://doi.org/10.18174/121861",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Agricultural Innovations and Practices"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "C.Y. Kudadjie"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Integrating science with farmer knowledge: Sorghum diversity management in north-east Ghana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2006."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18174/121861"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agricultural Innovations and Practices"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LB/LBQ679XU.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18174/121861"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

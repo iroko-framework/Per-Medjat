@@ -1,0 +1,114 @@
+{
+  "key": "MY2H5Y5E",
+  "uri": "https://medjat.irokosociety.org/id/library/MY2H5Y5E",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MY2H5Y5E",
+  "zotero": {
+    "group": "6479329",
+    "key": "MY2H5Y5E",
+    "version": 3390,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MY2H5Y5E",
+    "dateAdded": "2026-05-20T16:34:35Z",
+    "dateModified": "2026-05-20T16:34:35Z"
+  },
+  "display": {
+    "title": "The Light at the Edge of the World",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Wade Davis"
+      }
+    ],
+    "year": "2001",
+    "date": "2001",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Wade Davis (1953-), Canadian ethnobotanist and writer, National Geographic Society Explorer, author of The Serpent and the Rainbow (1986) and One River (1996).",
+    "doi": "10.18235/0007944",
+    "url": "https://doi.org/10.18235/0007944",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Australian Indigenous Culture and History",
+      "Indigenous and Place-Based Education",
+      "Jungian Analytical Psychology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Wade Davis"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Light at the Edge of the World"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2001."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18235/0007944"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Australian Indigenous Culture and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indigenous and Place-Based Education"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Jungian Analytical Psychology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/MY/MY2H5Y5E.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18235/0007944"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

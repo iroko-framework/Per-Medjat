@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ADIH2IYV>
+  a schema:Thesis ;
+  schema:name "Women and the Law of Property Under Louisiana Civil Law, 1782--1835." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ADIH2IYV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ADIH2IYV" ;
+  schema:description "This dissertation explores the influence of Louisiana civil law on women's property ownership between 1782 and 1835. Louisiana civil law offered women significant advantages over the predominant common law tradition found in most early American states. Louisiana civil law, unlike common law, allowed a married woman to retain her legal identity, her personal property and her right to monetary rewards from her labors within the family. A woman in early Louisiana owned half the property accumulated during marriage and she inherited her half of the property at the dissolution of the marriage. She also owned and could administer separate property. Data drawn from notarial and probate records from three parishes representative of early Louisiana's population indicate that Louisiana women accumulated economic resources and they exercised economic authority within their families and communities. Regional comparisons of wealth accumulation between Pennsylvania and Louisiana demonstrate that overall women fared better under civil law than women under common law. These findings call into question traditional interpretations of legal dispossession and enforced dependence for early American women. They also illuminate ethnic and regional dimensions to the relationship between the civil law and women's property. The study demonstrates that Anglos in Louisiana were less likely to conform to legal provisions economically beneficial to women, than was the French-speaking population in Louisiana who were more familiar with civil law through custom. Moreover, because early Louisiana was a slave-holding state supposedly committed to rigid patriarchy the economic resources and authority accumulated by early Louisiana women refines our understanding of the flexibility and limits of patriarchy." ;
+  schema:author "Sara Sundberg" ;
+  schema:datePublished "2001" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_disstheses.320> ;
+  dcterms:identifier "doi:10.31390/gradschool_disstheses.320" ;
+  dcterms:subject "American Constitutional Law and Politics", "Gender, Labor, and Family Dynamics", "Historical Economic and Social Studies" .

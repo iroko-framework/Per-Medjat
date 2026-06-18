@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IGQK26FU>
+  a schema:Thesis ;
+  schema:name "Exodus: Literary Migrations of Afro-Atlantic Authors, 1760-1903" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IGQK26FU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IGQK26FU" ;
+  schema:description "This dissertation analyzes Afro-Atlantic Exodus narratives that challenged slavery and racism throughout the African diaspora. Although many scholars have examined black writers' Exodus stories, none has explored the early development of these narratives from the mid-eighteenth to early twentieth centuries. My study of the extent to which Exodus stories pervade black literature supports my contention that their use is more complex than scholars have acknowledged. Tracing the origins of American Exodus narratives to the Puritan tradition, I explore how Afro-Atlantic people from Briton Hammon who invokes the Joseph story in his 1760 <em>Narrative</em> to W. E. B. DuBois who appropriates the Joshua story in his 1903 <em>Souls of Black Folk</em> decenter and rewrite white Christians' Exodus narratives, characterizing themselves as one of God's people deserving of freedom and equality. Detailed examinations of the Joseph and Joshua stories are two of the missing components of this discussion; they provide the essential bookends of the story. Quite simply, without an analysis of these narratives and the Moses story, any critique of this topic is incomplete and perhaps even misleading. In contrast to white writers who create linear narratives that chart the Puritans' transatlantic Exodus from European communities to the promised land of the New World, black authors develop multi-layered, sophisticated stories to advance their cause for freedom and equality. I demonstrate this complexity through an analysis of the literary strategies they rely on to develop their Exodus stories. Afro-Atlantic writers include fissures--breaks in the chronology of the biblical story--to depict their many varied experiences. Women writers are responsible for some of the major fissures. Afro-Atlantic writers also conflate biblical and secular/republican discourse as they demand their rights as citizens. Rather than recapitulate the entire Exodus story, they select specific episodes to support their arguments. Finally, in their search for a safe home, they represent their promised land, both in America and abroad, as unstable. Ultimately, Afro-Atlantic writers create Exodus narratives that reflect their persistent, diverse, and competing efforts to achieve their racial uplift goals but the stories do not fulfill the promise of freedom and equality." ;
+  schema:author "Rhondda Robinson Thomas" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Digital Repository at the University of Maryland (University of Maryland College Park)" ;
+  dcterms:subject "Latin American and Latino Studies" .

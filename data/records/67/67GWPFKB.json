@@ -1,0 +1,150 @@
+{
+  "key": "67GWPFKB",
+  "uri": "https://medjat.irokosociety.org/id/library/67GWPFKB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=67GWPFKB",
+  "zotero": {
+    "group": "6479329",
+    "key": "67GWPFKB",
+    "version": 4014,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/67GWPFKB",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Presencia de la paloma turca (Streptopelia decaocto) en el archipiélago de Revillagigedo, México",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Diego Adolfo González-Zamora"
+      },
+      {
+        "role": "editor",
+        "name": "Luis Felipe Angulo-Castellanos"
+      },
+      {
+        "role": "editor",
+        "name": "Salvador Hernández"
+      },
+      {
+        "role": "editor",
+        "name": "Humberto Almanza-Rodríguez"
+      },
+      {
+        "role": "editor",
+        "name": "Luis Abraham Aguilar Nuño"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Huitzil Revista Mexicana de Ornitología",
+    "publicationTitle": "Huitzil Revista Mexicana de Ornitología",
+    "bookTitle": "",
+    "journalAbbreviation": "Huitzil Revista Mexicana de Ornitología",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "17",
+    "issue": "1",
+    "pages": "",
+    "abstract": "Registramos la presencia de Streptopelia decaocto en dos islas del archipiélago de Revillagigedo: isla Clarión e isla Socorro. Observamostres adultos de S. decaocto entre marzo y julio de 2015. En ambas islas las aves se encontraron asociadas a sitios conactividad humana: en las instalaciones del destacamento militar de la Marina, Armada de México y en uno de sus buques. Serequieren de más estudios que permitan evaluar la distribución, abundancia y efectos de S. decaocto en las islas de Revillagigedo.",
+    "doi": "10.28947/hrmo.2016.17.1.228",
+    "url": "https://doi.org/10.28947/hrmo.2016.17.1.228",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Avian ecology and behavior",
+      "Marine animal studies overview",
+      "Turtle Biology and Conservation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Diego Adolfo González-Zamora"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Presencia de la paloma turca (Streptopelia decaocto) en el archipiélago de Revillagigedo, México"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Huitzil Revista Mexicana de Ornitología, 2016."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.28947/hrmo.2016.17.1.228"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Avian ecology and behavior"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Marine animal studies overview"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Turtle Biology and Conservation"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Luis Felipe Angulo-Castellanos"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Salvador Hernández"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Humberto Almanza-Rodríguez"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Luis Abraham Aguilar Nuño"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/67/67GWPFKB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.28947/hrmo.2016.17.1.228"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

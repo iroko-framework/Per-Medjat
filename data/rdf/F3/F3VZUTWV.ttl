@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/F3VZUTWV>
+  a schema:Report ;
+  schema:name "The Economic Effects of American Slavery: Tests at the Border" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F3VZUTWV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F3VZUTWV" ;
+  schema:description "To engage with the large literature on the economic effects of slavery, we use antebellum census data to test for statistical differences at the 1860 free-slave border.We find evidence of lower population density, less intensive land use, and lower farm values on the slave side.Half of the border region was half underutilized.This does not support the view that abolition was a costly constraint for landowners.Indeed, the lower demand for similar, yet cheaper, land presents a different puzzle: why wouldn't the yeomen farmers cross the border to fill up empty land in slave states, as was happening in the free states of the Old Northwest?On this point, we find evidence of higher wages on the slave side, indicating an aversion of free labor to working in a slave society.This evidence of systemically lower economic performance in slavery-legal areas suggests that the earlier literature on the profitability of plantations was misplaced, or at least incomplete." ;
+  schema:author "Hoyt Bleakley" ;
+  schema:creator "Paul W. Rhode" ;
+  schema:datePublished "2024" ;
+  schema:publisher "National Bureau of Economic Research" ;
+  schema:sameAs <https://doi.org/10.3386/w32640> ;
+  dcterms:identifier "doi:10.3386/w32640" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade", "Culture, Economy, and Development Studies" .

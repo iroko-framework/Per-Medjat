@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/JN4TQGI4>
+  a schema:ScholarlyArticle ;
+  schema:name "Palo and Paleros: An Interview with Oba Frank Martin" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JN4TQGI4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JN4TQGI4" ;
+  schema:description "Luis interviews Oba Frank Martin, a well-known musician and renowned spiritual leader of the Palo Mayombe religion, about the importance of the firmas. Among others, Martin tells how he become involved with Palo Mayombe." ;
+  schema:author "Luis, William" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Afro - Hispanic Review" ;
+  dcterms:subject "Central African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .

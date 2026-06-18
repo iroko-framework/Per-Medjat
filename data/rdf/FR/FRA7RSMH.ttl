@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FRA7RSMH>
+  a schema:Thesis ;
+  schema:name "Memories of the future : maroon intellectuals from the Caribbean and the sources of their communication strategies, 1925-1940" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FRA7RSMH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FRA7RSMH" ;
+  schema:description "across the Caribbean region and the groups in which they pioneered research about popular communication strategies between 1925 and 1940.By considering the history of the connections made between collective memories and the means of confirming how those interventions were shared in other territories, it is possible to examine how direct(ed) experience and consciousness are modified through social practices that turn the popular into a cultural force.This CHAPTER I END NOTES C.L.R" ;
+  schema:author "W. F. Santiago-Valles" ;
+  schema:datePublished "1997" ;
+  schema:publisher "Summit (Simon Fraser University)" ;
+  dcterms:subject "Australian History and Society", "Caribbean history, culture, and politics", "Postcolonial and Cultural Literary Studies" .

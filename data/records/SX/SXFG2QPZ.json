@@ -1,0 +1,107 @@
+{
+  "key": "SXFG2QPZ",
+  "uri": "https://medjat.irokosociety.org/id/library/SXFG2QPZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=SXFG2QPZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "SXFG2QPZ",
+    "version": 1932,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/SXFG2QPZ",
+    "dateAdded": "2026-05-19T14:18:41Z",
+    "dateModified": "2026-05-19T14:18:41Z"
+  },
+  "display": {
+    "title": "Transforming traditions: The dynamics of cultural variation in the Gamo highlands, southwest Ethiopia.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Dena Freeman"
+      }
+    ],
+    "year": "1999",
+    "date": "1999",
+    "publisher": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "publicationTitle": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "bookTitle": "",
+    "journalAbbreviation": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis is about cultural variation. Its ethnographic focus is the Gamo highlands of southwest Ethiopia, where there are two politico-ritual systems, one based on sacrifices and the other based on initiations. While the sacrificial system is remarkably homogeneous over the area, the initiatory system varies considerably. The central purpose of this work is to try to understand why these two systems exhibit such different degrees of variation in the same setting and among the same people. After describing the structure of the two cultural systems as they exist in the late twentieth century, the thesis examines some of the politico-economic changes that have taken place in southern Ethiopia over the past few centuries, and considers how some of these external changes would have led to internal cultural change in the highlands. It suggests that external changes are manifested as strains on certain social relations, evidenced as either interpersonal conflicts or communal misfortune, and that people try to resolve these strains through discussions at assemblies. The particular organisation of the Gamo assemblies facilitates decisions that lead to incremental cultural change. The thesis then argues that these incremental changes have various intended and unintended consequences in the different cultural systems. The 'linked chain' pattern of interconnections in the initiatory system leads to complex nonlinear behaviour such that small incremental changes produce dramatic structural transformation, while the 'Russian doll' pattern of interconnections in the sacrificial system leads to linear behaviour such that small changes have only small effects. The thesis therefore concludes that, although change in both systems has been driven by the same politico-economic factors, the form of change has been different due to their different systemic organisation, leading the initiations to transform rather more than the sacrifices. It is for this reason, then, that they exhibit such different degrees of variation.",
+    "doi": "",
+    "url": "http://etheses.lse.ac.uk/1526/1/U120999.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis",
+      "Land Rights and Reforms",
+      "Rangeland Management and Livestock Ecology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Dena Freeman"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Transforming traditions: The dynamics of cultural variation in the Gamo highlands, southwest Ethiopia."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science), 1999."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Land Rights and Reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Rangeland Management and Livestock Ecology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/SX/SXFG2QPZ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BKN9P8FK>
+  a schema:ScholarlyArticle ;
+  schema:name "Entre la tradición y la actualidad: un análisis de la dinámica migratoria de Veracruz" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BKN9P8FK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BKN9P8FK" ;
+  schema:description "In the population history of Veracruz, a state in southeastern Mexico and a maritime entry port to the country, the arrival of people to the region has been prevalent. However, in the 21st Century, Veracruz was incorporated into the international migration flows to the United States. In this context, the objective of this study is to analyze the recent flows of emigrants from Veracruz to the northern border of Mexico and the United States, as well as the dynamic of return migration and the immigration of foreigners. Taking a demographic and quantitative perspective, this research focuses on the decade from 2010 to 2020, with a specific emphasis on regional and municipal analysis. The results show that international emigration and immigration are phenomena that occur within specific regions and municipalities, and that, only in three out of ten regions do the departure and return of Veracruz residents and the arrival of foreigners to the state converge, particularly individuals from Central America and Venezuela." ;
+  schema:author "Julio Armillas Canseco" ;
+  schema:creator "Jéssica N. Nájera Aguirre" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Migraciones internacionales" ;
+  schema:sameAs <https://doi.org/10.33679/rmi.v1i1.2679> ;
+  dcterms:identifier "doi:10.33679/rmi.v1i1.2679" ;
+  dcterms:subject "Agricultural and Food Production Studies", "Latin American rural development", "Migration, Health, Geopolitics, Historical Geography" .

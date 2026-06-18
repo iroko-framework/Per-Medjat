@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3A5VN2IK>
+  a schema:Thesis ;
+  schema:name "Negotiating Identities, Striving for State Recongition: Blacks in Cordoba, Argentina 1776-1853" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3A5VN2IK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3A5VN2IK" ;
+  schema:description "Race in Argentina played a significant role as a highly durable construct by identifying and advancing subjects (1776-1810) and citizens (1811-1853). My dissertation explores the intricacies of power relations by focusing on the ways in which race informed the legal process during the transition from a colonial to national State. It argues that the State’s development in both the colonial and national periods depended upon defining and classifying African descendants. In response, people of African descendent used the State’s assigned definitions and classifications to advance their legal identities. It employs race and culture as operative concepts, and law as a representation of the sometimes, tense relationship between social practices and the State’s concern for social peace. This dissertation examines the dynamic nature of the court. It utilizes the theoretical concepts multicentric legal orders that are analyzed through weak and strong legal pluralisms, and jurisdictional politics, from the late eighteenth to early nineteenth centuries. This dissertation juxtaposes various levels of jurisdiction (canon/state law and colonial/national law) to illuminate how people of color used the legal system to ameliorate their social condition. In each chapter the primary source materials are state generated documents which include criminal, ecclesiastical, civil, and marriage dissent court cases along with notarial and census records. Though it would appear that these documents would provide a superficial understanding of people of color, my analysis provides both a top-down and bottom-up approach that reflects a continuous negotiation for African descendants’ goal for State recognition. These approaches allow for implicit or explicit negotiation of a legal identity that transformed slaves and free African descendants into active agents of their own destinies." ;
+  schema:author "E. D. Edwards" ;
+  schema:datePublished "2011" ;
+  schema:sameAs <https://doi.org/10.25148/etd.fi11080808> ;
+  dcterms:identifier "doi:10.25148/etd.fi11080808" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Politics and Society in Latin America" .

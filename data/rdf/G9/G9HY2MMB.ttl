@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/G9HY2MMB>
+  a schema:CreativeWork ;
+  schema:name "Slave societies digital archive" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G9HY2MMB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G9HY2MMB" ;
+  schema:author "Landers, Jane" ;
+  schema:datePublished "2003" ;
+  schema:publisher "Vanderbilt University" .

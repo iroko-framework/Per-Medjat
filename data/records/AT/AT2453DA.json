@@ -1,0 +1,136 @@
+{
+  "key": "AT2453DA",
+  "uri": "https://medjat.irokosociety.org/id/library/AT2453DA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AT2453DA",
+  "zotero": {
+    "group": "6479329",
+    "key": "AT2453DA",
+    "version": 146,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AT2453DA",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Freebooters and smugglers: the foreign slave trade in the United States after 1808",
+    "subtitle": "",
+    "shortTitle": "Freebooters and smugglers",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Obadele-Starks, Ernest"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "University of Arkansas Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Fayetteville",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "978-1-55728-858-5",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Pirates -- United States -- History -- 19th centur",
+      "Slave trade -- Africa -- History -- 19th century",
+      "Slave trade -- United States -- History -- 19th ce",
+      "Slave traders -- United States -- History -- 19th",
+      "Slavery -- Law and legislation -- United States --",
+      "Slavery -- Southern States -- History -- 19th cent",
+      "Smugglers -- United States -- History -- 19th cent"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Obadele-Starks, Ernest"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Freebooters and smugglers: the foreign slave trade in the United States after 1808"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Fayetteville: University of Arkansas Press, 2007."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-1-55728-858-5"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pirates -- United States -- History -- 19th centur"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slave trade -- Africa -- History -- 19th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slave trade -- United States -- History -- 19th ce"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slave traders -- United States -- History -- 19th"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Law and legislation -- United States --"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Southern States -- History -- 19th cent"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Smugglers -- United States -- History -- 19th cent"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AT/AT2453DA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

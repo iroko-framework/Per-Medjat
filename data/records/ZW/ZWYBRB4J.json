@@ -1,0 +1,120 @@
+{
+  "key": "ZWYBRB4J",
+  "uri": "https://medjat.irokosociety.org/id/library/ZWYBRB4J",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZWYBRB4J",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZWYBRB4J",
+    "version": 3474,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZWYBRB4J",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Finding Eldorado: Slavery and Long-Run Development in Colombia",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Daron Acemoğlu"
+      },
+      {
+        "role": "editor",
+        "name": "Camilo García-Jimeno"
+      },
+      {
+        "role": "editor",
+        "name": "James A. Robinson"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "SSRN Electronic Journal",
+    "publicationTitle": "SSRN Electronic Journal",
+    "bookTitle": "",
+    "journalAbbreviation": "SSRN Electronic Journal",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.2139/ssrn.2084357",
+    "url": "https://doi.org/10.2139/ssrn.2084357",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History and Politics in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Daron Acemoğlu"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Finding Eldorado: Slavery and Long-Run Development in Colombia"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SSRN Electronic Journal, 2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.2139/ssrn.2084357"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and Politics in Latin America"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Camilo García-Jimeno"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "James A. Robinson"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ZW/ZWYBRB4J.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.2139/ssrn.2084357"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

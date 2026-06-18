@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TW878A9F>
+  a schema:Book ;
+  schema:name "Archives power: memory, accountability, and social justice" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TW878A9F> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TW878A9F" ;
+  schema:description "Argues to answer some of the complex social, political, professional, and ethical questions that are at the heart of the roles and identity of the archive professional, their significance in modern society, and their impact on human history and culture." ;
+  schema:author "Jimerson, Randall C" ;
+  schema:datePublished "2009" ;
+  schema:publisher "Society of American Archivists" ;
+  dcterms:identifier "isbn:1-931666-30-X" ;
+  dcterms:subject "Archives -- Political aspects", "Archives -- Social aspects", "Archivists -- Professional ethics", "Public interest", "Social justice" .

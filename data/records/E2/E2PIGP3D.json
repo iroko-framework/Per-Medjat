@@ -1,0 +1,95 @@
+{
+  "key": "E2PIGP3D",
+  "uri": "https://medjat.irokosociety.org/id/library/E2PIGP3D",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=E2PIGP3D",
+  "zotero": {
+    "group": "6479329",
+    "key": "E2PIGP3D",
+    "version": 1728,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/E2PIGP3D",
+    "dateAdded": "2026-05-19T14:17:44Z",
+    "dateModified": "2026-05-19T14:17:44Z"
+  },
+  "display": {
+    "title": "WHAT GOD HATH WROUGHT: THE EMBODIMENT OF FREEDOM IN THE THIRTEENTH AMENDMENT",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "George H. Hoemann"
+      }
+    ],
+    "year": "1982",
+    "date": "1982",
+    "publisher": "Rice Digital Scholarship Archive (Rice University)",
+    "publicationTitle": "Rice Digital Scholarship Archive (Rice University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Rice Digital Scholarship Archive (Rice University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "What is freedom? The Civil War brought forth this central question as a result of the interaction of war and slavery. The different constituent elements of the northern war coalition--abolitionists, Republicans, war Democrats, and conservatives--each perceived the reality of war and slavery differently. Hence, the answer to the question of \"what is freedom\" was different for each group.\\nThe present study suggests that the abolitionist vision of freedom as a positive, substantive force matched the reality of war-created circumstance, and that Republicans adopted this radical vision as the means to defeat the Confederacy. An equation of slavery, secession, rebellion, and treason allowed Republicans to break through heretofore constraining ideological and constitutional limits.\\nOnce the attack on slavery began the subsidiary issue of the freedmen arose. What to do with four million ex-slaves was a problem that plagued Americans during the War, Reconstruction, and subsequent eras. The realization that white southerners would re-enslave freedmen if given the chance led abolitionists and Republicans to the idea of freedom as more than the absence of slavery. Rather, freedom contained natural law rights which, translated into the American idiom, meant citizenship and at least civil equality. The Thirteenth Amendment is founded upon this substantive, expansive view of freedom. The struggle to embody freedom for blacks in the Constitution is the history and lesson of the war itself.\\nAmerica came close to accomplishing that embodiment. Yet, the war's cessation removed the motivating necessity of defeating the Confederacy. With victory over treason, Americans precipitously retreated from civil equality, content to allow more normal, peaceful patterns to determine racial relationships. The lesson of the Civil War was forgotten.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1911/15684",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Biblical Studies and Interpretation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "George H. Hoemann"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "WHAT GOD HATH WROUGHT: THE EMBODIMENT OF FREEDOM IN THE THIRTEENTH AMENDMENT"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Rice Digital Scholarship Archive (Rice University), 1982."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biblical Studies and Interpretation"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/E2/E2PIGP3D.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

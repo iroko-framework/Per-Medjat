@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WYHW3KR8>
+  a schema:Chapter ;
+  schema:name "Appendix E: Chart of Comparative Pantheons (Ocha-Palo-Abakuá-Catholic-Greek)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WYHW3KR8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WYHW3KR8" ;
+  schema:author "Alan West-Durán" ;
+  schema:datePublished "2024" ;
+  schema:sameAs <https://doi.org/10.5771/9781793639837-251> ;
+  dcterms:identifier "doi:10.5771/9781793639837-251" ;
+  dcterms:subject "Ancient Mediterranean Archaeology and History", "Classical Antiquity Studies" .

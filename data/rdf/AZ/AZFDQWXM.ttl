@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AZFDQWXM>
+  a schema:Book ;
+  schema:name "The Sacred Language of the Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AZFDQWXM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AZFDQWXM" ;
+  schema:description "In 1988, Lydia Cabrera (1899–1991) published <italic>La lengua sagrada de los Ñáñigos</italic>, an Abakuá phrasebook that is to this day the largest work available on any African diaspora community in the Americas. In the early 1800s in Cuba, enslaved Africans from the Cross River region of southeastern Nigeria and southwestern Cameroon created Abakuá societies for protection and mutual aid. Abakuá rites reenact mythic legends of the institution’s history in Africa, using dance, chants, drumming, symbolic writing, herbs, domestic animals, and masked performers to represent African ancestors. Criminalized and scorned in the colonial era, Abakuá members were at the same time contributing to the creation of a unique Cuban culture, including rumba music, now considered a national treasure Translated for the first time into English, Cabrera’s lexicon documents phrases vital to the creation of a specific African-derived identity in Cuba and presents the first ‘insiders’ view of this African heritage. This text presents thoroughly researched commentaries that link hundreds of entries to the context of mythic rites, skilled ritual performance, and the influence of Abakuá in Cuban society and popular music. Generously illustrated with photographs and drawings, this volume includes a new introduction to Cabrera’s writing as well as appendices that situate this important work in Cuba’s history." ;
+  schema:author "Lydia Cabrera" ;
+  schema:datePublished "2020" ;
+  schema:publisher "University Press of Mississippi eBooks" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781496829443.001.0001> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781496829443.001.0001" ;
+  dcterms:subject "African history and culture analysis", "Language and cultural evolution", "Language, Linguistics, Cultural Analysis" .

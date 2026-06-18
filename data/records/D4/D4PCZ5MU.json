@@ -1,0 +1,124 @@
+{
+  "key": "D4PCZ5MU",
+  "uri": "https://medjat.irokosociety.org/id/library/D4PCZ5MU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=D4PCZ5MU",
+  "zotero": {
+    "group": "6479329",
+    "key": "D4PCZ5MU",
+    "version": 1484,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/D4PCZ5MU",
+    "dateAdded": "2026-05-05T01:14:22Z",
+    "dateModified": "2026-05-05T01:14:22Z"
+  },
+  "display": {
+    "title": "Yoruba Influences on Haitian Vodou and New Orleans Voodoo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Fandrich, I J"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Journal of Black Studies",
+    "publicationTitle": "Journal of Black Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "37",
+    "issue": "5",
+    "pages": "775-791",
+    "abstract": "The enormous impact of the Yoruba religion on the New World African diaspora has been well established by scholars, especially when referring to the heavily Yorubanized popular Creole belief systems of Cuba (Santeriaf Lucumi, Palo) and Brazil (Umbanda, Candomble). Far less known are the connections between the Yoruba faith and the African-based religions of Haiti (Vodou) and New Orleans (Voodoo/Voudou). This article seeks to fill these lacunae and explores the Yoruba influences on these two neo-",
+    "doi": "10.1177/0021934705280410",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Haitian Vodou",
+      "New Orleans Voodoo"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Fandrich, I J"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Yoruba Influences on Haitian Vodou and New Orleans Voodoo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Black Studies, 2007."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "775-791 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1177/0021934705280410"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Haitian Vodou"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "New Orleans Voodoo"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/D4/D4PCZ5MU.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1177/0021934705280410"
+    ],
+    "about": [
+      {
+        "label": "Haitian Vodou",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou"
+      },
+      {
+        "label": "New Orleans Voodoo",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

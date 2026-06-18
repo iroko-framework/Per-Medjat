@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YG4ICWJJ>
+  a schema:Thesis ;
+  schema:name "“Chibata” return: the reproduction of analogue to slave work through the centuries and the challenges for their combat in the 21st century brazilian scenario" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YG4ICWJJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YG4ICWJJ" ;
+  schema:description "I n this research we chose to understand the historical course of the exploitation of slave-like labor and the legal tools of combat in Brazil today. The objective is to understand the lines of exploitation through slave labor and its influence on the construction of Brazil. ILO Conventions 29 and 105, the Universal Declaration of Human Rights, the San Jose Costa Rica Pact, the Protocol of San Salvador and the 1988 Federal Constitution, the Consolidation of Labor Laws, the Penal Code, among others. The study investigated, as a general objective, the analysis of the historical course of slavery in the world to the present day in Brazil and, as specific objectives, the practice of slave labor since the dawn of human existence, including the slave traffic in colonization of continents, the violence committed against the enslaved, the abolition of slavery, the slave-like work existing in Brazil today and the current legal support, the presence of migrants and immigrants in this context and the rural and urban contexts of Brazil where this practice is blatant and the related statistical aspects. It is justified by the timeliness and importance of the theme, as the flagrant work of slave labor is frequent, mainly due to the territorial extension of Brazil and the insufficient amount of Labor Auditors for proper supervision, despite the current regulatory framework. The research was developed from the hypothetical-deductive approach method. The method of procedure used was the observational method combined with the comparative method and the monographic method, linking to the foundations of Marxist historical materialism. The adopted techniques were fact sheets, summaries and expanded summaries and the bibliographic revision used doctrine and legislation, with qualitative and quantitative approach. It concluded that the current legislation is not an obstacle to the practice of forced and degrading labor and that there are several productive systems that benefit from the exploitation of human labor through analogous work to the slave. Thus, it is necessary to strengthen the supervisory structure, combat migrant trafficking, invest in education and provide decent jobs." ;
+  schema:author "Carlos Eduardo Krüger" ;
+  schema:datePublished "2019" ;
+  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:subject "Health, Education, and Cultural Studies", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .

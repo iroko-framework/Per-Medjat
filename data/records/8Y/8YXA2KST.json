@@ -1,0 +1,108 @@
+{
+  "key": "8YXA2KST",
+  "uri": "https://medjat.irokosociety.org/id/library/8YXA2KST",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8YXA2KST",
+  "zotero": {
+    "group": "6479329",
+    "key": "8YXA2KST",
+    "version": 2289,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8YXA2KST",
+    "dateAdded": "2026-05-19T14:19:57Z",
+    "dateModified": "2026-05-19T14:19:57Z"
+  },
+  "display": {
+    "title": "The free world confronted: the problem of slavery and progress in American foreign relations, 1833-1844",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Steven Mitton"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Enacted in 1833, Great Britain’s abolition of West Indian slavery confronted the United States with the complex interrelationship between slavery and progress. Dubbed the Great Experiment, British abolition held the possibility of demonstrating free labor more profitable than slavery. Besides elating the world’s abolitionists, always hopeful of equating material with moral progress, the experiment’s success would benefit Britain economically. Presented evidence of the greater profits of free labor, slaveholders worldwide would find themselves with compelling reason to abandon slavery. Likewise, London policymakers would proceed with little need—and no economic incentive—to promote abolition in British foreign policy. British hopes foundered on almost every count. Even in 1840, after Joseph John Gurney reported the experiment a resounding success, slaveholders in Washington remained unswayed by the prospect of greater profits. Buoyed by their republican ideals, and convinced abolition would bring racial warfare, John C. Calhoun and fellow slaveholders took comfort in the British abolitionists’ evidence of West Indian prosperity. As success implied Britain profited by abolition, British policies could be assumed to lack economic incentive and therefore earnestness. If London moralizers demanded a crusade against the Atlantic slave trade, as well as natural-right policies that lured fugitive slaves and harassed the South with the Underground Railroad, London realists could be expected to frustrate their larger purpose. Southerners’ assurance in the security of slavery diminished after 1843. Approached by the British government with an overture for an immigration agreement that would bring laborers to Britain’s island possessions, Secretary of State Abel P. Upshur perceived an official, if indirect, acknowledgment of the Great Experiment’s failure. Alarmed by the implications of the admission, Upshur ordered an inquiry into the experiment’s results from the American consul in Jamaica, Robert Monroe Harrison. Upon receiving the findings, Upshur expedited measures to annex Texas, catalyzing the sectional crisis that ended in eventual civil war. In part those hostilities resulted from southerners’ newfound understanding of the problem of slavery and progress. Ever more confident of slavery’s economic viability in the modern world, southerners after 1843 looked to Britain and the American North and perceived newfound earnestness in slavery’s enemies.",
+    "doi": "10.31390/gradschool_dissertations.973",
+    "url": "https://doi.org/10.31390/gradschool_dissertations.973",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Steven Mitton"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The free world confronted: the problem of slavery and progress in American foreign relations, 1833-1844"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2004."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_dissertations.973"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/8Y/8YXA2KST.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_dissertations.973"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

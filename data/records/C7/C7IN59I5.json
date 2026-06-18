@@ -1,0 +1,101 @@
+{
+  "key": "C7IN59I5",
+  "uri": "https://medjat.irokosociety.org/id/library/C7IN59I5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C7IN59I5",
+  "zotero": {
+    "group": "6479329",
+    "key": "C7IN59I5",
+    "version": 3372,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C7IN59I5",
+    "dateAdded": "2026-05-20T16:34:17Z",
+    "dateModified": "2026-05-20T16:34:17Z"
+  },
+  "display": {
+    "title": "Le vodou \"asogwe\" diasporique transnational : ontologie analogique et naturalisme moderne globalisé",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hadrien Munier"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Corpus Université Laval (Université Laval)",
+    "publicationTitle": "Corpus Université Laval (Université Laval)",
+    "bookTitle": "",
+    "journalAbbreviation": "Corpus Université Laval (Université Laval)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Cette thèse de doctorat porte sur une forme contemporaine du vodou haïtien telle qu'elle est pratiquée dans la diaspora et plus particulièrement à Montréal. J'ai choisi de focaliser mon étude sur l'une de ses formes présentes en Haïti, appelée vodou asogwe. Ma thèse concerne ainsi l'étude d'une religion diasporique et transnationale dans le contexte de la globalisation. Les données empiriques de ma recherche amènent au constat que la pratique du vodou asogwe à Montréal repose autant sur des adaptations à son nouveau contexte que sur une continuité de sa logique profonde. J'ai élaboré ma méthodologie de manière à pouvoir saisir dans la mesure du possible le sens de la pratique de l'intérieur, en pratiquant régulièrement avec mes interlocuteurs. J'ai mené mes recherches de doctorat pendant deux ans au sein d'une famille spirituelle, tout en prenant également en compte le lignage religieux plus large dans lequel celle-ci s'inscrit. Cela m'a également amené à observer la ritualité et à faire des entretiens dans plusieurs lieux répartis entre Montréal et Haïti, connectés par ce lignage religieux transnational. L'analyse que je mène articule l'étude des religions transnationales à l'approche théorique de l'anthropologie ontologique. La démonstration vise alors à analyser la manière dont l'adaptation du vodou asogwe diasporique à la globalisation permet à celui-ci de se perpétuer tout en étant inséré dans la modernité mais en reposant toujours sur une ontologie distincte. Pour déployer cette analyse, la thèse est organisée autour de l'étude de la dynamique entre adaptations et continuités dans la pratique du vodou asogwe qui se manifeste notamment dans son inscription spatiale et ses processus de territorialisation. Mot-clés : Montréal, Haïti, diaspora, transnationalisation, religion, vodou asogwe, globalisation, ontologie.",
+    "doi": "",
+    "url": "http://hdl.handle.net/20.500.11794/28078",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Migration, Identity, and Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hadrien Munier"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Le vodou \"asogwe\" diasporique transnational : ontologie analogique et naturalisme moderne globalisé"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Corpus Université Laval (Université Laval), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/C7/C7IN59I5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

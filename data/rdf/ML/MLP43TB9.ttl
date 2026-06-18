@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MLP43TB9>
+  a schema:ScholarlyArticle ;
+  schema:name "Abakuá Secret Society" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MLP43TB9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MLP43TB9" ;
+  schema:author "Mark Juergensmeyer" ;
+  schema:creator "Wade ClarkRoof" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Encyclopedia of Global Religion" ;
+  schema:sameAs <https://doi.org/10.4135/9781412997898.n1> ;
+  dcterms:identifier "doi:10.4135/9781412997898.n1" ;
+  dcterms:subject "Crime, Illicit Activities, and Governance" .

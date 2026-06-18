@@ -1,0 +1,128 @@
+{
+  "key": "AJRLUFLA",
+  "uri": "https://medjat.irokosociety.org/id/library/AJRLUFLA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AJRLUFLA",
+  "zotero": {
+    "group": "6479329",
+    "key": "AJRLUFLA",
+    "version": 3444,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AJRLUFLA",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Modern Trafficking, Slavery, and Other Forms of Servitude",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Orlando Patterson"
+      },
+      {
+        "role": "editor",
+        "name": "Xiaolin Zhuo"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Annual Review of Sociology",
+    "publicationTitle": "Annual Review of Sociology",
+    "bookTitle": "",
+    "journalAbbreviation": "Annual Review of Sociology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "44",
+    "issue": "1",
+    "pages": "407-439",
+    "abstract": "The claim that there has been a remarkable revival of slavery, other forms of forced labor, and human trafficking in our times has inspired widespread activism and a vast body of popular and academic works. Although the conflation of terms, exaggerated empirical claims, and a shortage of evidence-based work have prompted legitimate scholarly skepticism, modern trafficking and forms of servitude do present urgent problems for researchers, lawmakers and reformers. We first clarify the most basic terms in the field—servitude, forced labor, slavery, trafficking, and smuggling—then examine all forms of servitude and evaluate the degree to which they properly amount to slavery or result from trafficking. This is followed by an examination of methodological problems in the measurement of types of servitude and a brief analysis of the factors accounting for its contemporary revival. We aim to encourage more scholarly enquiries from sociologists who are uniquely qualified to explore this problem.",
+    "doi": "10.1146/annurev-soc-073117-041147",
+    "url": "https://doi.org/10.1146/annurev-soc-073117-041147",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "HIV, Drug Use, Sexual Risk",
+      "Sex work and related issues",
+      "Sexuality, Behavior, and Technology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Orlando Patterson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Modern Trafficking, Slavery, and Other Forms of Servitude"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Annual Review of Sociology, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "407-439 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1146/annurev-soc-073117-041147"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "HIV, Drug Use, Sexual Risk"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sexuality, Behavior, and Technology"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Xiaolin Zhuo"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AJ/AJRLUFLA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1146/annurev-soc-073117-041147"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

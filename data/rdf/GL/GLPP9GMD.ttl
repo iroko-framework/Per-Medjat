@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GLPP9GMD>
+  a schema:Book ;
+  schema:name "Atlantic Creoles in the age of revolutions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GLPP9GMD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GLPP9GMD" ;
+  schema:description "Sailing the tide of a tumultuous era of Atlantic revolutions, a remarkable group of African-born and African-descended individuals transformed themselves from slaves into active agents of their lives and times. Through prodigious archival research, Jane Landers radically alters our vision of the breadth and extent of the Age of Revolution, and our understanding of its actors." ;
+  schema:author "Landers, Jane" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:identifier "isbn:978-0-674-26528-8" ;
+  dcterms:subject "Black people -- Caribbean Area -- History -- 18th", "Black people -- Caribbean Area -- History -- 19th", "Caribbean Area -- History -- 1810-1945", "Caribbean Area -- History -- To 1810", "Creoles -- Caribbean Area -- History -- 18th centu", "Creoles -- Caribbean Area -- History -- 19th centu", "Revolutions -- Caribbean Area -- History -- 18th c", "Revolutions -- Caribbean Area -- History -- 19th c" .

@@ -1,0 +1,107 @@
+{
+  "key": "HXT6PBHD",
+  "uri": "https://medjat.irokosociety.org/id/library/HXT6PBHD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HXT6PBHD",
+  "zotero": {
+    "group": "6479329",
+    "key": "HXT6PBHD",
+    "version": 1926,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HXT6PBHD",
+    "dateAdded": "2026-05-19T14:18:39Z",
+    "dateModified": "2026-05-19T14:18:39Z"
+  },
+  "display": {
+    "title": "The slave family in the parish of N. S. Carmo of Piracuruca , Piauí - ( 1850-1888 )",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Francisco Helton de Araújo Oliveira Filho"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "publicationTitle": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "bookTitle": "",
+    "journalAbbreviation": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This work analyses the familial relations concerning slaved men and women that lived and worked on the region of freguesia of Nossa Senhora do Carmo, in Piracuruca – Piauí. The chronological delimitation of this work is 1850 to 1888, which aims relations legitimated by either religious normative or consensual agreements, also understanding the laces based on rituals, that were established through compadrio. We argued an array of familial arrangements constituted by the slaves of Piracuruca Freguesia, that has its economical activies directed to internal market, either on small, medium or big properties. We addressed issues as the organization and the stability of familial life of slaves. Through marriage and baptism certificates we enlightened a variety of familial arrangements in which slaved men and women worked together with both, free and freed people. The analytical reading of church registers and through the crossed information between classification lists of slaves and population census data showed a social organization more complex on slaved familial formation, that articulated different approaches according to available resources, that included heterogeneous goals and values, mobilization of parentage relations, compadres, neighbors and captive companions. We also observed the consequences of law 2.040, signed in September, 28th, 1871 – also knowed as Law Rio Branco or Law Freedom of Wombs, on familial lives of slaved people and its impact on freedom projects, through the Emancipation Fund and the importance of savings to reach the freedom.",
+    "doi": "",
+    "url": "http://www.repositorio.ufc.br/handle/riufc/18203",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Migration, Racism, and Human Rights"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Francisco Helton de Araújo Oliveira Filho"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The slave family in the parish of N. S. Carmo of Piracuruca , Piauí - ( 1850-1888 )"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Racism, and Human Rights"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HX/HXT6PBHD.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

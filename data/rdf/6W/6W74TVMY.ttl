@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6W74TVMY>
+  a schema:Book ;
+  schema:name "The price for their pound of flesh: the value of the enslaved, from womb to grave, in the building of a nation" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6W74TVMY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6W74TVMY" ;
+  schema:description "\"Groundbreaking look at slaves as commodities through every phase of life, from birth to death and beyond, in early America. The Price for Their Pound of Flesh is the first book to explore the economic value of enslaved people through every phase of their lives–including from before birth to after death–in the American domestic slave trades. Covering the full \"life cycle\" (including preconception, infancy, childhood, adolescence, adulthood, the senior years, and death), historian Daina Berry shows the lengths to which slaveholders would go to maximize profits. She draws from over ten years of research to explore how enslaved people responded to being appraised, bartered, and sold. By illuminating their lives, Berry ensures that the individuals she studies are regarded as people, not merely commodities. Analyzing the depth of this monetization of human property will change the way we think about slavery, reparations, capitalism, and nineteenth-century medical education\"–Provided by publisher." ;
+  schema:author "Berry, Daina Ramey" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Beacon Press" ;
+  dcterms:identifier "isbn:978-0-8070-4762-0" ;
+  dcterms:subject "Enslaved children -- United States -- Social condi", "Enslaved older people -- United States -- Social c", "Enslaved persons -- United States -- Economic cond", "Enslaved persons -- United States -- Social condit", "Enslaved women -- United States -- Social conditio", "Slave trade -- United States -- History", "Slavery -- Economic aspects -- United States" .

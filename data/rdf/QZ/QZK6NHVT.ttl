@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QZK6NHVT>
+  a schema:Thesis ;
+  schema:name "Historical presents: a study of the debates around reparations for slavery in the United States and France, the post racial era and the Age of Commemoration" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QZK6NHVT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QZK6NHVT" ;
+  schema:description "This thesis is an interdisciplinary study that attempts to bridge important discussions in three different fields: the philosophy of history, Atlantic History and the emergent scholarship around the politics and memory of historical (in)justice. I unite these three disciplines by bringing a key concept from the philosophy of history to an analysis of two empirical cases: the debates about reparations for slavery in France and the United States. I use the French philosopher Paul Ricoeur’s concept of the historical present to introduce an entirely original perspective to the scholarship around the issue of reparations and in so doing, expose dimensions of this discussion that have, heretofore, never been subjected to serious scholarly analysis. The historical present also provides a reference point around which I organize a thoroughgoing comparative analysis of the reparations debates in France and the United States. The result is the first in-depth comparative study of the issue of reparations for slavery of those two countries. Since in France, the reparations debates have only recently moved to center stage of public attention, little research on this phenomenon has been done and my thesis is the first scholarly history of the reparations debates there. But the introduction of Ricoeur’s notion of the historical present to the question of reparations for slavery is not only an original contribution to the scholarship on these debates, it also produces productive insights for the philosophy of history as well. Thus, the benefits of the interdisciplinary approach that I adopt in this thesis are mutual: reflection on the historical present in the concrete context of the ongoing debates about reparations exposes problematic assumptions in Paul Ricoeur’s theory of narrative temporality." ;
+  schema:author "Kenan Van De Mieroop" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Ghent University Academic Bibliography (Ghent University)" ;
+  dcterms:subject "Hermeneutics and Narrative Identity", "Military, Security, and Education Studies", "Vietnamese History and Culture Studies" .

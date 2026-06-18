@@ -1,0 +1,119 @@
+{
+  "key": "L7VS4BD6",
+  "uri": "https://medjat.irokosociety.org/id/library/L7VS4BD6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=L7VS4BD6",
+  "zotero": {
+    "group": "6479329",
+    "key": "L7VS4BD6",
+    "version": 4107,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/L7VS4BD6",
+    "dateAdded": "2026-06-17T15:31:08Z",
+    "dateModified": "2026-06-17T15:31:08Z"
+  },
+  "display": {
+    "title": "Réseaux transnationaux d’artistes et relocalisation du répertoire « afro-cubain » dans le Veracruz",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kali Argyriadis"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Revue européenne de migrations internationales",
+    "publicationTitle": "Revue européenne de migrations internationales",
+    "bookTitle": "",
+    "journalAbbreviation": "Revue européenne de migrations internationales",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "25",
+    "issue": "2",
+    "pages": "119-140",
+    "abstract": "Le répertoire musical et chorégraphique « afro-cubain » est considéré aujourd’hui comme un apport légitime et valorisé à l'identité culturelle nationale cubaine. Il est transmis au public non-cubain par des musiciens et des danseurs professionnels qui sont aussi des pratiquants des religions « afro-cubaines ». Insérés dans de complexes réseaux rituels et professionnels polycentrés, ces artistes ont formé des élèves qui contribuent à leur tour à la construction de larges réseaux transnationaux d’artistes. Dans cet article, je propose d’ébaucher une analyse historique et ethnographique de ces réseaux, depuis leur naissance à Cuba et en explorant l’une de leurs ramifications dans l'État du Veracruz, au Mexique. Il s’agira dans un premier temps de comprendre le fonctionnement concret de la diffusion d’un répertoire pour ensuite analyser la ré-interprétation de ce dernier à la lumière des relations de pouvoir générées par l’organisation en réseaux.",
+    "doi": "10.4000/remi.4955",
+    "url": "https://doi.org/10.4000/remi.4955",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Hispanic-African Historical Relations",
+      "Indigenous Cultures and History",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kali Argyriadis"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Réseaux transnationaux d’artistes et relocalisation du répertoire « afro-cubain » dans le Veracruz"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revue européenne de migrations internationales, 2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "119-140 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/remi.4955"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indigenous Cultures and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/L7/L7VS4BD6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/remi.4955"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

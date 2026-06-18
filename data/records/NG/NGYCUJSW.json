@@ -1,0 +1,114 @@
+{
+  "key": "NGYCUJSW",
+  "uri": "https://medjat.irokosociety.org/id/library/NGYCUJSW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NGYCUJSW",
+  "zotero": {
+    "group": "6479329",
+    "key": "NGYCUJSW",
+    "version": 1905,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NGYCUJSW",
+    "dateAdded": "2026-05-19T14:18:34Z",
+    "dateModified": "2026-05-19T14:18:34Z"
+  },
+  "display": {
+    "title": "Cassius Dio's Speeches and the Collapse of the Roman Republic",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Christopher Burden-Strevens"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis argues that Cassius Dio used his speeches of his Late Republican and Augustan narratives as a means of historical explanation. I suggest that the interpretative framework which the historian applied to the causes and success of constitutional change can be most clearly identified in the speeches. The discussion is divided into eight chapters over two sections. Chapter 1 (Introduction) sets out the historical, paideutic, and compositional issues which have traditionally served as a basis for rejecting the explanatory and interpretative value of the speeches in Dio’s work and for criticising his Roman History more generally. Section 1 consists of three methodological chapters which respond to these issues. In Chapter 2 (Speeches and Sources) I argue that Dio’s prosopopoeiai approximate more closely with the political oratory of that period than has traditionally been recognised. Chapter 3 (Dio and the Sophistic) argues that Cassius Dio viewed the artifice of rhetoric as a particular danger in his own time. I demonstrate that this preoccupation informed, credibly, his presentation of political oratory in the Late Republic and of its destructive consequences. Chapter 4 (Dio and the Progymnasmata) argues that although the texts of the progymnasmata in which Dio will have been educated clearly encouraged invention with a strongly moralising focus, it is precisely his reliance on these aspects of rhetorical education which would have rendered his interpretations persuasive to a contemporary audience. Section 2 is formed of three case-studies. In Chapter 5 (The Defence of the Republic) I explore how Dio placed speeches-in-character at three Republican constitutional crises to set out an imagined case for the preservation of that system. This case, I argue, is deliberately unconvincing: the historian uses these to elaborate the problems of the distribution of power and the noxious influence of φθόνος and φιλοτιμία. Chapter 6 (The Enemies of the Republic) examines the explanatory role of Dio’s speeches from the opposite perspective. It investigates Dio’s placement of dishonest speech into the mouths of military figures to make his own distinctive argument about the role of imperialism in the fragmentation of the res publica. Chapter 7 (Speech after the Settlement) argues that Cassius Dio used his three speeches of the Augustan age to demonstrate how a distinctive combination of Augustan virtues directly counteracted the negative aspects of Republican political and rhetorical culture which the previous two case-studies had explored. Indeed, in Dio’s account of Augustus the failures of the res publica are reinvented as positive forces which work in concert with Augustan ἀρeτή to secure beneficial constitutional change.",
+    "doi": "10.1163/9789004431362",
+    "url": "https://doi.org/10.1163/9789004431362",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Classical Antiquity Studies",
+      "Organic Chemistry Synthesis Methods"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Christopher Burden-Strevens"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cassius Dio's Speeches and the Collapse of the Roman Republic"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2020."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/9789004431362"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Classical Antiquity Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Organic Chemistry Synthesis Methods"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NG/NGYCUJSW.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/9789004431362"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

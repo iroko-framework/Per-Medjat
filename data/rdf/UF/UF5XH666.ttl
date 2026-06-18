@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/UF5XH666>
+  a schema:ScholarlyArticle ;
+  schema:name "EL HOMBRE Y EL ANIMAL EN LA COLOMBIA PREHISPÁNICA: ESTUDIO DE UNA RELACIÓN EN LA ORFEBRERÍA" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=UF5XH666> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:UF5XH666" ;
+  schema:description "En el estudio de la iconografía de la orfebrería colombiana prehispánica en las colecciones del Museo del Oro, Bogotá, se observa la constante puesta en escena de la imagen del hombre con la de ciertos animales, a veces separados y otras veces entremezclados en una sola figura. La cosmogonía prehispánica propia de Colombia, así como de otras áreas culturales de América, da cuenta de la importancia de esta relación. No obstante, se sigue pensando que la iconografía prehispánica es simplemente la representación de los protagonistas de los actos religiosos y mitológicos. En este artículo se plantea que las imágenes observadas, en vez de ser figurativas, simbolizan o contienen un pensamiento complejo, el cual se transmitía mediante metáforas visuales, o bien a través de los mitos o durante los rituales." ;
+  schema:author "Enora Gault" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Boletín del Museo Chileno de Arte Precolombino" ;
+  schema:sameAs <https://doi.org/10.4067/s0718-68942012000100002> ;
+  dcterms:identifier "doi:10.4067/s0718-68942012000100002" ;
+  dcterms:subject "Cultural and Mythological Studies", "Literary and Cultural Studies" .

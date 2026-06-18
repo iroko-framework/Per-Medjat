@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RSRUUFX4>
+  a schema:ScholarlyArticle ;
+  schema:name "The tragedy of the ñáñigos: Genesis of an unpublished book" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RSRUUFX4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RSRUUFX4" ;
+  schema:description "Reconstructs Fernando Ortiz' s anthropological study on Afro-Cuban culture since the early 20th c., in particular on the Abakuá male secret societies, also called \"ñañigos\", with origins in African societies in the Calabar region. Author describes how Ortiz developed from earlier positivist, criminological approaches to broader, appreciative studies of Afro-Cuban culture, with a lasting interest in the Abakuá societies. Ortiz studied several aspects of Abakuá and collected much data and information, and referred to Abakuá aspects in works from the 1930s and 1940s, and wrote articles on specific Abakuá aspects in the 1950s. Author shows how Ortiz from 1917 onward in his correspondence stated repeatedly to fellow-scholars his goal of writing a comprehensive, extensive monograph on Abakuá, for which he collected much information during his life. In the 1950s he cooperated for this purpose with Vera Rubin from Columbia University. Author points out, however, how this monograph on Abakuá, while probably written by Ortiz at the end of his life, and seen by some, cannot be found in the present." ;
+  schema:author "María del Rosario Pomeda Díaz" ;
+  schema:datePublished "2005" ;
+  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
+  schema:sameAs <https://doi.org/10.1163/22134360-90002507> ;
+  dcterms:identifier "doi:10.1163/22134360-90002507" ;
+  dcterms:subject "Cuban History and Society" .

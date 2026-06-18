@@ -1,0 +1,116 @@
+{
+  "key": "58JA8QNV",
+  "uri": "https://medjat.irokosociety.org/id/library/58JA8QNV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=58JA8QNV",
+  "zotero": {
+    "group": "6479329",
+    "key": "58JA8QNV",
+    "version": 3834,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/58JA8QNV",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Surplus and Social Change: The Production of Household and Field in Pre-Aztec Central Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kristin De Lucia"
+      },
+      {
+        "role": "editor",
+        "name": "Christopher T. Morehart"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "University Press of Colorado eBooks",
+    "journalAbbreviation": "University Press of Colorado eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "73-96",
+    "abstract": "",
+    "doi": "10.5876/9781607323808.c003",
+    "url": "https://doi.org/10.5876/9781607323808.c003",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American history and culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kristin De Lucia"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Surplus and Social Change: The Production of Household and Field in Pre-Aztec Central Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "73-96 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5876/9781607323808.c003"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Christopher T. Morehart"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/58/58JA8QNV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5876/9781607323808.c003"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

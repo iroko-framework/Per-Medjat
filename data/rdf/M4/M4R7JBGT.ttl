@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M4R7JBGT>
+  a schema:Book ;
+  schema:name "Owning memory: how a Caribbean community lost its archives and found its history" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M4R7JBGT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M4R7JBGT" ;
+  schema:description "This book examines the relationships between archives, communities and collective memory through both the lens of a postcolonial society, the United States Virgin Islands, a former colony of Denmark, now a United States territory, and through an archival perspective on the relationship between communities and the creation of records. Because the historical records of the Virgin Islands reside primarily in Denmark and the United States, Virgin Islanders have had limited access to the primary sources of their history and this has affected both their ability to write their own history and to construct their collective memory. But while a strong oral tradition, often in competition with the written tradition, influences the ways in which this community remembers, it also underlines the dilemma of interpreting the history of the colonized through the records of the colonizer. The story of the Virgin Islands and its search for its memory includes an exploration of how this community, through public commemorations and folk tradition has formed its memory to date, and the role that archives play in this process. Interwoven throughout is a broader analysis of the place of archives and archivists in helping communities find their history. The book is exceptionally well written and will appeal to historians, archivists and those interested in the Carribean." ;
+  schema:author "Bastian, Jeannette A" ;
+  schema:datePublished "2003" ;
+  schema:publisher "Libraries Unlimited" ;
+  dcterms:identifier "isbn:979-8-4006-9475-2" ;
+  dcterms:subject "Archives -- Virgin Islands of the United States", "Memory -- Social aspects -- Virgin Islands of the", "United States Virgin Islands -- Historiography" .

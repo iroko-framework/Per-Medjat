@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4U2BK8R4>
+  a schema:ScholarlyArticle ;
+  schema:name "Mycotoxins and mycotoxigenic fungi in spices and mixed spices: a review" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4U2BK8R4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4U2BK8R4" ;
+  schema:description "Mycotoxins are secondary metabolites produced by fungi mainly from the genus Aspergillus, Penicillium, Fusarium, and Alternaria. The occurrence of mycotoxin contamination has been reported in various types of food, including spices such as chilli, black pepper, white pepper, cumin, coriander seed, and the ground mix spices. Aflatoxins (AFs) and ochratoxin A (OTA) are the primary mycotoxins in spices produced by Aspergillus spp. and Penicillium spp. Among these spices, chilli is more susceptible to the invasion of these mycotoxigenic fungi, especially during prolonged storage and inappropriate storage conditions, resulting in mycotoxin production. The storage conditions, processing methods, and handling practices of spices may affect the growth of fungi and subsequent mycotoxin production. This paper reviewed mycotoxigenic fungi and mycotoxin contamination in spices, the impact on humans, and the regulatory limit adopted by many countries worldwide." ;
+  schema:author "N. Syamilah" ;
+  schema:creator "Nurul Afifah S.", "Effarizah Mohd Esah", "Norlia Mahror" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Food Research" ;
+  schema:sameAs <https://doi.org/10.26656/fr.2017.6(4).971> ;
+  dcterms:identifier "doi:10.26656/fr.2017.6(4).971" ;
+  dcterms:subject "Mycotoxins in Agriculture and Food", "Plant Pathogens and Resistance", "Potato Plant Research" .

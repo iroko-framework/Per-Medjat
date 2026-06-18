@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/A54YMPH3>
+  a schema:Thesis ;
+  schema:name "Clandestine migration and the business of bordering Europe" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=A54YMPH3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:A54YMPH3" ;
+  schema:description "Irregular, clandestine or so-called “illegal” migration by land and sea is rarely out of the political and media agenda in Europe despite its statistically limited significance. Taking this mismatch as its starting point, this thesis explores the industry that has emerged around clandestine migration in recent years – the transnational policing networks, aid organisations and media outlets that all make the “illegal immigrant” their target, beneficiary and source. It focuses on the migration circuit between West Africa and Spain, where a joint European response to irregular flows was first tried and tested under the umbrella of the border agency Frontex. It is also here that success in “fighting illegal migration” has been most readily announced following the brief, spectacular migration “crises” in Spain’s North African enclaves of Ceuta and Melilla in 2005 and in the Canary Islands in 2006.&#13;\\nThe thesis explores ethnographically how clandestine migration has been constituted as a field of intervention and knowledge-gathering since this time. In this field, it is argued, the roles of policing, caring for and informing on migrants intermingle while producing shared models, materialities and classifications that impinge upon the travellers labelled “illegal”. Drawing on the dynamic nominalism of Ian Hacking, the actor-network theory of Bruno Latour and a growing body of critical migration and border studies, the thesis explores the interfaces where specific modalities of migrant illegality are produced. The exploration of these interfaces – in deportation, surveillance, patrolling, rescues, reception and activism – relies on an extended field site, with research carried out in Senegal, Mali, Morocco, southern Spain and European policing headquarters. Throughout, the thesis highlights not just the workings of the migration industry but this industry’s excesses and absurdities, which make the business of bordering Europe a fraught and contradictory enterprise." ;
+  schema:author "Ruben Andersson" ;
+  schema:datePublished "2012" ;
+  schema:publisher "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)" ;
+  dcterms:subject "Migration and Exile Studies", "Migration, Refugees, and Integration" .

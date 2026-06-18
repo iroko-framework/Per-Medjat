@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/I3TLQZN2>
+  a schema:Thesis ;
+  schema:name "Reaching for the Promised Land: the role of culture, issues of leadership and social stratification within British Caribbean Christianity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=I3TLQZN2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:I3TLQZN2" ;
+  schema:description "Caribbean communities in Britain are known for the high religiosity of their people, and yet as ‘popular’ as the Church appears to be, there is at the same time an over-representation of many in the criminal justice, mental health and social care systems. This thesis takes a new approach to examining the effectiveness of the Church in their lives; rather than examine its belief systems and rituals, it looks at the worship and personal experience of Baptists, the oldest inherited Christian denomination, through the lens of culture. It reveals through practices and experiences, that British Caribbean Christians continue to maintain an allegiance to inherited missionary prejudices against Caribbean culture, enforced by leaders, through a system of social stratification, resulting in self-loathing, alienation and dislocation. They are a people who respect biblical stories and particularly the story of the Exodus, which gives meaning to not just their religious, but social and political lives. This thesis theologically reflects on that story, reframing it to demonstrate that Moses is indeed to be celebrated, but not simply as one who leads God’s people out of Egypt, but to the Promised Land; being a successful prototype of a leadership founded on cultural inclusion." ;
+  schema:author "Doreen Morrison" ;
+  schema:datePublished "2012" ;
+  schema:publisher "University of Birmingham Institutional Research Archive (University of Birmingham)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Postcolonial and Cultural Literary Studies", "Religion, Society, and Development" .

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RB84QFB3>
+  a schema:Book ;
+  schema:name "The Light Inside" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RB84QFB3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RB84QFB3" ;
+  schema:description "Originally published in 2003, The Light Inside is a ground-breaking study of an Afro-Cuban secret society, its sacred arts, and their role in modern Cuban cultural history. Enslaved Africans and creoles developed the Abakuá Society, a system of men’s fraternal lodges, in urban Cuba beginnings in 1836. Drawing on years of fieldwork in the country, the book’s novel approach builds on close readings of dazzling Abakuá altars, chalk-drawn signs, and hooded masquerades. It looks at the art history of Abakuá altars, not only tracing changing styles but also how they evolve through cycles of tradition and renovation. The Light Inside reflects the essence of the artists’ creativity and experience: through adornment, altars project the powerful spirituality of Abakuá practice, an aesthetic strategy. The book also traces a biography of Abakuá objects – their shifting forms and meanings – as they participated in successive periods of Cuban cultural history. The book constructs close rhetorical and visual analyses of changing representations of the Abakuá, spanning nineteenth-century arts and letters, modern ethnographic texts, museum displays, paintings, and late twentieth century commercial kitsch. This interdisciplinary work combines art history, African Diaspora, cultural studies and cultural anthropology with Latin American." ;
+  schema:author "David H. Brown" ;
+  schema:datePublished "2019" ;
+  schema:sameAs <https://doi.org/10.4324/9780429283789> ;
+  dcterms:identifier "doi:10.4324/9780429283789" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Cuban History and Society" .

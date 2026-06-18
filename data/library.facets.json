@@ -1,0 +1,73 @@
+{
+  "recordTypes": {
+    "journalArticle": {
+      "label": "Journal Article",
+      "count": 469
+    },
+    "thesis": {
+      "label": "Thesis / Dissertation",
+      "count": 333
+    },
+    "book": {
+      "label": "Book",
+      "count": 87
+    },
+    "bookSection": {
+      "label": "Book Chapter",
+      "count": 48
+    },
+    "report": {
+      "label": "Report",
+      "count": 5
+    },
+    "document": {
+      "label": "Document",
+      "count": 1
+    },
+    "webpage": {
+      "label": "Web Page",
+      "count": 1
+    },
+    "newspaperArticle": {
+      "label": "newspaperArticle",
+      "count": 1
+    }
+  },
+  "traditions": {
+    "__untagged__": {
+      "label": "Untagged",
+      "count": 911
+    },
+    "West African traditions": 17,
+    "Central African traditions": 9,
+    "Haitian Vodou": 8,
+    "Afro-Indigenous": 3,
+    "Syncretic/Creole": 3,
+    "Candomble": 2,
+    "New Orleans Voodoo": 1,
+    "Pan-African Political-Spiritual": 1,
+    "Shango Baptist": 1,
+    "Voodoo": 1
+  },
+  "themes": {
+    "__untagged__": {
+      "label": "Untagged",
+      "count": 935
+    },
+    "Secret Society": 4,
+    "Lineage": 3,
+    "Material Culture": 3,
+    "Music": 2,
+    "Ritual": 2,
+    "Botanical": 1,
+    "Rituals": 1
+  },
+  "frameworkClasses": {},
+  "frameworkModules": {
+    "Ewé": 2
+  },
+  "access": {
+    "Public": 939,
+    "Community": 6
+  }
+}

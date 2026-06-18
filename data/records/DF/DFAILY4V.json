@@ -1,0 +1,164 @@
+{
+  "key": "DFAILY4V",
+  "uri": "https://medjat.irokosociety.org/id/library/DFAILY4V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DFAILY4V",
+  "zotero": {
+    "group": "6479329",
+    "key": "DFAILY4V",
+    "version": 3961,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DFAILY4V",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Cu Nanoparticles in Hydrogels of Chitosan-PVA Affects the Characteristics of Post-Harvest and Bioactive Compounds of Jalapeño Pepper",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Zeus H. Pinedo-Guerrero"
+      },
+      {
+        "role": "editor",
+        "name": "Alma Delia Hernández-Fuentes"
+      },
+      {
+        "role": "editor",
+        "name": "Hortensia Ortega‐Ortíz"
+      },
+      {
+        "role": "editor",
+        "name": "Adalberto Benavides‐Mendoza"
+      },
+      {
+        "role": "editor",
+        "name": "Gregorio Cadenas‐Pliego"
+      },
+      {
+        "role": "editor",
+        "name": "Antonio Juárez‐Maldonado"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Molecules",
+    "publicationTitle": "Molecules",
+    "bookTitle": "",
+    "journalAbbreviation": "Molecules",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "22",
+    "issue": "6",
+    "pages": "926-926",
+    "abstract": "Peppers are consumed all over the world due to the flavor, aroma, and color that they add to food. Additionally, they play a role in human health, as they contain a high concentration of bioactive compounds and antioxidants. The treatments used were an absolute control, Cs-PVA, and four treatments with 0.02, 0.2, 2, and 10 mg (nCu) g−1 (Cs-PVA). The application of Cu nanoparticles in chitosan-PVA hydrogels increases the content of capsaicin by up to 51% compared to the control. This application also increases the content of antioxidants ABTS [2,2′-azino-bis (3-ethylbenzothiazolin-6-sulfonic acid)] and DPPH (2,2-diphenyl-1-picrylhydrazyl), total phenols and flavonoids (4%, 6.6%, 5.9%, and 12.7%, respectively) in jalapeño pepper fruits stored for 15 days at room temperature; under refrigeration, it increases DPPH antioxidants, total phenols, and flavonoids (23.9%, 1.54%, and 17.2%, respectively). The application of Cu nanoparticles in chitosan-PVA hydrogels, even when applied to the substrate, not only has an effect on the development of the jalapeño pepper crop, but also modifies the post-harvest characteristics of the jalapeño pepper fruits.",
+    "doi": "10.3390/molecules22060926",
+    "url": "https://doi.org/10.3390/molecules22060926",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Nanocomposite Films for Food Packaging",
+      "Piperaceae Chemical and Biological Studies",
+      "Postharvest Quality and Shelf Life Management"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Zeus H. Pinedo-Guerrero"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cu Nanoparticles in Hydrogels of Chitosan-PVA Affects the Characteristics of Post-Harvest and Bioactive Compounds of Jalapeño Pepper"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Molecules, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "926-926 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/molecules22060926"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Nanocomposite Films for Food Packaging"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Piperaceae Chemical and Biological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Postharvest Quality and Shelf Life Management"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Alma Delia Hernández-Fuentes"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Hortensia Ortega‐Ortíz"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Adalberto Benavides‐Mendoza"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Gregorio Cadenas‐Pliego"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Antonio Juárez‐Maldonado"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/DF/DFAILY4V.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/molecules22060926"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

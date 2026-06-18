@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8B8BQG98>
+  a schema:Chapter ;
+  schema:name "Retrospective Analysis Within a Counterpoint Framework" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8B8BQG98> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8B8BQG98" ;
+  schema:description "Abstract In this chapter, two forms of analysis that are frequently undertaken in cognitive archaeology—prospective analysis and retrospective analysis—are differentiated. Prospective analysis in recent decades has tended to dominate certain themes in cognitive archaeological research and among these themes is the study of ancient Maya rituals. In this study, a retrospective analysis is conducted on a stela ritual deposit uncovered at the ancient Maya site of Quebrada de Oro located in the interior of the southern Maya Mountains of Belize. Retrospective analysis involves anchoring inferences regarding aspects of the human mind in the past—in this case, motives—to epistemologically familiar human behaviors and thought processes. The interpretation from the results of this analysis is used as a counterpoint to the conventional interpretation of similar ancient Maya ritual deposits which have been derived from prospective analysis. This proposed analytical framework of using both forms of analysis as respective counterpoints, it is asserted, can broaden or narrow our interpretations of the study of the human mind in the past depending on the case." ;
+  schema:author "Marc A. Abramiuk" ;
+  schema:datePublished "2023" ;
+  schema:sameAs <https://doi.org/10.1093/oxfordhb/9780192895950.013.39> ;
+  dcterms:identifier "doi:10.1093/oxfordhb/9780192895950.013.39" ;
+  dcterms:subject "Categorization, perception, and language" .

@@ -1,0 +1,107 @@
+{
+  "key": "2XYNF3UF",
+  "uri": "https://medjat.irokosociety.org/id/library/2XYNF3UF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2XYNF3UF",
+  "zotero": {
+    "group": "6479329",
+    "key": "2XYNF3UF",
+    "version": 3819,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2XYNF3UF",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Mexican Cochineal, Local Technologies and the Rise of Global Trade from the Sixteenth to the Nineteenth Centuries",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Carlos Marichal"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "255-273",
+    "abstract": "The history of Mexican cochineal over several centuries represents a key chapter in the origins of early modern globalization, both cultural and economic, since this dye was the most expensive in the world from the sixteenth to the eighteenth centuries as a result of the consistent demand for luxury textiles—dyed with bright crimson, scarlet or purple colours—by monarchs, the hierarchy of the Catholic Church and aristocrats in Europe, as well as amongst the very wealthy almost everywhere. In this chapter, emphasis is placed on a series of elements which relate to the question of how some special commodities—in this case cochineal—produced in the early modern era by peasants in non-European regions came to play a major role in stimulating global trade and contributed to textile protoindustrialization in other continents.",
+    "doi": "10.1007/978-981-10-4053-5_12",
+    "url": "https://doi.org/10.1007/978-981-10-4053-5_12",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American history and culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Carlos Marichal"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mexican Cochineal, Local Technologies and the Rise of Global Trade from the Sixteenth to the Nineteenth Centuries"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "255-273 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1007/978-981-10-4053-5_12"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/2X/2XYNF3UF.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1007/978-981-10-4053-5_12"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

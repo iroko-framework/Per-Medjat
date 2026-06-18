@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NPRU6PB2>
+  a schema:Book ;
+  schema:name "Performing Anti-Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NPRU6PB2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NPRU6PB2" ;
+  schema:description "In Performing Anti-Slavery, Gay Gibson Cima reimagines the connection between the self and the other within activist performance, providing fascinating new insights into women&amp;apos;s nineteenth-century reform efforts, revising the history of abolition, and illuminating an affective repertoire that haunts both present-day theatrical stages and anti-trafficking organizations. Cima argues that black and white American women in the nineteenth-century abolitionist movement transformed mainstream performance practices into successful activism. In family circles, literary associations, religious gatherings, and transatlantic anti-slavery societies, women debated activist performance strategies across racial and religious differences: they staged abolitionist dialogues, recited anti-slavery poems, gave speeches, shared narratives, and published essays. Drawing on liberal religious traditions as well as the Eastern notion of transmigration, Elizabeth Chandler, Sarah Forten, Maria W. Stewart, Sarah Douglass, Lucretia Mott, Ellen Craft and others forged activist pathways that reverberate to this day." ;
+  schema:author "Gay Gibson Cima" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Cambridge University Press eBooks" ;
+  schema:sameAs <https://doi.org/10.1017/cbo9781107447653> ;
+  dcterms:identifier "doi:10.1017/cbo9781107447653" ;
+  dcterms:subject "Asian American and Pacific Histories", "Race, History, and American Society" .

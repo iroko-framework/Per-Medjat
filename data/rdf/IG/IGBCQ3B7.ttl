@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/IGBCQ3B7>
+  a schema:ScholarlyArticle ;
+  schema:name "The influences of forest fire on the vegetation and some soil properties of a savanna ecosystem in Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IGBCQ3B7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IGBCQ3B7" ;
+  schema:description "The effect of forest fire on natural forest in Southern Guinea Savanna in Nigeria was investigated. The study was carried out in Oro forest reserve in Kwara State, Nigeria. The study site was located in the north-eastern and south-western portions of the reserve. In each location in the forest, one hectare (100 m &times; 100 m) was divided into 100 plots of 10 m &times; 10 m. Twenty plots were randomly selected for determining the frequency of burned trees, re-sprouted trees and the numbers of seedling/ha. Soil samples were also collected at three depths: 0 - 5, 6 - 10, 11 - 15 and 16 - 20 cm. Soil samples were taken before burning and one year after burning. The effect of fire on tree species recovery showed that regeneration of Byrsicarpus coccineus, Grewia mollis and Butyrospermum Paradoxium were very encouraging in the burned area. In contrast, Adenodolichos peniculatus, Fadogia pobegunii and Terminalia aviceniodes were very sensitive to fire as they failed to regenerate or poorly reproduced in the burned area.&nbsp; Fire had no effect on soil texture except 0 - 5 cm. Soil pH significantly increased available phosphorus increased significantly, whereas, soil organic matter, available acidity and total nitrogen significantly decreased in the burned area. Also, metallic cations (Ca, Mg, K) and cation exchange capacity increased in the burned area. These changes were related primarily to oxidation of the organic matter layer during fire and concurrent changes in the soil environment following fire (e.g. a reduction in organic matter content of the soil, and increased soil pH). &nbsp; Key words: Guinea Savanna, soil properties, forest fire, Regeneration, Byrsicarpus cocineus, Adenodolichos peniculatus." ;
+  schema:author "A. R. Fatubarin" ;
+  schema:creator "Michael Rotimi Olojugba" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Journal of Soil Science and Environmental Management" ;
+  schema:sameAs <https://doi.org/10.5897/jssem13.0413> ;
+  dcterms:identifier "doi:10.5897/jssem13.0413" ;
+  dcterms:subject "African Botany and Ecology Studies", "Fire effects on ecosystems" .

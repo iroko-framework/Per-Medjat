@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TXC249DT>
+  a schema:ScholarlyArticle ;
+  schema:name "Ritual y simbolos de la iniciación en la sociedad secreta Abakua" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TXC249DT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TXC249DT" ;
+  schema:description "Cabrera Lydia. Ritual y simbolos de la iniciación en la sociedad secreta Abakua. In: Journal de la Société des Américanistes. Tome 58, 1969. pp. 139-171." ;
+  schema:author "Lydia Cabrera" ;
+  schema:datePublished "1969" ;
+  schema:publisher "Journal de la Société des Américanistes" ;
+  schema:sameAs <https://doi.org/10.3406/jsa.1969.2101> ;
+  dcterms:identifier "doi:10.3406/jsa.1969.2101" ;
+  dcterms:subject "Archaeological and Geological Studies" .

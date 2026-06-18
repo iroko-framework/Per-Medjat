@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZZ67CBB6>
+  a schema:Book ;
+  schema:name "Òwe l'ẹṣin ọrọ : Yoruba proverbs - their meaning and usage" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZZ67CBB6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZZ67CBB6" ;
+  schema:author "Isaac O. Delano" ;
+  schema:datePublished "1966" ;
+  schema:publisher "Oxford University Press eBooks" ;
+  dcterms:subject "Language, Linguistics, Cultural Analysis", "Language, Metaphor, and Cognition", "Swearing, Euphemism, Multilingualism" .

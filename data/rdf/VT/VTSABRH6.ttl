@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VTSABRH6>
+  a schema:ScholarlyArticle ;
+  schema:name "El capital social para el turismo rural en Mata Clara y El Mirador, comunidades afrodescendientes de Veracruz" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VTSABRH6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VTSABRH6" ;
+  schema:description "El capital social son las formas intangibles de un individuo que funciona colectivamente, como la cooperación, la confianza, las normas, la cohesión social y las redes; aspectos capaces de crear y aprovechar otras formas de capital como el físico, el económico y el humano; en consecuencia, el capital social es fundamental para emprender un proyecto de turismo rural y resulta prioritario estimarlo como parte integral del proyecto. El objetivo fue analizar el capital social orientado al turismo rural en dos comunidades afromexicanas de la región de las Grandes Montañas de Veracruz, para conocer sus fortalezas y oportunidades. Se realizó una investigación mixta con muestreo no probabilístico discrecional a 31 personas. La primera parte consistió de una encuesta para reconocer el capital social en las comunidades de El Mirador en el municipio de Yanga, y Mata Clara en el municipio de Cuitláhuac. En la segunda parte se realizaron entrevistas a profundidad para construir un discurso del patrimonio con miras a ser empleado para su aprovechamiento turístico. Se identifica cierto grado de fragmentación comunitaria, opiniones limitantes como la desconfianza al gobierno, inseguridad e identidad; sin embargo, existe una actitud a la creación de colectivos para realizar actividades turísticas comunitarias, fundadas en la colaboración con trabajo o económico con base en la confianza en amigos y familiares. Además, se observa cierta apropiación de algunos elementos patrimoniales, el desconocimiento de su historia y la ausencia de identidad de fondo, como los principales elementos que limitan el emprendimiento de proyectos turísticos comunitarios." ;
+  schema:author "Dora Angélica Ávalos de la Cruz" ;
+  schema:creator "Pablo Martínez García", "Carlos Gilberto García-García", "Juan Valente Hidalgo‐Contreras", "Víctor Manuel López Guevara" ;
+  schema:datePublished "2022" ;
+  schema:publisher "El Periplo Sustentable" ;
+  schema:sameAs <https://doi.org/10.36677/elperiplo.v0i42.14162> ;
+  dcterms:identifier "doi:10.36677/elperiplo.v0i42.14162" ;
+  dcterms:subject "Business, Innovation, and Economy", "Diverse Aspects of Tourism Research", "Nationalism and Cultural Identity" .

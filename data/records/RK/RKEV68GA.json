@@ -1,0 +1,107 @@
+{
+  "key": "RKEV68GA",
+  "uri": "https://medjat.irokosociety.org/id/library/RKEV68GA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RKEV68GA",
+  "zotero": {
+    "group": "6479329",
+    "key": "RKEV68GA",
+    "version": 1131,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RKEV68GA",
+    "dateAdded": "2026-05-19T13:28:03Z",
+    "dateModified": "2026-05-19T13:28:03Z"
+  },
+  "display": {
+    "title": "LA CULTURA MUSICAL NDOWE EN EL TRÁNSITO ESCLAVISTA DEL ATLÁNTICO. INFLUENCIA EN LA SOCIEDAD CUBANA ABAKUÁ Y DE VUELTA A ÁFRICA, EN GUINEA ECUATORIAL NDOWE MUSICAL CULTURE IN THE ATLANTIC SLAVE TRADE. INFLUENCE ON CUBAN SOCIETY ABAKUÁ AND RETURN TO AFRICA IN EQUATORIAL GUINEA",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabela de Aranzadi"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The comparative study of the music on both sides of the Atlantic regarding slavery elements has gener - ated research about the journey to American continent, but there is little written on the return trip and its influ- ences in Africa. In this paper is analyzed the cultural heritage in a back way discussed through slavery of Ndowe group. This legacy arrived in Cuba with Carabalies slaves who founded the society Abakua. Later it was made a return trip to Africa with the deportees Abakua carried to Fernando Poo (today Bioko) in Equatorial Guinea. The framework of the study lies in a consideration of the cultural areas in Africa, beyond the colonial borders and in a reflection on the search nowadays for a more global identity in Ndowe groups and the expression of a secondary orality that is starting. The Ndowe group occupies an area extending trough Equatorial Guinea, Cameroon Gabon and some areas in Congo.",
+    "doi": "",
+    "url": "https://openalex.org/W2550366690",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Hispanic-African Historical Relations",
+      "Media, Journalism, and Communication History",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabela de Aranzadi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "LA CULTURA MUSICAL NDOWE EN EL TRÁNSITO ESCLAVISTA DEL ATLÁNTICO. INFLUENCIA EN LA SOCIEDAD CUBANA ABAKUÁ Y DE VUELTA A ÁFRICA, EN GUINEA ECUATORIAL NDOWE MUSICAL CULTURE IN THE ATLANTIC SLAVE TRADE. INFLUENCE ON CUBAN SOCIETY ABAKUÁ AND RETURN TO AFRICA IN EQUATORIAL GUINEA"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Media, Journalism, and Communication History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RK/RKEV68GA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

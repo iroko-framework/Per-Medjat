@@ -1,0 +1,114 @@
+{
+  "key": "VJDLIVJA",
+  "uri": "https://medjat.irokosociety.org/id/library/VJDLIVJA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VJDLIVJA",
+  "zotero": {
+    "group": "6479329",
+    "key": "VJDLIVJA",
+    "version": 1989,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VJDLIVJA",
+    "dateAdded": "2026-05-19T14:18:58Z",
+    "dateModified": "2026-05-19T14:18:58Z"
+  },
+  "display": {
+    "title": "From statutes to altars: sanctuary, manumission, and slavery in Christianised Rome",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nicole Miles"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Figshare",
+    "publicationTitle": "Figshare",
+    "bookTitle": "",
+    "journalAbbreviation": "Figshare",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis examines Roman slavery in the fourth to the early fifth century in the Roman East. The study aims to explore the confluence of Christianity, slavery and law to further understand the lives of Romans. The study is also focused on the effects that factors such as ecclesiastic manumission and Church sanctuary may have had on the lives of slaves, the Church and the general populace. Additionally, the investigation covers the possible benefits that inclusion in Christian communities held for slaves in general. To this end patronage is a topic that is covered to determine the importance of these reciprocal relationships that the Church and its representatives had with slaves. The Church's ability to function as an organisation which had the ability to own large numbers of slaves is also considered, as too the possible ramifications ob being a \"slave to God\". Finally, the thesis addresses the issue of slave clerics, and explores how it was possible for this phenomenon to have occurred.",
+    "doi": "10.25949/19442912",
+    "url": "https://doi.org/10.25949/19442912",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Classical Antiquity Studies",
+      "Classical Studies and Legal History",
+      "Historical and Religious Studies of Rome"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nicole Miles"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "From statutes to altars: sanctuary, manumission, and slavery in Christianised Rome"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Figshare, 2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25949/19442912"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Classical Antiquity Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Classical Studies and Legal History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Religious Studies of Rome"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VJ/VJDLIVJA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25949/19442912"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

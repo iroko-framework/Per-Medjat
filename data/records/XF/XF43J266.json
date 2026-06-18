@@ -1,0 +1,107 @@
+{
+  "key": "XF43J266",
+  "uri": "https://medjat.irokosociety.org/id/library/XF43J266",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XF43J266",
+  "zotero": {
+    "group": "6479329",
+    "key": "XF43J266",
+    "version": 1608,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XF43J266",
+    "dateAdded": "2026-05-19T14:17:14Z",
+    "dateModified": "2026-05-19T14:17:14Z"
+  },
+  "display": {
+    "title": "Behind Workhouse Walls: The Public Regulation of Slavery in Charleston, 1730-1850",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Samanthis Smalls"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "DukeSpace (Duke University)",
+    "publicationTitle": "DukeSpace (Duke University)",
+    "bookTitle": "",
+    "journalAbbreviation": "DukeSpace (Duke University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "&lt;p&gt;My dissertation examines the presence of enslaved prisoners in local jails and workhouses of antebellum South Carolina from 1730-1850 with a particular focus on the 1790s as a transformative period. Those sites expose the close relationship between governmental authority and the discipline of black people, a relationship that has gone largely unexplored and one that ultimately recasts larger questions about race and criminality, property and ownership, and state formation in the slave South. Much scholarship locates government control over criminal African Americans within penal institutions in a post-emancipation moment and then traces the implications through convict leasing, chain gangs, and penitentiaries in the late-nineteenth and early twentieth centuries. The presence of enslaved people within jails and workhouses during the antebellum period, however, challenges the assumptions that frame the chronology.&lt;/p&gt;&lt;p&gt;Primary source materials such as legislative documents, court records, newspapers, personal diaries, travel journals, and slave narratives reveal that jails and workhouses not only secured law and order within slave societies but also functioned as tangible symbols of government power to which all people, including the enslaved, were subject. The presence of enslaved people within penal institutions, however, increased over time, a trend that coincided with burgeoning racialized conceptions of criminality and contributed to a larger transformation in racial ideology. And while slave owners and government officials united to uphold white supremacy, they disagreed over government’s role in regulating enslaved people. Lengthy confinements, in particular, became a frequent point of conflict between white slave owners and local government officials. Finally, the dissertation explores how the changes evident in antebellum penal institutions reflected the ways in which the nation wrestled with the growth of government. Indeed, those changes reflected the challenges inherent in the statemaking process as the meanings of liberty and citizenship shifted and changed. As important, they revealed the construction of a new social order in the American South which firmly, and exclusively, placed enslaved people on the lowest rung of the social, political, and legal hierarchy. By considering the intersections of statemaking, property, and criminality, the dissertation roots “the condemnation of blackness” in the practice of enslavement and in the Early National and Antebellum state making projects.&lt;/p&gt;",
+    "doi": "",
+    "url": "http://hdl.handle.net/10161/11394",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Samanthis Smalls"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Behind Workhouse Walls: The Public Regulation of Slavery in Charleston, 1730-1850"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "DukeSpace (Duke University), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XF/XF43J266.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

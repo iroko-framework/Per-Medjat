@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QEP57C5S>
+  a schema:Thesis ;
+  schema:name "Masters of Law: English Legal Culture and the Law of Slavery in Colonial South Carolina and the British Atlantic World, 1669-1783" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QEP57C5S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QEP57C5S" ;
+  schema:description "This interdisciplinary project examines how English law facilitated the expansion of slavery in colonial South Carolina. Focusing upon daily legal practice rather than statutory prescription, it follows ordinary colonists as they used English law to manage their slaves. It also places their activities in a larger Atlantic context, attending in particular to legal practice in Jamaica and other Caribbean colonies. Rather than viewing the adaptation of English law to slave societies as a fraught process, this project shows that English law easily served colonists’ desire to command slave labor and, in doing so, contributed to the dehumanization of Africans throughout the Atlantic World." ;
+  schema:author "Lee B. Wilson" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Libra" ;
+  schema:sameAs <https://doi.org/10.18130/v3mj9t> ;
+  dcterms:identifier "doi:10.18130/v3mj9t" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade", "Race, History, and American Society" .

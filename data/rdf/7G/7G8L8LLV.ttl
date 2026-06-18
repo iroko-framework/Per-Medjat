@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/7G8L8LLV>
+  a schema:Thesis ;
+  schema:name "History and cultural identity : Barbadian space and the legacy of empire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7G8L8LLV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7G8L8LLV" ;
+  schema:description "This thesis explores issues surrounding Barbadian cultural identity in the post-colonial&#13;\\nperiod. Emphasis is placed on the role of history in constructing cultural identity.&#13;\\nBeginning with the debate involving the Lord Nelson statue which stands in the capital of&#13;\\nBarbados, the question of negotiating post-colonial space is closely examined in the three&#13;\\ncase studies that form the body of the research. These are based on evidence gathered&#13;\\nfrom both archival and secondary sources, as well as personal interviews. The case&#13;\\nstudies review the following: the history of the usage of the 'Little England' motto and its&#13;\\nrenewed use in the post-colonial period; the historical development of the community&#13;\\ngroup known as the Landship, whose trademark is to wear naval livery and dance their&#13;\\nnaval manoeuvres during their parades; the history of the Harvest Home/Crop Over&#13;\\nfestival of the slavery and post-slavery periods, as well as the history of the modern street&#13;\\nfestival that it has become. The thesis argues that elements of the colonial discourse gain&#13;\\nnew life in the post-colonial period because of the struggle between the colonial narrative&#13;\\nof History and the emerging new histories. It proposes that in this Barbados example, the&#13;\\nperformance culture has provided new grounds for advancing the process of&#13;\\ndecolonisation." ;
+  schema:author "Marcia Burrowes" ;
+  schema:datePublished "2000" ;
+  schema:publisher "Warwick Research Archive Portal (University of Warwick)" ;
+  dcterms:subject "Caribbean history, culture, and politics" .

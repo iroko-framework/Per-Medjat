@@ -1,0 +1,107 @@
+{
+  "key": "HA8567HS",
+  "uri": "https://medjat.irokosociety.org/id/library/HA8567HS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HA8567HS",
+  "zotero": {
+    "group": "6479329",
+    "key": "HA8567HS",
+    "version": 2151,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HA8567HS",
+    "dateAdded": "2026-05-19T14:19:36Z",
+    "dateModified": "2026-05-19T14:19:36Z"
+  },
+  "display": {
+    "title": "A Study of the Views of Major Eighteenth Century Evangelicals on Slavery and Race, with Special Reference to John Wesley",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Irv A Brendlinger"
+      }
+    ],
+    "year": "1982",
+    "date": "1982",
+    "publisher": "Digital Commons - George Fox University (George Fox University)",
+    "publicationTitle": "Digital Commons - George Fox University (George Fox University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Commons - George Fox University (George Fox University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The rise of the British antislavery movement was the result of a complex interplay of a number of influences and factors. One of these factors was the resurgence of evangelical Christianity in the mid-eighteenth century. All of the eighteenth century antislavery leaders were committed churchmen ; most of them were staunch Evangelicals. It is the purpose of this study to examine selected specific attitudes and motives of the most significant antislavery leaders. The first part of the thesis deals with William Wilberforce, John Newton , Thomas Clarkson James Ramsay, Granville Sharp, Anthony Benezet and John Wesley, exploring the following issues: Their attitudes toward the institution of slavery; In order to understand them either as \"humanitarians,\" or as \"reformers,\" it is imperative to know whether they spoke against the institution of slavery on principle, or whether they opposed the harsh treatment and abuses of West Indian slavery as it existed . If the latter , they would work to ameliorate plantation conditions, and end the slave trade. If the former, they would not be content until all slaves were emancipated. The question takes on more interest because most of the abolitionists began their campaigns by attacking the slave trade, not slavery per se. Their attitudes toward the idea of negro inferiority ; The eighteenth century saw the development of modern racial attitudes, or \"racism.\" Part II of the Introduction gives an overview of this development , its relationship to \"science, \" and its implications for slavery and philosophy of missions. The positions of the abolitionists on the question of negro inferiority are crucial to their stance on the slave trade, slavery and the Christianisation of Africans. These are investigated with regard to the actual or potential equality of the negro physically , intellectually and spiritually. The motives for engaging in the cause of antislavery; The fact that each of the abolitionists in the study considered himself to be a committed Christian makes it relevant to explore the extent to which his faith was related to his antislavery activity. This question further relates to the nature of the Evangelicalism of that period , and how it viewed Christians' responsibility toward social problems. The above three issues are explored primarily by critical analysis and interpretation of the antislavery writings of the abolitionists. The second part of the thesis focuses on Wesley's distinctive theology and its possible relationship to the growing antislavery thought of the late eighteenth century. His doctrines of depravity, prevenient grace, free will, Christian perfection, and his theme of stewardship are reviewed and then examined with a view to gaining a more comprehensive understanding of his doctrine of man. Because of this emphasis, a typescript of Wesley' s manuscript sermon on Genesis 1:27 (\"So God Created Man In His Own Image\") is included in the appendix. Within each doctrine (or theme) implications are discovered for the question of slavery both from the perspective o f the nature of man and of the nature of the Christian. Beyond the issue of slavery , Wesley's theology is seen as the basis of his total social ethic, and his philosophy of social change is described. Finally, Wesley's contribution to antislavery is evaluated in the light of the observed similarities between his major teachings and the apparent motivation of the abolitionists. Further , his influence on the general values and mood of England is looked at in awareness of the spread of popular attitudes which were conducive to the increase of antislavery sympathy and concern. In this, Wesley is seen as one of those who contributed to the growth of the antislavery movement and to the receptivity of the populace to the work of that movement.",
+    "doi": "",
+    "url": "https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1123&context=ccs",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Mormonism, Religion, and History",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Irv A Brendlinger"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Study of the Views of Major Eighteenth Century Evangelicals on Slavery and Race, with Special Reference to John Wesley"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Commons - George Fox University (George Fox University), 1982."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mormonism, Religion, and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HA/HA8567HS.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

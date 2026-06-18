@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WAMYWLRG>
+  a schema:Thesis ;
+  schema:name "Entre o fim do tráfico e a abolição: a manutenção da escravidão em Pelotas, RS, na segunda metade do século XIX (1850 a 1884)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WAMYWLRG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WAMYWLRG" ;
+  schema:description "The present investigation has as main object the slavery in Pelotas in the second half of the nineteenth century. We sought to understand how this institution was maintained over the last 35 years of its existence, and what were the changes occurring as a result of two abolitionists laws, the Eusebio de Queiroz Law and the Law of Free Womb. In addition, we sought to understand slavery in the locality as a whole, what were the characteristics of slaves groups, their demographic profile, hou it was assembled and maintained, fleeing of the exclusiveness of the charque production, but looking to incorporate all the Pelotas slavery society. The use of serial sources and the slave ownership and historical demography methodologies made it possible to scan a very complex picture for local slavery in the studied period. Far from being a potential supplier of slaves to the coffee growing regions after the close of the transatlantic slave trade, Pelotas showed an effort to maintain slavery until almost its official end in the 1880s." ;
+  schema:author "Bruno Stelmach Pessi" ;
+  schema:datePublished "2012" ;
+  schema:sameAs <https://doi.org/10.11606/d.8.2012.tde-11032013-120538> ;
+  dcterms:identifier "doi:10.11606/d.8.2012.tde-11032013-120538" ;
+  dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .

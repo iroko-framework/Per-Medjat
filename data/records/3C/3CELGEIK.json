@@ -1,0 +1,119 @@
+{
+  "key": "3CELGEIK",
+  "uri": "https://medjat.irokosociety.org/id/library/3CELGEIK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3CELGEIK",
+  "zotero": {
+    "group": "6479329",
+    "key": "3CELGEIK",
+    "version": 927,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3CELGEIK",
+    "dateAdded": "2026-05-19T13:27:15Z",
+    "dateModified": "2026-05-19T13:27:15Z"
+  },
+  "display": {
+    "title": "The Acoustic Body: <i>Rumba Guarapachanguera</i> and Abakuá Sociality in Central Park",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Berta Jottar"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Latin American Music Review",
+    "publicationTitle": "Latin American Music Review",
+    "bookTitle": "",
+    "journalAbbreviation": "Latin American Music Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "30",
+    "issue": "1",
+    "pages": "1-24",
+    "abstract": "Since the late 1960s, summer rumbas in New York City's Central Park have been a center for Puerto Rican music elaboration. However, since the mid-1990s, the arrival of Cuban rumberos has reshaped the practice. In this essay I analyze this transformation and suggest that Central Park rumba has the capacity to generate multiple sociopolitical, historical, and spiritual presences through sound and gesture. Centering on the interaction between the Cuban Marielitos and the balseros, I show how their encounter in Central Park rumba produces a transnational space of cross-generational negotiation through spiritual and secular performances. I argue that while the rumba guarapachanguera became a style performed primarily by the rumberos from Cuba's Special Period, Abakuá spiritual bonding functioned across the Mariel and balsero generations because of the deep history embodied in their performance of the Abakuá Íremes. I theorize how the performance of rumba constitutes an aural community that, once in the Diaspora, articulates what I call the \"acoustic body,\" a body that echoes an internalized spiritual sound via gesture.",
+    "doi": "10.1353/lat.0.0031",
+    "url": "https://doi.org/10.1353/lat.0.0031",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies",
+      "Music History and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Berta Jottar"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Acoustic Body: <i>Rumba Guarapachanguera</i> and Abakuá Sociality in Central Park"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Latin American Music Review, 2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-24 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/lat.0.0031"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music History and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/3C/3CELGEIK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/lat.0.0031"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

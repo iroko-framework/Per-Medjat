@@ -1,0 +1,88 @@
+{
+  "key": "G9HY2MMB",
+  "uri": "https://medjat.irokosociety.org/id/library/G9HY2MMB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G9HY2MMB",
+  "zotero": {
+    "group": "6479329",
+    "key": "G9HY2MMB",
+    "version": 138,
+    "itemType": "document",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G9HY2MMB",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Slave societies digital archive",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Landers, Jane"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "Vanderbilt University",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://slavesocieties.org",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Document",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Landers, Jane"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slave societies digital archive"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Vanderbilt University, 2003."
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Document"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/G9/G9HY2MMB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

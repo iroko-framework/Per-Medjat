@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/D3KP6UDG>
+  a schema:Book ;
+  schema:name "Twenty Years Among the Mexicans: A Narrative of Missionary Labor" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=D3KP6UDG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:D3KP6UDG" ;
+  schema:description "Narrative written by a \"New Hampshire Presbyterian teacher and missionary, who taught in Kentucky, Texas, and New Orleans ... The narrative includes many anecdotes dealing with the American Civil War as well as the Mexican political situation\"--Book dealer's description" ;
+  schema:author "Melinda Rankin" ;
+  schema:datePublished "1875" ;
+  dcterms:subject "American Constitutional Law and Politics", "Asian American and Pacific Histories", "Colonialism, slavery, and trade" .

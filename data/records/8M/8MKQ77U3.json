@@ -1,0 +1,107 @@
+{
+  "key": "8MKQ77U3",
+  "uri": "https://medjat.irokosociety.org/id/library/8MKQ77U3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8MKQ77U3",
+  "zotero": {
+    "group": "6479329",
+    "key": "8MKQ77U3",
+    "version": 1524,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8MKQ77U3",
+    "dateAdded": "2026-05-19T14:17:02Z",
+    "dateModified": "2026-05-19T14:17:02Z"
+  },
+  "display": {
+    "title": "\"And Be It So Enacted\": Natural Law and Southern Federalism in the Fugitive Slave Controversy",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jenkins, Natasha Townsel"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "SNHU Academic Archive (Southern New Hampshire University)",
+    "publicationTitle": "SNHU Academic Archive (Southern New Hampshire University)",
+    "bookTitle": "",
+    "journalAbbreviation": "SNHU Academic Archive (Southern New Hampshire University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Despite the vast research on the events that led to the Civil War, little scholarship focuses solely on the extent to which the Fugitive Slave Law of 1850 played a role. While historians highlight the law’s political, social, and cultural significance to the sectional conflict, the literature on the Fugitive Slave Law does not consider its importance to the ideological debate that exacerbated the rift between the Free and Slave states. This study focuses on the impact that the differing interpretations of Natural Law had on the sectional conflict, and how each section’s prioritization of personal liberty and property underscores the true nature of the states’ rights debate. An analysis of antebellum newspapers, pamphlets, and fugitive slave cases demonstrates that the Free states were more inclined to argue for states’ rights during the fugitive slave crisis, whereas Slave states argued in favor of federalism to protect their right to recover their slave property. This examination will add to Civil War scholarship by inverting the states’ rights defense in favor of the northern states and further highlight the Fugitive Slave Law of 1850 as one of the leading causes of the disunion that led to civil war. (Author abstract)",
+    "doi": "",
+    "url": "https://openalex.org/W2763767561",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Colonialism, slavery, and trade",
+      "Music Education and Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jenkins, Natasha Townsel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "\"And Be It So Enacted\": Natural Law and Southern Federalism in the Fugitive Slave Controversy"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SNHU Academic Archive (Southern New Hampshire University), 2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music Education and Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/8M/8MKQ77U3.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

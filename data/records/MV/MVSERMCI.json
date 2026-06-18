@@ -1,0 +1,114 @@
+{
+  "key": "MVSERMCI",
+  "uri": "https://medjat.irokosociety.org/id/library/MVSERMCI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MVSERMCI",
+  "zotero": {
+    "group": "6479329",
+    "key": "MVSERMCI",
+    "version": 1665,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MVSERMCI",
+    "dateAdded": "2026-05-19T14:17:26Z",
+    "dateModified": "2026-05-19T14:17:26Z"
+  },
+  "display": {
+    "title": "Feminism in Frances Trollope's Domestic Manners of the Americans, The Vicar of Wrexhill, The Life and Adventures of Jonathan Jefferson Whitlaw and Jessie Phillips",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jessica Boulard"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In The Domestic Manners of the Americans (1832), the travelogue that launched Trollope's career as a literary figure, she accounts the four years spent living in America with the majority of her children and without her husband. The Life and Adventures of Jonathan Jefferson Whitlaw (1836), published fifteen years before Uncle Tom's Cabin, is the first anti-slavery novel written in English. Other novels, like The Vicar of Wrexhill (1834) and Jessie Phillips (1844) discuss legal matters. A common thread connects much of Trollope's work. That thread is feminism, which places her in the company of (and somewhere in between) Mary Wollstonecraft and Virginia Woolf. In the first chapter, I discuss Trollope's travelogue, Domestic Manners of the Americans (1832) and her novel, The Vicar of Wrexhill (1837) in relation to traditional feminine virtues. I argue that Trollope challenges these virtues, suggesting that they are subject to perversion, which endangers women and the societies in which they live. Instead, Trollope sets forth another idea of femininity, supplementing these virtues with education, occupation, self-sufficiency and friendship. In America, Trollope recognizes the danger in the possession of the four virtues alone, and in her novel, set in England, she shows that the addition of education and occupation avert danger and maintain a stable society. In the second chapter, I discuss two of Trollope's protest novels, The Life and Adventures of Jonathan Jefferson Whitlaw (1836) and Jessie Phillips (1844). Both of these novels protest the laws that Trollope felt were unjust. In Jonathan Jefferson Whitlaw, she discusses the wrongs of slavery in America. Jessie Phillips protests the New Poor Law of 1834 and is also largely concerned with the bastardy clause, seduction and infanticide. I argue that Trollope is interested in challenging the laws of society. She proposes changes in societal laws that govern the relationships between male and female, rich and poor, white and black, and master and slave. Her solution involves a cooperation and coexistence between all of these binaries, with an emphasis on the role of the female. In these novels, Trollope suggests that the morality women possess can aid in the stability in society if the women take an active role.",
+    "doi": "10.31390/gradschool_theses.559",
+    "url": "https://doi.org/10.31390/gradschool_theses.559",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Literature: history, themes, analysis",
+      "Multicultural Socio-Legal Studies",
+      "Travel Writing and Literature"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jessica Boulard"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Feminism in Frances Trollope's Domestic Manners of the Americans, The Vicar of Wrexhill, The Life and Adventures of Jonathan Jefferson Whitlaw and Jessie Phillips"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2005."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_theses.559"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature: history, themes, analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multicultural Socio-Legal Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Travel Writing and Literature"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/MV/MVSERMCI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_theses.559"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BGQHTIBE>
+  a schema:Thesis ;
+  schema:name "Company culture : information, scholarship, and the East India Company settlements 1660-1720s" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BGQHTIBE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BGQHTIBE" ;
+  schema:description "I explore how knowledge was created and circulated in and between the settlements of the early English East India Company.I aim: to demonstrate connections between scholarship and early colonialism; to highlight the role of non-elite actors in transferring skills and techniques; and to map global knowledge networks based on systems of patronage that cut across national, ethnic, and social boundaries.Chapter 1 uses the life of Samuel Baron, a half-Dutch, half-Vietnamese factor, spy, and broker for the EIC, client of the rulers of Siam and Tonkin, and author of the Description of Tonqueen to examine the importance of passeurs culturels or go-betweens to both the European trading companies and Asian rulers in the period and their role in transmitting geographical and ethnographic information.Chapter 2 examines the local and international botanical and medical networks of two Company surgeons in Madras, based on collections in the Natural History Museum and the surgeons' correspondence with the apothecary James Petiver.Chapter 3 looks in detail at the development of English scholarship on the Malay language: moving from wordlists and manuscript grammars to the first bilingual English-Malay dictionary, published in 1701.I use the texts to examine the early Company's policies of language-learning and teaching and the theoretical and practical basis of linguistic projects in the period.Chapter 4 follows the movement of a travel text, Robert Knox's Historical Relation of Ceylon, with its author on a series of later voyages.I explore the practical uses of such texts to inform bio-prospecting and the transplantation of crops in the Company's search for island bases in the Atlantic and Indian Oceans.Chapter 5 examines slaves' roles in the transmission of botanical, medical, and cultural knowledge between the 'plantations' of St Helena (South Atlantic) and Bencoulen (Sumatra), through both their work and their resistance." ;
+  schema:author "Anna Winterbottom" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Queen Mary Research Online (Queen Mary University of London)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

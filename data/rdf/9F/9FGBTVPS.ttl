@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9FGBTVPS>
+  a schema:Thesis ;
+  schema:name "The God of Compassion at Mount Sinai - A Literary and Theological Interpretation of the Tangled Mix of Law and Narrative in the Sinai Pericope (Exodus 19:1-24:11)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9FGBTVPS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9FGBTVPS" ;
+  schema:description "This dissertation sets out a new understanding of the canonical relationship of the inextricably mixed law and narrative material in the Sinai Pericope in Exodus 19:1-24:11. Traditional historical-critics assume that the Sinai Pericope’s textually irregular mix of law and narrative was an arbitrary arrangement that points to the text’s complicated prehistory. Over against such a reading, this dissertation argues that thematic and theological coherence can be discerned in the Sinai Pericope. More specifically, it argues that the final form of the Sinai Pericope itself provides canonical pressure for reading it as a theologically and thematically coherent corpus. This dissertation surveys diachronic and synchronic discussions of the formation of the legal and narrative material in the Sinai Pericope. Drawing upon insights from such discussions, it demonstrates that the disparate literary genres in the Sinai Pericope are purposefully mingled by the final author, a phenomenon that suggests that the mix of law and narrative itself functions as the major literary feature which points to the literary and theological coherence of the Sinai Pericope as a whole." ;
+  schema:author "Heun Kyu Joo" ;
+  schema:datePublished "2016" ;
+  schema:publisher "TSpace (University of Toronto)" ;
+  dcterms:subject "Archaeology and Historical Studies", "Biblical Studies and Interpretation", "Historical and Linguistic Studies" .

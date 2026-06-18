@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/D4PCZ5MU>
+  a schema:ScholarlyArticle ;
+  schema:name "Yoruba Influences on Haitian Vodou and New Orleans Voodoo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=D4PCZ5MU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:D4PCZ5MU" ;
+  schema:description "The enormous impact of the Yoruba religion on the New World African diaspora has been well established by scholars, especially when referring to the heavily Yorubanized popular Creole belief systems of Cuba (Santeriaf Lucumi, Palo) and Brazil (Umbanda, Candomble). Far less known are the connections between the Yoruba faith and the African-based religions of Haiti (Vodou) and New Orleans (Voodoo/Voudou). This article seeks to fill these lacunae and explores the Yoruba influences on these two neo-" ;
+  schema:author "Fandrich, I J" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Journal of Black Studies" ;
+  schema:sameAs <https://doi.org/10.1177/0021934705280410> ;
+  dcterms:identifier "doi:10.1177/0021934705280410" ;
+  dcterms:subject "Haitian Vodou", "New Orleans Voodoo" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo> .

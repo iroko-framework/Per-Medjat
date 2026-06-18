@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2WE4ZJ8N>
+  a schema:Thesis ;
+  schema:name "Literaturas africanas e afro-brasileira no ensino fundamental II" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2WE4ZJ8N> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2WE4ZJ8N" ;
+  schema:description "The research presented here analyzes, with Fundamental Education\"s teachers of the public teaching of the city and So Paulo state, the presence of the african and afrobrazilian literatures in the classroom. This purpose is linked to the Law 10.639/2003, whose basic premise is the teaching of african and afro-brazilian history and culture at all educational levels in Brazil. The notion brought for the Law should guide the educational proposals since basic teaching to higher education, being included in the formulation of educational projects in schools and in their classes. In this sense, the search begins for a theoretical and pedagogical approach linked to education. After, there is the consideration about the black people's situation in Brazil, observed since the slave regime on brazilian soil, to the consequences of this historic period for the afrobrazilian populations in the post-abolitionism, culminating with the progressive expansion of rights gained by the afro-descendant population. It follows, then, to the study of the mentioned Law and its obligations, as well as of the affirmative action policies. Later, there's an approach about literary reading in the school environment." ;
+  schema:author "André de Godoy Bueno" ;
+  schema:datePublished "2015" ;
+  schema:sameAs <https://doi.org/10.11606/d.8.2015.tde-11122015-131614> ;
+  dcterms:identifier "doi:10.11606/d.8.2015.tde-11122015-131614" ;
+  dcterms:subject "Linguistics and Education Research", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .

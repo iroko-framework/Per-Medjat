@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V9CIQLVS>
+  a schema:Thesis ;
+  schema:name "The Efforts To Reopen The African Slave Trade In Louisiana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V9CIQLVS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V9CIQLVS" ;
+  schema:description "With the Louisiana Purchase of 1803, the United States government quickly moved to prohibit the further importation of African slaves into the newly acquired territory. This closing of the foreign slave trade was extended to the national level by a Federal law which became effective January 1, 1808. Protests emanated from Louisiana almost immediately after the trade was closed in 1803, but initially they were infrequent and mild. A general Southern effort to reopen the foreign slave trade began to develop in the early 1850's, largely in the Southern commercial conventions. This movement reached its peak in 1859 when a resolution was passed advocating the reopening of the African traffic. A majority of Louisiana's delegates to the convention sided with those favoring reopening. At the state level Louisiana confined its interest in reopening the trade to the commercial conventions until the late 1850's. In 1858 and 1859 both Houses of the legislature took under consideration African apprentice schemes. These bills would have provided for the importation of indentured African \"apprentices,\" rather than slaves, into Louisiana, v and was simply a means of circumventing the Federal law of 1808. Heated debate took place in both years and public reaction was active. The efforts in 1859 the movement to reopen the slave trade in support waned and other issues associated the Civil War overshadowed the movement." ;
+  schema:author "James L. Hendrix" ;
+  schema:datePublished "1968" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_disstheses.8262> ;
+  dcterms:identifier "doi:10.31390/gradschool_disstheses.8262" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Race, History, and American Society" .

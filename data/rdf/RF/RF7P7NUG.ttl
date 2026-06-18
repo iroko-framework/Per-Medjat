@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RF7P7NUG>
+  a schema:ScholarlyArticle ;
+  schema:name "Tattoos of the Marielitos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RF7P7NUG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RF7P7NUG" ;
+  schema:description "Tattoos on Cuban refugees, particularly those who entered the United States during the Mariel Boatlift of 1980, have been associated with both criminal activity and religious affiliations. In an effort to understand better the significance and meanings of these tattoos, a series of interviews (initially informal, followed by a formal survey instrument) were conducted. Examples of the various tattoos were gleaned from the files of the Dade County Medical Examiner Department. In general, tattoos on Cuban refugees signify prior incarceration in Cuban prisons, usually do not reflect criminal specialization, and often reflect affiliation to Afro-Caribbean cults (especially Santeria, Palo Mayombe, and the Abakua Secret Society). In addition, many tattoos reflect the values and attitudes of Cuban jail subculture." ;
+  schema:author "Rafael Martínez" ;
+  schema:creator "Charles V. Wetli" ;
+  schema:datePublished "1989" ;
+  schema:publisher "American Journal of Forensic Medicine & Pathology" ;
+  schema:sameAs <https://doi.org/10.1097/00000433-198912000-00008> ;
+  dcterms:identifier "doi:10.1097/00000433-198912000-00008" ;
+  dcterms:subject "Asian Culture and Media Studies", "Sexuality, Behavior, and Technology", "Tattoo and Body Piercing Complications" .

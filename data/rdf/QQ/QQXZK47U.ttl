@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QQXZK47U>
+  a schema:ScholarlyArticle ;
+  schema:name "The Demography of Slavery in the Coffee Districts of Angola, c. 1800–70" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QQXZK47U> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QQXZK47U" ;
+  schema:description "Abstract This article uses demographic data from nineteenth-century Angola to evaluate, within a West Central African setting, the widely accepted theory that sub-Saharan Africa's integration within the Atlantic world through slave and commodity trading caused significant transformations in slavery in the subcontinent. It specifically questions, first, whether slaveholding became more dominant in Angola during the last phase of the transatlantic slave trade; second, whether Angolan slave populations were predominantly female; and third, whether slavery in Angola expanded further during the cash crop revolution that accompanied the nineteenth-century suppression of the Atlantic slave trade. Besides making a significant contribution to understanding the demographic context of slavery in the era of abolition, the article aims to display ways in which historians can use the population surveys the Portuguese Empire carried out in Africa from the late eighteenth century." ;
+  schema:author "Jelmer Vos" ;
+  schema:creator "Paulo Teodoro de Matos" ;
+  schema:datePublished "2021" ;
+  schema:publisher "The Journal of African History" ;
+  schema:sameAs <https://doi.org/10.1017/s0021853721000396> ;
+  dcterms:identifier "doi:10.1017/s0021853721000396" ;
+  dcterms:subject "African history and culture studies", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

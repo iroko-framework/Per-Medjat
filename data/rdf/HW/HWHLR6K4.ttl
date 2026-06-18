@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HWHLR6K4>
+  a schema:ScholarlyArticle ;
+  schema:name "Yoruba Christian video narrative and indigenous imaginations" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HWHLR6K4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HWHLR6K4" ;
+  schema:description "Le récit des vidéos yoruba-chrétiennes face à l’imagination indigène : dialogue et joute narrative. – Cet article analyse le projet déconstructeur qui est à l’œuvre dans le traitement de l’imagination indigène par les vidéos yoruba-chrétiennes, notamment pour ce qui concerne le pouvoir des mots (oro). Deux tendances principales sont distinguées : le dialogue, qui implique la mise en conversation des formes sémiotiques, et la joute narrative (“duelogue”), qui concerne la posture d’hostilité et le maintien de frontières sémiotiques étanches. L’article montre que l’ambivalence de la rhétorique des vidéos chrétiennes permet néanmoins au texte chrétien de se réinventer en tant que texte nomade et reproductible. On attire également l’attention sur l’importance de la connaissance culturelle qui est transmise dans ces films, lesquels attendent encore d’être pleinement adaptés dans les programmes des écoles nigerianes, même si une telle connaissance est cruciale pour le maintien d’une tolérance pluraliste dans le Nigeria postcolonial." ;
+  schema:author "Obododimma Oha" ;
+  schema:datePublished "2002" ;
+  schema:publisher "Cahiers d études africaines" ;
+  schema:sameAs <https://doi.org/10.4000/etudesafricaines.138> ;
+  dcterms:identifier "doi:10.4000/etudesafricaines.138" ;
+  dcterms:subject "African history and culture studies", "African studies and sociopolitical issues", "Postcolonial and Cultural Literary Studies" .

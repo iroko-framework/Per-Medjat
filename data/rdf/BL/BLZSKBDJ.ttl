@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BLZSKBDJ>
+  a schema:Thesis ;
+  schema:name "The view from the border: A study of gender and women's rights in West Virginia during the age of emancipation." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BLZSKBDJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BLZSKBDJ" ;
+  schema:description "On June 20, 1863, the Wheeling Intelligencer proclaimed, “This day ushers into being the new State of West Virginia, and adds the thirty fifth star to the constellation of the American Union. To-day is the beginning of a new order of things with us here. The old Government goes out and the new one comes in.”1 With their final break from the eastern Virginia elite, West Virginians accepted a new set of laws to govern the new state and its citizens. These laws reflected West Virginia’s status as a border state, adapting from the Virginia code as well as a number of other states – both North and South. As they debated the legitimacy of slavery, the proper name of the future state, and the viability of a New England-style township system, West Virginia leaders momentarily paused to consider another issue – women’s rights. During the twenty year period following Virginia’s secession, legislators debated and passed a number of acts addressing the place of women in an evolving society and within the marital relationship. Legislation often focused on two subjects – married women’s property and divorce – with alternately progressive and conservative results. By analyzing a group of Republican and Democratic state leaders, this thesis uncovers the personal motivations, political considerations, and regional sensibilities that informed these men as they considered the changes. In so doing, it will begin to explain why the laws were accepted (or not), why partisan differences were minimal, and how gender was understood in a border area. This state specific study reveals the tensions throughout the country during the age of emancipation, as Americans addressed the meaning of freedom for former slaves, as well as women." ;
+  schema:author "Allison Dorothy Fredette" ;
+  schema:datePublished "2008" ;
+  schema:publisher "The Research Repository @ WVU (West Virginia University)" ;
+  dcterms:subject "Aging, Elder Care, and Social Issues", "Health, Medicine and Society", "Hermeneutics and Narrative Identity" .

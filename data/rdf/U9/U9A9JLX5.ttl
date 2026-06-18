@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/U9A9JLX5>
+  a schema:Book ;
+  schema:name "Writing the History of Global Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=U9A9JLX5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:U9A9JLX5" ;
+  schema:description "This Element shows that existing models of global slavery derived from sociology and modelled closely on antebellum American slavery being normative should be replaced a global slavery that is less American and more global. It argues that we can understand the global history of slavery if we connect it more closely to another important world institution – empires in ways that historicise the study of history as an institution with a history that changes over time and space. Moreover, we can learn from scholars of modern slavery and use more than we do the enormous proliferation of usable sources about the lives, experiences and thoughts of the enslaved, from ancient to modern times, to make these voices of the enslaved crucial drivers of how we conceptualise and describe the varied kinds of global slavery in world history. This title is also available as Open Access on Cambridge Core." ;
+  schema:author "Trevor Burnard" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Cambridge University Press eBooks" ;
+  schema:sameAs <https://doi.org/10.1017/9781009406284> ;
+  dcterms:identifier "doi:10.1017/9781009406284" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical Economic and Social Studies" .

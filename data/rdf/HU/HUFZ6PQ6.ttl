@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/HUFZ6PQ6>
+  a schema:Book ;
+  schema:name "Los orishas en Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HUFZ6PQ6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HUFZ6PQ6" ;
+  schema:author "Bolívar Aróstegui, Natalia." ;
+  schema:datePublished "1990" ;
+  schema:publisher "Ediciones Union" ;
+  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/TJWRSXBP>
+  a schema:Thesis ;
+  schema:name "A collection of discrete essays with the common theme of gender and slavery at the Cape of Good Hope with a focus on the 1820s" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=TJWRSXBP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:TJWRSXBP" ;
+  schema:description "This is a collection of discrete essays, each embodying original research and bearing on the theme of gender and slavery at the Cape of Good Hope. Amelioration at the Cape profoundly altered gendered perceptions of slaves, both on the part of slaveholders, and of the slaves themselves. The amelioration regulations entailed a redefinition of the gender of female slaves, which was resisted by slaveholders and transformed by slave women, while slave men began to redefine their own gendered identities in this light. Slaveholders' traditional patriarchal self-concepts were severely threatened in this context, as they progressively lost power and authority, both to the new paternalist colonial state and to those who had formerly been subsumed within the patriarchal family. There are five papers, the first an introduction to the theoretical framework of the collection and an outline of the general argument as outlined above. The second paper provides a critique of existing Cape slave historiography from a gendered perspective. It examines the problems of this literature methodologically and theoretically, focusing on the implications of the slave sex ratio for the history of slave women. The final three papers are based on empirical research. The third paper examines the structural constraints on slave family formation in Cape Town from the perspective of slave women. The fourth and fifth papers explore issues related to infanticide and slave reproduction, and slave resistance in relation to the Bokkeveld rebellion of 1825, respectively." ;
+  schema:author "Patricia van der Spuy" ;
+  schema:datePublished "1993" ;
+  schema:publisher "Open University of Cape Town (University of Cape Town)" ;
+  dcterms:subject "African history and culture studies", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

@@ -1,0 +1,112 @@
+{
+  "key": "XJZ5WNJ4",
+  "uri": "https://medjat.irokosociety.org/id/library/XJZ5WNJ4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XJZ5WNJ4",
+  "zotero": {
+    "group": "6479329",
+    "key": "XJZ5WNJ4",
+    "version": 999,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XJZ5WNJ4",
+    "dateAdded": "2026-05-19T13:27:28Z",
+    "dateModified": "2026-05-19T13:27:28Z"
+  },
+  "display": {
+    "title": "Reseña de \"Caribbean Dance from Abakuá to Zouk: How Movement Shapes Identity\" de Susanna Sloat (ed.)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mareia Quintero Rivera"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "33",
+    "issue": "2",
+    "pages": "262-266",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W1549935867",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Educational Practices and Policies",
+      "Sports and Physical Education Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mareia Quintero Rivera"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Reseña de \"Caribbean Dance from Abakuá to Zouk: How Movement Shapes Identity\" de Susanna Sloat (ed.)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "262-266 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Educational Practices and Policies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sports and Physical Education Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XJ/XJZ5WNJ4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "LK9EP643",
+  "uri": "https://medjat.irokosociety.org/id/library/LK9EP643",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LK9EP643",
+  "zotero": {
+    "group": "6479329",
+    "key": "LK9EP643",
+    "version": 969,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LK9EP643",
+    "dateAdded": "2026-05-19T13:27:23Z",
+    "dateModified": "2026-05-19T13:27:23Z"
+  },
+  "display": {
+    "title": "Como suena un tambor abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lino Arturo Neira Betancourt"
+      },
+      {
+        "role": "series editor",
+        "name": "Argeliers León"
+      }
+    ],
+    "year": "1991",
+    "date": "1991",
+    "publisher": "Medical Entomology and Zoology",
+    "publicationTitle": "Medical Entomology and Zoology",
+    "bookTitle": "",
+    "journalAbbreviation": "Medical Entomology and Zoology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W1414051680",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Social Studies in Latin America",
+      "Indigenous Studies in Latin America",
+      "Latin American Literature Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lino Arturo Neira Betancourt"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Como suena un tambor abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Medical Entomology and Zoology, 1991."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Social Studies in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indigenous Studies in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American Literature Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Argeliers León"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LK/LK9EP643.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

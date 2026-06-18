@@ -1,0 +1,101 @@
+{
+  "key": "V9H7I2C6",
+  "uri": "https://medjat.irokosociety.org/id/library/V9H7I2C6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V9H7I2C6",
+  "zotero": {
+    "group": "6479329",
+    "key": "V9H7I2C6",
+    "version": 2271,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V9H7I2C6",
+    "dateAdded": "2026-05-19T14:19:54Z",
+    "dateModified": "2026-05-19T14:19:54Z"
+  },
+  "display": {
+    "title": "Educating Adults Through Distinctive Public Speaking: Lucretia Mott, Quaker Minister",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Elizabeth A. Roslewicz"
+      }
+    ],
+    "year": "1999",
+    "date": "1999",
+    "publisher": "VTechWorks (Virginia Tech)",
+    "publicationTitle": "VTechWorks (Virginia Tech)",
+    "bookTitle": "",
+    "journalAbbreviation": "VTechWorks (Virginia Tech)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Lucretia Coffin Mott, in an era filled with events the significance of which reverberates today, spoke publicly about issues of societal and ethical concern. This study focuses on her work as a nineteenth-century female Quaker minister who through public speaking educated adults about the following: abolition of slavery, rights of women, and peaceful ways to address injustice. Separate chapters explore each of these three vital issues. Lucretia Mott ranks as a pioneer female public speaker. At a time that barred women's speaking in public, she spoke about significant issues. Her speaking admitted her to the company of American women who pioneered in speaking publicly. These endeavors to speak to \"promiscuous\" audiences, those comprised of adult males and females, also admitted her to the company of women who endured criticism, insults, and peril. Through a process of education, these women changed history and shaped culture. Lucretia Mott's Quaker perspective, her way with spoken words, and her womanhood distinguished her work as an educator in public forums and settings that ranged from religious meetings to the lyceum and conventions called to consider issues of national import. What could have prepared this Quaker minister--active in public domains for more than fifty years--for a place among the pioneers who advocated and practiced the right of women to speak purposefully in public forums? Lucretia Mott's commitment to the Society of Friends enabled her to be a pathfinder both in education and on important issues. Therefore, Chapter Two presents an exploration of Quaker history, spirituality, and practices to inform for purposes of historic educational analysis and interpretation. References in historical works to noteworthy innovations that originated from efforts by Quakers in American society and to successes in business sparked this inquiry. This study examined her speeches to see how they reflected Quaker principles and practices and her work as a pioneer public speaker who educated about societal and ethical issues. The study concludes that her work was energized because she knew her history, she questioned her world and she lived her faith.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10919/27104",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Education Systems and Policy",
+      "University Challenges and Reforms"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Elizabeth A. Roslewicz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Educating Adults Through Distinctive Public Speaking: Lucretia Mott, Quaker Minister"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "VTechWorks (Virginia Tech), 1999."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Education Systems and Policy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "University Challenges and Reforms"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/V9/V9H7I2C6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

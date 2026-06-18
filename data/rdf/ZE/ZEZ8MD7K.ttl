@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZEZ8MD7K>
+  a schema:ScholarlyArticle ;
+  schema:name "Potentially toxic element phytoavailability assessment in Technosols from former smelting and mining areas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZEZ8MD7K> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZEZ8MD7K" ;
+  schema:author "Bashar Qasim" ;
+  schema:creator "Mikael Motelica‐Heino", "Emmanuel Joussein", "Marilyne Soubrand", "Arnaud Gauthier" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Environmental Science and Pollution Research" ;
+  schema:sameAs <https://doi.org/10.1007/s11356-014-3768-9> ;
+  dcterms:identifier "doi:10.1007/s11356-014-3768-9" ;
+  dcterms:subject "Coal and Its By-products", "Heavy Metals in Plants", "Heavy metals in environment" .

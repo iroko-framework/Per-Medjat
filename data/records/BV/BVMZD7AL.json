@@ -1,0 +1,119 @@
+{
+  "key": "BVMZD7AL",
+  "uri": "https://medjat.irokosociety.org/id/library/BVMZD7AL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BVMZD7AL",
+  "zotero": {
+    "group": "6479329",
+    "key": "BVMZD7AL",
+    "version": 3981,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BVMZD7AL",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Correlation of the variations in prevalence of coronavirus disease 2019 and vitamin D receptor gene polymorphisms in cohorts from 26 countries",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lütfiye Karcıoğlu Batur"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Anadolu Kliniği Tıp Bilimleri Dergisi",
+    "publicationTitle": "Anadolu Kliniği Tıp Bilimleri Dergisi",
+    "bookTitle": "",
+    "journalAbbreviation": "Anadolu Kliniği Tıp Bilimleri Dergisi",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "27",
+    "issue": "1",
+    "pages": "60-70",
+    "abstract": "Aim: This study aimed to investigate the correlation between the rates of coronavirus disease 2019 (COVID-19) prevalence and mortality and the frequency of vitamin D receptor (VDR) gene polymorphisms at the loci rs7975232 (ApaI), rs1544410 (BsmI), rs2228570 (FokI), and rs731236 (TaqI) in cohorts from 26 countries.Methods: The study included the use of 26 countries where VDR gene polymorphisms at the loci rs731236 (TaqI), rs7975232 (ApaI), rs2228570 (FokI), and rs1544410 (BsmI) were determined and where the relevant frequencies of alleles in healthy populations were reported: Italy, China, Turkey, Japan, Mexico, Russia, India, Poland, Egypt, Czechia, Ethiopia, Saudi Arabia, Greece, the Netherlands, Korea, Spain, the United States, Pakistan, Nigeria, Lebanon, the Central African Republic, Finland, Iran, Tunisia, Brazil, and Croatia. The COVID-19 prevalence and mortality rates (per million population) reported for each country on 6 December 2020 were recorded.Results: A significant positive correlation was found between the frequency of AA genotype of rs7975232 and the COVID-19 prevalence (r=0.45, r2=0.20, p=0.02) and mortality (r=0.42, r2=0.17, p=0.03) rates. Twenty percent of the variability in prevalence and 17% of the variability in mortality could be explained by the frequency of AA genotype. Similarly, a significant positive correlation was found between the frequency of TT genotype of rs731236 and the COVID-19 prevalence (r=0.42, r2=0.17, p=0.03) rates. Seventeen percent of the variability in prevalence could be explained by the frequency of TT genotype. The correlations between the frequency of rs1544410 and rs2228570 and the COVID-19 prevalence and mortality were not significant.Conclusion: The variation in COVID-19 prevalence in the 26 populations included can be explained by the polymorphisms at the rs7975232 (ApaI) and rs731236 (TaqI) loci.",
+    "doi": "10.21673/anadoluklin.987578",
+    "url": "https://doi.org/10.21673/anadoluklin.987578",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "COVID-19 Clinical Research Studies",
+      "Vitamin C and Antioxidants Research",
+      "Vitamin D Research Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lütfiye Karcıoğlu Batur"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Correlation of the variations in prevalence of coronavirus disease 2019 and vitamin D receptor gene polymorphisms in cohorts from 26 countries"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Anadolu Kliniği Tıp Bilimleri Dergisi, 2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "60-70 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.21673/anadoluklin.987578"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "COVID-19 Clinical Research Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Vitamin C and Antioxidants Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Vitamin D Research Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BV/BVMZD7AL.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.21673/anadoluklin.987578"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

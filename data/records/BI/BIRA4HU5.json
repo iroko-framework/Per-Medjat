@@ -1,0 +1,114 @@
+{
+  "key": "BIRA4HU5",
+  "uri": "https://medjat.irokosociety.org/id/library/BIRA4HU5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BIRA4HU5",
+  "zotero": {
+    "group": "6479329",
+    "key": "BIRA4HU5",
+    "version": 1695,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BIRA4HU5",
+    "dateAdded": "2026-05-19T14:17:34Z",
+    "dateModified": "2026-05-19T14:17:34Z"
+  },
+  "display": {
+    "title": "Um estudo das vozes no gênero 'Decisões Judiciais' em documentos do século XIX",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Luciana Navarro de Assunção"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this work, we concentrate on one major leading question: the decisive speech production by the representatives of the State (judges and high level court judges), the process of subsumption of the abstract norm to the concrete case, results on impartial speeches, guided only by the law or these speeches may reflect decisions totally permeated and influenced by other discourses, representing the other voices that compose together these dialogical discourses? To answer this question, we analyzed seven judicial judgment sentences and seven high level court judgments, about the legal status of slaves. As the decisions were made in the nineteenth century, years of 1873, 1874 (3), 1875 (3), 1876 (4), 1877 (3) and 1878, period of the Golden Law pre-term, they are handwritten. Therefore, we used, for linguistic understanding of the manuscripts, philological science and one of its forms of copying, the semidiplomatic edition. After editing these decisions, we raised all aspects of the production field of this gender and the enunciation process, and then, subsequently, detect the linguistic and discursive resources used by judges in their decisions, which showed how this Judge-author of their speech manages the several voices that permeate them, the characters' voices (author, accused of the case, witnesses), the voices of other judgments, other courts or their own interior voice within this subject-author-judge, as a singularity.",
+    "doi": "10.11606/d.8.2013.tde-11062013-102353",
+    "url": "https://doi.org/10.11606/d.8.2013.tde-11062013-102353",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Linguistics and Discourse Analysis",
+      "Linguistics and Education Research",
+      "Linguistics and Language Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Luciana Navarro de Assunção"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Um estudo das vozes no gênero 'Decisões Judiciais' em documentos do século XIX"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/d.8.2013.tde-11062013-102353"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Discourse Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Education Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Language Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BI/BIRA4HU5.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/d.8.2013.tde-11062013-102353"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

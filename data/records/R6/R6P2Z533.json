@@ -1,0 +1,135 @@
+{
+  "key": "R6P2Z533",
+  "uri": "https://medjat.irokosociety.org/id/library/R6P2Z533",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=R6P2Z533",
+  "zotero": {
+    "group": "6479329",
+    "key": "R6P2Z533",
+    "version": 134,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/R6P2Z533",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Black society in spanish florida",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Landers, Jane"
+      }
+    ],
+    "year": "1999",
+    "date": "1999",
+    "publisher": "University of Illinois Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Urbana",
+    "edition": "",
+    "series": "Blacks in the new world",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "0-252-02446-X",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "1565-1763",
+      "1784-1821",
+      "African Americans -- Florida -- History",
+      "African Americans -- Florida -- Social conditions",
+      "Florida -- History -- Spanish colony",
+      "Slavery -- Florida -- History"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Landers, Jane"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Black society in spanish florida"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Urbana: University of Illinois Press, 1999."
+    },
+    {
+      "field": "490",
+      "label": "Series",
+      "value": "Blacks in the new world"
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "0-252-02446-X"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "1565-1763"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "1784-1821"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Americans -- Florida -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Americans -- Florida -- Social conditions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Florida -- History -- Spanish colony"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Florida -- History"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/R6/R6P2Z533.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

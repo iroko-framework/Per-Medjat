@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/J25YR4IM>
+  a schema:ScholarlyArticle ;
+  schema:name "The Neglected Tropical Diseases of Latin America and the Caribbean: A Review of Disease Burden and Distribution and a Roadmap for Control and Elimination" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=J25YR4IM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:J25YR4IM" ;
+  schema:description "The neglected tropical diseases (NTDs) represent some of the most common infections of the poorest people living in the Latin American and Caribbean region (LAC). Because they primarily afflict the disenfranchised poor as well as selected indigenous populations and people of African descent, the NTDs in LAC are largely forgotten diseases even though their collective disease burden may exceed better known conditions such as of HIV/AIDS, tuberculosis, or malaria. Based on their prevalence and healthy life years lost from disability, hookworm infection, other soil-transmitted helminth infections, and Chagas disease are the most important NTDs in LAC, followed by dengue, schistosomiasis, leishmaniasis, trachoma, leprosy, and lymphatic filariasis. On the other hand, for some important NTDs, such as leptospirosis and cysticercosis, complete disease burden estimates are not available. The NTDs in LAC geographically concentrate in 11 different sub-regions, each with a distinctive human and environmental ecology. In the coming years, schistosomiasis could be eliminated in the Caribbean and transmission of lymphatic filariasis and onchocerciasis could be eliminated in Latin America. However, the highest disease burden NTDs, such as Chagas disease, soil-transmitted helminth infections, and hookworm and schistosomiasis co-infections, may first require scale-up of existing resources or the development of new control tools in order to achieve control or elimination. Ultimately, the roadmap for the control and elimination of the more widespread NTDs will require an inter-sectoral approach that bridges public health, social services, and environmental interventions." ;
+  schema:author "Peter J. Hotez" ;
+  schema:creator "María Elena Bottazzi", "Carlos Franco‐Paredes", "Steven K. Ault", "Mirta Roses Periago" ;
+  schema:datePublished "2008" ;
+  schema:publisher "PLoS neglected tropical diseases" ;
+  schema:sameAs <https://doi.org/10.1371/journal.pntd.0000300> ;
+  dcterms:identifier "doi:10.1371/journal.pntd.0000300" ;
+  dcterms:subject "Parasite Biology and Host Interactions", "Parasites and Host Interactions", "Parasitic Diseases Research and Treatment" .

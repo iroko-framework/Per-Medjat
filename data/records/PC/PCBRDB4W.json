@@ -1,0 +1,116 @@
+{
+  "key": "PCBRDB4W",
+  "uri": "https://medjat.irokosociety.org/id/library/PCBRDB4W",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PCBRDB4W",
+  "zotero": {
+    "group": "6479329",
+    "key": "PCBRDB4W",
+    "version": 945,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PCBRDB4W",
+    "dateAdded": "2026-05-19T13:27:18Z",
+    "dateModified": "2026-05-19T13:27:18Z"
+  },
+  "display": {
+    "title": "Caribbean religious history: an introduction",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Edmonds, Ennis Barrington"
+      },
+      {
+        "role": "editor",
+        "name": "Gonzalez, Michelle A. 1973-"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Choice Reviews Online",
+    "publicationTitle": "Choice Reviews Online",
+    "bookTitle": "",
+    "journalAbbreviation": "Choice Reviews Online",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "48",
+    "issue": "04",
+    "pages": "48-2006",
+    "abstract": "Acknowledgments 1 Introduction : Caribbean Crossroads: Historical and Theoretical Considerations 2 Amerindians and Spanish Catholics in Contact 3 Early Colonial Catholicism 4 For God and Nation: Protestantism in the Colonial Caribbean 5 Creole African Traditions: Santeria, Palo Monte, Abakua, Vodou, and Espiritismo 6 Afro-Christian Faiths: Revival Zion and Spiritual Baptists 7 Mainline and Sideline: Post-Independence Mainline Protestantism and Pentecostalism 8 Migration and Revitalization: Hinduism, Islam, and Rastafarianism 9 Legitimation, Indigenization, and Contextualization Conclusion Notes Bibliography Index About the Authors",
+    "doi": "10.5860/choice.48-2006",
+    "url": "https://doi.org/10.5860/choice.48-2006",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Edmonds, Ennis Barrington"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Caribbean religious history: an introduction"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Choice Reviews Online, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "48-2006 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5860/choice.48-2006"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Gonzalez, Michelle A. 1973-"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PC/PCBRDB4W.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5860/choice.48-2006"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

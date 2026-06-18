@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FVCDBNDG>
+  a schema:Thesis ;
+  schema:name "Direitos humanos e empresas: a responsabilidade por exploração de trabalhadores em condições análogas à de escravo nas cadeias produtivas da indústria têxtil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FVCDBNDG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FVCDBNDG" ;
+  schema:description "The goal of this study is to analyze the existing remedies and their dogmatic limits in Brazilian law for the liability of companies for human rights violations committed in their supply chains. Specifically, the research will be developed by analyzing the tools and obstacles to corporate accountability for slave work in their supply chains. The relationship between business and human rights is increasingly discussed at the international level, especially because of the increasing harmful potential of some business activities that are damaging vulnerable groups. However, the treatment of corporate liability for human rights violations has may challenges and deadlocks, especially between voluntarists projects and a binding normalization of companies. Thus, for the development of the discussions about corporate accountability, it is essential to analyze the instruments of international law on the subject, as well as the mechanisms and obstacles of Brazilian law, notably with regard to slave work in their production chains." ;
+  schema:author "Bárbara Teixeira" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Americanae (AECID Library)" ;
+  dcterms:subject "Brazilian Legal Issues" .

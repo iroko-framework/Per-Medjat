@@ -1,0 +1,109 @@
+{
+  "key": "HLJV5KQI",
+  "uri": "https://medjat.irokosociety.org/id/library/HLJV5KQI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HLJV5KQI",
+  "zotero": {
+    "group": "6479329",
+    "key": "HLJV5KQI",
+    "version": 2468,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HLJV5KQI",
+    "dateAdded": "2026-05-20T16:18:53Z",
+    "dateModified": "2026-05-20T16:18:53Z"
+  },
+  "display": {
+    "title": "Les guerriers bizango : l'art d'une société secrète vaudoue en Haïti, symbole de liberté et de justice",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [],
+    "year": "2011",
+    "date": "©2011.",
+    "publisher": "Paris : Lelivredart : Galerie Vibrations, ©2011.",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Art, Haitian Exhibitions.",
+      "Bizango (Cult) Exhibitions.",
+      "Exhibition catalogs.",
+      "Haiti Social life and customs Exhibitions.",
+      "Vodou History Haiti Exhibitions."
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Les guerriers bizango : l'art d'une société secrète vaudoue en Haïti, symbole de liberté et de justice"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Paris : Lelivredart : Galerie Vibrations, ©2011., 2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Art, Haitian Exhibitions."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bizango (Cult) Exhibitions."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Exhibition catalogs."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Haiti Social life and customs Exhibitions."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Vodou History Haiti Exhibitions."
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/HL/HLJV5KQI.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

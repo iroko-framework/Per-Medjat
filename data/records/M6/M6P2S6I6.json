@@ -1,0 +1,95 @@
+{
+  "key": "M6P2S6I6",
+  "uri": "https://medjat.irokosociety.org/id/library/M6P2S6I6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=M6P2S6I6",
+  "zotero": {
+    "group": "6479329",
+    "key": "M6P2S6I6",
+    "version": 3492,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M6P2S6I6",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Identifying captivity and capturing identity: Narratives of American Indian slavery. Colorado and New Mexico, 1776--1934.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Estevan Rael-Galvez"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Between 1700 and 1880---a period extending through three distinctive governments---almost 5000 indigenous women and children were entered into and held in New Mexico and Colorado households as slaves. The greatest number of those captured were baptized and held in the northern-most regions of New Mexico and southern Colorado, primarily the Taos and San Luis valleys. Intricately connected and attendant to the development of this particular system of slavery were the cyclical forces of war, expansion, settlement and trade. <italic> Mestizaje</italic>---generations of racial and cultural mixture, defined as much by amicable unions as by coercive relations---also emerged as a direct consequence of these enslavements. American Indian slavery, from its inception, through its development was however, illegal. Nevertheless, this study reveals that law, through the language of war and retribution and civilization and conversion effectively obscured the practice, as did the constructions of custom and family. This study examines this contradiction, the counter-narratives embedded in the master narratives through a variety of documents, where both experienced reality as well as the images of the <italic>Indian other</italic> emerge in stark contrasts and subtle nuances. While this slave trade reached its greatest zenith following U.S. American conquest, it was also this convergence---with the nation just then emerging from itself divided over the issue---that forced the debate over the system's definitions, meanings and consequences. Those debates and their subsequent documents ultimately resulted in its reconstruction. Beyond the master narratives, the focus in this study is upon individual slave narratives, taking as a basic premise the critical nature of small stories within the grander narratives of colonialism. Hence, this study is essentially about <italic>being Indian</italic> in the <italic>wrong place</italic>, which accentuates the discourse about and around family, homelands, empires and the very contest over the images of slavery and indianness alike. However, this recovery of American Indian histories is also a study of memories and legacies, revealing through histories experienced, represented, imagined and passed down through storytelling, the complexity of identities that are the inheritance of New Mexican Hispanos.",
+    "doi": "",
+    "url": "https://openalex.org/W2593061960",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Estevan Rael-Galvez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Identifying captivity and capturing identity: Narratives of American Indian slavery. Colorado and New Mexico, 1776--1934."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2002."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/M6/M6P2S6I6.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

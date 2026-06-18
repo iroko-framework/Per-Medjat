@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/M3QVPELE>
+  a schema:Thesis ;
+  schema:name "Abolicionismo y trabajo juridicamente libre: una mirada sobre la historia social del trabajo en Alagoas (segunda metade del siglo xix)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M3QVPELE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M3QVPELE" ;
+  schema:description "The present work, in the field of Social History, aims to analyze, in the second half of the 19th century, the formation and action of the abolitionist movement in the Province of Alagoas, discussing the end of slavery, its changes, ruptures and permanences, related to progress of capitalism in the consolidation of legally free work. It also seeks to get to know the main groups, entities and people who have fought for the end of slavery in Alagoas, observing the means of disseminating abolitionist ideas in the region, problematizing newspaper discourses and understanding the process of insertion of ex-slaves into the world of work legally free. To this end, a variety of sources, laws, provincial reports and journals, analyzed from Carlo Ginzburg and his proposal for an interpretative method centered on waste, on the data considered revelatory. Our sources, particularly newspapers, through \"decoding and contextualization\" enable us to interpret \"seemingly marginal and irrelevant details.\" The hypothesis in this research is the confirmation that Abolition in Brazil was headed by the dominant groups, owners and their representatives, the parliamentarians. Slave liberation was conducted by them in order to accommodate the freedmen in the reality of legally free work and in new arrangements of exploitation, on the grounds of the necessity of order and morality." ;
+  schema:author "Santos, Ricardo Alves da Silva" ;
+  schema:datePublished "2019" ;
+  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Indigenous Studies in Latin America" .

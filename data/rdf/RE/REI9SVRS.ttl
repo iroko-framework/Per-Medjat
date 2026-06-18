@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/REI9SVRS>
+  a schema:Thesis ;
+  schema:name "Imprensa e escravidão: política e tráfico negreiro no império do Brasil (Rio de Janeiro, 1822-1850)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=REI9SVRS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:REI9SVRS" ;
+  schema:description "The present dissertation analyzes the public debate concerning slavery that took place in Rio de Janeiro via its press, between 1822 (foundation of the Brazilian Empire) and 1850 (the end of the transatlantic slave trade, as imposed by the Eusbio de Queirs law). The sources used in this work encompass all the political newspapers published in Rio de Janeiro during that period, as well as some political pamphlets. The methods developed here are those presented by the Atlantic History approach, along with the Social History and Political History methods. This work conveys the idea that the press was crucial to the Brazilian public debate on the transatlantic slave trade. Moreover, the dissertation demonstrates how an institution generally conceived as \"private\" played a central role in the politics of the illegal trade carried out by the Conservatives (also known as Saquaremas) from the second half of the 1830s on, functioning as a link between statesmen and their electoral base." ;
+  schema:author "Alain El Youssef" ;
+  schema:datePublished "2011" ;
+  schema:sameAs <https://doi.org/10.11606/d.8.2011.tde-06072011-090553> ;
+  dcterms:identifier "doi:10.11606/d.8.2011.tde-06072011-090553" ;
+  dcterms:subject "Brazilian History and Foreign Policy", "Colonialism, slavery, and trade", "History of Colonial Brazil" .

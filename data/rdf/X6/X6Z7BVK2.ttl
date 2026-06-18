@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/X6Z7BVK2>
+  a schema:Thesis ;
+  schema:name "What Went Right in Tanzania: How Nation Building and Political Culture Have Produced Forty-Four Years of Peace" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=X6Z7BVK2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:X6Z7BVK2" ;
+  schema:description "Timothy Wickham-Crowley" ;
+  schema:author "Ilana R. Kessler" ;
+  schema:datePublished "2006" ;
+  schema:publisher "DigitalGeorgetown (Georgetown University Library)" ;
+  dcterms:subject "International Development and Aid", "Peacebuilding and International Security", "Political Conflict and Governance" .

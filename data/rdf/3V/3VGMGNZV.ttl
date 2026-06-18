@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3VGMGNZV>
+  a schema:Thesis ;
+  schema:name "Gold jewellery in Ptolemaic, Roman and Byzantine Egypt" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3VGMGNZV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3VGMGNZV" ;
+  schema:description "This study deals with the gold jewellery made and worn in Egypt during the millennium between Alexander the Great's invasion of Egypt and the Arab conquest.Funerary jewellery is largely ignored as are ornaments in the traditional, older Egyptian styles.The work draws upon a wide variety of evidence, in particular the style, composition and construction of surviving jewellery, the many representations of jewellery in wear, such as funerary portraits, and the numerous literary references from the papyri and from Classical and early Christian writers.Egypt, during the period considered, has provided a greater wealth of such information than anywhere else in the ancient or medieval world and this allows a broadly based study of jewellery in a single ancient society.The individual chapters deal with a brief historical background; the information available from papyri and other literary sources; the sources, distribution, composition and value of gold; the origins and use of mineral and organic gem materials; the economic and social organisation of the goldsmiths' trade; and the individual jewellery types, their chronology, manufacture and significance.This last section is covered in four chapters which deal respectively with rings, earrings, necklets and pendants, and bracelets and armiets.These nine chapters are followed by a detailed bibliography and a list of the 511 illustrations." ;
+  schema:author "Jack Ogden" ;
+  schema:datePublished "1990" ;
+  schema:publisher "Durham e-Theses (Durham University)" ;
+  dcterms:subject "Law, logistics, and international trade", "Maritime and Coastal Archaeology", "Metallurgy and Cultural Artifacts" .

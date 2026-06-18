@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EHRNFQQL>
+  a schema:Book ;
+  schema:name "La sociedad secreta Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EHRNFQQL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EHRNFQQL" ;
+  schema:author "Cabrera, Lydia" ;
+  schema:datePublished "1970" ;
+  schema:publisher "Ediciones CR" ;
+  dcterms:subject "Colección del Chicherekú", "Sociedad Abakuá", "Witchcraft -- Cuba", "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/33W6BYLK>
+  a schema:Thesis ;
+  schema:name "Mastering Emotions: The Emotional Politics of Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=33W6BYLK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:33W6BYLK" ;
+  schema:description "Mastering Emotions: The Emotional Politics of Slavery explores how the emotions and affective norms of the Antebellum South were conditioned upon and constructed through the institution of slavery. Though slavery is a subject wrought with emotion, there has been no focus in recent historical scholarship on the affective dimensions of slavery. Studies in the history of emotion have also largely ignored slavery. My intervention in these fields reveals the ways that both slaveholders and slaves wielded fear, trust, jealousy, and affection in their interactions with one another. The project also sheds light on how the emotional norms of societies are learned and policed, manipulated and enforced. I argue that the emotions of slaveholders and slaves alike were irrevocably shaped by slavery. The daily negotiations and contestations that occurred between slaveholders and slaves through and about feelings, in conjunction with larger debates about race, freedom, and emotional norms, form the backbone of what I call the emotional politics of slavery. Mastering Emotions examines how the affective norms of slavery were taught, how emotional transgressions were punished, and the long-term impacts of those emotional norms on the affective landscape of the post-Reconstruction South. To gain insight into the emotional lives and affective experiences of enslaved people of color I use a variety of primary sources such as slave narratives, letters, and court testimony. Steeped in the mode of sentimentalism, which encouraged people to reflect upon and articulate their feelings, slaveholders revealed how they felt about their slaves, and how they believed their slaves felt, in diaries, wills, and even records of slave sales and manumissions. Studying the affective terrain of the Antebellum South provides fresh insight into the politics of slavery, revealing how those in bondage used feelings to resist slavery, and how the planter class employed emotions to enforce the institution. This project also contributes to the burgeoning field of affective history by complicating understandings of how emotions are constructed in relation to power, and how power operates in affective relations." ;
+  schema:author "Erin Austin Dwyer" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Digital Access to Scholarship at Harvard (DASH) (Harvard University)" ;
+  dcterms:subject "History of Emotions Research", "Literature: history, themes, analysis", "Race, History, and American Society" .

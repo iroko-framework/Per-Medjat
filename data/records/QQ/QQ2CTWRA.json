@@ -1,0 +1,132 @@
+{
+  "key": "QQ2CTWRA",
+  "uri": "https://medjat.irokosociety.org/id/library/QQ2CTWRA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QQ2CTWRA",
+  "zotero": {
+    "group": "6479329",
+    "key": "QQ2CTWRA",
+    "version": 3393,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QQ2CTWRA",
+    "dateAdded": "2026-05-20T16:34:38Z",
+    "dateModified": "2026-05-20T16:37:01Z"
+  },
+  "display": {
+    "title": "Écrivains haïtiens au Québec. Une écriture du dépassement identitaire",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Najib Redouane"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "Globe Revue internationale d’études québécoises",
+    "publicationTitle": "Globe Revue internationale d’études québécoises",
+    "bookTitle": "",
+    "journalAbbreviation": "Globe Revue internationale d’études québécoises",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "issue": "1",
+    "pages": "43-64",
+    "abstract": "Cette étude aborde l’éclatement d’une mouvance littéraire au sein de la littérature québécoise. Elle s’appuie principalement sur cinq romanciers haïtiens qui ont décidé de s’exiler et qui, à partir de leur terre d’accueil, abordent certains thèmes sur Haïti, colorés par leur nouvel environnement. Ce faisant, ils décrivent une réalité singulière liée à l’histoire tourmentée de leur pays d’origine. Bien qu’ils partagent leur langue avec les francophones du Québec, ces écrivains conservent leur préoccupation identitaire, leur combat culturel et leur prise de conscience politique. Leur écriture imprime une facture singulière au discours romanesque et poétique dans le champ de la littérature québécoise.",
+    "doi": "10.7202/1000692ar",
+    "url": "https://doi.org/10.7202/1000692ar",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Haitian Vodou"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Canadian Identity and History",
+      "Linguistic and Sociocultural Studies",
+      "Linguistics and Discourse Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Najib Redouane"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Écrivains haïtiens au Québec. Une écriture du dépassement identitaire"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Globe Revue internationale d’études québécoises, 2011."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "43-64 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.7202/1000692ar"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Canadian Identity and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic and Sociocultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Discourse Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Haitian Vodou"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/QQ/QQ2CTWRA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.7202/1000692ar"
+    ],
+    "about": [
+      {
+        "label": "Haitian Vodou",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WV9NQ8NC>
+  a schema:Thesis ;
+  schema:name "The Career of Henry Watkins Allen." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WV9NQ8NC> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WV9NQ8NC" ;
+  schema:description "The Claiborne County records in port Gibson and in the Department of Archives and History at jaokson reveal that between 1837 and 1852 Allen practiced law, served six months in the Texas army, was for one term an active member of the lower House of the Mississippi legislature, and operated a cotton plantation. He also purchased a large amount of land in Mississippi, Louisiana, and Texas during this period. In 1844" ;
+  schema:author "Luther Chandler" ;
+  schema:datePublished "1940" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_disstheses.7825> ;
+  dcterms:identifier "doi:10.31390/gradschool_disstheses.7825" ;
+  dcterms:subject "American History and Culture", "Archaeology and Natural History", "Cuban History and Society" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WCLK3CU8>
+  a schema:ScholarlyArticle ;
+  schema:name "Quelques aspects de la nouvelle scène artistique d’Haïti" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WCLK3CU8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WCLK3CU8" ;
+  schema:description "De nouveaux types d’œuvres sont apparus dans l’univers de la création plastique d’Haïti depuis les années 1980-1990. Ils participent d’une nouvelle scène dont nous allons tenter de dégager quelques caractéristiques, qui ressortiront davantage en les situant dans le processus historique global de configuration et de reconfiguration du monde artistique du pays. Ainsi apparaîtront les liens et les lignes de démarcation vis-à-vis des courants établis. En outre, l’analyse privilégiera certains aspects, comme la dynamique sociale qui sous-tend ces transformations, les références partagées et les facteurs différenciants tels que l’intérêt pour des problématiques particulières, ainsi que les usages des techniques et des matériaux." ;
+  schema:author "Carlo A. Célius" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Gradhiva" ;
+  schema:sameAs <https://doi.org/10.4000/gradhiva.2950> ;
+  dcterms:identifier "doi:10.4000/gradhiva.2950" ;
+  dcterms:subject "Cultural Identity and Heritage", "Cultural Insights and Digital Impacts", "French Urban and Social Studies" .

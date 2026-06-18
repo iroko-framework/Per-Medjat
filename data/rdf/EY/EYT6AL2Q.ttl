@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EYT6AL2Q>
+  a schema:ScholarlyArticle ;
+  schema:name "Los signos cubanos de los ritos abakuá (nueva versión con ilustraciones)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EYT6AL2Q> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EYT6AL2Q" ;
+  schema:description "Diversos mitos y signos gráficos se encuentran presentes en el mundo mágico<br> de las sociedades abakuá o de ñáñigos, una de las formas de religiosidad popular cubana que junto con la santería, el palomo nte, el espiritismo en sus diversas variantes, los ritos arará y el vodú forman parte de la rica variedad de<br> creencias del pueblo cubano actual.<br> Los ritos que conforman el complejo ceremonial religioso de las centenarias<br> sociedades abakuá (constituidas e n Cuba desde las primeras décadas del siglo XIX) tiene aún muchos adeptos en unas ciento quince asociaciones masculinas ubicadas en las ciudades de La Habana, Matanzas y Cárdenas. En su decursar histórico han aportado un significativo legado simbólico medi ante elementos sacro gráficos al lenguaje de sus cultos iniciáticos, fundacionales de nuevas sociedades (\"tierras\", \"juegos\" o \"plantes\"), sancionadores y funerarios. Estas sociedades cubanas, que sintetizan del otro lado del Atlántico diversos<br> ritos propios de vari os pueblos etnias del área sudoriental de Nigeria (ibo,<br> ibibio , ijo y ekoi) han tenido un carácter secreto desde su formación inicial hasta la primera mitad del siglo XX. Hoy día su membresía está constituida<br> fundamentalmente por individuos cubanos, con independencia de su pigmentación epitelial, y ha tendido a readecuar con el paso de varias<br> generaciones tanto sus elementos rituales de base mítico animista como los<br> signos gráficos, a sus respectivos recintos de consagración o baroko<br> Quizá por el hermetismo de los ritos y por el permanente acoso que han<br> sufrido los abakuá por las autoridades, desde la etapa colonial y durante más de cien años, la recreación del mundo plástico del sistema gráfico ereniyó no ha trascendido a plenitud en tanto lenguaje pictór ico con toda su potencialidad dinámica; ya que irrumpir en este ámbito ritual no ha sido nada sencillo." ;
+  schema:author "Jesús Guanche" ;
+  schema:datePublished "1995" ;
+  schema:publisher "Zenodo (CERN European Organization for Nuclear Research)" ;
+  schema:sameAs <https://doi.org/10.5281/zenodo.5915564> ;
+  dcterms:identifier "doi:10.5281/zenodo.5915564" ;
+  dcterms:subject "Cuban History and Society" .

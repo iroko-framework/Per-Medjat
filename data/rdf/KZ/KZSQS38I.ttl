@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KZSQS38I>
+  a schema:ScholarlyArticle ;
+  schema:name "Bruxas e bruxos no Nordeste algarvio. Algumas representações da doença e da cura" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KZSQS38I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KZSQS38I" ;
+  schema:author "Cristiana Bastos" ;
+  schema:datePublished "1985" ;
+  schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:subject "Death, Funerary Practices, and Mourning", "Health, Nursing, Elderly Care" .

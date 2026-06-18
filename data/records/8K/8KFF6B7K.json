@@ -1,0 +1,128 @@
+{
+  "key": "8KFF6B7K",
+  "uri": "https://medjat.irokosociety.org/id/library/8KFF6B7K",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8KFF6B7K",
+  "zotero": {
+    "group": "6479329",
+    "key": "8KFF6B7K",
+    "version": 1419,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8KFF6B7K",
+    "dateAdded": "2026-05-19T13:29:08Z",
+    "dateModified": "2026-05-19T13:29:08Z"
+  },
+  "display": {
+    "title": "Les signatures des dieux. Graphismes et action rituelle dans les religions afro-cubaines",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Julien Bonhomme"
+      },
+      {
+        "role": "editor",
+        "name": "Katerina Kerestetzi"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Gradhiva",
+    "publicationTitle": "Gradhiva",
+    "bookTitle": "",
+    "journalAbbreviation": "Gradhiva",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "22",
+    "issue": "",
+    "pages": "74-105",
+    "abstract": "Cet article s’intéresse aux graphismes en usage au sein des religions afro-cubaines, notamment dans le palo monte et l’abakuá. Il examine comment ces signes, appelés firmas ou « signatures », participent à la dramaturgie rituelle. Qu’il s’agisse d’une cérémonie collective ou, plus modestement, d’un « travail » magique pour un patient, les graphismes saturent l’espace, les artefacts et les corps des participants. Ils servent à figurer les esprits des morts, les dieux, les astres ou tout autre agent non humain mobilisé par le rite. Ils donnent également à voir les actions invisibles que ces entités sont censées accomplir. Ils constituent en somme des diagrammes de l’action rituelle : à la fois une représentation de ses parties invisibles et le schème organisateur qui structure son déroulement. Combinant les approches sémiotique et pragmatique, l’article étudie à la fois ce que représentent les signes graphiques et ce qu’ils permettent de faire.",
+    "doi": "10.4000/gradhiva.3044",
+    "url": "https://doi.org/10.4000/gradhiva.3044",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Diverse multidisciplinary academic research",
+      "Linguistics and Discourse Analysis",
+      "Literary and Cultural Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Julien Bonhomme"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Les signatures des dieux. Graphismes et action rituelle dans les religions afro-cubaines"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Gradhiva, 2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "74-105 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/gradhiva.3044"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diverse multidisciplinary academic research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Discourse Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literary and Cultural Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Katerina Kerestetzi"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/8K/8KFF6B7K.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/gradhiva.3044"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PLXRFH26>
+  a schema:Book ;
+  schema:name "The Light Inside: Abakuá Society Arts and Cuban Cultural History" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PLXRFH26> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PLXRFH26" ;
+  schema:author "David H. Brown" ;
+  schema:datePublished "2003" ;
+  dcterms:subject "Cuban History and Society" .

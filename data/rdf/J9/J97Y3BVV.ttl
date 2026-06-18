@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/J97Y3BVV>
+  a schema:ScholarlyArticle ;
+  schema:name "Black Africans’ Freedom Litigation Suits to Define Just War and Just Slavery in the Early Spanish Empire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=J97Y3BVV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:J97Y3BVV" ;
+  schema:description "This article explores how some enslaved Black Africans litigated for their freedom in Spanish royal courts in the sixteenth century on the basis that—as Christians—they had been unjustly enslaved in Africa. With a focus on the port cities of Seville and Cartagena, I explore how freedom litigation suits illuminate how individuals from starkly different social worlds and intellectual milieus—who inhabited the same urban sites—affected and shaped one another's intellectual landscapes. I trace how enslaved Africans’ epistemologies of just slavery shaped broader discourses on the just enslavement of Africans in the Spanish Empire." ;
+  schema:author "Chloe L. Ireton" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Renaissance Quarterly" ;
+  schema:sameAs <https://doi.org/10.1017/rqx.2020.219> ;
+  dcterms:identifier "doi:10.1017/rqx.2020.219" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Historical Economic and Social Studies", "Race, History, and American Society" .

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8NWNIJI7>
+  a schema:Thesis ;
+  schema:name "Black Catholicism: religion and slavery in antebellum Louisiana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8NWNIJI7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8NWNIJI7" ;
+  schema:description "The practice of Catholicism extended across racial boundaries in colonial Louisiana, and interracial worship continued to characterize the religious experience of Catholics throughout the antebellum period. French and Spanish missionaries baptized natives, settlers, and slaves, and the Catholic Church required Catholic planters to baptize and catechize their slaves. Most slaveholders outside New Orleans, however, were lax in the religious education of slaves. Work holidays did not always correspond to religious holy days, and the number of slave baptisms and confirmations on Catholic plantations often depended on the willingness of the local priest, or the slaves themselves, to attend the parish church. Despite these limitations, enslaved persons in the river parishes of Louisiana integrated Catholic rituals into their expressions of spirituality. Slaves’ uses of herbs, medicinal practices, Voodoo, ghostlore, and folk stories combined their experiences as enslaved persons and their contact with Catholic teachings to inform their worldviews and the Catholic-Christianity of all parishioners in southeast Louisiana. For free women of color, the Catholic Church offered particular opportunities to extend their religious, social, and economic standings. In the river parishes outside New Orleans, free women of color demonstrated their piety and their financial resources by engaging in economic exchanges with local churches. In New Orleans proper, a group of free women of color formed the Sisters of the Holy Family, the first order solely for women of African-American descent in the city, in order to aid ill and needy blacks. Although the Catholic Church had neither unqualified success nor absolute failure among African-American parishioners during the eighteenth and nineteenth centuries, the experiences of free women of color in Louisiana proved that some blacks found religious as well as social and economic identity in the Catholic Church. Ultimately, the Catholic Church provided some degree of spiritual agency for those who incorporated—and changed—Catholic practices to fit into their lives." ;
+  schema:author "Lori Pastor" ;
+  schema:datePublished "2005" ;
+  schema:sameAs <https://doi.org/10.31390/gradschool_theses.1864> ;
+  dcterms:identifier "doi:10.31390/gradschool_theses.1864" ;
+  dcterms:subject "American Constitutional Law and Politics", "Colonialism, slavery, and trade", "Race, History, and American Society" .

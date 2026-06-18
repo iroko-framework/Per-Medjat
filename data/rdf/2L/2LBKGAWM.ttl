@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2LBKGAWM>
+  a schema:Book ;
+  schema:name "The pirates Laffite: the treacherous world of the corsairs of the Gulf" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2LBKGAWM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2LBKGAWM" ;
+  schema:author "Davis, William C." ;
+  schema:datePublished "2005" ;
+  schema:publisher "Harcourt" ;
+  dcterms:identifier "isbn:0-15-100403-X" ;
+  dcterms:subject "-1826?", "1815", "America", "Battle of", "Gulf of", "Gulf of -- History -- 19th", "Gulf of -- History -- 19th century", "Jean", "La.", "Laffite", "Louisiana -- History -- 1803-1865", "New Orleans", "Pierre", "Pirates -- Louisiana", "Pirates -- Mexico", "Privateering -- Mexico" .

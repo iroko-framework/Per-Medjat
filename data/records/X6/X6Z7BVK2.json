@@ -1,0 +1,107 @@
+{
+  "key": "X6Z7BVK2",
+  "uri": "https://medjat.irokosociety.org/id/library/X6Z7BVK2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=X6Z7BVK2",
+  "zotero": {
+    "group": "6479329",
+    "key": "X6Z7BVK2",
+    "version": 2058,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/X6Z7BVK2",
+    "dateAdded": "2026-05-19T14:19:19Z",
+    "dateModified": "2026-05-19T14:19:19Z"
+  },
+  "display": {
+    "title": "What Went Right in Tanzania: How Nation Building and Political Culture Have Produced Forty-Four Years of Peace",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ilana R. Kessler"
+      }
+    ],
+    "year": "2006",
+    "date": "2006",
+    "publisher": "DigitalGeorgetown (Georgetown University Library)",
+    "publicationTitle": "DigitalGeorgetown (Georgetown University Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "DigitalGeorgetown (Georgetown University Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Timothy Wickham-Crowley",
+    "doi": "",
+    "url": "http://hdl.handle.net/10822/551674",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "International Development and Aid",
+      "Peacebuilding and International Security",
+      "Political Conflict and Governance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ilana R. Kessler"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "What Went Right in Tanzania: How Nation Building and Political Culture Have Produced Forty-Four Years of Peace"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "DigitalGeorgetown (Georgetown University Library), 2006."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "International Development and Aid"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Peacebuilding and International Security"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Political Conflict and Governance"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/X6/X6Z7BVK2.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

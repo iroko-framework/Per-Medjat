@@ -1,0 +1,191 @@
+{
+  "key": "WYGQ8KRJ",
+  "uri": "https://medjat.irokosociety.org/id/library/WYGQ8KRJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WYGQ8KRJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "WYGQ8KRJ",
+    "version": 3954,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WYGQ8KRJ",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Cytotoxic, Genotoxic, and Polymorphism Effects on Vanilla planifolia Jacks ex Andrews after Long-Term Exposure to Argovit® Silver Nanoparticles",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "J. Bello"
+      },
+      {
+        "role": "editor",
+        "name": "José Luis Spinoso‐Castillo"
+      },
+      {
+        "role": "editor",
+        "name": "Samantha Arano-Avalos"
+      },
+      {
+        "role": "editor",
+        "name": "Eduardo Martínez‐Estrada"
+      },
+      {
+        "role": "editor",
+        "name": "María Evarista Arellano-García"
+      },
+      {
+        "role": "editor",
+        "name": "Alexey Pestryakov"
+      },
+      {
+        "role": "editor",
+        "name": "Yanis Toledano‐Magaña"
+      },
+      {
+        "role": "editor",
+        "name": "Juan Carlos García‐Ramos"
+      },
+      {
+        "role": "editor",
+        "name": "Nina Bogdanchikova"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Nanomaterials",
+    "publicationTitle": "Nanomaterials",
+    "bookTitle": "",
+    "journalAbbreviation": "Nanomaterials",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "issue": "10",
+    "pages": "754-754",
+    "abstract": "Worldwide demands of Vanilla planifolia lead to finding new options to produce large-scale and contaminant-free crops. Particularly, the Mexican Government has classified Vanilla planifolia at risk and it subject to protection programs since wild species are in danger of extinction and no more than 30 clones have been found. Nanotechnology could help to solve both demands and genetic variability, but toxicological concerns must be solved. In this work, we present the first study of the cytotoxic and genotoxic effects promoted by AgNPs in Vanilla planifolia plantlets after a very long exposure time of six weeks. Our results show that Vanilla planifolia plantlets growth with doses of 25 and 50 mg/L is favored with a small decrease in the mitotic index. A dose-dependency in the frequency of cells with chromosomal aberrations and micronuclei was found. However, genotoxic effects could be considered as minimum due to with the highest concentration employed (200 mg/L), the total percentage of chromatic aberrations is lower than 5% with only three micronuclei in 3000 cells, despite the long-time exposure to AgNP. Therefore, 25 and 50 mg/L (1.5 and 3 mg/L of metallic silver) were identified as safe concentrations for Vanilla planifolia growth on in vitro conditions. Exposure of plantlets to AgNPs increase the polymorphism registered by inter-simple sequence repeat method (ISSR), which could be useful to promote the genetic variability of this species.",
+    "doi": "10.3390/nano8100754",
+    "url": "https://doi.org/10.3390/nano8100754",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Biochemical and biochemical processes",
+      "Medicinal Plants and Neuroprotection",
+      "Plant tissue culture and regeneration"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "J. Bello"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cytotoxic, Genotoxic, and Polymorphism Effects on Vanilla planifolia Jacks ex Andrews after Long-Term Exposure to Argovit® Silver Nanoparticles"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Nanomaterials, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "754-754 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/nano8100754"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biochemical and biochemical processes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medicinal Plants and Neuroprotection"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant tissue culture and regeneration"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "José Luis Spinoso‐Castillo"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Samantha Arano-Avalos"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Eduardo Martínez‐Estrada"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "María Evarista Arellano-García"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Alexey Pestryakov"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Yanis Toledano‐Magaña"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Juan Carlos García‐Ramos"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Nina Bogdanchikova"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/WY/WYGQ8KRJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/nano8100754"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

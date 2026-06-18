@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3IW5D93S>
+  a schema:ScholarlyArticle ;
+  schema:name "Tierra y piel en el ser indio de Quintín Lame Chantre" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3IW5D93S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3IW5D93S" ;
+  schema:description "El escrito va tras la huella de Quintín Lame, un ejercicio importante paraconocer al hombre que se empeño en luchar con unos objetivos claros y razonados; colocándolo a hablar desde su ideario político, para que aquellosque no conocemos mucho de su periplo, dedicado a trabajar por el bienestar delos pueblos indígenas en este país latinoamericano, nos acerquemos con losojos del siglo XXI que descubre cómo en la actualidad todavía las injusticiassobre la comunidad indígena tienen un saldo en rojo, por la violencia políticaque nos ataca desde varios frentes. Igualmente, el complemento de este escrito analizará una mirada artística hacía la persona de Quintín Lame, buscando a través de la visión de una obra plástica el significado del hombre, bajo la sombra de una lucha que tiene su pasado en las vasijas y accesorios de barro, la transformación del oro en utensilios de prácticas rituales, y las piedras talladas de seres antropomorfos de cada una de nuestras culturas indígenas nacidas en el territorio; además de las vivencias dirigidas al reconocimiento político y social y cultural de nuestros indígenas, que al día de hoy sostienen rumbos diversos." ;
+  schema:author "Yamid Galindo Cardona" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Historia Y Espacio" ;
+  schema:sameAs <https://doi.org/10.25100/hye.v4i31.1685> ;
+  dcterms:identifier "doi:10.25100/hye.v4i31.1685" ;
+  dcterms:subject "Educational and Organizational Development", "Indigenous Cultures and Socio-Education", "Latin American Cultural Politics" .

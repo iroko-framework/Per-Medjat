@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/L7VS4BD6>
+  a schema:ScholarlyArticle ;
+  schema:name "Réseaux transnationaux d’artistes et relocalisation du répertoire « afro-cubain » dans le Veracruz" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=L7VS4BD6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:L7VS4BD6" ;
+  schema:description "Le répertoire musical et chorégraphique « afro-cubain » est considéré aujourd’hui comme un apport légitime et valorisé à l'identité culturelle nationale cubaine. Il est transmis au public non-cubain par des musiciens et des danseurs professionnels qui sont aussi des pratiquants des religions « afro-cubaines ». Insérés dans de complexes réseaux rituels et professionnels polycentrés, ces artistes ont formé des élèves qui contribuent à leur tour à la construction de larges réseaux transnationaux d’artistes. Dans cet article, je propose d’ébaucher une analyse historique et ethnographique de ces réseaux, depuis leur naissance à Cuba et en explorant l’une de leurs ramifications dans l'État du Veracruz, au Mexique. Il s’agira dans un premier temps de comprendre le fonctionnement concret de la diffusion d’un répertoire pour ensuite analyser la ré-interprétation de ce dernier à la lumière des relations de pouvoir générées par l’organisation en réseaux." ;
+  schema:author "Kali Argyriadis" ;
+  schema:datePublished "2009" ;
+  schema:publisher "Revue européenne de migrations internationales" ;
+  schema:sameAs <https://doi.org/10.4000/remi.4955> ;
+  dcterms:identifier "doi:10.4000/remi.4955" ;
+  dcterms:subject "Hispanic-African Historical Relations", "Indigenous Cultures and History", "Latin American and Latino Studies" .

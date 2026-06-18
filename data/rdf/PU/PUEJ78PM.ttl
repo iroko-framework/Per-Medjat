@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PUEJ78PM>
+  a schema:Thesis ;
+  schema:name "Against the peace and dignity of the Commonwealth: physical confrontations between slaves and whites in antebellum Virginia, 1801-1860" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PUEJ78PM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PUEJ78PM" ;
+  schema:description "\"Historians have analyzed physical confrontations between slaves and whites in their broader discussions of slave resistance in the United States. While recognizing their importance, they have not yet examined confrontations on their own merits as they have with other forms of resistance. In this dissertation, I examine the history of physical confrontations in Virginia from between 1801 and 1860. In order to describe altercations between whites and slaves, I relied upon state and county court records. These documents included trial transcripts, petitions, letters, and coroner’s inquisitions. I also consulted newspapers to gauge the impact of slave violence. To understand violence from the slaves’ perspective and to balance these primarily white sources, I also used slave autobiographies and interviews with ex-slaves by the Federal Writer’s Project in the 1930s. In this dissertation, I seek to understand the circumstances that prompted slaves to engage in physical confrontations with whites and what this violence revealed about the lives of enslaved Virginians. Slaves engaged in confrontations for a variety of reasons, but most often because of the prospect of physical punishment to themselves or their family members. These altercations occurred most often between individual whites and slaves, but on rare occasions, slaves worked collectively to kill cruel owners and overseers. I compare the differences between confrontations involving male and female slaves. When analyzing altercations between slaves and whites, I expand the historical discussion of Southern honor to include bondsmen’s violence against whites. Building off of research involving the intersection of slavery and the law, the confrontations that made it most often into the courts involved the failure of white mastery. The varied experiences of slave women—as household slaves, field workers, and as objects of their masters’ sexual desire—led bondswomen to engage in different forms of confrontation compared to slave men. These altercations also reveal the ability of slave violence to exacerbate tensions within white communities, but also stress the power of slavery as an institution to absorb and withstand the threat of resisting slaves.\"" ;
+  schema:author "Christopher H. Bouton" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Library, Museums and Press - UDSpace (University of Delaware)" ;
+  schema:sameAs <https://doi.org/10.58088/k1ap-f774> ;
+  dcterms:identifier "doi:10.58088/k1ap-f774" ;
+  dcterms:subject "American History and Culture", "Colonialism, slavery, and trade", "Race, History, and American Society" .

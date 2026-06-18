@@ -1,0 +1,119 @@
+{
+  "key": "QNUU9ZMT",
+  "uri": "https://medjat.irokosociety.org/id/library/QNUU9ZMT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QNUU9ZMT",
+  "zotero": {
+    "group": "6479329",
+    "key": "QNUU9ZMT",
+    "version": 912,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QNUU9ZMT",
+    "dateAdded": "2026-05-19T13:27:12Z",
+    "dateModified": "2026-05-19T13:27:12Z"
+  },
+  "display": {
+    "title": "A Secret Society Goes Public: The Relationship between Abakua and Cuban Popular Culture",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "African Studies Review",
+    "publicationTitle": "African Studies Review",
+    "bookTitle": "",
+    "journalAbbreviation": "African Studies Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "43",
+    "issue": "1",
+    "pages": "161-161",
+    "abstract": "eties of the Cross River region. It was founded in Havana, Cuba, in 1836 to resist slavery, and has since been active in many aspects of Cuban culture. Although her-metic and little known even within Cuba, an analysis of Cuban popular music recorded from the 1920s until the present reveals Abakua influence in nearly every genre of Cuban popular music. Abakua lore is orally transmitted, and Cuban musi-cians who are Abakua members have continually documented key aspects of their society&amp;apos;s history in commercial recordings, often in Abakua language. Because theirs is a secret language for initiates only, Abakua have commercially recorded actual chants of the society, knowing that outsiders cannot interpret them. Even so, these recordings have been very popular because the Abakua represent a rebel-lious, even anticolonial, aspect of Cuban culture. Now played throughout the Amer-icas, Mrica, Europe, and Asia, Cuban popular music and its derivatives maintain Abakua language and aesthetics as integral elements. Because so little has been written about the society by members themselves, commercial recordings with Abakua content are an important source of knowledge about this group. While lis-tening to the lyrics, I realized that Abakua musicians have sung about their contri-butions to Cuban history, their liberation struggles, and race relations. My research suggests the rising importance of Abakua as a symbol of Cuban culture. Resume: La Societe des hommes Abakua tire son origine des Societes Ekpe ouest africaines de la region de Cross River. Elle fut fondee a Havane a Cuba en 1836 pour resister al&amp;apos;esclavage et est depuis active dans bien des aspects de la culture cubaine. Bien qu&amp;apos;elle reste hermetique et peu connue meme al&amp;apos;interieurde Cuba,",
+    "doi": "10.2307/524726",
+    "url": "https://doi.org/10.2307/524726",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Secret Society Goes Public: The Relationship between Abakua and Cuban Popular Culture"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "African Studies Review, 2000."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "161-161 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.2307/524726"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/QN/QNUU9ZMT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.2307/524726"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

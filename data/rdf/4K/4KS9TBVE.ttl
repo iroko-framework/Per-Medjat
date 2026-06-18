@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4KS9TBVE>
+  a schema:ScholarlyArticle ;
+  schema:name "Seeing the light in Santa y Andrés: Metaphor, myth and historical ambivalence" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4KS9TBVE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4KS9TBVE" ;
+  schema:description "Drawing on theories about bricolage as creative resistance, this article examines the sudden, unexplained appearance of the masked Abakuá íreme in the middle of Carlos Lechuga’s Santa y Andrés (), a film that otherwise focuses entirely on the repression of a gay writer in post-Mariel era Cuba. This disruption of the narrative is explored as a strategy that urges the viewer to consider cyclical processes by which displaced social anxieties are mapped onto different marginalized groups to form a shifting locus of backlash following moments of progressive social change in Cuban history. The article tracks the ways in which the film evokes Abakuá mythology to create historical parallels for the viewer to discover. Utilizing doubled characters and parallel journeys as its analogical grammar, tensions between the film’s archetypal figures signal larger conflicts around the policing of acceptable expressions of gender and sexuality, and the social and political processes by which particular expressions of masculinity that are perceived as ‘dangerous’ or threatening are regulated in Cuban society at different historical moments. Even though Santa y Andrés is set in 1983, the film’s contentious reception in 2016 makes it what I am calling a historically ambivalent film about repression both in the past and in the present." ;
+  schema:author "Ruth Goldberg" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Studies in Spanish & Latin-American Cinemas" ;
+  schema:sameAs <https://doi.org/10.1386/slac_00029_1> ;
+  dcterms:identifier "doi:10.1386/slac_00029_1" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Latin American and Latino Studies" .

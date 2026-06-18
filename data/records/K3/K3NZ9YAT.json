@@ -1,0 +1,128 @@
+{
+  "key": "K3NZ9YAT",
+  "uri": "https://medjat.irokosociety.org/id/library/K3NZ9YAT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=K3NZ9YAT",
+  "zotero": {
+    "group": "6479329",
+    "key": "K3NZ9YAT",
+    "version": 3657,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/K3NZ9YAT",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "Modern slavery and the Global Reporting Initiative – A bridge too far?",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Roger Burritt"
+      },
+      {
+        "role": "editor",
+        "name": "Katherine L. Christ"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Business Strategy & Development",
+    "publicationTitle": "Business Strategy & Development",
+    "bookTitle": "",
+    "journalAbbreviation": "Business Strategy & Development",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "issue": "3",
+    "pages": "296-309",
+    "abstract": "Abstract As the Global Reporting Initiative currently provides the most widely used set of voluntary sustainability reporting standards, the question arises as to the extent to which the Initiative's multi‐stakeholder governance is helping towards ending modern slavery in line with the United Nations Sustainable Development Goal 8. Stakeholder theory and examination of the Initiative's sustainability standards are used, to examine the issue. Evidence from the Initiative's set of universal, topic and sector standards reveals that, while forced and child labour are identified as granular material topics for sustainability reporting, the broader concept of modern slavery has not been recognised as a required material theme for disclosure. One recent exception is voluntary publication of three new sector standards, where the modern slavery term appears to be introduced as a symbolic rather than a substantive notion. Main contributions from the research relate to, first, providing a critique of the multi‐stakeholder foundations for governance as used by the Initiative; second, examination of the results of the Initiative's standard setting process in terms of its standards and their incorporation of modern slavery, from a multi‐stakeholder governance perspective with the hope of improving governance in the future.",
+    "doi": "10.1002/bsd2.239",
+    "url": "https://doi.org/10.1002/bsd2.239",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Corporate Social Responsibility Reporting",
+      "Global trade, sustainability, and social impact",
+      "Mining and Resource Management"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Roger Burritt"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Modern slavery and the Global Reporting Initiative – A bridge too far?"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Business Strategy & Development, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "296-309 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1002/bsd2.239"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Corporate Social Responsibility Reporting"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global trade, sustainability, and social impact"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mining and Resource Management"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Katherine L. Christ"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/K3/K3NZ9YAT.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1002/bsd2.239"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

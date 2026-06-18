@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2JHG23HS>
+  a schema:ScholarlyArticle ;
+  schema:name "Incorporating the Averse. Emulating Freemasonry?" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2JHG23HS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2JHG23HS" ;
+  schema:description "The researcher Karo Moret-Miranda has defended a doctoral thesis dissertation, entitled “Incorporating the Averse. Emulating Freemasonry? Approach to racial and hermeneutical entanglement in the Abakuá religious exercitatio” at Pompeu Fabra University in Spain the December 20th, 2019." ;
+  schema:author "Karo Moret-Miranda" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña" ;
+  schema:sameAs <https://doi.org/10.15517/rehmlac.v12i1-2.41637> ;
+  dcterms:identifier "doi:10.15517/rehmlac.v12i1-2.41637" ;
+  dcterms:subject "Environmental and Cultural Studies in Latin America and Beyond", "Financial Crisis of the 21st Century", "Psychedelics and Drug Studies" .

@@ -1,0 +1,113 @@
+{
+  "key": "EUIGB77X",
+  "uri": "https://medjat.irokosociety.org/id/library/EUIGB77X",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EUIGB77X",
+  "zotero": {
+    "group": "6479329",
+    "key": "EUIGB77X",
+    "version": 3432,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EUIGB77X",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Colonial blackness: a history of Afro-Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bennett, Herman L. 1964-"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Choice Reviews Online",
+    "publicationTitle": "Choice Reviews Online",
+    "bookTitle": "",
+    "journalAbbreviation": "Choice Reviews Online",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "47",
+    "issue": "05",
+    "pages": "47-2746",
+    "abstract": "Rethinking Black and Christian Lives in New Spain\"What happens to our understanding of black identity,\" Herman L. Bennett asks, \"when its foundational trope, the slave, is no longer conceived of as a stable subject?\" (p.xiii).It is interesting, given the current and frequent emphasis on undermining the historical and cultural obsession with the act of manumission, that this question has so rarely been posed.This is the question that Bennett attempts to answer through an analysis of ecclesiastical church documents in New Spain between the sixteenth and eighteenth centuries.His response describes the vibrant social and private lives of both enslaved and free persons as it seeks to eliminate the distinction between \"slave\" and \"free.\" Bennett positions his study as the response of an intellectually frustrated scholar to what have been the central academic tropes of theAfro-Latin experience: the dependence on slavery as a major social category, the constant desire of blacks to attain upward social mobility, the lack of emphasis placed on Catholicism as an important social force among blacks, the need to characterize all black cultural practices as forms of resistance, and the constant reiteration of the lives of enslaved persons as socially dead, following Orlando Patterson's Slavery and Social Death: A Comparative Study (1982).Bennett succeeds in opening new spaces for further investigation and fruitful research through raising new and compelling questions regarding the construction and present understanding of the Afro-Mexican experience, challenging preconceived notions of what it meant to be black in New Spain.its reframing of the discussion away from slavery and recognizing the diverse social and private lives that constructed an understanding of black identity.Unfortunately, its unquestioning reliance on its source material prevents Colonial Blacknessfrom fully uniting its ambitious and welcome theoretical framework with appropriate evidence.",
+    "doi": "10.5860/choice.47-2746",
+    "url": "https://doi.org/10.5860/choice.47-2746",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bennett, Herman L. 1964-"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Colonial blackness: a history of Afro-Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Choice Reviews Online, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "47-2746 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5860/choice.47-2746"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/EU/EUIGB77X.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5860/choice.47-2746"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

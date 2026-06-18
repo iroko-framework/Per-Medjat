@@ -1,0 +1,119 @@
+{
+  "key": "RJR4HE8F",
+  "uri": "https://medjat.irokosociety.org/id/library/RJR4HE8F",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RJR4HE8F",
+  "zotero": {
+    "group": "6479329",
+    "key": "RJR4HE8F",
+    "version": 3459,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RJR4HE8F",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Slavery and the Rise of the Nineteenth-Century American Economy",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gavin Wright"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "The Journal of Economic Perspectives",
+    "publicationTitle": "The Journal of Economic Perspectives",
+    "bookTitle": "",
+    "journalAbbreviation": "The Journal of Economic Perspectives",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "36",
+    "issue": "2",
+    "pages": "123-148",
+    "abstract": "The essay considers the claim that slavery played a leading role in the acceleration of US economic growth in the nineteenth century. Although popular among pro-slavery apologists, the proposition fails under rigorous historical scrutiny. The slave South discouraged immigration, underinvested in transportation infrastructure, and failed to educate the majority of its population. It is not even clear that the region produced more cotton than it would have under a counterfactual alternative settlement by free family farmers, on the free-state pattern. The grain of truth in recently popular narratives is that many northerners and business interests were complicit in the crime of slavery: routinely engaging in transactions with slaveholders, even promoting activities that facilitated slavery and the domestic slave trade. Complicity complicates simple historical moralism, but it is quite different from the notion that the prosperity of the nation as a whole derived from slavery in any fundamental way.",
+    "doi": "10.1257/jep.36.2.123",
+    "url": "https://doi.org/10.1257/jep.36.2.123",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Economic Theory and Policy",
+      "Political Economy and Marxism",
+      "Taxation and Compliance Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gavin Wright"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery and the Rise of the Nineteenth-Century American Economy"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The Journal of Economic Perspectives, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "123-148 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1257/jep.36.2.123"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Theory and Policy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Political Economy and Marxism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Taxation and Compliance Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RJ/RJR4HE8F.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1257/jep.36.2.123"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

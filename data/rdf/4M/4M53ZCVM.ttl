@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4M53ZCVM>
+  a schema:ScholarlyArticle ;
+  schema:name "The Adaptation of English Consonants by Efik Learners of English" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4M53ZCVM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4M53ZCVM" ;
+  schema:description "One of the linguistic outcomes of the sustained contact of a target language (L2) with a source language (L1) in the course of history is the adaptation and integration of loanwords from the former into the lexicon of the latter. This paper discusses the phonological strategies and parameters for the adaptation of English consonants (which mainly affect nouns) into Efik. The paper discusses the factors that are responsible for borrowing and convergence as well as the linguistic consequences of loanwords in the Efik expanded vocabulary. We submit that though the pattern of borrowing is tailored to agree with the phonological system of the source language, some of the changes are however, as a result of indigenous innovations or prosodic patterns. We argue in this paper that target-source language contact phenomenon is an important source of lexical enrichment of the target language, which has expanded its functional domains to cope with modern challenges. The paper considers the implication of the study for the English language teaching and learning classroom in the Efik non-native environment." ;
+  schema:author "Eyo Mensah" ;
+  schema:creator "Eyamba Mensah" ;
+  schema:datePublished "2014" ;
+  schema:publisher "English Language Teaching" ;
+  schema:sameAs <https://doi.org/10.5539/elt.v7n3p38> ;
+  dcterms:identifier "doi:10.5539/elt.v7n3p38" ;
+  dcterms:subject "Linguistic Variation and Morphology", "Phonetics and Phonology Research", "Syntax, Semantics, Linguistic Variation" .

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GUIPFYK5>
+  a schema:Thesis ;
+  schema:name "The Lack of a Fully Intersectional Approach to Gender-Based Violence in South Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GUIPFYK5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GUIPFYK5" ;
+  schema:description "Gender-based violence is an issue of major concern in South Africa and is a result of an intersectionality of oppressors. A culture of violence, firmly established by racist and classist historical institutions, remains prominent. In addition, the culture outwardly focuses on tensions of race and class, rather than the oppression of gender. Historical female oppression and patriarchal cultural patterns existed before the introduction of white rule. This phenomenon of South African culture particularly focusing on race and class as oppressors that contribute to gender-based violence, instead of patriarchal norms, can be observed through two major frameworks: discourses of rape and the greater rape culture and inconsistencies between laws, acts, and the Constitution of the South African government as compared to public consciousness of gender. Including an intersectional approach in South African culture that emphasizes oppressive gender structures in discussions of gender-based violence that also incorporates the ways in which race and class are also influences of such violence, must be considered if gender-based violence is to substantially decrease." ;
+  schema:author "S. Allen" ;
+  schema:datePublished "2018" ;
+  schema:sameAs <https://doi.org/10.15760/honors.531> ;
+  dcterms:identifier "doi:10.15760/honors.531" ;
+  dcterms:subject "Intimate Partner and Family Violence", "Legal Issues in South Africa", "Sexual Assault and Victimization Studies" .

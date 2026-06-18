@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QSRW636E>
+  a schema:Thesis ;
+  schema:name "Slaves and slavery in Louisiana: the evolution of Atlantic world identities, 1791-1831" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QSRW636E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QSRW636E" ;
+  schema:description "One never really leaves Louisiana.It has that quality-an almost indescribable pull-that I suppose most Southern places do.Even as I began my graduate study in history at Virginia Tech, a place striking in its topographical and cultural differences with Louisiana, I wondered if I might respond to that pull not by physically returning there, but by studying it.With a timely nudge from my thesis advisor, Randy Shifflett, I realized that Louisiana was more than an" ;
+  schema:author "Kevin Roberts" ;
+  schema:datePublished "2003" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Cuban History and Society" .

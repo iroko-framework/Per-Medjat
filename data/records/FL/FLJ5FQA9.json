@@ -1,0 +1,132 @@
+{
+  "key": "FLJ5FQA9",
+  "uri": "https://medjat.irokosociety.org/id/library/FLJ5FQA9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FLJ5FQA9",
+  "zotero": {
+    "group": "6479329",
+    "key": "FLJ5FQA9",
+    "version": 3477,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FLJ5FQA9",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Finding Eldorado: Slavery and Long-run Development in Colombia",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Daron Acemoğlu"
+      },
+      {
+        "role": "editor",
+        "name": "Camilo García-Jimeno"
+      },
+      {
+        "role": "editor",
+        "name": "James A. Robinson"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "National Bureau of Economic Research",
+    "publicationTitle": "National Bureau of Economic Research",
+    "bookTitle": "",
+    "journalAbbreviation": "National Bureau of Economic Research",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Slavery has been a major institution of labor coercion throughout history. Colonial societies used slavery intensively across the Americas, and slavery remained prevalent in most countries after independence from the European powers. We investigate the impact of slavery on long-run development in Colombia. Our identification strategy compares municipalities that had gold mines during the 17th and 18th centuries to neighboring municipalities without gold mines. Gold mining was a major source of demand for slave labor during colonial times, and all colonial gold mines are now depleted. We find that the historical presence of slavery is associated with increased poverty and reduced school enrollment, vaccination coverage and public good provision. We also find that slavery is associated with higher contemporary land inequality.",
+    "doi": "10.3386/w18177",
+    "url": "https://doi.org/10.3386/w18177",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Culture, Economy, and Development Studies",
+      "Land Rights and Reforms",
+      "Taxation and Compliance Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Daron Acemoğlu"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Finding Eldorado: Slavery and Long-run Development in Colombia"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "National Bureau of Economic Research, 2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3386/w18177"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Culture, Economy, and Development Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Land Rights and Reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Taxation and Compliance Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Camilo García-Jimeno"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "James A. Robinson"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FL/FLJ5FQA9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3386/w18177"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

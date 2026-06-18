@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/E5A3HR6I>
+  a schema:ScholarlyArticle ;
+  schema:name "Music as a coevolved system for social bonding" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=E5A3HR6I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:E5A3HR6I" ;
+  schema:description "Why do humans make music? Theories of the evolution of musicality have focused mainly on the value of music for specific adaptive contexts such as mate selection, parental care, coalition signaling, and group cohesion. Synthesizing and extending previous proposals, we argue that social bonding is an overarching function that unifies all of these theories, and that musicality enabled social bonding at larger scales than grooming and other bonding mechanisms available in ancestral primate societies. We combine cross-disciplinary evidence from archeology, anthropology, biology, musicology, psychology, and neuroscience into a unified framework that accounts for the biological and cultural evolution of music. We argue that the evolution of musicality involves gene-culture coevolution, through which proto-musical behaviors that initially arose and spread as cultural inventions had feedback effects on biological evolution because of their impact on social bonding. We emphasize the deep links between production, perception, prediction, and social reward arising from repetition, synchronization, and harmonization of rhythms and pitches, and summarize empirical evidence for these links at the levels of brain networks, physiological mechanisms, and behaviors across cultures and across species. Finally, we address potential criticisms and make testable predictions for future research, including neurobiological bases of musicality and relationships between human music, language, animal song, and other domains. The music and social bonding hypothesis provides the most comprehensive theory to date of the biological and cultural evolution of music." ;
+  schema:author "Patrick E. Savage" ;
+  schema:creator "Psyche Loui", "Bronwyn Tarr", "Adena Schachner", "Luke Glowacki", "Steven Mithen", "W. Tecumseh Fitch" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Behavioral and Brain Sciences" ;
+  schema:sameAs <https://doi.org/10.1017/s0140525x20000333> ;
+  dcterms:identifier "doi:10.1017/s0140525x20000333" ;
+  dcterms:subject "Animal Vocal Communication and Behavior", "Neural dynamics and brain function", "Neuroscience and Music Perception" .

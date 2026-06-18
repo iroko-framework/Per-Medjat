@@ -1,0 +1,95 @@
+{
+  "key": "UAALKZPM",
+  "uri": "https://medjat.irokosociety.org/id/library/UAALKZPM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=UAALKZPM",
+  "zotero": {
+    "group": "6479329",
+    "key": "UAALKZPM",
+    "version": 1842,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/UAALKZPM",
+    "dateAdded": "2026-05-19T14:18:16Z",
+    "dateModified": "2026-05-19T14:18:16Z"
+  },
+  "display": {
+    "title": "Our Country is the World: Radical American Abolitionists Abroad",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "W. Caleb McDaniel"
+      }
+    ],
+    "year": "2006",
+    "date": "2006",
+    "publisher": "Rice Digital Scholarship Archive (Rice University)",
+    "publicationTitle": "Rice Digital Scholarship Archive (Rice University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Rice Digital Scholarship Archive (Rice University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis is my doctoral dissertation submitted for my Ph.D in history at Johns Hopkins University.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1911/27492",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "W. Caleb McDaniel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Our Country is the World: Radical American Abolitionists Abroad"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Rice Digital Scholarship Archive (Rice University), 2006."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/UA/UAALKZPM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

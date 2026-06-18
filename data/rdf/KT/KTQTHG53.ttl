@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KTQTHG53>
+  a schema:ScholarlyArticle ;
+  schema:name "Neo‐Slavery as Instrumentalization: Amazon, Surrogate Motherhood, and Mobile Phones" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KTQTHG53> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KTQTHG53" ;
+  schema:description "ABSTRACT Despite being perceived as a remnant of the past, slavery persists in today's increasingly economized and biopoliticized world. To thematize the actuality of slavery, we initially return to Aristotle's discussion/justification of slavery as instrumentalization of human beings. Then we revisit Plato's allegory of the cave through three distinct readings. This threefold reading enables us to frame three present‐day cases/examples to reconsider slavery: the Amazon, surrogate motherhood, and the cell phone. The concept of use is pivotal for such reconsideration. Finally, we propose the concept of neo‐slavery. Although the traditional accounts of slavery understand slavery through its triangulation with property relations and force, we suggest another triangulation here: neo‐slavery, instrumental use, and consent. In this way, the examination of the three cases casts the traditional accounts of slavery in a new light, revitalizing the concept of slavery by putting it into a different use." ;
+  schema:author "Bülent Diken" ;
+  schema:creator "Tuğba Göçer", "Mesut Uçak" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Sociology Lens" ;
+  schema:sameAs <https://doi.org/10.1111/johs.70030> ;
+  dcterms:identifier "doi:10.1111/johs.70030" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Sex work and related issues", "Water Governance and Infrastructure" .

@@ -1,0 +1,107 @@
+{
+  "key": "IWSPSN6T",
+  "uri": "https://medjat.irokosociety.org/id/library/IWSPSN6T",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=IWSPSN6T",
+  "zotero": {
+    "group": "6479329",
+    "key": "IWSPSN6T",
+    "version": 1527,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/IWSPSN6T",
+    "dateAdded": "2026-05-19T14:17:02Z",
+    "dateModified": "2026-05-19T14:17:02Z"
+  },
+  "display": {
+    "title": "Understanding the legacy of dependency and powerlessness experienced by farm workers on wine farms in the Western Cape",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Leila Ann Falletisch"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "SUNScholar (Stellenbosch University)",
+    "publicationTitle": "SUNScholar (Stellenbosch University)",
+    "bookTitle": "",
+    "journalAbbreviation": "SUNScholar (Stellenbosch University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This research investigates the powerlessness and dependency on wine farms in the Western Cape from the viewpoint of an understanding the lived experience of farm labourers and the high incidence of habitual drinking, violence and other social phenomena. The first farm labourers in the Western Cape were Slaves. When Slavery was abolished in 1834, Cape Slaves were freed but not compensated and so remained on farms, working as labourers, and powerless and dependent. After slavery had been abolished, the relationship between landowner and labourer evolved into a paternalistic relationship where the labourer was tied to a particular farm through housing, debt ,economic impoverishment and political marginalisation. Over the last few decades constitutional and political developments have resulted in changes to labour laws and working conditions on farms. Change has filtered down to the level of labourer at different rates in different areas. By and large, while working conditions may have improved, many labourers remain dependent and powerless to become masters of their own destiny. They remain unable to break free of the legacy of Slavery. Slavery is not the only legacy that casts a shadow over farm labourers. The infamous Tot System, initiated by Jan van Riebeeck and continuing late into the twentieth century, has enslaved many labourers in a cycle of habitual drinking, social violence and poverty. Habitual drinking has become the norm on farms, a weekend ritual that few labourers manage to escape. The purpose of this research is to broaden the field of knowledge for practitioners and organisations dealing with substance abuse and other social problems on farms. One particular farm is used as a sample of farm life. The farm in question has a children’s programme (creche and after–school). There have also been several attempts over the last five years at social development and income–generation projects aimed at empowering adults on the farm. The experience of the farm management when attempting to introduce and establish these projects has been an overwhelming sense of immobilisation and apathy from the labourers. The empirical research used a qualitative method to examine (by means of semi structured interviews and questionnaires) themes of hopelessness, dependency and powerlessness. The meaning and particular pattern of habitual drinking on farms was also explored through interviews and questionnaires. There is evidence that habitual drinking continues on wine farms, generation after generation. It has become a legitimate way of life, a ritual so entrenched, that the community cannot imagine life any other way. To not drink is to place oneself in the position of outsider, opening oneself up to ridicule, disdain and verbal abuse. Individuals who do give up drinking do so as a result of an external threat rather than a conscious choice to change the course of their lives. Furthermore, this study found that farm labourers consistently surrender responsibility for their children, their homes their behaviour, while they cling to the remnants of paternalism, avoiding at all costs becoming masters of their own destinies. This study indicates that the abolishment of the tot system has not significantly reduced the incidence of habitual excessive drinking. Whilst achieving sobriety is a key intervention in achieving social harmony, in isolation, the outlook for sustained success is poor. Working for change on wine farms is not the exclusive domain of any one role player. In any geographical area a partnership between farming communities is needed to address labourers’ needs, and gaps and overlaps in service delivery. A comprehensive plan should be formulated by all role players with the empowerment of workers as the key outcome. Concerning social and domestic violence, a zero tolerance of abuse and violence needs to be taken by farm management and implemented, making use of legislation and law enforcement agencies. Early childhood development, educational enrichment and primary health care facilities are essential services on farms and should be staffed by qualified professionals dedicated to the upliftment and empowerment of farming communities. Finally there remains a need for further research into accessible, appropriate and sustainable intervention strategies on farms that empower labourers and break the cycles of habitual excessive drinking, social violence and hopelessness on farms.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10019.1/1651",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Homelessness and Social Issues",
+      "Labor Movements and Unions",
+      "Social Work Education and Practice"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Leila Ann Falletisch"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Understanding the legacy of dependency and powerlessness experienced by farm workers on wine farms in the Western Cape"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "SUNScholar (Stellenbosch University), 2008."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Homelessness and Social Issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Labor Movements and Unions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social Work Education and Practice"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/IW/IWSPSN6T.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

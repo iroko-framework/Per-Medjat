@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ESBIS5AY>
+  a schema:ScholarlyArticle ;
+  schema:name "D’Haïti aux trois Amériques. Hommage à Maximilien Laroche, dir. Zilá Bernd, Bernard Andrès, Vinesh Y. Hookoomsing" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ESBIS5AY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ESBIS5AY" ;
+  schema:description "Tutti i diritti riservati\")." ;
+  schema:author "Yves Chemla" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Studi Francesi" ;
+  schema:sameAs <https://doi.org/10.4000/studifrancesi.53230> ;
+  dcterms:identifier "doi:10.4000/studifrancesi.53230" ;
+  dcterms:subject "Caribbean and African Literature and Culture" .

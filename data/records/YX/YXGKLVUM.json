@@ -1,0 +1,95 @@
+{
+  "key": "YXGKLVUM",
+  "uri": "https://medjat.irokosociety.org/id/library/YXGKLVUM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YXGKLVUM",
+  "zotero": {
+    "group": "6479329",
+    "key": "YXGKLVUM",
+    "version": 1483,
+    "itemType": "newspaperArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YXGKLVUM",
+    "dateAdded": "2026-05-05T01:14:22Z",
+    "dateModified": "2026-05-05T01:14:22Z"
+  },
+  "display": {
+    "title": "Pierre Verger, 93, Photographer And a Brazilian Voodoo Priest",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Thomas Jr., Robert Mcg."
+      }
+    ],
+    "year": "1996",
+    "date": "1996",
+    "publisher": "The New York Times",
+    "publicationTitle": "The New York Times",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "newspaperArticle",
+    "traditions": [
+      "Voodoo"
+    ],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Thomas Jr., Robert Mcg."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Pierre Verger, 93, Photographer And a Brazilian Voodoo Priest"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The New York Times, 1996."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Voodoo"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "newspaperArticle"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/YX/YXGKLVUM.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

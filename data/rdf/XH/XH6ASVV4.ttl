@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XH6ASVV4>
+  a schema:Thesis ;
+  schema:name "The Development of Radio Broadcasting in Nigeria, West Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XH6ASVV4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XH6ASVV4" ;
+  schema:description "The purpose of this study is to set forth the history of radio in Nigeria. Chapters explore the history of Nigeria, the history of Nigerian radio, and the present structure of Nigerian radio. In a final chapter, specific historical factors are isolated that have made Nigerian radio what it is today. The study concludes that the present structure of Nigerian radio is a direct product of the peculiar history of Nigeria as a former British Colony. Little can be done to solve the problems of Nigerian radio unless the problems of Nigeria itself are first solved." ;
+  schema:author "Jonathan Adegoke Adejunmobi" ;
+  schema:datePublished "1974" ;
+  schema:publisher "University of North Texas Digital Library (University of North Texas)" ;
+  dcterms:subject "Radio, Podcasts, and Digital Media" .

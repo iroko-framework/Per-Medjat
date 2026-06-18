@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CSHHEMD3>
+  a schema:ScholarlyArticle ;
+  schema:name "An Appeal in Favor of That Class of Americans Called Africans" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CSHHEMD3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CSHHEMD3" ;
+  schema:description "The roots of white supremacy lie in the institution of negro slavery. From the 15th through the 19th century, white Europeans trafficked in abducted and enslaved Africans and justified the practice with excuses that seemed somehow to reconcile the injustice with their professed Christianity. The United States was neither the first nor the last nation to abolish slavery, but its proclaimed principles of freedom and equality were made ironic by the nation’s reluctance to extend recognition to all Americans. “Americans” is what Mrs. Child calls those fellow countrymen of African ancestry; citizenship and equality are what she proposed beyond simple abolition. While Mrs. Child expected the Appeal to offend and alienate a significant portion of her large audience, she wrote “it has been strongly impressed upon my mind that it was a duty to fulfil this task; and earthly considerations should never stifle the voice of conscience.” Thirty years before Abraham Lincoln’s Emanicipation Proclamation, she assembled the evidence for liberation and placed it before a large national audience. Her work helped push national emancipation into the mainstream, and her research supplied a generation of later essayists and pamphleteers with essential background for the continuing debate on the most vital issue in American history." ;
+  schema:author "Lydia Maria Child" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Zea Books" ;
+  schema:sameAs <https://doi.org/10.32873/unl.dc.zea.1316> ;
+  dcterms:identifier "doi:10.32873/unl.dc.zea.1316" ;
+  dcterms:subject "American Constitutional Law and Politics" .

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LHZ43WE4>
+  a schema:Thesis ;
+  schema:name "Circuits Of Containment: Iron Collars, Incarceration And The Infrastructure Of Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LHZ43WE4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LHZ43WE4" ;
+  schema:description "This dissertation documents the development of New Orleans and Louisiana from 1805-1861. I argue that iron collars emerged in the nineteenth century as technologies of torture, control, coercion, commodity production, and distribution. The use of iron collars by enslavers, in conjunction with chains, jails, the state penitentiary, and forced labor on municipal and state public works shows how technologies shaped enslaved peoples lives as they were captured, contained, and forced to be productive units of labor. By combining insights from scholarship in the fields of US slavery and technology, I argue that enslavers innovative uses of these technologies made the process of extracting labor from enslaved people more efficient and productive. By focusing on the punishing labor practices enslaved people endured in iron collars, jails, chain gangs, forced public works labor, and penitentiaries I show how the old and the new were used to \"improve\" enslaved people in order to keep them productive and profitable. In Chapter One, I examine the material experience of slaves wearing iron collars, including those with obstructions such as prongs, branches and bells. In Chapter Two, I examine the practices of incarceration in relationship to legislators' rhetoric about constructing a seamless economic circuit exploiting slave labor from plantation to prison factory in order to clothe an independent South. In Chapter Three, I examine how enslaved people who were either privately or publicly owned were used for to build and municipal and state infrastructure. State and city owned slaves, captured and jailed runaway slaves, and convicts from the state penitentiary labored to build roads, levees and clear rivers and bayous. Through these practices, enslaved people's lives embodied hard labor, blurring lines between enslavement and incarceration, as they were loaned, rented, borrowed, and bought, captured, and recaptured through spaces of punishment and labor in support of building and maintaining the infrastructure necessary for the production and distribution of commodities. Together, a range of technical practices were socially and economically shaped and produced through networks of people, objects, knowledge and ideology forming a socio-technical system for the control and containment of enslaved people as they struggled to be free." ;
+  schema:author "Darla Thompson" ;
+  schema:datePublished "2014" ;
+  schema:publisher "eCommons (Cornell University)" ;
+  dcterms:subject "Colonialism, slavery, and trade" .

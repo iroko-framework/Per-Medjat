@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/52NR5787>
+  a schema:ScholarlyArticle ;
+  schema:name "Measuring Modern Slavery: Law, Human Rights, and New Forms of Data" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=52NR5787> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:52NR5787" ;
+  schema:description "This article argues that many of the lessons learned and achievements made in the measurement of human rights over the past four decades are equally applicable to the measurement of modern slavery. It shows that modern slavery encompasses a significant subset of human rights found in international law, the parameters of which can be delineated and operationalized in ways that make the phenomenon amenable to measurement across a wide range of different data. These include events-based data, standards-based data, survey-based data, and new forms of data made possible through machine learning and artificial intelligence (AI) applications. The article shows that the measurement of modern slavery needs to overcome many of the same challenges that confront efforts at measuring human rights, including the fundamental problem of unobservability, inherent bias through the use of convenience reporting, and the specification of the concept of modern slavery itself. Overcoming these challenges opens up new possibilities to make what many claim to be an intractable problem of development tractable and helps contribute to the Sustainable Development Goal target to end modern slavery by 2030." ;
+  schema:author "Todd Landman" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Human Rights Quarterly" ;
+  schema:sameAs <https://doi.org/10.1353/hrq.2020.0019> ;
+  dcterms:identifier "doi:10.1353/hrq.2020.0019" ;
+  dcterms:subject "Demographic Trends and Gender Preferences", "Human Rights and Development", "Sex work and related issues" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VPZTLCL9>
+  a schema:ScholarlyArticle ;
+  schema:name "Drumming for the Gods: The Life and Times of Felipe Garcia Villamil, Santero, Palero, and Abakua" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VPZTLCL9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VPZTLCL9" ;
+  schema:author "Julian Gerstin" ;
+  schema:creator "María Teresa Vélez" ;
+  schema:datePublished "2002" ;
+  schema:publisher "Ethnomusicology" ;
+  schema:sameAs <https://doi.org/10.2307/852788> ;
+  dcterms:identifier "doi:10.2307/852788" ;
+  dcterms:subject "Cultural and Mythological Studies", "Literature, Magical Realism, García Márquez", "Spanish Literature and Culture Studies" .

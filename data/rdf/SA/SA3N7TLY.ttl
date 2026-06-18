@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SA3N7TLY>
+  a schema:ScholarlyArticle ;
+  schema:name "Caribbean Dance from Abakuá to Zouk: How Movement Shapes Identity edited by Susanna Sloat. 2002. Gainesville, FL: University Press of Florida, xx + 408 pp., map, photographs, diagrams, glossary, bibliography, index." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SA3N7TLY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SA3N7TLY" ;
+  schema:description "Dance from Abakua to Zouk is an unprecedented overview of the dances from each of this region's major islands and the complex, fused, and layered cultures that gave birth to them. The authors in this collection, from distinguished cultural leaders to highly innovative choreographers, reveal how dance shapes personal, communal, and national identity. They also show how Caribbean rhythms, dances, fragments of movement, and even attitudes toward movement reach beyond the islands and through the extensive West Indian diaspora communities in North America, Latin America, and Europe to be embraced by the world at large. From the anthropological to the literary and from the practical to the creative, these dances are explored in the contexts of social history, tradition, ritual, and performance. Connections are made among a fascinating array of dances, both familiar and little known, from culturally based to newly created performance pieces. Particular emphasis is placed on the African contribution in making Caribbean dance distinctive. An extensive glossary of terms and more than 30 illustrations round out the book to make it the most complete resource on Caribbean dance available." ;
+  schema:author "Kate Ramsey" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Dance Research Journal" ;
+  schema:sameAs <https://doi.org/10.2307/20444602> ;
+  dcterms:identifier "doi:10.2307/20444602" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Philippine History and Culture" .

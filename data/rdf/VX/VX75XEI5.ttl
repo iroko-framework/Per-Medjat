@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VX75XEI5>
+  a schema:ScholarlyArticle ;
+  schema:name "Problème de l'information et de la coordination sur la recherche et la bibliographie africaniste" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VX75XEI5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VX75XEI5" ;
+  schema:description "Forde D. Problème de l'information et de la coordination sur la recherche et la bibliographie africaniste. In: Journal de la Société des Africanistes, 1968, tome 38, fascicule 2. pp. 234-239." ;
+  schema:author "Forde, Daryll" ;
+  schema:datePublished "1968" ;
+  schema:publisher "Journal de la Société des Africanistes" ;
+  schema:sameAs <https://doi.org/10.3406/jafr.1968.1484> ;
+  dcterms:identifier "doi:10.3406/jafr.1968.1484" ;
+  dcterms:subject "Material Culture" .

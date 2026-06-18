@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/R3LLERE7>
+  a schema:ScholarlyArticle ;
+  schema:name "Pig and dog use in the pre‐contact Society Island Chiefdoms: integrated ethnohistoric, archaeological and use‐web analyses" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=R3LLERE7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:R3LLERE7" ;
+  schema:description "ABSTRACT Pig and dog were highly valued animals in pre‐contact Polynesia. In this paper, I focus on pig and dog use in the resource rich, and hierarchically complex, pre‐contact Society Island chiefdoms. Utilizing ethnohistoric data and human‐centred use‐webs data, I provide a preliminary study of the diverse ways that pigs and dogs were used in pre‐contact Mā‘ohi life across 13 use categories. Ethnohistoric analyses indicate that pigs, and to some extent dogs, were intimately associated with elite ceremonial use, yet pigs were commonly associated with war and fertility rituals, while dogs were commonly associated with peacekeeping events. Preliminary comparison of pig and dog frequencies at eight excavated archaeological sites suggests pig bones far outnumber dog bones. There is also differential recovery of pig and dog bone in terms of site function and site status, with high status temples dating to the Centralization Phase having the highest incidence of both species. It is highly likely that the advent of the ‘Oro war cult led to intensified pig husbandry, given this animal's robust associations with ritual use, moral notions of chiefly power and cosmology. Why dog husbandry was less intensified in the Society Islands, and why this animal was perhaps accessed largely through long‐distance trade relationships, is an ongoing question." ;
+  schema:author "Jennifer G. Kahn" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Archaeology in Oceania/Archæology & physical anthropology in Oceania" ;
+  schema:sameAs <https://doi.org/10.1002/arco.5314> ;
+  dcterms:identifier "doi:10.1002/arco.5314" ;
+  dcterms:subject "Archaeology and ancient environmental studies", "Pacific and Southeast Asian Studies", "Wildlife Ecology and Conservation" .

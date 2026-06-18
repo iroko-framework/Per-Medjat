@@ -1,0 +1,140 @@
+{
+  "key": "ANGVWVR7",
+  "uri": "https://medjat.irokosociety.org/id/library/ANGVWVR7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ANGVWVR7",
+  "zotero": {
+    "group": "6479329",
+    "key": "ANGVWVR7",
+    "version": 696,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ANGVWVR7",
+    "dateAdded": "2026-05-18T18:57:29Z",
+    "dateModified": "2026-05-18T18:57:29Z"
+  },
+  "display": {
+    "title": "Text-Based Emergency Alert Framework for Under-Resourced Languages in Southern Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Patience U. Usip"
+      },
+      {
+        "role": "editor",
+        "name": "Funebi Francis Ijebu"
+      },
+      {
+        "role": "editor",
+        "name": "Ifiok J. Udo"
+      },
+      {
+        "role": "editor",
+        "name": "Ikechukwu K. Ollawa"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "111-126",
+    "abstract": "Computational techniques are today bridging communication gap between speakers of different languages through natural language processing (NLP) techniques leading to the current description of the world as a global village. While languages like English, French, Mandarin, Spanish, and Russian, etc., are now easily translated to each other, most native African languages have not witnessed any such automated efforts toward translation to ease communication and information sharing between native speakers and non-speakers. Africa's language diversity is second to none on the planet. Under-resourced Nigerian languages, like Ibibio, Ijaw, Oro, Itshekiri, etc., if automated, could result in discovery of far-reaching knowledge and information. Under-resourced Nigerian languages lack lexical corpora or trained models for NLP tasks. Meeting the need for automated under-resourced language translation requires development of new techniques and expansion of existing machine-driven local language translation tools. Thus, this work proposes the use of a hybrid translation method incorporating rule-based and corpus-based translation approaches. This would result in creation of multilingual framework for automatic machine translation of English to Ibibio, an under-resourced language spoken in southern Nigeria and vice versa. The framework and the resulting Ibibio bilingual application programming interface (API) will drive the generation of multilingual emergency alert system across Southern Nigeria.",
+    "doi": "10.1201/9781003313267-5",
+    "url": "https://doi.org/10.1201/9781003313267-5",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Natural Language Processing Techniques",
+      "Speech and dialogue systems"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Patience U. Usip"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Text-Based Emergency Alert Framework for Under-Resourced Languages in Southern Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "111-126 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1201/9781003313267-5"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Natural Language Processing Techniques"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Speech and dialogue systems"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Funebi Francis Ijebu"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ifiok J. Udo"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ikechukwu K. Ollawa"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/AN/ANGVWVR7.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1201/9781003313267-5"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

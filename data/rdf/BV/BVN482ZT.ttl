@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/BVN482ZT>
+  a schema:ScholarlyArticle ;
+  schema:name "À propos de la seconde campagne antisuperstitieuse en Haïti (1911-1912)" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BVN482ZT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BVN482ZT" ;
+  schema:description "Au ive siècle, l’Éthiopie est le premier pays d’Afrique noire à avoir adopté la religion chrétienne. La sculpture figurative étant bannie, l’édification et la ferveur des fidèles passera par peintures murales, icônes, manuscrits dans les églises et les monastères. Au fil des siècles, des prêtres-peintres vont assimiler et réinterpréter les modèles extérieurs grecs, syriaques, arméniens, italiens, etc. Autour de deux thèmes – les regards et les anges –, les quelques lignes de cette contribution se veulent une invitation à la contemplation des 4 pages en couleurs où sont reproduits quelques peintures éthiopiennes..." ;
+  schema:author "Lewis Ampidu Clorméus" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Cairn.info" ;
+  schema:sameAs <https://doi.org/10.3917/hmc.024.0105> ;
+  dcterms:identifier "doi:10.3917/hmc.024.0105" ;
+  dcterms:subject "Historical Studies and Socio-cultural Analysis" .

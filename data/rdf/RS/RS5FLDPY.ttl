@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RS5FLDPY>
+  a schema:ScholarlyArticle ;
+  schema:name "Impossible retour. À propos du spectacle Le Rituel abakuà – Les hommes-léopards ekpe, du Nigeria à Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RS5FLDPY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RS5FLDPY" ;
+  schema:description "Le spectacle Le Rituel abakua, programme a la fin du mois de decembre 2007 par le musee du quai Branly dans le cycle «Le corps animal», a apporte au public parisien une occasion unique de se familiariser avec l’un des rites les plus meconnus de la sphere afro-americaine, l’abakua. Precede d’une conference d’Ivor Miller, le spectacle mettait en scene une societe africaine, ekpe, dont les membres sont des Efik du Nigeria (originaires de la region du Calabar) et des musiciens cubains de New York..." ;
+  schema:author "Thierry Simon" ;
+  schema:datePublished "2008" ;
+  schema:publisher "Gradhiva. Revue d'anthropologie et d'histoire des arts" ;
+  dcterms:subject "African history and culture studies", "Caribbean and African Literature and Culture" .

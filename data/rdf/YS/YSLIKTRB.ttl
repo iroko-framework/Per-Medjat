@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YSLIKTRB>
+  a schema:Thesis ;
+  schema:name "Delay compensation in bilateral teleoperation using predictor observers" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YSLIKTRB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YSLIKTRB" ;
+  schema:description "Destabilization and performance degradation problems caused by the time delay in communication channel is a serious problem in bilateral teleoperation. In particular, variability of the delay due to limited bandwidth, long distance or congestion in transmission problems has been a real challenge in bilateral teleoperation research since the internet communication has become prevalent. Many existing delay compensation techniques are designed for linear teleoperator systems. In order to implement them on real bilateral systems, the nonlinear dynamics of the robots must first be linearized. For this purpose feedback linearization is usually employed. In this thesis, the delay compensation problem is tackled in an observer framework by designing two observers. Integration of a disturbance observer to the slave side implies a linearized slave dynamics with nominal parameters. Disturbance observer estimates the total disturbance (nonlinear terms, parametric uncertainties and external disturbances) on the slave system. A second observer is designed at the master side to predict states of the slave. This observer can be designed using a variety of linear or nonlinear methods. In order to have finite-time convergence, a sliding mode observer is designed at the master side. It is shown that this observer predicts the future positions and/or velocities of the slave and use of such predictions in the computation of a simple PD control law implies stable operation for the bilateral system. Since the disturbance observer increases the robustness of the slave system, the performance of the resulting bilateral system is quite satisfactory. Force reflecting bilateral teleoperation is also considered in this thesis. Integrating the proposed observer based delay compensation technique into the well known four-channel control architecture not only stable but also transparent bilateral teleoperation is achieved. Simulations with bilateral systems consisting of 2 DOF scara robots and pantograph robots, and experiments with bilateral systems consisting of a pair of single link robots and a pair of pantograph robots validate the proposed method." ;
+  schema:author "Tuğba Leblebici" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Sabanci University" ;
+  dcterms:subject "Dynamics and Control of Mechanical Systems", "Geophysics and Sensor Technology", "Teleoperation and Haptic Systems" .

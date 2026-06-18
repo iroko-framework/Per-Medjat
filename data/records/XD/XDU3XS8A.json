@@ -1,0 +1,113 @@
+{
+  "key": "XDU3XS8A",
+  "uri": "https://medjat.irokosociety.org/id/library/XDU3XS8A",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XDU3XS8A",
+  "zotero": {
+    "group": "6479329",
+    "key": "XDU3XS8A",
+    "version": 1287,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XDU3XS8A",
+    "dateAdded": "2026-05-19T13:28:44Z",
+    "dateModified": "2026-05-19T13:28:44Z"
+  },
+  "display": {
+    "title": "Afro-Cuban Religions and the Arts",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alan West-Durán"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Lexington Books",
+    "publicationTitle": "Lexington Books",
+    "bookTitle": "",
+    "journalAbbreviation": "Lexington Books",
+    "place": "Lanham",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "<italic>Afro-Cuban Religions and the Arts: A Dog Has Four Legs</italic> <italic>But Takes Only One Path</italic> argues for an understanding of Afro-Cuban religions and Vodou through the arts, be it through music, the visual arts, film, or literature. This book examines the philosophical and spiritual facets of religions like Regla de Ocha, Palo, Abakuá, and Vodou, and how deeply embedded they are in Cuban popular culture. Cuban popular music, from son to salsa, timba to rap, offer reflections on Ocha, Palo, and Abakuá influences. Film and visual arts borrow allegory from Regla de Ocha and Palo beliefs. Myth and the Haitian Revolution is embedded throughout the work of Alejo Carpentier, Aimé Césaire, and Derek Walcott. This volume seeks to dialogue with the works of contemporary artists and Caribbean ancestors such as C.L.R. James, Wilson Harris, and Fernández-Retamar, in order to show the impacts that spiritualism, religious belief, and mythology have had on Afro-Cuban art.",
+    "doi": "10.5771/9781793639837",
+    "url": "https://doi.org/10.5771/9781793639837",
+    "isbn": "978-1-7936-3983-7",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alan West-Durán"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Afro-Cuban Religions and the Arts"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Lanham: Lexington Books, 2024."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-1-7936-3983-7"
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5771/9781793639837"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XD/XDU3XS8A.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5771/9781793639837"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

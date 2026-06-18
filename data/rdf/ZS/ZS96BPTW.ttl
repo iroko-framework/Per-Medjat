@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/ZS96BPTW>
+  a schema:ScholarlyArticle ;
+  schema:name "Recent developments in sunscreens based on chromophore compounds and nanoparticles" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ZS96BPTW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ZS96BPTW" ;
+  schema:description "Sunscreen formulations have undergone significant advancements in recent years, with a focus on improving UV radiation protection, photostability, and environmental sustainability. Chromophore compounds and nanoparticles have emerged as key components in these developments. This review highlights the latest research and innovations in chromophore compounds and nanoparticle-based sunscreens. It discusses the role of nanoparticles, such as zinc oxide and titanium dioxide, in scattering and absorbing UV radiation while remaining cosmetically acceptable. Chromophore compounds, encapsulated in nanoparticles, are explored for their potential to enhance UV protection by absorbing specific wavelengths of light. Additionally, advances in photo-stability, broad-spectrum protection, antioxidant inclusion, and biodegradability are discussed. The evolving landscape of sunscreen technology aims to provide more effective and environment-friendly solutions for safeguarding skin from the sun's harmful effects." ;
+  schema:author "Mani Rajasekar" ;
+  schema:creator "Jennita Mary", "Meenambigai Sivakumar", "Masilamani Selvam" ;
+  schema:datePublished "2024" ;
+  schema:publisher "RSC Advances" ;
+  schema:sameAs <https://doi.org/10.1039/d3ra08178h> ;
+  dcterms:identifier "doi:10.1039/d3ra08178h" ;
+  dcterms:subject "Bee Products Chemical Analysis", "Photodynamic Therapy Research Studies", "Skin Protection and Aging" .

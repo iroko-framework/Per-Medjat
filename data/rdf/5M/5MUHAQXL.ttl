@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5MUHAQXL>
+  a schema:Book ;
+  schema:name "Creole Religions of the Caribbean, Third Edition" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5MUHAQXL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5MUHAQXL" ;
+  schema:description "An updated introduction to the religions developed in the Caribbean regionCreole Religions of the Caribbean offers a comprehensive introduction to the overlapping religions that have developed as a result of the creolization process. Caribbean peoples drew on the variants of Christianity brought by European colonizers, as well as on African religious and healing traditions and the remnants of Amerindian practices, to fashion new systems of belief. From Vodou, Santería, Regla de Palo, the Abakuá Secret Society, and Obeah to Quimbois and Espiritismo, the volume traces the historical-cultural origins of the major Creole religions, as well as the newer traditions such as Rastafari.This third edition updates the scholarship by featuring new critical approaches that have been brought to bear on the study of religion, such as queer studies, environmental studies, and diasporic studies. The third edition also expands the regional considerations of the diaspora to the US Latinx communities that are influenced by Creole spiritual practices, taking into account the increased significance of material culture?art, music, literature, and healing practices influenced by Creole religions" ;
+  schema:author "Margarite Fernández Olmos" ;
+  schema:creator "Lizabeth Paravisini-Gebert" ;
+  schema:datePublished "2022" ;
+  schema:publisher "New York University Press eBooks" ;
+  schema:sameAs <https://doi.org/10.18574/nyu/9781479803538.001.0001> ;
+  dcterms:identifier "doi:10.18574/nyu/9781479803538.001.0001" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .

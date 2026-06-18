@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LK8P59IP>
+  a schema:Thesis ;
+  schema:name "Government and opinion in the Gambia, 1816-1901" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LK8P59IP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LK8P59IP" ;
+  schema:description "The British colony of the Gambia was founded in lB16 by a military detachment and a community of British merchants with their dependents transferred from Senegal.. Their purpose was to check illegitimate trade by slavers,and to promote legitimate trade.But part1c1pation, in the river:.'trade-in wax, gold and ivorywas fraught with d1fficulties, among them rivalry from French traders operating from Albreda',and constant obstruction along trade routes 'lin the interior.Nor was commercial activity facilitated by the development of the groundnut.Indeed, dependence on a single cash crop created an unstable economy; for which reason the Brit1sh colcny Government planned to cedethe~ to France.Until 1888 the colo~ was governed, intermittently, from Sierra Leone; and the resulting delay in the execution of laws and the administration of justice caused serious hardship.Wesleyan missionaries had arrived im the colo~ soon after its foundation and embarked upon evangelisation and educational work there.With the influx of Liberated Africans from Freetown, missionaries became agenCies for their rehabilitation.To the work of Wesleyans was joined that of Roman Catholics and Anglicans in the latter half of the nineteenth centur,y.With the consolidation of Islam in the river states by reform movements of the mid-nineteenth century, missionar.rlabour, especially in the field of education, was seriously retarded.This investigation into the history of the Gambia has had as its subject matter the development of communities in the colony, their relations with each other and with the colonial Government which, after 1842, consisted of a Governor, an Executive Council and a Legislative Council with unofficial representation.The stu~ centres on articulate groups and individuals in the colony, in an attempt to analyse public opinion in the period." ;
+  schema:author "Florence K. Omolara Mahoney" ;
+  schema:datePublished "1963" ;
+  schema:publisher "SOAS Research Online (SOAS University of London)" ;
+  schema:sameAs <https://doi.org/10.25501/soas.00032195> ;
+  dcterms:identifier "doi:10.25501/soas.00032195" ;
+  dcterms:subject "African history and culture studies", "Colonialism, slavery, and trade" .

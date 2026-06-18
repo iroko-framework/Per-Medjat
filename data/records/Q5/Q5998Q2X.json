@@ -1,0 +1,128 @@
+{
+  "key": "Q5998Q2X",
+  "uri": "https://medjat.irokosociety.org/id/library/Q5998Q2X",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Q5998Q2X",
+  "zotero": {
+    "group": "6479329",
+    "key": "Q5998Q2X",
+    "version": 3735,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Q5998Q2X",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "COMPARING IDEOLOGIES OF RACIAL MIXING IN LATIN AMERICA: BRAZIL AND MEXICO",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Graziella Moraes Silva"
+      },
+      {
+        "role": "editor",
+        "name": "Emiko Saldívar"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Sociologia & Antropologia",
+    "publicationTitle": "Sociologia & Antropologia",
+    "bookTitle": "",
+    "journalAbbreviation": "Sociologia & Antropologia",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "issue": "2",
+    "pages": "427-456",
+    "abstract": "Abstract By the end of the twentieth century, with the rise of multicultural discourses and identity politics, Latin American ideologies of racial mixture had become increasingly denounced as myths that conceal (and thus support) the reproduction of racial inequalities. These studies have largely been guided by comparisons between countries with widespread racial mixing (usually Brazil, Mexico or Colombia) and countries in which it was less encouraged and visible (most commonly, the USA). In this paper we move the focus to the diverse ways in which racial mixture currently impacts racial formations in the Latin America, looking initially at Brazil and Mexico, two of the largest countries in the region, and also those with the largest Afro-descendent and indigenous populations in the continent. For comparison, we analyze survey data from the PERLA project.",
+    "doi": "10.1590/2238-38752017v824",
+    "url": "https://doi.org/10.1590/2238-38752017v824",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Politics and Society in Latin America",
+      "Race, Identity, and Education in Brazil",
+      "Social and Cultural Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Graziella Moraes Silva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "COMPARING IDEOLOGIES OF RACIAL MIXING IN LATIN AMERICA: BRAZIL AND MEXICO"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Sociologia & Antropologia, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "427-456 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/2238-38752017v824"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Politics and Society in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social and Cultural Dynamics"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Emiko Saldívar"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Q5/Q5998Q2X.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/2238-38752017v824"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

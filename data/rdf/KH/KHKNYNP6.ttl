@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KHKNYNP6>
+  a schema:Thesis ;
+  schema:name "Sociedade e escravidão no século XIX: crianças escravas em Uberaba 1871-1888" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KHKNYNP6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KHKNYNP6" ;
+  schema:description "Recent studies of Slavery in Brazil showed new possibilities for approaches about the experience of captivity. Under the influence of these historiographical works, we develop a research allowing us to understand the lives of children born of slaves in the city of Uberaba. The scenario in which these children lived, was marked by an important economic development process. In order to raise scenes from the life of naive, children and slaves of the family in which they were entered, we turn to the records of baptisms and marriages, and a criminal case on the Public Archives of Uberaba. Thus we seek to see a lot of slave families being formed, and many naive and child slaves in society uberabense. The promulgation of the Law of the Free Womb impacted not only the experience of these children, but also enabled us to establish reflections on their experiences. We found that being a naive Brazilian society in the closing years of the nineteenth century was having dreams of freedom hampered, and in many cases postponed." ;
+  schema:author "Júlio C. M. Souza" ;
+  schema:datePublished "2013" ;
+  schema:sameAs <https://doi.org/10.14393/ufu.di.2013.174> ;
+  dcterms:identifier "doi:10.14393/ufu.di.2013.174" ;
+  dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Urban Development and Societal Issues" .

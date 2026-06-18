@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/5JA7MW82>
+  a schema:ScholarlyArticle ;
+  schema:name "Fíbula de codo tipo Huelva en el entorno norte de la Vega de Granada" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5JA7MW82> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5JA7MW82" ;
+  schema:description "El hallazgo de una nueva fíbula de codo 'tipo Huelva', en el borde norte de la Vega de Granada, contribuye a ratificar la importancia del Sureste y, concretamente, de la provincia de Granada en el desarrollo de la metalurgia del Bronce Final hispano. La composición de su aleación, pobre en estaño y con presencia de arsénico, la adscribe al grupo granadino como una producción más de los talleres metalúrgicos existentes, al tiempo que la separa del conjunto de la Ría de Huelva y del oeste peninsular. Por otro lado, su exclusiva decoración con botones de oro le confiere un carácter suntuario que debemos poner en relación con los rituales propios del mundo funerario y de prestigio de las clases sociales eminentes en las últimas comunidades prehistóricas. Todo ello en íntima conexión con los problemas del intercambio de bienes, la precolonización, las interrelaciones mediterráneas y la extensión del uso de tejidos de lujo." ;
+  schema:author "Javier Carrasco Rus" ;
+  schema:creator "Juan Antonio Pachón Romero" ;
+  schema:datePublished "2001" ;
+  schema:publisher "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla" ;
+  schema:sameAs <https://doi.org/10.12795/spal.2001.i10.16> ;
+  dcterms:identifier "doi:10.12795/spal.2001.i10.16" ;
+  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Historical Studies of Medieval Iberia" .

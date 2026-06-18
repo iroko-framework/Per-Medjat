@@ -1,0 +1,146 @@
+{
+  "key": "E9HTR8IV",
+  "uri": "https://medjat.irokosociety.org/id/library/E9HTR8IV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=E9HTR8IV",
+  "zotero": {
+    "group": "6479329",
+    "key": "E9HTR8IV",
+    "version": 3944,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/E9HTR8IV",
+    "dateAdded": "2026-06-17T15:31:05Z",
+    "dateModified": "2026-06-17T15:31:05Z"
+  },
+  "display": {
+    "title": "Traditional Knowledge and Potential Use of Stingless Bees (Hymenoptera: Meliponinae) in the Manantlan Sierra, Jalisco, Mexico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Francisca Contreras-Escareño"
+      },
+      {
+        "role": "editor",
+        "name": "Carlos M. Echazarreta"
+      },
+      {
+        "role": "editor",
+        "name": "Ernesto Gusmán-Nóvoa"
+      },
+      {
+        "role": "editor",
+        "name": "José Octavio Macías-Macías"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Sociobiology",
+    "publicationTitle": "Sociobiology",
+    "bookTitle": "",
+    "journalAbbreviation": "Sociobiology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "66",
+    "issue": "1",
+    "pages": "120-120",
+    "abstract": "Stingless bees (meliponines) play an important role in ecosystems; they pollinate different plant species, assist in the reproduction and conservation of floral biodiversity and their products can be obtained and sold, with the consequent economic benefit for stingless beekeepers. Surveys were conducted to find out how much knowledge inhabitants of two marginalized communities of the Manantlan Sierra in Jalisco, Mexico, have on the use and exploitation of stingless bees. In addition, several stingless bee species of this region were captured and identified, and wild nests of those bees were located and recorded in their natural habitats. Information about the knowledge and culture of stingless bees in the region was analyzed and based on that as well as on the most abundant species captured, those with more potential are suggested for management in a sustainable manner. Unlike other areas of Mexico where meliponiculture is practiced, in Jalisco there is no record of traditional culture of meliponines. However, a certain level of knowledge and a high degree of interest was found among the respondents for engaging in keeping and managing stingless bees, mainly because their management does not involve the risk of stinging incidents. Nine stingless bee species were identified in total. Of these, the most abundant were Scaptotrigona hellwegeri, Trigona fulviventris, Partomona bilineata, Friseomelita nigra and Nannotrigona perilampoides. It is recommended that studies are conducted to develop management practices for these bee species. The implementation of courses on how to keep these meliponines is also recommended, so that in the future, the inhabitants of these communities can benefit from the integral and sustainable use of stingless bees.",
+    "doi": "10.13102/sociobiology.v66i1.3396",
+    "url": "https://doi.org/10.13102/sociobiology.v66i1.3396",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Insect and Pesticide Research",
+      "Plant Parasitism and Resistance",
+      "Plant and animal studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Francisca Contreras-Escareño"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Traditional Knowledge and Potential Use of Stingless Bees (Hymenoptera: Meliponinae) in the Manantlan Sierra, Jalisco, Mexico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Sociobiology, 2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "120-120 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.13102/sociobiology.v66i1.3396"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Insect and Pesticide Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant Parasitism and Resistance"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Plant and animal studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Carlos M. Echazarreta"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ernesto Gusmán-Nóvoa"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "José Octavio Macías-Macías"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/E9/E9HTR8IV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.13102/sociobiology.v66i1.3396"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

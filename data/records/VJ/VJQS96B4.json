@@ -1,0 +1,107 @@
+{
+  "key": "VJQS96B4",
+  "uri": "https://medjat.irokosociety.org/id/library/VJQS96B4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VJQS96B4",
+  "zotero": {
+    "group": "6479329",
+    "key": "VJQS96B4",
+    "version": 1725,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VJQS96B4",
+    "dateAdded": "2026-05-19T14:17:43Z",
+    "dateModified": "2026-05-19T14:17:43Z"
+  },
+  "display": {
+    "title": "Na cor da pele, o negro: conceitos, regras, compadrio e sociedade escravista na Vila do Recife (1790-1810)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gian Carlo de Melo Silva"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This research aims to understand the colonial society from people of color, a group of men and women demarcated as goats: creole, mulatto, black, black African and also people who had ancestry in the captive universe by far it was, carried on skin color marks of slavery. Our documentation is based on the baptismal records of the Santissimo Sacramento de Santo Antonio do Recife, in the late eighteenth century, which were associated with other manuscript sources, chroniclers, historiography and the law of that time. A junction that allows us to better analyze the data collected. Among the notes, we highlight the need to understand who were people of color in such society. Concepts that emerge from dictionaries and chroniclers are the possibility that we encountered in our narrative. From that, this social tangle began to be unveiled with the knowledge of its rules and concepts when studying the baptisms occurred. It was possible to identify the occurrence of collective baptisms of Africans, the presence of midwives and the role of godparents of children exposed. This whole scene composed of people from various backgrounds, who lived daily with the interchange processes caused by cultural and biological miscegenation which taken place in the colony. The main results point to the existence of a process that we called “pardializacao”, in which we find men and women classified as mulatto, having the best conditions within the slave society, in the access to free manumission or groomsmen. These people lived daily using social strategies to ensure survival, raising funds and avoiding the reminiscence of a past captivity expressed by their skin color.",
+    "doi": "",
+    "url": "https://openalex.org/W2807943047",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gian Carlo de Melo Silva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Na cor da pele, o negro: conceitos, regras, compadrio e sociedade escravista na Vila do Recife (1790-1810)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VJ/VJQS96B4.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

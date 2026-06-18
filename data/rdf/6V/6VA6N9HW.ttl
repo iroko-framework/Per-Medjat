@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6VA6N9HW>
+  a schema:Book ;
+  schema:name "Urban Slavery in Colonial Mexico" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6VA6N9HW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6VA6N9HW" ;
+  schema:description "Using the city of Puebla de los Ángeles, the second-largest urban center in colonial Mexico (viceroyalty of New Spain), Pablo Miguel Sierra Silva investigates Spaniards' imposition of slavery on Africans, Asians, and their families. He analyzes the experiences of these slaves in four distinct urban settings: the marketplace, the convent, the textile mill, and the elite residence. In so doing, Urban Slavery in Colonial Mexico advances a new understanding of how, when, and why transatlantic and transpacific merchant networks converged in Central Mexico during the seventeenth century. As a social and cultural history, it also addresses how enslaved people formed social networks to contest their bondage. Sierra Silva challenges readers to understand the everyday nature of urban slavery and engages the rich Spanish and indigenous history of the Puebla region while intertwining it with African diaspora studies." ;
+  schema:author "Pablo Miguel Sierra Silva" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Cambridge University Press eBooks" ;
+  schema:sameAs <https://doi.org/10.1017/9781108304245> ;
+  dcterms:identifier "doi:10.1017/9781108304245" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Historical Studies in Latin America" .

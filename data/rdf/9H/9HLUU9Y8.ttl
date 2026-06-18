@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9HLUU9Y8>
+  a schema:Chapter ;
+  schema:name "Return of the Living Slave: Jordan Peele’s Get Out as Zombie Film" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9HLUU9Y8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9HLUU9Y8" ;
+  schema:author "Mikel J. Koven" ;
+  schema:datePublished "2025" ;
+  schema:sameAs <https://doi.org/10.1007/978-3-031-24734-7_54-1> ;
+  dcterms:identifier "doi:10.1007/978-3-031-24734-7_54-1" ;
+  dcterms:subject "Cinema and Media Studies", "Gothic Literature and Media Analysis", "Sexuality, Behavior, and Technology", "Haitian Vodou" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .

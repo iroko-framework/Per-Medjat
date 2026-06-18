@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/W23ZGVLL>
+  a schema:Thesis ;
+  schema:name "A lei de 10 de junho de 1835" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=W23ZGVLL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:W23ZGVLL" ;
+  schema:description "Brazil's imperial regent sanctioned a new law to repress crimes committed by slaves. Compared to the existing legislation, the new law shortened trial and sentencing procedures, and increased the number of slave crimes which were to be subject to mandatory capital punishment. Despite historiography of this law's central role in the repression of slave protests and in the application of the death penalty, the subject-matter" ;
+  schema:author "Ricardo Figueiredo Pirola" ;
+  schema:datePublished "2012" ;
+  schema:sameAs <https://doi.org/10.47749/t/unicamp.2012.896850> ;
+  dcterms:identifier "doi:10.47749/t/unicamp.2012.896850" ;
+  dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Race, Identity, and Education in Brazil" .

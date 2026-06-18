@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/4LWZR7ZM>
+  a schema:ScholarlyArticle ;
+  schema:name "La influencia de la música cubana de origen abakuá en la música afroperuana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4LWZR7ZM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4LWZR7ZM" ;
+  schema:description "El artículo se centra en la exploración de la presencia de elementos afrocubanos, específicamente de origen abakuá, en la música afroperuana, con un enfoque particular en dos producciones discográficas significativas: \"Ritmos negros del Perú\" (1968) de Nicomedes Santa Cruz y su Conjunto Cumanana, y \"Juan de Mata\" (1978) del Conjunto Perú Negro. Tras un análisis exhaustivo de la producción musical de grupos vinculados al movimiento afroperuano posteriores a 1968, se destaca el interés en la propuesta artística del Conjunto Perú Negro. Si bien en su primer álbum, Gran Premio del Festival Hispanoamericano de la Danza y la Canción (1973), se encuentra una referencia a la temática abakuá en la canción \"Canción para ekué\", es en su segunda producción, Son de los diablos (1974), donde se identifican más claramente elementos sonoros propios de la cultura abakuá en uno de los temas. A través de este estudio, se busca aportar a la comprensión de la influencia y la interacción entre las tradiciones musicales afrocubanas y afroperuanas. El análisis detallado de las composiciones seleccionadas permite revelar conexiones y similitudes, así como diferencias y evoluciones en la expresión musical de estas dos culturas afrodescendientes. El artículo busca profundizar en la comprensión de cómo estas influencias se entrelazan y se manifiestan en la música afroperuana, enriqueciendo así el conocimiento sobre la diversidad y la complejidad de las expresiones culturales afrodescendientes en América Latina." ;
+  schema:author "Laureano Arturo Rigol Sera" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Revista Kaylla" ;
+  schema:sameAs <https://doi.org/10.18800/kaylla.202401.008> ;
+  dcterms:identifier "doi:10.18800/kaylla.202401.008" ;
+  dcterms:subject "Cuban History and Society" .

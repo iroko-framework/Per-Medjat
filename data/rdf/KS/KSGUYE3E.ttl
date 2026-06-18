@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/KSGUYE3E>
+  a schema:ScholarlyArticle ;
+  schema:name "I’m a Photographer, Let Me In! : Opening The Door To Photo Education" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KSGUYE3E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KSGUYE3E" ;
+  schema:description "The globalized Western culture of innovation, as propagated by major aid institutions, does not necessarily lead to empowerment or improvement of the well-being of the stakeholders.On the contrary, it often blocks viable indigenous innovation cultures.In African societies and African Diasporas in Latin America, cultures of innovation largely accrue from the informal, not the formal sector.Crucial for their proper understanding is a threefold structural differentiation: between the formal and informal sector, within the informal sector, according to class, gender or religion, and between different transnational social spaces.Different innovation cultures may be complementary, mutually reinforcing, or conflicting, leading in extreme cases even to a 'clash of cultures' at the local level.The repercussions of competing, even antagonistic agencies of innovative strategic groups are demonstrated, analyzing the case of the African poor in Benin and the African Diasporas of Brazil and Haiti." ;
+  schema:author "Grant Scott" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Research Repository (University of Gloucestershire)" ;
+  dcterms:subject "Art Education and Development", "Participatory Visual Research Methods", "Photography and Visual Culture" .

@@ -1,0 +1,114 @@
+{
+  "key": "RTY8HTCB",
+  "uri": "https://medjat.irokosociety.org/id/library/RTY8HTCB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RTY8HTCB",
+  "zotero": {
+    "group": "6479329",
+    "key": "RTY8HTCB",
+    "version": 3373,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RTY8HTCB",
+    "dateAdded": "2026-05-20T16:34:18Z",
+    "dateModified": "2026-05-20T16:34:18Z"
+  },
+  "display": {
+    "title": "Vodou Ayisyen",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Laënnec Hurbon"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "Open Encyclopedia of Anthropology",
+    "publicationTitle": "Open Encyclopedia of Anthropology",
+    "bookTitle": "",
+    "journalAbbreviation": "Open Encyclopedia of Anthropology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Vodou ayisyen an pran nesans nan kontèks esklavaj la. Yon relijyon fanmi Wa nan peyi Dawome, nan Afrik oksidantal, esklav sou lil Dayiti yo te tranfòme l kòm yon zouti pou yo rekonstui tèt yo ak fos liberasyon an. Konsa, vodou a te jwe yon wòl primodyal nan pi gwo revolisyon eskav yo reyisi nan tout listwa ak nan kreyasyon Ayiti kòm peyi endepandan. Nan komansman, antwopoloji a ki chita sou yon pèspektiv evolisyonis te konsidere vodou a tankou pwodui yon kilti primitif, moun ki pa sivilize, menm bagay ak maji ak sosèlri, lide sa a te tonbe dako ak mouvman kolonizatè ewopeyen yo. Konsa, Vodou a ta pral sibi plizyè vag pèsekisyon anba men klèje legliz katolik la. Poutan, pandan dènye deseni yo, antwopoloji a te montre ke senkretis ki nan vodou a, espesyalman jan yo reanplaye lapriyè sen ki konn fèt nan legliz katolik yo, se siy kreyasyon yon kilti nouvo ki genyen tolerans nan nannan l. Nou rive konprann panteyon (gwoup lwa òganize) ak rityel li gras ak yon antwopoloji ki chita sou ansanm teyori langaj ak wol senbolik li. Antwopoloji a montre nou tou, vodou ayisyen an se yon fason yo konsève memwa, epi li se patrimwàn pou tout Ayisyen e ke tout pèp dwe respekte depi diznevyèm syèk la.",
+    "doi": "10.29164/22vodouayisyen",
+    "url": "https://doi.org/10.29164/22vodouayisyen",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Rangeland Management and Livestock Ecology",
+      "Vietnamese History and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Laënnec Hurbon"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Vodou Ayisyen"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Open Encyclopedia of Anthropology, 2022."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.29164/22vodouayisyen"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Rangeland Management and Livestock Ecology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Vietnamese History and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/RT/RTY8HTCB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.29164/22vodouayisyen"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

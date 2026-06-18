@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FIZLFT7F>
+  a schema:Thesis ;
+  schema:name "Andrómaca de Eurípides: Mujer y, además, esclava. Tensiones entre la naturaleza y la convención de la esclavitud." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FIZLFT7F> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FIZLFT7F" ;
+  schema:description "present investigation under the name of Andromache of Euripides: woman and also salve. Tension between conventional and natural has the purpose of tracing the relation between the master and the that is dealt in Aristotle's first book of the Politics, the idea is to approach to the difference among the natural slavery and the one that has its basis in strength or in the convention of law. The analysis was focused in making clear the great tension that is created by wanting to identify the natural slaves and those who had been called slaves by accident, since for the Greek philosopher, even though the nature tends to make clear distinctions between men's souls and bodies, it does not always succeeds and often the opposite thing happens. Taking into account Aristotle s view on slavery, we were interested in checking how Euripides, one hundred years before, brought on stage what the philosopher defined as conventional slavery or slavery as a result of war. The conventional or natural that the philosopher refers to, stops being any slave to become a character who has his own gender and his own personal race: Andromache. The tragic poet, through his characters voices, does not only anticipates the difficulty of making these distinctions, but also binds us with the impact that the fact of these slaves are women." ;
+  schema:author "Laura Giraldo Martínez" ;
+  schema:datePublished "2014" ;
+  dcterms:subject "Cultural and Mythological Studies" .

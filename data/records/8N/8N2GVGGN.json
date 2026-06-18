@@ -1,0 +1,132 @@
+{
+  "key": "8N2GVGGN",
+  "uri": "https://medjat.irokosociety.org/id/library/8N2GVGGN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8N2GVGGN",
+  "zotero": {
+    "group": "6479329",
+    "key": "8N2GVGGN",
+    "version": 4023,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8N2GVGGN",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Weed Resistance to Herbicides",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Sаvа Vrbničаnin"
+      },
+      {
+        "role": "editor",
+        "name": "Danijela Pavlović"
+      },
+      {
+        "role": "editor",
+        "name": "Drаgаnа Bоžić"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "InTech eBooks",
+    "journalAbbreviation": "InTech eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Unfortunately, herbicide resistance developed shortly after the introduction of the herbicides 2,4‐D in 1957. According the herbicide resistance mechanisms, all processes can be grouped as follows: target‐site resistance, non‐target‐site resistance, cross‐resistance and multiple‐resistance. Target‐site resistance is generally due to a single or several mutations in the gene encoding the herbicide‐target enzyme, which, in turn, decreases the affinity for herbicide binding to that enzyme. Non‐target‐site resistance is caused by mechanisms that reduce the amount of herbicidal active compound before it can attack the plant through the reduced absorption or altered translocation, increased herbicide sequestration or enhanced herbicide metabolism. Cross‐resistance means that a single‐resistance mechanism causes resistance to several herbicides with some mode of action. Multiple‐resistance is a situation where two or more resistance mechanisms are present within the same plant, often due to sequential selection by herbicides with different modes of action. Currently, herbicide resistance has been reported in 478 weed biotypes (252 weed species) in 67 countries. Many of those biotypes are resistant to acetolactate synthase (ALS) inhibitors, PS II inhibitors, ACC‐ase inhibitors and EPSPS inhibitors. Strategy for herbicide‐resistance weed management must involve all the available preventive, cultural, mechanical and chemical measures for effective, safe and cost‐effective weed control.",
+    "doi": "10.5772/67979",
+    "url": "https://doi.org/10.5772/67979",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Agronomic Practices and Intercropping Systems",
+      "Allelopathy and phytotoxic interactions",
+      "Weed Control and Herbicide Applications"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Sаvа Vrbničаnin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Weed Resistance to Herbicides"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5772/67979"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agronomic Practices and Intercropping Systems"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Allelopathy and phytotoxic interactions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Weed Control and Herbicide Applications"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Danijela Pavlović"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Drаgаnа Bоžić"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/8N/8N2GVGGN.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5772/67979"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

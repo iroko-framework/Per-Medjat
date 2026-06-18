@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/VEHERWPE>
+  a schema:Thesis ;
+  schema:name "The admission of slaves and 'prize slaves' into the Cape Colony, 1797-1818" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=VEHERWPE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:VEHERWPE" ;
+  schema:description "This study supports the thesis that slaves were admitted into the Cape colony by the Cape colonial government, even though the government was opposed to slave importation in principle and law (Slave Trade Act, 1807) from 1797-1818.The colonial demand for slaves was at its height after the Vereenigde Oost-Indische Compagnie's (VOC) capitulation to the British in 1795.This demand forced the first British occupation government to forgo their anti -slave trade principles and accede to a limited importation of slaves into the colony.Portuguese colonial and British colonial merchants, therefore, arranged for the importation of a regular supply of slaves from the northern coast of Mozambique to the colony c.1799.The British colonial government's strict regulation and supervision of slave importation to the Cape, however, led to covert slave importation on the part of Portuguese and British colonial slave merchants (1797)(1798)(1799)(1800)(1801)(1802)(1803)(1804)(1805)(1806)(1807)(1808).This slave traffic was terminated by the Slave Trade Act (1807).Thereafter, 'Negro apprenticeship' was implemented, 1808-1818.Given the covert nature of slave importation to the Cape and the controversies arising out of 'N egro apprenticeship', research on slave importation to the Cape at the tum of the 19th century is a tricky task.The history of slave importation to the Cape at the tum of the 19th century is presented from the perspective of official documentation.There is little information on slave merchants.The official documentation, therefore, used in this project comprised: descriptions of the Cape colony relative to the demand for imported slave labour at the Cape; shipping registers; petitions for the importation of slaves; responses from Cape governors to the petitions of Cape slave merchants; Commissions of Inquiry into matters relating to slave importation; and, advertisements for the sale of imported slaves." ;
+  schema:author "Michael Charles Reidy" ;
+  schema:datePublished "1997" ;
+  schema:publisher "Open University of Cape Town (University of Cape Town)" ;
+  dcterms:subject "African history and culture studies", "Colonialism, slavery, and trade" .

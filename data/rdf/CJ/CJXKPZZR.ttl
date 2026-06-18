@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CJXKPZZR>
+  a schema:Thesis ;
+  schema:name "Australian women and the Great War : aspects of ideological change with particular emphasis on Queensland" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CJXKPZZR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CJXKPZZR" ;
+  schema:description "THE WOMANI am the Woman. | Slave of a slave I stand | In every land. A 'wage slave is the Man - | Sustenance slave am I. | Such is the tie.We .are enthralled | By the very deeds we do. | Both me and you.You fight for freedom: | That all men may be | From Bondage free:Free to enjoy, Free |To possess that which they make | Their wealth to take!While in all lands | 'Gainst slavery you rave you love your slave! | Can you gain freedom While I am not free?It cannot be. | From womb of slave No freeman can be bred, | But slave instead.If you want free men, | Men who are not afraid | Of laws man-made: Not afraid of God, | Nor heaven nor hell; | Who will not sell For gold the birthright | To the wealth they make - | Then you must takeYour bondage from us; | Let your -woman knoe (sic) | Their chains must goI AM THE WOMAN; | SLAVE OF A SLAVE I STAND | IN EVERY LAND.Jennie Scott Griffiths - Feminist, Pacifist and Socialist during the Great War in Australia." ;
+  schema:author "Carmel Mary Shute" ;
+  schema:datePublished "1973" ;
+  schema:publisher "The University of Queensland" ;
+  schema:sameAs <https://doi.org/10.14264/375281> ;
+  dcterms:identifier "doi:10.14264/375281" ;
+  dcterms:subject "Australian History and Society" .

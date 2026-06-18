@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RJ7N62AI>
+  a schema:ScholarlyArticle ;
+  schema:name "Tú, la oscuridad: negritud y no occidentalidad" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RJ7N62AI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RJ7N62AI" ;
+  schema:description "Esta ponencia, presentada en el congreso Negritud 2012, se acerca al analisis de la novela Tu, la oscuridad de Mayra Montero, y, en particular, al tratamiento y representacion que se hace en ella de las religiones afro-antillanas (vudu y sociedad secreta Abakua)." ;
+  schema:author "Carmen Centeno Añeses" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Tinkuy: Boletín de investigación y debate" ;
+  dcterms:subject "Latin American Literature Studies", "Literary and Philosophical Studies", "Literature, Magical Realism, García Márquez" .

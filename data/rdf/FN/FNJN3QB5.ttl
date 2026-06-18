@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FNJN3QB5>
+  a schema:ScholarlyArticle ;
+  schema:name "Slavery and Just Compensation in American Constitutionalism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FNJN3QB5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FNJN3QB5" ;
+  schema:description "The existence of compensation clauses, guaranteeing compensation when governments took private property, in antebellum state constitutions varied considerably across states and over time. Existing explanations struggle to account for such variation. I argue that slavery had an important, though varied, influence, depending on the changing strategic behavior of proslavery constitutional drafters. Proslavery delegates opposed compensation when they expected to control political decision making, but supported compensation when uncertain. This argument identifies another way that slavery impacted US constitutional development, and further suggests that American rights development resembles the experiences of other countries where elite interests were threatened." ;
+  schema:author "Stephan Stohler" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Law & Social Inquiry" ;
+  schema:sameAs <https://doi.org/10.1111/lsi.12351> ;
+  dcterms:identifier "doi:10.1111/lsi.12351" ;
+  dcterms:subject "American Constitutional Law and Politics", "Judicial and Constitutional Studies", "Legal and Constitutional Studies" .

@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LY4A3WJY>
+  a schema:ScholarlyArticle ;
+  schema:name "Accumulated and recent migratory at traction in Mexico and Veracruz. Analysis with special reference to the state of Veracruz" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LY4A3WJY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LY4A3WJY" ;
+  schema:description "La atracción migratoria (reciente y acumulada) es una construcción específica de la migración interna, la cual contiene dinámicas socioeconómicas y culturales, entre otras, desde los centros rurales o urbanos, con perspectivas territoriales y regionales. En México, el indicador de la atracción migratoria reciente muestra mejores condiciones y dinámicas de la economía desde hace siete años. Por su parte, Veracruz presenta desde hace una década un importante crecimiento demográfico y de inmigración interna, además de una significativa migración hacia entidades del norte. En este contexto, el objetivo del artículo es construir indicadores de atracción migratoria y reciente a nivel nacional y para el estado de Veracruz, que sirvan como base para futuras investigaciones que profundicen en las causas y factores de la migración interna, y expliquen las dinámicas entre un territorio y otro. The migratory attraction (recent and accumulated) is a specific construction of internal migration, which contains socio - economic and cultural dynamics, among others; from rural or urban centers, with territorial and regional perspectives. In Mexico, the indicator of recent migration attraction shows the best conditions and dynamics of the economy since seven years ago. On the other hand, Veracruz has had an important demographic and internal immigration growth since a decade, as well as an important migration towards northern entities. In this context, the objective of the article is to build indicators of mig ratory and recent attraction at the national level and for the state of Veracruz, which serve as a basis for future research that delves into the causes and factors of internal migration and explain the dynamics between one territory and another." ;
+  schema:author "Violeta Alejandra Bastián Lima" ;
+  schema:creator "José Dionicio Vázquez Vázquez" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Papeles de Geografía" ;
+  schema:sameAs <https://doi.org/10.6018/geografia/2018/325671> ;
+  dcterms:identifier "doi:10.6018/geografia/2018/325671" ;
+  dcterms:subject "Agricultural and Food Production Studies", "Indigenous Cultures and Socio-Education", "Latin American rural development" .

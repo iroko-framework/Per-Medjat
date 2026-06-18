@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/982QAH8E>
+  a schema:Thesis ;
+  schema:name "Indomestizo modernism : national development and indigenous integration in postrevolutionary Bolivia, 1952-1964" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=982QAH8E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:982QAH8E" ;
+  schema:description "This dissertation rethinks postcolonial nation-state formation in Latin America by investigating the cultural politics of the Bolivian Revolution of 1952. At the heart of Latin America’s postcolonial predicament were the social hierarchies of the colonial caste system, which persisted into the Republican era despite liberal ideals of legal equality and universal citizenship. This predicament was especially acute in Bolivia. Indians constituted sixty-five percent of the national population yet—still a century after Independence—remained politically excluded and socially marginalized by a European-descendant, or creole, minority. Following the Bolivian Revolution of 1952, a new generation of creole nationalists set out to integrate Indians into a modern nation of their own making. In subsequent years, artists, intellectuals, social scientists, and indigenous activists worked to transform Bolivia from a segregated, multiethnic republic into a unified nation. This study interrogates the dynamic interplay between state and society as these diverse agents negotiated the terms of indigenous inclusion, the content of national culture, and the contractions of postrevolutionary modernity. My research challenges the prevailing historiographical consensus that the transformative socioeconomic reforms introduced by Bolivia’s postrevolutionary government were not accompanied by a parallel cultural initiative. Drawing on new archival sources from Bolivia, Mexico, the Netherlands, and the United States, I reveal that not only did the Bolivian Revolution of 1952 include a cultural element; but that the establishment of a unifying national culture for the integrated republic was one of the primary objectives of the postrevolutionary leadership. Through a burgeoning array of government institutions, officials promoted a new national culture model that celebrated Bolivia’s mixed Andean and Hispanic heritage. I argue that despite its inclusive veneer, this effort reproduced racialized identities founded on colonial social hierarchies. With case studies on rural sociology, the revision of national history, the reconstruction of archeological ruins, and the creation of a national folklore, this study demonstrates how the postrevolutionary politics of culture and knowledge operated, in conjunction, to generate novel forms of ethnic exclusion for indigenous Bolivians." ;
+  schema:author "R. Matthew Gildner" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
+  schema:sameAs <https://doi.org/10.15781/t2jm23z6p> ;
+  dcterms:identifier "doi:10.15781/t2jm23z6p" ;
+  dcterms:subject "Latin American Cultural Politics", "Political and Social Dynamics in Chile and Latin America", "Politics and Society in Latin America" .

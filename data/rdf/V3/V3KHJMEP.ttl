@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V3KHJMEP>
+  a schema:Thesis ;
+  schema:name "Hidden Signs, Haunting Shadows: Literary Currencies of Blackness in Upper Canadian Texts" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V3KHJMEP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V3KHJMEP" ;
+  schema:description "It might be time for critics of early Canadian literature to avoid avoiding blackness in early Canada in their work. This dissertation<em> </em>takes up the recurrent pattern of displacement that emerges in critical studies that recall or rediscover early Canada. It attends in particular to the displacements and subordinations of Canadian blackness, particularly those conspicuously avoided by critics or rendered conspicuously absent by authors in the literatures of Upper Canada during the height of the Underground Railroad era, between 1830 and 1860. Not only is blackness in Upper Canada concealed, omitted, derided, and caricatured, but these representational formulas shape the hegemonic common-sense of what Antonio Gramsci terms “the national popular.” I argue that canonical texts contain accounts of early Canadian blackness from the national popular and subsequent criticisms of them produce an attitude and a history that excises blackness when literary and cultural critics examine the complexities of early Canada. Informed by Stuart Hall’s concept of the “floating signifier,” I draw the tropes of blackness out from behind the backdrop of early Canadian texts and into the foreground of Canadian literary and cultural criticism as well as critical race studies; in turn, this theoretical model helps me to explain what cultural work “undefined and indefinable” blackness did in early Canada and in contemporary imaginings of it (Clarke <em>Odysseys</em>, 16). Working out this paradox in John Richardson’s <em>Wacousta </em>and <em>The Canadian Brothers</em>, Susanna Moodie’s <em>Roughing It in the Bush</em>, and Catharine Parr Traill’s <em>The Canadian Settlers Guide</em>, my three chapters examine how these Upper Canadian authors display as much as hide the crucial roles of blackness in the formation of Canada and Canadian national identity." ;
+  schema:author "Phanuel Antwi" ;
+  schema:datePublished "2011" ;
+  schema:publisher "MacSphere (McMaster University)" ;
+  dcterms:subject "American and British Literature Analysis", "Canadian Identity and History", "Short Stories in Global Literature" .

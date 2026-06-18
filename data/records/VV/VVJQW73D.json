@@ -1,0 +1,108 @@
+{
+  "key": "VVJQW73D",
+  "uri": "https://medjat.irokosociety.org/id/library/VVJQW73D",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VVJQW73D",
+  "zotero": {
+    "group": "6479329",
+    "key": "VVJQW73D",
+    "version": 3480,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VVJQW73D",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "White slavery in the Barbary states",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Charles Sumner"
+      }
+    ],
+    "year": "1853",
+    "date": "1853",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "attempt to combine its scattered materials in a connected essay.",
+    "doi": "10.5479/sil.358080.39088005873013",
+    "url": "https://doi.org/10.5479/sil.358080.39088005873013",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Global Maritime and Colonial Histories",
+      "Migration and Labor Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Charles Sumner"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "White slavery in the Barbary states"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1853."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5479/sil.358080.39088005873013"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration and Labor Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/VV/VVJQW73D.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5479/sil.358080.39088005873013"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

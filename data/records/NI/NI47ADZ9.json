@@ -1,0 +1,121 @@
+{
+  "key": "NI47ADZ9",
+  "uri": "https://medjat.irokosociety.org/id/library/NI47ADZ9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NI47ADZ9",
+  "zotero": {
+    "group": "6479329",
+    "key": "NI47ADZ9",
+    "version": 4083,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NI47ADZ9",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Polycyclic Aromatic Hydrocarbons in Smokes of Two Biomasses Used For Domestic Cooking In Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ojeyemi M. Olabemiwo"
+      },
+      {
+        "role": "editor",
+        "name": "Akinola David Ogunsola"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Journals & Books Hosting (International Knowledge Sharing Platform)",
+    "publicationTitle": "Journals & Books Hosting (International Knowledge Sharing Platform)",
+    "bookTitle": "",
+    "journalAbbreviation": "Journals & Books Hosting (International Knowledge Sharing Platform)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "6",
+    "issue": "1",
+    "pages": "101-106",
+    "abstract": "Domestic cooking of foods is predominantly carried out in Nigeria through the burning of different types of biomass. Smoke resulting from such burning in most cases is been inhaled by people in the immediate environment where the cooking exercise is taking place. Where incomplete combustion occurs, the smoke may carry some products of incomplete combustion; prominent among these are polycyclic aromatic hydrocarbons (PAHs). Some of these PAHs have been implicated for various health challenges such as cancer. Incomplete combustion of fuels is known to generate PAHs. Smokes from some biomasses have also been established to contain some PAHs.This group of organic compounds is of global environment concern. The composition and concentration of PAHs in the smokes of two biomasses used in domestic cooking in Nigeria were determined. For this purpose, a pyrolytic unit was fabricated and used for the pyrolysis of Wood Charcoal (WC) and Palm Kernel Shell (PKS). Gases resulting from their pyrolysis were collected and analyzed using Gas Chromatography (GC). The results of GC analysis showed that the composition and concentration of PAHs in gas obtained from the pyrolysis of WC were; Acenaphthene (0.218µg/cm 3), Fluorene (0.573 µg/cm",
+    "doi": "",
+    "url": "http://iiste.org/Journals/index.php/CMR/article/view/10463",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Fire dynamics and safety research",
+      "Thermochemical Biomass Conversion Processes",
+      "Toxic Organic Pollutants Impact"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ojeyemi M. Olabemiwo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Polycyclic Aromatic Hydrocarbons in Smokes of Two Biomasses Used For Domestic Cooking In Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journals & Books Hosting (International Knowledge Sharing Platform), 2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "101-106 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Fire dynamics and safety research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Thermochemical Biomass Conversion Processes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Toxic Organic Pollutants Impact"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Akinola David Ogunsola"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NI/NI47ADZ9.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

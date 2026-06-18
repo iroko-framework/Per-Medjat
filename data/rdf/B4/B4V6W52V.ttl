@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/B4V6W52V>
+  a schema:Thesis ;
+  schema:name "On the transition from slave work to salaried work in Brazil under the perspective of E. Pashukanis General Theory of Law: the juridical phenomenon in the Brazilian capitalism formation." ;
+  schema:url <https://medjat.irokosociety.org/library/?item=B4V6W52V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:B4V6W52V" ;
+  schema:description "Esta pesquisa elege o materialismo histórico e dialético como método de análise das mudanças sofridas pelas relações de trabalho ao longo de determinado período da história do trabalho no Brasil, procurando problematizar e desnaturalizar os conceitos de contrato de trabalho, sujeito de direito, relação e subordinação jurídicas, e realizando uma crítica à doutrina juspositivista. Articula conceitos marxianos, marxistas e jurídicos, em razão da interdisciplinaridade do direito e da história, para compreender o fenômeno jurídico-trabalhista. Recorre aos conceitos de valor de uso e de troca, de formações econômicas pré-capitalistas, de modos de produção e de relações de produção para compreender a forma jurídica na sociedade capitalista brasileira em formação." ;
+  schema:author "Sabrina Bowen Farhat Fernandes" ;
+  schema:datePublished "2015" ;
+  schema:publisher "Digital Library of Theses and Dissertations (Universidade de São Paulo)" ;
+  dcterms:subject "Brazilian Legal Issues", "Health, Education, and Cultural Studies", "Social and Political Issues" .

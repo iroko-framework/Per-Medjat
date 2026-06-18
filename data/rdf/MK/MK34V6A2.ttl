@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MK34V6A2>
+  a schema:Book ;
+  schema:name "Dahomey, an Ancient West African Kingdom" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MK34V6A2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MK34V6A2" ;
+  schema:author "Herskovits, Melville J" ;
+  schema:creator "Herskovits, Frances S" ;
+  schema:datePublished "1938" ;
+  schema:publisher "J.J. Augustin" ;
+  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

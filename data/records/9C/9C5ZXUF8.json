@@ -1,0 +1,100 @@
+{
+  "key": "9C5ZXUF8",
+  "uri": "https://medjat.irokosociety.org/id/library/9C5ZXUF8",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9C5ZXUF8",
+  "zotero": {
+    "group": "6479329",
+    "key": "9C5ZXUF8",
+    "version": 3999,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9C5ZXUF8",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "El laberinto de la invisibilidad de los negros en México",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kouakou Laurent Lalekou"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Humania del Sur: Revista de Estudios Latinoamericanos, Africanos y Asiáticos",
+    "publicationTitle": "Humania del Sur: Revista de Estudios Latinoamericanos, Africanos y Asiáticos",
+    "bookTitle": "",
+    "journalAbbreviation": "Humania del Sur: Revista de Estudios Latinoamericanos, Africanos y Asiáticos",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "23",
+    "pages": "189-205",
+    "abstract": "En Mexico hay negros, pero no se ven; existen, pero son invisibles. Llegaron durante la colonizacion desempenando papeles fundamentales en la construccion del pais. Participaron en la conquista, el desarrollo economico y las luchas libertadoras. Juan Garrido introdujo el trigo en Mexico y fue el primero en cultivarlo; Gaspar Yanga echo el grito de libertad americana. Uno llego a ocupar el Palacio de Mexico como presidente. El presente estudio pone de relieve las razones de la presencia ausente de los negros en Mexico, sus manifestaciones en la actualidad y analiza como pueden salir del atolladero en que los han encerrado.",
+    "doi": "",
+    "url": "https://openalex.org/W2785241237",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Mexican Socioeconomic and Environmental Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kouakou Laurent Lalekou"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El laberinto de la invisibilidad de los negros en México"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Humania del Sur: Revista de Estudios Latinoamericanos, Africanos y Asiáticos, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "189-205 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Mexican Socioeconomic and Environmental Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/9C/9C5ZXUF8.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

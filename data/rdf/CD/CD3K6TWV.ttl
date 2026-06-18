@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/CD3K6TWV>
+  a schema:ScholarlyArticle ;
+  schema:name "Enjeux de pouvoir, pouvoir en jeu et institutionnalisation de la société secrète abakuá à la Havane" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CD3K6TWV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CD3K6TWV" ;
+  schema:description "La société secrète masculine abakuá est une modalité de culte localisée à l'ouest de l'île de Cuba. Maçonnerie noire ou confrérie à but charitable, cette organisation a de tout temps entretenu des relations ambiguës et conflictuelles avec le pouvoir en place. Qu'en est-il dès lors de ses relations avec le gouvernement socialiste actuel et de la lutte menée par ses dirigeants pour une reconnaissance officielle? Ce changement de statut, survenu en 2005 est loin d'être anodin et pose des questions pertinentes sur le pouvoir en général dans l'espace urbain et sur l'insertion des pratiques religieuses au sein du processus révolutionnaire." ;
+  schema:author "Géraldine Morel-Baró" ;
+  schema:datePublished "2010" ;
+  schema:publisher "EchoGéo" ;
+  schema:sameAs <https://doi.org/10.4000/echogeo.11706> ;
+  dcterms:identifier "doi:10.4000/echogeo.11706" ;
+  dcterms:subject "Cuban History and Society" .

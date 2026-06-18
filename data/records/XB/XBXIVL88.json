@@ -1,0 +1,137 @@
+{
+  "key": "XBXIVL88",
+  "uri": "https://medjat.irokosociety.org/id/library/XBXIVL88",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XBXIVL88",
+  "zotero": {
+    "group": "6479329",
+    "key": "XBXIVL88",
+    "version": 3964,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XBXIVL88",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Physicochemical and Sensory Properties of Gummy Candies Enriched with Pineapple and Papaya Peel Powders",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Karla Fabiola Romo-Zamarrón"
+      },
+      {
+        "role": "editor",
+        "name": "Laura Eugenia Pérez-Cabrera"
+      },
+      {
+        "role": "editor",
+        "name": "Alberto Tecante"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Food and Nutrition Sciences",
+    "publicationTitle": "Food and Nutrition Sciences",
+    "bookTitle": "",
+    "journalAbbreviation": "Food and Nutrition Sciences",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "10",
+    "issue": "11",
+    "pages": "1300-1312",
+    "abstract": "Currently, the production of minimally processed foods generates many by-products that are not optimally exploited. Pineapple and papaya peels dehydrated by circulating hot air and freeze drying, with different particle sizes, were used as powder ingredients to enrich gummy candies. Modifications in soluble solids (°Bx), pH, water activity (aw), color, instrumental texture, and sensory perception of the products were assessed regarding powder-free controls. The inclusion of 5 g/100g of each fruit peel powder resulted in candies with stable acidity, °Bx, aw, and pH. Freeze-dried peels with smaller particle size produced better physicochemical, sensory, instrumental texture, and color characteristics because the powders were easily and homogeneously distributed, reinforcing thus the structure of the gel, and producing better coloring.",
+    "doi": "10.4236/fns.2019.1011094",
+    "url": "https://doi.org/10.4236/fns.2019.1011094",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Agricultural and Food Sciences",
+      "Microencapsulation and Drying Processes",
+      "Pineapple and bromelain studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Karla Fabiola Romo-Zamarrón"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Physicochemical and Sensory Properties of Gummy Candies Enriched with Pineapple and Papaya Peel Powders"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Food and Nutrition Sciences, 2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1300-1312 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4236/fns.2019.1011094"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Agricultural and Food Sciences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Microencapsulation and Drying Processes"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pineapple and bromelain studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Laura Eugenia Pérez-Cabrera"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Alberto Tecante"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XB/XBXIVL88.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4236/fns.2019.1011094"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

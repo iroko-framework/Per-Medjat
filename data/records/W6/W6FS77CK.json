@@ -1,0 +1,107 @@
+{
+  "key": "W6FS77CK",
+  "uri": "https://medjat.irokosociety.org/id/library/W6FS77CK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W6FS77CK",
+  "zotero": {
+    "group": "6479329",
+    "key": "W6FS77CK",
+    "version": 1365,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W6FS77CK",
+    "dateAdded": "2026-05-19T13:28:59Z",
+    "dateModified": "2026-05-19T13:28:59Z"
+  },
+  "display": {
+    "title": "Dancing with the Revolution: Power, Politics, and Privilege in Cuba , by Elizabeth B. Schwall",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Susanna Sloat"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "publicationTitle": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "bookTitle": "",
+    "journalAbbreviation": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "96",
+    "issue": "3-4",
+    "pages": "399-400",
+    "abstract": "Dancing with the Revolution: Power, Politics, and Privilege in Cuba covers a lot of territory admirably, standing out because of its scope, meticulous scholarship, and clarity of organization and writing.Elizabeth Schwall takes a long view of Cuban concert dance from 1930 to 1990 and shows how developments before the Revolution's success in 1959 set the stage for the postrevolutionary establishment of national companies for ballet, modern dance, and folkloric dance.By the late 1970s and throughout the 1980s, veteran and newer dance artists began experiments in form, subject, and the formation of new companies, while still maintaining their necessary revolutionary bona fides.Schwall starts with ballet.From the first ballet classes at the Pro-Arte society in Havana in 1931, ballet began an ascendancy.Alicia Martínez began studying there that first year.She and the Alonso brothers, Fernando (her future husband) and Alberto, formed the nucleus of that ascent.They also danced elsewhere, Alicia famously with Ballet Theatre in New York, but returned to Cuba to found two companies, Ballet Alicia Alonso and Alberto's Ballet Nacional.Financial aid from the government helped, but after a dispute with Batista's regime, they renounced help from him.When Castro took hold of the government, the Alonsos were ready to be loyal and to form an official national company.Ballet was an art that privileged White people in Cuba, but gradually opportunities for Cubans of color to study, and for a few to perform, began in Havana and elsewhere in the country.Throughout the book, Schwall attends to the varieties of racism in Cuba, before the Revolution and after, when it officially did not exist.Her second chapter looks at \"performing race\" before 1959.In those years, the Afro-Cuban contribution to Cuban culture and dance, secular and sacred, took staged form mostly in cabarets, venues that offered dancers of color chances to perform.On occasion, others, like Alberto Alonso and Ramiro Guerra, used Afro-Cuban dance culture for choreographies performed by White dancers.In 1947, Alberto Alonso choreographed a ballet that starred Alicia Alonso, fusing rumba columbia and carnival dance with ballet.Oddly, it was the men's improvisational rumba form columbia that Alonso chose for his sister-in-law, using a famous Afro-Cuban dancer known as Chamba to teach Alicia this difficult form.Alberto also had women perform as masked Abakuá figures as did other choreographers in a folkloric group and in cabarets, though the Abakuá society itself is strictly for men.Schwall devotes ten pages to Katherine Dunham, who used Cuban material, conferred with pioneers in Afro-Cuban ethnology, and hired Cuban drummers",
+    "doi": "10.1163/22134360-09603032",
+    "url": "https://doi.org/10.1163/22134360-09603032",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Susanna Sloat"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Dancing with the Revolution: Power, Politics, and Privilege in Cuba , by Elizabeth B. Schwall"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "399-400 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/22134360-09603032"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/W6/W6FS77CK.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/22134360-09603032"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

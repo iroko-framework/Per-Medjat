@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/E9HTR8IV>
+  a schema:ScholarlyArticle ;
+  schema:name "Traditional Knowledge and Potential Use of Stingless Bees (Hymenoptera: Meliponinae) in the Manantlan Sierra, Jalisco, Mexico" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=E9HTR8IV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:E9HTR8IV" ;
+  schema:description "Stingless bees (meliponines) play an important role in ecosystems; they pollinate different plant species, assist in the reproduction and conservation of floral biodiversity and their products can be obtained and sold, with the consequent economic benefit for stingless beekeepers. Surveys were conducted to find out how much knowledge inhabitants of two marginalized communities of the Manantlan Sierra in Jalisco, Mexico, have on the use and exploitation of stingless bees. In addition, several stingless bee species of this region were captured and identified, and wild nests of those bees were located and recorded in their natural habitats. Information about the knowledge and culture of stingless bees in the region was analyzed and based on that as well as on the most abundant species captured, those with more potential are suggested for management in a sustainable manner. Unlike other areas of Mexico where meliponiculture is practiced, in Jalisco there is no record of traditional culture of meliponines. However, a certain level of knowledge and a high degree of interest was found among the respondents for engaging in keeping and managing stingless bees, mainly because their management does not involve the risk of stinging incidents. Nine stingless bee species were identified in total. Of these, the most abundant were Scaptotrigona hellwegeri, Trigona fulviventris, Partomona bilineata, Friseomelita nigra and Nannotrigona perilampoides. It is recommended that studies are conducted to develop management practices for these bee species. The implementation of courses on how to keep these meliponines is also recommended, so that in the future, the inhabitants of these communities can benefit from the integral and sustainable use of stingless bees." ;
+  schema:author "Francisca Contreras-Escareño" ;
+  schema:creator "Carlos M. Echazarreta", "Ernesto Gusmán-Nóvoa", "José Octavio Macías-Macías" ;
+  schema:datePublished "2019" ;
+  schema:publisher "Sociobiology" ;
+  schema:sameAs <https://doi.org/10.13102/sociobiology.v66i1.3396> ;
+  dcterms:identifier "doi:10.13102/sociobiology.v66i1.3396" ;
+  dcterms:subject "Insect and Pesticide Research", "Plant Parasitism and Resistance", "Plant and animal studies" .

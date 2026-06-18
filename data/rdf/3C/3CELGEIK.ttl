@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/3CELGEIK>
+  a schema:ScholarlyArticle ;
+  schema:name "The Acoustic Body: <i>Rumba Guarapachanguera</i> and Abakuá Sociality in Central Park" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3CELGEIK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3CELGEIK" ;
+  schema:description "Since the late 1960s, summer rumbas in New York City's Central Park have been a center for Puerto Rican music elaboration. However, since the mid-1990s, the arrival of Cuban rumberos has reshaped the practice. In this essay I analyze this transformation and suggest that Central Park rumba has the capacity to generate multiple sociopolitical, historical, and spiritual presences through sound and gesture. Centering on the interaction between the Cuban Marielitos and the balseros, I show how their encounter in Central Park rumba produces a transnational space of cross-generational negotiation through spiritual and secular performances. I argue that while the rumba guarapachanguera became a style performed primarily by the rumberos from Cuba's Special Period, Abakuá spiritual bonding functioned across the Mariel and balsero generations because of the deep history embodied in their performance of the Abakuá Íremes. I theorize how the performance of rumba constitutes an aural community that, once in the Diaspora, articulates what I call the \"acoustic body,\" a body that echoes an internalized spiritual sound via gesture." ;
+  schema:author "Berta Jottar" ;
+  schema:datePublished "2009" ;
+  schema:publisher "Latin American Music Review" ;
+  schema:sameAs <https://doi.org/10.1353/lat.0.0031> ;
+  dcterms:identifier "doi:10.1353/lat.0.0031" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies", "Music History and Culture" .

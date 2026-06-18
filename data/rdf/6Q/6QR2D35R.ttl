@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6QR2D35R>
+  a schema:Book ;
+  schema:name "Wicked flesh: Black women, intimacy, and freedom in the Atlantic world" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6QR2D35R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6QR2D35R" ;
+  schema:description "Unearthing personal stories from the archive, Wicked Flesh shows how black women, from Senegambia in West Africa to the Caribbean to New Orleans, used intimacy and kinship to redefine freedom in the eighteenth-century Atlantic world. Their practices laid the groundwork for the emancipation struggles of the nineteenth century." ;
+  schema:author "Johnson, Jessica Marie" ;
+  schema:datePublished "2020" ;
+  schema:publisher "University of Pennsylvania Press" ;
+  dcterms:identifier "isbn:978-0-8122-9724-9" ;
+  dcterms:subject "African American women -- Louisiana -- New Orleans", "African Americans -- Kinship -- History -- 18th ce", "African diaspora -- History -- 18th century", "Atlantic Ocean Region -- Race relations -- History", "Black -- Atlantic Ocean Region -- History -", "Black -- Atlantic Ocean Region -- Social co", "Slave trade -- Social aspects -- Atlantic Ocean Re", "Women" .

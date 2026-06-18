@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Q8WY2YUF>
+  a schema:ScholarlyArticle ;
+  schema:name "The Thirteenth Amendment: Modern Slavery, Capitalism, and Mass Incarceration" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Q8WY2YUF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Q8WY2YUF" ;
+  schema:description "Slavery's preservation in the United State can-in part-be explained by its fluid transformations, which continuously exacted economic gains, preserved southern social order, and inured benefits to private parties as well as the state. These transformations did not outpace law. Rather, the rule of law in the south and lawlessness among local law enforcement frequently accommodated these transformations and innovations. Historically, efforts to stamp out the myriad forms of slavery-convict leasing, peonage, contract transfers, so-called \"apprenticeships,\" and chain gangs-frequently fell short because of local collusion and complicity, weak federal interventions and protections, and violence. The specter of lynching, which included the hanging women and children, bombings of churches and homes, and arrests, succeeded in instilling a crippling fear among even the most courageous southern Blacks. Local and state laws aggravated these injustices and provided little or no relief for Black men, women, and children subjected to them. These historic conditions matter today. With the ratification of the Punishment Clause, states lacked any disincentive to do otherwise. Effectively, there were no consequences for continuing slavery within the means articulated by the Thirteenth Amendment. If anything, the Thirteenth Amendment's Punishment Clause may have exacerbated slavery's spread into states that had previously abolished the practice. Substantively, freedom shall not and truly cannot exist without a fundamental change in the criminal justice system, including the abolishment of the Punishment Clause." ;
+  schema:author "Michele Goodwin" ;
+  schema:datePublished "2019" ;
+  dcterms:subject "Criminal Justice and Corrections Analysis", "Legal Systems and Judicial Processes", "Taxation and Compliance Studies" .

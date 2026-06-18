@@ -1,0 +1,72 @@
+{
+  "extraKeys": {
+    "FAST": [
+      "fast",
+      "fast-id",
+      "fast_id"
+    ],
+    "LCSH": [
+      "lcsh",
+      "lcsh-id",
+      "lcsh_id"
+    ],
+    "LCNAF": [
+      "lcnaf",
+      "lcnaf-id",
+      "lcnaf_id"
+    ],
+    "Getty AAT": [
+      "aat",
+      "getty-aat",
+      "getty_aat"
+    ],
+    "Getty TGN": [
+      "tgn",
+      "getty-tgn",
+      "getty_tgn"
+    ],
+    "VIAF": [
+      "viaf",
+      "viaf-id",
+      "viaf_id"
+    ],
+    "Wikidata": [
+      "wikidata",
+      "wikidata-id",
+      "wikidata_id"
+    ],
+    "GeoNames": [
+      "geonames",
+      "geonames-id",
+      "geonames_id"
+    ],
+    "Glottolog": [
+      "glottolog",
+      "glottolog-id",
+      "glottolog_id"
+    ],
+    "PeriodO": [
+      "periodo",
+      "periodo-id",
+      "periodo_id"
+    ],
+    "World Historical Gazetteer": [
+      "whg",
+      "whg-id",
+      "whg_id"
+    ]
+  },
+  "uriTemplates": {
+    "fast": "http://id.worldcat.org/fast/{id}",
+    "lcsh": "http://id.loc.gov/authorities/subjects/{id}",
+    "lcnaf": "http://id.loc.gov/authorities/names/{id}",
+    "getty aat": "http://vocab.getty.edu/aat/{id}",
+    "getty tgn": "http://vocab.getty.edu/tgn/{id}",
+    "viaf": "https://viaf.org/viaf/{id}",
+    "wikidata": "https://www.wikidata.org/entity/{id}",
+    "geonames": "https://www.geonames.org/{id}",
+    "glottolog": "https://glottolog.org/resource/languoid/id/{id}",
+    "periodo": "http://n2t.net/ark:/99152/{id}",
+    "world historical gazetteer": "https://whgazetteer.org/places/{id}"
+  }
+}

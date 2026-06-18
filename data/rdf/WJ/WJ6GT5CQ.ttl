@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WJ6GT5CQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Bêtes Noires" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WJ6GT5CQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WJ6GT5CQ" ;
+  schema:description "Lauren Derby explores storytelling traditions between the people of Haiti and the Dominican Republic, focusing on shapeshifting spirit demons called baka/bacá as a way to reckon with a shared history of enslavement, colonialism, and exploitation." ;
+  schema:author "Lauren Derby" ;
+  schema:datePublished "2025" ;
+  dcterms:subject "Geography", "History", "Narrative", "Sociology" .

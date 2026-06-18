@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/9WJ72KMT>
+  a schema:ScholarlyArticle ;
+  schema:name "Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9WJ72KMT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9WJ72KMT" ;
+  schema:description "Schnell Raymond. Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale. In: Journal de la Société des Africanistes, 1946, tome 16. pp. 29-38." ;
+  schema:author "Schnell, Raymond" ;
+  schema:datePublished "1946" ;
+  schema:publisher "Journal de la Société des Africanistes" ;
+  schema:sameAs <https://doi.org/10.3406/jafr.1946.2570> ;
+  dcterms:identifier "doi:10.3406/jafr.1946.2570" ;
+  dcterms:subject "Botanical" .

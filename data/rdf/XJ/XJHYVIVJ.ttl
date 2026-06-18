@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/XJHYVIVJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Novel Starch/Chitosan/Aloe Vera Composites as Promising Biopackaging Materials" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XJHYVIVJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XJHYVIVJ" ;
+  schema:description "Abstract Edible films based on potato starch, chitosan and Aloe vera gel (AV) as modifiers were evaluated towards their potential application in food or cosmetics industry. The films, with different AV gel concentration were prepared by casting method. The influence of UV radiation on samples chemical structure was analyzed. The surface morphology was observed with AFM method. The chemical structure and molecular arrangement of mixture components were analyzed with ATR–FTIR spectroscopy and X-ray diffraction. Hydrogen bond interactions among the film components, conformational rearrangements as well as changes in crystallinity degree were confirmed. A study of thermal resistance showed the delay of degradation observed together with an increase AV gel amount and after UV-irradiation. The hydrophilic character of the samples was proved. Water solubility slightly depends on the AV concentration in films, and it decrease after UV-irradiation. All the samples with AV gain the increase resistance to microbial action." ;
+  schema:author "Dagmara Bajer" ;
+  schema:creator "Katarzyna Janczak", "Krzysztof Bajer" ;
+  schema:datePublished "2020" ;
+  schema:publisher "Journal of Polymers and the Environment" ;
+  schema:sameAs <https://doi.org/10.1007/s10924-020-01661-7> ;
+  dcterms:identifier "doi:10.1007/s10924-020-01661-7" ;
+  dcterms:subject "Nanocomposite Films for Food Packaging", "Postharvest Quality and Shelf Life Management", "biodegradable polymer synthesis and properties" .

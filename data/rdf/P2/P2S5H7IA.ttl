@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/P2S5H7IA>
+  a schema:Book ;
+  schema:name "Calabar on the Cross River : historical and cultural studies" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=P2S5H7IA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:P2S5H7IA" ;
+  schema:description "From about the middle of the seventeenth century, Calabar emerged as a vibrant entrepôt where Europeans traded with coastal merchants to purchase enslaved people and raw materials destined for the Americas and Europe. Referred to as \"Old Calabar\" in the historical sources, this busy port was located on the eastern side of the Calabar River at the confluence with the Cross River and was the center of a vast network of international trade extending to the Grassfields region of Cameroon and to the Benue River valley directly north. The essays in this volume examine different periods of Calabar history, with reference to the early merchant accounts of local customs, twentieth-century reports of colonial historians and anthropologists, and late twentieth-century analysis by a new wave of Nigerian, Cameroonian and many international scholars. The wide breadth of these studies shows the historical importance of this small city in the Atlantic world, despite its relative loss of much of its economic and political centrality today. In terms of coverage and diversity of themes, this volume is perhaps the most important work on the historic region we have come to know as the Bight of Biafra; an intellectual cocktail of historical, anthropological, economic, social, political, gender, and migration studies. --Raphael Chijioke Njoku Idaho State University A valuable collection that explores a town that played a prominent role in Atlantic trade. In deepening our understanding of the African experience in the complex transformative role of trade on African societies, the volume presents a wonderful African perspective on Atlantic studies. --Carolyn Brown, Rutgers University" ;
+  schema:author "Imbua, David", "Lovejoy, Paul E", "Miller, Ivor" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Africa World Press" ;
+  dcterms:identifier "isbn:978-1-56902-571-0" ;
+  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "West African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

@@ -1,0 +1,119 @@
+{
+  "key": "C7SSJSFC",
+  "uri": "https://medjat.irokosociety.org/id/library/C7SSJSFC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C7SSJSFC",
+  "zotero": {
+    "group": "6479329",
+    "key": "C7SSJSFC",
+    "version": 1032,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C7SSJSFC",
+    "dateAdded": "2026-05-19T13:27:34Z",
+    "dateModified": "2026-05-19T13:27:34Z"
+  },
+  "display": {
+    "title": "Spirited Identities: Creole Religions, Creole/U.S. Latina Literature, and the Initiated Reader",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Margarite Fernández Olmos"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "Palgrave Macmillan US eBooks",
+    "journalAbbreviation": "Palgrave Macmillan US eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "63-92",
+    "abstract": "In nineteenth-century Caribbean, while the three major African-derived religions in Cuba—La Regla de Ocha (the Rule of the Orisha) or Santería (the way of the saints), Regla de Palo, and the Abakuá Secret Society—were undergoing a consolidation, Spiritualist and Spiritist practices of North America and Europe were making their way across the seas to the region and to Latin America for yet another spiritual transformation. The enthusiasm for Spiritist philosophical, religious, and healing notions were a response to several important factors in nineteenth- and twentieth-century Caribbean societies, among them the social upheaval created by the quest for democracy and the Diaspora of Caribbean peoples to the United States, a situation not unlike the present day. The Creolization process led to the creation of distinctly Cuban and Puerto Rican varieties of Spiritism—Espiritismo—and, in the Diaspora to the United States, the combination of Spiritism and Santería, often referred to as Santerismo.KeywordsSecret SocietySpirit WorldSpiritual IntelligenceAncestor SpiritSpirit GuideThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+    "doi": "10.1057/9780230609266_4",
+    "url": "https://doi.org/10.1057/9780230609266_4",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Margarite Fernández Olmos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Spirited Identities: Creole Religions, Creole/U.S. Latina Literature, and the Initiated Reader"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2007."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "63-92 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1057/9780230609266_4"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/C7/C7SSJSFC.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1057/9780230609266_4"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

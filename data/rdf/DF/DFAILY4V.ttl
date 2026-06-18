@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/DFAILY4V>
+  a schema:ScholarlyArticle ;
+  schema:name "Cu Nanoparticles in Hydrogels of Chitosan-PVA Affects the Characteristics of Post-Harvest and Bioactive Compounds of Jalapeño Pepper" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DFAILY4V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DFAILY4V" ;
+  schema:description "Peppers are consumed all over the world due to the flavor, aroma, and color that they add to food. Additionally, they play a role in human health, as they contain a high concentration of bioactive compounds and antioxidants. The treatments used were an absolute control, Cs-PVA, and four treatments with 0.02, 0.2, 2, and 10 mg (nCu) g−1 (Cs-PVA). The application of Cu nanoparticles in chitosan-PVA hydrogels increases the content of capsaicin by up to 51% compared to the control. This application also increases the content of antioxidants ABTS [2,2′-azino-bis (3-ethylbenzothiazolin-6-sulfonic acid)] and DPPH (2,2-diphenyl-1-picrylhydrazyl), total phenols and flavonoids (4%, 6.6%, 5.9%, and 12.7%, respectively) in jalapeño pepper fruits stored for 15 days at room temperature; under refrigeration, it increases DPPH antioxidants, total phenols, and flavonoids (23.9%, 1.54%, and 17.2%, respectively). The application of Cu nanoparticles in chitosan-PVA hydrogels, even when applied to the substrate, not only has an effect on the development of the jalapeño pepper crop, but also modifies the post-harvest characteristics of the jalapeño pepper fruits." ;
+  schema:author "Zeus H. Pinedo-Guerrero" ;
+  schema:creator "Alma Delia Hernández-Fuentes", "Hortensia Ortega‐Ortíz", "Adalberto Benavides‐Mendoza", "Gregorio Cadenas‐Pliego", "Antonio Juárez‐Maldonado" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Molecules" ;
+  schema:sameAs <https://doi.org/10.3390/molecules22060926> ;
+  dcterms:identifier "doi:10.3390/molecules22060926" ;
+  dcterms:subject "Nanocomposite Films for Food Packaging", "Piperaceae Chemical and Biological Studies", "Postharvest Quality and Shelf Life Management" .

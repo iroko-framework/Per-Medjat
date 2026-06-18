@@ -1,0 +1,108 @@
+{
+  "key": "NPRU6PB2",
+  "uri": "https://medjat.irokosociety.org/id/library/NPRU6PB2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NPRU6PB2",
+  "zotero": {
+    "group": "6479329",
+    "key": "NPRU6PB2",
+    "version": 3510,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NPRU6PB2",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Performing Anti-Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gay Gibson Cima"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Cambridge University Press eBooks",
+    "publicationTitle": "Cambridge University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Cambridge University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In Performing Anti-Slavery, Gay Gibson Cima reimagines the connection between the self and the other within activist performance, providing fascinating new insights into women&amp;apos;s nineteenth-century reform efforts, revising the history of abolition, and illuminating an affective repertoire that haunts both present-day theatrical stages and anti-trafficking organizations. Cima argues that black and white American women in the nineteenth-century abolitionist movement transformed mainstream performance practices into successful activism. In family circles, literary associations, religious gatherings, and transatlantic anti-slavery societies, women debated activist performance strategies across racial and religious differences: they staged abolitionist dialogues, recited anti-slavery poems, gave speeches, shared narratives, and published essays. Drawing on liberal religious traditions as well as the Eastern notion of transmigration, Elizabeth Chandler, Sarah Forten, Maria W. Stewart, Sarah Douglass, Lucretia Mott, Ellen Craft and others forged activist pathways that reverberate to this day.",
+    "doi": "10.1017/cbo9781107447653",
+    "url": "https://doi.org/10.1017/cbo9781107447653",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Asian American and Pacific Histories",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gay Gibson Cima"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Performing Anti-Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press eBooks, 2014."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1017/cbo9781107447653"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian American and Pacific Histories"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NP/NPRU6PB2.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1017/cbo9781107447653"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

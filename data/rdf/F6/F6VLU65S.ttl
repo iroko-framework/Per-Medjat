@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/F6VLU65S>
+  a schema:Thesis ;
+  schema:name "FROM MORAL CONDEMNATION TO ECONOMIC STRATEGIES: REFRAMING THE END OF THE BRITISH TRANSATLANTIC SLAVE TRADE" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F6VLU65S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F6VLU65S" ;
+  schema:description "Why did Great Britain abolish the transatlantic slave trade in 1807, after a nearly twenty-year social movement campaign to end it? This question still continues to puzzle scholars despite the vast amount of historical research conducted on the subject since the beginning of the twentieth century. In this dissertation, I use social movement theory and a two-tiered empirical approach to examine British slave trade abolition. Systematic qualitative and quantitative analyses of the legislative debates on the slave trade underscores the importance of abolitionists’ rhetorical strategies and the economic utility of Britain’s departure from the trade. A frame analysis of abolitionists’ speeches made during the parliamentary debates suggests that a law to end the slave trade was passed when abolitionist MPs deliberately reframed their ideological campaign to include an increased number of economic pleas in their arguments. Drawing on key aspects of social movement theory, I examine the relationship between resource mobilization, cultural framing and opportunity structures (both political and non-political) and British abolition. My findings suggest that cultural, economic and political factors help to explain why the British slave trade was finally abolished." ;
+  schema:author "Marlene Santin" ;
+  schema:datePublished "2014" ;
+  schema:publisher "MacSphere (McMaster University)" ;
+  dcterms:subject "Global trade and economics", "International Development and Aid", "Russia and Soviet political economy" .

@@ -1,0 +1,100 @@
+{
+  "key": "ZG549K7E",
+  "uri": "https://medjat.irokosociety.org/id/library/ZG549K7E",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZG549K7E",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZG549K7E",
+    "version": 3528,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZG549K7E",
+    "dateAdded": "2026-06-17T15:29:54Z",
+    "dateModified": "2026-06-17T15:29:54Z"
+  },
+  "display": {
+    "title": "The Cultural War Over Reparations for Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alfred L. Brophy"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "eYLS (Yale Law School)",
+    "publicationTitle": "eYLS (Yale Law School)",
+    "bookTitle": "",
+    "journalAbbreviation": "eYLS (Yale Law School)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "53",
+    "issue": "3",
+    "pages": "1181",
+    "abstract": "The Cultural War Over Reparations maps the differences in perspectives on reparations between supporters and skeptics It asks why there is a difference in support for reparations among blacks and whites What is it about reparations that makes them so controversial It then assesses the goals of reparationists such as apologies and truth commissions accounting for past wrongs and addressing those wrongs through programs of community empowerment Then it turns to the reparations skeptics arguments There are four key groups of arguments against reparations There is no moral or legal liability compensation has already been made reparations are unworkable or not politically practicable and reparations are divisive which is at the center of the cultural war The essay suggests that there may be further accounting of past injustices but that compensation is perhaps unattainable at least in the near term",
+    "doi": "",
+    "url": "https://scholarship.law.ua.edu/fac_working_papers/368",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alfred L. Brophy"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Cultural War Over Reparations for Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "eYLS (Yale Law School), 2004."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1181 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/ZG/ZG549K7E.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/AP5PI4GF>
+  a schema:Chapter ;
+  schema:name "Cuban Freemasons in the Development of Civil Society and Political Opening" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AP5PI4GF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AP5PI4GF" ;
+  schema:description "During a 2006 Bildner Center symposium called Cuba Futures, several papers on the embryonic Cuban civil society were presented. They discussed a number of groups inside the island that ranged from Catholics to the Abakuá and from internal dissidents to the remnants of the small Jewish community in Havana. We noticed how such patterns were also present in other forums such as the Association for the Study of the Cuban Economy (ASCE). Somehow, researchers failed to recognize one civil society organization that has continuously existed in Cuba for over 150 years, with nearly 30,000 members, distributed among 314 lodges, in every province, town, and city in the country: the Cuban Freemasons of the Grand Lodge of Cuba (CF/GLC)." ;
+  schema:author "Jorge Luis Romeu" ;
+  schema:datePublished "2015" ;
+  schema:sameAs <https://doi.org/10.4324/9781315634234-31> ;
+  dcterms:identifier "doi:10.4324/9781315634234-31" ;
+  dcterms:subject "Cuban History and Society" .

@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/YXGKLVUM>
+  a schema:CreativeWork ;
+  schema:name "Pierre Verger, 93, Photographer And a Brazilian Voodoo Priest" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YXGKLVUM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YXGKLVUM" ;
+  schema:author "Thomas Jr., Robert Mcg." ;
+  schema:datePublished "1996" ;
+  schema:publisher "The New York Times" ;
+  dcterms:subject "Voodoo" .

@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SZUCIYXM>
+  a schema:Book ;
+  schema:name "Constructing Modern Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SZUCIYXM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SZUCIYXM" ;
+  schema:description "Modern slavery laws are a response to global capitalism, which undermines the distinction between free and unfree labour and poses intense challenges to state sovereignty. Instead of being a solution, Constructing Modern Slavery argues that modern slavery laws divert attention from the underlying structures and processes that generate exploitation. Focusing on unfree labour associated with international immigration and global supply chains, it provides a novel socio-legal genealogy of the concept 'modern slavery' through a series of linked case studies of influential actors associated with key legal instruments: the United Nations, the United States, the International Labour Organization, the European Union, the United Kingdom, and Walk Free Foundation. Constructing Modern Slavery demonstrates that despite the best efforts of academics, advocates, and policymakers to develop a truly multifaceted approach to modern slavery, it is difficult to uncouple antislavery initiatives from the conservative moral and economic agendas with which they are aligned. This title is also available as Open Access on Cambridge Core." ;
+  schema:author "Judy Fudge" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Cambridge University Press eBooks" ;
+  schema:sameAs <https://doi.org/10.1017/9781108562058> ;
+  dcterms:identifier "doi:10.1017/9781108562058" ;
+  dcterms:subject "Corporate Law and Human Rights", "International Labor and Employment Law", "Labor Movements and Unions" .

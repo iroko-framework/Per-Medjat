@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/2XYNF3UF>
+  a schema:Chapter ;
+  schema:name "Mexican Cochineal, Local Technologies and the Rise of Global Trade from the Sixteenth to the Nineteenth Centuries" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2XYNF3UF> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2XYNF3UF" ;
+  schema:description "The history of Mexican cochineal over several centuries represents a key chapter in the origins of early modern globalization, both cultural and economic, since this dye was the most expensive in the world from the sixteenth to the eighteenth centuries as a result of the consistent demand for luxury textiles—dyed with bright crimson, scarlet or purple colours—by monarchs, the hierarchy of the Catholic Church and aristocrats in Europe, as well as amongst the very wealthy almost everywhere. In this chapter, emphasis is placed on a series of elements which relate to the question of how some special commodities—in this case cochineal—produced in the early modern era by peasants in non-European regions came to play a major role in stimulating global trade and contributed to textile protoindustrialization in other continents." ;
+  schema:author "Carlos Marichal" ;
+  schema:datePublished "2017" ;
+  schema:sameAs <https://doi.org/10.1007/978-981-10-4053-5_12> ;
+  dcterms:identifier "doi:10.1007/978-981-10-4053-5_12" ;
+  dcterms:subject "Latin American history and culture" .

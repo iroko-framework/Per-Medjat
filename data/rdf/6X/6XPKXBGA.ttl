@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6XPKXBGA>
+  a schema:ScholarlyArticle ;
+  schema:name "Reshuffling the pack : the transition from slavery to other forms of labor in the British Caribbean, ca. 1790-1890" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6XPKXBGA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6XPKXBGA" ;
+  schema:description "Analysis of a century of (evolutionary) socio-economic transition in the British Caribbean. According to the author, this process demonstrated aspects of a continuum, rather than sharply marked phases and abrupt changes. Before the abolition of slavery slaves behaved as proto-peasants and proto-proletarians and many aspects of slavery survived the abolition." ;
+  schema:author "Michael Craton" ;
+  schema:datePublished "1994" ;
+  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
+  schema:sameAs <https://doi.org/10.1163/13822373-90002659> ;
+  dcterms:identifier "doi:10.1163/13822373-90002659" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Economic Zones and Regional Development" .

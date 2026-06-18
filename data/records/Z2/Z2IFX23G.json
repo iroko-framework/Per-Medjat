@@ -1,0 +1,137 @@
+{
+  "key": "Z2IFX23G",
+  "uri": "https://medjat.irokosociety.org/id/library/Z2IFX23G",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Z2IFX23G",
+  "zotero": {
+    "group": "6479329",
+    "key": "Z2IFX23G",
+    "version": 3504,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Z2IFX23G",
+    "dateAdded": "2026-06-17T15:29:53Z",
+    "dateModified": "2026-06-17T15:29:53Z"
+  },
+  "display": {
+    "title": "Modern Slavery in Projects: A Systematic Literature Review and Research Agenda",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Yazan Alzoubi"
+      },
+      {
+        "role": "editor",
+        "name": "Giorgio Locatelli"
+      },
+      {
+        "role": "editor",
+        "name": "Tristano Sainati"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Project Management Journal",
+    "publicationTitle": "Project Management Journal",
+    "bookTitle": "",
+    "journalAbbreviation": "Project Management Journal",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "54",
+    "issue": "3",
+    "pages": "235-252",
+    "abstract": "It is estimated that 40.3 million individuals are victims of modern slavery, including those exploited in projects. In project studies, there are growing research streams on topics, such as ethics, sustainability and fairness, yet modern slavery is vastly ignored. This article presents a systematic literature review on modern slavery. After summarizing the main forms and consequences of modern slavery, it focuses on construction projects explaining the structural conditions making construction projects prone to modern slavery, the kafala system, and what can be done to address modern slavery. Lastly, the article introduces propositions, a research agenda, and implications for practice.",
+    "doi": "10.1177/87569728221148158",
+    "url": "https://doi.org/10.1177/87569728221148158",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "HIV, Drug Use, Sexual Risk",
+      "Sex work and related issues",
+      "Water Governance and Infrastructure"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Yazan Alzoubi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Modern Slavery in Projects: A Systematic Literature Review and Research Agenda"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Project Management Journal, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "235-252 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1177/87569728221148158"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "HIV, Drug Use, Sexual Risk"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Water Governance and Infrastructure"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Giorgio Locatelli"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Tristano Sainati"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/Z2/Z2IFX23G.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1177/87569728221148158"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

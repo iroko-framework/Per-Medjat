@@ -1,0 +1,119 @@
+{
+  "key": "749UNL9R",
+  "uri": "https://medjat.irokosociety.org/id/library/749UNL9R",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=749UNL9R",
+  "zotero": {
+    "group": "6479329",
+    "key": "749UNL9R",
+    "version": 3807,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/749UNL9R",
+    "dateAdded": "2026-06-17T15:29:56Z",
+    "dateModified": "2026-06-17T15:29:56Z"
+  },
+  "display": {
+    "title": "Activist Religion, Empire, and the Emergence of Modern Long-Distance Advocacy Networks",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Peter Stamatov"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "American Sociological Review",
+    "publicationTitle": "American Sociological Review",
+    "bookTitle": "",
+    "journalAbbreviation": "American Sociological Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "75",
+    "issue": "4",
+    "pages": "607-628",
+    "abstract": "Considering long-distance advocacy as a distinctive institution of European modernity, the article examines the genesis and history of networks engaged in political action on behalf of distant others. Ever since the beginnings of European expansion overseas in the sixteenth century, such networks have originated from a persistent pattern of radicalization of religious actors against rival networks within the context of empire. In the late eighteenth century, the very same processes led to the establishment of modern forms of long-distance advocacy, with the international movement against colonial slavery and the slave trade. Throughout, long-distance advocacy was initiated and carried out by distinctively reformist and activist religious organizations within Catholicism and Protestantism. These findings highlight the importance of religious organizations in the imperial context for the configuration of modern forms of political activism.",
+    "doi": "10.1177/0003122410374083",
+    "url": "https://doi.org/10.1177/0003122410374083",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Religion and Society Interactions",
+      "Religion, Society, and Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Peter Stamatov"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Activist Religion, Empire, and the Emergence of Modern Long-Distance Advocacy Networks"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "American Sociological Review, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "607-628 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1177/0003122410374083"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society Interactions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion, Society, and Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/74/749UNL9R.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1177/0003122410374083"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

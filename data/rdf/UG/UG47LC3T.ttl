@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/UG47LC3T>
+  a schema:ScholarlyArticle ;
+  schema:name "<i>Cultus, Cult, and Cults</i>" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=UG47LC3T> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:UG47LC3T" ;
+  schema:description "Library of Congress Subject Headings (LCSH) contains 244 subject headings that use the term “Cult” somewhere in the record. Many of the uses of “Cult” in LCSH are inaccurate, offensive, and outdated. This article is an analysis of the problem and a proposal for how to begin addressing the issues with “Cult” in LCSH." ;
+  schema:author "Jamie Carlstone" ;
+  schema:creator "Ermine Algaier" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Theology cataloging bulletin" ;
+  schema:sameAs <https://doi.org/10.31046/tcb.v32i1.3414> ;
+  dcterms:identifier "doi:10.31046/tcb.v32i1.3414" ;
+  dcterms:subject "American Constitutional Law and Politics", "Biblical Studies and Interpretation", "Mormonism, Religion, and History" .

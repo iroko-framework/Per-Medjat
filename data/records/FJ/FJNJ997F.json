@@ -1,0 +1,129 @@
+{
+  "key": "FJNJ997F",
+  "uri": "https://medjat.irokosociety.org/id/library/FJNJ997F",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FJNJ997F",
+  "zotero": {
+    "group": "6479329",
+    "key": "FJNJ997F",
+    "version": 3962,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FJNJ997F",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Review on cadmium removal from aqueous solutions",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "K Rao"
+      },
+      {
+        "role": "editor",
+        "name": "Mamata Mohapatra"
+      },
+      {
+        "role": "editor",
+        "name": "S. Anand"
+      },
+      {
+        "role": "editor",
+        "name": "Putcha Venkateswarlu"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "International Journal of Engineering Science and Technology",
+    "publicationTitle": "International Journal of Engineering Science and Technology",
+    "bookTitle": "",
+    "journalAbbreviation": "International Journal of Engineering Science and Technology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "issue": "7",
+    "pages": "",
+    "abstract": "Cadmium is known to be toxic for living organism even if it is present in low levels. Generally it is associated with zinc and copper minerals and is produced as a byproduct of these industries. It enters the environment from electroplating, smelting, alloy manufacturing, pigments, plastic, cadmium-nickel batteries, fertilizers, pesticides, mining, pigments and dyes, textile operations and refining industries. Various ways of cadmium removal are: precipitation, ion exchange, solvent extraction and adsorption. The present review specifically describes various types of adsorbents which have been used for removing cadmium from aqueous solutions. General emphasis has been on the utilization of agricultural, industrial wastes and low cost synthetic oxides as adsorbents. In most of the studies batch mode data has been evaluated by determining the kinetic, isothermic and thermodynamic parameters. A number of studies have also addressed the mechanism of adsorption process employing instrumental techniques such as XRD, FTIR, SEM etc. Modeling of column data has also been reported by some researchers. More attention needs to be given for regeneration/reuse/ safe disposal of the loaded adsorbents wherein the data are insufficient. The engineering aspects also need attention for commercial application of various adsorbents. International Journal of Engineering, Science and Technology, Vol. 2, No. 7, 2010, pp. 81-103",
+    "doi": "10.4314/ijest.v2i7.63747",
+    "url": "https://doi.org/10.4314/ijest.v2i7.63747",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Adsorption and biosorption for pollutant removal"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "K Rao"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Review on cadmium removal from aqueous solutions"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "International Journal of Engineering Science and Technology, 2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4314/ijest.v2i7.63747"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Adsorption and biosorption for pollutant removal"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Mamata Mohapatra"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "S. Anand"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Putcha Venkateswarlu"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/FJ/FJNJ997F.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4314/ijest.v2i7.63747"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

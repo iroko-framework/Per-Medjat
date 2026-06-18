@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PLHEBWD9>
+  a schema:Thesis ;
+  schema:name "Hearts divided: The marriage and family of Elizabeth and William Wirt, 1802-1834" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PLHEBWD9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PLHEBWD9" ;
+  schema:description "This joint biography of Elizabeth Gamble Wirt (1784-1857) and William Wirt (1772-1834) tells the story of a middle-class couple in the upper South from 1802 to 1834. The Wirts were members of the emerging urban professional class in the nineteenth-century United States. William Wirt was U.S. Attorney General from 1817 to 1829 and a literary figure who contributed to the legend of the Old South. Elizabeth Wirt was the first American to author a book on the \"language of flowers.\" Although both Elizabeth and William Wirt wrote for publication, their most prolific writings were personal and family correspondence. William Wirt's law practice in Virginia, Washington, D.C., and Maryland separated the couple for many months each year. While apart, the Wirts wrote letters that covered every aspect of their lives: their desire for companionship in their marriage and family; their experiments in modern childrearing; their respective roles in their domestic economy; their supervision of slaves and servants in household production; and their gender roles as husband and wife, father and mother, and master and mistress.\\nWhen Elizabeth and William Wirt married in 1802, they hoped to achieve equality and reciprocity in their marriage. As partners in both love and finances, they planned to make their union the nucleus of a family defined by affection, not by social prescriptions of masculinity and femininity. While the Wirts embraced the ideals of domesticity, they resisted the division of men's lives and women's lives into the separate spheres of home and work. This study documents the Wirts' repeated redefinition of gender roles throughout their marriage. Elizabeth and William Wirt never achieved the high standards they set for themselves, but their lives and letters deepen our understanding of men, women, and the family in nineteenth-century America.\\nUsing interdisciplinary insights from scholarship on religion, architecture, and literature as well as United States social history, women, and families, this study contributes to the fields of women's history, gender studies, the history of childhood education, nineteenth-century America, and the U.S. South." ;
+  schema:author "Anya Jabour" ;
+  schema:datePublished "1995" ;
+  schema:publisher "Rice Digital Scholarship Archive (Rice University)" ;
+  dcterms:subject "American Constitutional Law and Politics", "Historical Economic and Social Studies" .

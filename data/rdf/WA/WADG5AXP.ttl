@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/WADG5AXP>
+  a schema:ScholarlyArticle ;
+  schema:name "Migration and the historical formation of Latin America in a global perspective" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WADG5AXP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WADG5AXP" ;
+  schema:description "Abstract In this article I analyse how transcontinental migrations, the various forms that these took (Paleolithic first settlement, conquest and colonialism, slavery, free mass movements, and mercantile diasporas), and the way these interacted in the receiving environments, shaped the historical formation of Latin America. The article shows how these interactions explain the key apparent contradictions of Latin America: that it is both the most racially diverse and the most culturally homogeneous region in the world; that it has the highest crime/homicide rates but also the lowest levels of civil and international wars, holocausts, and other forms of collective violence; and that it has the highest levels of social inequality in the world but also some of its historically most egalitarian areas." ;
+  schema:author "José C. Moya" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Sociologias" ;
+  schema:sameAs <https://doi.org/10.1590/15174522-02004902> ;
+  dcterms:identifier "doi:10.1590/15174522-02004902" ;
+  dcterms:subject "Culture, Economy, and Development Studies", "Political Conflict and Governance" .

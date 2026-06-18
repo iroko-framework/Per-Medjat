@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/NF8BYSQD>
+  a schema:ScholarlyArticle ;
+  schema:name "Enslaved Fugitives in the Lesser Antilles, 1760s-1860s" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NF8BYSQD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NF8BYSQD" ;
+  schema:author "Simonsen, Gunvor", "Christensen, Rasmus", "Freund, Heather", "Fricke, Felicia", "Croix, Gabriëlle La" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Journal of Slavery and Data Preservation" ;
+  schema:sameAs <https://doi.org/10.14321/jsdp.7.1.0001> ;
+  dcterms:identifier "doi:10.14321/jsdp.7.1.0001" ;
+  dcterms:language "English" .

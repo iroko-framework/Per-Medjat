@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/SC2T9H7A>
+  a schema:Chapter ;
+  schema:name "5 Creole African Traditions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=SC2T9H7A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:SC2T9H7A" ;
+  schema:description "The importation of large numbers of Africans for slave labor plantations introduced numerous ethnic groups and their cultural heritages to the Caribbean. This chapter deals with creole religious traditions created by Africans, which have maintained many of their African elements despite being fused with elements encountered in the Caribbean. These include Santería, Palo Monte, Abakuá, and Vodou. Among Spanish colonists, the religio-philosophical system of Espiritismo became an alternative for Catholics who were becoming increasingly alienated from the institutional Catholic Church. The origins, beliefs, and rituals of each religion are discussed in turn. A fundamental aspect of the development of these religious traditions is their African roots, which are central for understanding their transformation into creole traditions in the Americas." ;
+  schema:author "Ennis B. Edmonds" ;
+  schema:creator "Michelle A. González" ;
+  schema:datePublished "2016" ;
+  schema:sameAs <https://doi.org/10.18574/nyu/9780814722343.003.0005> ;
+  dcterms:identifier "doi:10.18574/nyu/9780814722343.003.0005" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .

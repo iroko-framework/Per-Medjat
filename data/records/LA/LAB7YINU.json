@@ -1,0 +1,107 @@
+{
+  "key": "LAB7YINU",
+  "uri": "https://medjat.irokosociety.org/id/library/LAB7YINU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LAB7YINU",
+  "zotero": {
+    "group": "6479329",
+    "key": "LAB7YINU",
+    "version": 2073,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LAB7YINU",
+    "dateAdded": "2026-05-19T14:19:23Z",
+    "dateModified": "2026-05-19T14:19:23Z"
+  },
+  "display": {
+    "title": "La réparation des séquelles de la traite négrière transatlantique et de l'esclavage colonial français : obstacles juridiques et perspectives politiques",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Windy Phele"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "publicationTitle": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "bookTitle": "",
+    "journalAbbreviation": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "French colonial slavery, introduced in the mid-17th century, was definitively abolished by decree on April 27, 1848. Described by this decree as an attack on human dignity, it was deemed incompatible with the values of the new Republic. The annihilation of this institution, which had been set up by the State and remained active for over two centuries, was not an easy task. It was out of the question to take slaves away from the colonists without compensation. It was a \"matter of justice», the French government stated. Like those in Saint-Domingue (Haïti), the colonists in the \"Four Old Colonies\" were therefore compensated. However, no compensation was provided for the former slaves and their heirs, who would consequently suffer this injustice from generation to generation. With the passage of time, slavery is now considered a crime against humanity, and their descendants are now demanding reparation. It's a daring, original approach, challenging French positive law, which is being put to the test to judge facts dating back more than two centuries. Would such an endeavor enables the claimants to obtain satisfaction through legal channels? If not, should the idea of reparation be abandoned or rejected altogether, or should extra-judicial mechanisms be created to satisfy the claims of the descendants of slaves? This thesis provides an answer by demonstrating that a form of reparation, albeit far removed from the judicial paradigm due to the obstacles in positive law that it has detailed, is not only possible, but above all achievable.",
+    "doi": "",
+    "url": "https://openalex.org/W7128116164",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Colonialism, slavery, and trade",
+      "Migration, Identity, and Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Windy Phele"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La réparation des séquelles de la traite négrière transatlantique et de l'esclavage colonial français : obstacles juridiques et perspectives politiques"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/LA/LAB7YINU.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "key": "TZHY8FUB",
+  "uri": "https://medjat.irokosociety.org/id/library/TZHY8FUB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TZHY8FUB",
+  "zotero": {
+    "group": "6479329",
+    "key": "TZHY8FUB",
+    "version": 2370,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TZHY8FUB",
+    "dateAdded": "2026-05-19T14:20:12Z",
+    "dateModified": "2026-05-19T14:20:12Z"
+  },
+  "display": {
+    "title": "TESTEMUNHA OCULAR DA INSERÇÃO DO NEGRO NA BRIGADA MILITAR DO RIO GRANDE DO SUL NO COMEÇO DA REPÚBLICA ATRAVÉS DAS FOTOGRAFIAS",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Marcelo Veber Goldani"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Americanae (AECID Library)",
+    "publicationTitle": "Americanae (AECID Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Americanae (AECID Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The Black arrived in Rio Grande do Sul as a slave to work in the ranches and the Charqueadas. As the province was constantly in the brink of war defending the southern border, he was also called to arms in the front lines, mainly as lancer. In the second half of the 19th century, emerged, at both national and international levels, the first manifestations for the ending of the slave system. During the imperial period there were law proposals for the control and extinction of forced labour. With the proclamation of the Republic (and the slavery abolished by law) public policies were adopted for the inclusion of the black in the class-based society. The abolitionist movements that arose prior to the Golden Law became organized movements. The Republic's first years were of much political instability for Brazil and Rio Grande do Sul. For that, the State Government turned the old Civic Guard into a well armed and trained militia for protection and maintenance of the government. This institution placed on record the Afro-Brazilian presence since its origin through settlement books and existing photography in Historical Center Coronel Pillar's collection. In the settlement books of the time we observe the subscription of countless black soldiers enlisted before the beginning of the Federalist Revolution. In the album published to honor the 30 years of the Military Brigad of the Rio Grande do Sul, in 1922, with more than 400 pictures, are shown at least 30 pictures portraying the presence of black in its ranks. In the sociocultural context at that time the Military Brigad was also used as a tool for insertion of the black into the social order. By reading the \"Orders of the Day\" it was possible to identify black inclusion actions in the institution. This way, an iconographic analysis methodology was applied and a multimedia platform was developed to house the elaborate cataloge. Thus, the analyzed pictures will be preserved and disclosed by accessible electronic media and available to other interested people.",
+    "doi": "",
+    "url": "http://repositorio.ufsm.br/handle/1/10996",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History of Education Research in Brazil",
+      "Rural and Ethnic Education",
+      "Urban and sociocultural dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Marcelo Veber Goldani"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "TESTEMUNHA OCULAR DA INSERÇÃO DO NEGRO NA BRIGADA MILITAR DO RIO GRANDE DO SUL NO COMEÇO DA REPÚBLICA ATRAVÉS DAS FOTOGRAFIAS"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Americanae (AECID Library), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Education Research in Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Rural and Ethnic Education"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban and sociocultural dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TZ/TZHY8FUB.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

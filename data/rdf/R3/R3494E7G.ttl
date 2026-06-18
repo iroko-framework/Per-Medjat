@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/R3494E7G>
+  a schema:Book ;
+  schema:name "Freedom's mirror: Cuba and Haiti in the age of revolution" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=R3494E7G> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:R3494E7G" ;
+  schema:description "\"The Haitian Revolution of 1791-1804 was the only slave rebellion in which slaves and former slaves succeeded in ending slavery and establishing an independent state, making it perhaps the most radical revolution of the modern world. Yet on the Spanish island of Cuba, barely fifty miles away, the events in Haiti helped usher in the antithesis of revolutionary emancipation. There, planters and authorities saw the devastation of their neighboring colony and rushed to prevent the same events from happening in Cuba by buttressing the institutions of slavery and colonial rule. Freedom's Mirror follows the reverberations of the Haitian Revolution in Cuba, where the violent entrenchment of slavery occurred at the very moment that the Haitian Revolution provided a powerful and proximate example of slaves destroying slavery. By linking two stories–the story of the Haitian Revolution and that of the rise of Cuban slave society–that are usually told separately, Ada Ferrer sheds fresh light on both of these crucial moments in Caribbean and Atlantic history\"–Provided by publisher." ;
+  schema:author "Ferrer, Ada" ;
+  schema:datePublished "2014" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:identifier "isbn:978-1-107-02942-2" ;
+  dcterms:subject "1791-1804 -- Influ", "Antislavery movements -- History -- 19th century", "Colonial administrators -- Cuba -- History -- 19th", "Counterrevolutionaries -- Cuba -- History -- 19th", "Cuba -- Politics and government -- 1810-1899", "Cuba -- Race relations -- History -- 19th century", "Haiti -- History -- Revolution", "Haiti -- Politics and government -- 1804-1844", "Plantation owners -- Cuba -- History -- 19th centu", "Revolutions -- History -- 19th century", "Slavery -- Political aspects -- Cuba -- History --" .

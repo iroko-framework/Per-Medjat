@@ -1,0 +1,107 @@
+{
+  "key": "NCI7848I",
+  "uri": "https://medjat.irokosociety.org/id/library/NCI7848I",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NCI7848I",
+  "zotero": {
+    "group": "6479329",
+    "key": "NCI7848I",
+    "version": 1302,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NCI7848I",
+    "dateAdded": "2026-05-19T13:28:47Z",
+    "dateModified": "2026-05-19T13:28:47Z"
+  },
+  "display": {
+    "title": "Grammatical Structure, Historical Development, and Religious Usage of Afro-Cuban Bozal Speech",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabel Castellanos"
+      }
+    ],
+    "year": "1990",
+    "date": "1990",
+    "publisher": "IUScholarWorks (Indiana University)",
+    "publicationTitle": "IUScholarWorks (Indiana University)",
+    "bookTitle": "",
+    "journalAbbreviation": "IUScholarWorks (Indiana University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "http://hdl.handle.net/2022/2093",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Linguistic Variation and Morphology",
+      "Multilingual Education and Policy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabel Castellanos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Grammatical Structure, Historical Development, and Religious Usage of Afro-Cuban Bozal Speech"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "IUScholarWorks (Indiana University), 1990."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistic Variation and Morphology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multilingual Education and Policy"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/NC/NCI7848I.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

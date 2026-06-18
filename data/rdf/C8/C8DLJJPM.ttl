@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/C8DLJJPM>
+  a schema:ScholarlyArticle ;
+  schema:name "Émile Ollivier : entre nostalgie et lucidité" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C8DLJJPM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C8DLJJPM" ;
+  schema:author "Stanley Péan" ;
+  schema:datePublished "2001" ;
+  schema:publisher "Érudit (Université de Montréal)" ;
+  dcterms:subject "Cultural Insights and Digital Impacts", "Historical Studies and Socio-cultural Analysis", "Historical and Scientific Studies" .

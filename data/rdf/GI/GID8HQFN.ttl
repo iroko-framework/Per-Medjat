@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/GID8HQFN>
+  a schema:Report ;
+  schema:name "Bizango" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GID8HQFN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GID8HQFN" ;
+  schema:description "\"Bizango\" was inspired by colorful Bizango warrior statues. The sculptures are human skeleton faces molded from clay and a stuffed body, so they almost look like scarecrows. Fabric is draped on the sculptures and the fabric is apparently randomly eased in at odd places and hand topstitched until the fabric fits taut against the form. The pleats look very free form and snake like. The technique was utilized for a portion of the design (the pant) while topping off the body form with a dichotomous tightly molded and loose fitting echo dyed drape. Blending inspiration from ancient body molded art forms and contemporary influences of McQueen's leather body molding helped create a nature-inspired ensemble. The finishing dying technique plays off the experimental work of Sherry Haar (2015), utilizing natural leaves, twigs and petals to complete the natural hide appearance of the warrior statue." ;
+  schema:author "Myra Briley" ;
+  schema:datePublished "2016" ;
+  schema:sameAs <https://doi.org/10.31274/itaa_proceedings-180814-1657> ;
+  dcterms:identifier "doi:10.31274/itaa_proceedings-180814-1657" ;
+  dcterms:subject "Digital Media and Visual Art" .

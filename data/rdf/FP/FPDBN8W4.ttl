@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/FPDBN8W4>
+  a schema:ScholarlyArticle ;
+  schema:name "Agbékà ọrọ Yoruba appropriate words and expressions in Yoruba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=FPDBN8W4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:FPDBN8W4" ;
+  schema:author "Delanọ, Isaac O. 1904-1979" ;
+  schema:datePublished "1960" ;
+  dcterms:subject "Historical Studies in Central America", "Lexicography and Language Studies", "Multilingual Education and Policy" .

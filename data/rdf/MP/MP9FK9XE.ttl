@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MP9FK9XE>
+  a schema:Book ;
+  schema:name "Los negros brujos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MP9FK9XE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MP9FK9XE" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1906" ;
+  schema:publisher "Librería de Fernando Fé" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .

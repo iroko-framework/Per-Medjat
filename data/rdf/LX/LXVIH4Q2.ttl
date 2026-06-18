@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/LXVIH4Q2>
+  a schema:ScholarlyArticle ;
+  schema:name "Les villes du Bénin méridional : entre nature et culture ?" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LXVIH4Q2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LXVIH4Q2" ;
+  schema:description "Dans les villes du Bénin méridional, la nature est d’abord présente au travers de la religion et des mythes. C’est elle en effet qui pourvoie en divinités. Un arbre, un bosquet urbain cachent souvent un sanctuaire, ou signalent l’emprise d’un couvent vodun. L’existence des forêts sacrées strictement protégées de la divinité Oro, donne un autre exemple de la survivance de la nature dans les villes de l’aire culturelle Yoruba Anago. Mais les hommes n’ont pas toujours été de connivence avec la nature. Leurs établissements se sont développés au détriment de celle-ci. Parfois même l’homme choisit consciemment, pour des raisons politiques, économiques, ou autres, de ravager la nature. Certaines actions ou politiques tendent toutefois à mettre à l’abri des convoitises quelques lambeaux de forêts sacrées par le biais d’une logique de patrimonialisation, de même que des pratiques citadines peuvent contribuer au maintien d’éléments naturels en ville." ;
+  schema:author "Noukpo Agossou" ;
+  schema:datePublished "2007" ;
+  schema:publisher "Géographie et cultures" ;
+  schema:sameAs <https://doi.org/10.4000/gc.2384> ;
+  dcterms:identifier "doi:10.4000/gc.2384" ;
+  dcterms:subject "African Botany and Ecology Studies", "African Studies and Ethnography", "Agriculture and Rural Development Research" .

@@ -1,0 +1,113 @@
+{
+  "key": "4PJRC3UW",
+  "uri": "https://medjat.irokosociety.org/id/library/4PJRC3UW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4PJRC3UW",
+  "zotero": {
+    "group": "6479329",
+    "key": "4PJRC3UW",
+    "version": 4086,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4PJRC3UW",
+    "dateAdded": "2026-06-17T15:31:08Z",
+    "dateModified": "2026-06-17T15:31:08Z"
+  },
+  "display": {
+    "title": "La platica de fray Domingo de Santo tomás (1560)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gérald Taylor"
+      }
+    ],
+    "year": "2001",
+    "date": "2001",
+    "publisher": "Bulletin de l’Institut français d’études andines",
+    "publicationTitle": "Bulletin de l’Institut français d’études andines",
+    "bookTitle": "",
+    "journalAbbreviation": "Bulletin de l’Institut français d’études andines",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "30 (3)",
+    "issue": "",
+    "pages": "427-453",
+    "abstract": "La Platica adressée à tous les Indiens et la formule de la Confession Générale sont les deux seuls témoignages du prêche prétridentin en quechua qui survivent jusqu'à nos jours et ceci grâce à leur incorporation comme échantillons de la langue générale dans la grammaire et le Lexicon composés par Domingo de Santo Tomás et publiés à Valladolid en 1560. Dans cet article, nous étudions la variante de la Langue Générale, véhicule de la Platica, et le lexique religieux élaboré par les premiers missionnaires afin d'expliquer la foi chrétienne aux Indiens. La version normalisée du texte quechua est suivie d’une traduction française annotée. Des annexes reproduisent le texte quechua original avec les gloses espagnoles établies par Santo Tomás, le document espagnol qui a servi de modèle à l'élaboration du texte quechua et la transcription de la Confession Générale, sa reformulation en quechua normalisé et sa traduction française.",
+    "doi": "10.4000/bifea.7039",
+    "url": "https://doi.org/10.4000/bifea.7039",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Early Modern Spanish Literature",
+      "Spanish Linguistics and Language Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gérald Taylor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La platica de fray Domingo de Santo tomás (1560)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Bulletin de l’Institut français d’études andines, 2001."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "427-453 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/bifea.7039"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Early Modern Spanish Literature"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Linguistics and Language Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/4P/4PJRC3UW.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/bifea.7039"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

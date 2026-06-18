@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Y9BCVCBN>
+  a schema:ScholarlyArticle ;
+  schema:name "Explorando topologias possíveis: escrevinhando movimentações nos rituais abakuás" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Y9BCVCBN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Y9BCVCBN" ;
+  schema:description "O ensaio segue as diferentes etapas do ritual Plante realizado pela sociedade abakuá, uma confraria masculina responsável por práticas religiosas e ações sociais de ajuda mútua em Cuba. O ensaio mostra um jogo entre as dimensões externas e internas presentes nas movimentações espaciais formuladas pelo sagrado durante o referido ritual. As fotografias são sempre externas e distanciadas e, de diferentes pontos de vista, capturam a árvore sagrada Ceiba e as posições ocupadas pelos abakuás em momentos centrais do Plante. Os diagramas, por sua vez, buscam retraçar as movimentações e direções rituais (feitas somente pelos homens) e as posicionalidades da Ceiba, do templo e das mulheres que observam o ritual externamente. Diagramas e fotografias produzem, então, uma topologia própria do fazer etnográfico." ;
+  schema:author "Francisca Marcela Andrade Lucena" ;
+  schema:datePublished "2023" ;
+  schema:publisher "Cadernos de Campo (São Paulo 1991)" ;
+  schema:sameAs <https://doi.org/10.11606/issn.2316-9133.v32i2pe214857> ;
+  dcterms:identifier "doi:10.11606/issn.2316-9133.v32i2pe214857" ;
+  dcterms:subject "Amazonian Archaeology and Ethnohistory" .

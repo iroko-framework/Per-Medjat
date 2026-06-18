@@ -1,0 +1,114 @@
+{
+  "key": "XUX7YJTX",
+  "uri": "https://medjat.irokosociety.org/id/library/XUX7YJTX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XUX7YJTX",
+  "zotero": {
+    "group": "6479329",
+    "key": "XUX7YJTX",
+    "version": 1530,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XUX7YJTX",
+    "dateAdded": "2026-05-19T14:17:03Z",
+    "dateModified": "2026-05-19T14:17:03Z"
+  },
+  "display": {
+    "title": "Sujeitos da história, sujeitos de direitos: personalidade jurídica no Brasil escravista (1860-1888)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mariana Armond Dias Paes"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this research, I argue that Brazilian slaves, at least since the 1860s, had legal personality. This legal personality was limited and precarious. In the first chapter, I analyze the concept of \"legal personality\" in Brazilian and Portuguese legal doctrine. In the second chapter, our focus is slaves' right action. Through the analysis of the selected documents, I discuss various aspects of this right: a) slaves' standing; b) the requirement of \"vnia\"; c) slaves' representation by a curator; d) the performance of the \"Procurador da Coroa\" in status definition lawsuits; e) the various types of procedures that made possible the discussion of legal status; and f) the \"deposit\". In the third chapter, I discuss slaves' rights in Civil Law.",
+    "doi": "10.11606/d.2.2017.tde-21082017-150447",
+    "url": "https://doi.org/10.11606/d.2.2017.tde-21082017-150447",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mariana Armond Dias Paes"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sujeitos da história, sujeitos de direitos: personalidade jurídica no Brasil escravista (1860-1888)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/d.2.2017.tde-21082017-150447"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/XU/XUX7YJTX.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/d.2.2017.tde-21082017-150447"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

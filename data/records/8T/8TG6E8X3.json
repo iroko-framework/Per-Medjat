@@ -1,0 +1,137 @@
+{
+  "key": "8TG6E8X3",
+  "uri": "https://medjat.irokosociety.org/id/library/8TG6E8X3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8TG6E8X3",
+  "zotero": {
+    "group": "6479329",
+    "key": "8TG6E8X3",
+    "version": 3959,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8TG6E8X3",
+    "dateAdded": "2026-06-17T15:31:06Z",
+    "dateModified": "2026-06-17T15:31:06Z"
+  },
+  "display": {
+    "title": "Integrating ecosystem services into conservation strategies for freshwater and marine habitats: a review",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Andrew J. Boulton"
+      },
+      {
+        "role": "editor",
+        "name": "Jan Ekebom"
+      },
+      {
+        "role": "editor",
+        "name": "Gísli Már Gíslason"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Aquatic Conservation Marine and Freshwater Ecosystems",
+    "publicationTitle": "Aquatic Conservation Marine and Freshwater Ecosystems",
+    "bookTitle": "",
+    "journalAbbreviation": "Aquatic Conservation Marine and Freshwater Ecosystems",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "26",
+    "issue": "5",
+    "pages": "963-985",
+    "abstract": "Abstract Over the last two decades, there has been increasing public and political recognition of society's dependency upon natural habitat complexity and ecological processes to sustain provision of crucial ecosystem services, ranging from supplying potable water through to climate regulation. How has the ecosystem‐services perspective been integrated into strategies for aquatic habitat conservation? Literature on conservation of diverse freshwater and marine habitats was reviewed to assess the extent to which past and current strategies specifically targeted ecosystem services, and considered ecosystem functions, potential trade‐offs and social issues when formulating protection measures for conserving aquatic habitats. Surprisingly few published examples exist where comprehensive assessment of ecosystem services supported development of conservation plans. Seldom were aquatic habitat conservation objectives framed in terms of balancing trade‐offs, assessing social values and evaluating suites of ecosystem services under different strategies. Time frames for achieving these objectives were also rarely specified. There was no evidence for fundamental differences between marine and freshwater habitats with respect to their ecosystem services that should be considered when setting targets for their conservation. When an ecosystem‐service perspective is used for setting objectives in aquatic habitat conservation, the following actions are recommended: (1) explicitly listing and evaluating full suites of ecosystem services to be conserved; (2) identifying current and future potential trade‐offs arising from conservation; (3) specifying time frames within which particular strategies might protect or enhance desired services; and (4) predicting how different proposed strategies might affect each ecosystem function, service flow and public benefit. This approach will help ensure that less‐apparent ecosystem services (e.g. regulating, supporting) and their associated ecosystem functions receive adequate recognition and protection in aquatic conservation of freshwater and marine habitats. However, conservation objectives should not focus solely on protecting or enhancing ecosystem services but complement current strategies targeting biodiversity and other conservation goals. Copyright © 2016 John Wiley &amp; Sons, Ltd.",
+    "doi": "10.1002/aqc.2703",
+    "url": "https://doi.org/10.1002/aqc.2703",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Coastal wetland ecosystem dynamics",
+      "Conservation, Biodiversity, and Resource Management",
+      "Land Use and Ecosystem Services"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Andrew J. Boulton"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Integrating ecosystem services into conservation strategies for freshwater and marine habitats: a review"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Aquatic Conservation Marine and Freshwater Ecosystems, 2016."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "963-985 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1002/aqc.2703"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Coastal wetland ecosystem dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Conservation, Biodiversity, and Resource Management"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Land Use and Ecosystem Services"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jan Ekebom"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Gísli Már Gíslason"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/8T/8TG6E8X3.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1002/aqc.2703"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

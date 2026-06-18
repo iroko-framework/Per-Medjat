@@ -1,0 +1,18 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Q5998Q2X>
+  a schema:ScholarlyArticle ;
+  schema:name "COMPARING IDEOLOGIES OF RACIAL MIXING IN LATIN AMERICA: BRAZIL AND MEXICO" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Q5998Q2X> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Q5998Q2X" ;
+  schema:description "Abstract By the end of the twentieth century, with the rise of multicultural discourses and identity politics, Latin American ideologies of racial mixture had become increasingly denounced as myths that conceal (and thus support) the reproduction of racial inequalities. These studies have largely been guided by comparisons between countries with widespread racial mixing (usually Brazil, Mexico or Colombia) and countries in which it was less encouraged and visible (most commonly, the USA). In this paper we move the focus to the diverse ways in which racial mixture currently impacts racial formations in the Latin America, looking initially at Brazil and Mexico, two of the largest countries in the region, and also those with the largest Afro-descendent and indigenous populations in the continent. For comparison, we analyze survey data from the PERLA project." ;
+  schema:author "Graziella Moraes Silva" ;
+  schema:creator "Emiko Saldívar" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Sociologia & Antropologia" ;
+  schema:sameAs <https://doi.org/10.1590/2238-38752017v824> ;
+  dcterms:identifier "doi:10.1590/2238-38752017v824" ;
+  dcterms:subject "Politics and Society in Latin America", "Race, Identity, and Education in Brazil", "Social and Cultural Dynamics" .

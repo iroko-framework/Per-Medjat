@@ -1,0 +1,95 @@
+{
+  "key": "KD7UDFVD",
+  "uri": "https://medjat.irokosociety.org/id/library/KD7UDFVD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KD7UDFVD",
+  "zotero": {
+    "group": "6479329",
+    "key": "KD7UDFVD",
+    "version": 2076,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KD7UDFVD",
+    "dateAdded": "2026-05-19T14:19:24Z",
+    "dateModified": "2026-05-19T14:19:24Z"
+  },
+  "display": {
+    "title": "The operation of whiteness and forgetting in Africville, a geography of racism",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jennifer Nelson"
+      }
+    ],
+    "year": "2001",
+    "date": "2001",
+    "publisher": "Library and Archives Canada (Government of Canada)",
+    "publicationTitle": "Library and Archives Canada (Government of Canada)",
+    "bookTitle": "",
+    "journalAbbreviation": "Library and Archives Canada (Government of Canada)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W2588160313",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jennifer Nelson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The operation of whiteness and forgetting in Africville, a geography of racism"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Library and Archives Canada (Government of Canada), 2001."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/KD/KD7UDFVD.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/8PNBJB8G>
+  a schema:Chapter ;
+  schema:name "Cubans in Calabar: Ékpè Has One Voice" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8PNBJB8G> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8PNBJB8G" ;
+  schema:description "This epilogue describes an encounter of Abakuá and Ékpè in Calabar at the International Ékpè Festival in 2004. This event greatly impacted Abakuá and Ékpè groups, who are confirming their local history through the practice of their counterparts." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0010> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0010" ;
+  dcterms:subject "African history and culture studies", "Cuban History and Society", "Race, History, and American Society" .

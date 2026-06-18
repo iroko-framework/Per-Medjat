@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/PXG7BJ7F>
+  a schema:ScholarlyArticle ;
+  schema:name "TRACES OF VODOUIN HAITIAN FREEMASONRY" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PXG7BJ7F> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PXG7BJ7F" ;
+  schema:description "The inquiry in this research builds on certain insights to uncover how various institutions of Vodou practices take shape, converge, and become rearticulated in the networks of transnational linkages within and in relation to Freemasonry in Haiti. Some scholarly sources connote the issue with a close assumption examining the symbolic similarities that, European Freemasonry is readily adepted into Vodou. This article, furthermore seeks to reach a coherent whole, in the idea that, there might be a connection between Haitian naitional identity and Freemasonry, through Vodou practices. Even though significant literature, reveals the impacts of both Freemasonry and Vodou on each other in Haiti and the major claim is that Freemasonry and the principal masonic utopias, paved the way to transnationalism in Haiti; the primary objective of the study is, not to examine the theological substructure of syncretistic Haitian religions. Nor it will be the major interest to trace here, the formation of Vodou as a religion on the Hispaňola Island. Nevertheless, in order to depict a realistic historical perspective of cultural emancipation of Haiti, Vodou is steressed in corresponding aspects." ;
+  schema:author "Mehmet Aziz GÖKSEL" ;
+  schema:datePublished "2022" ;
+  schema:publisher "Zenodo (CERN European Organization for Nuclear Research)" ;
+  schema:sameAs <https://doi.org/10.5281/zenodo.6400456> ;
+  dcterms:identifier "doi:10.5281/zenodo.6400456" ;
+  dcterms:subject "Anthropological Studies and Insights", "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics" .

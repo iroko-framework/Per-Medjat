@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/RRNKVKWU>
+  a schema:Thesis ;
+  schema:name "Causes of Conversion from Catholicism to Protestantism in Haiti and the role of Vodou after Conversion" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RRNKVKWU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RRNKVKWU" ;
+  schema:description "The purpose of this thesis was to examine the choice patterns that lead to conversion from Catholicism to Protestantism and the role of Vodou after conversion. This study highlights disappointment with the church as the leading cause of conversion in Haiti. Other causes significant to the study were examined. In illness and healing lie the controversies of religious conversion in Haiti. The only way to cure Satanic Illness is by resorting to magic. However, conversion to Protestantism means rejection of Vodou and all of its practice. A secondary purpose is to determine the role of Vodou after conversion. A total of 100 participants between the ages of 18 to 44 were included in this study. Seven percent (7%) converted for economic reasons, 43% selected disappointment with the church, 17% community/environment encounter, 13% sickness/near death experience, 2% economic and disappointment, 7% community/environment encounter and disappointment with the church, 9% disappointment sickness and near death experience, 1% economic and sickness near death experience, 1% economic and community/environment encounter. Findings suggest that Vodou is deeply rooted in Haitian identity, though all Haitians may not practice Vodou; but there are characteristics in the Haitian society that suggest that Haitians are Vodouisant. For the conversion process to be successful in Haiti it has to deeply acknowledged Vodou, the religion practiced by the masses in Haiti." ;
+  schema:author "Yola Ménard-Saint Clair" ;
+  schema:datePublished "2012" ;
+  schema:sameAs <https://doi.org/10.25148/etd.fi12113010> ;
+  dcterms:identifier "doi:10.25148/etd.fi12113010" ;
+  dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .

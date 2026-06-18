@@ -1,0 +1,137 @@
+{
+  "key": "CDXRXRIJ",
+  "uri": "https://medjat.irokosociety.org/id/library/CDXRXRIJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CDXRXRIJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "CDXRXRIJ",
+    "version": 4065,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CDXRXRIJ",
+    "dateAdded": "2026-06-17T15:31:07Z",
+    "dateModified": "2026-06-17T15:31:07Z"
+  },
+  "display": {
+    "title": "Exploration of the Nutritional and Functional Properties of Underutilized Grains as an Alternative Source for the Research of Food-Derived Bioactive Peptides",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Samuel Fernández‐Tomé"
+      },
+      {
+        "role": "editor",
+        "name": "Tolulope Joshua Ashaolu"
+      },
+      {
+        "role": "editor",
+        "name": "Blanca Hernández‐Ledesma"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Nutrients",
+    "publicationTitle": "Nutrients",
+    "bookTitle": "",
+    "journalAbbreviation": "Nutrients",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "15",
+    "issue": "2",
+    "pages": "351-351",
+    "abstract": "The estimated increase in world population will lead to a deterioration in global food security, aggravated in developing countries by hidden hunger resulting from protein deficiency. To reduce or avoid this crisis, a dietary shift towards the consumption of sustainable, nutrient-rich, and calorically efficient food products has been recommended by the FAO and WHO. Plant proteins derived from grains and seeds provide nutritionally balanced diets, improve health status, reduce poverty, enhance food security, and contain several functional compounds. In this review, the current evidence on the nutritional and functional properties of underutilized grains is summarized, focusing on their incorporation into functional foods and the role of their proteins as novel source of bioactive peptides with health benefits.",
+    "doi": "10.3390/nu15020351",
+    "url": "https://doi.org/10.3390/nu15020351",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Consumer Attitudes and Food Labeling",
+      "Phytase and its Applications",
+      "Protein Hydrolysis and Bioactive Peptides"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Samuel Fernández‐Tomé"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Exploration of the Nutritional and Functional Properties of Underutilized Grains as an Alternative Source for the Research of Food-Derived Bioactive Peptides"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Nutrients, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "351-351 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3390/nu15020351"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Consumer Attitudes and Food Labeling"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Phytase and its Applications"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Protein Hydrolysis and Bioactive Peptides"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Tolulope Joshua Ashaolu"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Blanca Hernández‐Ledesma"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/CD/CDXRXRIJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3390/nu15020351"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

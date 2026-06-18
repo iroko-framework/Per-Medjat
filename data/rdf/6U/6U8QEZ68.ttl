@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6U8QEZ68>
+  a schema:Book ;
+  schema:name "Bêtes Noires" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6U8QEZ68> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6U8QEZ68" ;
+  schema:author "Lauren Derby" ;
+  schema:datePublished "2025" ;
+  schema:sameAs <https://doi.org/10.1353/book.142498> ;
+  dcterms:identifier "doi:10.1353/book.142498" ;
+  dcterms:subject "Lineage", "Secret Society", "Haitian Vodou" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .

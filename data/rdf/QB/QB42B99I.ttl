@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/QB42B99I>
+  a schema:Chapter ;
+  schema:name "Abakuá" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QB42B99I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QB42B99I" ;
+  schema:author "Rafael López Valdés" ;
+  schema:datePublished "2020" ;
+  schema:sameAs <https://doi.org/10.1515/9780822384915-043> ;
+  dcterms:identifier "doi:10.1515/9780822384915-043" .

@@ -1,0 +1,114 @@
+{
+  "key": "TEJQ6BGQ",
+  "uri": "https://medjat.irokosociety.org/id/library/TEJQ6BGQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TEJQ6BGQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "TEJQ6BGQ",
+    "version": 951,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TEJQ6BGQ",
+    "dateAdded": "2026-05-19T13:27:19Z",
+    "dateModified": "2026-05-19T13:27:19Z"
+  },
+  "display": {
+    "title": "Masculinité et relations de genre dans la société secrète abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Géraldine Morel"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Ateliers d anthropologie",
+    "publicationTitle": "Ateliers d anthropologie",
+    "bookTitle": "",
+    "journalAbbreviation": "Ateliers d anthropologie",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "38",
+    "issue": "",
+    "pages": "",
+    "abstract": "La société secrète abakuá fait partie intégrante de l’univers religieux afro-cubain. Toutefois, son mode de fonctionnement ainsi que son système de recrutement « au mérite » s’inscrivent aux antipodes de la logique religieuse commune aux autres modalités de culte présentes sur l’île et reposant sur un échange de bons procédés entre hommes et dieux (transe, sacrifice, divination). En effet, être abakuá implique avant tout une construction de genre spécifique fondée sur une masculinité de type « machiste ». Cet article propose une analyse de l’engagement abakuá sous l’angle du genre en s’intéressant aux modalités d’affirmation de cette identité masculine centrale dans le culte, ainsi qu’aux représentations et aux interactions qui la sous-tendent. Le machisme en tant que système de pouvoir est légitimé au niveau mythologique, rituel et social, et la construction de la masculinité qui en découle repose sur une comparaison tant avec les femmes, exclues rituellement mais omniprésentes socialement, qu’avec les hommes homosexuels, véritable miroir antagonique des caïds du milieu populaire havanais.",
+    "doi": "10.4000/ateliers.9392",
+    "url": "https://doi.org/10.4000/ateliers.9392",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Colonialism, slavery, and trade",
+      "Social Sciences and Humanities"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Géraldine Morel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Masculinité et relations de genre dans la société secrète abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ateliers d anthropologie, 2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/ateliers.9392"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social Sciences and Humanities"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/TE/TEJQ6BGQ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/ateliers.9392"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

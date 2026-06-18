@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/MJDSQJEH>
+  a schema:ScholarlyArticle ;
+  schema:name "Os bruxos da administração: como entender a babel dos gurus empresariais" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MJDSQJEH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MJDSQJEH" ;
+  schema:author "Cecília Whitaker Bergamini" ;
+  schema:datePublished "1998" ;
+  schema:publisher "Revista de Administração de Empresas" ;
+  schema:sameAs <https://doi.org/10.1590/s0034-75901998000300009> ;
+  dcterms:identifier "doi:10.1590/s0034-75901998000300009" ;
+  dcterms:subject "Business and Management Studies" .

@@ -1,0 +1,107 @@
+{
+  "key": "3VGMGNZV",
+  "uri": "https://medjat.irokosociety.org/id/library/3VGMGNZV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3VGMGNZV",
+  "zotero": {
+    "group": "6479329",
+    "key": "3VGMGNZV",
+    "version": 2202,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3VGMGNZV",
+    "dateAdded": "2026-05-19T14:19:44Z",
+    "dateModified": "2026-05-19T14:19:44Z"
+  },
+  "display": {
+    "title": "Gold jewellery in Ptolemaic, Roman and Byzantine Egypt",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jack Ogden"
+      }
+    ],
+    "year": "1990",
+    "date": "1990",
+    "publisher": "Durham e-Theses (Durham University)",
+    "publicationTitle": "Durham e-Theses (Durham University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Durham e-Theses (Durham University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This study deals with the gold jewellery made and worn in Egypt during the millennium between Alexander the Great's invasion of Egypt and the Arab conquest.Funerary jewellery is largely ignored as are ornaments in the traditional, older Egyptian styles.The work draws upon a wide variety of evidence, in particular the style, composition and construction of surviving jewellery, the many representations of jewellery in wear, such as funerary portraits, and the numerous literary references from the papyri and from Classical and early Christian writers.Egypt, during the period considered, has provided a greater wealth of such information than anywhere else in the ancient or medieval world and this allows a broadly based study of jewellery in a single ancient society.The individual chapters deal with a brief historical background; the information available from papyri and other literary sources; the sources, distribution, composition and value of gold; the origins and use of mineral and organic gem materials; the economic and social organisation of the goldsmiths' trade; and the individual jewellery types, their chronology, manufacture and significance.This last section is covered in four chapters which deal respectively with rings, earrings, necklets and pendants, and bracelets and armiets.These nine chapters are followed by a detailed bibliography and a list of the 511 illustrations.",
+    "doi": "",
+    "url": "http://etheses.dur.ac.uk/1457/2/1457_v2.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Law, logistics, and international trade",
+      "Maritime and Coastal Archaeology",
+      "Metallurgy and Cultural Artifacts"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jack Ogden"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Gold jewellery in Ptolemaic, Roman and Byzantine Egypt"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Durham e-Theses (Durham University), 1990."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Law, logistics, and international trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Maritime and Coastal Archaeology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Metallurgy and Cultural Artifacts"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/3V/3VGMGNZV.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EM9GDAYL>
+  a schema:ScholarlyArticle ;
+  schema:name "Spatial Product Differentiation in Specialized Markets for Agricultural Food Products of Kano Metropolis, Nigeria" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EM9GDAYL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EM9GDAYL" ;
+  schema:description "The study examined product differentiation in markets for specialized agricultural food products in Kano Metropolis, Nigeria. Focus Group Discussion was the main instrument that was used to collect the data. The data was qualitatively analyzed through careful collation and arrangement. ARCGIS software was used to map out places of supply of commodities. The products in the markets were differentiated based on variety, periods and places of supply. In Dawanau market, all the products were available throughout the year, but each had periods when supply was high or low. In Yanlemo market, orange, banana, pineapple, water melon, coconut and pawpaw were available throughout the year while mango, agwalumo , cashew and oro were seasonal. In Yankaba market, all the products were found throughout the year, but there was variation between periods of high and low supply. In all the markets, products were supplied from within Kano State, other states in Nigeria and other countries. Lastly, the study recommended for future research on firm rivalry in terms of location choices and consumer preferences, impact of product differentiation on price and development of transportation infrastructure." ;
+  schema:author "Bello Gambo" ;
+  schema:datePublished "2016" ;
+  schema:publisher "American Journal of Business, Economics and Management" ;
+  dcterms:subject "Urban and Freight Transport Logistics" .

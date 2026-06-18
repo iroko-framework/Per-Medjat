@@ -1,0 +1,107 @@
+{
+  "key": "4DK42U7G",
+  "uri": "https://medjat.irokosociety.org/id/library/4DK42U7G",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4DK42U7G",
+  "zotero": {
+    "group": "6479329",
+    "key": "4DK42U7G",
+    "version": 2418,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4DK42U7G",
+    "dateAdded": "2026-05-19T13:28:34Z",
+    "dateModified": "2026-05-19T18:53:54Z"
+  },
+  "display": {
+    "title": "The Afro-Cuban Religious Traditions of Regla de Palo and the Abakuá Secret Society",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "editor",
+        "name": "Lizabeth Paravisini-Gebert; Margarite Fernández Olmos"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "New York University Press eBooks",
+    "publicationTitle": "",
+    "bookTitle": "Creole Religions of the Caribbean",
+    "journalAbbreviation": "New York University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "101-129",
+    "abstract": "",
+    "doi": "10.18574/nyu/9781479803491.003.0010",
+    "url": "https://doi.org/10.18574/nyu/9781479803491.003.0010",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lizabeth Paravisini-Gebert; Margarite Fernández Olmos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Afro-Cuban Religious Traditions of Regla de Palo and the Abakuá Secret Society"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New York University Press eBooks, 2022."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "101-129 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18574/nyu/9781479803491.003.0010"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/4D/4DK42U7G.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18574/nyu/9781479803491.003.0010"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

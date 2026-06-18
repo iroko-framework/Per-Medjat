@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/Y47EE3C5>
+  a schema:ScholarlyArticle ;
+  schema:name "Las finanzas de las ciudades novohispanas ante el reformismo borbónico: una propuesta historiográfica" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Y47EE3C5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Y47EE3C5" ;
+  schema:description "Historiographical review of Bourbon fiscal reform in novohispano cities. Establishes the framework for understanding the institutional infrastructure Celaya Nández works within — relevant context for the colonial documentary apparatus." ;
+  schema:author "Celaya Nández, Yovana" ;
+  schema:datePublished "2016" ;
+  schema:publisher "Mélanges de la Casa de Velázquez" ;
+  dcterms:subject "Bourbon reforms", "New Spain", "colonial cities", "fiscal history", "historiography" .

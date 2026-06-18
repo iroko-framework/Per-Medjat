@@ -1,0 +1,15 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/EURNTWIN>
+  a schema:Thesis ;
+  schema:name "Liberated Africans in the Atlantic World : the courts of Mixed Commission in Havana and Rio de Janeiro 1819-1871" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EURNTWIN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EURNTWIN" ;
+  schema:description "This thesis compares two courts of Mixed Commission for the suppression of the slave trade in two notorious slave trading ports: Havana and Rio de Janeiro. Treaties, through which Britain imposed slave trade laws, led to the establishment of bilateral Mixed Commissions courts for the suppression of the slave trade in several Atlantic ports in the early nineteenth century. The Commissions have generally been viewed by scholars as important, but precursory to effective abolition of the slave trade; institutions which did not deter slave traders. Here the impact of these courts is addressed principally through the study of the liberated Africans or “recaptives” who the courts were intended to free. It demonstrates the potential and legacy of the Mixed Commissions in light of British reluctance to sabotage economic dominance, despite its dedication to eradicating the slave trade. Drawing on research in archives in Britain, Brazil and Cuba it highlights the importance of addressing local socio-economic circumstances and British imperial policy and objectives in each place, as well as viewing the courts as part of a wider Atlantic system. In doing so it reveals the challenges that the courts represented to slave traders and slave societies during the zenith of the slave trade to both locations." ;
+  schema:author "Jennifer Nelson" ;
+  schema:datePublished "2015" ;
+  schema:publisher "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Cuban History and Society" .

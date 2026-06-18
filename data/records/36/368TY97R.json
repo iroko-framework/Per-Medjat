@@ -1,0 +1,101 @@
+{
+  "key": "368TY97R",
+  "uri": "https://medjat.irokosociety.org/id/library/368TY97R",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=368TY97R",
+  "zotero": {
+    "group": "6479329",
+    "key": "368TY97R",
+    "version": 2049,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/368TY97R",
+    "dateAdded": "2026-05-19T14:19:16Z",
+    "dateModified": "2026-05-19T14:19:16Z"
+  },
+  "display": {
+    "title": "The 'slave of all': a tradition-historical study of a synoptic saying",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "J.E. McDermond"
+      }
+    ],
+    "year": "1987",
+    "date": "1987",
+    "publisher": "Durham e-Theses (Durham University)",
+    "publicationTitle": "Durham e-Theses (Durham University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Durham e-Theses (Durham University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis is intended to be a study of the 'slave of all' saying, which is found in the Synoptic Gospels (Mk 10.35-45; Mk 9.33-7; Lk 22.24-7 and Mt 23.1-12). Our primary goal is to study how the early Christian communities employed this logion. The saying is examined against the background of Jewish attitudes towards slavery. A comparison of the key Torah laws regulating slavery reveals the development of an anti-slavery attitude. Often this anti-slavery sentiment is associated with feelings of Jewish nationalism. Biblical and non-Biblical materials show this attitude continued into the first century CE. Secondly, we explored the possibility that Jesus did not adhere to this anti- slavery attitude. In addition to a lack of evidence that Jesus was a Jewish nationalist, we argued that Jesus probably used slavery imagery as a positive illustration. It was argued that the 'slave of all' saying is a dominical logion. A comparison of the various pericopes resulted in the conclusion that the saying was originally intended as a rebuke of misdirected ambition. It was probably uttered at a meal setting when the disciples had begun to argue about personal greatness. The remainder of the thesis individually examined the pericopes where the 'slave of all' saying is used. The Gospel of Mark employs the saying twice in a major literary unit consisting of 8.22-10.52. Mk 10.35-45 uses the logion to delineate the Marcan community's attitude towards leadership. Mk 9.33-7 deals with membership in the community of faith. It was argued that Lk 22.24-7, which is seen to be independent of Mk 10.35- 45, takes up the saying and very specifically directs it at the leaders of the Lucan community. Filially, the saying is used by Matthew when dealing with post 70 CE factionalism between his Jewish Christian community and the local Pharisees. The logion is used to summarize the Jewish Christian understanding of leadership.",
+    "doi": "",
+    "url": "http://etheses.dur.ac.uk/6843/1/6843_4148.PDF",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and Historical Studies",
+      "Biblical Studies and Interpretation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "J.E. McDermond"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The 'slave of all': a tradition-historical study of a synoptic saying"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Durham e-Theses (Durham University), 1987."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and Historical Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biblical Studies and Interpretation"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/36/368TY97R.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

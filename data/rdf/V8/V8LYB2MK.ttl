@@ -1,0 +1,16 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/V8LYB2MK>
+  a schema:Chapter ;
+  schema:name ". Dispersal" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V8LYB2MK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V8LYB2MK" ;
+  schema:description "This chapter describes how Abakué was made illegal in 1875, with its members (as well as other anticolonials) dispersed to Spanish penal colonies in North and West Africa. Those who could escaped from Cuba to Florida to join the emerging cigar industry. Responding to scholarship that argues for the recreation of Abakuá lodges in exile, having learned otherwise from Abakuá leaders, the chapter discusses issues basic to the process, which highlight the extraordinary achievements of Abakuá’s foundation in Cuba." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0006> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0006" ;
+  dcterms:subject "Colonialism, slavery, and trade" .

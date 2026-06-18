@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/REHVVI4J>
+  a schema:ScholarlyArticle ;
+  schema:name "‘Bound Coolies’ and Other Indentured Workers in the Caribbean: Implications for debates about human trafficking and modern slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=REHVVI4J> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:REHVVI4J" ;
+  schema:description "Under systems of indenture in the Caribbean, Europeans such as Irish, Scots and Portuguese, as well as Asians, primarily Indians, Chinese and Indonesians, were recruited, often under false pretences, and transported to the ‘New World’, where they were bound to an employer and the plantation in a state of ‘interlocking incarceration’. Indentureship not only preceded, co-existed with, and survived slavery in the Caribbean, but was distinct in law and in practice from slavery. This article argues that the conditions of Caribbean indenture can be seen to be much more analogous to those represented in contemporary discussions about human trafficking and ‘modern slavery’ than those of slavery. Caribbean histories of indenture, it is proposed, can provide more appropriate conceptual tools for thinking about unfree labour today—whether state or privately sponsored—than the concept of slavery, given the parallels between this past migrant labour system in the Caribbean and those we witness and identify today as ‘modern slavery’ or human trafficking. This article thus urges a move away from the conflation of slavery and human trafficking with all forced, bonded and migrant labour, as is commonly the case, and for greater attention for historical evidence." ;
+  schema:author "Kamala Kempadoo" ;
+  schema:datePublished "2017" ;
+  schema:publisher "Anti-Trafficking Review" ;
+  schema:sameAs <https://doi.org/10.14197/atr.20121794> ;
+  dcterms:identifier "doi:10.14197/atr.20121794" ;
+  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .

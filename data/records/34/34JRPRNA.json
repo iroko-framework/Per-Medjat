@@ -1,0 +1,132 @@
+{
+  "key": "34JRPRNA",
+  "uri": "https://medjat.irokosociety.org/id/library/34JRPRNA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=34JRPRNA",
+  "zotero": {
+    "group": "6479329",
+    "key": "34JRPRNA",
+    "version": 3729,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/34JRPRNA",
+    "dateAdded": "2026-06-17T15:29:55Z",
+    "dateModified": "2026-06-17T15:29:55Z"
+  },
+  "display": {
+    "title": "The Rise of American Ingenuity: Innovation and Inventors of the Golden Age",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ufuk Akcigit"
+      },
+      {
+        "role": "editor",
+        "name": "John Grigsby"
+      },
+      {
+        "role": "editor",
+        "name": "Tom Nicholas"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "National Bureau of Economic Research",
+    "publicationTitle": "National Bureau of Economic Research",
+    "bookTitle": "",
+    "journalAbbreviation": "National Bureau of Economic Research",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "We examine the golden age of U.S. innovation by undertaking a major data collection exercise linking historical U.S. patents to state and county-level aggregates and matching inventors to Federal Censuses between 1880 and 1940. We identify a causal relationship between patented inventions and long-run economic growth and outline a basic framework for analyzing key macro and micro-level determinants. We find a positive relationship between innovation and drivers of regional performance including population density, financial development and geographic connectedness. We also explore the impact of social structure measured by slavery and religion. We then profile the characteristics of inventors and their life cycle finding that inventors were highly educated, positively selected through exit early in their careers, made time allocation decisions such as delayed marriage, and tended to migrate to places that were conducive to innovation. Father's income was positively correlated with becoming an inventor, though not when controlling for the child's education. We show there were strong financial returns to technological development. Finally, we document an inverted-U shaped relationship between inequality and innovation but also show that innovative places tended to be more socially mobile. Our new data help to address important questions related to innovation and long-run growth dynamics.",
+    "doi": "10.3386/w23047",
+    "url": "https://doi.org/10.3386/w23047",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Culture, Economy, and Development Studies",
+      "Economic Growth and Productivity",
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ufuk Akcigit"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Rise of American Ingenuity: Innovation and Inventors of the Golden Age"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "National Bureau of Economic Research, 2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3386/w23047"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Culture, Economy, and Development Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Growth and Productivity"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "John Grigsby"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Tom Nicholas"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/34/34JRPRNA.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3386/w23047"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

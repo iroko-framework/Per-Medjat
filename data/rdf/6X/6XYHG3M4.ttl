@@ -1,0 +1,14 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://medjat.irokosociety.org/id/library/6XYHG3M4>
+  a schema:Thesis ;
+  schema:name "The Rus in Arabic Sources: Cultural Contacts and Identity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6XYHG3M4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6XYHG3M4" ;
+  schema:author "Þórir Jónsson Hraundal" ;
+  schema:datePublished "2013" ;
+  schema:publisher "Bergen Open Research Archive (BORA) (University of Bergen)" ;
+  dcterms:subject "Byzantine Studies and History", "Eurasian Exchange Networks", "Historical and Linguistic Studies" .

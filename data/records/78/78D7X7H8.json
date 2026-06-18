@@ -1,0 +1,100 @@
+{
+  "key": "78D7X7H8",
+  "uri": "https://medjat.irokosociety.org/id/library/78D7X7H8",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=78D7X7H8",
+  "zotero": {
+    "group": "6479329",
+    "key": "78D7X7H8",
+    "version": 1095,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/78D7X7H8",
+    "dateAdded": "2026-05-19T13:27:51Z",
+    "dateModified": "2026-05-19T13:27:51Z"
+  },
+  "display": {
+    "title": "Abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rafael López Valdés"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "201-202",
+    "abstract": "",
+    "doi": "10.1515/9781478004561-043",
+    "url": "https://doi.org/10.1515/9781478004561-043",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rafael López Valdés"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "201-202 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1515/9781478004561-043"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/78/78D7X7H8.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1515/9781478004561-043"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -13,11 +13,14 @@
   <meta property="og:title" content="Medjat Library · Per Medjat · Iroko Historical Society">
   <meta property="og:description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
   <meta property="og:url" content="https://medjat.irokosociety.org/library/">
-  <meta property="og:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
+  <meta property="og:image" content="https://medjat.irokosociety.org/assets/og-per-medjat.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type" content="image/png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Medjat Library · Per Medjat · Iroko Historical Society">
   <meta name="twitter:description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
-  <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
+  <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/og-per-medjat.png">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <style>
     /* ── Library hero ──────────────────────────────────────────── */
@@ -804,7 +807,8 @@ async function initFeaturedWork() {
         ${work.abstract ? `<p class="featured-work-desc">${e(work.abstract)}</p>` : ''}
         ${meta ? `<p class="featured-work-meta">${e(meta)}</p>` : ''}
         <div class="featured-work-actions">
-          ${work.recordUrl ? `<a class="featured-work-cta" href="${e(work.recordUrl)}" target="_blank" rel="noopener" data-featured-title="${e(work.title || '')}" data-featured-key="${e(work.zoteroKey || '')}" onclick="trackFeaturedWorkEvent('featured_work_catalog_click', { title: this.dataset.featuredTitle, zoteroKey: this.dataset.featuredKey })">View catalog record</a>` : ''}
+          ${work.recordUrl ? `<a class="featured-work-cta" href="${e(work.recordUrl)}" data-featured-title="${e(work.title || '')}" data-featured-key="${e(work.zoteroKey || '')}" onclick="trackFeaturedWorkEvent('featured_work_catalog_click', { title: this.dataset.featuredTitle, zoteroKey: this.dataset.featuredKey })">View catalog record</a>` : ''}
+          ${work.zoteroUrl ? `<a class="featured-share-cta" href="${e(work.zoteroUrl)}" target="_blank" rel="noopener">Open in Zotero</a>` : ''}
           ${buildFeaturedShareLinks(work)}
         </div>
         <p class="featured-work-meta" style="margin-top:.65rem;"><a href="featured/archive/" style="color:var(--ink-soft);font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;" onmouseover="this.style.color='var(--green)'" onmouseout="this.style.color='var(--ink-soft)'">Prior featured works →</a></p>
@@ -1323,6 +1327,7 @@ let F = {
   tradition: '',
   theme: '',
   domain: '',
+  language: '',
   type: '',
   author: '',
   title: '',
@@ -1344,6 +1349,7 @@ function filtered() {
     const traditions = r.traditions || [];
     const themes = r.themes || [];
     const domains = r.domains || [];
+    const languages = r.language || [];
     const frameworkClasses = r.frameworkClasses || [];
     const frameworkModules = r.frameworkModules || [];
     const creators = r.creators || r.creatorLabels || [];
@@ -1368,6 +1374,13 @@ function filtered() {
     if (F.domain === '__untagged__') {
       if (domains.length > 0) return false;
     } else if (F.domain && !domains.includes(F.domain)) {
+      return false;
+    }
+
+    // Language filter — supports __untagged__ catch-all
+    if (F.language === '__untagged__') {
+      if (languages.length > 0) return false;
+    } else if (F.language && !languages.includes(F.language)) {
       return false;
     }
 
@@ -1420,7 +1433,7 @@ function sorted(recs) {
 
 /* ── Render ─────────────────────────────────────────────────── */
 function render() {
-  const active = F.query || F.tradition || F.theme || F.domain || F.type || F.author || F.title || F.publisher ||
+  const active = F.query || F.tradition || F.theme || F.domain || F.language || F.type || F.author || F.title || F.publisher ||
     F.frameworkClass || F.frameworkModule || F.access || F.item;
   const area   = document.getElementById('results-area');
   const pager = document.getElementById('catalog-pagination');
@@ -1448,6 +1461,7 @@ function render() {
   if (F.tradition) chips.innerHTML += chip('tradition', F.tradition === '__untagged__' ? 'Tradition: Untagged' : F.tradition);
   if (F.theme)     chips.innerHTML += chip('theme',     F.theme     === '__untagged__' ? 'Theme: Untagged'     : `Theme: ${F.theme}`);
   if (F.domain)    chips.innerHTML += chip('domain',    F.domain    === '__untagged__' ? 'Domain: Untagged'    : `Domain: ${F.domain.replace(/-/g, ' ')}`);
+  if (F.language)  chips.innerHTML += chip('language',  F.language === '__untagged__' ? 'Language: Untagged' : `Language: ${F.language}`);
   if (F.type)      chips.innerHTML += chip('type',      `Type: ${typeFriendly(F.type)}`);
   if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
   if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);

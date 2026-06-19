@@ -3,17 +3,23 @@
     "zoteroKey": "39XACX54",
     "label": "IHS Holding · Prior Featured Work",
     "title": "Ewé: The Use of Plants in Yoruba Society",
-    "shortTitle": "Ewé",
-    "authorLine": "Verger, Pierre · Odebrecht; Editora Schwarcz · 1995",
+    "shortTitle": "Ewé: The Use of Plants in Yoruba Society",
+    "authorLine": "Pierre Verger · Odebrecht; Editora Schwarcz · 1995",
     "abstract": "",
+    "source": "IHS Zotero Library",
+    "custody": "IHS Holding",
     "genre": "Book",
     "isbn": "85-7164-514-0",
     "featuredDate": "2025-06-01",
-    "recordUrl": "https://medjat.irokosociety.org/library/?item=39XACX54",
+    "mode": "Curated selection",
     "shareUrl": "https://medjat.irokosociety.org/library/featured/archive/39XACX54.html",
+    "recordUrl": "https://medjat.irokosociety.org/library/?item=39XACX54",
+    "zoteroUrl": "https://www.zotero.org/groups/ihs_medjat_library/items/39XACX54",
     "cover": {
-      "url": "",
-      "alt": "Ewé: The Use of Plants in Yoruba Society"
+      "url": "https://medjat.irokosociety.org/library/assets/featured/39XACX54.jpg",
+      "alt": "20260619_161605.jpg",
+      "source": "zotero-attachment",
+      "attachmentKey": "EFSW2W4L"
     }
   }
 ]

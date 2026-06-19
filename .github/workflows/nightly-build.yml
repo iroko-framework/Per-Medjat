@@ -1,0 +1,49 @@
+name: Nightly Catalog Build
+
+on:
+  schedule:
+    # 2:22 AM CST (UTC-6) = 08:22 UTC
+    # Will run at 3:22 AM CDT during summer — close enough for a nightly build
+    - cron: '22 8 * * *'
+  workflow_dispatch:   # allow manual trigger from GitHub Actions UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allows git push back to Per-Medjat
+
+    steps:
+      - name: Checkout Per-Medjat
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout medjat-tools (build script + shared vocab)
+        uses: actions/checkout@v4
+        with:
+          repository: iroko-framework/medjat-tools
+          path: medjat-tools
+          token: ${{ secrets.MEDJAT_TOOLS_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run build_library.py
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          PER_MEDJAT_ROOT: ${{ github.workspace }}
+        run: |
+          python medjat-tools/build_library/build_library.py
+
+      - name: Commit and push catalog changes
+        run: |
+          git config user.name "medjat-build[bot]"
+          git config user.email "noreply@irokosociety.org"
+          git add .
+          git diff --cached --quiet && echo "No changes — nothing to push." || (
+            git commit -m "Nightly catalog build $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          )

@@ -1,0 +1,102 @@
+{
+  "key": "X2GLHLRJ",
+  "uri": "https://medjat.irokosociety.org/id/library/X2GLHLRJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=X2GLHLRJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "X2GLHLRJ",
+    "version": 4574,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/X2GLHLRJ",
+    "dateAdded": "2026-06-19T16:45:04Z",
+    "dateModified": "2026-06-19T16:45:04Z"
+  },
+  "display": {
+    "title": "Cantos y Rezos ORISHA",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "R. Avendano"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL27585757W",
+    "isbn": "979-8-7829-9842-4",
+    "issn": "",
+    "university": "",
+    "language": "spa"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "R. Avendano"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cantos y Rezos ORISHA"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2021."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "979-8-7829-9842-4"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/X2/X2GLHLRJ.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

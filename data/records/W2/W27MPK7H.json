@@ -1,0 +1,164 @@
+{
+  "key": "W27MPK7H",
+  "uri": "https://medjat.irokosociety.org/id/library/W27MPK7H",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W27MPK7H",
+  "zotero": {
+    "group": "6479329",
+    "key": "W27MPK7H",
+    "version": 4556,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W27MPK7H",
+    "dateAdded": "2026-06-19T16:45:01Z",
+    "dateModified": "2026-06-19T16:45:01Z"
+  },
+  "display": {
+    "title": "The Osha",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Julio García Cortez"
+      },
+      {
+        "role": "series editor",
+        "name": "Julio Garcia Cortez"
+      },
+      {
+        "role": "series editor",
+        "name": "Julio Garcia Corlez"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL4157322W",
+    "isbn": "1-890157-22-8",
+    "issn": "",
+    "university": "",
+    "language": "eng"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Ethnobotany",
+      "Religion",
+      "Rites and ceremonies",
+      "Yoruba (African people)",
+      "Yoruba Americans"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Julio García Cortez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Osha"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2000."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "1-890157-22-8"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ethnobotany"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Rites and ceremonies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba (African people)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba Americans"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Julio Garcia Cortez"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Julio Garcia Corlez"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/W2/W27MPK7H.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

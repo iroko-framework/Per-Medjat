@@ -1,0 +1,157 @@
+{
+  "key": "PS8SDV2J",
+  "uri": "https://medjat.irokosociety.org/id/library/PS8SDV2J",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PS8SDV2J",
+  "zotero": {
+    "group": "6479329",
+    "key": "PS8SDV2J",
+    "version": 4553,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PS8SDV2J",
+    "dateAdded": "2026-06-19T16:45:00Z",
+    "dateModified": "2026-06-19T16:45:00Z"
+  },
+  "display": {
+    "title": "Ifá Lucumí",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nei Lopes"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL32274161W",
+    "isbn": "85-347-0568-2",
+    "issn": "",
+    "university": "",
+    "language": "por"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Portuguese"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African influences",
+      "Afro-Caribbean cults",
+      "Divination",
+      "History",
+      "Ifa (Religion)",
+      "Orisha religion",
+      "Orishas",
+      "Religion",
+      "Yoruba (African people)"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nei Lopes"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Ifá Lucumí"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2020."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "85-347-0568-2"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Caribbean cults"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Divination"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ifa (Religion)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Orisha religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Orishas"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba (African people)"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/PS/PS8SDV2J.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

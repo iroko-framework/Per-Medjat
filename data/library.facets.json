@@ -1,24 +1,20 @@
 {
   "recordTypes": {
-    "journalArticle": {
-      "label": "Journal Article",
-      "count": 446
-    },
     "thesis": {
       "label": "Thesis / Dissertation",
-      "count": 321
+      "count": 300
+    },
+    "journalArticle": {
+      "label": "Journal Article",
+      "count": 213
     },
     "book": {
       "label": "Book",
-      "count": 87
+      "count": 72
     },
     "bookSection": {
       "label": "Book Chapter",
-      "count": 47
-    },
-    "report": {
-      "label": "Report",
-      "count": 5
+      "count": 40
     },
     "document": {
       "label": "Document",
@@ -36,12 +32,12 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 875
+      "count": 596
     },
-    "West African traditions": 17,
+    "West African traditions": 20,
     "Central African traditions": 9,
-    "Haitian Vodou": 8,
     "Afro-Indigenous": 3,
+    "Haitian Vodou": 3,
     "Syncretic/Creole": 3,
     "Candomble": 2,
     "New Orleans Voodoo": 1,
@@ -52,11 +48,11 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 899
+      "count": 619
     },
-    "Secret Society": 4,
-    "Lineage": 3,
     "Material Culture": 3,
+    "Secret Society": 3,
+    "Lineage": 2,
     "Music": 2,
     "Ritual": 2,
     "Botanical": 1,
@@ -65,23 +61,15 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 909
+      "count": 628
     }
-  },
-  "language": {
-    "__untagged__": {
-      "label": "Untagged",
-      "count": 906
-    },
-    "English": 2,
-    "Spanish": 1
   },
   "frameworkClasses": {},
   "frameworkModules": {
     "Ewé": 2
   },
   "access": {
-    "Public": 903,
+    "Public": 622,
     "Community": 6
   }
 }

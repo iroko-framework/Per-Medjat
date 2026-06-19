@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T20:20:33Z",
-  "count": 628,
+  "generatedAt": "2026-06-19T23:00:33Z",
+  "count": 638,
   "records": [
     {
       "key": "IGBCQ3B7",
@@ -7549,6 +7549,66 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "MP9FK9XE",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Fernando Ortiz"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los negros brujos"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Madrid: Librería de Fernando Fé, 1906."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Afro-Cuban religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "archival-latency-paper"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "colonial ethnography"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "West African traditions"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -20648,7 +20708,7 @@
       ]
     },
     {
-      "key": "MP9FK9XE",
+      "key": "9FM9HCWW",
       "marc": [
         {
           "field": "100",
@@ -20658,12 +20718,17 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "Los negros brujos"
+          "value": "Cuban counterpoint"
         },
         {
           "field": "264",
           "label": "Published",
-          "value": "Madrid: Librería de Fernando Fé, 1906."
+          "value": "1947."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "84-9007-109-8"
         },
         {
           "field": "041",
@@ -20673,7 +20738,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Afro-Cuban religion"
+          "value": "Civilization"
         },
         {
           "field": "650",
@@ -20683,22 +20748,857 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "archival-latency-paper"
+          "value": "Cuba, history"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "colonial ethnography"
+          "value": "History"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "West African traditions"
+          "value": "Sugar growing"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "Central African traditions"
+          "value": "Tobacco"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Tobacco industry"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Tobacco manufacture and trade"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - series editor",
+          "value": "Fernando Ortiz"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - series editor",
+          "value": "Bronisław Malinowski"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - series editor",
+          "value": "Fernando Ortiz"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - series editor",
+          "value": "Fernando Ortiz"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "HPA8VE2E",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "La \"clave\" xilofónica de la música cubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1935."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "499YE3HM",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "La africanía de la musica folklórica de Cuba"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1950."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-959-10-0153-5"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Folk music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Historia y crítica"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Influencias africanas"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music,"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music, African"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Música"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Música folklórica"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Negros"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - series editor",
+          "value": "Fernando Ortiz"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "WHTMB7GD",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los bailes y el teatro de los negros en el folklore de Cuba"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1951."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "84-599-3387-3"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Afroamerikanische Musik"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Dans"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Folk dance music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Folk dancing"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Folk music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Historia"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Historia y crítica"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Música"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Música foklórica"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Música para dansas folklóricas"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Negers"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Negros"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Teatro"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Theater"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Toneel"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "8H3R7FJX",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los Instrumentos De La Música Afrocubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Cárdenas y Cía, 1955."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "529 p."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-959-10-0240-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "es-CU"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "IEFUGH4M",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los Instrumentos De La Música Afrocubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-959-10-0240-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "es-CU"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "8JSCYW6P",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los Instrumentos De La Música Afrocubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "306 p."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-959-10-0240-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "es-CU"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "G4WJEULW",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los Instrumentos De La Música Afrocubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-959-10-0240-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "es-CU"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "LV3EFRY8",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los Instrumentos De La Música Afrocubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Cárdenas y Cía, 1954."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-959-10-0240-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "es-CU"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "6A6MIAGB",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los instrumentos de la música afrocubana: Serie completa"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "es-CU"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
         },
         {
           "field": "655",
@@ -25844,6 +26744,11 @@
           "field": "650",
           "label": "Subject",
           "value": "Herbs"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
         },
         {
           "field": "650",

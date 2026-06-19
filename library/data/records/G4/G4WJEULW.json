@@ -1,0 +1,163 @@
+{
+  "key": "G4WJEULW",
+  "uri": "https://medjat.irokosociety.org/id/library/G4WJEULW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G4WJEULW",
+  "zotero": {
+    "group": "6479329",
+    "key": "G4WJEULW",
+    "version": 4689,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G4WJEULW",
+    "dateAdded": "2026-06-19T22:04:16Z",
+    "dateModified": "2026-06-19T22:32:23Z"
+  },
+  "display": {
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      }
+    ],
+    "year": "1952",
+    "date": "1952",
+    "publisher": "Dirección de Cultura, Ministerio de Educación",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "La Habana",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3: Los tambores xilofónicos y los membranófonos abiertos, A a N.",
+    "issue": "",
+    "pages": "",
+    "abstract": "Complete five-volume set held by the Iroko Historical Society.",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "isbn": "978-959-10-0240-2",
+    "issn": "",
+    "university": "",
+    "language": "es-CU"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "es-CU"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African influences",
+      "Black people",
+      "Blacks",
+      "Drum",
+      "History and criticism",
+      "Medjat custody: IHS Holds",
+      "Music",
+      "Musical instruments",
+      "Percussion instruments",
+      "Percussion music"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los Instrumentos De La Música Afrocubana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-959-10-0240-2"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "es-CU"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Blacks"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Drum"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat custody: IHS Holds"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Musical instruments"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Percussion instruments"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Percussion music"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/G4/G4WJEULW.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/WHTMB7GD>
+  a schema:Book ;
+  schema:name "Los bailes y el teatro de los negros en el folklore de Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WHTMB7GD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WHTMB7GD" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1951" ;
+  dcterms:identifier "isbn:84-599-3387-3" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "Afroamerikanische Musik", "Black people", "Blacks", "Dans", "Folk dance music", "Folk dancing", "Folk music", "Historia", "Historia y crítica", "History", "History and criticism", "Music", "Música", "Música foklórica", "Música para dansas folklóricas", "Negers", "Negros", "Teatro", "Theater", "Toneel" .

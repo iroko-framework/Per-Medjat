@@ -12,7 +12,7 @@
   schema:url <https://medjat.irokosociety.org/library/?item=MP9FK9XE> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:MP9FK9XE" ;
-  schema:author "Ortiz, Fernando" ;
+  schema:author "Fernando Ortiz" ;
   schema:datePublished "1906" ;
   schema:publisher "Librería de Fernando Fé" ;
   dcterms:language "Spanish" ;

@@ -1023,17 +1023,6 @@
   dcterms:identifier "isbn:978-0-226-77158-8" ;
   dcterms:subject "Slavery -- Atlantic Ocean Region -- History" .
 
-<https://medjat.irokosociety.org/id/library/7GJM8FFV>
-  a schema:Thesis ;
-  schema:name "Martin Luther King, Jr.’s Struggle For Equality for Black People in America" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=7GJM8FFV> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:7GJM8FFV" ;
-  schema:description "This research is about “Martin Luther King Jr.’s Struggle for Equality for Black People in America”. This library research thesis is based on historical and biographical approach. The purpose of this research is to find out how Martin Luther King Jr. struggled for equality in America especially for the black people. Historical approach is used to view the historical background of the black people in America from the first settlement and first slave trade to the slave abolishment until in the middle of 20th Century. Biographical approach, however, is used in this thesis to view the struggle conducted by Martin Luther King Jr. in order to fight for the civil rights. After analyzing the background of the black people, the writer found out that the reason Martin Luther King Jr. fought for civil rights was because of the law that was not run in practice in America, even though black people are guaranteed by the law. Martin Luther King, Jr. made a significant change to America especially for the black people. Even though issues of racism are still found these days in America, generally the life of the black people in America developed to a good improvement in economy as well as in politics." ;
-  schema:author "Arief Wijaya Junor" ;
-  schema:datePublished "2003" ;
-  dcterms:subject "21st Century Education and Governance", "Attention Economy in Education and Business", "Education Methods and Practices" .
-
 <https://medjat.irokosociety.org/id/library/A2X8V4QE>
   a schema:ScholarlyArticle ;
   schema:name "When Is the Time of Slavery - The History of Slavery in Contemporary Legal and Political Argument" ;
@@ -1076,21 +1065,6 @@
   schema:sameAs <https://doi.org/10.4102/lit.v37i1.1290> ;
   dcterms:identifier "doi:10.4102/lit.v37i1.1290" ;
   dcterms:subject "Canadian Identity and History", "Caribbean and African Literature and Culture", "Migration, Identity, and Health" .
-
-<https://medjat.irokosociety.org/id/library/FAFN5XPR>
-  a schema:ScholarlyArticle ;
-  schema:name "Ancient viral genomes reveal introduction of human pathogenic viruses into Mexico during the transatlantic slave trade" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=FAFN5XPR> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:FAFN5XPR" ;
-  schema:description "After the European colonization of the Americas, there was a dramatic population collapse of the Indigenous inhabitants caused in part by the introduction of new pathogens. Although there is much speculation on the etiology of the Colonial epidemics, direct evidence for the presence of specific viruses during the Colonial era is lacking. To uncover the diversity of viral pathogens during this period, we designed an enrichment assay targeting ancient DNA (aDNA) from viruses of clinical importance and applied it to DNA extracts from individuals found in a Colonial hospital and a Colonial chapel (16th-18th century) where records suggest that victims of epidemics were buried during important outbreaks in Mexico City. This allowed us to reconstruct three ancient human parvovirus B19 genomes and one ancient human hepatitis B virus genome from distinct individuals. The viral genomes are similar to African strains, consistent with the inferred morphological and genetic African ancestry of the hosts as well as with the isotopic analysis of the human remains, suggesting an origin on the African continent. This study provides direct molecular evidence of ancient viruses being transported to the Americas during the transatlantic slave trade and their subsequent introduction to New Spain. Altogether, our observations enrich the discussion about the etiology of infectious diseases during the Colonial period in Mexico." ;
-  schema:author "Axel Guzmán-Solís" ;
-  schema:creator "Viridiana Villa-Islas", "Miriam Bravo-Lopez", "Marcela Sandoval‐Velasco", "Julie K. Wesp", "Jorge Gómez‐Valdés", "María de la Luz Moreno-Cabrera", "Alejandro Meraz", "Gabriela Solís‐Pichardo", "Peter Schaaf", "Benjamin R. tenOever", "Daniel Blanco-Melo", "María C. Ávila‐Arcos" ;
-  schema:datePublished "2021" ;
-  schema:publisher "eLife" ;
-  schema:sameAs <https://doi.org/10.7554/elife.68612> ;
-  dcterms:identifier "doi:10.7554/elife.68612" ;
-  dcterms:subject "Vibrio bacteria research studies", "Yersinia bacterium, plague, ectoparasites research", "Zoonotic diseases and public health" .
 
 <https://medjat.irokosociety.org/id/library/INDXBY33>
   a schema:ScholarlyArticle ;
@@ -5427,20 +5401,6 @@
   dcterms:identifier "doi:10.1002/j.1834-4453.2010.tb00085.x" ;
   dcterms:subject "Archaeology and ancient environmental studies", "Geology and Paleoclimatology Research", "Pacific and Southeast Asian Studies" .
 
-<https://medjat.irokosociety.org/id/library/R3LLERE7>
-  a schema:ScholarlyArticle ;
-  schema:name "Pig and dog use in the pre‐contact Society Island Chiefdoms: integrated ethnohistoric, archaeological and use‐web analyses" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=R3LLERE7> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:R3LLERE7" ;
-  schema:description "ABSTRACT Pig and dog were highly valued animals in pre‐contact Polynesia. In this paper, I focus on pig and dog use in the resource rich, and hierarchically complex, pre‐contact Society Island chiefdoms. Utilizing ethnohistoric data and human‐centred use‐webs data, I provide a preliminary study of the diverse ways that pigs and dogs were used in pre‐contact Mā‘ohi life across 13 use categories. Ethnohistoric analyses indicate that pigs, and to some extent dogs, were intimately associated with elite ceremonial use, yet pigs were commonly associated with war and fertility rituals, while dogs were commonly associated with peacekeeping events. Preliminary comparison of pig and dog frequencies at eight excavated archaeological sites suggests pig bones far outnumber dog bones. There is also differential recovery of pig and dog bone in terms of site function and site status, with high status temples dating to the Centralization Phase having the highest incidence of both species. It is highly likely that the advent of the ‘Oro war cult led to intensified pig husbandry, given this animal's robust associations with ritual use, moral notions of chiefly power and cosmology. Why dog husbandry was less intensified in the Society Islands, and why this animal was perhaps accessed largely through long‐distance trade relationships, is an ongoing question." ;
-  schema:author "Jennifer G. Kahn" ;
-  schema:datePublished "2024" ;
-  schema:publisher "Archaeology in Oceania/Archæology & physical anthropology in Oceania" ;
-  schema:sameAs <https://doi.org/10.1002/arco.5314> ;
-  dcterms:identifier "doi:10.1002/arco.5314" ;
-  dcterms:subject "Archaeology and ancient environmental studies", "Pacific and Southeast Asian Studies", "Wildlife Ecology and Conservation" .
-
 <https://medjat.irokosociety.org/id/library/DE83T4Q3>
   a schema:Thesis ;
   schema:name "Diasporic identities, autochthonous rights: Race, gender, and the cultural politics of Creole land rights in Nicaragua" ;
@@ -5527,19 +5487,6 @@
   schema:sameAs <https://doi.org/10.15781/t2gt5fh15> ;
   dcterms:identifier "doi:10.15781/t2gt5fh15" ;
   dcterms:subject "History and Politics in Latin America" .
-
-<https://medjat.irokosociety.org/id/library/MVSERMCI>
-  a schema:Thesis ;
-  schema:name "Feminism in Frances Trollope's Domestic Manners of the Americans, The Vicar of Wrexhill, The Life and Adventures of Jonathan Jefferson Whitlaw and Jessie Phillips" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=MVSERMCI> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:MVSERMCI" ;
-  schema:description "In The Domestic Manners of the Americans (1832), the travelogue that launched Trollope's career as a literary figure, she accounts the four years spent living in America with the majority of her children and without her husband. The Life and Adventures of Jonathan Jefferson Whitlaw (1836), published fifteen years before Uncle Tom's Cabin, is the first anti-slavery novel written in English. Other novels, like The Vicar of Wrexhill (1834) and Jessie Phillips (1844) discuss legal matters. A common thread connects much of Trollope's work. That thread is feminism, which places her in the company of (and somewhere in between) Mary Wollstonecraft and Virginia Woolf. In the first chapter, I discuss Trollope's travelogue, Domestic Manners of the Americans (1832) and her novel, The Vicar of Wrexhill (1837) in relation to traditional feminine virtues. I argue that Trollope challenges these virtues, suggesting that they are subject to perversion, which endangers women and the societies in which they live. Instead, Trollope sets forth another idea of femininity, supplementing these virtues with education, occupation, self-sufficiency and friendship. In America, Trollope recognizes the danger in the possession of the four virtues alone, and in her novel, set in England, she shows that the addition of education and occupation avert danger and maintain a stable society. In the second chapter, I discuss two of Trollope's protest novels, The Life and Adventures of Jonathan Jefferson Whitlaw (1836) and Jessie Phillips (1844). Both of these novels protest the laws that Trollope felt were unjust. In Jonathan Jefferson Whitlaw, she discusses the wrongs of slavery in America. Jessie Phillips protests the New Poor Law of 1834 and is also largely concerned with the bastardy clause, seduction and infanticide. I argue that Trollope is interested in challenging the laws of society. She proposes changes in societal laws that govern the relationships between male and female, rich and poor, white and black, and master and slave. Her solution involves a cooperation and coexistence between all of these binaries, with an emphasis on the role of the female. In these novels, Trollope suggests that the morality women possess can aid in the stability in society if the women take an active role." ;
-  schema:author "Jessica Boulard" ;
-  schema:datePublished "2005" ;
-  schema:sameAs <https://doi.org/10.31390/gradschool_theses.559> ;
-  dcterms:identifier "doi:10.31390/gradschool_theses.559" ;
-  dcterms:subject "Literature: history, themes, analysis", "Multicultural Socio-Legal Studies", "Travel Writing and Literature" .
 
 <https://medjat.irokosociety.org/id/library/BE87WKHU>
   a schema:Thesis ;
@@ -6329,21 +6276,6 @@
   schema:sameAs <https://doi.org/10.15517/rehmlac.v12i1-2.41637> ;
   dcterms:identifier "doi:10.15517/rehmlac.v12i1-2.41637" ;
   dcterms:subject "Environmental and Cultural Studies in Latin America and Beyond", "Financial Crisis of the 21st Century", "Psychedelics and Drug Studies" .
-
-<https://medjat.irokosociety.org/id/library/FED5QFE4>
-  a schema:ScholarlyArticle ;
-  schema:name "Influence of Constructional-Material Parameters on the Fire Properties of Electric Cables" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=FED5QFE4> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:FED5QFE4" ;
-  schema:description "The significant number of cables of different materials and construction used extensively in building objects increases their fire load and, therefore, strongly influences safety in the case of fire. The purpose of the study was to identify relevant factors related to the construction of electrical cables, and perform a qualitative and quantitative assessment of their influence on specific fire properties, such as heat release and smoke production. Fifteen cables of different construction and materials were studied using the EN 50399 standard test. The analysis was focused on cable constructional-material parameters related to the chemical composition of non-metallic elements and the number and shape of conductors in the cable, as well as the concentric barrier as armor or the copper concentric conductor. The conclusions drawn from the experiments were: (1) Construction, the number of conductors, and the presence of armor or concentric metallic conductors improve the fire properties by forming a barrier against flame penetration through the cable; (2) the use of copper conductors resulted in a decrease of fire parameters compared to cables with aluminum conductors (peakHRRav parameter even four times lower for copper cable); (3) construction material based on non-plasticized poly(vinyl chloride) (PVC) significantly reduced the fire properties of cables more than halogen-free materials (LS0H) (peakHRRav parameter more than 17 times higher for the fully halogenated cable), which is due to the decomposition process of the material; and (4) no clear relationship between the fire parameters and the cable parameter, χ, was found." ;
-  schema:author "Katarzyna Kaczorek-Chrobak" ;
-  schema:creator "Jadwiga Fangrat" ;
-  schema:datePublished "2019" ;
-  schema:publisher "Energies" ;
-  schema:sameAs <https://doi.org/10.3390/en12234569> ;
-  dcterms:identifier "doi:10.3390/en12234569" ;
-  dcterms:subject "Fire Detection and Safety Systems", "Fire dynamics and safety research", "Transportation Safety and Impact Analysis" .
 
 <https://medjat.irokosociety.org/id/library/SA3N7TLY>
   a schema:ScholarlyArticle ;
@@ -9004,19 +8936,6 @@
   dcterms:identifier "doi:10.4314/ejesm.v3i3.63967" ;
   dcterms:subject "Urban and Rural Development Challenges" .
 
-<https://medjat.irokosociety.org/id/library/NI47ADZ9>
-  a schema:ScholarlyArticle ;
-  schema:name "Polycyclic Aromatic Hydrocarbons in Smokes of Two Biomasses Used For Domestic Cooking In Nigeria" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=NI47ADZ9> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:NI47ADZ9" ;
-  schema:description "Domestic cooking of foods is predominantly carried out in Nigeria through the burning of different types of biomass. Smoke resulting from such burning in most cases is been inhaled by people in the immediate environment where the cooking exercise is taking place. Where incomplete combustion occurs, the smoke may carry some products of incomplete combustion; prominent among these are polycyclic aromatic hydrocarbons (PAHs). Some of these PAHs have been implicated for various health challenges such as cancer. Incomplete combustion of fuels is known to generate PAHs. Smokes from some biomasses have also been established to contain some PAHs.This group of organic compounds is of global environment concern. The composition and concentration of PAHs in the smokes of two biomasses used in domestic cooking in Nigeria were determined. For this purpose, a pyrolytic unit was fabricated and used for the pyrolysis of Wood Charcoal (WC) and Palm Kernel Shell (PKS). Gases resulting from their pyrolysis were collected and analyzed using Gas Chromatography (GC). The results of GC analysis showed that the composition and concentration of PAHs in gas obtained from the pyrolysis of WC were; Acenaphthene (0.218µg/cm 3), Fluorene (0.573 µg/cm" ;
-  schema:author "Ojeyemi M. Olabemiwo" ;
-  schema:creator "Akinola David Ogunsola" ;
-  schema:datePublished "2014" ;
-  schema:publisher "Journals & Books Hosting (International Knowledge Sharing Platform)" ;
-  dcterms:subject "Fire dynamics and safety research", "Thermochemical Biomass Conversion Processes", "Toxic Organic Pollutants Impact" .
-
 <https://medjat.irokosociety.org/id/library/JS2ZE6JY>
   a schema:ScholarlyArticle ;
   schema:name "Gender, use and attitude towards English taboo words among young adults in a Nigerian university" ;
@@ -9860,17 +9779,6 @@
   schema:sameAs <https://doi.org/10.1086/719653> ;
   dcterms:identifier "doi:10.1086/719653" ;
   dcterms:subject "Income, Poverty, and Inequality", "Intergenerational and Educational Inequality Studies", "Urban, Neighborhood, and Segregation Studies" .
-
-<https://medjat.irokosociety.org/id/library/UKM9KL5H>
-  a schema:ScholarlyArticle ;
-  schema:name "Revista Ambiente y Desarrollo" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=UKM9KL5H> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:UKM9KL5H" ;
-  schema:author "Revista Ambiente y Desarrollo" ;
-  schema:datePublished "2017" ;
-  schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
-  dcterms:subject "Environmental and Ecological Studies", "Environmental and sustainability education", "Water Resource Management and Quality" .
 
 <https://medjat.irokosociety.org/id/library/24MNVWVJ>
   a schema:Thesis ;
@@ -10738,20 +10646,6 @@
   schema:sameAs <https://doi.org/10.1111/j.1469-8676.2006.tb00026.x> ;
   dcterms:identifier "doi:10.1111/j.1469-8676.2006.tb00026.x" ;
   dcterms:subject "Anthropological Studies and Insights", "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade" .
-
-<https://medjat.irokosociety.org/id/library/3NZ89UFV>
-  a schema:ScholarlyArticle ;
-  schema:name "An Episode in the History of an Acoustic Mask" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=3NZ89UFV> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:3NZ89UFV" ;
-  schema:description "In 1908, two black Cuban brothers, held a temple on Philadelphia’s North Fairmount Avenue, which appears to have combined Edinsonian sound technology with elements from the ritual repertoire of the Abakuá male esoteric brotherhood. I suggest that the technologically enriched “echo” of the Leal brothers can be analysed heuristically as the locus of a remarkable convergence between phonic and auditory ideologies underlying the mediation of the divine in the Abakuá, and acoustic transmission technologies through time and space – particularly telephony and phonography – that had begun to reconfigure the Western auditory worlds by the second half of the 19th century." ;
-  schema:author "Stephan Palmié" ;
-  schema:datePublished "2019" ;
-  schema:publisher "Archives de sciences sociales des religions" ;
-  schema:sameAs <https://doi.org/10.4000/assr.46061> ;
-  dcterms:identifier "doi:10.4000/assr.46061" ;
-  dcterms:subject "Asian American and Pacific Histories", "Culinary Culture and Tourism", "Historical Studies and Socio-cultural Analysis", "Latin American and Latino Studies", "Music History and Culture", "Travel Writing and Literature" .
 
 <https://medjat.irokosociety.org/id/library/TXAN2KHV>
   a schema:ScholarlyArticle ;
@@ -11809,21 +11703,6 @@
   schema:sameAs <https://doi.org/10.1088/1748-9326/adaa8b> ;
   dcterms:identifier "doi:10.1088/1748-9326/adaa8b" ;
   dcterms:subject "Ocean Acidification Effects and Responses" .
-
-<https://medjat.irokosociety.org/id/library/Z2IFX23G>
-  a schema:ScholarlyArticle ;
-  schema:name "Modern Slavery in Projects: A Systematic Literature Review and Research Agenda" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=Z2IFX23G> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:Z2IFX23G" ;
-  schema:description "It is estimated that 40.3 million individuals are victims of modern slavery, including those exploited in projects. In project studies, there are growing research streams on topics, such as ethics, sustainability and fairness, yet modern slavery is vastly ignored. This article presents a systematic literature review on modern slavery. After summarizing the main forms and consequences of modern slavery, it focuses on construction projects explaining the structural conditions making construction projects prone to modern slavery, the kafala system, and what can be done to address modern slavery. Lastly, the article introduces propositions, a research agenda, and implications for practice." ;
-  schema:author "Yazan Alzoubi" ;
-  schema:creator "Giorgio Locatelli", "Tristano Sainati" ;
-  schema:datePublished "2023" ;
-  schema:publisher "Project Management Journal" ;
-  schema:sameAs <https://doi.org/10.1177/87569728221148158> ;
-  dcterms:identifier "doi:10.1177/87569728221148158" ;
-  dcterms:subject "HIV, Drug Use, Sexual Risk", "Sex work and related issues", "Water Governance and Infrastructure" .
 
 <https://medjat.irokosociety.org/id/library/RRNKVKWU>
   a schema:Thesis ;

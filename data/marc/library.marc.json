@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T00:44:19Z",
-  "count": 918,
+  "generatedAt": "2026-06-19T12:20:41Z",
+  "count": 909,
   "records": [
     {
       "key": "NRPNX5IM",
@@ -3363,46 +3363,6 @@
       ]
     },
     {
-      "key": "7GJM8FFV",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Arief Wijaya Junor"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Martin Luther King, Jr.’s Struggle For Equality for Black People in America"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2003."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "21st Century Education and Governance"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Attention Economy in Education and Business"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Education Methods and Practices"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "A2X8V4QE",
       "marc": [
         {
@@ -3519,111 +3479,6 @@
           "field": "700",
           "label": "Added entry - editor",
           "value": "Emmanuel K. Kayembe"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "FAFN5XPR",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Axel Guzmán-Solís"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Ancient viral genomes reveal introduction of human pathogenic viruses into Mexico during the transatlantic slave trade"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "eLife, 2021."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.7554/elife.68612"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Vibrio bacteria research studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Yersinia bacterium, plague, ectoparasites research"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Zoonotic diseases and public health"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Viridiana Villa-Islas"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Miriam Bravo-Lopez"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Marcela Sandoval‐Velasco"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Julie K. Wesp"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Jorge Gómez‐Valdés"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "María de la Luz Moreno-Cabrera"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Alejandro Meraz"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Gabriela Solís‐Pichardo"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Peter Schaaf"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Benjamin R. tenOever"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Daniel Blanco-Melo"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "María C. Ávila‐Arcos"
         },
         {
           "field": "655",
@@ -18533,56 +18388,6 @@
       ]
     },
     {
-      "key": "R3LLERE7",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Jennifer G. Kahn"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Pig and dog use in the pre‐contact Society Island Chiefdoms: integrated ethnohistoric, archaeological and use‐web analyses"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Archaeology in Oceania/Archæology & physical anthropology in Oceania, 2024."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "219-233 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1002/arco.5314"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeology and ancient environmental studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Pacific and Southeast Asian Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Wildlife Ecology and Conservation"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "DE83T4Q3",
       "marc": [
         {
@@ -18844,51 +18649,6 @@
           "field": "650",
           "label": "Subject",
           "value": "History and Politics in Latin America"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "MVSERMCI",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Jessica Boulard"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Feminism in Frances Trollope's Domestic Manners of the Americans, The Vicar of Wrexhill, The Life and Adventures of Jonathan Jefferson Whitlaw and Jessie Phillips"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2005."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.31390/gradschool_theses.559"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Literature: history, themes, analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Multicultural Socio-Legal Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Travel Writing and Literature"
         },
         {
           "field": "655",
@@ -21604,61 +21364,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Psychedelics and Drug Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "FED5QFE4",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Katarzyna Kaczorek-Chrobak"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Influence of Constructional-Material Parameters on the Fire Properties of Electric Cables"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Energies, 2019."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "4569-4569 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3390/en12234569"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Fire Detection and Safety Systems"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Fire dynamics and safety research"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Transportation Safety and Impact Analysis"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Jadwiga Fangrat"
         },
         {
           "field": "655",
@@ -30618,56 +30323,6 @@
       ]
     },
     {
-      "key": "NI47ADZ9",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ojeyemi M. Olabemiwo"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Polycyclic Aromatic Hydrocarbons in Smokes of Two Biomasses Used For Domestic Cooking In Nigeria"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Journals & Books Hosting (International Knowledge Sharing Platform), 2014."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "101-106 p."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Fire dynamics and safety research"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Thermochemical Biomass Conversion Processes"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Toxic Organic Pollutants Impact"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Akinola David Ogunsola"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "JS2ZE6JY",
       "marc": [
         {
@@ -33454,46 +33109,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Urban, Neighborhood, and Segregation Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "UKM9KL5H",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Revista Ambiente y Desarrollo"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Revista Ambiente y Desarrollo"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2017."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Environmental and Ecological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Environmental and sustainability education"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Water Resource Management and Quality"
         },
         {
           "field": "655",
@@ -36464,71 +36079,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Colonialism, slavery, and trade"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "3NZ89UFV",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Stephan Palmié"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "An Episode in the History of an Acoustic Mask"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Archives de sciences sociales des religions, 2019."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "127-147 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.4000/assr.46061"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Asian American and Pacific Histories"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Culinary Culture and Tourism"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Studies and Socio-cultural Analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Latin American and Latino Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Music History and Culture"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Travel Writing and Literature"
         },
         {
           "field": "655",
@@ -40219,66 +39769,6 @@
           "field": "700",
           "label": "Added entry - editor",
           "value": "Xinping Hu"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "Z2IFX23G",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Yazan Alzoubi"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Modern Slavery in Projects: A Systematic Literature Review and Research Agenda"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Project Management Journal, 2023."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "235-252 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1177/87569728221148158"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "HIV, Drug Use, Sexual Risk"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Sex work and related issues"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Water Governance and Infrastructure"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Giorgio Locatelli"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Tristano Sainati"
         },
         {
           "field": "655",

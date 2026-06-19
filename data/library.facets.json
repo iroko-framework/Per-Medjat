@@ -2,11 +2,11 @@
   "recordTypes": {
     "journalArticle": {
       "label": "Journal Article",
-      "count": 453
+      "count": 446
     },
     "thesis": {
       "label": "Thesis / Dissertation",
-      "count": 323
+      "count": 321
     },
     "book": {
       "label": "Book",
@@ -36,7 +36,7 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 884
+      "count": 875
     },
     "West African traditions": 17,
     "Central African traditions": 9,
@@ -52,7 +52,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 908
+      "count": 899
     },
     "Secret Society": 4,
     "Lineage": 3,
@@ -65,7 +65,7 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 918
+      "count": 909
     }
   },
   "frameworkClasses": {},
@@ -73,7 +73,7 @@
     "Ewé": 2
   },
   "access": {
-    "Public": 912,
+    "Public": 903,
     "Community": 6
   }
 }

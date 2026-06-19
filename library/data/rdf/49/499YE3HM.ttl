@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/499YE3HM>
+  a schema:Book ;
+  schema:name "La africanía de la musica folklórica de Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=499YE3HM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:499YE3HM" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:creator "Fernando Ortiz" ;
+  schema:datePublished "1950" ;
+  dcterms:identifier "isbn:978-959-10-0153-5" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "African Music", "African influences", "Black people", "Blacks", "Folk music", "Historia y crítica", "History and criticism", "Influencias africanas", "Music", "Music,", "Music, African", "Música", "Música folklórica", "Negros" .

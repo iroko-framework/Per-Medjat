@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/6A6MIAGB>
+  a schema:Book ;
+  schema:name "Los instrumentos de la música afrocubana: Serie completa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6A6MIAGB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6A6MIAGB" ;
+  schema:description "Complete five-volume set held by the Iroko Historical Society." ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1952" ;
+  schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .

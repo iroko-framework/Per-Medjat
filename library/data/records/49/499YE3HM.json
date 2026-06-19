@@ -1,0 +1,196 @@
+{
+  "key": "499YE3HM",
+  "uri": "https://medjat.irokosociety.org/id/library/499YE3HM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=499YE3HM",
+  "zotero": {
+    "group": "6479329",
+    "key": "499YE3HM",
+    "version": 4587,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/499YE3HM",
+    "dateAdded": "2026-06-19T21:38:11Z",
+    "dateModified": "2026-06-19T21:38:11Z"
+  },
+  "display": {
+    "title": "La africanía de la musica folklórica de Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      },
+      {
+        "role": "series editor",
+        "name": "Fernando Ortiz"
+      }
+    ],
+    "year": "1950",
+    "date": "1950",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689685W",
+    "isbn": "978-959-10-0153-5",
+    "issn": "",
+    "university": "",
+    "language": "spa"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Music",
+      "African influences",
+      "Black people",
+      "Blacks",
+      "Folk music",
+      "Historia y crítica",
+      "History and criticism",
+      "Influencias africanas",
+      "Music",
+      "Music,",
+      "Music, African",
+      "Música",
+      "Música folklórica",
+      "Negros"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La africanía de la musica folklórica de Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1950."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-959-10-0153-5"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Blacks"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folk music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historia y crítica"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Influencias africanas"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music,"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music, African"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Música"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Música folklórica"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Negros"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Fernando Ortiz"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/49/499YE3HM.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

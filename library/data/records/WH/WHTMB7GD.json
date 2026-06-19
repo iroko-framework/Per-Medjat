@@ -1,0 +1,223 @@
+{
+  "key": "WHTMB7GD",
+  "uri": "https://medjat.irokosociety.org/id/library/WHTMB7GD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WHTMB7GD",
+  "zotero": {
+    "group": "6479329",
+    "key": "WHTMB7GD",
+    "version": 4596,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WHTMB7GD",
+    "dateAdded": "2026-06-19T21:38:13Z",
+    "dateModified": "2026-06-19T21:38:13Z"
+  },
+  "display": {
+    "title": "Los bailes y el teatro de los negros en el folklore de Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      }
+    ],
+    "year": "1951",
+    "date": "1951",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689728W",
+    "isbn": "84-599-3387-3",
+    "issn": "",
+    "university": "",
+    "language": "spa"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Afroamerikanische Musik",
+      "Black people",
+      "Blacks",
+      "Dans",
+      "Folk dance music",
+      "Folk dancing",
+      "Folk music",
+      "Historia",
+      "Historia y crítica",
+      "History",
+      "History and criticism",
+      "Music",
+      "Música",
+      "Música foklórica",
+      "Música para dansas folklóricas",
+      "Negers",
+      "Negros",
+      "Teatro",
+      "Theater",
+      "Toneel"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los bailes y el teatro de los negros en el folklore de Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1951."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "84-599-3387-3"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afroamerikanische Musik"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Blacks"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Dans"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folk dance music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folk dancing"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folk music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historia"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historia y crítica"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Música"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Música foklórica"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Música para dansas folklóricas"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Negers"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Negros"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Teatro"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Theater"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Toneel"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WH/WHTMB7GD.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

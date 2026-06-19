@@ -1,0 +1,168 @@
+{
+  "key": "8H3R7FJX",
+  "uri": "https://medjat.irokosociety.org/id/library/8H3R7FJX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8H3R7FJX",
+  "zotero": {
+    "group": "6479329",
+    "key": "8H3R7FJX",
+    "version": 4687,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8H3R7FJX",
+    "dateAdded": "2026-06-19T21:50:03Z",
+    "dateModified": "2026-06-19T22:32:45Z"
+  },
+  "display": {
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      }
+    ],
+    "year": "1955",
+    "date": "1955",
+    "publisher": "Cárdenas y Cía",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "La Habana",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5: Los pulsativos, los fricativos, los insuflativos y los aeritivos",
+    "issue": "",
+    "pages": "529",
+    "abstract": "Complete five-volume set held by the Iroko Historical Society.",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "isbn": "978-959-10-0240-2",
+    "issn": "",
+    "university": "",
+    "language": "es-CU"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "es-CU"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African influences",
+      "Black people",
+      "Blacks",
+      "Drum",
+      "History and criticism",
+      "Medjat custody: IHS Holds",
+      "Music",
+      "Musical instruments",
+      "Percussion instruments",
+      "Percussion music"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los Instrumentos De La Música Afrocubana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "La Habana: Cárdenas y Cía, 1955."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "529 p."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-959-10-0240-2"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "es-CU"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Blacks"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Drum"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat custody: IHS Holds"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Musical instruments"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Percussion instruments"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Percussion music"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8H/8H3R7FJX.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

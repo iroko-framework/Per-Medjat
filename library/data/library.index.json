@@ -5365,6 +5365,44 @@
     "recordPath": "/library/data/records/AL/ALVV8DXE.json"
   },
   {
+    "key": "MP9FK9XE",
+    "title": "Los negros brujos",
+    "subtitle": "",
+    "creators": [
+      "Fernando Ortiz"
+    ],
+    "year": "1906",
+    "date": "1906",
+    "publisher": "Librería de Fernando Fé",
+    "publicationLine": "Madrid: Librería de Fernando Fé, 1906.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [
+      "West African traditions",
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "los negros brujos fernando ortiz 1906 librería de fernando fé book book west african traditions central african traditions afro-cuban religion cuba archival-latency-paper colonial ethnography spanish afro-cuban religion cuba tradition: abakuá tradition: palo mayombe tradition: palo monte archival-latency-paper colonial ethnography",
+    "recordPath": "/library/data/records/MP/MP9FK9XE.json"
+  },
+  {
     "key": "R3494E7G",
     "title": "Freedom's mirror: Cuba and Haiti in the age of revolution",
     "subtitle": "",
@@ -14682,26 +14720,24 @@
     "recordPath": "/library/data/records/T6/T6N9PVSX.json"
   },
   {
-    "key": "MP9FK9XE",
-    "title": "Los negros brujos",
+    "key": "9FM9HCWW",
+    "title": "Cuban counterpoint",
     "subtitle": "",
     "creators": [
-      "Ortiz, Fernando"
+      "Ortiz, Fernando",
+      "Fernando Ortiz",
+      "Bronisław Malinowski",
+      "Fernando Ortiz",
+      "Fernando Ortiz"
     ],
-    "year": "1906",
-    "date": "1906",
-    "publisher": "Librería de Fernando Fé",
-    "publicationLine": "Madrid: Librería de Fernando Fé, 1906.",
+    "year": "1947",
+    "date": "1947",
+    "publisher": "",
+    "publicationLine": "1947.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "West African traditions",
-      "Central African traditions"
-    ],
-    "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -14715,9 +14751,298 @@
     ],
     "region": [],
     "doi": "",
+    "url": "https://openlibrary.org/works/OL689721W",
+    "searchText": "cuban counterpoint ortiz, fernando fernando ortiz bronisław malinowski fernando ortiz fernando ortiz 1947 book book civilization cuba cuba, history history sugar growing tobacco tobacco industry tobacco manufacture and trade spanish civilization cuba cuba, history history sugar growing tobacco tobacco industry tobacco manufacture and trade medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/9F/9FM9HCWW.json"
+  },
+  {
+    "key": "HPA8VE2E",
+    "title": "La \"clave\" xilofónica de la música cubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1935",
+    "date": "1935",
+    "publisher": "",
+    "publicationLine": "1935.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL1230222W",
+    "searchText": "la \"clave\" xilofónica de la música cubana ortiz, fernando 1935 book book history and criticism music percussion instruments spanish history and criticism music percussion instruments medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/HP/HPA8VE2E.json"
+  },
+  {
+    "key": "499YE3HM",
+    "title": "La africanía de la musica folklórica de Cuba",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando",
+      "Fernando Ortiz"
+    ],
+    "year": "1950",
+    "date": "1950",
+    "publisher": "",
+    "publicationLine": "1950.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689685W",
+    "searchText": "la africanía de la musica folklórica de cuba ortiz, fernando fernando ortiz 1950 book book african music african influences black people blacks folk music historia y crítica history and criticism influencias africanas music music, music, african música música folklórica negros spanish african music african influences black people blacks folk music historia y crítica history and criticism influencias africanas music music, music, african música música folklórica negros medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/49/499YE3HM.json"
+  },
+  {
+    "key": "WHTMB7GD",
+    "title": "Los bailes y el teatro de los negros en el folklore de Cuba",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1951",
+    "date": "1951",
+    "publisher": "",
+    "publicationLine": "1951.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689728W",
+    "searchText": "los bailes y el teatro de los negros en el folklore de cuba ortiz, fernando 1951 book book afroamerikanische musik black people blacks dans folk dance music folk dancing folk music historia historia y crítica history history and criticism music música música foklórica música para dansas folklóricas negers negros teatro theater toneel spanish afroamerikanische musik black people blacks dans folk dance music folk dancing folk music historia historia y crítica history history and criticism music música música foklórica música para dansas folklóricas negers negros teatro theater toneel medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/WH/WHTMB7GD.json"
+  },
+  {
+    "key": "8H3R7FJX",
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1955",
+    "date": "1955",
+    "publisher": "Cárdenas y Cía",
+    "publicationLine": "La Habana: Cárdenas y Cía, 1955.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "es-CU"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1955 cárdenas y cía book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music es-cu african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/8H/8H3R7FJX.json"
+  },
+  {
+    "key": "IEFUGH4M",
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1952",
+    "date": "1952",
+    "publisher": "Dirección de Cultura, Ministerio de Educación",
+    "publicationLine": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "es-CU"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music es-cu african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/IE/IEFUGH4M.json"
+  },
+  {
+    "key": "8JSCYW6P",
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1952",
+    "date": "1952",
+    "publisher": "Dirección de Cultura, Ministerio de Educación",
+    "publicationLine": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "es-CU"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music es-cu african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/8J/8JSCYW6P.json"
+  },
+  {
+    "key": "G4WJEULW",
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1952",
+    "date": "1952",
+    "publisher": "Dirección de Cultura, Ministerio de Educación",
+    "publicationLine": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "es-CU"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music es-cu african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/G4/G4WJEULW.json"
+  },
+  {
+    "key": "LV3EFRY8",
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1954",
+    "date": "1954",
+    "publisher": "Cárdenas y Cía",
+    "publicationLine": "La Habana: Cárdenas y Cía, 1954.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "es-CU"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689726W",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1954 cárdenas y cía book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music es-cu african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/LV/LV3EFRY8.json"
+  },
+  {
+    "key": "6A6MIAGB",
+    "title": "Los instrumentos de la música afrocubana: Serie completa",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1952",
+    "date": "1952",
+    "publisher": "Dirección de Cultura, Ministerio de Educación",
+    "publicationLine": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "es-CU"
+    ],
+    "region": [],
+    "doi": "",
     "url": "",
-    "searchText": "los negros brujos ortiz, fernando 1906 librería de fernando fé book book west african traditions central african traditions afro-cuban religion cuba archival-latency-paper colonial ethnography spanish afro-cuban religion cuba tradition: abakuá tradition: palo mayombe tradition: palo monte archival-latency-paper colonial ethnography",
-    "recordPath": "/library/data/records/MP/MP9FK9XE.json"
+    "searchText": "los instrumentos de la música afrocubana: serie completa ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music es-cu african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/6A/6A6MIAGB.json"
   },
   {
     "key": "H8RF2YXE",
@@ -18440,7 +18765,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "ewé: the use of plants in yoruba society verger, pierre 1995 odebrecht; editora schwarcz book book rituals ewé herbs yorubá ewé herbs theme: rituals yorubá",
+    "searchText": "ewé: the use of plants in yoruba society verger, pierre 1995 odebrecht; editora schwarcz book book rituals ewé herbs medjat custody: ihs holds yorubá ewé herbs medjat custody: ihs holds theme: rituals yorubá",
     "recordPath": "/library/data/records/39/39XACX54.json"
   },
   {

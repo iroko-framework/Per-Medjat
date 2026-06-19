@@ -2245,6 +2245,19 @@
   schema:publisher "Dialog : miesięcznik Związku Literatów Polskich" ;
   dcterms:subject "Central European Literary Studies" .
 
+<https://medjat.irokosociety.org/id/library/MP9FK9XE>
+  a schema:Book ;
+  schema:name "Los negros brujos" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MP9FK9XE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MP9FK9XE" ;
+  schema:author "Fernando Ortiz" ;
+  schema:datePublished "1906" ;
+  schema:publisher "Librería de Fernando Fé" ;
+  dcterms:language "Spanish" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/R3494E7G>
   a schema:Book ;
   schema:name "Freedom's mirror: Cuba and Haiti in the age of revolution" ;
@@ -6167,18 +6180,136 @@
   schema:publisher "The Journal of Pan-African Studies" ;
   dcterms:subject "African Sexualities and LGBTQ+ Issues", "African cultural and philosophical studies", "African studies and sociopolitical issues" .
 
-<https://medjat.irokosociety.org/id/library/MP9FK9XE>
+<https://medjat.irokosociety.org/id/library/9FM9HCWW>
   a schema:Book ;
-  schema:name "Los negros brujos" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=MP9FK9XE> ;
+  schema:name "Cuban counterpoint" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9FM9HCWW> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:MP9FK9XE" ;
+  dcterms:identifier "zotero:6479329:9FM9HCWW" ;
   schema:author "Ortiz, Fernando" ;
-  schema:datePublished "1906" ;
-  schema:publisher "Librería de Fernando Fé" ;
+  schema:creator "Fernando Ortiz", "Bronisław Malinowski", "Fernando Ortiz", "Fernando Ortiz" ;
+  schema:datePublished "1947" ;
+  dcterms:identifier "isbn:84-9007-109-8" ;
   dcterms:language "Spanish" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
+  dcterms:subject "Civilization", "Cuba", "Cuba, history", "History", "Sugar growing", "Tobacco", "Tobacco industry", "Tobacco manufacture and trade" .
+
+<https://medjat.irokosociety.org/id/library/HPA8VE2E>
+  a schema:Book ;
+  schema:name "La \"clave\" xilofónica de la música cubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HPA8VE2E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HPA8VE2E" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1935" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "History and criticism", "Music", "Percussion instruments" .
+
+<https://medjat.irokosociety.org/id/library/499YE3HM>
+  a schema:Book ;
+  schema:name "La africanía de la musica folklórica de Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=499YE3HM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:499YE3HM" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:creator "Fernando Ortiz" ;
+  schema:datePublished "1950" ;
+  dcterms:identifier "isbn:978-959-10-0153-5" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "African Music", "African influences", "Black people", "Blacks", "Folk music", "Historia y crítica", "History and criticism", "Influencias africanas", "Music", "Music,", "Music, African", "Música", "Música folklórica", "Negros" .
+
+<https://medjat.irokosociety.org/id/library/WHTMB7GD>
+  a schema:Book ;
+  schema:name "Los bailes y el teatro de los negros en el folklore de Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WHTMB7GD> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WHTMB7GD" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1951" ;
+  dcterms:identifier "isbn:84-599-3387-3" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "Afroamerikanische Musik", "Black people", "Blacks", "Dans", "Folk dance music", "Folk dancing", "Folk music", "Historia", "Historia y crítica", "History", "History and criticism", "Music", "Música", "Música foklórica", "Música para dansas folklóricas", "Negers", "Negros", "Teatro", "Theater", "Toneel" .
+
+<https://medjat.irokosociety.org/id/library/8H3R7FJX>
+  a schema:Book ;
+  schema:name "Los Instrumentos De La Música Afrocubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8H3R7FJX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8H3R7FJX" ;
+  schema:description "Complete five-volume set held by the Iroko Historical Society." ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1955" ;
+  schema:publisher "Cárdenas y Cía" ;
+  dcterms:identifier "isbn:978-959-10-0240-2" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
+
+<https://medjat.irokosociety.org/id/library/IEFUGH4M>
+  a schema:Book ;
+  schema:name "Los Instrumentos De La Música Afrocubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IEFUGH4M> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IEFUGH4M" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1952" ;
+  schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
+  dcterms:identifier "isbn:978-959-10-0240-2" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
+
+<https://medjat.irokosociety.org/id/library/8JSCYW6P>
+  a schema:Book ;
+  schema:name "Los Instrumentos De La Música Afrocubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=8JSCYW6P> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:8JSCYW6P" ;
+  schema:description "Complete five-volume set held by the Iroko Historical Society." ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1952" ;
+  schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
+  dcterms:identifier "isbn:978-959-10-0240-2" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
+
+<https://medjat.irokosociety.org/id/library/G4WJEULW>
+  a schema:Book ;
+  schema:name "Los Instrumentos De La Música Afrocubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G4WJEULW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G4WJEULW" ;
+  schema:description "Complete five-volume set held by the Iroko Historical Society." ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1952" ;
+  schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
+  dcterms:identifier "isbn:978-959-10-0240-2" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
+
+<https://medjat.irokosociety.org/id/library/LV3EFRY8>
+  a schema:Book ;
+  schema:name "Los Instrumentos De La Música Afrocubana" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LV3EFRY8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LV3EFRY8" ;
+  schema:description "Complete five-volume set held by the Iroko Historical Society." ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1954" ;
+  schema:publisher "Cárdenas y Cía" ;
+  dcterms:identifier "isbn:978-959-10-0240-2" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
+
+<https://medjat.irokosociety.org/id/library/6A6MIAGB>
+  a schema:Book ;
+  schema:name "Los instrumentos de la música afrocubana: Serie completa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=6A6MIAGB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:6A6MIAGB" ;
+  schema:description "Complete five-volume set held by the Iroko Historical Society." ;
+  schema:author "Ortiz, Fernando" ;
+  schema:datePublished "1952" ;
+  schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
+  dcterms:language "es-CU" ;
+  dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/H8RF2YXE>
   a schema:Thesis ;
@@ -7728,7 +7859,7 @@
   schema:publisher "Odebrecht; Editora Schwarcz" ;
   dcterms:identifier "isbn:85-7164-514-0" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html> ;
-  dcterms:subject "Rituals", "Herbs", "Yorubá" .
+  dcterms:subject "Rituals", "Herbs", "Medjat custody: IHS Holds", "Yorubá" .
 
 <https://medjat.irokosociety.org/id/library/TDYPAVS4>
   a schema:ScholarlyArticle ;

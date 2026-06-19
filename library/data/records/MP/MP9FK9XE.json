@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "MP9FK9XE",
-    "version": 1478,
+    "version": 4586,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MP9FK9XE",
     "dateAdded": "2026-05-04T01:04:16Z",
-    "dateModified": "2026-05-04T12:27:28Z"
+    "dateModified": "2026-06-19T21:31:25Z"
   },
   "display": {
     "title": "Los negros brujos",
@@ -18,7 +18,7 @@
     "creators": [
       {
         "role": "author",
-        "name": "Ortiz, Fernando"
+        "name": "Fernando Ortiz"
       }
     ],
     "year": "1906",
@@ -72,7 +72,7 @@
     {
       "field": "100",
       "label": "Author",
-      "value": "Ortiz, Fernando"
+      "value": "Fernando Ortiz"
     },
     {
       "field": "245",

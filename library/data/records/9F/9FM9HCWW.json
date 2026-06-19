@@ -1,0 +1,187 @@
+{
+  "key": "9FM9HCWW",
+  "uri": "https://medjat.irokosociety.org/id/library/9FM9HCWW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9FM9HCWW",
+  "zotero": {
+    "group": "6479329",
+    "key": "9FM9HCWW",
+    "version": 4590,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9FM9HCWW",
+    "dateAdded": "2026-06-19T21:38:11Z",
+    "dateModified": "2026-06-19T21:38:11Z"
+  },
+  "display": {
+    "title": "Cuban counterpoint",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      },
+      {
+        "role": "series editor",
+        "name": "Fernando Ortiz"
+      },
+      {
+        "role": "series editor",
+        "name": "Bronisław Malinowski"
+      },
+      {
+        "role": "series editor",
+        "name": "Fernando Ortiz"
+      },
+      {
+        "role": "series editor",
+        "name": "Fernando Ortiz"
+      }
+    ],
+    "year": "1947",
+    "date": "1947",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL689721W",
+    "isbn": "84-9007-109-8",
+    "issn": "",
+    "university": "",
+    "language": "spa"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Civilization",
+      "Cuba",
+      "Cuba, history",
+      "History",
+      "Sugar growing",
+      "Tobacco",
+      "Tobacco industry",
+      "Tobacco manufacture and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cuban counterpoint"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1947."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "84-9007-109-8"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Civilization"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba, history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sugar growing"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Tobacco"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Tobacco industry"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Tobacco manufacture and trade"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Fernando Ortiz"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Bronisław Malinowski"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Fernando Ortiz"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Fernando Ortiz"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/9F/9FM9HCWW.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

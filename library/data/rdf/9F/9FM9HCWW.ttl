@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/9FM9HCWW>
+  a schema:Book ;
+  schema:name "Cuban counterpoint" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9FM9HCWW> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9FM9HCWW" ;
+  schema:author "Ortiz, Fernando" ;
+  schema:creator "Fernando Ortiz", "Bronisław Malinowski", "Fernando Ortiz", "Fernando Ortiz" ;
+  schema:datePublished "1947" ;
+  dcterms:identifier "isbn:84-9007-109-8" ;
+  dcterms:language "Spanish" ;
+  dcterms:subject "Civilization", "Cuba", "Cuba, history", "History", "Sugar growing", "Tobacco", "Tobacco industry", "Tobacco manufacture and trade" .

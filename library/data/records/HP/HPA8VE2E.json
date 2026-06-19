@@ -1,0 +1,116 @@
+{
+  "key": "HPA8VE2E",
+  "uri": "https://medjat.irokosociety.org/id/library/HPA8VE2E",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HPA8VE2E",
+  "zotero": {
+    "group": "6479329",
+    "key": "HPA8VE2E",
+    "version": 4599,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HPA8VE2E",
+    "dateAdded": "2026-06-19T21:38:13Z",
+    "dateModified": "2026-06-19T21:38:13Z"
+  },
+  "display": {
+    "title": "La \"clave\" xilofónica de la música cubana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      }
+    ],
+    "year": "1935",
+    "date": "1935",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL1230222W",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "spa"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History and criticism",
+      "Music",
+      "Percussion instruments"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La \"clave\" xilofónica de la música cubana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1935."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Percussion instruments"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/HP/HPA8VE2E.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

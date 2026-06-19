@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 dist/
 output/
+!output/robots.txt

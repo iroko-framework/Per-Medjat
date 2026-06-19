@@ -1,6 +1,10 @@
-@prefix schema: <https://schema.org/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/6HQ2MI7F>
   a schema:Book ;
@@ -12,5 +16,5 @@
   schema:datePublished "2005" ;
   schema:publisher "Princeton University Press" ;
   dcterms:identifier "isbn:978-0-691-05927-3" ;
-  dcterms:subject "Afro-Brazilian", "religion", "sovereignty-without-state-paper", "transnationalism", "Candomble" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
+  dcterms:subject "Afro-Brazilian", "religion", "sovereignty-without-state-paper", "transnationalism", "Candomble" .

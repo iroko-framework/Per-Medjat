@@ -46,6 +46,8 @@
     "recordType": "Report",
     "traditions": [],
     "themes": [],
+    "domains": [],
+    "connects": [],
     "region": [],
     "language": [],
     "access": "Public",

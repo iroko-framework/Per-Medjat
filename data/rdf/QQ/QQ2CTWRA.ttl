@@ -1,6 +1,10 @@
-@prefix schema: <https://schema.org/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/QQ2CTWRA>
   a schema:ScholarlyArticle ;
@@ -14,5 +18,5 @@
   schema:publisher "Globe Revue internationale d’études québécoises" ;
   schema:sameAs <https://doi.org/10.7202/1000692ar> ;
   dcterms:identifier "doi:10.7202/1000692ar" ;
-  dcterms:subject "Canadian Identity and History", "Linguistic and Sociocultural Studies", "Linguistics and Discourse Analysis", "Haitian Vodou" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> ;
+  dcterms:subject "Canadian Identity and History", "Linguistic and Sociocultural Studies", "Linguistics and Discourse Analysis", "Haitian Vodou" .

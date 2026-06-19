@@ -1,6 +1,10 @@
-@prefix schema: <https://schema.org/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/F3JU8WXV>
   a schema:ScholarlyArticle ;
@@ -11,5 +15,5 @@
   schema:author "Miller, Ivor" ;
   schema:datePublished "2016" ;
   schema:publisher "Afro-Hispanic Review" ;
-  dcterms:subject "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "West African traditions" .

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T22:33:34Z",
-  "count": 945,
+  "generatedAt": "2026-06-19T00:44:19Z",
+  "count": 918,
   "index": "/data/library.index.json",
   "facets": "/data/library.facets.json",
   "ttl": "/data/library.ttl",
@@ -14,16 +14,6 @@
       "key": "ECPXIL5E",
       "json": "/data/records/EC/ECPXIL5E.json",
       "ttl": "/data/rdf/EC/ECPXIL5E.ttl"
-    },
-    {
-      "key": "PHCF3VKS",
-      "json": "/data/records/PH/PHCF3VKS.json",
-      "ttl": "/data/rdf/PH/PHCF3VKS.ttl"
-    },
-    {
-      "key": "M43ASPP6",
-      "json": "/data/records/M4/M43ASPP6.json",
-      "ttl": "/data/rdf/M4/M43ASPP6.ttl"
     },
     {
       "key": "IGBCQ3B7",
@@ -214,11 +204,6 @@
       "key": "4CP2MP6M",
       "json": "/data/records/4C/4CP2MP6M.json",
       "ttl": "/data/rdf/4C/4CP2MP6M.ttl"
-    },
-    {
-      "key": "5ZYJ9UKM",
-      "json": "/data/records/5Z/5ZYJ9UKM.json",
-      "ttl": "/data/rdf/5Z/5ZYJ9UKM.ttl"
     },
     {
       "key": "BLZSKBDJ",
@@ -426,11 +411,6 @@
       "ttl": "/data/rdf/Q8/Q8YXT6JI.ttl"
     },
     {
-      "key": "L4PM5WD4",
-      "json": "/data/records/L4/L4PM5WD4.json",
-      "ttl": "/data/rdf/L4/L4PM5WD4.ttl"
-    },
-    {
       "key": "FAFN5XPR",
       "json": "/data/records/FA/FAFN5XPR.json",
       "ttl": "/data/rdf/FA/FAFN5XPR.ttl"
@@ -534,11 +514,6 @@
       "key": "Y845QY6L",
       "json": "/data/records/Y8/Y845QY6L.json",
       "ttl": "/data/rdf/Y8/Y845QY6L.ttl"
-    },
-    {
-      "key": "MR5K79QU",
-      "json": "/data/records/MR/MR5K79QU.json",
-      "ttl": "/data/rdf/MR/MR5K79QU.ttl"
     },
     {
       "key": "M6WXYVC6",
@@ -1011,29 +986,9 @@
       "ttl": "/data/rdf/PG/PGHZNYZB.ttl"
     },
     {
-      "key": "2CJCX8HS",
-      "json": "/data/records/2C/2CJCX8HS.json",
-      "ttl": "/data/rdf/2C/2CJCX8HS.ttl"
-    },
-    {
       "key": "ESMN4JYZ",
       "json": "/data/records/ES/ESMN4JYZ.json",
       "ttl": "/data/rdf/ES/ESMN4JYZ.ttl"
-    },
-    {
-      "key": "XJHYVIVJ",
-      "json": "/data/records/XJ/XJHYVIVJ.json",
-      "ttl": "/data/rdf/XJ/XJHYVIVJ.ttl"
-    },
-    {
-      "key": "JEG6NEHR",
-      "json": "/data/records/JE/JEG6NEHR.json",
-      "ttl": "/data/rdf/JE/JEG6NEHR.ttl"
-    },
-    {
-      "key": "9WJF6MS6",
-      "json": "/data/records/9W/9WJF6MS6.json",
-      "ttl": "/data/rdf/9W/9WJF6MS6.ttl"
     },
     {
       "key": "TCDMDX3Y",
@@ -1334,11 +1289,6 @@
       "key": "KCY7AX6K",
       "json": "/data/records/KC/KCY7AX6K.json",
       "ttl": "/data/rdf/KC/KCY7AX6K.ttl"
-    },
-    {
-      "key": "SM6HZJH3",
-      "json": "/data/records/SM/SM6HZJH3.json",
-      "ttl": "/data/rdf/SM/SM6HZJH3.ttl"
     },
     {
       "key": "I5U4EDX6",
@@ -1671,11 +1621,6 @@
       "ttl": "/data/rdf/BW/BWA87A8Z.ttl"
     },
     {
-      "key": "DFVZIL49",
-      "json": "/data/records/DF/DFVZIL49.json",
-      "ttl": "/data/rdf/DF/DFVZIL49.ttl"
-    },
-    {
       "key": "CHIUIKCK",
       "json": "/data/records/CH/CHIUIKCK.json",
       "ttl": "/data/rdf/CH/CHIUIKCK.ttl"
@@ -1719,11 +1664,6 @@
       "key": "9FGBTVPS",
       "json": "/data/records/9F/9FGBTVPS.json",
       "ttl": "/data/rdf/9F/9FGBTVPS.ttl"
-    },
-    {
-      "key": "W526CW5P",
-      "json": "/data/records/W5/W526CW5P.json",
-      "ttl": "/data/rdf/W5/W526CW5P.ttl"
     },
     {
       "key": "C9DJJE2Q",
@@ -1894,11 +1834,6 @@
       "key": "6RYNZLZN",
       "json": "/data/records/6R/6RYNZLZN.json",
       "ttl": "/data/rdf/6R/6RYNZLZN.ttl"
-    },
-    {
-      "key": "2YSA9QMJ",
-      "json": "/data/records/2Y/2YSA9QMJ.json",
-      "ttl": "/data/rdf/2Y/2YSA9QMJ.ttl"
     },
     {
       "key": "5JRTNG8Z",
@@ -2211,11 +2146,6 @@
       "ttl": "/data/rdf/EY/EYT6AL2Q.ttl"
     },
     {
-      "key": "XXNUFQSN",
-      "json": "/data/records/XX/XXNUFQSN.json",
-      "ttl": "/data/rdf/XX/XXNUFQSN.ttl"
-    },
-    {
       "key": "TW878A9F",
       "json": "/data/records/TW/TW878A9F.json",
       "ttl": "/data/rdf/TW/TW878A9F.ttl"
@@ -2436,11 +2366,6 @@
       "ttl": "/data/rdf/KH/KHKNYNP6.ttl"
     },
     {
-      "key": "FJNJ997F",
-      "json": "/data/records/FJ/FJNJ997F.json",
-      "ttl": "/data/rdf/FJ/FJNJ997F.ttl"
-    },
-    {
       "key": "KFE4E4FQ",
       "json": "/data/records/KF/KFE4E4FQ.json",
       "ttl": "/data/rdf/KF/KFE4E4FQ.ttl"
@@ -2484,11 +2409,6 @@
       "key": "NPD3FEA9",
       "json": "/data/records/NP/NPD3FEA9.json",
       "ttl": "/data/rdf/NP/NPD3FEA9.ttl"
-    },
-    {
-      "key": "XBXIVL88",
-      "json": "/data/records/XB/XBXIVL88.json",
-      "ttl": "/data/rdf/XB/XBXIVL88.ttl"
     },
     {
       "key": "2JHG23HS",
@@ -2886,11 +2806,6 @@
       "ttl": "/data/rdf/52/52T6YFWR.ttl"
     },
     {
-      "key": "BVMZD7AL",
-      "json": "/data/records/BV/BVMZD7AL.json",
-      "ttl": "/data/rdf/BV/BVMZD7AL.ttl"
-    },
-    {
       "key": "ZN24MJKN",
       "json": "/data/records/ZN/ZN24MJKN.json",
       "ttl": "/data/rdf/ZN/ZN24MJKN.ttl"
@@ -2981,11 +2896,6 @@
       "ttl": "/data/rdf/YX/YX9IAX9Q.ttl"
     },
     {
-      "key": "UH32CTDC",
-      "json": "/data/records/UH/UH32CTDC.json",
-      "ttl": "/data/rdf/UH/UH32CTDC.ttl"
-    },
-    {
       "key": "L4QEHGQE",
       "json": "/data/records/L4/L4QEHGQE.json",
       "ttl": "/data/rdf/L4/L4QEHGQE.ttl"
@@ -3064,11 +2974,6 @@
       "key": "F6VLU65S",
       "json": "/data/records/F6/F6VLU65S.json",
       "ttl": "/data/rdf/F6/F6VLU65S.ttl"
-    },
-    {
-      "key": "3TGLW4JR",
-      "json": "/data/records/3T/3TGLW4JR.json",
-      "ttl": "/data/rdf/3T/3TGLW4JR.ttl"
     },
     {
       "key": "7LARLIWY",
@@ -3351,11 +3256,6 @@
       "ttl": "/data/rdf/AK/AKIC3HHM.ttl"
     },
     {
-      "key": "6FR3HTGC",
-      "json": "/data/records/6F/6FR3HTGC.json",
-      "ttl": "/data/rdf/6F/6FR3HTGC.ttl"
-    },
-    {
       "key": "6R2XXLGN",
       "json": "/data/records/6R/6R2XXLGN.json",
       "ttl": "/data/rdf/6R/6R2XXLGN.ttl"
@@ -3484,11 +3384,6 @@
       "key": "T4W3UVC2",
       "json": "/data/records/T4/T4W3UVC2.json",
       "ttl": "/data/rdf/T4/T4W3UVC2.ttl"
-    },
-    {
-      "key": "JMRFNDET",
-      "json": "/data/records/JM/JMRFNDET.json",
-      "ttl": "/data/rdf/JM/JMRFNDET.ttl"
     },
     {
       "key": "2PC5RRRT",
@@ -3664,11 +3559,6 @@
       "key": "BTZWVWHQ",
       "json": "/data/records/BT/BTZWVWHQ.json",
       "ttl": "/data/rdf/BT/BTZWVWHQ.ttl"
-    },
-    {
-      "key": "E5A3HR6I",
-      "json": "/data/records/E5/E5A3HR6I.json",
-      "ttl": "/data/rdf/E5/E5A3HR6I.ttl"
     },
     {
       "key": "V68M6XCS",
@@ -4141,11 +4031,6 @@
       "ttl": "/data/rdf/V9/V9SXTCUP.ttl"
     },
     {
-      "key": "CIP9AYSR",
-      "json": "/data/records/CI/CIP9AYSR.json",
-      "ttl": "/data/rdf/CI/CIP9AYSR.ttl"
-    },
-    {
       "key": "KZJH9ZBF",
       "json": "/data/records/KZ/KZJH9ZBF.json",
       "ttl": "/data/rdf/KZ/KZJH9ZBF.ttl"
@@ -4314,11 +4199,6 @@
       "key": "3L48DR9T",
       "json": "/data/records/3L/3L48DR9T.json",
       "ttl": "/data/rdf/3L/3L48DR9T.ttl"
-    },
-    {
-      "key": "8N2GVGGN",
-      "json": "/data/records/8N/8N2GVGGN.json",
-      "ttl": "/data/rdf/8N/8N2GVGGN.ttl"
     },
     {
       "key": "MRD7RUHA",
@@ -4516,11 +4396,6 @@
       "ttl": "/data/rdf/TU/TULW5M4B.ttl"
     },
     {
-      "key": "6EW927DX",
-      "json": "/data/records/6E/6EW927DX.json",
-      "ttl": "/data/rdf/6E/6EW927DX.ttl"
-    },
-    {
       "key": "ZIQW993N",
       "json": "/data/records/ZI/ZIQW993N.json",
       "ttl": "/data/rdf/ZI/ZIQW993N.ttl"
@@ -4641,11 +4516,6 @@
       "ttl": "/data/rdf/LA/LAB7YINU.ttl"
     },
     {
-      "key": "FL837GUW",
-      "json": "/data/records/FL/FL837GUW.json",
-      "ttl": "/data/rdf/FL/FL837GUW.ttl"
-    },
-    {
       "key": "3IW5D93S",
       "json": "/data/records/3I/3IW5D93S.json",
       "ttl": "/data/rdf/3I/3IW5D93S.ttl"
@@ -4719,11 +4589,6 @@
       "key": "JUFYQXCD",
       "json": "/data/records/JU/JUFYQXCD.json",
       "ttl": "/data/rdf/JU/JUFYQXCD.ttl"
-    },
-    {
-      "key": "6XYHG3M4",
-      "json": "/data/records/6X/6XYHG3M4.json",
-      "ttl": "/data/rdf/6X/6XYHG3M4.ttl"
     },
     {
       "key": "W4MPAP4L",

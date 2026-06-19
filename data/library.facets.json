@@ -2,11 +2,11 @@
   "recordTypes": {
     "journalArticle": {
       "label": "Journal Article",
-      "count": 469
+      "count": 453
     },
     "thesis": {
       "label": "Thesis / Dissertation",
-      "count": 333
+      "count": 323
     },
     "book": {
       "label": "Book",
@@ -14,7 +14,7 @@
     },
     "bookSection": {
       "label": "Book Chapter",
-      "count": 48
+      "count": 47
     },
     "report": {
       "label": "Report",
@@ -36,7 +36,7 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 911
+      "count": 884
     },
     "West African traditions": 17,
     "Central African traditions": 9,
@@ -52,7 +52,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 935
+      "count": 908
     },
     "Secret Society": 4,
     "Lineage": 3,
@@ -62,12 +62,18 @@
     "Botanical": 1,
     "Rituals": 1
   },
+  "domains": {
+    "__untagged__": {
+      "label": "Untagged",
+      "count": 918
+    }
+  },
   "frameworkClasses": {},
   "frameworkModules": {
     "Ewé": 2
   },
   "access": {
-    "Public": 939,
+    "Public": 912,
     "Community": 6
   }
 }

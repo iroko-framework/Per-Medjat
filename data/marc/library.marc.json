@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T22:33:34Z",
-  "count": 945,
+  "generatedAt": "2026-06-19T00:44:19Z",
+  "count": 918,
   "records": [
     {
       "key": "NRPNX5IM",
@@ -84,136 +84,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Radioactivity and Radon Measurements"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "PHCF3VKS",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "A. Cid‐Pastor"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Energy processing by means of power gyrators"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2005."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.5821/dissertation-2117-93649"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Advanced DC-DC Converters"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Electric Motor Design and Analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Induction Heating and Inverter Technology"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "M43ASPP6",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "A. Kraevsky"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Reasons for culling cows from a productive herd"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Naukovij vìsnik veterinarnoï medicini, 2022."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "14-32 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.33245/2310-4902-2022-173-1-14-32"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Agriculture Market Analysis Ukraine"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Agriculture and Biological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Animal Nutrition and Health"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Олександр Чекан"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Наталія Петрівна Гребеник"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Y. Musienko"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "M. Travetsky"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "V. Dopa"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "V. Kasyanenko"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Andrey Lazorenko"
         },
         {
           "field": "655",
@@ -1919,61 +1789,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "5ZYJ9UKM",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Allen Sanborn"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Neotype and Allotype Description of <I>Tibicen superbus</I> (Hemiptera: Cicadomorpha: Cicadidae) with Description of Its Biogeography and Calling Song"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Annals of the Entomological Society of America, 2004."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "647-652 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1603/0013-8746(2004)097[0647:naadot]2.0.co;2"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Amphibian and Reptile Biology"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Animal Behavior and Reproduction"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Animal Vocal Communication and Behavior"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Polly K. Phillips"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -3713,76 +3528,6 @@
       ]
     },
     {
-      "key": "L4PM5WD4",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Asta Judžentienė"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Allelopathic Activity of Canadian Goldenrod (Solidago canadensis L.) Extracts on Seed Germination and Growth of Lettuce (Lactuca sativa L.) and Garden Pepper Cress (Lepidium sativum L.)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Plants, 2023."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "1421-1421 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3390/plants12071421"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Allelopathy and phytotoxic interactions"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Phytochemistry and Biological Activities"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Plant Parasitism and Resistance"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Jurga Būdienė"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Linas Labanauskas"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Donata Stancelytė"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Irena Nedveckytė"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "FAFN5XPR",
       "marc": [
         {
@@ -4819,51 +4564,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "MR5K79QU",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Bo Yu"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Numerical simulation of continuous miner rock cutting process"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2005."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.33915/etd.2655"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Advanced machining processes and optimization"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Drilling and Well Engineering"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Tunneling and Rock Mechanics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -9158,41 +8858,6 @@
       ]
     },
     {
-      "key": "2CJCX8HS",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "César Celis"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Evaluation and optimisation of environmentally friendly aircraft propulsion systems"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "CERES (Cranfield University), 2010."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Advanced Aircraft Design and Technologies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Rocket and propulsion systems research"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "ESMN4JYZ",
       "marc": [
         {
@@ -9224,166 +8889,6 @@
           "field": "650",
           "label": "Subject",
           "value": "American Literature and Humor Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "XJHYVIVJ",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Dagmara Bajer"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Novel Starch/Chitosan/Aloe Vera Composites as Promising Biopackaging Materials"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Journal of Polymers and the Environment, 2020."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "1021-1039 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1007/s10924-020-01661-7"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Nanocomposite Films for Food Packaging"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Postharvest Quality and Shelf Life Management"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "biodegradable polymer synthesis and properties"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Katarzyna Janczak"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Krzysztof Bajer"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "JEG6NEHR",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Dan Battey"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "A Framework for Understanding Whiteness in Mathematics Education"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Journal of Urban Mathematics Education, 2016."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.21423/jume-v9i2a294"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Critical Race Theory in Education"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Educational Environments and Student Outcomes"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Teacher Education and Leadership Studies"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Luis A. Leyva"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "9WJF6MS6",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Daniel E. Agbiboa"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Urban Taxi Slogans: The People's Arts"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "African Arts, 2023."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "42-61 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1162/afar_a_00697"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "African history and culture studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Aging, Elder Care, and Social Issues"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Urban and Rural Development Challenges"
         },
         {
           "field": "655",
@@ -12064,46 +11569,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Colonialism, slavery, and trade"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "SM6HZJH3",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Esther Mbula Baraga"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Impact Of Terrorism On Economic Development In Africa: A Case Study Of Kenya Foreign Direct Investment"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "University of Nairobi Research Archive (University of Nairobi), 2016."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Agricultural risk and resilience"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Banking, Crisis Management, COVID-19 Impact"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Natural Resources and Economic Development"
         },
         {
           "field": "655",
@@ -15088,46 +14553,6 @@
       ]
     },
     {
-      "key": "DFVZIL49",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Heidi Skramstad"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Making and managing femaleness, fertility and motherhood within an urban Gambian area"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Bergen Open Research Archive (BORA) (University of Bergen), 2008."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Demographic Trends and Gender Preferences"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Female Genital Mutilation/Cutting Issues"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Global Maternal and Child Health"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "CHIUIKCK",
       "marc": [
         {
@@ -15514,61 +14939,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "W526CW5P",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Hisashi Kato‐Noguchi"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Invasive Characteristics of Robinia pseudoacacia and Its Impacts on Species Diversity"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Diversity, 2024."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "773-773 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3390/d16120773"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Bioenergy crop production and management"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Ecology and Vegetation Dynamics Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Plant Parasitism and Resistance"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Midori Kato"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -16979,61 +16349,6 @@
           "field": "700",
           "label": "Added entry - editor",
           "value": "Yohandra Reyes Torres"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "2YSA9QMJ",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Israa Kadhim"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "A Critical Review of Remote Sensing Approaches and Deep Learning Techniques in Archaeology"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Sensors, 2023."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "2918-2918 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3390/s23062918"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "3D Surveying and Cultural Heritage"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological Research and Protection"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Remote Sensing and LiDAR Applications"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Fanar M. Abed"
         },
         {
           "field": "655",
@@ -19778,46 +19093,6 @@
       ]
     },
     {
-      "key": "XXNUFQSN",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Jian S. Dai"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Screw image space and its application to robotic grasping"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "University of Salford Institutional Repository (University of Salford), 1993."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Advanced Numerical Analysis Techniques"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Robot Manipulation and Learning"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Robotic Mechanisms and Dynamics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "TW878A9F",
       "marc": [
         {
@@ -21893,56 +21168,6 @@
       ]
     },
     {
-      "key": "FJNJ997F",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "K Rao"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Review on cadmium removal from aqueous solutions"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "International Journal of Engineering Science and Technology, 2011."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.4314/ijest.v2i7.63747"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Adsorption and biosorption for pollutant removal"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Mamata Mohapatra"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "S. Anand"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Putcha Venkateswarlu"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "KFE4E4FQ",
       "marc": [
         {
@@ -22329,66 +21554,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Cuban History and Society"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "XBXIVL88",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Karla Fabiola Romo-Zamarrón"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Physicochemical and Sensory Properties of Gummy Candies Enriched with Pineapple and Papaya Peel Powders"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Food and Nutrition Sciences, 2019."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "1300-1312 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.4236/fns.2019.1011094"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Agricultural and Food Sciences"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Microencapsulation and Drying Processes"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Pineapple and bromelain studies"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Laura Eugenia Pérez-Cabrera"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Alberto Tecante"
         },
         {
           "field": "655",
@@ -25833,56 +24998,6 @@
       ]
     },
     {
-      "key": "BVMZD7AL",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Lütfiye Karcıoğlu Batur"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Correlation of the variations in prevalence of coronavirus disease 2019 and vitamin D receptor gene polymorphisms in cohorts from 26 countries"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Anadolu Kliniği Tıp Bilimleri Dergisi, 2021."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "60-70 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.21673/anadoluklin.987578"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "COVID-19 Clinical Research Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Vitamin C and Antioxidants Research"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Vitamin D Research Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "ZN24MJKN",
       "marc": [
         {
@@ -26634,41 +25749,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Phonetics and Phonology Research"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "UH32CTDC",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Margaret John Baker"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Translated images of the foreign in the early works of Lin Shu (1852-1924) and Pearl S. Buck (1892-1973): Accommodation and appropriation."
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Deep Blue (University of Michigan), 1997."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Chinese history and philosophy"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Japanese History and Culture"
         },
         {
           "field": "655",
@@ -27474,76 +26554,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "3TGLW4JR",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Marti Marti Castaner"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "How trauma related to sex trafficking challenges parenting: Insights from Mexican and Central American survivors in the US"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "PLoS ONE, 2021."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "e0252606-e0252606 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1371/journal.pone.0252606"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Adolescent Sexual and Reproductive Health"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Child Abuse and Trauma"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Sex work and related issues"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Rachel Fowler"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Cassie Landers"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Lori Cohen"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Manuela Orjuela"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -29933,41 +28943,6 @@
       ]
     },
     {
-      "key": "6FR3HTGC",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Moses Bangura"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Aerodynamics and Control of Quadrotors"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "ANU Open Research (Australian National University), 2017."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.25911/5d74e84ce3976"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Aerospace and Aviation Technology"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "6R2XXLGN",
       "marc": [
         {
@@ -31124,71 +30099,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "JMRFNDET",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Norazian Subari"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "A Hybrid Sensing Approach for Pure and Adulterated Honey Classification"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Sensors, 2012."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "14022-14040 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3390/s121014022"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Advanced Chemical Sensor Technologies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Bee Products Chemical Analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Spectroscopy and Chemometric Analyses"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Junita Mohamad–Saleh"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Ali Yeon Md Shakaff"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Ammar Zakaria"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -32689,86 +31599,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "E5A3HR6I",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Patrick E. Savage"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Music as a coevolved system for social bonding"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Behavioral and Brain Sciences, 2020."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "e59-e59 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1017/s0140525x20000333"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Animal Vocal Communication and Behavior"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Neural dynamics and brain function"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Neuroscience and Music Perception"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Psyche Loui"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Bronwyn Tarr"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Adena Schachner"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Luke Glowacki"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Steven Mithen"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "W. Tecumseh Fitch"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -36878,71 +35708,6 @@
       ]
     },
     {
-      "key": "CIP9AYSR",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Shira M. Goldenberg"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Mobility and HIV in Central America and Mexico: A critical review"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Journal of Immigrant and Minority Health, 2011."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "48-64 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1007/s10903-011-9505-2"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Adolescent Sexual and Reproductive Health"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "HIV/AIDS Research and Interventions"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Sex work and related issues"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Steffanie A. Strathdee"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "María Dolores Pérez-Rosales"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Omar Sued"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "KZJH9ZBF",
       "marc": [
         {
@@ -38499,61 +37264,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "8N2GVGGN",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Sаvа Vrbničаnin"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Weed Resistance to Herbicides"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2017."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.5772/67979"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Agronomic Practices and Intercropping Systems"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Allelopathy and phytotoxic interactions"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Weed Control and Herbicide Applications"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Danijela Pavlović"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Drаgаnа Bоžić"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
         }
       ]
     },
@@ -40198,51 +38908,6 @@
       ]
     },
     {
-      "key": "6EW927DX",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Veronika V. Nikitina"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Standardisation and variation in Latin orthography and morphology (100 BC - AD 100)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Oxford University Research Archive (ORA) (University of Oxford), 2015."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.5287/ora-r8aqbz2xx"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Linguistics and Language Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Lexicography and Language Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Linguistics and language evolution"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "ZIQW993N",
       "marc": [
         {
@@ -41463,71 +40128,6 @@
       ]
     },
     {
-      "key": "FL837GUW",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Xi Ji"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Global supply chain of biomass use and the shift of environmental welfare from primary exploiters to final consumers"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Applied Energy, 2020."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "115484-115484 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1016/j.apenergy.2020.115484"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Bioeconomy and Sustainability Development"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Biofuel production and bioconversion"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Environmental Impact and Sustainability"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Yifang Liu"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Jing Meng"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Xudong Wu"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "3IW5D93S",
       "marc": [
         {
@@ -42399,46 +40999,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "6XYHG3M4",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Þórir Jónsson Hraundal"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "The Rus in Arabic Sources: Cultural Contacts and Identity"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Bergen Open Research Archive (BORA) (University of Bergen), 2013."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Byzantine Studies and History"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Eurasian Exchange Networks"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical and Linguistic Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },

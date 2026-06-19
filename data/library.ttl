@@ -34,34 +34,6 @@
   dcterms:identifier "doi:10.3390/s20205746" ;
   dcterms:subject "Radiation Detection and Scintillator Technologies", "Radiation Therapy and Dosimetry", "Radioactivity and Radon Measurements" .
 
-<https://medjat.irokosociety.org/id/library/PHCF3VKS>
-  a schema:Thesis ;
-  schema:name "Energy processing by means of power gyrators" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=PHCF3VKS> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:PHCF3VKS" ;
-  schema:description "En aquesta tesi doctoral es presenta un mètode sistemàtic per a la síntesi de giradors de potència. A partir d'aquest mètode s'han generat i classificat diverses estructures giradores. Cadascun d'aquests giradors, que poden tenir característiques diferents, pot ser útil en diferents aplicacions.&lt;br/&gt;Des d'un punt de vista circuital, es tracta d'una estructura de dos ports que es caracteritza per algun d'aquests dos grups d'equacions: 1) I1=gV2, I2=gV1 , 2) V1=rI2, V2=rI1, on I1, V1, i I2, V2 són els valors en contínua corresponents als valors de tensió i corrent als ports d'entrada i sortida respectivament, essent g (r) la conductància (resistència) del girador.&lt;br/&gt;En aquesta tesi, les estructures giradores de potència s'han classificat en funció de com transformen una font d'excitació al port d'entrada en la seva representació dual al port de sortida. Segons aquesta classificació es poden distingir tres tipus de giradors: 1) girador de potència de tipus G, 2) girador de potència de tipus G amb corrent d'entrada controlada i 3) giradors de potència de tipus R. Les categories 1 i 2 són les dues possibles solucions de síntesi de les equacions (1), mentre que la categoria 3 correspon a la solució de síntesi de les equacions (2).&lt;br/&gt;A més a més, no existeixen estudis sistemàtics on basant-se en les equacions de definició s'arribi finalment a una verificació experimental. En aquesta tesi es presenta el disseny i anàlisi dels giradors que s'han presentat. L'anàlisi cobreix exhaustivament l'estudi tant del comportament dinàmic com estàtic dels giradors presentats. Aquests giradors es poden considerar com estructures canòniques per al processat de potència.&lt;br/&gt;A més a més, es presenten algunes funcions bàsiques del processat de potència realitzades amb giradors de potència. Com per exemple: conversió tensió-corrent, corrent-tensió, adaptació d'impedàncies i regulació de tensió.&lt;br/&gt;Les característiques de cada girador depenen no només de la topologia convertidora sinó també del funcionament del control del convertidor. S'han investigat dos tècniques de control: el control en mode lliscant i el control no lineal basat en dinàmica zero. Per tant, les estructures giradores proposades poden treballar tant a freqüència constant com a freqüència variable.&lt;br/&gt;Finalment s'han verificat les previsions teòriques mitjançant simulació i verificació experimental. In this thesis, a systematic approach to the synthesis of power gyrators is presented. Based on this approach, several gyrator structures can be generated and classified. Each of these gyrators has its own features and is suitable of different applications.&lt;br/&gt;From a circuit standpoint, a power gyrator is a two-port structure characterized by any of the following two set of equations: 1) I1=gV2, I2=gV1 , 2) V1=rI2, V2=rI1, where I1, V1, and I2, V2 are DC values of current and voltage at input and output ports respectively and g ( r ) is the gyrator conductance ( resistance ).&lt;br/&gt;In this thesis, power gyrator structures are classified by the manner they transform an excitation source at the input port into its dual representation at the output port. Based on this classification, there exist three types of power gyrators: 1) power gyrators of type G, 2) power gyrators of type G with controlled input current and 3) power gyrators of type R. Categories 1 and 2 are the two possible synthesis solutions to the set of equations ( 1 ) while category 3 corresponds to the synthesis solution of ( 2 ).&lt;br/&gt;Thus far, no systematic works have been done starting at the definition equations and ending at the experimental verification. In this thesis, the analysis and design for the disclosed power gyrators are presented. The analysis covers exhaustingly the study of both static and dynamic behavior of the reported power gyrators. These power gyrators presented can be considered as canonical structures for power processing.&lt;br/&gt;Thus, some basic power processing functions done by the presented power gyrators are reported. Namely, voltage to current conversion, current to voltage conversion, impedance matching and voltage regulation.&lt;br/&gt;The performance characteristics of a power gyrator depend not only on the circuit topology but also depend on the converter control operation.&lt;br/&gt;Hence, two main control schemes are investigated, namely, sliding-mode control schemes and zero-dynamics-based PWM nonlinear control. Therefore, the proposed gyrator structures can operate indistinctly at constant or at variable switching frequency.&lt;br/&gt;In addition, experimental and computer simulation results of the power gyrators presented are given in order to verify the theoretical predictions." ;
-  schema:author "A. Cid‐Pastor" ;
-  schema:datePublished "2005" ;
-  schema:sameAs <https://doi.org/10.5821/dissertation-2117-93649> ;
-  dcterms:identifier "doi:10.5821/dissertation-2117-93649" ;
-  dcterms:subject "Advanced DC-DC Converters", "Electric Motor Design and Analysis", "Induction Heating and Inverter Technology" .
-
-<https://medjat.irokosociety.org/id/library/M43ASPP6>
-  a schema:ScholarlyArticle ;
-  schema:name "Reasons for culling cows from a productive herd" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=M43ASPP6> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:M43ASPP6" ;
-  schema:description "The article provides data on the causes and premature culling of cows. Extraordinary activities are a matter of productivity of cows, which significantly affect the efficiency of milk production in livestock farms. First of all, the number and intensity of manifestations of other pathological processes in the body to enhance the quality of milk (grade, bacterial contamination, etc.). The next factor in the economic condition of both an individual economy and the industry as a whole is the length of the productive period. Premature culling of cows entails damage from inefficient use of feed, costs for the unproductive period (from birth to 1 calving), losses from undersupply of calves and often loss of breeding value of the livestock. The aim of the work was to establish the reasons for the culling of cows, which affects the efficiency of the enterprise, especially at the age of 4-6 years (3-5 lactations). At the same time, we used the data of the Uniform-Agri accounting program of the Astarta-Kiev agricultural holding, statistical research methods, and the processing of the data obtained was carried out using a Microsoft Excel 2016 spreadsheet processor. It was found that during 2017-2019. out of 47,282 16538 head retired, which amounted to about 35.0% of the total breeding stock, the largest number of retired cows was observed in the first lactation - 4602, which is 27.8%. In 37.1% of cases, obstetric and gynecological diseases and pathological conditions of the mammary gland were diagnosed. At the same time, 24.5% of culled cows were diagnosed with surgical pathology. In addition, 20.8% of cows dropped out due to metabolic disorders, due to violations of the parameters of keeping and feeding. The next step was to determine the proportion of cow culling due to obstetric (23.9%), gynecological (49.0%), surgical (59.1%) pathology and breast diseases (27.7%). It was also important that 30% of the culled cows had a diagnosis of maceration and mummification of the fetus or ordinary abortion. It should be noted that the vast majority of animals had obstetric, gynecological and surgical pathology at the same time. The culling of animals by age was: after the 1st lactation 31.9%, the 2nd lactation decreased by 12.6 %, and the 3rd, 4th and 5th and more lactations, respectively, by 3.0%. 2.9 and 4.3% Key words: cow, culling, obstetric, gynecological, surgical pathology." ;
-  schema:author "A. Kraevsky" ;
-  schema:creator "Олександр Чекан", "Наталія Петрівна Гребеник", "Y. Musienko", "M. Travetsky", "V. Dopa", "V. Kasyanenko", "Andrey Lazorenko" ;
-  schema:datePublished "2022" ;
-  schema:publisher "Naukovij vìsnik veterinarnoï medicini" ;
-  schema:sameAs <https://doi.org/10.33245/2310-4902-2022-173-1-14-32> ;
-  dcterms:identifier "doi:10.33245/2310-4902-2022-173-1-14-32" ;
-  dcterms:subject "Agriculture Market Analysis Ukraine", "Agriculture and Biological Studies", "Animal Nutrition and Health" .
-
 <https://medjat.irokosociety.org/id/library/IGBCQ3B7>
   a schema:ScholarlyArticle ;
   schema:name "The influences of forest fire on the vegetation and some soil properties of a savanna ecosystem in Nigeria" ;
@@ -323,8 +295,8 @@
   schema:author "Alan West-Durán" ;
   schema:datePublished "2018" ;
   schema:publisher "Florida International University Digital Commons (Florida International University)" ;
-  dcterms:subject "Music", "Cuban History and Society", "West African traditions", "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Music", "Cuban History and Society", "West African traditions", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/XDU3XS8A>
   a schema:Book ;
@@ -572,21 +544,6 @@
   dcterms:identifier "doi:10.30707/etd2015.hodges.a" ;
   dcterms:subject "Historical Studies in Central America", "Latin American history and culture" .
 
-<https://medjat.irokosociety.org/id/library/5ZYJ9UKM>
-  a schema:ScholarlyArticle ;
-  schema:name "Neotype and Allotype Description of <I>Tibicen superbus</I> (Hemiptera: Cicadomorpha: Cicadidae) with Description of Its Biogeography and Calling Song" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=5ZYJ9UKM> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:5ZYJ9UKM" ;
-  schema:description "We redescribe the cicada Tibicen superbus (Fitch, 1855) and designate a neotype and an allotype for the species. The biogeography of the species is provided, including the first records from Mexico. The calling song for the species also is described." ;
-  schema:author "Allen Sanborn" ;
-  schema:creator "Polly K. Phillips" ;
-  schema:datePublished "2004" ;
-  schema:publisher "Annals of the Entomological Society of America" ;
-  schema:sameAs <https://doi.org/10.1603/0013-8746(2004)097[0647:naadot]2.0.co;2> ;
-  dcterms:identifier "doi:10.1603/0013-8746(2004)097[0647:naadot]2.0.co;2" ;
-  dcterms:subject "Amphibian and Reptile Biology", "Animal Behavior and Reproduction", "Animal Vocal Communication and Behavior" .
-
 <https://medjat.irokosociety.org/id/library/BLZSKBDJ>
   a schema:Thesis ;
   schema:name "The view from the border: A study of gender and women's rights in West Virginia during the age of emancipation." ;
@@ -779,8 +736,8 @@
   schema:datePublished "2008" ;
   schema:sameAs <https://doi.org/10.22215/etd/2008-09368> ;
   dcterms:identifier "doi:10.22215/etd/2008-09368" ;
-  dcterms:subject "Aging, Elder Care, and Social Issues", "Haitian Vodou" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> ;
+  dcterms:subject "Aging, Elder Care, and Social Issues", "Haitian Vodou" .
 
 <https://medjat.irokosociety.org/id/library/4K3LQ5TG>
   a schema:Thesis ;
@@ -1120,21 +1077,6 @@
   dcterms:identifier "doi:10.4102/lit.v37i1.1290" ;
   dcterms:subject "Canadian Identity and History", "Caribbean and African Literature and Culture", "Migration, Identity, and Health" .
 
-<https://medjat.irokosociety.org/id/library/L4PM5WD4>
-  a schema:ScholarlyArticle ;
-  schema:name "Allelopathic Activity of Canadian Goldenrod (Solidago canadensis L.) Extracts on Seed Germination and Growth of Lettuce (Lactuca sativa L.) and Garden Pepper Cress (Lepidium sativum L.)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=L4PM5WD4> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:L4PM5WD4" ;
-  schema:description "Native to N. America, Canadian goldenrod (Solidago canadensis L.) was introduced to Europe as an ornamental plant and quickly spread here and in other parts of the world. The rapid spread of the plant is due to several reasons: phenotypic plasticity, broad climatic tolerance, propagation via underground rhizomes and seeds that mature in large numbers, etc. Additionally, the success of Canadian goldenrod’s invasion is determined by its allelochemicals that affect seed germination, root formation and whole growth of nearby plants. Allelopathy of various extracts and essential oils (EOs) of S. canadensis on seed germination and growth of lettuce (Lactuca sativa L.) and garden pepper cress (Lepidium sativum L.) was evaluated and compared with other Solidago species (S. virgaurea, S. × niederederi) collected from the same growing locality in Lithuania. Soil characteristics (conductivity, pH and major elements) of the collecting site were determined. Aqueous flower extracts of all studied Solidago species showed the highest inhibitory effect on model plants. Canadian goldenrod leaf water/diethyl ether extract showed highest inhibitory effect in all relative concentrations (1.0; 0.1; 0.01) suppressing growth of L. sativa (from 0 to 2.3 mm compared with 22.7 mm for control samples) and L. sativum (from 0.5 to 16.8 mm compared with 35.3 mm in control). It was noticed that garden pepper cress was more susceptible to Solidago spp. inhibitory effects than lettuce. S. canadensis root EOs comprised mainly of limonene (35.0%) and β-pinene (26.2%) and inflorescence oils containing α-pinene (21.6%), germacrene D (15.1%), limonene (10.2%) and lupenyl acetate (9.8%) exhibited the highest inhibitory effect on lettuce and garden pepper cress growth. Relative germination and vigor index of model plants was conducted. Chemical composition of extracts and EOs was determined by HPLC/DAD/TOF and GC/MS techniques." ;
-  schema:author "Asta Judžentienė" ;
-  schema:creator "Jurga Būdienė", "Linas Labanauskas", "Donata Stancelytė", "Irena Nedveckytė" ;
-  schema:datePublished "2023" ;
-  schema:publisher "Plants" ;
-  schema:sameAs <https://doi.org/10.3390/plants12071421> ;
-  dcterms:identifier "doi:10.3390/plants12071421" ;
-  dcterms:subject "Allelopathy and phytotoxic interactions", "Phytochemistry and Biological Activities", "Plant Parasitism and Resistance" .
-
 <https://medjat.irokosociety.org/id/library/FAFN5XPR>
   a schema:ScholarlyArticle ;
   schema:name "Ancient viral genomes reveal introduction of human pathogenic viruses into Mexico during the transatlantic slave trade" ;
@@ -1160,8 +1102,8 @@
   schema:author "Ayokunle Olumuyiwa Omobowale" ;
   schema:datePublished "2008" ;
   schema:publisher "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)" ;
-  dcterms:subject "Secret Society", "African history and culture studies", "Oro", "Postcolonial and Cultural Literary Studies", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Secret Society", "African history and culture studies", "Oro", "Postcolonial and Cultural Literary Studies", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/PNWXGMZG>
   a schema:ScholarlyArticle ;
@@ -1413,19 +1355,6 @@
   dcterms:identifier "doi:10.3389/feart.2021.683454" ;
   dcterms:subject "Dam Engineering and Safety", "Geotechnical Engineering and Soil Mechanics", "Grouting, Rheology, and Soil Mechanics" .
 
-<https://medjat.irokosociety.org/id/library/MR5K79QU>
-  a schema:Thesis ;
-  schema:name "Numerical simulation of continuous miner rock cutting process" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=MR5K79QU> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:MR5K79QU" ;
-  schema:description "Usually, parametric analysis of the continuous miner cutting process is studied by experimental tests. In this dissertation, the need for numerical simulation of the continuous miner rock cutting process is established. In order to fulfill this need, four major numerical methods, namely the Finite Difference Method, the Finite Element Method, the Boundary Element Method, and the Discrete Element Method, are reviewed. The Finite Element Method is then chosen as the simulation tool because it is more advanced and versatile than the other methods.;The rotation and advance of a continuous miner cutter head is simulated by the Finite Element Method with explicit time integration, while dynamic contact with an element erosion algorithm is utilized to model the impact between the bits and the rock elements. Two rock failure modes, shear failure and tensile failure, are implemented in the numerical model.;By using the Automated Rotary Coal/Rock Cutting Simulator as the prototype, a numerical model of a continuous miner is developed and initially checked with experimental data. Then, several cutting parameters including: cutting speed, bit geometry, bit tip size, multiple bit interaction, and free face are studied using the thrust and cutting force calculated from the simulation. The specific work spent in each case is estimated by the thrust, cutting force, cutting time, and the volume of the removed rock. The grooves cut by the bits in the numerical model are used further to investigate the rock ridge failure mechanism. Shear failure is found to be the dominant failure mode for a continuous miner cutting an intact rock.;In the conclusion the numerical modeling method is suggested as a valuable tool for parametric study of the rotary cutting process in the conclusion. And it can be advantageously used for continuous miner bit and drum design and prototype tests." ;
-  schema:author "Bo Yu" ;
-  schema:datePublished "2005" ;
-  schema:sameAs <https://doi.org/10.33915/etd.2655> ;
-  dcterms:identifier "doi:10.33915/etd.2655" ;
-  dcterms:subject "Advanced machining processes and optimization", "Drilling and Well Engineering", "Tunneling and Rock Mechanics" .
-
 <https://medjat.irokosociety.org/id/library/M6WXYVC6>
   a schema:ScholarlyArticle ;
   schema:name "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba" ;
@@ -1449,8 +1378,8 @@
   schema:author "Bolívar Aróstegui, Natalia." ;
   schema:datePublished "1990" ;
   schema:publisher "Ediciones Union" ;
-  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/LJJ53WUH>
   a schema:Chapter ;
@@ -1578,8 +1507,8 @@
   schema:datePublished "2003" ;
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:0-226-07609-1" ;
-  dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/8IMEF25Y>
   a schema:Book ;
@@ -1748,8 +1677,8 @@
   schema:datePublished "1992" ;
   schema:publisher "Ediciones Universal" ;
   dcterms:identifier "isbn:0-89729-009-7" ;
-  dcterms:subject "Osanyin", "Osain", "Ozain", "Ọsanyìn", "Herbs", "West African traditions", "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Osanyin", "Osain", "Ozain", "Ọsanyìn", "Herbs", "West African traditions", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/EHRNFQQL>
   a schema:Book ;
@@ -1760,8 +1689,8 @@
   schema:author "Cabrera, Lydia" ;
   schema:datePublished "1970" ;
   schema:publisher "Ediciones CR" ;
-  dcterms:subject "Colección del Chicherekú", "Sociedad Abakuá", "Witchcraft -- Cuba", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Colección del Chicherekú", "Sociedad Abakuá", "Witchcraft -- Cuba", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/VTKDER8N>
   a schema:Book ;
@@ -1772,8 +1701,8 @@
   schema:author "Cabrera, Lydia" ;
   schema:datePublished "1979" ;
   schema:publisher "Peninsular Print." ;
-  dcterms:subject "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/7TQFU9WZ>
   a schema:Thesis ;
@@ -2293,8 +2222,8 @@
   schema:datePublished "2013" ;
   schema:sameAs <https://doi.org/10.29271/jcpsp.2024.12.1539> ;
   dcterms:identifier "doi:10.29271/jcpsp.2024.12.1539" ;
-  dcterms:subject "Music History and Culture", "Race, History, and American Society", "Theater, Performance, and Music History", "Haitian Vodou" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> ;
+  dcterms:subject "Music History and Culture", "Race, History, and American Society", "Theater, Performance, and Music History", "Haitian Vodou" .
 
 <https://medjat.irokosociety.org/id/library/RQNM2TS8>
   a schema:ScholarlyArticle ;
@@ -2404,8 +2333,8 @@
   schema:publisher "Etnografica" ;
   schema:sameAs <https://doi.org/10.4000/etnografica.292> ;
   dcterms:identifier "doi:10.4000/etnografica.292" ;
-  dcterms:subject "Ritual", "Religion and Society in Latin America", "Religious Tourism and Spaces", "Urban and sociocultural dynamics", "Candomble" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
+  dcterms:subject "Ritual", "Religion and Society in Latin America", "Religious Tourism and Spaces", "Urban and sociocultural dynamics", "Candomble" .
 
 <https://medjat.irokosociety.org/id/library/LUW22YRE>
   a schema:ScholarlyArticle ;
@@ -2432,8 +2361,8 @@
   schema:datePublished "2007" ;
   schema:publisher "Praeger" ;
   dcterms:identifier "isbn:979-8-216-01082-1" ;
-  dcterms:subject "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/S8H9HPMN>
   a schema:Thesis ;
@@ -2653,18 +2582,6 @@
   dcterms:identifier "doi:10.1515/9783111331492" ;
   dcterms:subject "Colonialism, slavery, and trade" .
 
-<https://medjat.irokosociety.org/id/library/2CJCX8HS>
-  a schema:Thesis ;
-  schema:name "Evaluation and optimisation of environmentally friendly aircraft propulsion systems" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=2CJCX8HS> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:2CJCX8HS" ;
-  schema:description "In this globalised world where the efficient transportation of people and goods&#13;\\ngreatly contributes to the development of a given region or country, the aviation&#13;\\nindustry has found the ideal conditions for its development, thereby becoming in one of&#13;\\nthe fastest growing economic sectors during the last decades. The continuing growth in&#13;\\nair traffic and the increasing public awareness about the anthropogenic contribution to&#13;\\nglobal warming have meant that environmental issues associated with aircraft&#13;\\noperations are currently one of the most critical aspects of commercial aviation. Several&#13;\\nalternatives for reducing the environmental impact of aircraft operations have been&#13;\\nproposed over the years, and they broadly comprise reductions in the number of aircraft&#13;\\noperations, changes in the type of aircraft, and changes in the aircraft operational rules&#13;\\nand procedures. However, since the passenger traffic is expected to increase over the&#13;\\nnext years, only the last two options seem to be the most feasible solutions to alleviate&#13;\\nthe problem. Accordingly, the general aim of this research work is to develop a&#13;\\nmethodology to evaluate and quantify aircraft/engines design trade-offs originated as a&#13;\\nconsequence of addressing conflicting objectives such as low environmental impact and&#13;\\nlow operating costs. More specifically, it is an objective of this work to evaluate and&#13;\\noptimise both aircraft flight trajectories and aircraft engine cycles taking into account&#13;\\nmultidisciplinary aspects such as performance, gaseous emissions, and economics.&#13;\\nIn order to accomplish the objectives proposed in this project, a methodology for&#13;\\noptimising aircraft trajectories has been initially devised. A suitable optimiser with a&#13;\\nlibrary of optimisation algorithms, Polyphemus, has been then developed and/or&#13;\\nadapted. Computational models simulating different disciplines such as aircraft&#13;\\nperformance, engine performance, and pollutants formation, have been selected or&#13;\\ndeveloped as necessary. Finally, several evaluation and optimisation processes aiming&#13;\\nto determine optimum and ‘greener’ aircraft trajectories and engine cycles have been&#13;\\ncarried out and their main results summarised. In particular, an advanced, innovative&#13;\\ngaseous emissions prediction model that allows the reliable calculation of emissions trends from current and potential future aircraft gas turbine combustors has been&#13;\\ndeveloped. When applied to a conventional combustor, the results showed that in&#13;\\ngeneral the emission trends observed in practice were sufficiently well reproduced, and&#13;\\nin a computationally efficient manner for its subsequent incorporation in optimisation&#13;\\nprocesses. For performing the processes of optimisation of aircraft trajectories and&#13;\\nengine cycles, an optimiser (Polyphemus) has also been developed and/or adapted in&#13;\\nthis work. Generally the results obtained using Polyphemus and other commercially&#13;\\navailable optimisation algorithms presented a satisfactory level of agreement (average&#13;\\ndiscrepancies of about 2%). It is then concluded that the development of Polyphemus is&#13;\\nproceeding in the correct direction and should continue in order to improve its&#13;\\ncapabilities for identifying and efficiently computing optimum and ‘greener’ aircraft&#13;\\ntrajectories and engine cycles, which help to minimise the environmental impact of&#13;\\ncommercial aircraft operations.&#13;\\nThe main contributions of this work to knowledge broadly comprise the&#13;\\nfollowing: (i) development of an environmental-based methodology for carrying out&#13;\\nboth aircraft trajectory optimisation processes, and engine cycle optimisation-type ones;&#13;\\n(ii) development of both an advanced, innovative gas turbine emissions prediction&#13;\\nmodel, and an optimiser (Polyphemus) suitable to be integrated into multi-disciplinary&#13;\\noptimisation frameworks; and (iii) determination and assessment of optimum and&#13;\\n‘greener’ aircraft trajectories and aircraft engine cycles using a multi-disciplinary&#13;\\noptimisation tool, which included the computational tools developed in this work. Based&#13;\\non the results obtained from the different evaluation and optimisation processes carried&#13;\\nout in this research project, it is concluded that there is indeed a feasible route to reduce&#13;\\nthe environmental impact of commercial aviation through the introduction of changes in&#13;\\nthe aircraft operational rules and procedures and/or in the aircraft/engine configurations.&#13;\\nThe magnitude of these reductions needs to be determined yet through careful&#13;\\nconsideration of more realistic aircraft trajectories and the use of higher fidelity&#13;\\ncomputational models. For this purpose, the computations will eventually need to be&#13;\\nextended to the entire fleet of aircraft, and they will also need to include different&#13;\\noperational scenarios involving partial replacements of old aircraft with new&#13;\\nenvironmentally friendly ones." ;
-  schema:author "César Celis" ;
-  schema:datePublished "2010" ;
-  schema:publisher "CERES (Cranfield University)" ;
-  dcterms:subject "Advanced Aircraft Design and Technologies", "Rocket and propulsion systems research" .
-
 <https://medjat.irokosociety.org/id/library/ESMN4JYZ>
   a schema:ScholarlyArticle ;
   schema:name "Potentialities of the Egúngún festival as a tool for tourism development in Ogbomoso, Nigeria" ;
@@ -2678,50 +2595,6 @@
   schema:sameAs <https://doi.org/10.2495/rav110531> ;
   dcterms:identifier "doi:10.2495/rav110531" ;
   dcterms:subject "American Literature and Humor Studies" .
-
-<https://medjat.irokosociety.org/id/library/XJHYVIVJ>
-  a schema:ScholarlyArticle ;
-  schema:name "Novel Starch/Chitosan/Aloe Vera Composites as Promising Biopackaging Materials" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XJHYVIVJ> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XJHYVIVJ" ;
-  schema:description "Abstract Edible films based on potato starch, chitosan and Aloe vera gel (AV) as modifiers were evaluated towards their potential application in food or cosmetics industry. The films, with different AV gel concentration were prepared by casting method. The influence of UV radiation on samples chemical structure was analyzed. The surface morphology was observed with AFM method. The chemical structure and molecular arrangement of mixture components were analyzed with ATR–FTIR spectroscopy and X-ray diffraction. Hydrogen bond interactions among the film components, conformational rearrangements as well as changes in crystallinity degree were confirmed. A study of thermal resistance showed the delay of degradation observed together with an increase AV gel amount and after UV-irradiation. The hydrophilic character of the samples was proved. Water solubility slightly depends on the AV concentration in films, and it decrease after UV-irradiation. All the samples with AV gain the increase resistance to microbial action." ;
-  schema:author "Dagmara Bajer" ;
-  schema:creator "Katarzyna Janczak", "Krzysztof Bajer" ;
-  schema:datePublished "2020" ;
-  schema:publisher "Journal of Polymers and the Environment" ;
-  schema:sameAs <https://doi.org/10.1007/s10924-020-01661-7> ;
-  dcterms:identifier "doi:10.1007/s10924-020-01661-7" ;
-  dcterms:subject "Nanocomposite Films for Food Packaging", "Postharvest Quality and Shelf Life Management", "biodegradable polymer synthesis and properties" .
-
-<https://medjat.irokosociety.org/id/library/JEG6NEHR>
-  a schema:ScholarlyArticle ;
-  schema:name "A Framework for Understanding Whiteness in Mathematics Education" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=JEG6NEHR> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:JEG6NEHR" ;
-  schema:description "In this article, the authors provide a framework for understanding whiteness in mathematics education. While whiteness is receiving more attention in the broader education literature, only a handful of scholars address whiteness in mathematics education in any form. This lack of attention to whiteness leaves it invisible and neutral in documenting mathematics as a racialized space. Naming White institutional spaces, as well as the mechanisms that oppress students, can provide those who work in the field of mathematics education with specific ideas about combatting these racist structures. The framework developed and presented here illustrates three dimensions of White institutional space--institutional, labor, and identity--that are intended to support mathematics educators in two ways: (a) systematically documenting how whiteness subjugates historically marginalized students of color and their agency in resisting this oppression, and (b) making visible the ways in which whiteness impacts White students to reproduce racial privilege." ;
-  schema:author "Dan Battey" ;
-  schema:creator "Luis A. Leyva" ;
-  schema:datePublished "2016" ;
-  schema:publisher "Journal of Urban Mathematics Education" ;
-  schema:sameAs <https://doi.org/10.21423/jume-v9i2a294> ;
-  dcterms:identifier "doi:10.21423/jume-v9i2a294" ;
-  dcterms:subject "Critical Race Theory in Education", "Educational Environments and Student Outcomes", "Teacher Education and Leadership Studies" .
-
-<https://medjat.irokosociety.org/id/library/9WJF6MS6>
-  a schema:ScholarlyArticle ;
-  schema:name "Urban Taxi Slogans: The People's Arts" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=9WJF6MS6> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:9WJF6MS6" ;
-  schema:description "The contemporary African city runs on informal modes of public transportation. Typically, minibuses provide the core, but motorbikes, tricycles, and shared taxis all contribute to informal transport ecosystems. These privately operated services are ground-level responses to growing demand for mobility in the face of absent or inadequate formal public transportation services. For many African urbanites, it is impossible to imagine city life without its ubiquitous minibuses, which constitute a distinctive feature of many African urban environments and are the stuff of news, gossip, rumors, and urban myths. Far from being mere containers that form part of the mise en scène in African cities, the dilapidated yet decorated bodies of these minibus taxis mirror for urbanites the duplicity of the African city: both as a place filled with hope and joie de vivre and as a redoubt of stuckedness and immiseration. Minibus taxis account for an estimated 80% of Africa's total motorized trips (Medium 2018), contributing 50% of all motorized traffic in some corridors (Kumar and Barrett 2008: 5). They go by various appellations: danfo1 in Lagos (Fig. 1), trotro in Accra, daladala in Dar es Salaam, poda-poda in Freetown, matatu in Nairobi, otobis in Cairo, car rapides in Dakar, condongueiros in Luanda, gbaka in Abidjan, kamuny in Kampala, magbana in Conakry, sotrama in Bamako, songa kidogo in Kigali, and kombi in Cape Town. Minibuses are supplemented by motorcycle taxis, popularly known as okada in Nigeria, oleiya in Togo, zémidjan in Benin, pikipiki in Kenya, and boda-boda in Uganda. This urban transportation complex expresses, shapes, produces, and refracts political, social, and economic relations.Informal transport indicates an alternate mode of flexible passenger transport services that cater to the urban poor in the Global South. Unlike modern mass transit systems with fixed stops, fares, routes, and timetables, informal transport services have no predictable schedule: “they depart when they have reached maximum capacity and they arrive when they have successfully passed through all the checkpoints, paid all necessary fees and bribes, and fixed all parts that have broken down during the journey” (Green-Simms 2009: 31). The failure of state-owned mass transportation services occasioned the growth and popularity of these local and ostensibly unregulated services. In Lagos, Nigeria's commercial capital and Africa's most populous city, okadas emerged in the 1980s as a popular means of mobility for hard-pressed subalterns during a time of massive economic crisis and urban population growth, when increased demand for mobility widened the gap between supply and demand (Agbiboa 2022a).In Nigeria, the Lagos state government aims to phase out the use of the iconic danfos. Former governor Akinwunmi Ambode (2015–2019) lamented that, “When I wake up in the morning and see all these yellow buses … and then we claim we are a megacity, that is not true and we must acknowledge that that is a faulty connectivity that we are running. Having accepted that, we have to look for the solution and that is why we want to banish yellow buses” (NCR 2017). Ambode's comment reproduces popular perceptions of Africa's informal transport sector as a chaotic embarrassment that needs to be “modernized.” The favored substitutes are the Lagos light rail project (also known as Lagos monorail)— contracted to the China Railway Construction Company—and Lagos BRT (bus rapid transit) system,2 generally deemed more befitting of a modernizing megacity with world-class ambitions.This language of modernity combines with an aesthetic mode of governing, or what Asher Ghertner (2011) calls “aesthetic governmentality,” to (re)produce pathological assessments of the African megalopolis, a pathology of which Lagos is its ne plus ultra. The fabric of the African city is perfunctorily read as a planning black hole, an insoluble problem. Johannesburg, for instance, is read as nothing but a “crime city.” In similar vein, the rich complexity of Lagos life is reduced to detritus, disease, and death, reproducing the colonial imaginary of “dirty natives” (Newell 2020) and an “impending apocalypse” (Sommers 2010: 319). This dystopian and bland reading of the African city emboldens the leaky notion that contemporary African cities are not quite cites, having failed to meet the monolithic standard of (Western) modernity (Ferguson 1999; Myers 2011). While we now feel we know nearly everything that African cities are not, we still know remarkably little about what they actually are (Mbembe 2001: 9; see also Föster 2013).Focusing on the coastal city of Lagos, with an estimated population of 18 million (more than Greater London and New York combined) and growing (by 2100, Lagos is estimated to be home to some 90 million inhabitants), this essay interrogates the popular artistic slogans painted on the exterior of danfos as a unique window into the interior, workaday world of their operators—marginal men struggling to survive under the shadow of the modern world system. My central argument is that slogans not only reflect how informal transport operators see, experience, and socially navigate the endemic crisis of city life; they are themselves ingenious ways through which these operators sustain a sense of agency in the face of disempowering circumstances. In so doing, my aim is to show that there is more to informal transport than the popular narrative of dysfunction and criminality, and we gain a better understanding of that more by studying an apparently chaotic system of automobility like the danfo.This paper builds upon new approaches to contemporary African urbanism that interrogate the city as a lively archive of expression and aesthetic vision (Mbembe and Nuttall 2008; Quayson 2014; Green-Simms 2017). Specifically, the paper answers the call to defamiliarize commonsense thinking of African cities by engaging “new critical pedagogies—pedagogies of writing, talking, seeing, walking, telling, hearing, drawing, and making—each of which pairs the subject and object in novel ways to enliven the relationship between them and to better express life in motion” (Mbembe and Nuttall 2004: 352). The paper should be read alongside Damola Osinulu's “Painters, Blacksmiths, and Wordsmiths: Building Molues in Lagos,” published in African Arts (2008), which invites us to explore how Lagosians translate the day-to-day challenges of the city into arts. While Osinulu's incisive analysis focused on the now-banned molues (single-decker buses between 8 and 11 meters long), this paper uses danfo slogans as a veritable window into the aesthetics of order and chaos, or “ordered chaos,” that mark Lagos as simultaneously familiar and strange, moving and moored. In so doing, my goal is advance our limited knowledge of the neglected but vital linkages between texts, persons, and publics in urban Africa and beyond.The French sociologist Henri Lefebvre argued that wherever place, time, and energy interact, rhythm is invariably present. And every rhythm indicates a “relation of a time to a space, a localized time, or if one prefers, a temporalized space” (Lefebvre 2004: 15). This triumvirate of time-space-energy has its ultimate reference point not only in the human body, but also in the nonhuman vessels that routinely move those bodies (e.g., the danfos). Inspired by Lefebvre's conceptual approach of “rhythmanalysis” (Lefebvre 2004: 23)—a method for analyzing the rhythm of urban spaces and the effects of those rhythms on bodies dwelling in motion—I sought during my fieldwork to capture the manifold, overlapping rhythms that manifest themselves in the Lagos sense-world, especially what they tell us about the liminal space between “dream world” and “catastrophe” (Buck-Moss 2002); in other words, the disconnect and contradiction between elite-driven utopian aspirations to make Lagos “world-class” and the really existing context of precarity and violence in which Lagosians weave their existence. In Wisdom Sits in Places, Keith Basso (1996) tells us that senses of place are intertwined with cultures, things, and shared bodies of local knowledge with which individuals and whole communities impose meaning and social importance on their places. This paper examines the ways in which public transport operators in Lagos harness vehicle slogans as aesthetic objects and archives of popular wisdom to negotiate visible and invisible constraints to mobility.With my digital camera-cum-sound recorder, I was able to capture the hypervisuality and soundscape of Lagos as one zig-zags along its potholed roads, trying to avoid piles of debris that compete with pedestrians for rights of way. Here, everything leads to excess. There is the phalanx of Lagosians dwelling in a kind of perpetuum mobile. There is the raw and percussive sound of Fuji3 blaring from danfos, revealing the confluences between music, mobility, and urban spatiality. There are the syncopated cries of piya wata piya wata by itinerant vendors, handing half-liter sachets of cold water through the windows of vehicles stuck in traffic jams4 (or go-slow, as they say in Lagos) to the keenly outstretched arms within. There are the rag-tag conductors sonorously calling out their respective termini, jostling for passengers, and warning passengers to “wole pelu shenji e o” (enter with the exact fare). There are the commercial motorcycle (okada) drivers weaving in and out of traffic without regard for human life.5 Like danfo drivers, okada drivers occupy what Gbemisola Animasawun (2017) calls the “struggle economy” in Lagos—a popular urban economy characterized by disposability. And, finally, there are the agberos—the dreaded tax collectors of the National Union of Road Transport Workers (NURTW) (see Agbiboa 2018)— racing after public transport drivers and conductors off-loading and picking up passengers at every bus stop and roundabouts, shouting “owoo da?” (“where is the money?”). The NURTW—the most politicized and violent trade union in Nigeria (Albert 2007)—employs agberos to extort unreceipted fees and cash bribes (egunje) from danfo operators. Agberos are typically “youthmen” between the ages of 20 and 50 and can be easily recognized by their gruff voices, bloodshot eyes, and sometimes missing teeth (lost in street brawling). The list of bribes they collect is endless and borders on the farcical, ranging from loading fees (owoo loading) to “money for party” (owoo faji). If the operator fails to comply, his sideview mirror may be smashed or his windshield wipers and fuel tank cover removed. Sometimes a conductor is mauled to death, in full view of complicit police officers.All this overlapping rhythm of Lagos constitutes an aspect, not of the urban environment, but of the culture itself (Mbembe 2001: 147). They enfold socioeconomic exchanges into the day-to-day ritual of Eko Ile (“Lagos, home”), turning the real into the semiotic.From 2014 through 2015, I conducted a year-long fieldwork in Oshodi and Alimosho local government areas of Lagos state. Oshodi and Alimosho are central to urban flows in Lagos and are best imagined as “a living stage where a collage of scenes is acted and played out without a script” (Aradeon 1997: 51). I collected a total of 312 eclectic slogans from the mobile and stationary bodies of danfos. These open, artistic texts (logos prophorikos) were analyzed in terms of their veiled meaning (logos endiathetos). In Lagos, danfos change hands several times during their lifecycle, with various operators keen to impose their own unique slogans—i.e., personal identity—on their newly acquired vehicles. My interpretive analysis was informed by in-depth interviews with operators and passengers. As an omo eko (child of Lagos), I tapped into my own longstanding embodied experiences of the quotidian rhythms of Lagos to enrich my data and content analysis. Some of the slogans collected were so cryptic that it was only by looking at them with the “inner eyes” (oju inu—which implies both a physical and metaphysical episteme) of the driver/owner that I was able to apprehend what Yuri Lotman (1988) calls “the text within the text.” In so doing, I avoided the one-sidedness of textual interpretation (Jaworski and Thurlow 2010: 1). Interviews were conducted in Yoruba, English, and Nigerian Pidgin, the common languages in Lagos.Occasionally, I was unable to interview the operators because I photographed the slogans from moving danfos. Nonetheless, by virtue of their semantic variability, popular urban arts are never entirely under the owner's control: “The text itself says more than it knows; it generates ‘surplus’: meanings that go beyond and may subvert the purported intention of the work” (Barber 1987: 3). Taking a cue from the Yoruba philosopher Olabiyi Yai's argument that art (visual or verbal) has ashe (or life force) and is both “unfinished and generative” (1994: 107), I derived the slogan's essential character (iwa) from the insights offered by other transport operators and Lagosians who often commented on the slogans, joked about them, or expressed their (dis)likes for one over another. The import of popular arts such as slogans to local perceptions and worldviews is ably emphasized by Barber (1987: 8): “The view that ordinary people express may be ‘false consciousness’ (a concept not without its own problems) but they are also their consciousness: the people's arts represent what people do in fact think, believe and aspire to” (my emphasis).Danfos are typically fashioned out of Mercedes 911, Bedford, or Volkswagen chassis and engines derived from preowned buses (tokunbos) imported from Europe, around which the steel frame is constructed. Depending on the model, the danfo is designed to seat anywhere between twelve and sixteen people. Constructing the outer body of a danfo is very much a process of “hybridization” that—much like the slogans painted on them—”reflect not only constant absorption of ideas from the outside but also long-standing adaptive processes through which Africans have always been innovative players in world forums” (Roberts 2020; see also Osinulu 2008: 49).Danfos are notorious for their squealing breaks, bald tires, and rattling exhaust pipes emitting thick, black smoke. Most have lost the padding that is placed in the ceiling to insulate passengers from heat. Their windows are also permanently sealed off, creating a stuffy atmosphere inside. And the practice of overloading has long been a trademark of danfos. Nigeria Nobel Prize winner Wole Soyinka describes the danfo as a form of “transportation torture on four wheels,” not simply because of the dangerous roads it plies. He describes “humans crushed against one another and against market produce, sheep, and other livestock suffocated by the stench of rotting food and anonymous farts” (quoted in Agbiboa 2022b: 99).The form of danfos often conform to the slogans painted on them. Rickety danfos tend to be driven by older men (over 30 years old) and bear slogans like “E Still Dey Go” (“It's still going [strong]”), “Slow but Steady,” “No Shaking,” “Tested and Trusted,” “Experience is the Best Teacher,” and “All That Glitters Is not Gold.” Conversely, newer looking danfos are often driven by younger men (under 30 years) and generally bear slogans such as “Lagos to Las Vegas,” “Star Boy” (Fig. 2), “Fresh Boy No Pimples,” “Obama,” and “Land Cruiser.”The danfos are meeting points for daily conversations about corruption, endless road delays, dysfunctional services, moribund infrastructure, occult economies, and marginal gains (Agbiboa 2020, 2022b; cf. Guyer 2004; Comaroff and Comaroff 1999). Danfo passengers are typically like are in as they say in passenger trying to into the of a danfo the other passengers on the to meaning move over a bus stops, the down but never quite passengers to the best time to As passengers to danfos in may the to their slogans are not only and but also embodied and 2008: They of and through which the operator to of his urban in a but also as an artistic and an aesthetic project as much to as to and (Mbembe see also 2004: of the Lagos Road that as by the and the Lagos and the use of slogans, on commercial vehicles is the danfo slogans mark the and of an and public that can to the place it by the urban government 2004: In this danfo slogans a by the of through a of services, vehicle slogans feature in the informal urban of Africa and the Global generally In capital city, a painted on the windshield of a “No No is (Fig. 3). This the view some men in that with are and best the of the African it is that many still the and of the city slogans are in In Lagos, operators compete for passengers with slogans ranging from “All on to and cover a of They may express the to a who the down on the vehicle they may to a personal they may people to show they may reflect the to “No No No they may an to a and they may a to or they may the for “money is and “money is they may represent the approach to is the of or to his personal is and “No Lagos, danfo slogans the and of on a daily Lagosians in of the (Mbembe 2001: my fieldwork in Lagos, to how slogans their on which danfos to or avoid As one “When I see a danfo like Is in or of I feel about it because I feel like the really in not in his own slogans are typically and or and tend to on texts from local show and The Yoruba that is the of is more than their slogans, operators their life and to road these slogans may the between fact and For instance, the fact that in Lagos can be life is lost every some slogans this “No for and While for such slogans constitute an of the in the most that I photographed Is (Fig. For the of this I want to on a reading of is at the of this a window into the social of daily life in life in Africa is a process of constant of visible and invisible more than one see, or see is this more than on the roads of Lagos, as they are by the of Here, and call for against that are invisible (Mbembe and that are the to painted on a it is in of the and of road the or that have the to en is a that must be and the be The is the constant against of In the world is a the danfo the world as a as a to our home in world to (1994: is characterized as a market and so is a place where the of to living implies the of and be is to the and of this the and of slogans, danfo drivers “a to the which is in Yoruba For these mobile hope is at and As Guyer as a kind of daily that there an and it more in the by which it than in of an ultimate of and that occupy is if we that car and to the of my fieldwork in Lagos, danfo expressed of being by by of is why some operators their vehicles with into a and to the and passengers. of Yoruba drivers that 80% of and of in their vehicles These the argument that itself has impossible without a of the and of the beyond the physical of and 2009: operators their slogans as a the Yoruba that or life This meaning is in slogans such as and it to and “No No No (Fig. like to the owner's that his on the like reflect the owner's that his his of social never the in slogans such as “No My No “The of (Fig. on or is a (Fig. the of the owner's Here, the to is by are on of the of in the Yoruba is This meaning is in slogans “No as (Fig. Is a are than or of the road one of the most distinctive of it also all the and of its its its social and Comaroff Nigerian have the as an that or as a Road from the Nigeria of and the Road that every about of the million vehicles in Nigeria are in road and a people lost their on Nigerian roads, an of and an estimated a Nigerian roads are the most dangerous out of analyzed in a of in Nigeria on Lagos the danfos that by an Yoruba as the that are drivers to around them, themselves and other road at local the of by potholed roads in Lagos to the in The the of the which in the years has a for and several other that are to a this road are easily a of on The danfos are not only but also of road because they for without and traffic how these yellow buses in the a vehicle when these buses from the roads, they still a of to to their to Lagosians to danfos as As one of us know that danfos are but we the fares, we have no but to use them. can we many danfo slogans to passengers their and in my at with the (Fig. on his windshield it as a warning to other road to because of the many for human is a common for and because of the notion that always to a standard of of Lagos roads the and of road transport Like most informal in Africa's danfo operators have no fixed no off, and no social In sociologist the “dirty work” to and that are as This describes the workaday world of danfo operators in around (or on the as one danfo operators home to the culture of (e.g., of the of danfo and the of the agberos who bus and fees from operators with is daily one use and from a danfo in Lagos in after the of his danfo by a danfo must a to the they are paid to how much they The is for all by agberos and their in the As operators are under to meet the by or be there is a of in Lagos to" ;
-  schema:author "Daniel E. Agbiboa" ;
-  schema:datePublished "2023" ;
-  schema:publisher "African Arts" ;
-  schema:sameAs <https://doi.org/10.1162/afar_a_00697> ;
-  dcterms:identifier "doi:10.1162/afar_a_00697" ;
-  dcterms:subject "African history and culture studies", "Aging, Elder Care, and Social Issues", "Urban and Rural Development Challenges" .
 
 <https://medjat.irokosociety.org/id/library/TCDMDX3Y>
   a schema:ScholarlyArticle ;
@@ -3499,18 +3372,6 @@
   schema:publisher "Deep Blue (University of Michigan)" ;
   dcterms:subject "Colonialism, slavery, and trade" .
 
-<https://medjat.irokosociety.org/id/library/SM6HZJH3>
-  a schema:Thesis ;
-  schema:name "Impact Of Terrorism On Economic Development In Africa: A Case Study Of Kenya Foreign Direct Investment" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=SM6HZJH3> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:SM6HZJH3" ;
-  schema:description "The world known September, 11th 2001 that left 3,249 dead and 869 wounded, in the United States of America brought the attention of the academia research on terrorism alive. Over the years, the impact of terrorism has been felt all over the world; it has evolved from being just a US ‗problem‘ to a global ‗problem‘. Today, terrorism is a global threat. This has influenced academic research to be done in Africa. There has been a tremendous research on this issue to be specific, how terrorism has impacted Kenya‘s foreign direct investment. This research is focused on understanding the impact of terrorism in Africa, how terrorism has affected economies in Africa and Kenya economy focus on the foreign direct investment from 2010 to 2015.&#13;\\nThe continent of Africa is not left on this vice and thus, there is a well reckon with terrorist activities around and within. The East African community is also facing this major threat due to the bordering Somalia which abhors the Al- Shaabab consequently making a neighboring it country with a great pose of threat, even though they have been encountering series of setbacks. It is worth noting that in West Africa, the terrorist group called Boko Haram, interpreted as the Westernized education is a sin, is based in Northern Nigeria where is majorly inhabited by Muslims. They have resonated to killing children, raping, and kidnaping them as many as possible, and to the extension, torch down the villages. They therefore are qualified be called a jihadist group. This terrorist group has been involving itself in activities such as; cross-border strikes into neighboring Niger, Cameroon and Chad. The 2011, which was dubbed as the Arab Spring, that toppled the dictatorial rulership, came as an opportunity to the Boko Haram -Jihadist, therefore they significantly exploited the Governments because such government were&#13;\\n2&#13;\\nexposed and left weak. These governments were; Libya, Tunisia and Egypt. Consequently, posing a major security challenge in Northern Africa by the Islamic State (ISIS).&#13;\\nThere are also world known terrorist groups apart which have taken deep roots in Northern, Central and Eastern Africa apart from ISIS and al Shabab. They are therefore termed as major groups and they are not limited to; Al Qaeda which is the Islamic Maghreb (AQIM).&#13;\\nThe other group is known as Lord's Resistance Army (LRA). This groupe has camouflaged itself as a Christian oriented group but has been petrifying the civilians who to be specific have no ill intention but the development of the country. They are in Central Africa and have been in operation for now three decades. It emanated from Ugandan throughout the civil warfare in the 1980s. The group is known of for brutal rampages that have both internal and externally displaced 2 million people and caused the abduction of 60,000 to 100,000 children who are been military not by their consent but forced into it, or even they have been slaves. They are now hiding in remote parts of the Central African Republic and Democratic Republic of Congo1.&#13;\\nSome of the parts of Africa as a Continent has developed as a battlefield to fighting against the vice of terrorism by both the jihadists and other extremist groups. It is observed that the breakdown of the ruling law in countries such as Libya has brought the jungle rule thus, it has thrived the Islamic State (ISIS) which is an extremist terrorist organization to attain some small territory and gain a footing on the continent. The world has become a global village and hence, any civil conflicts may cause a sprawling costs among the countries which are neighboring it, consequently, the act of terrorism in a neighboring country gags the flow of capital and thus the slowdown of the economy or even the entire region, has a high chance of losing its base with&#13;\\n1 Nicole Crowder, “A parent, a home, a leg — former child soldiers of the LRA tell ‘what I lost’ during years of captivity,” The Washington Post, May 20, 2015&#13;\\n3&#13;\\nregards to the vice of terrorism." ;
-  schema:author "Esther Mbula Baraga" ;
-  schema:datePublished "2016" ;
-  schema:publisher "University of Nairobi Research Archive (University of Nairobi)" ;
-  dcterms:subject "Agricultural risk and resilience", "Banking, Crisis Management, COVID-19 Impact", "Natural Resources and Economic Development" .
-
 <https://medjat.irokosociety.org/id/library/I5U4EDX6>
   a schema:ScholarlyArticle ;
   schema:name "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY" ;
@@ -3520,8 +3381,8 @@
   schema:description "This paper seeks to study the religious background of Ekpu-Oro, the ancestral figurines of Oron people of Nigeria from the framework of the people's cosmology and cultural history. The greatest problem that confronted Oron people in prehistory was that of record keeping and preservation of cultural values for posterity. The transmission of the people's history, cosmology and social values to the new generation was of paramount importance to the ancients. In traditional Oron society, historical memories were preserved and transmitted through Ekpu wooden figurines. Art as a product of human impulse and a reflection of society in whose framework it is created was inspired and affected by religion. Art in Oron was applied to the service of religion. There was a symbiosis between art and religious beliefs." ;
   schema:author "Etim E. Okon" ;
   schema:datePublished "2006" ;
-  dcterms:subject "Lineage", "Secret Society", "African cultural and philosophical studies", "African history and culture analysis", "African studies and sociopolitical issues", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Lineage", "Secret Society", "African cultural and philosophical studies", "African history and culture analysis", "African studies and sociopolitical issues", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/USKCYGM2>
   a schema:ScholarlyArticle ;
@@ -3592,8 +3453,8 @@
   schema:publisher "Journal of Black Studies" ;
   schema:sameAs <https://doi.org/10.1177/0021934705280410> ;
   dcterms:identifier "doi:10.1177/0021934705280410" ;
-  dcterms:subject "Haitian Vodou", "New Orleans Voodoo" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo> ;
+  dcterms:subject "Haitian Vodou", "New Orleans Voodoo" .
 
 <https://medjat.irokosociety.org/id/library/WLP9TBFE>
   a schema:Book ;
@@ -3804,8 +3665,8 @@
   schema:datePublished "2011" ;
   schema:publisher "Scarlet Imprint" ;
   dcterms:identifier "isbn:978-0-9567203-9-9" ;
-  dcterms:subject "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/G6QR24P7>
   a schema:ScholarlyArticle ;
@@ -4386,18 +4247,6 @@
   schema:publisher "TSpace" ;
   dcterms:subject "Anthropological Studies and Insights", "Indigenous Health, Education, and Rights", "Water Governance and Infrastructure" .
 
-<https://medjat.irokosociety.org/id/library/DFVZIL49>
-  a schema:Thesis ;
-  schema:name "Making and managing femaleness, fertility and motherhood within an urban Gambian area" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=DFVZIL49> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:DFVZIL49" ;
-  schema:description "for taking care of my eldest son during fieldwork.I am also grateful to the vegetable growers, fruit sellers, members of the Kanyaleng Kafo and my neighbours in Bakau" ;
-  schema:author "Heidi Skramstad" ;
-  schema:datePublished "2008" ;
-  schema:publisher "Bergen Open Research Archive (BORA) (University of Bergen)" ;
-  dcterms:subject "Demographic Trends and Gender Preferences", "Female Genital Mutilation/Cutting Issues", "Global Maternal and Child Health" .
-
 <https://medjat.irokosociety.org/id/library/CHIUIKCK>
   a schema:ScholarlyArticle ;
   schema:name "Representations of zombis in Emile Ollivier's La discorde aux cent voix and Dany Laferrière's Pays sans chapeau" ;
@@ -4487,8 +4336,8 @@
   schema:creator "Herskovits, Frances S" ;
   schema:datePublished "1938" ;
   schema:publisher "J.J. Augustin" ;
-  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/S6I4M4G6>
   a schema:ScholarlyArticle ;
@@ -4501,8 +4350,8 @@
   schema:publisher "American Anthropologist" ;
   schema:sameAs <https://doi.org/10.1525/aa.1937.39.4.02a00080> ;
   dcterms:identifier "doi:10.1525/aa.1937.39.4.02a00080" ;
-  dcterms:subject "Lineage", "Material Culture", "Syncretic/Creole" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> ;
+  dcterms:subject "Lineage", "Material Culture", "Syncretic/Creole" .
 
 <https://medjat.irokosociety.org/id/library/9FGBTVPS>
   a schema:Thesis ;
@@ -4515,21 +4364,6 @@
   schema:datePublished "2016" ;
   schema:publisher "TSpace (University of Toronto)" ;
   dcterms:subject "Archaeology and Historical Studies", "Biblical Studies and Interpretation", "Historical and Linguistic Studies" .
-
-<https://medjat.irokosociety.org/id/library/W526CW5P>
-  a schema:ScholarlyArticle ;
-  schema:name "Invasive Characteristics of Robinia pseudoacacia and Its Impacts on Species Diversity" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=W526CW5P> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:W526CW5P" ;
-  schema:description "Robinia pseudoacacia is native to North America and has been introduced into many other countries in Europe, South and South East Asia, South America, Africa, and Oceania. The species has been planted intensively in a large area of these countries because of its ornamental and economic values. However, R. pseudoacacia often infests unintended places, including protected areas, and causes significant ecological impacts. The species is now listed as one of the harmful invasive plant species. The characteristics of its life-history, such as the high growth and reproduction rate and adaptive ability to various environmental conditions, may contribute to the invasiveness of the species. The defense ability against natural enemies such as pathogenic fungi and herbivores and its allelopathic potential against the competitive plant species may also contribute to its invasiveness. The R. pseudoacacia infestation alters the ecological functions of the plant community, including the soil microbe community, and reduces the abundance and diversity of the native plant species, including vertebrates and invertebrates in the introduced ranges. R. pseudoacacia is a shade intolerant and early successional tree species and is replaced by larger and more shade tolerant tree species in the native ranges, while plant succession seems not to occur always in the introduced ranges across the different ages of R. pseudoacacia stands. Several other review articles have summarized the afforestation, utilization, biology, and management of the species, but this is the first review focusing on the invasive mechanism of R. pseudoacacia and its impacts on species diversity." ;
-  schema:author "Hisashi Kato‐Noguchi" ;
-  schema:creator "Midori Kato" ;
-  schema:datePublished "2024" ;
-  schema:publisher "Diversity" ;
-  schema:sameAs <https://doi.org/10.3390/d16120773> ;
-  dcterms:identifier "doi:10.3390/d16120773" ;
-  dcterms:subject "Bioenergy crop production and management", "Ecology and Vegetation Dynamics Studies", "Plant Parasitism and Resistance" .
 
 <https://medjat.irokosociety.org/id/library/C9DJJE2Q>
   a schema:ScholarlyArticle ;
@@ -4613,8 +4447,8 @@
   schema:datePublished "1938" ;
   schema:publisher "J. B. Lippincott" ;
   dcterms:identifier "isbn:0-06-169513-0" ;
-  dcterms:subject "Haitian Vodou", "Afro-Indigenous" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> ;
+  dcterms:subject "Haitian Vodou", "Afro-Indigenous" .
 
 <https://medjat.irokosociety.org/id/library/C5ARVMBQ>
   a schema:Book ;
@@ -4625,8 +4459,8 @@
   schema:author "Hyatt, Harry Middleton" ;
   schema:datePublished "1970" ;
   schema:publisher "Printed by Western Pub.; distributed by American University Bookstore, Washington" ;
-  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Syncretic/Creole" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> ;
+  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Syncretic/Creole" .
 
 <https://medjat.irokosociety.org/id/library/X6Z7BVK2>
   a schema:Thesis ;
@@ -4662,8 +4496,8 @@
   schema:datePublished "2017" ;
   schema:publisher "Africa World Press" ;
   dcterms:identifier "isbn:978-1-56902-571-0" ;
-  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/MMY8V2VS>
   a schema:Thesis ;
@@ -4949,21 +4783,6 @@
   schema:sameAs <https://doi.org/10.5935/1984-6835.20140092> ;
   dcterms:identifier "doi:10.5935/1984-6835.20140092" ;
   dcterms:subject "Chemistry and Chemical Engineering" .
-
-<https://medjat.irokosociety.org/id/library/2YSA9QMJ>
-  a schema:ScholarlyArticle ;
-  schema:name "A Critical Review of Remote Sensing Approaches and Deep Learning Techniques in Archaeology" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=2YSA9QMJ> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:2YSA9QMJ" ;
-  schema:description "To date, comprehensive reviews and discussions of the strengths and limitations of Remote Sensing (RS) standalone and combination approaches, and Deep Learning (DL)-based RS datasets in archaeology have been limited. The objective of this paper is, therefore, to review and critically discuss existing studies that have applied these advanced approaches in archaeology, with a specific focus on digital preservation and object detection. RS standalone approaches including range-based and image-based modelling (e.g., laser scanning and SfM photogrammetry) have several disadvantages in terms of spatial resolution, penetrations, textures, colours, and accuracy. These limitations have led some archaeological studies to fuse/integrate multiple RS datasets to overcome limitations and produce comparatively detailed outcomes. However, there are still knowledge gaps in examining the effectiveness of these RS approaches in enhancing the detection of archaeological remains/areas. Thus, this review paper is likely to deliver valuable comprehension for archaeological studies to fill knowledge gaps and further advance exploration of archaeological areas/features using RS along with DL approaches." ;
-  schema:author "Israa Kadhim" ;
-  schema:creator "Fanar M. Abed" ;
-  schema:datePublished "2023" ;
-  schema:publisher "Sensors" ;
-  schema:sameAs <https://doi.org/10.3390/s23062918> ;
-  dcterms:identifier "doi:10.3390/s23062918" ;
-  dcterms:subject "3D Surveying and Cultural Heritage", "Archaeological Research and Protection", "Remote Sensing and LiDAR Applications" .
 
 <https://medjat.irokosociety.org/id/library/5JRTNG8Z>
   a schema:Chapter ;
@@ -5784,18 +5603,6 @@
   dcterms:identifier "doi:10.5281/zenodo.5915564" ;
   dcterms:subject "Cuban History and Society" .
 
-<https://medjat.irokosociety.org/id/library/XXNUFQSN>
-  a schema:Thesis ;
-  schema:name "Screw image space and its application to robotic grasping" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XXNUFQSN> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XXNUFQSN" ;
-  schema:description "This thesis is devoted to the study and extension of screw image space and its application to kinematic restraint and robotic grasping. In the study of restraint and robotic grasping, problems arise in relation to how to map the conditions and requirements of restraint in a special representational space, and how to map an object in the same space, so that all analysis and synthesis can be performed and further developed in such a space. Meanwhile, it is desirable that such a space would allow us&#13;\\nto establish a relationship between equilibrium and geometry of a restraint circumstance, and also a relationship between geometry and algebra.&#13;\\nThe study is to introduce the restraint mapping in a newly extended screw image space. With the help of a new look at the properties of screws and screw systems, the screw&#13;\\nimage space is extended with its relevant spaces, the relationship among them is clarified together with a set of definitions. The screw image space is further completed with the study of its entities including hyperplanes, simplexes and polytopes, and further with the partition&#13;\\nof the space. A framework is thus established and associated to restraint mapping and the extension of screw image space, and a set of theories is developed to study the entities in screw image space and to apply them to the restraint mapping. The study is based on the linear dependence of screws with detailed algebraic reasoning, which puts forward new properties of zero pitch screw combinations and theory of linear dependence of reciprocal&#13;\\nscrew systems together with algebraic and geometric reasoning. The study is successfully applied to kinematic restraint and robotic grasping with a set of theorems and methodologies, not only by mapping the restraint of an object, but also by mapping a set of restraint screws along the surface of an object. The graspability of an arbitrary object can thus be determined, the planning and optimisation can be carried out in the screw image space, together with three new invariant quality measures. An optimal grasp is hence achieved with isotropic resistance to arbitrary externally applied forces. The mapping and entities in screw image space are further weighted to account for the stiffness of contacts in dealing with frictional restraint, and planning is thus based on a&#13;\\nstiffness weighted mapping. The planning and optimisation are further given in the concept of normal related restraint, and are achieved in the relevant screw image spaces.&#13;\\nAn augmented space is then established with the introduction of an affine condition. The relationship between the affine solution and the volumetric ratios of sub-simplexes to an n-simplex reconciles the quality measures with the optimisation. With the further introduction of elastic compatibility, frictional grasps are decomposed, and the force equation of equilibrium is augmented. The approach makes it possible to plan grasps in screw image space and to solve them in augmented space. The approach is further used to predict the failure of a specific case of grasping, and gives a satisfactory result, when compared with an&#13;\\nexperimental result. The final phase of the study is applied to the unknown grasping of unknown objects. By aggregating contact normals and their position vectors of an unknown object by means of newly developed tactile fingertip detectors, and by mapping them into screw image space, the description of an unknown object is completed. The planning and optimisation can thus operate in screw image space, giving a sufficient prediction of a grasp to be applied on the object. Examples and case studies are given through the thesis. Experiments are quoted to&#13;\\ndemonstrate the implementation of the new system of theories and methodologies in this Thesis. Further, a set of strategies and their methodology is given and incorporated into a package in C++ with a general application to the study of restraint in screw image space. The thesis ends with a concluding chapter reviewing the contents of the thesis and the main achievements of the study, proposing suggestions for further work ." ;
-  schema:author "Jian S. Dai" ;
-  schema:datePublished "1993" ;
-  schema:publisher "University of Salford Institutional Repository (University of Salford)" ;
-  dcterms:subject "Advanced Numerical Analysis Techniques", "Robot Manipulation and Learning", "Robotic Mechanisms and Dynamics" .
-
 <https://medjat.irokosociety.org/id/library/TW878A9F>
   a schema:Book ;
   schema:name "Archives power: memory, accountability, and social justice" ;
@@ -6391,21 +6198,6 @@
   dcterms:identifier "doi:10.14393/ufu.di.2013.174" ;
   dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Urban Development and Societal Issues" .
 
-<https://medjat.irokosociety.org/id/library/FJNJ997F>
-  a schema:ScholarlyArticle ;
-  schema:name "Review on cadmium removal from aqueous solutions" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=FJNJ997F> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:FJNJ997F" ;
-  schema:description "Cadmium is known to be toxic for living organism even if it is present in low levels. Generally it is associated with zinc and copper minerals and is produced as a byproduct of these industries. It enters the environment from electroplating, smelting, alloy manufacturing, pigments, plastic, cadmium-nickel batteries, fertilizers, pesticides, mining, pigments and dyes, textile operations and refining industries. Various ways of cadmium removal are: precipitation, ion exchange, solvent extraction and adsorption. The present review specifically describes various types of adsorbents which have been used for removing cadmium from aqueous solutions. General emphasis has been on the utilization of agricultural, industrial wastes and low cost synthetic oxides as adsorbents. In most of the studies batch mode data has been evaluated by determining the kinetic, isothermic and thermodynamic parameters. A number of studies have also addressed the mechanism of adsorption process employing instrumental techniques such as XRD, FTIR, SEM etc. Modeling of column data has also been reported by some researchers. More attention needs to be given for regeneration/reuse/ safe disposal of the loaded adsorbents wherein the data are insufficient. The engineering aspects also need attention for commercial application of various adsorbents. International Journal of Engineering, Science and Technology, Vol. 2, No. 7, 2010, pp. 81-103" ;
-  schema:author "K Rao" ;
-  schema:creator "Mamata Mohapatra", "S. Anand", "Putcha Venkateswarlu" ;
-  schema:datePublished "2011" ;
-  schema:publisher "International Journal of Engineering Science and Technology" ;
-  schema:sameAs <https://doi.org/10.4314/ijest.v2i7.63747> ;
-  dcterms:identifier "doi:10.4314/ijest.v2i7.63747" ;
-  dcterms:subject "Adsorption and biosorption for pollutant removal" .
-
 <https://medjat.irokosociety.org/id/library/KFE4E4FQ>
   a schema:Thesis ;
   schema:name "The Law as Influence on Slaves' Lives." ;
@@ -6523,21 +6315,6 @@
   schema:datePublished "2019" ;
   schema:publisher "Dialnet (Universidad de la Rioja)" ;
   dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society" .
-
-<https://medjat.irokosociety.org/id/library/XBXIVL88>
-  a schema:ScholarlyArticle ;
-  schema:name "Physicochemical and Sensory Properties of Gummy Candies Enriched with Pineapple and Papaya Peel Powders" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XBXIVL88> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XBXIVL88" ;
-  schema:description "Currently, the production of minimally processed foods generates many by-products that are not optimally exploited. Pineapple and papaya peels dehydrated by circulating hot air and freeze drying, with different particle sizes, were used as powder ingredients to enrich gummy candies. Modifications in soluble solids (°Bx), pH, water activity (aw), color, instrumental texture, and sensory perception of the products were assessed regarding powder-free controls. The inclusion of 5 g/100g of each fruit peel powder resulted in candies with stable acidity, °Bx, aw, and pH. Freeze-dried peels with smaller particle size produced better physicochemical, sensory, instrumental texture, and color characteristics because the powders were easily and homogeneously distributed, reinforcing thus the structure of the gel, and producing better coloring." ;
-  schema:author "Karla Fabiola Romo-Zamarrón" ;
-  schema:creator "Laura Eugenia Pérez-Cabrera", "Alberto Tecante" ;
-  schema:datePublished "2019" ;
-  schema:publisher "Food and Nutrition Sciences" ;
-  schema:sameAs <https://doi.org/10.4236/fns.2019.1011094> ;
-  dcterms:identifier "doi:10.4236/fns.2019.1011094" ;
-  dcterms:subject "Agricultural and Food Sciences", "Microencapsulation and Drying Processes", "Pineapple and bromelain studies" .
 
 <https://medjat.irokosociety.org/id/library/2JHG23HS>
   a schema:ScholarlyArticle ;
@@ -7039,8 +6816,8 @@
   schema:datePublished "2025" ;
   schema:sameAs <https://doi.org/10.1353/book.142498> ;
   dcterms:identifier "doi:10.1353/book.142498" ;
-  dcterms:subject "Lineage", "Secret Society", "Haitian Vodou" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> ;
+  dcterms:subject "Lineage", "Secret Society", "Haitian Vodou" .
 
 <https://medjat.irokosociety.org/id/library/L2IYACH2>
   a schema:ScholarlyArticle ;
@@ -7445,8 +7222,8 @@
   schema:author "Luis, William" ;
   schema:datePublished "2012" ;
   schema:publisher "Afro - Hispanic Review" ;
-  dcterms:subject "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/KSW5LHZ6>
   a schema:ScholarlyArticle ;
@@ -7565,20 +7342,6 @@
   schema:sameAs <https://doi.org/10.4314/afrrev.v3i3.47518> ;
   dcterms:identifier "doi:10.4314/afrrev.v3i3.47518" ;
   dcterms:subject "African Sexualities and LGBTQ+ Issues", "Gender Roles and Identity Studies", "Marriage and Sexual Relationships" .
-
-<https://medjat.irokosociety.org/id/library/BVMZD7AL>
-  a schema:ScholarlyArticle ;
-  schema:name "Correlation of the variations in prevalence of coronavirus disease 2019 and vitamin D receptor gene polymorphisms in cohorts from 26 countries" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=BVMZD7AL> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:BVMZD7AL" ;
-  schema:description "Aim: This study aimed to investigate the correlation between the rates of coronavirus disease 2019 (COVID-19) prevalence and mortality and the frequency of vitamin D receptor (VDR) gene polymorphisms at the loci rs7975232 (ApaI), rs1544410 (BsmI), rs2228570 (FokI), and rs731236 (TaqI) in cohorts from 26 countries.Methods: The study included the use of 26 countries where VDR gene polymorphisms at the loci rs731236 (TaqI), rs7975232 (ApaI), rs2228570 (FokI), and rs1544410 (BsmI) were determined and where the relevant frequencies of alleles in healthy populations were reported: Italy, China, Turkey, Japan, Mexico, Russia, India, Poland, Egypt, Czechia, Ethiopia, Saudi Arabia, Greece, the Netherlands, Korea, Spain, the United States, Pakistan, Nigeria, Lebanon, the Central African Republic, Finland, Iran, Tunisia, Brazil, and Croatia. The COVID-19 prevalence and mortality rates (per million population) reported for each country on 6 December 2020 were recorded.Results: A significant positive correlation was found between the frequency of AA genotype of rs7975232 and the COVID-19 prevalence (r=0.45, r2=0.20, p=0.02) and mortality (r=0.42, r2=0.17, p=0.03) rates. Twenty percent of the variability in prevalence and 17% of the variability in mortality could be explained by the frequency of AA genotype. Similarly, a significant positive correlation was found between the frequency of TT genotype of rs731236 and the COVID-19 prevalence (r=0.42, r2=0.17, p=0.03) rates. Seventeen percent of the variability in prevalence could be explained by the frequency of TT genotype. The correlations between the frequency of rs1544410 and rs2228570 and the COVID-19 prevalence and mortality were not significant.Conclusion: The variation in COVID-19 prevalence in the 26 populations included can be explained by the polymorphisms at the rs7975232 (ApaI) and rs731236 (TaqI) loci." ;
-  schema:author "Lütfiye Karcıoğlu Batur" ;
-  schema:datePublished "2021" ;
-  schema:publisher "Anadolu Kliniği Tıp Bilimleri Dergisi" ;
-  schema:sameAs <https://doi.org/10.21673/anadoluklin.987578> ;
-  dcterms:identifier "doi:10.21673/anadoluklin.987578" ;
-  dcterms:subject "COVID-19 Clinical Research Studies", "Vitamin C and Antioxidants Research", "Vitamin D Research Studies" .
 
 <https://medjat.irokosociety.org/id/library/ZN24MJKN>
   a schema:Thesis ;
@@ -7809,18 +7572,6 @@
   dcterms:identifier "doi:10.5281/zenodo.3967375" ;
   dcterms:subject "Linguistic Variation and Morphology", "Phonetics and Phonology Research" .
 
-<https://medjat.irokosociety.org/id/library/UH32CTDC>
-  a schema:Thesis ;
-  schema:name "Translated images of the foreign in the early works of Lin Shu (1852-1924) and Pearl S. Buck (1892-1973): Accommodation and appropriation." ;
-  schema:url <https://medjat.irokosociety.org/library/?item=UH32CTDC> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:UH32CTDC" ;
-  schema:description "This dissertation is on foreign images--of China and the West--created by Lin Shu, the first major translator of Western fiction, and Pearl S. Buck, the first Western writer of fiction on China to engage American readers' sympathies. Following the recent cultural turn in Translation Studies, both are considered translators who translated the experiences of foreign others. The introduction presents my rationale for treating them as such and for juxtaposing them. My focus is on how Lin and Buck accommodated foreign material for uninitiated readers, as well as on how they appropriated this material to express their own literary or social agendas, or, in one case, how readers did their own appropriations. I am especially concerned to show the changes in attitude towards translation in these two authors' earliest works, and I make full use of readers' responses, including book reviews, reaction poems, and essays. A chapter each is on Lin's first two translations. In the first, on Bali chahua nu yishi (The true tale of the Parisian lady of the camellias; 1899), a popular rendering into classical Chinese of Alexandre Dumas fils' (1824-95) La dame aux camelias, I show how Lin accommodated readers by presenting the story as if it were a Tang dynasty literary language tale. The second is on Heinu yutian lu (The black slave cries out to heaven; 1901), Lin's appropriation of Harriet Beecher Stowe's (1811-96) Uncle Tom's Cabin as a call-to-arms against the Exclusion Laws then affecting Chinese laborers in the American West. Lin warns that if Chinese do not act, they will be worse off than the novel's slaves. The last two chapters treat Buck's early efforts to depict the foreign. The first is on two essays, In China, Too, (1923) and Beauty in China, (1924), and her first published story, A Chinese Woman Speaks, (1926). The second is on The Good Earth (1931). Buck did not see China as foreign, and presumed to write not only for her compatriots, but also for China's educated elite. Ironically, while Chinese found her unflinching portraits of peasants degrading, Westerners tended to find them noble. I conclude that while both writers were concerned that China preserve its national identity vis a vis the West, they advocated different solutions. Lin moved from reliance on Chinese values towards engagement with the West; Buck preached instead a moving away from the West back towards Chinese values." ;
-  schema:author "Margaret John Baker" ;
-  schema:datePublished "1997" ;
-  schema:publisher "Deep Blue (University of Michigan)" ;
-  dcterms:subject "Chinese history and philosophy", "Japanese History and Culture" .
-
 <https://medjat.irokosociety.org/id/library/L4QEHGQE>
   a schema:Thesis ;
   schema:name "A history of Barbuda under the Codringtons 1738-1833" ;
@@ -7846,8 +7597,8 @@
   schema:publisher "New York University Press eBooks" ;
   schema:sameAs <https://doi.org/10.18574/nyu/9781479803491.001.0001> ;
   dcterms:identifier "doi:10.18574/nyu/9781479803491.001.0001" ;
-  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "West African traditions", "Central African traditions", "Syncretic/Creole", "Haitian Vodou", "Afro-Indigenous", "Pan-African Political-Spiritual" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african> ;
+  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "West African traditions", "Central African traditions", "Syncretic/Creole", "Haitian Vodou", "Afro-Indigenous", "Pan-African Political-Spiritual" .
 
 <https://medjat.irokosociety.org/id/library/5MUHAQXL>
   a schema:Book ;
@@ -8039,21 +7790,6 @@
   schema:publisher "MacSphere (McMaster University)" ;
   dcterms:subject "Global trade and economics", "International Development and Aid", "Russia and Soviet political economy" .
 
-<https://medjat.irokosociety.org/id/library/3TGLW4JR>
-  a schema:ScholarlyArticle ;
-  schema:name "How trauma related to sex trafficking challenges parenting: Insights from Mexican and Central American survivors in the US" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=3TGLW4JR> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:3TGLW4JR" ;
-  schema:description "Sex trafficking, a form of human trafficking for the purpose of commercial sexual exploitation, with a global prevalence of 4.5 million, has pervasive effects in the mental and physical health of survivors. However, little is known about the experiences and needs of Latinx migrants (the majority of sex trafficking victims in the US) after trafficking, particularly regarding parenting. This QUAL-quant study examines how 14 survivors of sex trafficking (mean age = 30) from Mexico and Central America encounter and respond to parenting experiences after escaping sexual exploitation. Combining a bio-ecological model of parenting with Zimmerman's framework on human trafficking we identified how trauma related to sex trafficking can challenge parenting and how relational and contextual pre and post trafficking factors (dis)enable women to respond to such challenges. Psychological consequences of daily victimization primarily manifested in three ways: overprotective parenting in a world perceived to be unsafe, emotional withdraw when struggling with stress and mental health symptoms, and challenges building confidence as mothers. These experiences were accentuated by pre-trafficking experiences of neglect and abuse, forced separation from their older children, poverty post-trafficking, and migration-related stressors. Yet, finding meaning in the birth of their child, having social support, and faith, also enable mothers to cope with such challenges. We conclude that motherhood after surviving sex trafficking presents new challenges and opportunities in the path to recovery from trauma. Interventions at the policy, community and individual level are needed to support survivors of sex trafficking as they enter motherhood." ;
-  schema:author "Marti Marti Castaner" ;
-  schema:creator "Rachel Fowler", "Cassie Landers", "Lori Cohen", "Manuela Orjuela" ;
-  schema:datePublished "2021" ;
-  schema:publisher "PLoS ONE" ;
-  schema:sameAs <https://doi.org/10.1371/journal.pone.0252606> ;
-  dcterms:identifier "doi:10.1371/journal.pone.0252606" ;
-  dcterms:subject "Adolescent Sexual and Reproductive Health", "Child Abuse and Trauma", "Sex work and related issues" .
-
 <https://medjat.irokosociety.org/id/library/7LARLIWY>
   a schema:ScholarlyArticle ;
   schema:name "The Intersection Between Illegal Fishing, Crimes at Sea, and Social Well-Being" ;
@@ -8223,8 +7959,8 @@
   schema:datePublished "2005" ;
   schema:publisher "Princeton University Press" ;
   dcterms:identifier "isbn:978-0-691-05927-3" ;
-  dcterms:subject "Afro-Brazilian", "religion", "sovereignty-without-state-paper", "transnationalism", "Candomble" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
+  dcterms:subject "Afro-Brazilian", "religion", "sovereignty-without-state-paper", "transnationalism", "Candomble" .
 
 <https://medjat.irokosociety.org/id/library/3D3ZESVE>
   a schema:ScholarlyArticle ;
@@ -8650,8 +8386,8 @@
   schema:datePublished "2025" ;
   schema:sameAs <https://doi.org/10.1007/978-3-031-24734-7_54-1> ;
   dcterms:identifier "doi:10.1007/978-3-031-24734-7_54-1" ;
-  dcterms:subject "Cinema and Media Studies", "Gothic Literature and Media Analysis", "Sexuality, Behavior, and Technology", "Haitian Vodou" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> ;
+  dcterms:subject "Cinema and Media Studies", "Gothic Literature and Media Analysis", "Sexuality, Behavior, and Technology", "Haitian Vodou" .
 
 <https://medjat.irokosociety.org/id/library/F3JU8WXV>
   a schema:ScholarlyArticle ;
@@ -8662,8 +8398,8 @@
   schema:author "Miller, Ivor" ;
   schema:datePublished "2016" ;
   schema:publisher "Afro-Hispanic Review" ;
-  dcterms:subject "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/29DQBEEF>
   a schema:Book ;
@@ -8675,8 +8411,8 @@
   schema:datePublished "2009" ;
   schema:publisher "University Press of Mississippi" ;
   dcterms:identifier "isbn:978-1-934110-83-6" ;
-  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/BPMTSXPB>
   a schema:ScholarlyArticle ;
@@ -8778,20 +8514,6 @@
   schema:sameAs <https://doi.org/10.35662/unine-thesis-2272> ;
   dcterms:identifier "doi:10.35662/unine-thesis-2272" ;
   dcterms:subject "African history and culture studies", "Migration, Identity, and Health", "Multiculturalism, Politics, Migration, Gender" .
-
-<https://medjat.irokosociety.org/id/library/6FR3HTGC>
-  a schema:Thesis ;
-  schema:name "Aerodynamics and Control of Quadrotors" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=6FR3HTGC> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:6FR3HTGC" ;
-  schema:description "Quadrotors are aerial vehicles with a four motor-rotor assembly for generating lift and controllability. Their light weight, ease of design and simple dynamics have increased their use in aerial robotics research. There are many quadrotors that are commercially available or under development. Commercial off-the-shelf quadrotors usually lack the ability to be reprogrammed and are unsuitable for use as research platforms. The open-source code developed in this thesis differs from other open-source systems by focusing on the key performance road blocks in implementing high performance experimental quadrotor platforms for research: motor-rotor control for thrust regulation, velocity and attitude estimation, and control for position regulation and trajectory tracking. In all three of these fundamental subsystems, code sub modules for implementation on commonly available hardware are provided. In addition, the thesis provides guidance on scoping and commissioning open-source hardware components to build a custom quadrotor. A key contribution of the thesis is then a design methodology for the development of experimental quadrotor platforms from open-source or commercial off-the-shelf software and hardware components that have active community support. Quadrotors built following the methodology allows the user access to the operation of the subsystems and, in particular, the user can tune the gains of the observers and controllers in order to push the overall system to its performance limits. This enables the quadrotor framework to be used for a variety of applications such as heavy lifting and high performance aggressive manoeuvres by both the hobby and academic communities. To address the question of thrust control, momentum and blade element theories are used to develop aerodynamic models for rotor blades specific to quadrotors. With the aerodynamic models, a novel thrust estimation and control scheme that improves on existing RPM (revolutions per minute) control of rotors is proposed. The approach taken uses the measured electrical power into the rotors compensating for electrical loses, to estimate changing aerodynamic conditions around a rotor as well as the aerodynamic thrust force. The resulting control algorithms are implemented in real-time on the embedded electronic speed controller (ESC) hardware. Using the estimates of the aerodynamic conditions around the rotor at this level improves the dynamic response to gust as the low-level thrust control is the fastest dynamic level on the vehicle. The aerodynamic estimation scheme enables the vehicle to react almost instantaneously to aerodynamic changes in the environment without affecting the overall dynamic performance of the vehicle. To quantify the resulting improvements in maintaining a desired thrust setpoint using the proposed thrust modelling and control scheme over current state-of-the-art rotor speed control, static and dynamic flight tests are carried out in downdrafts and updrafts of varying strengths. In the static tests, the new scheme is able to determine the changes in axial gust thereby changing the speed of the rotor to maintain the desired thrust setpoint. The dynamic flight test is demonstrated by a path tracking experiment where a quadrotor is flown through an artificial wind gust and the trajectory tracking error measured. The proposed approach for thrust control demonstrably reduced tracking errors compared to the classical RPM rotor control. Non-linear dynamic models for the drag forces on individual rotors of a quadrotor are examined and a combined or lumped drag force model is derived. Combining this drag force model with measurements from the strapdown inertial measurement unit (IMU) and a complementary filter that uses barometer height estimates, the full body-fixed frame velocity measurements are obtained. Adding measurements from an inertial navigation system and a magnetometer, a coupled non-linear complementary filter in both the body-fixed and inertial frames is proposed. The resulting observer is a velocity aided attitude observer that provides estimates of both linear velocities in inertial and body-fixed frames and attitude of the vehicle. The observer is robust to GPS dropouts and can be used in indoor environments without an indoor navigation system such as Vicon motion capture system. A hierarchical control structure for quadrotors is proposed with high-level position/trajectory tracking control and velocity control, mid-level attitude control and low-level motor thrust control based on the time scale separation of each dynamic sublevel. The attitude error dynamics under the proposed attitude control law are shown to be non-autonomous. Using passivity based Lyapunov analysis and showing that the linear dynamics are uniformly completely observable (UCO), the attitude dynamics are shown to be locally exponentially stable. Under the proposed position/trajectory control law, the error dynamics form a block diagonal matrix with eigenvalues in the left half plane. Hence, the proposed position/trajectory tracking controller is locally exponentially stable. The proposed velocity controller which uses the estimated velocity is also shown to be asymptotically stable and its linear dynamics are uniformly completely observable. Hence by the notion of input-to-state stability, the quadrotor is exponentially stable under the proposed control laws. The dynamic properties (acceleration, jerk and snap) of the vehicle are used to algebraically determine feedforward terms (angular velocity and acceleration) which are used in the mid-level attitude controller to enable precise trajectory tracking." ;
-  schema:author "Moses Bangura" ;
-  schema:datePublished "2017" ;
-  schema:publisher "ANU Open Research (Australian National University)" ;
-  schema:sameAs <https://doi.org/10.25911/5d74e84ce3976> ;
-  dcterms:identifier "doi:10.25911/5d74e84ce3976" ;
-  dcterms:subject "Aerospace and Aviation Technology" .
 
 <https://medjat.irokosociety.org/id/library/6R2XXLGN>
   a schema:Thesis ;
@@ -8946,8 +8668,8 @@
   schema:publisher "Globe Revue internationale d’études québécoises" ;
   schema:sameAs <https://doi.org/10.7202/1000692ar> ;
   dcterms:identifier "doi:10.7202/1000692ar" ;
-  dcterms:subject "Canadian Identity and History", "Linguistic and Sociocultural Studies", "Linguistics and Discourse Analysis", "Haitian Vodou" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou> ;
+  dcterms:subject "Canadian Identity and History", "Linguistic and Sociocultural Studies", "Linguistics and Discourse Analysis", "Haitian Vodou" .
 
 <https://medjat.irokosociety.org/id/library/VQQYIZWC>
   a schema:ScholarlyArticle ;
@@ -9133,21 +8855,6 @@
   schema:publisher "Open University of Cape Town (University of Cape Town)" ;
   dcterms:subject "Historical Influence and Diplomacy", "Migration, Policy, and Dickens Studies", "Scottish History and National Identity" .
 
-<https://medjat.irokosociety.org/id/library/JMRFNDET>
-  a schema:ScholarlyArticle ;
-  schema:name "A Hybrid Sensing Approach for Pure and Adulterated Honey Classification" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=JMRFNDET> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:JMRFNDET" ;
-  schema:description "This paper presents a comparison between data from single modality and fusion methods to classify Tualang honey as pure or adulterated using Linear Discriminant Analysis (LDA) and Principal Component Analysis (PCA) statistical classification approaches. Ten different brands of certified pure Tualang honey were obtained throughout peninsular Malaysia and Sumatera, Indonesia. Various concentrations of two types of sugar solution (beet and cane sugar) were used in this investigation to create honey samples of 20%, 40%, 60% and 80% adulteration concentrations. Honey data extracted from an electronic nose (e-nose) and Fourier Transform Infrared Spectroscopy (FTIR) were gathered, analyzed and compared based on fusion methods. Visual observation of classification plots revealed that the PCA approach able to distinct pure and adulterated honey samples better than the LDA technique. Overall, the validated classification results based on FTIR data (88.0%) gave higher classification accuracy than e-nose data (76.5%) using the LDA technique. Honey classification based on normalized low-level and intermediate-level FTIR and e-nose fusion data scored classification accuracies of 92.2% and 88.7%, respectively using the Stepwise LDA method. The results suggested that pure and adulterated honey samples were better classified using FTIR and e-nose fusion data than single modality data." ;
-  schema:author "Norazian Subari" ;
-  schema:creator "Junita Mohamad–Saleh", "Ali Yeon Md Shakaff", "Ammar Zakaria" ;
-  schema:datePublished "2012" ;
-  schema:publisher "Sensors" ;
-  schema:sameAs <https://doi.org/10.3390/s121014022> ;
-  dcterms:identifier "doi:10.3390/s121014022" ;
-  dcterms:subject "Advanced Chemical Sensor Technologies", "Bee Products Chemical Analysis", "Spectroscopy and Chemometric Analyses" .
-
 <https://medjat.irokosociety.org/id/library/2PC5RRRT>
   a schema:ScholarlyArticle ;
   schema:name "Got Males?: The Enigmatic Goblin Spider GenusTriaeris(Araneae, Oonopidae)" ;
@@ -9213,8 +8920,8 @@
   schema:datePublished "2004" ;
   schema:publisher "University Press of Kansas" ;
   dcterms:identifier "isbn:978-0-7006-1303-8" ;
-  dcterms:subject "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/VWN5D3DM>
   a schema:ScholarlyArticle ;
@@ -9266,8 +8973,8 @@
   schema:datePublished "2010" ;
   schema:publisher "University of California Press" ;
   dcterms:identifier "isbn:0-520-25684-0" ;
-  dcterms:subject "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/5QTCWWNC>
   a schema:ScholarlyArticle ;
@@ -9370,8 +9077,8 @@
   schema:datePublished "1906" ;
   schema:publisher "Librería de Fernando Fé" ;
   dcterms:language "Spanish" ;
-  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/H8RF2YXE>
   a schema:Thesis ;
@@ -9594,21 +9301,6 @@
   schema:sameAs <https://doi.org/10.32597/honors/238/> ;
   dcterms:identifier "doi:10.32597/honors/238/" ;
   dcterms:subject "Law in Society and Culture", "Legal principles and applications", "Multicultural Socio-Legal Studies" .
-
-<https://medjat.irokosociety.org/id/library/E5A3HR6I>
-  a schema:ScholarlyArticle ;
-  schema:name "Music as a coevolved system for social bonding" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=E5A3HR6I> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:E5A3HR6I" ;
-  schema:description "Why do humans make music? Theories of the evolution of musicality have focused mainly on the value of music for specific adaptive contexts such as mate selection, parental care, coalition signaling, and group cohesion. Synthesizing and extending previous proposals, we argue that social bonding is an overarching function that unifies all of these theories, and that musicality enabled social bonding at larger scales than grooming and other bonding mechanisms available in ancestral primate societies. We combine cross-disciplinary evidence from archeology, anthropology, biology, musicology, psychology, and neuroscience into a unified framework that accounts for the biological and cultural evolution of music. We argue that the evolution of musicality involves gene-culture coevolution, through which proto-musical behaviors that initially arose and spread as cultural inventions had feedback effects on biological evolution because of their impact on social bonding. We emphasize the deep links between production, perception, prediction, and social reward arising from repetition, synchronization, and harmonization of rhythms and pitches, and summarize empirical evidence for these links at the levels of brain networks, physiological mechanisms, and behaviors across cultures and across species. Finally, we address potential criticisms and make testable predictions for future research, including neurobiological bases of musicality and relationships between human music, language, animal song, and other domains. The music and social bonding hypothesis provides the most comprehensive theory to date of the biological and cultural evolution of music." ;
-  schema:author "Patrick E. Savage" ;
-  schema:creator "Psyche Loui", "Bronwyn Tarr", "Adena Schachner", "Luke Glowacki", "Steven Mithen", "W. Tecumseh Fitch" ;
-  schema:datePublished "2020" ;
-  schema:publisher "Behavioral and Brain Sciences" ;
-  schema:sameAs <https://doi.org/10.1017/s0140525x20000333> ;
-  dcterms:identifier "doi:10.1017/s0140525x20000333" ;
-  dcterms:subject "Animal Vocal Communication and Behavior", "Neural dynamics and brain function", "Neuroscience and Music Perception" .
 
 <https://medjat.irokosociety.org/id/library/V68M6XCS>
   a schema:ScholarlyArticle ;
@@ -9921,8 +9613,8 @@
   schema:datePublished "2009" ;
   schema:publisher "AuthorHouse" ;
   dcterms:identifier "isbn:978-1-4389-8097-3" ;
-  dcterms:subject "West African traditions", "Central African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "West African traditions", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/HUMGTFU9>
   a schema:ScholarlyArticle ;
@@ -10822,20 +10514,6 @@
   schema:publisher "OhioLink ETD Center (Ohio Library and Information Network)" ;
   dcterms:subject "Historical Studies in Latin America" .
 
-<https://medjat.irokosociety.org/id/library/CIP9AYSR>
-  a schema:ScholarlyArticle ;
-  schema:name "Mobility and HIV in Central America and Mexico: A critical review" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=CIP9AYSR> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:CIP9AYSR" ;
-  schema:author "Shira M. Goldenberg" ;
-  schema:creator "Steffanie A. Strathdee", "María Dolores Pérez-Rosales", "Omar Sued" ;
-  schema:datePublished "2011" ;
-  schema:publisher "Journal of Immigrant and Minority Health" ;
-  schema:sameAs <https://doi.org/10.1007/s10903-011-9505-2> ;
-  dcterms:identifier "doi:10.1007/s10903-011-9505-2" ;
-  dcterms:subject "Adolescent Sexual and Reproductive Health", "HIV/AIDS Research and Interventions", "Sex work and related issues" .
-
 <https://medjat.irokosociety.org/id/library/KZJH9ZBF>
   a schema:Thesis ;
   schema:name "Poverty, living conditions and social relations : aspects of life in Cape Town in the 1830's" ;
@@ -11170,8 +10848,8 @@
   schema:sameAs <https://doi.org/10.1515/9781478092773> ;
   dcterms:identifier "doi:10.1515/9781478092773" ;
   dcterms:identifier "isbn:978-1-4780-2215-2" ;
-  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" .
 
 <https://medjat.irokosociety.org/id/library/JURN2UJC>
   a schema:Thesis ;
@@ -11291,20 +10969,6 @@
   schema:datePublished "2012" ;
   schema:publisher "TSpace (University of Toronto)" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics" .
-
-<https://medjat.irokosociety.org/id/library/8N2GVGGN>
-  a schema:Chapter ;
-  schema:name "Weed Resistance to Herbicides" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=8N2GVGGN> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:8N2GVGGN" ;
-  schema:description "Unfortunately, herbicide resistance developed shortly after the introduction of the herbicides 2,4‐D in 1957. According the herbicide resistance mechanisms, all processes can be grouped as follows: target‐site resistance, non‐target‐site resistance, cross‐resistance and multiple‐resistance. Target‐site resistance is generally due to a single or several mutations in the gene encoding the herbicide‐target enzyme, which, in turn, decreases the affinity for herbicide binding to that enzyme. Non‐target‐site resistance is caused by mechanisms that reduce the amount of herbicidal active compound before it can attack the plant through the reduced absorption or altered translocation, increased herbicide sequestration or enhanced herbicide metabolism. Cross‐resistance means that a single‐resistance mechanism causes resistance to several herbicides with some mode of action. Multiple‐resistance is a situation where two or more resistance mechanisms are present within the same plant, often due to sequential selection by herbicides with different modes of action. Currently, herbicide resistance has been reported in 478 weed biotypes (252 weed species) in 67 countries. Many of those biotypes are resistant to acetolactate synthase (ALS) inhibitors, PS II inhibitors, ACC‐ase inhibitors and EPSPS inhibitors. Strategy for herbicide‐resistance weed management must involve all the available preventive, cultural, mechanical and chemical measures for effective, safe and cost‐effective weed control." ;
-  schema:author "Sаvа Vrbničаnin" ;
-  schema:creator "Danijela Pavlović", "Drаgаnа Bоžić" ;
-  schema:datePublished "2017" ;
-  schema:sameAs <https://doi.org/10.5772/67979> ;
-  dcterms:identifier "doi:10.5772/67979" ;
-  dcterms:subject "Agronomic Practices and Intercropping Systems", "Allelopathy and phytotoxic interactions", "Weed Control and Herbicide Applications" .
 
 <https://medjat.irokosociety.org/id/library/MRD7RUHA>
   a schema:ScholarlyArticle ;
@@ -11777,8 +11441,8 @@
   schema:datePublished "1995" ;
   schema:publisher "Odebrecht; Editora Schwarcz" ;
   dcterms:identifier "isbn:85-7164-514-0" ;
-  dcterms:subject "Rituals", "Herbs", "Yorubá" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html> ;
+  dcterms:subject "Rituals", "Herbs", "Yorubá" .
 
 <https://medjat.irokosociety.org/id/library/TDYPAVS4>
   a schema:ScholarlyArticle ;
@@ -11801,20 +11465,6 @@
   schema:datePublished "2003" ;
   schema:publisher "bonndoc (University of Bonn)" ;
   dcterms:subject "Media Studies and Communication", "Music History and Culture", "Rhetoric and Communication Studies" .
-
-<https://medjat.irokosociety.org/id/library/6EW927DX>
-  a schema:Thesis ;
-  schema:name "Standardisation and variation in Latin orthography and morphology (100 BC - AD 100)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=6EW927DX> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:6EW927DX" ;
-  schema:description "The period 100 BC – AD 100 is often seen by scholars as the time when the 'standard' form of educated Latin was established. Standardisation, according to some, was the defining process for the fixing of written language and written norms. Once established, these written norms, we are led to believe, remained unchanged for the rest of the Antiquity. This study addresses this alleged standardisation of Latin in 100 BC – AD 100 by studying variations in spelling and morphology. Elimination of variation is a central part of establishing a standard language, while continuing variation characterises lack of standardisation. By studying variation in a diachronic perspective, therefore, we are able to assess the evidence for standardisation or lack thereof. Complete standardisation can be achieved mainly in spelling: therefore, the study of spelling is central for determining the existence of any standardisation movement. The first part of the thesis is dedicated to studying spelling variation in high-register formal inscriptions, where standardisation ought to be most evident. We discuss variation of the type <em>maximus/maxumus</em>, variant spellings <em>ei</em> and <em>i</em> for <em>/ī/</em> and variation between assimilated and non-assimilated spelling of prefixes. A separate chapter addresses the spelling reform of Claudius. The second part of the thesis focuses on cases of morphological variation in literary and non-literary texts (variation between <em>quis</em> and <em>quibus</em> in the dat./abl. pl. and variation between active and deponent forms of verbs). The study of these cases of variation should add to our knowledge of language development in this period and provide a basis on which to begin a reassessment of standardisation in Latin. Language attitudes of literary authors and authors of nonliterary texts, which are relevant for the question of standardisation, will also be considered. My overall conclusion is that it is easy to exaggerate the importance of any standardising, and that it is important not to mix up uncontrolled linguistic change, which is a phenomenon of any language, and change, or fixing, that is the result of the conscious and deliberate efforts of language purists." ;
-  schema:author "Veronika V. Nikitina" ;
-  schema:datePublished "2015" ;
-  schema:publisher "Oxford University Research Archive (ORA) (University of Oxford)" ;
-  schema:sameAs <https://doi.org/10.5287/ora-r8aqbz2xx> ;
-  dcterms:identifier "doi:10.5287/ora-r8aqbz2xx" ;
-  dcterms:subject "Historical Linguistics and Language Studies", "Lexicography and Language Studies", "Linguistics and language evolution" .
 
 <https://medjat.irokosociety.org/id/library/ZIQW993N>
   a schema:ScholarlyArticle ;
@@ -12001,8 +11651,8 @@
   schema:datePublished "2015" ;
   schema:publisher "The University of the West Indies Press" ;
   dcterms:identifier "isbn:976-640-505-0" ;
-  dcterms:subject "Trinidad and Tobago -- Civilization -- African influences", "Shango Baptist" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-shango-baptist> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-shango-baptist> ;
+  dcterms:subject "Trinidad and Tobago -- Civilization -- African influences", "Shango Baptist" .
 
 <https://medjat.irokosociety.org/id/library/DPNAY5IS>
   a schema:ScholarlyArticle ;
@@ -12130,20 +11780,6 @@
   schema:datePublished "2025" ;
   schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Migration, Identity, and Health" .
-
-<https://medjat.irokosociety.org/id/library/FL837GUW>
-  a schema:ScholarlyArticle ;
-  schema:name "Global supply chain of biomass use and the shift of environmental welfare from primary exploiters to final consumers" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=FL837GUW> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:FL837GUW" ;
-  schema:author "Xi Ji" ;
-  schema:creator "Yifang Liu", "Jing Meng", "Xudong Wu" ;
-  schema:datePublished "2020" ;
-  schema:publisher "Applied Energy" ;
-  schema:sameAs <https://doi.org/10.1016/j.apenergy.2020.115484> ;
-  dcterms:identifier "doi:10.1016/j.apenergy.2020.115484" ;
-  dcterms:subject "Bioeconomy and Sustainability Development", "Biofuel production and bioconversion", "Environmental Impact and Sustainability" .
 
 <https://medjat.irokosociety.org/id/library/3IW5D93S>
   a schema:ScholarlyArticle ;
@@ -12354,17 +11990,6 @@
   schema:sameAs <https://doi.org/10.1080/1369183x.2021.1886062> ;
   dcterms:identifier "doi:10.1080/1369183x.2021.1886062" ;
   dcterms:subject "Colonialism, slavery, and trade", "Migration and Labor Dynamics", "Sex work and related issues" .
-
-<https://medjat.irokosociety.org/id/library/6XYHG3M4>
-  a schema:Thesis ;
-  schema:name "The Rus in Arabic Sources: Cultural Contacts and Identity" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=6XYHG3M4> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:6XYHG3M4" ;
-  schema:author "Þórir Jónsson Hraundal" ;
-  schema:datePublished "2013" ;
-  schema:publisher "Bergen Open Research Archive (BORA) (University of Bergen)" ;
-  dcterms:subject "Byzantine Studies and History", "Eurasian Exchange Networks", "Historical and Linguistic Studies" .
 
 <https://medjat.irokosociety.org/id/library/W4MPAP4L>
   a schema:ScholarlyArticle ;

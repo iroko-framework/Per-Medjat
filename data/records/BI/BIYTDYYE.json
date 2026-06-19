@@ -1,0 +1,121 @@
+{
+  "key": "BIYTDYYE",
+  "uri": "https://medjat.irokosociety.org/id/library/BIYTDYYE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BIYTDYYE",
+  "zotero": {
+    "group": "6479329",
+    "key": "BIYTDYYE",
+    "version": 4547,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BIYTDYYE",
+    "dateAdded": "2026-06-19T16:44:59Z",
+    "dateModified": "2026-06-19T16:44:59Z"
+  },
+  "display": {
+    "title": "Anago (Colección Del Chichereku En El Exilio)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lydia Cabrera"
+      }
+    ],
+    "year": "1957",
+    "date": "1957",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL1163130W",
+    "isbn": "0-89729-395-9",
+    "issn": "",
+    "university": "",
+    "language": "yor"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Yorùbá"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuba",
+      "Dialects",
+      "Yoruba language"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lydia Cabrera"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Anago (Colección Del Chichereku En El Exilio)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1957."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "0-89729-395-9"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Yorùbá"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Dialects"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba language"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/data/rdf/BI/BIYTDYYE.ttl",
+    "aggregateTtl": "/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

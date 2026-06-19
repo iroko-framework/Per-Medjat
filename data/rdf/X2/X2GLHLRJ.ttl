@@ -1,0 +1,18 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/X2GLHLRJ>
+  a schema:Book ;
+  schema:name "Cantos y Rezos ORISHA" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=X2GLHLRJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:X2GLHLRJ" ;
+  schema:author "R. Avendano" ;
+  schema:datePublished "2021" ;
+  dcterms:identifier "isbn:979-8-7829-9842-4" ;
+  dcterms:language "Spanish" .

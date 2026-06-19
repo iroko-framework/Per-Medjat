@@ -1,0 +1,17 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/UF9PHJNU>
+  a schema:Book ;
+  schema:name "Ewe Osain" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=UF9PHJNU> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:UF9PHJNU" ;
+  schema:author "Mr. William J. Irizarry Jr." ;
+  schema:datePublished "2012" ;
+  dcterms:identifier "isbn:1-4679-4493-9" .

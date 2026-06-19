@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/W8QFR3FJ>
+  a schema:Book ;
+  schema:name "Lucumí" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=W8QFR3FJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:W8QFR3FJ" ;
+  schema:author "Carlos Canet" ;
+  schema:datePublished "1973" ;
+  dcterms:language "English" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "West African traditions" .

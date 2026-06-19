@@ -337,6 +337,10 @@
           <span class="quick-category-name">Research Domains</span>
           <span class="quick-category-count">0</span>
         </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="language">
+          <span class="quick-category-name">Language</span>
+          <span class="quick-category-count">0</span>
+        </button>
         <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="frameworkClass">
           <span class="quick-category-name">Iroko Framework Classes</span>
           <span class="quick-category-count">0</span>
@@ -1568,6 +1572,16 @@ const QUICK_GROUPS = [
     untaggedTitle: 'Records without a Research Domain tag',
   },
   {
+    key: 'language',
+    field: 'language',
+    label: 'Language',
+    meta: 'Browse by source or record language',
+    get: r => r.language || [],
+    display: v => v,
+    empty: 'No language tags yet — assign via Medjat Steward.',
+    untaggedTitle: 'Records without a Language tag',
+  },
+  {
     key: 'frameworkClass',
     field: 'frameworkClass',
     label: 'Iroko Framework Classes',
@@ -1606,6 +1620,7 @@ function quickFacetName(group) {
     tradition: 'traditions',
     theme: 'themes',
     domain: 'domains',
+    language: 'language',
     frameworkClass: 'frameworkClasses',
     frameworkModule: 'frameworkModules',
     access: 'access',

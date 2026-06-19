@@ -459,7 +459,7 @@ const ZOTERO_GROUP = '6479329';
 // /items/top returns only top-level bibliographic records;
 // child attachments and notes are automatically excluded.
 const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items/top`;
-const FEATURED_WORK_URL = 'featured-work.json';
+const FEATURED_WORK_URL = 'featured/work.json';
 const DATA_BASE = new URL('../data/', window.location.href);
 const INDEX_URL = new URL('library.index.json', DATA_BASE);
 const FACETS_URL = new URL('library.facets.json', DATA_BASE);
@@ -807,6 +807,7 @@ async function initFeaturedWork() {
           ${work.recordUrl ? `<a class="featured-work-cta" href="${e(work.recordUrl)}" target="_blank" rel="noopener" data-featured-title="${e(work.title || '')}" data-featured-key="${e(work.zoteroKey || '')}" onclick="trackFeaturedWorkEvent('featured_work_catalog_click', { title: this.dataset.featuredTitle, zoteroKey: this.dataset.featuredKey })">View catalog record</a>` : ''}
           ${buildFeaturedShareLinks(work)}
         </div>
+        <p class="featured-work-meta" style="margin-top:.65rem;"><a href="featured/archive/" style="color:var(--ink-soft);font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;" onmouseover="this.style.color='var(--green)'" onmouseout="this.style.color='var(--ink-soft)'">Prior featured works →</a></p>
       </div>`;
     section.hidden = false;
   } catch (err) {
@@ -822,7 +823,7 @@ function buildFeaturedShareLinks(work) {
   const emailBody = encodeURIComponent(`${title}\n\n${text}\n\n${shareUrl}`);
   return `
     <span class="featured-share-actions" aria-label="Share this featured work">
-      <a class="featured-share-cta" href="${e(shareUrl)}" data-share-url="${e(shareUrl)}" data-share-title="${e(title)}" data-share-text="${e(text)}" onclick="return shareFeaturedWork(this)">Share</a>
+      <button class="featured-share-cta" type="button" data-share-url="${e(shareUrl)}" data-share-title="${e(title)}" data-share-text="${e(text)}" onclick="shareFeaturedWork(this)">Share</button>
       <button class="featured-share-cta" type="button" data-share-url="${e(shareUrl)}" onclick="copyFeaturedWorkLink(this)">Copy link</button>
       <a class="featured-share-cta" href="mailto:?subject=${emailSubject}&body=${emailBody}" data-share-title="${e(title)}" data-share-key="${e(work.zoteroKey || '')}" onclick="trackFeaturedWorkEvent('featured_work_email', { title: this.dataset.shareTitle, zoteroKey: this.dataset.shareKey })">Email</a>
     </span>`;

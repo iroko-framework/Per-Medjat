@@ -1,0 +1,121 @@
+{
+  "key": "NA9U2V7S",
+  "uri": "https://medjat.irokosociety.org/id/library/NA9U2V7S",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NA9U2V7S",
+  "zotero": {
+    "group": "6479329",
+    "key": "NA9U2V7S",
+    "version": 1389,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NA9U2V7S",
+    "dateAdded": "2026-05-19T13:29:04Z",
+    "dateModified": "2026-05-19T13:29:04Z"
+  },
+  "display": {
+    "title": "Des Noirs sorciers aux babalaos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kali Argyriadis"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "Cahiers d études africaines",
+    "publicationTitle": "Cahiers d études africaines",
+    "bookTitle": "",
+    "journalAbbreviation": "Cahiers d études africaines",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "40",
+    "issue": "",
+    "pages": "649-674",
+    "abstract": "Les Havanais pratiquent, de façon complémentaire, diverses modalités de cultes telles que le spiritisme, le catholicisme « pragmatique », le palo et la santería. Ces deux dernières modalités, désignées par le terme « afro-cubain », ne sont pas appréhendées de la même façon par les universitaires. Le palo, paradigme d'une Afrique honteuse, sauvage, est souvent rejeté dans le champ de la sorcellerie, alors que la santería est présentée comme l'héritière directe d'une Afrique savante, prestigieuse et « traditionnelle ». Cette opposition n'a cours dans la pratique que comme support de stratégies d'affirmations individuelles, le palo étant dans les faits abondamment utilisé et indissociable de la santería, comme du spiritisme et du catholicisme. On s'interrogera toutefois sur les enjeux politiques et sociaux de l'utilisation passée et présente de cette dichotomie à Cuba, des élites intellectuelles du début du siècle au gouvernement castriste actuel.",
+    "doi": "10.4000/etudesafricaines.43",
+    "url": "https://doi.org/10.4000/etudesafricaines.43",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kali Argyriadis"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Des Noirs sorciers aux babalaos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cahiers d études africaines, 2000."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "649-674 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/etudesafricaines.43"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/NA/NA9U2V7S.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/etudesafricaines.43"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

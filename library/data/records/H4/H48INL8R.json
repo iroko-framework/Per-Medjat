@@ -1,0 +1,121 @@
+{
+  "key": "H48INL8R",
+  "uri": "https://medjat.irokosociety.org/id/library/H48INL8R",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=H48INL8R",
+  "zotero": {
+    "group": "6479329",
+    "key": "H48INL8R",
+    "version": 1416,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/H48INL8R",
+    "dateAdded": "2026-05-19T13:29:07Z",
+    "dateModified": "2026-05-19T13:29:07Z"
+  },
+  "display": {
+    "title": "Les objets vivants des religions afro-cubaines : ontologies, biologies, écosystèmes",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Katerina Kerestetzi"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "Cahiers d anthropologie sociale",
+    "publicationTitle": "Cahiers d anthropologie sociale",
+    "bookTitle": "",
+    "journalAbbreviation": "Cahiers d anthropologie sociale",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "N° 19",
+    "issue": "2",
+    "pages": "88-106",
+    "abstract": "Cet article porte sur certains objets rituels des religions afro-cubaines qui sont considérés comme vivants : colliers de la santería qui « parlent », poupées du spiritisme qui « fument », tambours des Abakuá qui « procréent », chaudrons du palo monte qui « se croient vivants ». Pour les pratiquants de ces religions, ces objets sont plus que de simples représentations de divinités et d’esprits mais de véritables incarnations ; ils sont dotés d’intentionnalité et de capacité d’action mais aussi des propriétés et des besoins propres aux êtres vivants : soif, faim, chaleur, croissance, désirs… L’objectif de cet article est d’examiner les processus techniques, matériels et rituels par lesquels la vie vient à ces artefacts. Quelles actions, quelles interactions, quels gestes sont impliqués dans la chaîne opératoire qui transforme un assemblage de matières inertes en une entité vivante et agissante ? L’étude porte aussi sur la composition matérielle de cette vie artificielle et tâche de révéler les logiques intrinsèques qui attribuent à certaines substances et actions la capacité d’engendrer la vie. Finalement elle s’intéresse à la vie de ces objets dans leur « habitat naturel ». Nous verrons comment leur environnement impacte leur manière d’interagir avec les pratiquants mais aussi avec les autres objets.",
+    "doi": "10.3917/cas.019.0088",
+    "url": "https://doi.org/10.3917/cas.019.0088",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Environmental and Cultural Studies in Latin America and Beyond",
+      "Geographies of human-animal interactions",
+      "Literary and Cultural Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Katerina Kerestetzi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Les objets vivants des religions afro-cubaines : ontologies, biologies, écosystèmes"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cahiers d anthropologie sociale, 2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "88-106 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3917/cas.019.0088"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Environmental and Cultural Studies in Latin America and Beyond"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geographies of human-animal interactions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literary and Cultural Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/H4/H48INL8R.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3917/cas.019.0088"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

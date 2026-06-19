@@ -1,0 +1,112 @@
+{
+  "key": "8EMJWTMS",
+  "uri": "https://medjat.irokosociety.org/id/library/8EMJWTMS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8EMJWTMS",
+  "zotero": {
+    "group": "6479329",
+    "key": "8EMJWTMS",
+    "version": 663,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8EMJWTMS",
+    "dateAdded": "2026-05-18T18:57:20Z",
+    "dateModified": "2026-05-18T18:57:20Z"
+  },
+  "display": {
+    "title": "La muerte barroca: ceremonia y sociabilidad funeral en Huelva durante el siglo XVII",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Manuel José de Lara Ródenas"
+      },
+      {
+        "role": "series editor",
+        "name": "Manuel José de"
+      }
+    ],
+    "year": "1999",
+    "date": "1999",
+    "publisher": "Universidad de Huelva eBooks",
+    "publicationTitle": "Universidad de Huelva eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Universidad de Huelva eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Este libro tiene por objeto el estudio de las representaciones y conductas colectivas ante la muerte durante el siglo XVII, asi como el analisis de las relaciones sociales y culturales de mayo alcance en las que ellas se inscriben. Partiendo de los presupuestos teoricos de la Historia de las mentalidades, la obra se basa fundamentalmente en documentacion testamentaria procedente de Huelva y su Tierra Llana y se completa con modelos extraidos de la literatura del Siglo de Oro espanol. Tanto para el ambito religioso como para los espacios de sociabilidad familiar o vecinal, se recorre el ceremonial barroco de la muerte y sus juegos sociales de apariencias, explorando las lentas transformaciones del ritual liturgico y las ideas e imaginaciones sobre la eternidad y el mas alla.",
+    "doi": "",
+    "url": "https://openalex.org/W196046621",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Art and Architecture Studies",
+      "Historical Studies on Spain"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Manuel José de Lara Ródenas"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La muerte barroca: ceremonia y sociabilidad funeral en Huelva durante el siglo XVII"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Universidad de Huelva eBooks, 1999."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Art and Architecture Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies on Spain"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Manuel José de"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8E/8EMJWTMS.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "key": "C5ARVMBQ",
+  "uri": "https://medjat.irokosociety.org/id/library/C5ARVMBQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C5ARVMBQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "C5ARVMBQ",
+    "version": 90,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C5ARVMBQ",
+    "dateAdded": "2026-05-05T22:49:12Z",
+    "dateModified": "2026-05-05T22:50:41Z"
+  },
+  "display": {
+    "title": "Hoodoo--conjuration--witchcraft--rootwork: Beliefs accepted by many Negroes and white persons, these being orally recorded among Blacks and whites.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hyatt, Harry Middleton"
+      }
+    ],
+    "year": "1970",
+    "date": "1970",
+    "publisher": "Printed by Western Pub.; distributed by American University Bookstore, Washington",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Hannibal, Mo",
+    "edition": "",
+    "series": "Memoirs of the Alma Egan Hyatt Foundation",
+    "seriesNumber": "",
+    "volume": "1",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "Syncretic/Creole"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Americans -- Southern States",
+      "Folklore -- Southern States",
+      "Hoodoo (Cult)",
+      "Medicine, Magic, mystic, and spagiric -- Southern States"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hyatt, Harry Middleton"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Hoodoo--conjuration--witchcraft--rootwork: Beliefs accepted by many Negroes and white persons, these being orally recorded among Blacks and whites."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Hannibal, Mo: Printed by Western Pub.; distributed by American University Bookstore, Washington, 1970."
+    },
+    {
+      "field": "490",
+      "label": "Series",
+      "value": "Memoirs of the Alma Egan Hyatt Foundation"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Americans -- Southern States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folklore -- Southern States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hoodoo (Cult)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medicine, Magic, mystic, and spagiric -- Southern States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Syncretic/Creole"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C5/C5ARVMBQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Syncretic/Creole",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

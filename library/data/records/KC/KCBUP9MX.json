@@ -1,0 +1,109 @@
+{
+  "key": "KCBUP9MX",
+  "uri": "https://medjat.irokosociety.org/id/library/KCBUP9MX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KCBUP9MX",
+  "zotero": {
+    "group": "6479329",
+    "key": "KCBUP9MX",
+    "version": 2388,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KCBUP9MX",
+    "dateAdded": "2026-05-19T14:20:17Z",
+    "dateModified": "2026-05-19T14:20:17Z"
+  },
+  "display": {
+    "title": "The condition of market emergence in Indonesia : coloniality as exclusion and translation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lisa Tilley"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Warwick Research Archive Portal (University of Warwick)",
+    "publicationTitle": "Warwick Research Archive Portal (University of Warwick)",
+    "bookTitle": "",
+    "journalAbbreviation": "Warwick Research Archive Portal (University of Warwick)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis elaborates a decolonial international political economy (IPE) as a means of examining the condition of market emergence in Indonesia. It presents the term ‘emerging market’ as the contemporary organising grammar which positions Indonesia in relation to international capital flows. This condition of market emergence is further understood in historical colonial perspective as the latest mode of producing Indonesia as an investible site for international capital. My expansion of decolonial IPE is made in this thesis through the analysis of difference-based ‘exclusion’ and ‘translation’, both as vital elements of coloniality and as processes which relate to accumulation and dispossession in an ‘emerging market’ context. I go on to make the case for bringing urban and rural terminable sites of extraction into the same frame of analysis. These are understood similarly here as internal frontiers along which social groups are materially and discursively excluded from the national emerging market project and thus rendered expropriatable. I further analyse the repeated dispossession of these expropriatable groups along with other means of enacting ‘translations’, or enforced alterations in ways of being. These translations are by no means passively accepted and my analysis further demonstrates various means by which these are negotiated and contested. This thesis therefore makes contributions to the literature on decolonial thought and IPE, at the same time as presenting an original examination of Indonesia in its present moment of market emergence.",
+    "doi": "",
+    "url": "http://wrap.warwick.ac.uk/90948/1/WRAP_Theses_Tilley_2016.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Asian Studies and History",
+      "International Development and Aid",
+      "Socioeconomic Development in Asia"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lisa Tilley"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The condition of market emergence in Indonesia : coloniality as exclusion and translation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Warwick Research Archive Portal (University of Warwick), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian Studies and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "International Development and Aid"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Socioeconomic Development in Asia"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/KC/KCBUP9MX.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "key": "QWBYJ79H",
+  "uri": "https://medjat.irokosociety.org/id/library/QWBYJ79H",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QWBYJ79H",
+  "zotero": {
+    "group": "6479329",
+    "key": "QWBYJ79H",
+    "version": 1077,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QWBYJ79H",
+    "dateAdded": "2026-05-19T13:27:44Z",
+    "dateModified": "2026-05-19T13:27:44Z"
+  },
+  "display": {
+    "title": "LAS RELIGIONES POPULARES CUBANAS: BREVES COMENTARIOS A MEDIO SIGLO",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jesús Guanche"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Redalyc (Universidad Autónoma del Estado de México)",
+    "publicationTitle": "Redalyc (Universidad Autónoma del Estado de México)",
+    "bookTitle": "",
+    "journalAbbreviation": "Redalyc (Universidad Autónoma del Estado de México)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"A cincuenta años de Revolución Cubana las religiones populares de marcada matriz africana han logrado una importante visibilidad nacional e interna-cional escamoteada en otras etapas históricas. Su diversidad ha estado marcada por la coexistencia de prácticas de palomonte, santería o regla de ocha, sacerdocios de Ifá y de Osain, sociedades masculinas abakuá, cultos arará, iyesá, gangá, las variantes cu-banas del vodú y el rastafari, junto diversas expresiones del espiritismo (de mesa, cruzado y de cordón), y otras prácticas domésticas híbridas de unas y otras, que no son dependientes de una institución eclesial por su formación originaria, sino que la institucionalidad radica en la propia \"familia religiosa\", donde descansa su núcleo du-ro de estabilidad y continuidad.\"",
+    "doi": "",
+    "url": "https://openalex.org/W2149641458",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Cultural and Mythological Studies",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jesús Guanche"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "LAS RELIGIONES POPULARES CUBANAS: BREVES COMENTARIOS A MEDIO SIGLO"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Redalyc (Universidad Autónoma del Estado de México), 2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Mythological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/QW/QWBYJ79H.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

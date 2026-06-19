@@ -1,0 +1,128 @@
+{
+  "key": "YFVJVVNN",
+  "uri": "https://medjat.irokosociety.org/id/library/YFVJVVNN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YFVJVVNN",
+  "zotero": {
+    "group": "6479329",
+    "key": "YFVJVVNN",
+    "version": 1452,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YFVJVVNN",
+    "dateAdded": "2026-05-19T13:28:44Z",
+    "dateModified": "2026-05-19T13:39:16Z"
+  },
+  "display": {
+    "title": "\"Don't Mess with the Saints\": Popular Music and Afro-Cuban Religion",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Alan West-Durán"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Florida International University Digital Commons (Florida International University)",
+    "publicationTitle": "Florida International University Digital Commons (Florida International University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Florida International University Digital Commons (Florida International University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Dr. Alan West-Durán examined the influence of Ocha, Palo, and Abakuá in the island's music and their intimate relationship with Cuban daily life.",
+    "doi": "",
+    "url": "https://digitalcommons.fiu.edu/cri_events/417",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "West African traditions",
+      "Central African traditions"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Community",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Alan West-Durán"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "\"Don't Mess with the Saints\": Popular Music and Afro-Cuban Religion"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Florida International University Digital Commons (Florida International University), 2018."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YF/YFVJVVNN.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      },
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

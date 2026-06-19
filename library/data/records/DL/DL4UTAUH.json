@@ -1,0 +1,110 @@
+{
+  "key": "DL4UTAUH",
+  "uri": "https://medjat.irokosociety.org/id/library/DL4UTAUH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DL4UTAUH",
+  "zotero": {
+    "group": "6479329",
+    "key": "DL4UTAUH",
+    "version": 1614,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DL4UTAUH",
+    "dateAdded": "2026-05-19T14:17:15Z",
+    "dateModified": "2026-05-19T14:17:15Z"
+  },
+  "display": {
+    "title": "Florida's Dissenters, Rebels and Runaways: Territorial Days to Emancipation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Larry Eugene Rivers"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Goldsmiths (University of London)",
+    "publicationTitle": "Goldsmiths (University of London)",
+    "bookTitle": "",
+    "journalAbbreviation": "Goldsmiths (University of London)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis examines slave resistance in Florida from the territorial period to emancipation. Florida bond servants manifested varying degrees of resistance. Much like other enslaved blacks throughout the South, the way slaves reacted to Florida's peculiar institution depended on their overall personality, size of the plantation or farm, and treatment by owners and managers (ie. overseers, stewards, foremen, and slave drivers). Enslaved blacks' behavior could range from mild daily dissidence to individual or collective violence against their masters, other whites, and occasionally fellow bond servants. Running away became the most frequent form of conservative resistance employed by bond servants to demonstrate their disenchantment with the day-to-day realities of slavery. The introduction explains the overall purpose and focus of this study. Specifically, it covers Florida slave resistance from 1821 to 1865. Chapter One explores the daily forms of slave dissidence that ranged from feigning illness to stealing food and other materials from the farms and plantations of Florida. Chapters Two through Four consider the various reasons slaves absconded including, but not limited to, their treatment, family and kinfolk concerns, and demands of the work routine. Chapter Five analyzes the most extreme form of slave resistance--physical violence. This type of resistance, either individual or collective, was a frequent result of bondservants' frustration and anger with the Florida slave regime. Chapter Six focuses on Florida slave holders' and society's responses to the perennial problem of slave runaways through the enactment of slave patrol laws. Although Florida statutes created them, slave patrols usually functioned only during times of crisis. Slave catchers--that is, owners, overseers, professionals, and other whites in the community-more frequently served in the capture and return of fugitives than did slave patrols. Resistance in the form of slaves running away to join and fight for the Union army during the Civil War constitutes the primary focus of chapter Seven. Chapter Eight presents an overall profile of Florida runaways. For example, it analyzes the types of slaves who more frequently absconded, their age, their personality traits as described by owners, and their gender. The concluding chapter summarizes and places in perspective the various forms of Florida slave resistance during the overall period under study.",
+    "doi": "10.25602/gold.00028988",
+    "url": "https://doi.org/10.25602/gold.00028988",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Larry Eugene Rivers"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Florida's Dissenters, Rebels and Runaways: Territorial Days to Emancipation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Goldsmiths (University of London), 2002."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25602/gold.00028988"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/DL/DL4UTAUH.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25602/gold.00028988"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

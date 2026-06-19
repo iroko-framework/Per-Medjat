@@ -1,0 +1,137 @@
+{
+  "key": "9Q425Z48",
+  "uri": "https://medjat.irokosociety.org/id/library/9Q425Z48",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9Q425Z48",
+  "zotero": {
+    "group": "6479329",
+    "key": "9Q425Z48",
+    "version": 801,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9Q425Z48",
+    "dateAdded": "2026-05-18T18:57:35Z",
+    "dateModified": "2026-05-18T18:57:35Z"
+  },
+  "display": {
+    "title": "Informal Channels for Conflict Resolution in Ibadan, Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isaac Olawale Albert"
+      },
+      {
+        "role": "series editor",
+        "name": "Tinu Awe"
+      },
+      {
+        "role": "series editor",
+        "name": "Georges Hérault"
+      },
+      {
+        "role": "series editor",
+        "name": "Wuyi Omitoogun"
+      }
+    ],
+    "year": "1995",
+    "date": "1995",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "IFRA The French Institute for Research in Africa / Institut Français de Recherche en Afrique (IFRA) is a French government sponsored institute whose programmes are geared towards the promotion of research in social sciences and humanities in English-speaking Africa. It was first established in 1980 in Nairobi, Kenya, before a branch was opened in Harare, Zimbabwe, in 1986. IFRA Ibadan, which is located within the Institute of African Studies of the University of Ibadan in Nigeria, was set up in 1990. IFRA's mandate includes subsidizing research programmes, granting research allowances to academics and scholars, publishing research results, holding workshops and symposia etc. It also includes facilitating university exchanges between scholars in France and Africa. Over the past few years, IFRA Ibadan's most salient programmes have revolved around problems of démocratie transition and urban sociology, especially urban violence in Africa. However, a large sample of disciplines has also been represented, ranging from history to musicology, économies, linguistics, etc. The institute also runs a library and publishes a Newsletter. IFRA Ibadan Institute of African Studies, University of Ibadan U.I. P.O. Box 21540, Ibadan, Oyo State, Nigeria Tel/Fax (234) 02 810 4077",
+    "doi": "10.4000/books.ifra.705",
+    "url": "https://doi.org/10.4000/books.ifra.705",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "ICT in Developing Communities",
+      "Information Society and Technology Trends"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isaac Olawale Albert"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Informal Channels for Conflict Resolution in Ibadan, Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1995."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/books.ifra.705"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "ICT in Developing Communities"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Information Society and Technology Trends"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Tinu Awe"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Georges Hérault"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Wuyi Omitoogun"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/9Q/9Q425Z48.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/books.ifra.705"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

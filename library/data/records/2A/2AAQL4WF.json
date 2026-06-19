@@ -1,0 +1,115 @@
+{
+  "key": "2AAQL4WF",
+  "uri": "https://medjat.irokosociety.org/id/library/2AAQL4WF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2AAQL4WF",
+  "zotero": {
+    "group": "6479329",
+    "key": "2AAQL4WF",
+    "version": 1437,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2AAQL4WF",
+    "dateAdded": "2026-05-19T13:29:13Z",
+    "dateModified": "2026-05-19T13:29:13Z"
+  },
+  "display": {
+    "title": "Ozo Title: An Indigenous Institution In Traditional Religion That Upholds Patriarchy In Igbo Land South-Eastern Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Francis Chuks Madukasi"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "The International Journal of Social Sciences and Humanities Invention",
+    "publicationTitle": "The International Journal of Social Sciences and Humanities Invention",
+    "bookTitle": "",
+    "journalAbbreviation": "The International Journal of Social Sciences and Humanities Invention",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "5",
+    "pages": "4640-4652",
+    "abstract": "In Igbo land, the institution of Ozo title has underpinnings of male chauvinism and often used by men to remind those who appear to be very forward of their subordinate place in the society. Among the Igbo people, the Ozo title is an indigenous institution that is regarded as a central aspect of African indigenous religious practice through which they engage questions about the meaning for life. Through an ethnographic study conducted in recent years, I propose to explore the origin of the Ozo title and the symbolic significance of this indigenous sacred institution with specific reference to its religious, cultural, political, ethical and social significance, a method by which the indigenous communities keeps in constant religious communication with their deities and ancestors. However, I propose to not only examine the various ways in which Ozo title as a sacred institution has been used by their initiates to mediate religious beliefs and practices in African religion, but to specifically focus on its members as agents or ambassadors of different communities. Through an evaluation of significant Igbo religious practices involving Ozo title as a sacred institution performed by initiated men only which upholds patriarchy, I wish to suggest that the Ozo title as a sacred institution has two significant and related functions. The first one is that it enables the initiates to bridge the gap between the visible and unseen world of the ancestors and thus making possible an Igbo understanding of those forces that are believed to control the destinies of man. Secondly, Ozo title as a sacred institution of the Igbo is believed to uphold and sustain the Igbo religious system, and a complex of traditional religious rituals which uphold the privileges of those men who have been initiated into the ancestral cult. This paper point to particular understandings of Ozo title as integral to African religion, and proposes to illustrate this through an examination of Traditional Igbo Religion through the mediation of Ozo title as a sacred institution as part of the broader socio-sacral order.",
+    "doi": "10.18535/ijsshi/v5i5.02",
+    "url": "https://doi.org/10.18535/ijsshi/v5i5.02",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African cultural and philosophical studies",
+      "Religious Education and Schools"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Francis Chuks Madukasi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Ozo Title: An Indigenous Institution In Traditional Religion That Upholds Patriarchy In Igbo Land South-Eastern Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The International Journal of Social Sciences and Humanities Invention, 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "4640-4652 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18535/ijsshi/v5i5.02"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African cultural and philosophical studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religious Education and Schools"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2A/2AAQL4WF.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18535/ijsshi/v5i5.02"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "J52XLG83",
+  "uri": "https://medjat.irokosociety.org/id/library/J52XLG83",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=J52XLG83",
+  "zotero": {
+    "group": "6479329",
+    "key": "J52XLG83",
+    "version": 1197,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/J52XLG83",
+    "dateAdded": "2026-05-19T13:28:26Z",
+    "dateModified": "2026-05-19T13:28:26Z"
+  },
+  "display": {
+    "title": "Los Abakuá: Identidadyresistencia Cultural En La Historia Cubana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lahouaria Naab"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "مجلة جسور المعرفة",
+    "publicationTitle": "مجلة جسور المعرفة",
+    "bookTitle": "",
+    "journalAbbreviation": "مجلة جسور المعرفة",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "160-160",
+    "abstract": "",
+    "doi": "10.35645/1711-011-003-012",
+    "url": "https://doi.org/10.35645/1711-011-003-012",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Afro-Latin American Studies",
+      "Cuban History and Society",
+      "Historical Studies in Central America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lahouaria Naab"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los Abakuá: Identidadyresistencia Cultural En La Historia Cubana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "مجلة جسور المعرفة, 2025."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "160-160 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.35645/1711-011-003-012"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Latin American Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Central America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/J5/J52XLG83.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.35645/1711-011-003-012"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "key": "HKBXDSM5",
+  "uri": "https://medjat.irokosociety.org/id/library/HKBXDSM5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HKBXDSM5",
+  "zotero": {
+    "group": "6479329",
+    "key": "HKBXDSM5",
+    "version": 870,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HKBXDSM5",
+    "dateAdded": "2026-05-18T18:57:37Z",
+    "dateModified": "2026-05-18T18:57:37Z"
+  },
+  "display": {
+    "title": "The Religious Recluse of the Oro Cult and Yoruba Bardic Tradition",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Shola Balogun"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "International Journal for Social Studies",
+    "publicationTitle": "International Journal for Social Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "International Journal for Social Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "issue": "11",
+    "pages": "34-37",
+    "abstract": "This study examines the indigenous institution of the Oro cult, its organizations and the various dramatic components embedded in the nocturnal processions of its religious recluse. It is hoped that this study will be of benefit to theatre practitioners, students and those in other related disciplines on the subjects of African theatre.",
+    "doi": "",
+    "url": "https://openalex.org/W2531238262",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis",
+      "Postcolonial and Cultural Literary Studies",
+      "Shakespeare, Adaptation, and Literary Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Shola Balogun"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Religious Recluse of the Oro Cult and Yoruba Bardic Tradition"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "International Journal for Social Studies, 2016."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "34-37 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Postcolonial and Cultural Literary Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Shakespeare, Adaptation, and Literary Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/HK/HKBXDSM5.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

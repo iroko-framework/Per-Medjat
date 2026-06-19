@@ -1,0 +1,109 @@
+{
+  "key": "7TQFU9WZ",
+  "uri": "https://medjat.irokosociety.org/id/library/7TQFU9WZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=7TQFU9WZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "7TQFU9WZ",
+    "version": 2007,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7TQFU9WZ",
+    "dateAdded": "2026-05-19T14:19:03Z",
+    "dateModified": "2026-05-19T14:19:03Z"
+  },
+  "display": {
+    "title": "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Camila Guimarães de Melo"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "publicationTitle": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "bookTitle": "",
+    "journalAbbreviation": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Based on bibliographical research and the analysis of court rulings, this study investigates the characterization of slave-like labor by Brazilian courts. After the alteration of article 149 of the Brazilian Penal Code, introduced by Law nº 10.803/2003, which typifies the practice of contemporary slavery in Brazil, divergent characterizations of this practice remain. The courts currently employ the broadest concept of contemporary slave labor, in which the crime is characterized by the engagement in one of the following conducts established as a criminal offense: labor with the restriction of freedom, submission to exhaustive working conditions, degrading working conditions, and debt bondage. The engagement in one of the above is therefore enough to constitute a crime. Contemporary slave labor in Brazil is not characterized only by the restriction of the worker’s freedom, as in the case of forced labor or debt bondage, but also through the submission of the workers to situations that offend their human dignity. Individual freedom and the dignity of the human person, fundamental tenets of the Brazilian Federal Constitution, are juridical resources safeguarded by law. Contemporary slavery is not limited to the mere infringement of labor laws, but represents a severe violation of the human rights of the workers involved.",
+    "doi": "",
+    "url": "http://hdl.handle.net/10362/16175",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Brazilian Legal Issues",
+      "Migration, Racism, and Human Rights",
+      "Social and Political Issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Camila Guimarães de Melo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Brazilian Legal Issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Racism, and Human Rights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social and Political Issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/7T/7TQFU9WZ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

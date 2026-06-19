@@ -1,0 +1,116 @@
+{
+  "key": "WV9NQ8NC",
+  "uri": "https://medjat.irokosociety.org/id/library/WV9NQ8NC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WV9NQ8NC",
+  "zotero": {
+    "group": "6479329",
+    "key": "WV9NQ8NC",
+    "version": 2376,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WV9NQ8NC",
+    "dateAdded": "2026-05-19T14:20:14Z",
+    "dateModified": "2026-05-19T14:20:14Z"
+  },
+  "display": {
+    "title": "The Career of Henry Watkins Allen.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Luther Chandler"
+      }
+    ],
+    "year": "1940",
+    "date": "1940",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The Claiborne County records in port Gibson and in the Department of Archives and History at jaokson reveal that between 1837 and 1852 Allen practiced law, served six months in the Texas army, was for one term an active member of the lower House of the Mississippi legislature, and operated a cotton plantation. He also purchased a large amount of land in Mississippi, Louisiana, and Texas during this period. In 1844",
+    "doi": "10.31390/gradschool_disstheses.7825",
+    "url": "https://doi.org/10.31390/gradschool_disstheses.7825",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American History and Culture",
+      "Archaeology and Natural History",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Luther Chandler"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Career of Henry Watkins Allen."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1940."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_disstheses.7825"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and Natural History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WV/WV9NQ8NC.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_disstheses.7825"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

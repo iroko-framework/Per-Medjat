@@ -1,0 +1,109 @@
+{
+  "key": "9MP3U56T",
+  "uri": "https://medjat.irokosociety.org/id/library/9MP3U56T",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9MP3U56T",
+  "zotero": {
+    "group": "6479329",
+    "key": "9MP3U56T",
+    "version": 1917,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9MP3U56T",
+    "dateAdded": "2026-05-19T14:18:37Z",
+    "dateModified": "2026-05-19T14:18:37Z"
+  },
+  "display": {
+    "title": "Letters of Blood and Fire: A Socio-Economic History of International Law",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Konstantina Tzouvala"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Durham e-Theses (Durham University)",
+    "publicationTitle": "Durham e-Theses (Durham University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Durham e-Theses (Durham University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The financial crash of 2007-2008 brought words like ‘capitalism’, ‘capital’, and ‘socialism’ back in vogue. However, the discipline of international law remains to reflect systematically on its relationship with the ways in which wealth and power are produced and distributed. This thesis examines the relationship between international law, imperialism and capitalism through historical lenses, arguing that the diffusion of capitalist relations is a core function of international law. Analysing the nineteenth-century ‘standard of civilisation’, I contend that transforming (semi)colonised polities into centralised, territorialised states operating as guarantors of capitalist relations of production was at the core of the concept. Extraterritoriality in Japan and the Ottoman Empire serves as a case study to verify this statement and to highlight the transformative functions of the ‘civilising mission’. The Mandates System of the League of Nations established a system of partial internationalisation of this transformative process, while attempting to safeguard the long-term interests of capital through the introduction of limited forms of welfarism. My thesis then argues that decolonisation assumed the form of national statehood due to the transformative functions of nineteenth-century international law. Therefore, the attempt to push for a New International Economic Order was both a challenge to contemporary international law and a reaffirmation of its role in promoting capitalist relations on a global level. These reformist attempts did not succeed, however, and a new model of capitalist accumulation, neoliberalism, became hegemonic after 1990. The quantitative expansion and qualitative refinement of international law during that period was intrinsically linked to the neoliberal aversion to democratic and mass politics. The neoliberal reconstruction of Iraq in the aftermath of the 2003 invasion is interpreted in the light of this reality. In so doing, my thesis highlights the ongoing synergies between international law and capitalist expansion.",
+    "doi": "",
+    "url": "https://etheses.durham.ac.uk/id/eprint/11806/1/Tzouvala_Konstantina-Thesis.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Global Financial Crisis and Policies",
+      "International Development and Aid",
+      "State Capitalism and Financial Governance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Konstantina Tzouvala"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Letters of Blood and Fire: A Socio-Economic History of International Law"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Durham e-Theses (Durham University), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Financial Crisis and Policies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "International Development and Aid"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "State Capitalism and Financial Governance"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/9M/9MP3U56T.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "ADIH2IYV",
+  "uri": "https://medjat.irokosociety.org/id/library/ADIH2IYV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ADIH2IYV",
+  "zotero": {
+    "group": "6479329",
+    "key": "ADIH2IYV",
+    "version": 1554,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ADIH2IYV",
+    "dateAdded": "2026-05-19T14:17:06Z",
+    "dateModified": "2026-05-19T14:17:06Z"
+  },
+  "display": {
+    "title": "Women and the Law of Property Under Louisiana Civil Law, 1782--1835.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Sara Sundberg"
+      }
+    ],
+    "year": "2001",
+    "date": "2001",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation explores the influence of Louisiana civil law on women's property ownership between 1782 and 1835. Louisiana civil law offered women significant advantages over the predominant common law tradition found in most early American states. Louisiana civil law, unlike common law, allowed a married woman to retain her legal identity, her personal property and her right to monetary rewards from her labors within the family. A woman in early Louisiana owned half the property accumulated during marriage and she inherited her half of the property at the dissolution of the marriage. She also owned and could administer separate property. Data drawn from notarial and probate records from three parishes representative of early Louisiana's population indicate that Louisiana women accumulated economic resources and they exercised economic authority within their families and communities. Regional comparisons of wealth accumulation between Pennsylvania and Louisiana demonstrate that overall women fared better under civil law than women under common law. These findings call into question traditional interpretations of legal dispossession and enforced dependence for early American women. They also illuminate ethnic and regional dimensions to the relationship between the civil law and women's property. The study demonstrates that Anglos in Louisiana were less likely to conform to legal provisions economically beneficial to women, than was the French-speaking population in Louisiana who were more familiar with civil law through custom. Moreover, because early Louisiana was a slave-holding state supposedly committed to rigid patriarchy the economic resources and authority accumulated by early Louisiana women refines our understanding of the flexibility and limits of patriarchy.",
+    "doi": "10.31390/gradschool_disstheses.320",
+    "url": "https://doi.org/10.31390/gradschool_disstheses.320",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "Gender, Labor, and Family Dynamics",
+      "Historical Economic and Social Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Sara Sundberg"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Women and the Law of Property Under Louisiana Civil Law, 1782--1835."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2001."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_disstheses.320"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Gender, Labor, and Family Dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Economic and Social Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/AD/ADIH2IYV.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_disstheses.320"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

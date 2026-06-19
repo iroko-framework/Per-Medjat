@@ -1,0 +1,121 @@
+{
+  "key": "TXAN2KHV",
+  "uri": "https://medjat.irokosociety.org/id/library/TXAN2KHV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TXAN2KHV",
+  "zotero": {
+    "group": "6479329",
+    "key": "TXAN2KHV",
+    "version": 1149,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TXAN2KHV",
+    "dateAdded": "2026-05-19T13:28:09Z",
+    "dateModified": "2026-05-19T13:28:09Z"
+  },
+  "display": {
+    "title": "Santería grand slam: Afro-Cuban religious studies and the study of Afro-Cuban religion",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stephan Palmié"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "publicationTitle": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "bookTitle": "",
+    "journalAbbreviation": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "79",
+    "issue": "3-4",
+    "pages": "281-300",
+    "abstract": "[First paragraph]Living Santería: Rituals and Experiences in an Afro-Cuban Religion. MICHAEL ATWOOD MASON. Washington DC: Smithsonian Institution Press, 2002. ix + 165 pp. (Paper US$ 16.95)Divine Utterances: The Performance of Afro-Cuban Santería. KATHERINE J. HAGEDORN. Washington DC: Smithsonian Institution Press, 2001. xvi + 296 pp. (Cloth US$ 40.00)The Light Inside: Abakuá Society Arts and Cuban Cultural History. DAVID H. BROWN. Washington DC: Smithsonian Institution Press, 2003. xix + 286 pp. (Cloth US$ 44.23)Santería Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion. DAVID H. BROWN. Chicago: The University of Chicago Press, 2003. xx + 413 pp. (Paper US$ 38.00)Ethnographic objects behave in curious ways. Although they clearly are “our constructions,” field sites and even topically circumscribed (rather than spatially delimited) ethnographic problems lead double lives: places and problems change not merely because they factually undergo historical changes, but because researchers come to them from historically no less changeable epistemic vantage points. One can imagine generational cohorts of ethnographers marching across the same geographically or thematically defined terrain and seeing different things – not just because of substantial changes that have factually occurred, but because they have come to ask different questions. The process obviously has its dialectical moments. The figures we inscribe in writing from fleeting observations (based on changing theoretical conceptions) are no less subject to history than the empirical grounds from which our discursive efforts call them forth. The result is a curious imbrication of partially autonomous, but also partly overlapping, historicities of lives and texts which, at times, are more difficult to keep apart than it would seem at first glance. At least in the study of Afro-Cuban religious culture, the two practical and discursive fields – one circumscribed by the practical, but perhaps misleading label “Afro-Cuban religion,”1 and the other designated by whatever term one might like to affix to the study of it – cannot be easily separated: much as in the Brazilian case (Braga 1995, Capone 1999, Matory 1999, 2001), practitioners of Afro-Cuban religions and their ethnographers have engaged each other in a dialogue since at least the second decade of the twentieth century. That it took us so long to understand this fact has much to do with the way both “Afro-Cuban religion” and “Afro-Cuban ethnography” originally (and lastingly) became discursively objectified: the former largely under the sign of a search for “authentically African” elements in New World cultural practices, the second as an instrument for “verifying” (and thereby authorizing) such “Africanisms” (Scott 1991).",
+    "doi": "10.1163/22134360-90002510",
+    "url": "https://doi.org/10.1163/22134360-90002510",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stephan Palmié"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Santería grand slam: Afro-Cuban religious studies and the study of Afro-Cuban religion"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "281-300 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/22134360-90002510"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/TX/TXAN2KHV.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/22134360-90002510"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

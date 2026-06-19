@@ -1,0 +1,103 @@
+{
+  "key": "A54YMPH3",
+  "uri": "https://medjat.irokosociety.org/id/library/A54YMPH3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=A54YMPH3",
+  "zotero": {
+    "group": "6479329",
+    "key": "A54YMPH3",
+    "version": 2019,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/A54YMPH3",
+    "dateAdded": "2026-05-19T14:19:07Z",
+    "dateModified": "2026-05-19T14:19:07Z"
+  },
+  "display": {
+    "title": "Clandestine migration and the business of bordering Europe",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ruben Andersson"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "publicationTitle": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "bookTitle": "",
+    "journalAbbreviation": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Irregular, clandestine or so-called “illegal” migration by land and sea is rarely out of the political and media agenda in Europe despite its statistically limited significance. Taking this mismatch as its starting point, this thesis explores the industry that has emerged around clandestine migration in recent years – the transnational policing networks, aid organisations and media outlets that all make the “illegal immigrant” their target, beneficiary and source. It focuses on the migration circuit between West Africa and Spain, where a joint European response to irregular flows was first tried and tested under the umbrella of the border agency Frontex. It is also here that success in “fighting illegal migration” has been most readily announced following the brief, spectacular migration “crises” in Spain’s North African enclaves of Ceuta and Melilla in 2005 and in the Canary Islands in 2006.&#13;\\nThe thesis explores ethnographically how clandestine migration has been constituted as a field of intervention and knowledge-gathering since this time. In this field, it is argued, the roles of policing, caring for and informing on migrants intermingle while producing shared models, materialities and classifications that impinge upon the travellers labelled “illegal”. Drawing on the dynamic nominalism of Ian Hacking, the actor-network theory of Bruno Latour and a growing body of critical migration and border studies, the thesis explores the interfaces where specific modalities of migrant illegality are produced. The exploration of these interfaces – in deportation, surveillance, patrolling, rescues, reception and activism – relies on an extended field site, with research carried out in Senegal, Mali, Morocco, southern Spain and European policing headquarters. Throughout, the thesis highlights not just the workings of the migration industry but this industry’s excesses and absurdities, which make the business of bordering Europe a fraught and contradictory enterprise.",
+    "doi": "",
+    "url": "http://etheses.lse.ac.uk/3422/1/5885042349.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Migration and Exile Studies",
+      "Migration, Refugees, and Integration"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ruben Andersson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Clandestine migration and the business of bordering Europe"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration and Exile Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Refugees, and Integration"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/A5/A54YMPH3.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

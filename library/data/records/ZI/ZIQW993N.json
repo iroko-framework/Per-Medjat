@@ -1,0 +1,121 @@
+{
+  "key": "ZIQW993N",
+  "uri": "https://medjat.irokosociety.org/id/library/ZIQW993N",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZIQW993N",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZIQW993N",
+    "version": 654,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZIQW993N",
+    "dateAdded": "2026-05-18T18:57:19Z",
+    "dateModified": "2026-05-18T18:57:19Z"
+  },
+  "display": {
+    "title": "Violent histories and the ambivalences of recognition in postcolonial Papua New Guinea",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Victoria Stead"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Postcolonial Studies",
+    "publicationTitle": "Postcolonial Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "Postcolonial Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "20",
+    "issue": "1",
+    "pages": "68-85",
+    "abstract": "On the 23 July 2009, in a ceremony at the Bomana War Cemetery near Papua New Guinea’s capital city Port Moresby, 86-year-old Wesley Akove was awarded the first of a series of ‘Fuzzy Wuzzy Angel commemorative medallions’ given by the Australian government to PNG civilians who had assisted Australian troops during the Second World War. If the awarding of Mr Akove’s medallion is in many ways an archetypal enactment of the ‘politics of recognition’, consideration of three other instances of encounter between Orokaiva people in PNG’s Oro Province and Australian colonial forces disrupt the Fuzzy Wuzzy Angel trope on which this recognition ritual hinges. These encounters include the wartime executions of Orokaiva men by Australian forces, recent protests by landowners along the Kokoda Track and the murder of two European gold miners at the beginning of the twentieth century by Orokaiva warriors. Considered together, narratives about these encounters speak to an asymmetrical field of power in which Australia acts to control the terms and temporalities of the recognition it offers to wartime carriers and their descendants, enacting particular, contingent forms of relationality in ways that reproduce colonial hierarchies.",
+    "doi": "10.1080/13688790.2017.1355879",
+    "url": "https://doi.org/10.1080/13688790.2017.1355879",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anthropological Studies and Insights",
+      "Island Studies and Pacific Affairs",
+      "Pacific and Southeast Asian Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Victoria Stead"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Violent histories and the ambivalences of recognition in postcolonial Papua New Guinea"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Postcolonial Studies, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "68-85 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1080/13688790.2017.1355879"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Island Studies and Pacific Affairs"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pacific and Southeast Asian Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/ZI/ZIQW993N.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1080/13688790.2017.1355879"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

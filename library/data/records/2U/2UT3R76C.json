@@ -1,0 +1,109 @@
+{
+  "key": "2UT3R76C",
+  "uri": "https://medjat.irokosociety.org/id/library/2UT3R76C",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2UT3R76C",
+  "zotero": {
+    "group": "6479329",
+    "key": "2UT3R76C",
+    "version": 1200,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2UT3R76C",
+    "dateAdded": "2026-05-19T13:28:27Z",
+    "dateModified": "2026-05-19T13:28:27Z"
+  },
+  "display": {
+    "title": "Abakuá Altar Arts: Ekue, Representation, and the Banner of Regla's Efori Eñongo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David H. Brown"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "31-48",
+    "abstract": "",
+    "doi": "10.4324/9780429283789-4",
+    "url": "https://doi.org/10.4324/9780429283789-4",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Social Studies in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David H. Brown"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Abakuá Altar Arts: Ekue, Representation, and the Banner of Regla's Efori Eñongo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "31-48 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9780429283789-4"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Social Studies in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2U/2UT3R76C.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9780429283789-4"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

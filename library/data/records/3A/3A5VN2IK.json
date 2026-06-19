@@ -1,0 +1,116 @@
+{
+  "key": "3A5VN2IK",
+  "uri": "https://medjat.irokosociety.org/id/library/3A5VN2IK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3A5VN2IK",
+  "zotero": {
+    "group": "6479329",
+    "key": "3A5VN2IK",
+    "version": 2190,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3A5VN2IK",
+    "dateAdded": "2026-05-19T14:19:42Z",
+    "dateModified": "2026-05-19T14:19:42Z"
+  },
+  "display": {
+    "title": "Negotiating Identities, Striving for State Recongition: Blacks in Cordoba, Argentina 1776-1853",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "E. D. Edwards"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Race in Argentina played a significant role as a highly durable construct by identifying and advancing subjects (1776-1810) and citizens (1811-1853). My dissertation explores the intricacies of power relations by focusing on the ways in which race informed the legal process during the transition from a colonial to national State. It argues that the State’s development in both the colonial and national periods depended upon defining and classifying African descendants. In response, people of African descendent used the State’s assigned definitions and classifications to advance their legal identities. It employs race and culture as operative concepts, and law as a representation of the sometimes, tense relationship between social practices and the State’s concern for social peace. This dissertation examines the dynamic nature of the court. It utilizes the theoretical concepts multicentric legal orders that are analyzed through weak and strong legal pluralisms, and jurisdictional politics, from the late eighteenth to early nineteenth centuries. This dissertation juxtaposes various levels of jurisdiction (canon/state law and colonial/national law) to illuminate how people of color used the legal system to ameliorate their social condition. In each chapter the primary source materials are state generated documents which include criminal, ecclesiastical, civil, and marriage dissent court cases along with notarial and census records. Though it would appear that these documents would provide a superficial understanding of people of color, my analysis provides both a top-down and bottom-up approach that reflects a continuous negotiation for African descendants’ goal for State recognition. These approaches allow for implicit or explicit negotiation of a legal identity that transformed slaves and free African descendants into active agents of their own destinies.",
+    "doi": "10.25148/etd.fi11080808",
+    "url": "https://doi.org/10.25148/etd.fi11080808",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society",
+      "Politics and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "E. D. Edwards"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Negotiating Identities, Striving for State Recongition: Blacks in Cordoba, Argentina 1776-1853"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25148/etd.fi11080808"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Politics and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/3A/3A5VN2IK.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25148/etd.fi11080808"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "key": "2J5LKP5J",
+  "uri": "https://medjat.irokosociety.org/id/library/2J5LKP5J",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2J5LKP5J",
+  "zotero": {
+    "group": "6479329",
+    "key": "2J5LKP5J",
+    "version": 2169,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2J5LKP5J",
+    "dateAdded": "2026-05-19T14:19:39Z",
+    "dateModified": "2026-05-19T14:19:39Z"
+  },
+  "display": {
+    "title": "Asians and Africans in Ugandan Urban Life, 1959-1972.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Edgar C. Taylor"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This study examines the relationship between racial thought, urban infrastructure, and urban sociality during a period of rapid change in Uganda’s political order and public spheres. It shifts focus away from a teleological narrative of racialization, in which the 1972 Asian expulsion constitutes a totalizing legacy of Ugandan Asian history, to arenas of contestation over the production of racial categories, urban space, and history. Each chapter considers Ugandans’ efforts to reshape ideas about racial difference and to control the spaces in which such ideas took shape in daily practice. Analyzing the multiple registers in which Ugandans produced, used, and elided racial categories reveals tensions that are too often hidden in expulsion narratives.",
+    "doi": "",
+    "url": "http://hdl.handle.net/2027.42/120900",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Edgar C. Taylor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Asians and Africans in Ugandan Urban Life, 1959-1972."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2J/2J5LKP5J.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

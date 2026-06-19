@@ -1,0 +1,109 @@
+{
+  "key": "TUGXX643",
+  "uri": "https://medjat.irokosociety.org/id/library/TUGXX643",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TUGXX643",
+  "zotero": {
+    "group": "6479329",
+    "key": "TUGXX643",
+    "version": 1593,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TUGXX643",
+    "dateAdded": "2026-05-19T14:17:11Z",
+    "dateModified": "2026-05-19T14:17:11Z"
+  },
+  "display": {
+    "title": "In the Clearing: Black Female Bodies, Space and Settler Colonial Landscapes",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Tiffany Jeannette King"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "publicationTitle": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation is an interdisciplinary project that introduces vocabulary, analytic units and cultural landscapes that make it possible to conceive of slavery and settler colonialism as constitutive of one another. By focusing on Black female gender formation at the intersection of slavery and settler colonialism, this study argues that Black women's bodies function as sites where we can observe the power of slavery and settler colonialism simultaneously. Both the Slave Master's need for bodies and the Settler's need for space required the production of the Black female slave body as a unit of unending property. As a metonym for fungible property, the Black female slave body served as an apt metaphor for space within settler colonial imaginaries. Though largely omitted from the analytic frames of settler colonialism, Black women's bodies are materially and symbolically essential to the space making practices of settler colonialism in the U.S. and Canada. Throughout this project, Black women function as tropes of spatial expansion, spatial limits and chaos. Black female bodies are material bodies that can either facilitate settler colonial expansion or impede the settler spatial order. As embodied and agentive subjects, Black women contest the dehumanizing spatial processes of property accumulation by establishing new relationships to space and spatial production. This dissertation uses material and cultural landscapes in order to stage these various contestations over space. The landscapes in this study include: the hands of Black female slaves, \"the settlement-plantation,\" the Eliza Lucas Pinckney archive, the Moynihan Report, the \"Black Matriarch,\" and the coalitional politics of a \"Black-Native Feminist Formation\" in Toronto, Canada. I analyze these landscapes by using methods from discourse and textual analysis as well as autobiographical writing. I conduct textual analyses of the film Daughters of the Dust, the film's sequel in the form of Julie Dash's novel bearing the same title, the Eliza Lucas Pinckney archive and the Moynihan Report. Finally, I recollect the work of Black and Native women who were apart of INCITE Toronto from 2006-2008. This dissertation argues for more critical attention to the ways that Blackness, specifically Black femaleness, matters to settler colonial power.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1903/14525",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Literature and Culture",
+      "Canadian Identity and History",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Tiffany Jeannette King"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "In the Clearing: Black Female Bodies, Space and Settler Colonial Landscapes"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Repository at the University of Maryland (University of Maryland College Park), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Canadian Identity and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/TU/TUGXX643.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

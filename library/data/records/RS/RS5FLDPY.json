@@ -1,0 +1,108 @@
+{
+  "key": "RS5FLDPY",
+  "uri": "https://medjat.irokosociety.org/id/library/RS5FLDPY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RS5FLDPY",
+  "zotero": {
+    "group": "6479329",
+    "key": "RS5FLDPY",
+    "version": 1326,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RS5FLDPY",
+    "dateAdded": "2026-05-19T13:28:52Z",
+    "dateModified": "2026-05-19T13:28:52Z"
+  },
+  "display": {
+    "title": "Impossible retour. À propos du spectacle Le Rituel abakuà – Les hommes-léopards ekpe, du Nigeria à Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Thierry Simon"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "Gradhiva. Revue d'anthropologie et d'histoire des arts",
+    "publicationTitle": "Gradhiva. Revue d'anthropologie et d'histoire des arts",
+    "bookTitle": "",
+    "journalAbbreviation": "Gradhiva. Revue d'anthropologie et d'histoire des arts",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "7",
+    "pages": "156-158",
+    "abstract": "Le spectacle Le Rituel abakua, programme a la fin du mois de decembre 2007 par le musee du quai Branly dans le cycle «Le corps animal», a apporte au public parisien une occasion unique de se familiariser avec l’un des rites les plus meconnus de la sphere afro-americaine, l’abakua. Precede d’une conference d’Ivor Miller, le spectacle mettait en scene une societe africaine, ekpe, dont les membres sont des Efik du Nigeria (originaires de la region du Calabar) et des musiciens cubains de New York...",
+    "doi": "",
+    "url": "https://openalex.org/W1489087081",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Caribbean and African Literature and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Thierry Simon"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Impossible retour. À propos du spectacle Le Rituel abakuà – Les hommes-léopards ekpe, du Nigeria à Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Gradhiva. Revue d'anthropologie et d'histoire des arts, 2008."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "156-158 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/RS/RS5FLDPY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

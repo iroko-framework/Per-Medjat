@@ -1,0 +1,95 @@
+{
+  "key": "TD4GTWJE",
+  "uri": "https://medjat.irokosociety.org/id/library/TD4GTWJE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TD4GTWJE",
+  "zotero": {
+    "group": "6479329",
+    "key": "TD4GTWJE",
+    "version": 184,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TD4GTWJE",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-18T14:28:01Z"
+  },
+  "display": {
+    "title": "A view from itia ororó kande",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Palmié, Stephan"
+      }
+    ],
+    "year": "2006",
+    "date": "2006",
+    "publisher": "Social Anthropology",
+    "publicationTitle": "Social Anthropology",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "14",
+    "issue": "1",
+    "pages": "99–118",
+    "abstract": "The Cuban male esoteric sodality abakuá has long been interpreted as a transatlantically displaced version of the type of secret society known as ekpe or ngbe in the Cross-River region of south-eastern Nigeria and south-western Cameroon. While not disputing such attributions of African origins, this essay seeks to trace the contours of an alternative history of abakuá. My aim is to confront \"objectivist\" accounts of the diffusionary history of ekpe and abakuá with the ways in which contemporary members of Cuban abakuá ritually produce relations to an African past which they create by performing it into being in the New World present. © 2006 European Association of Social Anthropologists.",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Community",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Palmié, Stephan"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A view from itia ororó kande"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Social Anthropology, 2006."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "99–118 p."
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/TD/TD4GTWJE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

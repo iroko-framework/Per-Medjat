@@ -1,0 +1,109 @@
+{
+  "key": "33W6BYLK",
+  "uri": "https://medjat.irokosociety.org/id/library/33W6BYLK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=33W6BYLK",
+  "zotero": {
+    "group": "6479329",
+    "key": "33W6BYLK",
+    "version": 2034,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/33W6BYLK",
+    "dateAdded": "2026-05-19T14:19:12Z",
+    "dateModified": "2026-05-19T14:19:12Z"
+  },
+  "display": {
+    "title": "Mastering Emotions: The Emotional Politics of Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Erin Austin Dwyer"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "publicationTitle": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Mastering Emotions: The Emotional Politics of Slavery explores how the emotions and affective norms of the Antebellum South were conditioned upon and constructed through the institution of slavery. Though slavery is a subject wrought with emotion, there has been no focus in recent historical scholarship on the affective dimensions of slavery. Studies in the history of emotion have also largely ignored slavery. My intervention in these fields reveals the ways that both slaveholders and slaves wielded fear, trust, jealousy, and affection in their interactions with one another. The project also sheds light on how the emotional norms of societies are learned and policed, manipulated and enforced. I argue that the emotions of slaveholders and slaves alike were irrevocably shaped by slavery. The daily negotiations and contestations that occurred between slaveholders and slaves through and about feelings, in conjunction with larger debates about race, freedom, and emotional norms, form the backbone of what I call the emotional politics of slavery. Mastering Emotions examines how the affective norms of slavery were taught, how emotional transgressions were punished, and the long-term impacts of those emotional norms on the affective landscape of the post-Reconstruction South. To gain insight into the emotional lives and affective experiences of enslaved people of color I use a variety of primary sources such as slave narratives, letters, and court testimony. Steeped in the mode of sentimentalism, which encouraged people to reflect upon and articulate their feelings, slaveholders revealed how they felt about their slaves, and how they believed their slaves felt, in diaries, wills, and even records of slave sales and manumissions. Studying the affective terrain of the Antebellum South provides fresh insight into the politics of slavery, revealing how those in bondage used feelings to resist slavery, and how the planter class employed emotions to enforce the institution. This project also contributes to the burgeoning field of affective history by complicating understandings of how emotions are constructed in relation to power, and how power operates in affective relations.",
+    "doi": "",
+    "url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:9282890",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History of Emotions Research",
+      "Literature: history, themes, analysis",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Erin Austin Dwyer"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mastering Emotions: The Emotional Politics of Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Access to Scholarship at Harvard (DASH) (Harvard University), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Emotions Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature: history, themes, analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/33/33W6BYLK.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "5QTCWWNC",
+  "uri": "https://medjat.irokosociety.org/id/library/5QTCWWNC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5QTCWWNC",
+  "zotero": {
+    "group": "6479329",
+    "key": "5QTCWWNC",
+    "version": 756,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5QTCWWNC",
+    "dateAdded": "2026-05-18T18:57:32Z",
+    "dateModified": "2026-05-18T18:57:32Z"
+  },
+  "display": {
+    "title": "An Overview of Taboo and Superstition among the Yoruba of Southwest of Nigeria",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Odejobi Cecilia Omobola"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Mediterranean Journal of Social Sciences",
+    "publicationTitle": "Mediterranean Journal of Social Sciences",
+    "bookTitle": "",
+    "journalAbbreviation": "Mediterranean Journal of Social Sciences",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "A taboo is something looked down upon by society because of social custom. This article therefore examines an overview of taboo and superstition among the Yoruba of southwest of Nigeria. This work explores the concept of taboos in Yoruba land. It also confirmed whether superstition and taboo means the same thing in Yoruba society. The importance of taboos in Yoruba society is also discussed. It was discovered that taboo in the concept of Yoruba belief is different from superstition because of its usefulness in the society. DOI: 10.5901/mjss.2013.v4n2p221",
+    "doi": "10.5901/mjss.2013.v4n2p221",
+    "url": "https://doi.org/10.5901/mjss.2013.v4n2p221",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Education and Islamic Studies",
+      "Language, Linguistics, Cultural Analysis",
+      "Religion and Sociopolitical Dynamics in Nigeria"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Odejobi Cecilia Omobola"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "An Overview of Taboo and Superstition among the Yoruba of Southwest of Nigeria"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Mediterranean Journal of Social Sciences, 2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5901/mjss.2013.v4n2p221"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Education and Islamic Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Sociopolitical Dynamics in Nigeria"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/5Q/5QTCWWNC.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5901/mjss.2013.v4n2p221"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "key": "QEYI8IGB",
+  "uri": "https://medjat.irokosociety.org/id/library/QEYI8IGB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QEYI8IGB",
+  "zotero": {
+    "group": "6479329",
+    "key": "QEYI8IGB",
+    "version": 864,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QEYI8IGB",
+    "dateAdded": "2026-05-18T18:57:37Z",
+    "dateModified": "2026-05-18T18:57:37Z"
+  },
+  "display": {
+    "title": "The Impact of Urbanization on Housing Development: The Lagos Experience, Nigeria.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "OE Aluko"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "Ethiopian Journal of Environmental Studies and Management",
+    "publicationTitle": "Ethiopian Journal of Environmental Studies and Management",
+    "bookTitle": "",
+    "journalAbbreviation": "Ethiopian Journal of Environmental Studies and Management",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "3",
+    "issue": "3",
+    "pages": "",
+    "abstract": "The impact of rapid population growth on housing development in a developing economy is usually a consequence of the push of the rural areas and the pull of the town. There is always an upsurge and conglomeration of people in city centres with the resultant effects on housing growth arising from acute unemployment. This growth and physical expansion of cities have been accompanied by unplanned urban sprawl, environmental pollution, deterioration, deficiencies in modern basic facilities, and general urban decay. As increased poverty and urbanization exert more pressures on urban facilities, most Nigerian cities tend to have lost their original dignity, social cohesion and administrative efficiency. This paper revealed the consequences of the problems of urbanization in Nigeria using empirical data from the metropolitan Lagos.The study is based on data collected from sixteen Local Government Areas consisting of 53 residential zones in metropolitan Lagos. Out of the total number of 135,820 properties, a size of about 1% (1,500) was randomly selected. Descriptive and inferential statistics were employed to resolve the objectives and the formulated hypotheses. Some of the findings include the upsurge in population growth rate of the city that took a sharp turn in the 20th century caused by rural-urban migration thereby resulting in an unprecedented high rent cost due to the insufficient housing delivery system. Also the spatial expansion of the city was massive to the extent that the boundaries could no longer be differentiated from the adjoining Ogun State.Key words: Urbanization, environment and housing provision.",
+    "doi": "10.4314/ejesm.v3i3.63967",
+    "url": "https://doi.org/10.4314/ejesm.v3i3.63967",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Urban and Rural Development Challenges"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "OE Aluko"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Impact of Urbanization on Housing Development: The Lagos Experience, Nigeria."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ethiopian Journal of Environmental Studies and Management, 2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4314/ejesm.v3i3.63967"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban and Rural Development Challenges"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/QE/QEYI8IGB.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4314/ejesm.v3i3.63967"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

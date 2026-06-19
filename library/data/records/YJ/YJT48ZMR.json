@@ -1,0 +1,102 @@
+{
+  "key": "YJT48ZMR",
+  "uri": "https://medjat.irokosociety.org/id/library/YJT48ZMR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YJT48ZMR",
+  "zotero": {
+    "group": "6479329",
+    "key": "YJT48ZMR",
+    "version": 1323,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YJT48ZMR",
+    "dateAdded": "2026-05-19T13:28:52Z",
+    "dateModified": "2026-05-19T13:28:52Z"
+  },
+  "display": {
+    "title": "Trayectorias e identidades en el diálogo Atlántico más allá de las fronteras coloniales: instrumentos de la sociedad cubana Abakuá en el Museo Nacional de Antropología de Madrid",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabela de Aranzadi"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Dialnet (Universidad de la Rioja)",
+    "publicationTitle": "Dialnet (Universidad de la Rioja)",
+    "bookTitle": "",
+    "journalAbbreviation": "Dialnet (Universidad de la Rioja)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "475-498",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W2912310411",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabela de Aranzadi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Trayectorias e identidades en el diálogo Atlántico más allá de las fronteras coloniales: instrumentos de la sociedad cubana Abakuá en el Museo Nacional de Antropología de Madrid"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Dialnet (Universidad de la Rioja), 2018."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "475-498 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YJ/YJT48ZMR.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

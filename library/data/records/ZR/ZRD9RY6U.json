@@ -1,0 +1,116 @@
+{
+  "key": "ZRD9RY6U",
+  "uri": "https://medjat.irokosociety.org/id/library/ZRD9RY6U",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZRD9RY6U",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZRD9RY6U",
+    "version": 1998,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZRD9RY6U",
+    "dateAdded": "2026-05-19T14:19:01Z",
+    "dateModified": "2026-05-19T14:19:01Z"
+  },
+  "display": {
+    "title": "Hybrid machine modelling and control.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lale Canan Tokuz"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Liverpool John Moores University",
+    "publicationTitle": "Liverpool John Moores University",
+    "bookTitle": "",
+    "journalAbbreviation": "Liverpool John Moores University",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Non-uniform motion in machines can be conceived in terms of linkage mechanisms or cams which transform the notionally uniform motion of a motor. Alternatively the non-uniform motion can be generated directly by a servo~motor under computer control. The advantage of linkage mechanisms and cams is that they are capable of higher speeds. They usually admit the means of introduction of dynamic balancing without extra parts and a high degree of energy conservation exists within the arrangement in motion. The advantage of servo~motors is that it is easier to re-program their motion to provide the versatility required of many manufacturing processes.&#13;\\nTo generate non-uniform mechanism motion, two alternative techniques are envisaged in the work presented.&#13;\\n(i) where a servo-motor drives a linkage to produce an output. The motion transformation is determined with the geometry of the linkage. The mechanism acts as a non-uniform inertia buffer between the output and the motor.&#13;\\n(ii) where a constant speed motor acts in combination with a servo-motor and a differential mechanism to produce the output motion of a linkage.&#13;\\nMachines of these two kinds combine both linkage and a programmable driver. The first configuration is referred to a programmable machine, the second one is referred to as a hybrid machine. The focus of interest here is on the hybrid machine. One anticipated benefit, the second would have over the first, is that the size of the servo-motor power requirement should come down.&#13;\\nIn order to explore the idea an experimental rig involving a slider-crank mechanism is designed and built. Initially a computer model is developed for this so-called hybrid machine. The motion is implemented on an experimental rig using a sampled data control system. The torque and power relations for the system are considered. The power flow in the rig is analysed and compared with the computer model. The merits of the hybrid machine are then compared with the programmable machine. The hybrid machine is further represented with bond graphs. Lastly, the observations on the present work are presented as a guide for the development and use of hybrid machines.",
+    "doi": "10.24377/ljmu.t.00005039",
+    "url": "https://doi.org/10.24377/ljmu.t.00005039",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Control and Stability of Dynamical Systems",
+      "Modeling and Simulation Systems",
+      "Robotic Mechanisms and Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lale Canan Tokuz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Hybrid machine modelling and control."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Liverpool John Moores University, 2016."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.24377/ljmu.t.00005039"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Control and Stability of Dynamical Systems"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Modeling and Simulation Systems"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Robotic Mechanisms and Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/ZR/ZRD9RY6U.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.24377/ljmu.t.00005039"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

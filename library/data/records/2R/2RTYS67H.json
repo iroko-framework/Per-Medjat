@@ -1,0 +1,116 @@
+{
+  "key": "2RTYS67H",
+  "uri": "https://medjat.irokosociety.org/id/library/2RTYS67H",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2RTYS67H",
+  "zotero": {
+    "group": "6479329",
+    "key": "2RTYS67H",
+    "version": 2148,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2RTYS67H",
+    "dateAdded": "2026-05-19T14:19:36Z",
+    "dateModified": "2026-05-19T14:19:36Z"
+  },
+  "display": {
+    "title": ">i<Sweating System>/i< e trabalho escravo contemporâneo. Um estudo sobre a repetição de padrões",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Anna Carolina Moraes Figueiredo"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This analysis compares the situation of labor in sewing workshops during the so-called Sweating System, which originated in England during the Industrial Revolution, with contemporary slave labor in Brazil.For the Brazilian case, the study is limited to the case of Bolivians, in the state of So Paulo, as it is more numerous and significant (Souchad, 2012, p. 89; SIMAI, 2012, p. 195).The production of cheap clothes through the so-called Sweating System had high rates of labor exploitation in conditions analogous to slave labor.It so happens that, in those times, Labor Law was not available as it is today, not even the legal definition of what contemporary slave labor would be.It was a time when employees of sewing workshops worked without any legal protection or norms higher than their employers' determinations.However, today, almost 170 years later, as shown in the results, this situation is repeated in the case of Bolivian immigrants who come to So Paulo.What they find is a strong legal framework, but only in theory, since for Brazilian Labor Law, such individuals are invisible.Truck system and exhausting working hours in unhealthy conditions are some of the crimes to which Bolivian citizens who migrate to the state of So Paulo in search of work in clothing industries are subject.The work is unique in the field of Fashion, which strengthens its preventive, informative and educational power for those who intend to live in this area.",
+    "doi": "10.11606/d.100.2023.tde-24012024-165955",
+    "url": "https://doi.org/10.11606/d.100.2023.tde-24012024-165955",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History of Colonial Brazil",
+      "Literature, Culture, and Criticism",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Anna Carolina Moraes Figueiredo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": ">i<Sweating System>/i< e trabalho escravo contemporâneo. Um estudo sobre a repetição de padrões"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2023."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/d.100.2023.tde-24012024-165955"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2R/2RTYS67H.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/d.100.2023.tde-24012024-165955"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

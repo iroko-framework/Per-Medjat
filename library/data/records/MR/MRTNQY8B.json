@@ -1,0 +1,103 @@
+{
+  "key": "MRTNQY8B",
+  "uri": "https://medjat.irokosociety.org/id/library/MRTNQY8B",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MRTNQY8B",
+  "zotero": {
+    "group": "6479329",
+    "key": "MRTNQY8B",
+    "version": 1791,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MRTNQY8B",
+    "dateAdded": "2026-05-19T14:18:01Z",
+    "dateModified": "2026-05-19T14:18:01Z"
+  },
+  "display": {
+    "title": "Topics in Asimjeeg Datooga Verbal Morphosyntax",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Richard Griscom"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Scholars' Bank (University of Oregon)",
+    "publicationTitle": "Scholars' Bank (University of Oregon)",
+    "bookTitle": "",
+    "journalAbbreviation": "Scholars' Bank (University of Oregon)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Asimjeeg Datooga is a Southern Nilotic language spoken by approximately three thousand people in Northern Tanzania, and it is grouped together with other language varieties in the Datooga family or dialect cluster. Although all of the Datooga varieties are known to be related to one another, very little is understood about many of the individual varieties, especially those that have few speakers such as Asimjeeg Datooga and Bianjida Datooga. This dissertation constitutes not only the first detailed description of Asimjeeg Datooga, but also the first detailed description of any single minority Datooga variety. \\n\\nOne of the most intriguing aspects of the grammatical system of Asimjeeg Datooga, and Datooga varieties more generally, is the verbal morphology. Verbs in Asimjeeg Datooga are structurally and semantically complex. The elements that serve as the building blocks of the verbs include not only individual segmental and tonal morphemes but also schematic and word-level structures. The dependent stem structure, a formal component common to many verbal constructions in Asimjeeg Datooga as well as other varieties of Datooga, is described in detail for the first time in this dissertation. Verbs in Asimjeeg Datooga also encode a wide spectrum of functional domains, including tense, aspect, negation, pluractionality, polarity, applicatives, conditionality, directionality, associated motion, subject and object indexation, and non-polar question formation.\\n\\nThe analysis presented in the dissertation is built upon the foundation of an open-access audio-visual dataset that is hosted at the Endangered Languages Archive. The archive includes approximately 140 hours of audio-visual material and also time-aligned annotations and metadata. These documentation materials are the first open-access dataset for any variety of Datooga, the only documentation of all extant communities for any variety of Datooga, the only dataset that is based on the speech of over 50 speakers for any variety of Datooga, and the only dataset that was at least partially collected by members of a Datooga speech community. Each natural speech example in the dissertation is labeled with a unique identifier that can be used to locate the cited recording segment on ELAR.",
+    "doi": "",
+    "url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/24939",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Language, Linguistics, Cultural Analysis",
+      "South Asian Studies and Conflicts"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Richard Griscom"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Topics in Asimjeeg Datooga Verbal Morphosyntax"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Scholars' Bank (University of Oregon), 2019."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "South Asian Studies and Conflicts"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/MR/MRTNQY8B.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

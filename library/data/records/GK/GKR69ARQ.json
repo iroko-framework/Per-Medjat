@@ -1,0 +1,109 @@
+{
+  "key": "GKR69ARQ",
+  "uri": "https://medjat.irokosociety.org/id/library/GKR69ARQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GKR69ARQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "GKR69ARQ",
+    "version": 1494,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GKR69ARQ",
+    "dateAdded": "2026-05-19T14:16:58Z",
+    "dateModified": "2026-05-19T14:16:58Z"
+  },
+  "display": {
+    "title": "Disorderly Love: Illicit Friendships, Violence, and Law in a Slave Society at War, Popayan-Colombia, 1809-1830",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ángela Pérez‐Villa"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation studies the Province of Popayán –a major slave-trading center in the northern Andes– as colonial Colombia became an independent state between 1809 and 1830. During this period, Popayán became a crucial war site in which political and military factions competed over power, legitimacy, and wealth. By shifting the focus from the battlefields to the private and judicial spheres, Disorderly Love demonstrates that political power and legal practice in Popayán were disputed and reconfigured locally on the terrains of family, sexuality, and gender. An analysis of fragmented stories about family dynamics and conflicts contained in Popayán’s rich judicial records about honor-based violence against women and what colonial authorities called “illicit friendships” (concubinage, adultery, and incestuous relations) suggests that the moral policing of poor and mixed-race men and women across the province was central to the strategies of political elite factions to establish legitimacy and legal authorities to enforce the law. Along these lines, Disorderly Love shows how political transformations brought about by independence modified authorities’ understandings of the public and private realms as well as the role of the Catholic Church in legal matters. Although these changes deepened ideological differences among political elites, it was poor people, particularly women, who were severely impacted by legal decisions that reinforced colonial patriarchal values and unequal power relations. Beyond centering poor people’s life experiences in the narratives about Independence, this dissertation also contributes to the field of legal history by showing how Colombia’s legal system was built from case law. Paying attention to the ways that authorities at different hierarchical levels carried out legal procedures in criminal cases helps to shed light on the confusion and tensions surrounding the adequate use of the law in matters involving family, sexuality, and violence during a revolutionary period. Common men and women were at the center of these tensions as they interacted with legal officials as witnesses and litigants. In spite of uneven social relations, these men and women fought within the legal system to defend their interests, their family members, and/or their own personal honor. By analyzing this gamesmanship of the judicial space, Disorderly Love reveals how the intersection of identities and the contrasting elite and popular visions about morality and truth shaped Colombia’s lawmaking process, a process that was simultaneously developed from the ground up and altered by large-scale decisions and events.",
+    "doi": "",
+    "url": "https://hdl.handle.net/2027.42/138721",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Historical Studies in Latin America",
+      "History and Politics in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ángela Pérez‐Villa"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Disorderly Love: Illicit Friendships, Violence, and Law in a Slave Society at War, Popayan-Colombia, 1809-1830"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and Politics in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GK/GKR69ARQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

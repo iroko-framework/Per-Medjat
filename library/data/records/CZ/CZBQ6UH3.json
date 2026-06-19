@@ -1,0 +1,114 @@
+{
+  "key": "CZBQ6UH3",
+  "uri": "https://medjat.irokosociety.org/id/library/CZBQ6UH3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CZBQ6UH3",
+  "zotero": {
+    "group": "6479329",
+    "key": "CZBQ6UH3",
+    "version": 618,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CZBQ6UH3",
+    "dateAdded": "2026-05-18T18:57:13Z",
+    "dateModified": "2026-05-18T18:57:13Z"
+  },
+  "display": {
+    "title": "Ben Okri's spirit-child: 'abiku' migration and postmodernity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "John C. Hawley"
+      }
+    ],
+    "year": "1995",
+    "date": "1995",
+    "publisher": "Scholar Commons (Santa Clara University)",
+    "publicationTitle": "Scholar Commons (Santa Clara University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Scholar Commons (Santa Clara University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "26",
+    "issue": "1",
+    "pages": "30-39",
+    "abstract": "The widespread notion of the abiku in Nigerian culture says volumes about the heartrending deaths of countless newborns throughout the region's history. It also testifies to a belief in the permeability of the membrane separating the spirit world from \"our\" world. As the abiku puts it, in his family he is surrounded by people \"who are seeded in rich lands, who still believe in mysteries\" (F am 6), people who hold that \"one world contains glimpses of others\" (F am 1 0), and people who acknowledge a personal relationship with these spirits in the course of daily life. In western Nigeria, however, a mother who suspects that her newborn is one of these child-spirits must do whatever she can to persuade the baby to stay in this difficult world, rather than have it return to the spirit-world where it will be bathed \"in the ecstasy of an everlasting love\" (F am 18). Mothers will give such children names like \"Malomo-Do Not Go Again\"; \"Banjoko-Sit Down And Stay With Us\"; \"Duro oro ike-Wait And See How You Will Be Petted\"; and \"Please Stay And Bury Me\" (Maclean 51, 57). Special jewelry and foods are prepared to tempt the baby to choose life, and circumcision for such young boys is frequently postponed (56).",
+    "doi": "",
+    "url": "https://scholarcommons.scu.edu/engl/70",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African cultural and philosophical studies",
+      "African studies and sociopolitical issues",
+      "Postcolonial and Cultural Literary Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "John C. Hawley"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Ben Okri's spirit-child: 'abiku' migration and postmodernity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Scholar Commons (Santa Clara University), 1995."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "30-39 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African cultural and philosophical studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African studies and sociopolitical issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Postcolonial and Cultural Literary Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/CZ/CZBQ6UH3.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

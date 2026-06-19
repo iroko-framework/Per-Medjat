@@ -1,0 +1,102 @@
+{
+  "key": "GRLIDDJI",
+  "uri": "https://medjat.irokosociety.org/id/library/GRLIDDJI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GRLIDDJI",
+  "zotero": {
+    "group": "6479329",
+    "key": "GRLIDDJI",
+    "version": 72,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GRLIDDJI",
+    "dateAdded": "2026-05-05T19:42:40Z",
+    "dateModified": "2026-05-05T19:42:40Z"
+  },
+  "display": {
+    "title": "African traditional religions in the Caribbean and Brazil: models of religious tourism and impacts of commodification",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hernandez-Ramdwar, Camille"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Routledge",
+    "publicationTitle": "Journal of Heritage Tourism",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Heritage Tourism",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "issue": "1",
+    "pages": "81-88",
+    "abstract": "African traditional religions (ATRs) in the Caribbean and Brazil are currently undergoing processes of transformation and commodification due to the influx of religious tourism. This research note reflects preliminary findings on the marketing of ATRs in four locales: Santería (Cuba), Candomblé (Brazil), Vodou (Haiti), and Orisha (Trinidad). Methods employed include participant observation, data collection, and textual analysis. This research can assist in assessing the overall impact tourism ha",
+    "doi": "10.1080/1743873X.2013.765750",
+    "url": "",
+    "isbn": "",
+    "issn": "1743-873X",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hernandez-Ramdwar, Camille"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "African traditional religions in the Caribbean and Brazil: models of religious tourism and impacts of commodification"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Routledge, 2013."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "81-88 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1080/1743873X.2013.765750"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GR/GRLIDDJI.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1080/1743873X.2013.765750"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

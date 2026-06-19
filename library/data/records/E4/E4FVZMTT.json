@@ -1,0 +1,109 @@
+{
+  "key": "E4FVZMTT",
+  "uri": "https://medjat.irokosociety.org/id/library/E4FVZMTT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=E4FVZMTT",
+  "zotero": {
+    "group": "6479329",
+    "key": "E4FVZMTT",
+    "version": 2196,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/E4FVZMTT",
+    "dateAdded": "2026-05-19T14:19:43Z",
+    "dateModified": "2026-05-19T14:19:43Z"
+  },
+  "display": {
+    "title": "A PORTRAIT OF SLAVERY IN JOHN RIDLEY’S “12 YEARS A SLAVE”",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Tanalin Tanalin"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This research presents John Ridley’s view about slavery’s problem of 12 Years a Slave. The aim of the research is to analyze deeply about the slavery’s problem as seen from Solomon as the main character in this screenplay. The discussion began by analyzing conflict including internal and external conflicts and the slavery’s problem that is faced by Solomon Northup in America. This research used a qualitative method with theory used is about slavery by William Goodbell. Collecting data used library research and internet searching. The data took from the utterances of dialogue that consisting slavery in “12 Years A Slave” screenplay. The result of the analysis showed that Solomon as the main character. He experienced the internal conflict, person against himself. The external conflict overwhelm Solomon againsted some others characters and the society. He faced conflict with his master, Mr. Epps and Tibeats. Then, he also faced conflict with slavery system and property law. He tried to against slavery system that is made him loses his right as human being. Keywords: Slavery, Conflict, Solomon, 12 Years a Slave",
+    "doi": "",
+    "url": "https://openalex.org/W3156334548",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Coastal Management and Development",
+      "Legal Studies and Policies",
+      "Marriage and Family Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Tanalin Tanalin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A PORTRAIT OF SLAVERY IN JOHN RIDLEY’S “12 YEARS A SLAVE”"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Coastal Management and Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal Studies and Policies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Marriage and Family Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/E4/E4FVZMTT.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

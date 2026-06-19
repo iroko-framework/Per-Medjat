@@ -1,0 +1,110 @@
+{
+  "key": "PNWXGMZG",
+  "uri": "https://medjat.irokosociety.org/id/library/PNWXGMZG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PNWXGMZG",
+  "zotero": {
+    "group": "6479329",
+    "key": "PNWXGMZG",
+    "version": 753,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PNWXGMZG",
+    "dateAdded": "2026-05-18T18:57:32Z",
+    "dateModified": "2026-05-18T18:57:32Z"
+  },
+  "display": {
+    "title": "Relationship between self-esteem and achievement motivation of women in colleges of education, Kwara State",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "B Tayo Ajayi"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Nigerian Journal of Guidance and Counselling",
+    "publicationTitle": "Nigerian Journal of Guidance and Counselling",
+    "bookTitle": "",
+    "journalAbbreviation": "Nigerian Journal of Guidance and Counselling",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "8",
+    "issue": "1",
+    "pages": "",
+    "abstract": "Although achievement motivation is known to be typically characteristic of all human beings, its attainment is largely influenced by the result of evaluation or judgment of ones own worth. This paper examines the extent to which the worth of College women as judged by them influenced certain domains of achievement related contexts. Female students (N = 560) attending Kwara State College of Education at Ilorin and Oro participated in this study. In each College, the 280 female students who were randomly selected were representatives of the Schools of Art and Social Sciences, Sciences, Languages and Vocational/Technical Education. Students completed the College Women Achievement Motivation Questionnaire (CWAMQ) and the College Women Self-Esteem Questionnaires (CWSEQ) which both followed the four points Likert Scale Format. Pearson Product Moment Correlation Coefficient and the t-test statistics were employed to test the relationship and difference between Self-esteem and achievement motivation respectively. The result showed a statistically significant relationship between achievement motivation and Self-esteem of College women with Pearson Product Moment Coefficient of .192. There was a significant difference between the Self-esteem of their counterparts who are low in achievement motivation. Based on the findings it was recommended that college women need to imbibe the spirit of hard work which can influence competence on tasks and disregard worry, fear and anxiety which influence low self-esteem.The Nigerian Journal of Guidance and Counselling Vol. 8 (1) 2002: pp. 221-230",
+    "doi": "10.4314/njgc.v8i1.36966",
+    "url": "https://doi.org/10.4314/njgc.v8i1.36966",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Education and Politics",
+      "Education, Achievement, and Giftedness"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "B Tayo Ajayi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Relationship between self-esteem and achievement motivation of women in colleges of education, Kwara State"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Nigerian Journal of Guidance and Counselling, 2007."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4314/njgc.v8i1.36966"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Education and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Education, Achievement, and Giftedness"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/PN/PNWXGMZG.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4314/njgc.v8i1.36966"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

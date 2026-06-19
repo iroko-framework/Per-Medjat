@@ -1,0 +1,109 @@
+{
+  "key": "X8X4KE56",
+  "uri": "https://medjat.irokosociety.org/id/library/X8X4KE56",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=X8X4KE56",
+  "zotero": {
+    "group": "6479329",
+    "key": "X8X4KE56",
+    "version": 1632,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/X8X4KE56",
+    "dateAdded": "2026-05-19T14:17:17Z",
+    "dateModified": "2026-05-19T14:17:17Z"
+  },
+  "display": {
+    "title": "The Royal Navy and the suppression of the Atlantic slave trade c.1807-1867 : anti-slavery, empire and identity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mary Wills"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Repository@Hull (Worktribe) (University of Hull)",
+    "publicationTitle": "Repository@Hull (Worktribe) (University of Hull)",
+    "bookTitle": "",
+    "journalAbbreviation": "Repository@Hull (Worktribe) (University of Hull)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis examines the Royal Navy’s efforts to suppress the transatlantic slave trade between 1807 and the mid-1860s. The role of the West Africa squadron in detaining slave ships embarking from the West African coast was instrumental in the transformation of Britain’s profile from a prolific slave trading nation to the principal emancipator of enslaved Africans. The wider framework for naval suppression encompassed international law, official policy and diplomacy, but at the operational frontline of the campaign were naval personnel. This history of suppression shifts the emphasis from political and diplomatic contexts to the experiences of naval officers tasked with the delivery of the anti-slavery message, positioning them at the heart of Britain’s abolitionist campaign on the West African coast. Through officers’ narratives and personal testimonies – found in letters, journals, report books and diaries – it examines the reactions, relations and encounters of these agents of change, and their contributions to the exchange of information crucial to Britain’s anti-slavery efforts in West Africa.&#13;\\n&#13;\\nThe personal, social and cultural experiences of naval officers provide insight into attitudes towards the key themes of Britain’s abolitionist mission, namely anti-slavery beliefs, burgeoning empire, and national identity. In their responsibilities to confront the human trauma of the slave trade and liberate enslaved Africans, officers engaged with humanitarian ideals and anti-slavery rhetoric. These ideas had significant impact on how they conceived their identity as Britons and the nature of their duty as naval personnel, but could be undermined by their disgust at the conditions of service on the West African coast. Officers were also at the forefront of Britain’s broader anti-slavery assault on shore, intended to reform West African society to European, ‘civilised’ standards. In their encounters with slavery and African peoples, officers faced numerous concerns, including concepts of racial identity, paternalism and the true meanings of freedom.",
+    "doi": "",
+    "url": "https://hull-repository.worktribe.com/preview/4214110/content-hull_6885a.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonial History and Postcolonial Studies",
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mary Wills"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Royal Navy and the suppression of the Atlantic slave trade c.1807-1867 : anti-slavery, empire and identity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Repository@Hull (Worktribe) (University of Hull), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonial History and Postcolonial Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/X8/X8X4KE56.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

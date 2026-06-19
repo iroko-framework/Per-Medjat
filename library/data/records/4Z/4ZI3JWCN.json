@@ -1,0 +1,116 @@
+{
+  "key": "4ZI3JWCN",
+  "uri": "https://medjat.irokosociety.org/id/library/4ZI3JWCN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4ZI3JWCN",
+  "zotero": {
+    "group": "6479329",
+    "key": "4ZI3JWCN",
+    "version": 1386,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4ZI3JWCN",
+    "dateAdded": "2026-05-19T13:29:03Z",
+    "dateModified": "2026-05-19T13:29:03Z"
+  },
+  "display": {
+    "title": "L’œuvre de Belkis Ayón : (re)construction d’une postérité",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Sylvie Mégevand"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "HispanismeS",
+    "publicationTitle": "HispanismeS",
+    "bookTitle": "",
+    "journalAbbreviation": "HispanismeS",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "26",
+    "issue": "",
+    "pages": "",
+    "abstract": "La Belkis Ayón Estate organise et promeut depuis cinq ans une série d’expositions en Europe sur les estampes et la mémoire de Belkis Ayón, une artiste cubaine afro-descendante disparue prématurément en 1999. Des documentaires et des articles récents, pour la plupart accessibles sur les réseaux sociaux, complètent le dispositif mémoriel d’une artiste qui centra ses recherches thématiques, esthétiques et techniques sur la société abakuá, fermée aux femmes et aux homosexuels. Son parcours a été déterminé par le contexte historique et idéologique cubain des décennies 1980-90, mais son œuvre et sa mémoire sont désormais relues au prisme de sensibilités parfois contradictoires. Belkis Ayón est aujourd’hui montrée comme un exemple de sacrifice par le pouvoir culturel cubain mais revendiquée par ailleurs comme une figure féministe, intersectionnelle et décoloniale par certains milieux politiques et artistiques européens.",
+    "doi": "10.4000/158qe",
+    "url": "https://doi.org/10.4000/158qe",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Cuban History and Society",
+      "Migration, Identity, and Health"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Sylvie Mégevand"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "L’œuvre de Belkis Ayón : (re)construction d’une postérité"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "HispanismeS, 2025."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/158qe"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/4Z/4ZI3JWCN.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/158qe"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

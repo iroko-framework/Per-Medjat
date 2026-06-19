@@ -1,0 +1,115 @@
+{
+  "key": "BPMTSXPB",
+  "uri": "https://medjat.irokosociety.org/id/library/BPMTSXPB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BPMTSXPB",
+  "zotero": {
+    "group": "6479329",
+    "key": "BPMTSXPB",
+    "version": 948,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BPMTSXPB",
+    "dateAdded": "2026-05-19T13:27:18Z",
+    "dateModified": "2026-05-19T13:27:18Z"
+  },
+  "display": {
+    "title": "Voice of the leopard: African secret societies and Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Miller, Ivor L."
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Choice Reviews Online",
+    "publicationTitle": "Choice Reviews Online",
+    "bookTitle": "",
+    "journalAbbreviation": "Choice Reviews Online",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "47",
+    "issue": "06",
+    "pages": "47-3346",
+    "abstract": "In Voice of the Leopard: African Secret Societies and Cuba, Ivor L. Miller shows how African migrants and their political fraternities played a formative role in the history of Cuba. During the eighteenth and nineteenth centuries, no large kingdoms controlled Nigeria and Cameroon's multilingual Cross River basin. Instead, each settlement had its own lodge of the initiation society called Ekpe, or leopard, which was the highest indigenous authority. Ekpe lodges ruled local communities while also managing regional and long-distance trade. Cross River Africans, enslaved and forcibly brought to colonial Cuba, reorganized their Ekpe clubs covertly in Havana and Matanzas into a mutual-aid society called Abakua, which became foundational to Cuba's urban life and music. Miller's extensive fieldwork in Cuba and West Africa documents ritual languages and practices that survived the Middle Passage and evolved into a unifying charter for transplanted slaves and their successors. To gain deeper understanding of the material, Miller underwent Ekpe initiation rites in Nigeria after ten years' collaboration with Abakua initiates in Cuba and the United States. He argues that Cuban music, art, and even politics rely on complexities of these African-inspired codes of conduct and leadership. Voice of the Leopard is an unprecedented tracing of an African title-society to its Caribbean incarnation, which has deeply influenced Cuba's creative energy and popular consciousness.",
+    "doi": "10.5860/choice.47-3346",
+    "url": "https://doi.org/10.5860/choice.47-3346",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Miller, Ivor L."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Voice of the leopard: African secret societies and Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Choice Reviews Online, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "47-3346 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5860/choice.47-3346"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BP/BPMTSXPB.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5860/choice.47-3346"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

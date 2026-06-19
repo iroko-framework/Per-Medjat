@@ -1,0 +1,116 @@
+{
+  "key": "8D6NC97S",
+  "uri": "https://medjat.irokosociety.org/id/library/8D6NC97S",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8D6NC97S",
+  "zotero": {
+    "group": "6479329",
+    "key": "8D6NC97S",
+    "version": 1698,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8D6NC97S",
+    "dateAdded": "2026-05-19T14:17:35Z",
+    "dateModified": "2026-05-19T14:17:35Z"
+  },
+  "display": {
+    "title": "The role of old-fashioned racism: disaggregating symbolic racism in the United States",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Leslie C. Cox"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Old-fashioned, biological, or \"Jim Crow\" racism is viewed by many in the political science and psychology literature to be largely a relic of the past. In the post-segregation era it has been replaced as a political force by symbolic racism, although its residual effect still operates within symbolic racism as negative racial affect. Symbolic racism is thought of as a coherent belief system that describes whites‘ attitudes not only in the United States, but in some European democracies as well. This conceptualization of symbolic racism ignores the differences in the historical legacy of racism across different regional and demographic contexts. Different contexts have produced different legacies of racism. This is especially true in the United States, where different regions have varying histories in terms of the intensity of the laws enforcing segregation. In states that had slaves and anti-miscegenation laws until forced to repeal them, old-fashioned racism is more likely operate under a cover of symbolic racism rather than reflect the way symbolic racism operates in the rest of the United States. To test this theory, the factor loadings of different old-fashioned racism and symbolic racism items will be analyzed across regions, gender, and gender within regions using data from the General Social Survey from 1994-2008. Generally in the symbolic racism literature, the South and gender are added as dummy variables in regression analyses of whites‘ racial attitudes. In addition to this typical strategy for analyzing the aggregate sample, separate regressions will be performed on the regions and sexes to see if there is any substantial difference. The separate effects of old-fashioned and symbolic racism on whites‘ attitudes regarding racial policy issues will also be analyzed across the enumerated dimensions. Symbolic racism does appear to be associated with old-fashion racism for many in the U.S., especially in the South. It may also have slightly different origins and influences on men and women. Possible strategies for determining these differences include focus groups, in-depth interviews, and the use of racial codes and cues signaling a higher threshold of the social acceptability of racist beliefs.",
+    "doi": "10.31390/gradschool_theses.3724",
+    "url": "https://doi.org/10.31390/gradschool_theses.3724",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Racial and Ethnic Identity Research",
+      "Social and Cultural Dynamics",
+      "Social and Intergroup Psychology"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Leslie C. Cox"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The role of old-fashioned racism: disaggregating symbolic racism in the United States"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2010."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_theses.3724"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Racial and Ethnic Identity Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social and Cultural Dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social and Intergroup Psychology"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8D/8D6NC97S.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_theses.3724"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

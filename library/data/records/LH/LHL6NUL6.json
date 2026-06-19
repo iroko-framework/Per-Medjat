@@ -1,0 +1,121 @@
+{
+  "key": "LHL6NUL6",
+  "uri": "https://medjat.irokosociety.org/id/library/LHL6NUL6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LHL6NUL6",
+  "zotero": {
+    "group": "6479329",
+    "key": "LHL6NUL6",
+    "version": 1356,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LHL6NUL6",
+    "dateAdded": "2026-05-19T13:28:58Z",
+    "dateModified": "2026-05-19T13:28:58Z"
+  },
+  "display": {
+    "title": "The Primitive Quality of the Modern",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Adjoa Osei"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "140-160",
+    "abstract": "Abstract In New York City, Elsie Houston engaged with the artistic fervor of the Harlem Renaissance by exploring music across the African diaspora. She performed African American spirituals, afrocubanismo songs inspired by Abakuá, and Brazilian songs taken from African-based religions such as Candomblé. Elsie’s repertoire celebrated the diverse scope of the modern black experience, and this was a way for her to reject racism. She appeared on stage alongside other artists from across the diaspora such as the Trinidadian dancer Beryl McBurnie and the drumming and dance act Haitian Rada Group. Elsie was also photographed by the Harlem Renaissance photographer Carl Van Vechten in 1940. However, as a lighter-skinned, mixed-race, upper-class Brazilian, Elsie was not consistently recognized as black in the United States, and for some African American critics, she breached the line between cultural celebration and cultural appropriation. Elsie’s conception of racism in Brazil vis-à-vis the United States is also explored.",
+    "doi": "10.1093/oso/9780197693179.003.0007",
+    "url": "https://doi.org/10.1093/oso/9780197693179.003.0007",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Animal Law and Welfare",
+      "Caribbean history, culture, and politics",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Adjoa Osei"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Primitive Quality of the Modern"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "140-160 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1093/oso/9780197693179.003.0007"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Animal Law and Welfare"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LH/LHL6NUL6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1093/oso/9780197693179.003.0007"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

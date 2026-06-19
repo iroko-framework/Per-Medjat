@@ -1,0 +1,121 @@
+{
+  "key": "S35UFWLP",
+  "uri": "https://medjat.irokosociety.org/id/library/S35UFWLP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=S35UFWLP",
+  "zotero": {
+    "group": "6479329",
+    "key": "S35UFWLP",
+    "version": 1428,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/S35UFWLP",
+    "dateAdded": "2026-05-19T13:29:11Z",
+    "dateModified": "2026-05-19T13:29:11Z"
+  },
+  "display": {
+    "title": "Ramas, familles, réseaux. Les supports sociaux de la diffusion de la santería cubaine (Cuba-Mexique)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kali Argyriadis"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "Journal de la Société des Américanistes",
+    "publicationTitle": "Journal de la Société des Américanistes",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal de la Société des Américanistes",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "91",
+    "issue": "2",
+    "pages": "153-183",
+    "abstract": "Ramas, familles, réseaux. Les supports sociaux de la diffusion de la santería cubaine (Cuba-Mexique). La santería cubaine participe d’un processus de transnationalisation qui concerne l’ensemble des religions dites afro-américaines, présentes aujourd’hui en Afrique de l’Ouest, en Europe et sur tout le continent américain. Pour parvenir à cerner cet objet dans son ampleur, l’approche en termes de réseau semble a priori la plus opératoire. L’enquête ethnographique, quand elle concentre son attention sur les liens des acteurs, révèle un maillage complexe d’individus et de groupes reliés entre eux par un ou plusieurs intermédiaires. Mais peut-on se contenter de manière aussi abstraite du terme « réseau transnational » ? Derrière ce terme générique se dessinent en effet plusieurs réalités contingentes. À partir du cas havanais, puis de celui de la diffusion de la santería au Mexique, on tentera de préciser et de mettre à l’épreuve la pertinence de cette notion.",
+    "doi": "10.4000/jsa.3022",
+    "url": "https://doi.org/10.4000/jsa.3022",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Diaspora, migration, transnational identity",
+      "Multiculturalism, Politics, Migration, Gender"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kali Argyriadis"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Ramas, familles, réseaux. Les supports sociaux de la diffusion de la santería cubaine (Cuba-Mexique)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal de la Société des Américanistes, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "153-183 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/jsa.3022"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diaspora, migration, transnational identity"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multiculturalism, Politics, Migration, Gender"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/S3/S35UFWLP.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/jsa.3022"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

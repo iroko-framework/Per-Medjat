@@ -1,0 +1,130 @@
+{
+  "key": "VPZTLCL9",
+  "uri": "https://medjat.irokosociety.org/id/library/VPZTLCL9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VPZTLCL9",
+  "zotero": {
+    "group": "6479329",
+    "key": "VPZTLCL9",
+    "version": 1008,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VPZTLCL9",
+    "dateAdded": "2026-05-19T13:27:30Z",
+    "dateModified": "2026-05-19T13:27:30Z"
+  },
+  "display": {
+    "title": "Drumming for the Gods: The Life and Times of Felipe Garcia Villamil, Santero, Palero, and Abakua",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Julian Gerstin"
+      },
+      {
+        "role": "editor",
+        "name": "María Teresa Vélez"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Ethnomusicology",
+    "publicationTitle": "Ethnomusicology",
+    "bookTitle": "",
+    "journalAbbreviation": "Ethnomusicology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "46",
+    "issue": "2",
+    "pages": "337-337",
+    "abstract": "",
+    "doi": "10.2307/852788",
+    "url": "https://doi.org/10.2307/852788",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Mythological Studies",
+      "Literature, Magical Realism, García Márquez",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Julian Gerstin"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Drumming for the Gods: The Life and Times of Felipe Garcia Villamil, Santero, Palero, and Abakua"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ethnomusicology, 2002."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "337-337 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.2307/852788"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Mythological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Magical Realism, García Márquez"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "María Teresa Vélez"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/VP/VPZTLCL9.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.2307/852788"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "KE7PFKV7",
+  "uri": "https://medjat.irokosociety.org/id/library/KE7PFKV7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KE7PFKV7",
+  "zotero": {
+    "group": "6479329",
+    "key": "KE7PFKV7",
+    "version": 1122,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KE7PFKV7",
+    "dateAdded": "2026-05-19T13:28:00Z",
+    "dateModified": "2026-05-19T13:28:00Z"
+  },
+  "display": {
+    "title": "El itón abakuá y su universalidad simbólica",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jesús Guanche"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Zenodo (CERN European Organization for Nuclear Research)",
+    "publicationTitle": "Zenodo (CERN European Organization for Nuclear Research)",
+    "bookTitle": "",
+    "journalAbbreviation": "Zenodo (CERN European Organization for Nuclear Research)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Todas las expresiones religiosas populares cubanas son portadoras de un amplio contenido simbólico que, junto con la diversidad y carácter secreto o público de sus ritos, sirven de sostén al conjunto de normas, valores y principios que las rigen. De éstas, las sociedades masculinas abakuá poseen un amplio arsenal de objetos que envuelven todo el proceso participativo de los practicantes: desde el altar que preside cada uno de los recintos de consagración religiosa, los instrumentos musicales del conjunto biankomeko, los estandartes con los correspondientes emblemas del sistema gráfico ereniyó, los trajes de íremes en los que se encarnan representaciones humanas de los antepasados para ser testigos de las ceremonias, hasta los yesos que son ritualmente preparados y oportunamente usados en una suerte de arte efímero que se hace y se deshace según las variaciones de cada etapa del proceso ritual. Todos éstos y otros, que harían innecesaria una larga lista, forman un corpus objetual portador de contenidos simbólicos<br> relacionados entre sí y que sirven de complemento interactivo al corpus de ideas que los cargan de significados.",
+    "doi": "10.5281/zenodo.5915317",
+    "url": "https://doi.org/10.5281/zenodo.5915317",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeological and Geological Studies",
+      "Cultural and Mythological Studies",
+      "Language, Linguistics, Cultural Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jesús Guanche"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El itón abakuá y su universalidad simbólica"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Zenodo (CERN European Organization for Nuclear Research), 2007."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5281/zenodo.5915317"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeological and Geological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Mythological Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/KE/KE7PFKV7.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5281/zenodo.5915317"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

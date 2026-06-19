@@ -1,0 +1,109 @@
+{
+  "key": "WKT3MVD9",
+  "uri": "https://medjat.irokosociety.org/id/library/WKT3MVD9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WKT3MVD9",
+  "zotero": {
+    "group": "6479329",
+    "key": "WKT3MVD9",
+    "version": 1854,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WKT3MVD9",
+    "dateAdded": "2026-05-19T14:18:19Z",
+    "dateModified": "2026-05-19T14:18:19Z"
+  },
+  "display": {
+    "title": "Comparing alternative landscapes: power negotiations in enslaved communities in Louisiana and the Bahamas, an archaeological and historical perspective",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nesta Anderson"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation compares the lives of enslaved people of African descent living at Rosedown Plantation in Louisiana with the lives of enslaved people of African descent living at several plantations in the Bahamas.This comparison explores how people living in these oppressive contexts negotiated power over their own lives according to local circumstances and contexts.Archaeological and historical data provide the basis for this study.Through an analysis of material culture recovered from the location of some of the slave quarters at Rosedown, basic assemblage attributes are established for comparison with the published descriptions of material culture recovered from enslaved living contexts at Oakley Plantation in Louisiana and several plantations in the Bahamas.This analysis, complemented by the historical record in both Louisiana and the Bahamas, uncovers several themes occurring throughout the data.These themes include levels of control, vii",
+    "doi": "",
+    "url": "http://hdl.handle.net/2152/1470",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Environmental and Regional History",
+      "Colonialism, slavery, and trade",
+      "Historical and Cultural Archaeology Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nesta Anderson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Comparing alternative landscapes: power negotiations in enslaved communities in Louisiana and the Bahamas, an archaeological and historical perspective"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2004."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Environmental and Regional History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Cultural Archaeology Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WK/WKT3MVD9.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

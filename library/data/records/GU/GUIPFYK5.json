@@ -1,0 +1,116 @@
+{
+  "key": "GUIPFYK5",
+  "uri": "https://medjat.irokosociety.org/id/library/GUIPFYK5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GUIPFYK5",
+  "zotero": {
+    "group": "6479329",
+    "key": "GUIPFYK5",
+    "version": 2238,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GUIPFYK5",
+    "dateAdded": "2026-05-19T14:19:49Z",
+    "dateModified": "2026-05-19T14:19:49Z"
+  },
+  "display": {
+    "title": "The Lack of a Fully Intersectional Approach to Gender-Based Violence in South Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "S. Allen"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Gender-based violence is an issue of major concern in South Africa and is a result of an intersectionality of oppressors. A culture of violence, firmly established by racist and classist historical institutions, remains prominent. In addition, the culture outwardly focuses on tensions of race and class, rather than the oppression of gender. Historical female oppression and patriarchal cultural patterns existed before the introduction of white rule. This phenomenon of South African culture particularly focusing on race and class as oppressors that contribute to gender-based violence, instead of patriarchal norms, can be observed through two major frameworks: discourses of rape and the greater rape culture and inconsistencies between laws, acts, and the Constitution of the South African government as compared to public consciousness of gender. Including an intersectional approach in South African culture that emphasizes oppressive gender structures in discussions of gender-based violence that also incorporates the ways in which race and class are also influences of such violence, must be considered if gender-based violence is to substantially decrease.",
+    "doi": "10.15760/honors.531",
+    "url": "https://doi.org/10.15760/honors.531",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Intimate Partner and Family Violence",
+      "Legal Issues in South Africa",
+      "Sexual Assault and Victimization Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "S. Allen"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Lack of a Fully Intersectional Approach to Gender-Based Violence in South Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2018."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15760/honors.531"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Intimate Partner and Family Violence"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal Issues in South Africa"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sexual Assault and Victimization Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GU/GUIPFYK5.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15760/honors.531"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

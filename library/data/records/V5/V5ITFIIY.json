@@ -1,0 +1,121 @@
+{
+  "key": "V5ITFIIY",
+  "uri": "https://medjat.irokosociety.org/id/library/V5ITFIIY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V5ITFIIY",
+  "zotero": {
+    "group": "6479329",
+    "key": "V5ITFIIY",
+    "version": 1338,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V5ITFIIY",
+    "dateAdded": "2026-05-19T13:28:54Z",
+    "dateModified": "2026-05-19T13:28:54Z"
+  },
+  "display": {
+    "title": "O Milagre da crioulização: retrospectiva",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Richard Price"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "Estudos Afro-Asiáticos",
+    "publicationTitle": "Estudos Afro-Asiáticos",
+    "bookTitle": "",
+    "journalAbbreviation": "Estudos Afro-Asiáticos",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "25",
+    "issue": "3",
+    "pages": "383-419",
+    "abstract": "Neste ensaio o autor expande, desenvolve e atualiza idéias originalmente elaboradas no clássico O nascimento da cultura afro-americana, de 1973, no qual os autores propõem uma interpretação para o surgimento de formas culturais africano-americanas originais determinada pelo contexto das plantation societies. Ao mesmo tempo procura responder às críticas dirigidas contra o modelo desenvolvido nesse livro. As críticas podem ser associadas à \"virada discursiva\" prevalecente em muitos estudos contemporâneos, por um lado. Por outro, se ligam a uma interpretação engajada do passado africano-americano informada por teorias afrocêntricas ou críticas da supremacia branca e do eurocentrismo.",
+    "doi": "10.1590/s0101-546x2003000300002",
+    "url": "https://doi.org/10.1590/s0101-546x2003000300002",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Literature, Culture, and Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Richard Price"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "O Milagre da crioulização: retrospectiva"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Estudos Afro-Asiáticos, 2003."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "383-419 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/s0101-546x2003000300002"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/V5/V5ITFIIY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/s0101-546x2003000300002"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

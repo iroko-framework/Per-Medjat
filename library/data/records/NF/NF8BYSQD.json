@@ -1,0 +1,145 @@
+{
+  "key": "NF8BYSQD",
+  "uri": "https://medjat.irokosociety.org/id/library/NF8BYSQD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NF8BYSQD",
+  "zotero": {
+    "group": "6479329",
+    "key": "NF8BYSQD",
+    "version": 2425,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NF8BYSQD",
+    "dateAdded": "2026-05-19T19:15:15Z",
+    "dateModified": "2026-05-19T19:15:15Z"
+  },
+  "display": {
+    "title": "Enslaved Fugitives in the Lesser Antilles, 1760s-1860s",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Simonsen, Gunvor"
+      },
+      {
+        "role": "author",
+        "name": "Christensen, Rasmus"
+      },
+      {
+        "role": "author",
+        "name": "Freund, Heather"
+      },
+      {
+        "role": "author",
+        "name": "Fricke, Felicia"
+      },
+      {
+        "role": "author",
+        "name": "Croix, Gabriëlle La"
+      }
+    ],
+    "year": "2026",
+    "date": "2026-04-01",
+    "publisher": "Journal of Slavery and Data Preservation",
+    "publicationTitle": "Journal of Slavery and Data Preservation",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "7",
+    "issue": "1",
+    "pages": "1-22",
+    "abstract": "",
+    "doi": "10.14321/jsdp.7.1.0001",
+    "url": "https://scholarlypublishingcollective.org/jsdp/article/7/1/1/409917/Enslaved-Fugitives-in-the-Lesser-Antilles-1760s",
+    "isbn": "",
+    "issn": "2691-297X",
+    "university": "",
+    "language": "en"
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Simonsen, Gunvor"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Enslaved Fugitives in the Lesser Antilles, 1760s-1860s"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Slavery and Data Preservation, 2026."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-22 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14321/jsdp.7.1.0001"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Christensen, Rasmus"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Freund, Heather"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Fricke, Felicia"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Croix, Gabriëlle La"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/NF/NF8BYSQD.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14321/jsdp.7.1.0001"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

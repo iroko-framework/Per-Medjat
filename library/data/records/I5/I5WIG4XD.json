@@ -1,0 +1,97 @@
+{
+  "key": "I5WIG4XD",
+  "uri": "https://medjat.irokosociety.org/id/library/I5WIG4XD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=I5WIG4XD",
+  "zotero": {
+    "group": "6479329",
+    "key": "I5WIG4XD",
+    "version": 1092,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/I5WIG4XD",
+    "dateAdded": "2026-05-19T13:27:49Z",
+    "dateModified": "2026-05-19T13:27:49Z"
+  },
+  "display": {
+    "title": "Abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rafael López Valdés"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.1215/9780822384915-044",
+    "url": "https://doi.org/10.1215/9780822384915-044",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rafael López Valdés"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2003."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1215/9780822384915-044"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/I5/I5WIG4XD.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1215/9780822384915-044"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

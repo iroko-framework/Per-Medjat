@@ -1,0 +1,109 @@
+{
+  "key": "X2QZ3E7G",
+  "uri": "https://medjat.irokosociety.org/id/library/X2QZ3E7G",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=X2QZ3E7G",
+  "zotero": {
+    "group": "6479329",
+    "key": "X2QZ3E7G",
+    "version": 2340,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/X2QZ3E7G",
+    "dateAdded": "2026-05-19T14:20:05Z",
+    "dateModified": "2026-05-19T14:20:05Z"
+  },
+  "display": {
+    "title": "La Flamme de l'égalité (2014-2024). La mise en récit de l'histoire des traites et des esclavages au prisme d'un dispositif institutionnel : le concours scolaire",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Agnès Vergnes"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "publicationTitle": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "bookTitle": "",
+    "journalAbbreviation": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The social mobilization of descendants of enslaved people during the 150th anniversary of the abolition of slavery in 1998, along with the enactment of the law on May 21, 2001, recognizing the slave trade and slavery as crimes against humanity, led to the acknowledgment of this history within the French national narrative and the establishment of a state memorial policy that includes the question of its teaching. The school history of the slave trades and slavery has been constructed alongside social, political, and historiographical developments. The first decade of the 21st century was primarily marked by curricular reforms that incorporated this history at all school levels. In 2015, the Ministry of National Education created, together with several institutions, a school competition dedicated to the subject, The Flame of Equality, which encourages teaching teams in primary and secondary schools to undertake a class project on the history of the slave trades and slavery, with memorial and civic education goals. This history competition constitutes a unique source for observing recent evolutions in the historical narrative of the slave trades and slavery in France. These changes are reflected in the political and pedagogical choices of the competition organizers, as well as in the school projects carried out by teachers and the works produced by students, which provide access to the school representations of this history. At the intersection of several disciplinary fields (memory sociology and public uses of the past, history of education and history teaching, history didactics), and by using diverse materials (administrative and operational archives of the competition, oral surveys, pedagogical documents, student work, case studies) and analytical methods (participant observation, quantitative and qualitative analysis, interviews, classroom observations, questionnaire surveys), this thesis approaches the school competition as an instrument of the memorial policies on slavery, through which public representations and uses concerning this past are revealed.",
+    "doi": "",
+    "url": "https://openalex.org/W7125357290",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Studies and Ethnography",
+      "Cultural Identity and Heritage",
+      "Migration and Exile Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Agnès Vergnes"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La Flamme de l'égalité (2014-2024). La mise en récit de l'histoire des traites et des esclavages au prisme d'un dispositif institutionnel : le concours scolaire"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Studies and Ethnography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural Identity and Heritage"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration and Exile Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/X2/X2QZ3E7G.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "key": "LR5D4HUW",
+  "uri": "https://medjat.irokosociety.org/id/library/LR5D4HUW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LR5D4HUW",
+  "zotero": {
+    "group": "6479329",
+    "key": "LR5D4HUW",
+    "version": 1542,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LR5D4HUW",
+    "dateAdded": "2026-05-19T14:17:04Z",
+    "dateModified": "2026-05-19T14:17:04Z"
+  },
+  "display": {
+    "title": "After 1833: British Entanglement with Brazilian Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Joseph Martin Mulhern"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Durham e-Theses (Durham University)",
+    "publicationTitle": "Durham e-Theses (Durham University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Durham e-Theses (Durham University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In the context of renewed academic and public interest in Britain’s relationship with slavery in the post-emancipation era, this thesis looks beyond the political borders of the British empire to Brazil, where individual Britons and British enterprises continued to own and invest in slave property for long periods after 1833. In fact, the last vestiges of Britain’s entanglement with slavery in the Americas were only extinguished upon abolition in Brazil in 1888. Though this fact has been recognised by historians, much of what we know relates to the use of slave labour in the British-owned mines of Minas Gerais. This thesis explores the material basis of this entanglement outside of these exclaves, exposing British slaveholding in a variety of rural and urban contexts. The exploitation of slave labour is only part of the story. British banks and other creditors were also deeply entangled in the form of mortgages secured by human collateral. Though financial entanglement can appear innocuous in the abstract, this thesis pieces together fragmentary evidence of their potential for devastating consequences on the lives of the enslaved.&#13;\\n&#13;\\nRestoring these overlooked British connections with Brazilian slavery is surely a worthwhile cause in its own right. Nevertheless, this thesis is also concerned with what the persistence of this entanglement, over the course of over half a century, can tell us about the limits of anti-slavery policy and legislation. The failure of the state to curb even the most obvious complicit practices cannot solely be attributed to the practical difficulties of investigating allegations and enforcing British law across political borders. Rather, ambivalence codified in legislation and embodied in British officials also facilitated the types of entanglement discussed here.&#13;\\n",
+    "doi": "",
+    "url": "http://etheses.dur.ac.uk/13071/1/Mulhern_J_After_1833._British_Entanglement_with_Brazilian_Slavery.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Joseph Martin Mulhern"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "After 1833: British Entanglement with Brazilian Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Durham e-Theses (Durham University), 2018."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LR/LR5D4HUW.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "8C7BRIYB",
+  "uri": "https://medjat.irokosociety.org/id/library/8C7BRIYB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8C7BRIYB",
+  "zotero": {
+    "group": "6479329",
+    "key": "8C7BRIYB",
+    "version": 915,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8C7BRIYB",
+    "dateAdded": "2026-05-19T13:27:13Z",
+    "dateModified": "2026-05-19T13:27:13Z"
+  },
+  "display": {
+    "title": "Cuban Abakuá Chants: Examining New Linguistic and Historical Evidence for the African Diaspora",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "African Studies Review",
+    "publicationTitle": "African Studies Review",
+    "bookTitle": "",
+    "journalAbbreviation": "African Studies Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "48",
+    "issue": "1",
+    "pages": "23-58",
+    "abstract": "Abstract: The Cuban Abakuá society—derived from the Èfik Ékpè and Ejagham Úgbè societies of southeastern Nigeria and southwestern Cameroon—was founded in Havana in the 1830s by captured leaders of Cross River villages. This paper examines the process by which West African Ékpè members were able to understand contemporary Cuban Abakuá chants, and indicates how these texts may be used as historical documents. This methodology involves first recording and interpreting Abakuá chants with Cuban elders, and then interpreting these same chants with the aid of West African Èfik speakers. The correlation of data in these chants with those in documents created by Europeans and Africans from the eighteenth to twentieth centuries indicates a vocabulary that includes many geographic and ethnic names and an occasional historical figure. These examples may lead to a reevaluation of the extent to which African identity and culture were transmitted during the transAtlantic diaspora. Abakuá intellectuals have used commercial recordings to extol their history and ritual lineages. Evidence indicates that Cuban Abakuá identity is based on detailed knowledge of ritual lineages stemming from specific locations in their homelands, and not upon a vague notion of an African “national” or “ethnic” identity. The persistence of the Abakuá society contradicts the official construction of a Cuban national identity.",
+    "doi": "10.1353/arw.2005.0030",
+    "url": "https://doi.org/10.1353/arw.2005.0030",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cuban Abakuá Chants: Examining New Linguistic and Historical Evidence for the African Diaspora"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "African Studies Review, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "23-58 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1353/arw.2005.0030"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8C/8C7BRIYB.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1353/arw.2005.0030"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

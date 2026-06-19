@@ -1,0 +1,116 @@
+{
+  "key": "BTZWVWHQ",
+  "uri": "https://medjat.irokosociety.org/id/library/BTZWVWHQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BTZWVWHQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "BTZWVWHQ",
+    "version": 2070,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BTZWVWHQ",
+    "dateAdded": "2026-05-19T14:19:22Z",
+    "dateModified": "2026-05-19T14:19:22Z"
+  },
+  "display": {
+    "title": "Natural Law, Literary Accommodation and the Successful Social Justice Movement : Thomas Reid's Natural Law Philosophy and the Abolitionist Writings of Olaudah Equiano and Ottobah Cugoano",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Patrick D. Miller"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "I will be discussing natural law and the abolition movement of the 18th century-specifically the works of Olaudah Equiano and Ottobah Cugoano, two freed slaves who were members of an English abolitionist society known as the Sons of Africa- and the role that Scottish philosopher Thomas Reid’s ideas of natural law played in their authorship. Natural law philosophy, based on the idea that observation of the natural world can lead to conclusions about morality, has largely been sidelined in modern conversations about ethics. However, it played an important part in one of the greatest moral struggles of western society- the abolition of slavery- both by producing a coherent set of arguments against the practice and, as I will argue, promoting a method of communication by which those arguments were to be successfully delivered. In this project I will seek to demonstrate how natural law philosophy lead early abolitionists to prioritize a literary style that seeks common ground on a basis of universal human identity.",
+    "doi": "10.32597/honors/238/",
+    "url": "https://doi.org/10.32597/honors/238/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Law in Society and Culture",
+      "Legal principles and applications",
+      "Multicultural Socio-Legal Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Patrick D. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Natural Law, Literary Accommodation and the Successful Social Justice Movement : Thomas Reid's Natural Law Philosophy and the Abolitionist Writings of Olaudah Equiano and Ottobah Cugoano"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2020."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.32597/honors/238/"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Law in Society and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal principles and applications"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multicultural Socio-Legal Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BT/BTZWVWHQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.32597/honors/238/"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

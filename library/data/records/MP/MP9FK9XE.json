@@ -1,0 +1,146 @@
+{
+  "key": "MP9FK9XE",
+  "uri": "https://medjat.irokosociety.org/id/library/MP9FK9XE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MP9FK9XE",
+  "zotero": {
+    "group": "6479329",
+    "key": "MP9FK9XE",
+    "version": 1478,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MP9FK9XE",
+    "dateAdded": "2026-05-04T01:04:16Z",
+    "dateModified": "2026-05-04T12:27:28Z"
+  },
+  "display": {
+    "title": "Los negros brujos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ortiz, Fernando"
+      }
+    ],
+    "year": "1906",
+    "date": "1906",
+    "publisher": "Librería de Fernando Fé",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Madrid",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "Spanish"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions",
+      "Central African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Afro-Cuban religion",
+      "Cuba",
+      "archival-latency-paper",
+      "colonial ethnography"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ortiz, Fernando"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los negros brujos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Madrid: Librería de Fernando Fé, 1906."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Cuban religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "archival-latency-paper"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "colonial ethnography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/MP/MP9FK9XE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      },
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

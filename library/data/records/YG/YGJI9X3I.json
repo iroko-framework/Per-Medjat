@@ -1,0 +1,109 @@
+{
+  "key": "YGJI9X3I",
+  "uri": "https://medjat.irokosociety.org/id/library/YGJI9X3I",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YGJI9X3I",
+  "zotero": {
+    "group": "6479329",
+    "key": "YGJI9X3I",
+    "version": 981,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YGJI9X3I",
+    "dateAdded": "2026-05-19T13:27:25Z",
+    "dateModified": "2026-05-19T13:27:25Z"
+  },
+  "display": {
+    "title": "The Afro-Cuban Abakua: Rhythmic origins to modern applications",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Donald Brooks Truly"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W1596223267",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Music History and Culture",
+      "Theater, Performance, and Music History"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Donald Brooks Truly"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Afro-Cuban Abakua: Rhythmic origins to modern applications"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Theater, Performance, and Music History"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YG/YGJI9X3I.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

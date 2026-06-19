@@ -1,0 +1,109 @@
+{
+  "key": "V22HCVSC",
+  "uri": "https://medjat.irokosociety.org/id/library/V22HCVSC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V22HCVSC",
+  "zotero": {
+    "group": "6479329",
+    "key": "V22HCVSC",
+    "version": 1038,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V22HCVSC",
+    "dateAdded": "2026-05-19T13:27:36Z",
+    "dateModified": "2026-05-19T13:27:36Z"
+  },
+  "display": {
+    "title": "A sobrevivência de Sikán: imagens de uma lembrança sagrada na obra de Belkis Ayón",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "María Angélica Melendi"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "Aurora Revista de Arte Mídia e Política",
+    "publicationTitle": "Aurora Revista de Arte Mídia e Política",
+    "bookTitle": "",
+    "journalAbbreviation": "Aurora Revista de Arte Mídia e Política",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "34",
+    "pages": "38-53",
+    "abstract": "Este ensaio aborda a obra de uma artista cubana, Belkis Ayón (1967-1999), uma jovem negra, que, no breve tempo de sua vida, nos legou imagensperturbadoras, onde o sagrado excede os limites do mistério e do culto e se expandeno âmbito de uma vida comum e compartilhada. O tema da cultura abakuá, umasociedade secreta masculina que tem suas origens no longínquo Calabar, atravessaa iconografia da arte cubana. Tal vez, o primeiro expoente tenha sido o pintorespanhol Víctor Patricio de Landaluce, que residiu em La Habana até sua morte.No século XX, o culto abakuá, foi abordado por vários pintores cubanos: RenéPortocarrero, Mariano Rodríguez e sobre tudo Wifredo Lam. Belkis Ayón derivasó parcialmente dessa tradição: a pesar de acompanhar as cerimonias públicas eestudar os relatos da tradição abakuá nas obras de Lydia Cabrera, Fernando Ortiz eEnrique Sosa Rodríguez, a artista concebe, grava e imprime imagens que provêmde uma memória sagrada e ancestral. Ela imagina imagens a partir do relatoprimordial e assim oferece a Sikán uma sobrevida que excede o espaço restritopor onde espalha-se um secreto nascido à beira do rio Oyono, na Nigéria. Vinteanos depois da morte de Ayón, podemos detectar na sua obra as problemáticascontemporâneas de gênero, etnia, situação social e exclusão. Uma mulher capturao som com que se evoca o espírito e, por isso, é sacrificada. Será necessária outramulher para dar imagem e voz à lembrança sagrada sequestrada e apropriadapelos homens.",
+    "doi": "10.23925/2019.v34.dossie2",
+    "url": "https://doi.org/10.23925/2019.v34.dossie2",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "María Angélica Melendi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A sobrevivência de Sikán: imagens de uma lembrança sagrada na obra de Belkis Ayón"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Aurora Revista de Arte Mídia e Política, 2019."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "38-53 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.23925/2019.v34.dossie2"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/V2/V22HCVSC.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.23925/2019.v34.dossie2"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

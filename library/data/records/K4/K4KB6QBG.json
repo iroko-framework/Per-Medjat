@@ -1,0 +1,116 @@
+{
+  "key": "K4KB6QBG",
+  "uri": "https://medjat.irokosociety.org/id/library/K4KB6QBG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=K4KB6QBG",
+  "zotero": {
+    "group": "6479329",
+    "key": "K4KB6QBG",
+    "version": 2037,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/K4KB6QBG",
+    "dateAdded": "2026-05-19T14:19:13Z",
+    "dateModified": "2026-05-19T14:19:13Z"
+  },
+  "display": {
+    "title": "Slaves and Slaveholders in the Choctaw Nation: 1830-1866",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jeffrey L. Fortney"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Racial slavery was a critical element in the cultural development of the Choctaws and was a derivative of the peculiar institution in southern states. The idea of genial and hospitable slave owners can no more be conclusively demonstrated for the Choctaws than for the antebellum South. The participation of Choctaws in the Civil War and formal alliance with the Confederacy was dominantly influenced by the slaveholding and a connection with southern identity, but was also influenced by financial concerns and an inability to remain neutral than a protection of the peculiar institution. Had the Civil War not taken place, the rate of Choctaw slave ownership possibly would have reached the level of southern states and the Choctaws would be considered part of the South.",
+    "doi": "10.12794/metadc28371",
+    "url": "https://doi.org/10.12794/metadc28371",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Literature and Culture",
+      "Canadian Identity and History",
+      "Migration, Health, Geopolitics, Historical Geography"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jeffrey L. Fortney"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slaves and Slaveholders in the Choctaw Nation: 1830-1866"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.12794/metadc28371"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Canadian Identity and History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Health, Geopolitics, Historical Geography"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/K4/K4KB6QBG.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.12794/metadc28371"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

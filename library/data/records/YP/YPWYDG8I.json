@@ -1,0 +1,109 @@
+{
+  "key": "YPWYDG8I",
+  "uri": "https://medjat.irokosociety.org/id/library/YPWYDG8I",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YPWYDG8I",
+  "zotero": {
+    "group": "6479329",
+    "key": "YPWYDG8I",
+    "version": 1491,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YPWYDG8I",
+    "dateAdded": "2026-05-19T14:16:57Z",
+    "dateModified": "2026-05-19T14:16:57Z"
+  },
+  "display": {
+    "title": "Law and community in a slave society : Stellenbosch district, c.1760-1820",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Wayne Dooling"
+      }
+    ],
+    "year": "1991",
+    "date": "1991",
+    "publisher": "Open University of Cape Town (University of Cape Town)",
+    "publicationTitle": "Open University of Cape Town (University of Cape Town)",
+    "bookTitle": "",
+    "journalAbbreviation": "Open University of Cape Town (University of Cape Town)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "m m u n i t yThe Southwestern Cape was the orbit of agrarian production at the Cape.It is here, according to Robert Ross, where the origins of 'quasi-capitalist' agriculture were to be found. 1Despite the criticism levelled at Ross 2 , he has nevertheless successfully qualified the thesis (first challenged by Bill Freund) that \"class dis tine tions in the European sense did not app 1 y with in the white community\". 3 In the course of the eighteenth century a rural landed elite --the 'Cape gentry' --had emerged in the southwestern Cape who had managed to gain substantial control \\ over the loca 1 or~ans of power to such an extent that by the nineteenth century the \"authorities in Cape Town simply could not 1 .R. Ross, \"The Orig ins of Capita 1 is t Agr icu 1 tu re in the Cape Colony: A Survey\" in W. BeiTilart et al (eds>, Putting a Plough to the Ground: Accumulation and Dispossession in Rural South Africa,",
+    "doi": "",
+    "url": "http://hdl.handle.net/11427/21835",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Legal Issues in South Africa",
+      "South African History and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Wayne Dooling"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Law and community in a slave society : Stellenbosch district, c.1760-1820"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Open University of Cape Town (University of Cape Town), 1991."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal Issues in South Africa"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "South African History and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YP/YPWYDG8I.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

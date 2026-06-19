@@ -7,6 +7,10 @@ on:
     - cron: '22 8 * * *'
   workflow_dispatch:   # allow manual trigger from GitHub Actions UI
 
+concurrency:
+  group: medjat-catalog-build
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +27,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: iroko-framework/medjat-tools
-          path: medjat-tools
+          path: .build/medjat-tools
+          ref: c07770e59f4f47485016706a40822c0b32cc3d1d
           token: ${{ secrets.MEDJAT_TOOLS_PAT }}
 
       - name: Set up Python
@@ -36,13 +41,58 @@ jobs:
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
           PER_MEDJAT_ROOT: ${{ github.workspace }}
         run: |
-          python medjat-tools/build_library/build_library.py
+          python .build/medjat-tools/build_library/build_library.py
+
+      - name: Validate generated catalog
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+
+          data_dir = Path("library/data")
+          required = [
+              data_dir / "library.json",
+              data_dir / "library.index.json",
+              data_dir / "library.facets.json",
+              data_dir / "library.ttl",
+              data_dir / "marc/library.marc.json",
+          ]
+          missing = [str(path) for path in required if not path.is_file()]
+          if missing:
+              raise SystemExit(f"Missing generated catalog files: {', '.join(missing)}")
+
+          manifest = json.loads((data_dir / "library.json").read_text(encoding="utf-8"))
+          index = json.loads((data_dir / "library.index.json").read_text(encoding="utf-8"))
+          new_count = int(manifest.get("count", 0))
+          if new_count <= 0 or new_count != len(index):
+              raise SystemExit(
+                  f"Invalid catalog count: manifest={new_count}, index={len(index)}"
+              )
+
+          try:
+              previous = subprocess.check_output(
+                  ["git", "show", "HEAD:library/data/library.json"],
+                  text=True,
+              )
+              old_count = int(json.loads(previous).get("count", 0))
+          except (subprocess.CalledProcessError, json.JSONDecodeError, ValueError):
+              old_count = 0
+
+          if old_count >= 20 and new_count < old_count * 0.75:
+              raise SystemExit(
+                  f"Catalog count fell from {old_count} to {new_count}; "
+                  "refusing to publish a drop greater than 25%."
+              )
+
+          print(f"Validated {new_count} catalog records.")
+          PY
 
       - name: Commit and push catalog changes
         run: |
           git config user.name "medjat-build[bot]"
           git config user.email "noreply@irokosociety.org"
-          git add .
+          git add -A -- library/data
           git diff --cached --quiet && echo "No changes — nothing to push." || (
             git commit -m "Nightly catalog build $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push

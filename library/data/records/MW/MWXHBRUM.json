@@ -1,0 +1,109 @@
+{
+  "key": "MWXHBRUM",
+  "uri": "https://medjat.irokosociety.org/id/library/MWXHBRUM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MWXHBRUM",
+  "zotero": {
+    "group": "6479329",
+    "key": "MWXHBRUM",
+    "version": 2166,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MWXHBRUM",
+    "dateAdded": "2026-05-19T14:19:38Z",
+    "dateModified": "2026-05-19T14:19:38Z"
+  },
+  "display": {
+    "title": "People at Law: Subordinate Southerners, Popular Governance, and Local Legal Culture in Antebellum Mississippi and Louisiana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Kimberly Welch"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "publicationTitle": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"People at Law: Subordinate Southerners, Popular Governance, and Local Legal Culture in Antebellum Mississippi and Louisiana\" uses manuscript civil and criminal court records, church disciplinary hearings, newspaper accounts of trials, and the personal papers of judges and lawyers to investigate the relationship between subordinated people and the law in the Natchez District of Mississippi and Louisiana from 1820 to 1860. This project asks if local courts provided white women and free and enslaved blacks with a platform to improve their lives. Although denied many legal rights and excluded from formal political arenas, white women and African Americans positioned themselves as astute litigators. They frequently went to court to redress wrongs done to them and to make public demands on those in positions of authority. Knowledge of the southern legal system, coupled with the ability to harness their own community networks, gave them a degree of power: the power to improve their immediate situations and, on occasion, the power to bend others to their will. Part of the reason for the success of the challenges subordinates mounted in court against their husbands, masters, and social betters was the limited nature of the challenges themselves. Rather than attempting to confront the planter class directly and dismantle the larger social system, they appealed to notions of justice and fairness that they insisted all southerners shared. When white women and African Americans (male and female) used local courts to constrain the power of their superiors, they in effect confirmed their subordination by making patriarchal marriage and the institution of slavery work according to the highest southern ideal. But in the process, courts disciplined adulterous husbands and brutal masters. Setting limits on the unrestrained behavior of husbands or slaveholders helped uphold the legitimacy of hierarchical marriage and slavery, to be sure. Still, it also allowed wives (white and black), free people of color, and slaves to turn their subordination into a legal strategy. While they did not overthrow the system of power that subordinated them, white women, free blacks, and slaves used the courts to help define what their place in that system would entail.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1903/12664",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Constitutional Law and Politics",
+      "American History and Culture",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Kimberly Welch"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "People at Law: Subordinate Southerners, Popular Governance, and Local Legal Culture in Antebellum Mississippi and Louisiana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Repository at the University of Maryland (University of Maryland College Park), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Constitutional Law and Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/MW/MWXHBRUM.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

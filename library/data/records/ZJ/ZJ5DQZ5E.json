@@ -1,0 +1,109 @@
+{
+  "key": "ZJ5DQZ5E",
+  "uri": "https://medjat.irokosociety.org/id/library/ZJ5DQZ5E",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZJ5DQZ5E",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZJ5DQZ5E",
+    "version": 2400,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZJ5DQZ5E",
+    "dateAdded": "2026-05-19T14:20:20Z",
+    "dateModified": "2026-05-19T14:20:20Z"
+  },
+  "display": {
+    "title": "The Schooline of black: special historical Alagoad (1840-1890)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Monica Luise Santos"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "publicationTitle": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "bookTitle": "",
+    "journalAbbreviation": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This study proposes to examine the processes by which free blacks and freed slaves were able to access the letters in the corresponding period 1840 to 1890. Following this approach to know what kind of education was taught and know the reasons for this type of training offered. Following the theoretical and methodological orientation of the Annales school to develop this work we use the journalistic sources, mainly through notices of runaway slaves, who presented the field of reading, writing and arithmetic, besides the school maps of the 1840s, and reports of the provincial presidents and directors of pubic education, appointments of religious brotherhoods, and rare books at the time. We have the support and guidance from studies of Veiga (2008), Fonseca (2007), Cruz (2008), which have studies on the education of blacks in the period in question, Xavier (2007) and Bittencourt (2008) to understand and analyze the level of student learning. The paper addresses the issue of school as a civilization, the inferiority of blacks, as well as education as a way to launder the Brazilian population and the brotherhoods as a space for reading and writing to blacks. This context of Alagoas at the time focusing on the economic, social, cultural and educational. In the face of power supplies, we can say that the public school system of Alagoas, in spite of total abandonment in which it was, served to free blacks. And after that the Free Womb Law of 1871 the enslaved could attend night courses and minors who were emancipated by that Law could have access to the letters through the Central School. We can also see that the education offered in this social group was aimed at teaching civilization in the customs and behaviors, as well as education for work.",
+    "doi": "",
+    "url": "http://www.repositorio.ufal.br/handle/riufal/2169",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History of Colonial Brazil",
+      "History of Education Research in Brazil",
+      "Race, Identity, and Education in Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Monica Luise Santos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Schooline of black: special historical Alagoad (1840-1890)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Education Research in Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/ZJ/ZJ5DQZ5E.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

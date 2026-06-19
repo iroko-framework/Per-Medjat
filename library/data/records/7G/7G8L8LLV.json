@@ -1,0 +1,97 @@
+{
+  "key": "7G8L8LLV",
+  "uri": "https://medjat.irokosociety.org/id/library/7G8L8LLV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=7G8L8LLV",
+  "zotero": {
+    "group": "6479329",
+    "key": "7G8L8LLV",
+    "version": 1806,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7G8L8LLV",
+    "dateAdded": "2026-05-19T14:18:05Z",
+    "dateModified": "2026-05-19T14:18:05Z"
+  },
+  "display": {
+    "title": "History and cultural identity : Barbadian space and the legacy of empire",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Marcia Burrowes"
+      }
+    ],
+    "year": "2000",
+    "date": "2000",
+    "publisher": "Warwick Research Archive Portal (University of Warwick)",
+    "publicationTitle": "Warwick Research Archive Portal (University of Warwick)",
+    "bookTitle": "",
+    "journalAbbreviation": "Warwick Research Archive Portal (University of Warwick)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis explores issues surrounding Barbadian cultural identity in the post-colonial&#13;\\nperiod. Emphasis is placed on the role of history in constructing cultural identity.&#13;\\nBeginning with the debate involving the Lord Nelson statue which stands in the capital of&#13;\\nBarbados, the question of negotiating post-colonial space is closely examined in the three&#13;\\ncase studies that form the body of the research. These are based on evidence gathered&#13;\\nfrom both archival and secondary sources, as well as personal interviews. The case&#13;\\nstudies review the following: the history of the usage of the 'Little England' motto and its&#13;\\nrenewed use in the post-colonial period; the historical development of the community&#13;\\ngroup known as the Landship, whose trademark is to wear naval livery and dance their&#13;\\nnaval manoeuvres during their parades; the history of the Harvest Home/Crop Over&#13;\\nfestival of the slavery and post-slavery periods, as well as the history of the modern street&#13;\\nfestival that it has become. The thesis argues that elements of the colonial discourse gain&#13;\\nnew life in the post-colonial period because of the struggle between the colonial narrative&#13;\\nof History and the emerging new histories. It proposes that in this Barbados example, the&#13;\\nperformance culture has provided new grounds for advancing the process of&#13;\\ndecolonisation.",
+    "doi": "",
+    "url": "http://wrap.warwick.ac.uk/36383/1/WRAP_THESIS_Burrowes_2000.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Marcia Burrowes"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "History and cultural identity : Barbadian space and the legacy of empire"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Warwick Research Archive Portal (University of Warwick), 2000."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/7G/7G8L8LLV.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

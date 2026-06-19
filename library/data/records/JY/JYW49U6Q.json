@@ -1,0 +1,116 @@
+{
+  "key": "JYW49U6Q",
+  "uri": "https://medjat.irokosociety.org/id/library/JYW49U6Q",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JYW49U6Q",
+  "zotero": {
+    "group": "6479329",
+    "key": "JYW49U6Q",
+    "version": 1818,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JYW49U6Q",
+    "dateAdded": "2026-05-19T14:18:09Z",
+    "dateModified": "2026-05-19T14:18:09Z"
+  },
+  "display": {
+    "title": "Escravos e terras entre posses e títulos: a construção social do direito de propriedade no Brasil (1835-1889)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mariana Armond Dias Paes"
+      }
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis aims to analyze the social construction of relations between people and things in Brazil between 1835 and 1889. For this purpose, I analyzed 74 legal proceedings that were processed before the Court of Appeals of Rio de Janeiro and which discussed dominion and possession over slaves and land. In the first chapter, I analyze the contours that the legal category of possession acquired in nineteenth-century Brazil. Then I analyze the role of social recognition in the configuration of possessory situations. Finally, I describe how interpretations of possession theories delegitimized acts of land usage by certain groups -indigenous and aggregates -as possessory acts. In the second chapter, I analyze the debates over domain titles and the process of document production by parties in legal proceedings. I also analyze the role of judicial demarcations in this production process and how titles issued by married women were often delegitimized. In the end, I discuss the new configurations that debates over titles acquired in the last decades of the nineteenth century. In the third chapter, I analyze cases of illegal and irregular acquisitions of slaves and lands. I conclude that the process of construction of private property in Brazil during the nineteenth century built upon the pre-existing structure of ius commune by resignifying its cathegories.",
+    "doi": "10.11606/t.2.2018.tde-06112020-183430",
+    "url": "https://doi.org/10.11606/t.2.2018.tde-06112020-183430",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Development, Ethics, and Society",
+      "History of Colonial Brazil"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mariana Armond Dias Paes"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Escravos e terras entre posses e títulos: a construção social do direito de propriedade no Brasil (1835-1889)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2018."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/t.2.2018.tde-06112020-183430"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Development, Ethics, and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/JY/JYW49U6Q.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/t.2.2018.tde-06112020-183430"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

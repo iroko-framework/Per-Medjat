@@ -1,0 +1,109 @@
+{
+  "key": "EURNTWIN",
+  "uri": "https://medjat.irokosociety.org/id/library/EURNTWIN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EURNTWIN",
+  "zotero": {
+    "group": "6479329",
+    "key": "EURNTWIN",
+    "version": 1521,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EURNTWIN",
+    "dateAdded": "2026-05-19T14:17:01Z",
+    "dateModified": "2026-05-19T14:17:01Z"
+  },
+  "display": {
+    "title": "Liberated Africans in the Atlantic World : the courts of Mixed Commission in Havana and Rio de Janeiro 1819-1871",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jennifer Nelson"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+    "publicationTitle": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+    "bookTitle": "",
+    "journalAbbreviation": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis compares two courts of Mixed Commission for the suppression of the slave trade in two notorious slave trading ports: Havana and Rio de Janeiro. Treaties, through which Britain imposed slave trade laws, led to the establishment of bilateral Mixed Commissions courts for the suppression of the slave trade in several Atlantic ports in the early nineteenth century. The Commissions have generally been viewed by scholars as important, but precursory to effective abolition of the slave trade; institutions which did not deter slave traders. Here the impact of these courts is addressed principally through the study of the liberated Africans or “recaptives” who the courts were intended to free. It demonstrates the potential and legacy of the Mixed Commissions in light of British reluctance to sabotage economic dominance, despite its dedication to eradicating the slave trade. Drawing on research in archives in Britain, Brazil and Cuba it highlights the importance of addressing local socio-economic circumstances and British imperial policy and objectives in each place, as well as viewing the courts as part of a wider Atlantic system. In doing so it reveals the challenges that the courts represented to slave traders and slave societies during the zenith of the slave trade to both locations.",
+    "doi": "",
+    "url": "http://etheses.whiterose.ac.uk/10421/1/FINAL%20FINAL%20CHECK.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jennifer Nelson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Liberated Africans in the Atlantic World : the courts of Mixed Commission in Havana and Rio de Janeiro 1819-1871"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/EU/EURNTWIN.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

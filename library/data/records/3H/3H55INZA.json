@@ -1,0 +1,103 @@
+{
+  "key": "3H55INZA",
+  "uri": "https://medjat.irokosociety.org/id/library/3H55INZA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3H55INZA",
+  "zotero": {
+    "group": "6479329",
+    "key": "3H55INZA",
+    "version": 1866,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3H55INZA",
+    "dateAdded": "2026-05-19T14:18:23Z",
+    "dateModified": "2026-05-19T14:18:23Z"
+  },
+  "display": {
+    "title": "Boundaries of rule, ties of dependency : Jamaican planters, local society and the metropole, 1800-1834",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Christer Petley"
+      }
+    ],
+    "year": "2003",
+    "date": "2003",
+    "publisher": "Warwick Research Archive Portal (University of Warwick)",
+    "publicationTitle": "Warwick Research Archive Portal (University of Warwick)",
+    "bookTitle": "",
+    "journalAbbreviation": "Warwick Research Archive Portal (University of Warwick)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis examines the planter class in Jamaica in the period before the end of&#13;\\nslavery in 1834 and considers the relations of the planters with local free society&#13;\\nand the metropole. In spite of the large body of scholarly work on Jamaica during&#13;\\nthe slavery period, we lack a modern study of the planters. Based on archival&#13;\\nresearch conducted in Britain and Jamaica, this research tackles the related issues&#13;\\nof how locally resident planters sustained slavery in Jamaica and sought to control&#13;\\nlocal society, how they related to other local groups and to the metropole, and how&#13;\\nthey identified themselves as British slaveholders in an age in which slavery was&#13;\\ncoming under increasing criticism in Britain. The study looks at the composition of&#13;\\nthe planter class and at the relations between the planter elite, non-elite white men,&#13;\\nfree non-whites and enslaved people. It also examines the way that the planters and&#13;\\ntheir allies responded to criticisms directed against them and their local practices.&#13;\\n&#13;\\nThe main conclusions of the thesis are that, to maintain the creole&#13;\\ninstitution of slavery, the planters depended heavily on the support of other white&#13;\\nmen, who enjoyed a range of privileges and opportunities. This assuaged class&#13;\\ntensions within white society and led to a distinctively local social order based on&#13;\\nideas of racial difference. However, in the period before emancipation, the rising&#13;\\npopulation of free coloureds and free blacks, along with the increased influence of&#13;\\nnon-conformist missionaries, meant that the planters struggled to sustain local&#13;\\nsupport across free society. Furthermore, their cultural and practical reliance on the&#13;\\nmetropole weakened their position as anti-slavery came to dominate British public&#13;\\nopinion. Therefore, shifting circumstances in both Jamaica and Britain helped to&#13;\\nmake the planters' continued defence of slavery impractical and contributed to the&#13;\\nemancipation of enslaved people in the 1830s.&#13;\\n",
+    "doi": "",
+    "url": "http://wrap.warwick.ac.uk/57052/1/WRAP_thesis_Petley_2003.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Migration, Ethnicity, and Economy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Christer Petley"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Boundaries of rule, ties of dependency : Jamaican planters, local society and the metropole, 1800-1834"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Warwick Research Archive Portal (University of Warwick), 2003."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Ethnicity, and Economy"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/3H/3H55INZA.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

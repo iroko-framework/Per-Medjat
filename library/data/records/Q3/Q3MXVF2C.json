@@ -1,0 +1,97 @@
+{
+  "key": "Q3MXVF2C",
+  "uri": "https://medjat.irokosociety.org/id/library/Q3MXVF2C",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Q3MXVF2C",
+  "zotero": {
+    "group": "6479329",
+    "key": "Q3MXVF2C",
+    "version": 1782,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Q3MXVF2C",
+    "dateAdded": "2026-05-19T14:17:59Z",
+    "dateModified": "2026-05-19T14:17:59Z"
+  },
+  "display": {
+    "title": "Commemorations and conflicts in the production of South African national pasts : the 1952 Jan van Riebeeck tercentenary festival",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Leslie Witz"
+      }
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "Open University of Cape Town (University of Cape Town)",
+    "publicationTitle": "Open University of Cape Town (University of Cape Town)",
+    "bookTitle": "",
+    "journalAbbreviation": "Open University of Cape Town (University of Cape Town)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis investigates how the icon of Jan van Riebeeck acquired a position of prominence in South African public pasts through the government sponsored festival organised in 1952 to commemorate his landing three hundred years previously.From the seventeenth to the midtwentieth centuries van Riebeeck and the landing in 1652 had, through commemorative events, school text books and the publication of the Dutch East India Company journal for the period when he was commander at the Cape of Good Hope, acquired different meanings.These ranged from conveying Christianity to southern Africa, to initiating British colonial rule and providing the ancestry for an Afrikaner volk.tVsing material from the various planning committees for the tercentenary celebrations, newspaper reports, pamphlets, high school year books, interviews with organisers and participants, radio broadcasts and documentary film footage, this thesis argues that the festival in 1952 selected elements from these various pasts to construct a Van Riebeeck as the founder figure of a racially exclusive settler nation in South Africa.The pasts that were produced for this festival of European settler founding often resulted from negotiations between opposing groups over its constituent elements, what events and personalities should be included and excluded and how they should be represented.It was immensely difficult to produce this consensual past, particularly as local identities often clashed with the national pasts the festival was attempting to construct and the audiences viewed the exhibitions and performances in a variety of different ways.There was also a massive boycott of the proceedings by those whom the festival organisers attempted to incorporate into its displays and audiences as, separate, developing 'non-European' ethnic entities.One of the most notable aspects of the boycott campaigns against the festival was that they largely mirrored and inverted its symbols.Instead of subverting the images of the festival, they therefore unintentionally bolstered and sustained their significance in South African public pasts. }.In a thesis ofthis nature, which is primarily concerned with the construction of public history, the range of people who have contributed to its production 'is very wide.It encompasses film and radio archivists, environmental activists, advertising agents, secretaries in government departments, curators at museums, sales assistants at second-hand bookshops, students in lectures, guests at dinner parties and even passers-by in the street.While it is not feasible to acknowledge each of these contributions individually, they have.enabled me to develop an understanding of how history is produced, contested and received in different ways in the public terrain.",
+    "doi": "",
+    "url": "http://hdl.handle.net/11427/22052",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "South African History and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Leslie Witz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Commemorations and conflicts in the production of South African national pasts : the 1952 Jan van Riebeeck tercentenary festival"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Open University of Cape Town (University of Cape Town), 1997."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "South African History and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/Q3/Q3MXVF2C.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

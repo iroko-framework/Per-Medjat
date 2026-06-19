@@ -1,0 +1,108 @@
+{
+  "key": "5UQNWLS4",
+  "uri": "https://medjat.irokosociety.org/id/library/5UQNWLS4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5UQNWLS4",
+  "zotero": {
+    "group": "6479329",
+    "key": "5UQNWLS4",
+    "version": 1311,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5UQNWLS4",
+    "dateAdded": "2026-05-19T13:28:49Z",
+    "dateModified": "2026-05-19T13:28:49Z"
+  },
+  "display": {
+    "title": "Belkis Ayón: su propia voz",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cristina Vives"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Artecubano: revista de artes visuales",
+    "publicationTitle": "Artecubano: revista de artes visuales",
+    "bookTitle": "",
+    "journalAbbreviation": "Artecubano: revista de artes visuales",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "2",
+    "pages": "62-69",
+    "abstract": "Las obras de Belkis salieron al escenario del arte cubano marcadas rapidamente por el exito, pero tambien por clasificaciones e interpretacionesque al paso de los anos, como -boomerang-, regresaron en su contra... Yo siento que hay gentes que son muy simples a la hora de hablar de un artista y una produccion. Es mucho mas facil decir: ?ahi mira, ella trabaja sobre abakua! Esta muy bien, pero hay mucho mas que eso...",
+    "doi": "",
+    "url": "https://openalex.org/W2279583653",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cinema History and Criticism",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cristina Vives"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Belkis Ayón: su propia voz"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Artecubano: revista de artes visuales, 2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "62-69 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cinema History and Criticism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/5U/5UQNWLS4.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

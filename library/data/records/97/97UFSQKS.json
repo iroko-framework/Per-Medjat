@@ -1,0 +1,108 @@
+{
+  "key": "97UFSQKS",
+  "uri": "https://medjat.irokosociety.org/id/library/97UFSQKS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=97UFSQKS",
+  "zotero": {
+    "group": "6479329",
+    "key": "97UFSQKS",
+    "version": 1468,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/97UFSQKS",
+    "dateAdded": "2026-05-05T01:14:22Z",
+    "dateModified": "2026-05-05T01:14:22Z"
+  },
+  "display": {
+    "title": "Animal Sacrifice and Religious Freedom: Church of the Lukumi Babalu Aye v. City of Hialeah",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "O'Brien, David M."
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "University Press of Kansas",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Lawrence",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The Santeria religion of Cuba—the Way of the Saints—mixes West AfricanYoruba culture with Catholicism. Similar to Haitian voodoo, Santeria has long practiced animal sacrifice in certain rites. But when Cuban immigrants brought those rituals to Florida, local authorities were suddenly confronted with a controversial situation that pitted the regulation of public health and morality against religious freedom. After Ernesto Pichardo established a Santeria church in Hialeah in the 1980s, the city of",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-7006-1303-8",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "O'Brien, David M."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Animal Sacrifice and Religious Freedom: Church of the Lukumi Babalu Aye v. City of Hialeah"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Lawrence: University Press of Kansas, 2004."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-7006-1303-8"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/97/97UFSQKS.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

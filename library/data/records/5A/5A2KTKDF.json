@@ -1,0 +1,114 @@
+{
+  "key": "5A2KTKDF",
+  "uri": "https://medjat.irokosociety.org/id/library/5A2KTKDF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5A2KTKDF",
+  "zotero": {
+    "group": "6479329",
+    "key": "5A2KTKDF",
+    "version": 978,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5A2KTKDF",
+    "dateAdded": "2026-05-19T13:27:24Z",
+    "dateModified": "2026-05-19T13:27:24Z"
+  },
+  "display": {
+    "title": "Efik in Abakua: Linguistic Evidence for the Formation of a Diaspora Identity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bruce Connell"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "issue": "2",
+    "pages": "223-238",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W2269411055",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis",
+      "Language, Linguistics, Cultural Analysis",
+      "Names, Identity, and Discrimination Research"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bruce Connell"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Efik in Abakua: Linguistic Evidence for the Formation of a Diaspora Identity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2004."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "223-238 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Names, Identity, and Discrimination Research"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/5A/5A2KTKDF.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

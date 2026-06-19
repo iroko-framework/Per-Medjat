@@ -1,0 +1,116 @@
+{
+  "key": "HD7L36ZH",
+  "uri": "https://medjat.irokosociety.org/id/library/HD7L36ZH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HD7L36ZH",
+  "zotero": {
+    "group": "6479329",
+    "key": "HD7L36ZH",
+    "version": 2301,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HD7L36ZH",
+    "dateAdded": "2026-05-19T14:19:59Z",
+    "dateModified": "2026-05-19T14:19:59Z"
+  },
+  "display": {
+    "title": "Sugar and coffee: a history of settler agriculture in nineteenth-century Liberia",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "William Allen"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation is about commercial agriculture in nineteenth-century Liberia. Based primarily on the archives of the American Colonization Society (founder of Liberia), it examines the impact of environmental and demographic constraints on an agrarian settler society from 1822 to the 1890s. Contrary to the standard interpretation, which linked the poor state of commercial agriculture to the settlers' disdain for cultivation, this dissertation argues that the scarcity of labor and capital impeded the growth of commercial agriculture. The causes of the scarcity were high mortality, low immigration and the poverty of the American \"Negroes\" who began to settle Liberia in 1822. Emigration to Liberia meant almost certain death and affliction for many immigrants because they encountered a new set of diseases. Mortality was particularly high during the early decades of colonization. From 1822 to 1843, about 48 percent of all immigrants died of various causes, usually within their first year. The bulk of the deaths is attributed to malaria. There was no natural increase in the population for this early period and because American \"Negroes\" were unenthusiastic about relocation to Liberia, immigration remained sparse throughout the century. Low immigration, combined with the high death rate, deprived the fledgling colony of its potential human resource, especially for the cultivation of labor-intensive crops, like sugar cane and coffee. Moreover, even though females constituted approximately half of the settlers, they seldom performed agricultural labor. The problem of labor was compounded by the scarcity of draft animals. Liberia is in the region where trypanosomiasis occurs. The disease is fatal to large livestock. Therefore, animal-drawn plows, common in the United States, were never successfully transplanted in Liberia. Besides, the dearth of livestock obstructed the development of the sugar industry since many planters depended on oxen-powered mills because they could not afford to buy the more expensive steam engine mills. Finally, nearly half of the immigrants were newly emancipated slaves. Usually these former bondsmen arrived in Liberia penniless. Consequently, they lacked the capital to invest in large-scale plantations. The other categories of immigrants (e.g., those who purchased their freedom), were hardly better off than the emancipated slaves.",
+    "doi": "10.25148/etd.fi13101591",
+    "url": "https://doi.org/10.25148/etd.fi13101591",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Land Rights and Reforms",
+      "Urban and Rural Development Challenges"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "William Allen"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sugar and coffee: a history of settler agriculture in nineteenth-century Liberia"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2002."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25148/etd.fi13101591"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Land Rights and Reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban and Rural Development Challenges"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/HD/HD7L36ZH.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25148/etd.fi13101591"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "M93AUQIH",
+  "uri": "https://medjat.irokosociety.org/id/library/M93AUQIH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=M93AUQIH",
+  "zotero": {
+    "group": "6479329",
+    "key": "M93AUQIH",
+    "version": 1233,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M93AUQIH",
+    "dateAdded": "2026-05-19T13:28:35Z",
+    "dateModified": "2026-05-19T13:28:35Z"
+  },
+  "display": {
+    "title": ". Conclusions",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "University Press of Mississippi eBooks",
+    "journalAbbreviation": "University Press of Mississippi eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "175-178",
+    "abstract": "Abstract This chapter summarizes the preceding discussions, which showed how African migrants in colonial Cuba, through Abakuá, reorganized their homeland government and passed it onto their offspring in the form of a mutual aid society. Abakuá expanded its urban networks through the interactions of many communities, including African nation-groups, free black artisans, the black and mulatto militias, urban fugitives, and African descendants from Spain. Abakuá groups also functioned as antislavery cells that maintained a sense of morality and history among their communities.",
+    "doi": "10.14325/mississippi/9781934110836.003.0009",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0009",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society",
+      "Historical Studies in Central America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": ". Conclusions"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "175-178 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14325/mississippi/9781934110836.003.0009"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Central America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/M9/M93AUQIH.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14325/mississippi/9781934110836.003.0009"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

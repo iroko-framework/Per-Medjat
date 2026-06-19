@@ -1,0 +1,110 @@
+{
+  "key": "C5MV9Q8S",
+  "uri": "https://medjat.irokosociety.org/id/library/C5MV9Q8S",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C5MV9Q8S",
+  "zotero": {
+    "group": "6479329",
+    "key": "C5MV9Q8S",
+    "version": 933,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C5MV9Q8S",
+    "dateAdded": "2026-05-19T13:27:16Z",
+    "dateModified": "2026-05-19T13:27:16Z"
+  },
+  "display": {
+    "title": "From Africa to Cuba: an historical analysis of the sociedad secreta Abakuá (Ñañiguismo)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Shubi L. Ishemo"
+      }
+    ],
+    "year": "2002",
+    "date": "2002",
+    "publisher": "Review of African Political Economy",
+    "publicationTitle": "Review of African Political Economy",
+    "bookTitle": "",
+    "journalAbbreviation": "Review of African Political Economy",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "29",
+    "issue": "92",
+    "pages": "",
+    "abstract": "The historical relations between Africa and Cuba run deep. Cuba significantly contributed to the African national liberation struggle and Africa contributed towards the development of Cuban identity and culture. This article is concerned with the latter aspect. African elements in the development of Cuban culture have historically been manifested in the development of Cuban religions, in particular the Congolese and Bantu derived Regla Conga ( Palo Monte), the Yoruba derived Regla Ocha ( Santeria ) , the Benin derived Regla Arara and Vodoo, and the Sociedad Secreta Abakua whose origins are Old Calabar and southwestern Cameroon. These religions were syncretised with Christian symbols to produce Cuban national identity. I will dwell on the Sociedad Secreta Abakua which has historically consisted of male only mutual associations. The society is the only one of its kind in the Americas and is located in the cities of Havana, Matanzas, and Cardenas. I will examine the historiography on the origins of the society and offer a political economy approach which dwells on the development of the social formation of the societies of Old Calabar and the emergence of the male only Ekpe and Ngbe or Leopard Societies whose functions were those of a state apparatus which provided religious and ideological legitimacy for an emerging merchant class in the eighteenth and the second half of the nineteenth centuries. Membership of the Ekpe and Ngbe was not only restricted to the dominant lineages but also included freemen and slaves. Most of the historiography consider the two secret societies as the origin of the Sociedad Secreta Abakua. It will be suggested that its origins may also lie in the Nka lyip (Association of Blood Men) whose membership was mainly slaves in Old Calabar. The origins of the Blood Men may have been much earlier, possibly in the eighteenth century. The Abakua Secret Society may also have emerged much earlier than 1836 and possibly in the late eighteenth century. The next level will dwell on its development as a contested Cuban institution based in the port cities of Havana, Matanzas and Cardenas. Based in poor neighbourhoods, its members became a source of labour on the wharves, in warehouses for over 100 years. Its membership underwent transformation from black only to mixed white and black and later Chinese ex‐indentured labour. It became transculturised, drawing its religious pantheons and rituals from Old Calabar, Yoruba and Bantu elements, as well as Roman Catholic symbols. In the colonial and neo‐colonial periods the Abakua were demonised and persecuted. Through the contract system of labour, its members were manipulated and exploited by unscrupulous intermediaries. Some of these intermediaries held leadership positions or plazas in its ranks. But its secret character was politically positive as its fearless, valiant male members actively participated in the struggles against slavery, against Spanish colonialism, labour unions, and the defeat of United States aggression against the young Cuban revolution in 1961.",
+    "doi": "10.1080/03056240208704612",
+    "url": "https://doi.org/10.1080/03056240208704612",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "History and Politics in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Shubi L. Ishemo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "From Africa to Cuba: an historical analysis of the sociedad secreta Abakuá (Ñañiguismo)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Review of African Political Economy, 2002."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1080/03056240208704612"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and Politics in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C5/C5MV9Q8S.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1080/03056240208704612"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

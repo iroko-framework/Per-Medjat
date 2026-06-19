@@ -1,0 +1,116 @@
+{
+  "key": "7C6B7LYD",
+  "uri": "https://medjat.irokosociety.org/id/library/7C6B7LYD",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=7C6B7LYD",
+  "zotero": {
+    "group": "6479329",
+    "key": "7C6B7LYD",
+    "version": 1722,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7C6B7LYD",
+    "dateAdded": "2026-05-19T14:17:42Z",
+    "dateModified": "2026-05-19T14:17:42Z"
+  },
+  "display": {
+    "title": "Letitia Carson in Court: African American Women, Property, and Wages in the Pacific Northwest",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stephanie Vallance"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Letitia Carson arrived in Oregon from Missouri in 1845, accompanied by David Carson and their newborn child, a daughter named Martha. The Carsons settled in the Soap Creek Valley and took advantage of Oregon's Provisional Government's donation land claim program, living on 640 acres in the newly formed Benton County with Martha and a second child, a son named Adam, born a few years after arriving in Oregon. Within ten years, however, David would be dead and Letitia would be dispossessed of all property and belongings. A former slave, Letitia had little social standing in the new territory and no legal right to inherit David's estate. Yet, Letitia filed suit against the executor of David's estate, asserting agency in defining their relationship - and her own status - on her own terms. In so doing, Letitia revealed the intricacies of a complicated racial and political landscape. David and Letitia's relationship has been difficult to define. He likely owned Letitia as a slave in Missouri. However, he was also the father of her two young children, living and working together on the difficult task of rural homesteading. While he was alive, their relationship was protected by his Whiteness. Seven years after arriving in Oregon, however, David died suddenly, without a will, leaving Letitia and their two children unprotected. The land she lived on and all her possessions were taken from her by Greenberry Smith, a wealthy White landowning neighbor who became executor of the late David Carson's estate. Remarkably, Letitia sued Smith in Benton County probate court in 1853. Claiming she was Carson's employee, she sued for back wages - and won. Letitia's status in relation to David became the center of the court case, and the conflict reveals a complicated and contradictory racial reality in antebellum Oregon. A year later Letitia sued Smith again for the loss of her cattle and was victorious a second time. While the first case centered on Letitia's status in relation to David, the second focused on individual property rights. Both cases provide a microcosm that better illuminate the larger debates in Oregon - and nationally - around slavery, land, and labor. Given the pervasive White supremacy that dominated antebellum Oregon, including notorious Black exclusion laws, it seems unlikely that a Black woman would file suit against a White man at all, let alone win. Analyzing how and why Letitia won her cases illuminates key",
+    "doi": "10.15760/etd.7737",
+    "url": "https://doi.org/10.15760/etd.7737",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Environmental and Regional History",
+      "American History and Culture",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stephanie Vallance"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Letitia Carson in Court: African American Women, Property, and Wages in the Pacific Northwest"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2021."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15760/etd.7737"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Environmental and Regional History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/7C/7C6B7LYD.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15760/etd.7737"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "key": "MQFYPHDT",
+  "uri": "https://medjat.irokosociety.org/id/library/MQFYPHDT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MQFYPHDT",
+  "zotero": {
+    "group": "6479329",
+    "key": "MQFYPHDT",
+    "version": 612,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MQFYPHDT",
+    "dateAdded": "2026-05-18T18:57:12Z",
+    "dateModified": "2026-05-18T18:57:12Z"
+  },
+  "display": {
+    "title": "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Myriam Tarragó"
+      },
+      {
+        "role": "editor",
+        "name": "Luis R. González"
+      },
+      {
+        "role": "editor",
+        "name": "Gimena Ávalos"
+      },
+      {
+        "role": "editor",
+        "name": "Marcelo Lamamí"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Boletín del Museo Chileno de Arte Precolombino",
+    "publicationTitle": "Boletín del Museo Chileno de Arte Precolombino",
+    "bookTitle": "",
+    "journalAbbreviation": "Boletín del Museo Chileno de Arte Precolombino",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "15",
+    "issue": "2",
+    "pages": "47-63",
+    "abstract": "Los rituales mortuorios del pasado constituyeron un fenómeno complejo, que expresaba múltiples dimensiones de los roles sociales de los inhumados. Analizamos el caso de la denominada Tumba 11 del cementerio de La Isla de Tilcara, provincia de Jujuy, ubicada tentativamente entre los siglos IX y XI. Se adelantan los resultados de los estudios técnicos realizados sobre un conjunto de piezas de oro incluidas en los materiales de la tumba. También se informa de los análisis químicos de otros objetos de oro, procedentes de Pueblo Viejo de La Cueva, en la misma provincia y asignados al mismo momento histórico.",
+    "doi": "10.4067/s0718-68942010000200004",
+    "url": "https://doi.org/10.4067/s0718-68942010000200004",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American Legal and Economic Studies",
+      "Migration, Education, Indigenous Social Dynamics",
+      "Paleopathology and ancient diseases"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Myriam Tarragó"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Boletín del Museo Chileno de Arte Precolombino, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "47-63 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4067/s0718-68942010000200004"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American Legal and Economic Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Education, Indigenous Social Dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Paleopathology and ancient diseases"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Luis R. González"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Gimena Ávalos"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Marcelo Lamamí"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/MQ/MQFYPHDT.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4067/s0718-68942010000200004"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

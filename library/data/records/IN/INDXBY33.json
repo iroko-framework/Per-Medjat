@@ -1,0 +1,134 @@
+{
+  "key": "INDXBY33",
+  "uri": "https://medjat.irokosociety.org/id/library/INDXBY33",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=INDXBY33",
+  "zotero": {
+    "group": "6479329",
+    "key": "INDXBY33",
+    "version": 874,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/INDXBY33",
+    "dateAdded": "2026-05-18T18:57:36Z",
+    "dateModified": "2026-05-18T20:22:10Z"
+  },
+  "display": {
+    "title": "Clientelism and social structure: an analysis of patron- age in Yoruba social thought",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ayokunle Olumuyiwa Omobowale"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)",
+    "publicationTitle": "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)",
+    "bookTitle": "",
+    "journalAbbreviation": "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "43",
+    "issue": "2",
+    "pages": "203-224",
+    "abstract": "\"Soziale Beziehungen bei den Yoruba wurden von jeher durch Sprichwörter, Redewendungen und Lieder (re-)strukturiert. In ihnen spiegelt sich das Denken der Gruppe wider. Dies zeigt sich insbesondere beim Blick auf die Beziehungen zwischen Patron und Klient und den Erwartungen, wie diese Beziehungen aussehen sollten. Durch die Analyse von Sprichwörtern, Redewendungen und Liedern der Yoruba wird gezeigt, wie indigenes gesellschaftliches Denken Werte, Normen und Erwartungen in klientelistischen Beziehungen festlegt.\" (Autorenreferat)",
+    "doi": "",
+    "url": "http://www.ssoar.info/ssoar/handle/document/35298",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [
+      "Secret Society"
+    ],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Community",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Oro",
+      "Postcolonial and Cultural Literary Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ayokunle Olumuyiwa Omobowale"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Clientelism and social structure: an analysis of patron- age in Yoruba social thought"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences), 2008."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "203-224 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Secret Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Oro"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Postcolonial and Cultural Literary Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/IN/INDXBY33.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

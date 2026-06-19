@@ -1,0 +1,109 @@
+{
+  "key": "ZZ67CBB6",
+  "uri": "https://medjat.irokosociety.org/id/library/ZZ67CBB6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ZZ67CBB6",
+  "zotero": {
+    "group": "6479329",
+    "key": "ZZ67CBB6",
+    "version": 603,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZZ67CBB6",
+    "dateAdded": "2026-05-18T18:57:10Z",
+    "dateModified": "2026-05-18T18:57:10Z"
+  },
+  "display": {
+    "title": "Òwe l'ẹṣin ọrọ : Yoruba proverbs - their meaning and usage",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isaac O. Delano"
+      }
+    ],
+    "year": "1966",
+    "date": "1966",
+    "publisher": "Oxford University Press eBooks",
+    "publicationTitle": "Oxford University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Oxford University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W597723542",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Language, Linguistics, Cultural Analysis",
+      "Language, Metaphor, and Cognition",
+      "Swearing, Euphemism, Multilingualism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isaac O. Delano"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Òwe l'ẹṣin ọrọ : Yoruba proverbs - their meaning and usage"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Oxford University Press eBooks, 1966."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Linguistics, Cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Language, Metaphor, and Cognition"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Swearing, Euphemism, Multilingualism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/ZZ/ZZ67CBB6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

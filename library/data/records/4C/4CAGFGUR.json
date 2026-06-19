@@ -1,0 +1,97 @@
+{
+  "key": "4CAGFGUR",
+  "uri": "https://medjat.irokosociety.org/id/library/4CAGFGUR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4CAGFGUR",
+  "zotero": {
+    "group": "6479329",
+    "key": "4CAGFGUR",
+    "version": 1605,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4CAGFGUR",
+    "dateAdded": "2026-05-19T14:17:13Z",
+    "dateModified": "2026-05-19T14:17:13Z"
+  },
+  "display": {
+    "title": "Search for a New Land: Imperial Power and Afro-Creole Resistance in the British Leeward Islands 1624-1745.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "James F. Dator"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "By exploring how colonists and enslaved folk migrated across island boundaries, manipulated imperial tensions, and organized acts of collective dissent, this dissertation attempts to demonstrate the relationship between space, power, and imperial governance in the British Leeward Islands from the time of transnational colonization through their ascendency as black majorities. It examines the ways British empire makers struggled to turn a series of closely interlinked islands stretching from Guadeloupe to the Virgin Islands into a unified colony and how this effort was challenged by the development of a regional black identity that linked slaves across island and imperial boundaries in the early eighteenth century. Secondly, “Search for a New Land” argues that enslaved folk in the Leewards were not simply peasants who generated local identities relationally to their white masters and the land they labored on, but rather people who created an outward looking culture that was uniquely cosmopolitan in its own right. Using private letters, official government correspondence, travel literature, newspapers, and colonial law as an avenue into slave life, this study argues that African acculturation to slavery in the Leewards occurred in relation to the broader, imperially divided archipelago. Instead of being cutoff from the wider world of the sea, plantation slaves in the Leewards were intimately bound to a world where French, British, Dutch, and Danish imperialists vied for power. Adapting to slavery meant learning how to negotiate both internal colonial space as well as the larger constellation of islands. As the sugar regime expanded in the region, slaves engaged in the spread of rumors between islands and empires, served as spies for competing governors, and occasionally took up arms to defend the land that they labored on. They also turned competing plantation owners from neighboring islands against each other, shaped the circuits of contraband trade, and reacted to news that slaves in neighboring colonies were rising in revolt. Collectively, these crosscutting cultural experiences informed the contagious “black awakening” that gripped the region between 1725 and 1745, events that ultimately gave rise to the Antigua Conspiracy of 1736 and even influenced the distant New York Conspiracy.",
+    "doi": "",
+    "url": "https://hdl.handle.net/2027.42/86546",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical and Cultural Archaeology Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "James F. Dator"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Search for a New Land: Imperial Power and Afro-Creole Resistance in the British Leeward Islands 1624-1745."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2011."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Cultural Archaeology Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/4C/4CAGFGUR.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "key": "RKPLQSPQ",
+  "uri": "https://medjat.irokosociety.org/id/library/RKPLQSPQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RKPLQSPQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "RKPLQSPQ",
+    "version": 1194,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RKPLQSPQ",
+    "dateAdded": "2026-05-19T13:28:26Z",
+    "dateModified": "2026-05-19T13:28:26Z"
+  },
+  "display": {
+    "title": "Los signos cubanos de los ritos abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jesús Guanche"
+      }
+    ],
+    "year": "1995",
+    "date": "1995",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "213-218",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W61151470",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jesús Guanche"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Los signos cubanos de los ritos abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1995."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "213-218 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/RK/RKPLQSPQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

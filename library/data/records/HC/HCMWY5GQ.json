@@ -1,0 +1,116 @@
+{
+  "key": "HCMWY5GQ",
+  "uri": "https://medjat.irokosociety.org/id/library/HCMWY5GQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=HCMWY5GQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "HCMWY5GQ",
+    "version": 2139,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HCMWY5GQ",
+    "dateAdded": "2026-05-19T14:19:35Z",
+    "dateModified": "2026-05-19T14:19:35Z"
+  },
+  "display": {
+    "title": "Nomes proprios e descrição",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ana Josefina Ferrari"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The issue of slavery in Brazil was widely addressed in the fields of history, anthropology and law. In the field of Linguistics the materials that make up the files on slavery are analyzed from different perspectives. In Semantic of the Event it has occurred for a few years. This doctoral dissertation analyzes a corpus of documents related to this historical moment. Here, we analyze the escape announcements of slaves published in newspapers in the city of Campinas between 1870 and 1880. We presuppose that it is the voice of the owner that creates a unique and public image of the slave in the Campinas society of the 19th century. In these announcements, the slave is described and, more importantly, is constituted as a unique subject. They are places where the owner claims the ownership of the slave, who is seen as a property, an object, a subject of his own statement. This will be evidenced in the file in relation to the first name and description. Therefore, this dissertation aims at identifying the different processes of discourse that, related to the first name and description, act in our corpus, defining theoretically these categories in a particular fashion. The theoretical framework underlying this research is the Semantics of the Event in dialogue with the French Analysis of Discourse in an attempt to build a device of analysis which will make it possible to reflect on the linguistic phenomena found.",
+    "doi": "10.47749/t/unicamp.2008.423522",
+    "url": "https://doi.org/10.47749/t/unicamp.2008.423522",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Linguistics and Discourse Analysis",
+      "Linguistics and Education Research",
+      "Migration, Racism, and Human Rights"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ana Josefina Ferrari"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Nomes proprios e descrição"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2008."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.47749/t/unicamp.2008.423522"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Discourse Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Education Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Racism, and Human Rights"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/HC/HCMWY5GQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.47749/t/unicamp.2008.423522"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

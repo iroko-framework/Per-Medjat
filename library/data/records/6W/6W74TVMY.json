@@ -1,0 +1,138 @@
+{
+  "key": "6W74TVMY",
+  "uri": "https://medjat.irokosociety.org/id/library/6W74TVMY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6W74TVMY",
+  "zotero": {
+    "group": "6479329",
+    "key": "6W74TVMY",
+    "version": 109,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6W74TVMY",
+    "dateAdded": "2026-05-14T15:45:23Z",
+    "dateModified": "2026-05-14T15:45:23Z"
+  },
+  "display": {
+    "title": "The price for their pound of flesh: the value of the enslaved, from womb to grave, in the building of a nation",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Berry, Daina Ramey"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Beacon Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Boston",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"Groundbreaking look at slaves as commodities through every phase of life, from birth to death and beyond, in early America. The Price for Their Pound of Flesh is the first book to explore the economic value of enslaved people through every phase of their lives–including from before birth to after death–in the American domestic slave trades. Covering the full \"life cycle\" (including preconception, infancy, childhood, adolescence, adulthood, the senior years, and death), historian Daina Berry shows the lengths to which slaveholders would go to maximize profits. She draws from over ten years of research to explore how enslaved people responded to being appraised, bartered, and sold. By illuminating their lives, Berry ensures that the individuals she studies are regarded as people, not merely commodities. Analyzing the depth of this monetization of human property will change the way we think about slavery, reparations, capitalism, and nineteenth-century medical education\"–Provided by publisher.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-8070-4762-0",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Enslaved children -- United States -- Social condi",
+      "Enslaved older people -- United States -- Social c",
+      "Enslaved persons -- United States -- Economic cond",
+      "Enslaved persons -- United States -- Social condit",
+      "Enslaved women -- United States -- Social conditio",
+      "Slave trade -- United States -- History",
+      "Slavery -- Economic aspects -- United States"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Berry, Daina Ramey"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The price for their pound of flesh: the value of the enslaved, from womb to grave, in the building of a nation"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Boston: Beacon Press, 2017."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-8070-4762-0"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Enslaved children -- United States -- Social condi"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Enslaved older people -- United States -- Social c"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Enslaved persons -- United States -- Economic cond"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Enslaved persons -- United States -- Social condit"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Enslaved women -- United States -- Social conditio"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slave trade -- United States -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Economic aspects -- United States"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/6W/6W74TVMY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

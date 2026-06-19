@@ -1,0 +1,97 @@
+{
+  "key": "BLIHW292",
+  "uri": "https://medjat.irokosociety.org/id/library/BLIHW292",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BLIHW292",
+  "zotero": {
+    "group": "6479329",
+    "key": "BLIHW292",
+    "version": 1950,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BLIHW292",
+    "dateAdded": "2026-05-19T14:18:46Z",
+    "dateModified": "2026-05-19T14:18:46Z"
+  },
+  "display": {
+    "title": "The politics of labour and development in Trinidad and Tobago",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ray Kiely"
+      }
+    ],
+    "year": "1991",
+    "date": "1991",
+    "publisher": "Warwick Research Archive Portal (University of Warwick)",
+    "publicationTitle": "Warwick Research Archive Portal (University of Warwick)",
+    "bookTitle": "",
+    "journalAbbreviation": "Warwick Research Archive Portal (University of Warwick)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis is a labour history of Trinidad and Tobago, concentrating on the period from 1937 to 1990. The study attempts to show that there is not a unified or homogenous working class, and for this reason both traditional Marxist and industrial relations theories are rejected. Instead, the history of labour focuses on how the working classes have been divided by factors such as race, gender, class structure and politics. These divisions are used as an explanation for the absence of a popular socialist party in the country. It concludes that the economic recession of the 1980s has led to the worst crisis in the history of the labour movement, but at the same time, this has laid the framework for a new strategy of social movement unionism, which attempts to constructively engage with, rather than ignore, divisions within the working classes.&#13;\\n&#13;\\nThe main sources of data were documentary and archival material, and in particular, reports made by the British TUC and Colonial Office, industrial relations legislation, and trade union and political party documents and manifestoes. For the contemporary period, these sources of data were supplemented by fifteen interviews with leading figures in trade union and labour politics.&#13;\\n&#13;\\nThe work is based on a macro approach to the study of labour, and as such constitutes a new and original approach to the study of labour in Trinidad and Tobago. In addition, more contemporary trade union documents and interviews provided the researcher with new and original material.",
+    "doi": "",
+    "url": "http://wrap.warwick.ac.uk/74151/1/WRAP_THESIS_Kiely_1991.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ray Kiely"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The politics of labour and development in Trinidad and Tobago"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Warwick Research Archive Portal (University of Warwick), 1991."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BL/BLIHW292.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

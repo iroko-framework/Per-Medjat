@@ -1,0 +1,116 @@
+{
+  "key": "AKIC3HHM",
+  "uri": "https://medjat.irokosociety.org/id/library/AKIC3HHM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=AKIC3HHM",
+  "zotero": {
+    "group": "6479329",
+    "key": "AKIC3HHM",
+    "version": 1260,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AKIC3HHM",
+    "dateAdded": "2026-05-19T13:28:40Z",
+    "dateModified": "2026-05-19T13:28:40Z"
+  },
+  "display": {
+    "title": "Etre Abakua à La Havane: pouvoir en jeu, enjeux de pouvoir et mise en scène de soi",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Morel-Baré Diaz Géraldine Morel-Baré Diaz Géraldine"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.35662/unine-thesis-2272",
+    "url": "https://doi.org/10.35662/unine-thesis-2272",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Migration, Identity, and Health",
+      "Multiculturalism, Politics, Migration, Gender"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Morel-Baré Diaz Géraldine Morel-Baré Diaz Géraldine"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Etre Abakua à La Havane: pouvoir en jeu, enjeux de pouvoir et mise en scène de soi"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.35662/unine-thesis-2272"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Identity, and Health"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multiculturalism, Politics, Migration, Gender"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/AK/AKIC3HHM.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.35662/unine-thesis-2272"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

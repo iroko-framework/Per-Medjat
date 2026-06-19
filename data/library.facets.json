@@ -64,6 +64,14 @@
       "count": 628
     }
   },
+  "language": {
+    "__untagged__": {
+      "label": "Untagged",
+      "count": 906
+    },
+    "English": 2,
+    "Spanish": 1
+  },
   "frameworkClasses": {},
   "frameworkModules": {
     "Ewé": 2

@@ -7,7 +7,7 @@
   <title>Medjat Library · Per Medjat · Iroko Historical Society</title>
   <meta name="description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
   <link rel="canonical" href="https://medjat.irokosociety.org/library/">
-  <link rel="alternate" type="text/turtle" href="/library/data/library.ttl">
+  <link rel="alternate" type="text/turtle" href="/data/library.ttl">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Per Medjat - Iroko Historical Society">
   <meta property="og:title" content="Medjat Library · Per Medjat · Iroko Historical Society">
@@ -460,7 +460,7 @@ const ZOTERO_GROUP = '6479329';
 // child attachments and notes are automatically excluded.
 const API_BASE     = `https://api.zotero.org/groups/${ZOTERO_GROUP}/items/top`;
 const FEATURED_WORK_URL = 'featured/work.json';
-const DATA_BASE = new URL('data/', window.location.href);
+const DATA_BASE = new URL('../data/', window.location.href);
 const INDEX_URL = new URL('library.index.json', DATA_BASE);
 const FACETS_URL = new URL('library.facets.json', DATA_BASE);
 const PAGE_SIZE = 50;
@@ -1180,7 +1180,7 @@ function renderLinkedDataDetail(full) {
     ${linkedRow('Medjat URI', linkValue(full.uri, full.uri))}
     ${linkedRow('Zotero key', e(full.zotero?.key || full.key || ''))}
     ${linkedRow('Item TTL', linkValue(ld.ttl, 'Open Turtle record'))}
-    ${linkedRow('Library TTL', linkValue(ld.aggregateTtl || '/library/data/library.ttl', 'Open aggregate Turtle graph'))}
+    ${linkedRow('Library TTL', linkValue(ld.aggregateTtl || '/data/library.ttl', 'Open aggregate Turtle graph'))}
     ${linkedRow('Iroko mappings', aboutHtml)}
     ${linkedRow('Authorities', authorityHtml)}
     ${sameAsHtml ? linkedRow('Same as', sameAsHtml) : ''}

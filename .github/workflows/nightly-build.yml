@@ -24,7 +24,6 @@ jobs:
         with:
           repository: iroko-framework/medjat-tools
           path: medjat-tools
-          token: ${{ secrets.MEDJAT_TOOLS_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v5

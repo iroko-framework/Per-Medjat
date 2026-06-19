@@ -1,0 +1,97 @@
+{
+  "key": "LDJ2ZAFU",
+  "uri": "https://medjat.irokosociety.org/id/library/LDJ2ZAFU",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LDJ2ZAFU",
+  "zotero": {
+    "group": "6479329",
+    "key": "LDJ2ZAFU",
+    "version": 1500,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LDJ2ZAFU",
+    "dateAdded": "2026-05-19T14:16:58Z",
+    "dateModified": "2026-05-19T14:16:58Z"
+  },
+  "display": {
+    "title": "Ameliorating Empire: Slavery and Protection in the British Colonies, 1783-1865",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Caroline Quarrier Spence"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "publicationTitle": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation examines the era of slavery amelioration while situating the significance of this project to reform slavery within the longer history of the British Empire. While scholars of British slavery have long debated the causes of both the abolition of the slave trade (1807) and the abolition of slavery (1833), they have overlooked the ways that both abolitionists and politicians attempted to \"reform\" slavery - extending both baseline protections and a civilizing mission toward slaves - as a prelude toward broader emancipation. This attempted amelioration of slavery influenced both the timing and form that emancipation took.\\nBy focusing on the island where metropolitan officials first attempted to exert an ameliorative agenda, this dissertation uncovers the forgotten influence of Spanish laws and practices on British abolitionism. Trinidad was captured from Spain in 1797 during the heyday of abolitionist agitation, during an era when Spanish slave codes were gaining newfound attention among British reformers for their reputed benevolence. Despite local planter opposition, metropolitan officials elected to retain the island's Spanish legal structure following the Peace of Amiens. The Trinidad template for amelioration would be framed around the island's Spanish laws, notably the office of Protector of Slaves. This individual was imagined as an intermediary between master and slave, metropole and colony, epitomizing an attempt to infuse the slave regime with a modicum of imperial regulation.\\nThe ideas behind amelioration survived the abolition of slavery. After Caribbean slavery was abolished between 1833 and 1838, the reforms that had been attempted in Trinidad and elsewhere over the previous decades came to inform the regulation of labor relationships, particularly immigrant labor, following in its wake. The process of negotiating reform - of slavery, indentured labor, and relations with indigenous peoples - had taught Colonial Office officials to distrust the instincts and activities of white colonial subjects. The Protector model proliferated in contexts of continued distrust during an era when metropolitan officials remained reluctant to exert more direct authority than necessary. This model would break down only in the wake of repeated failure. Until then, metropolitan officials hoped that local watchdogs would \"protect\" nonwhite and laboring subjects from abuse.",
+    "doi": "",
+    "url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:13070043",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Caroline Quarrier Spence"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Ameliorating Empire: Slavery and Protection in the British Colonies, 1783-1865"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Access to Scholarship at Harvard (DASH) (Harvard University), 2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LD/LDJ2ZAFU.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

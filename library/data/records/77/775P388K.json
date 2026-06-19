@@ -1,0 +1,109 @@
+{
+  "key": "775P388K",
+  "uri": "https://medjat.irokosociety.org/id/library/775P388K",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=775P388K",
+  "zotero": {
+    "group": "6479329",
+    "key": "775P388K",
+    "version": 1956,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/775P388K",
+    "dateAdded": "2026-05-19T14:18:48Z",
+    "dateModified": "2026-05-19T14:18:48Z"
+  },
+  "display": {
+    "title": "Caminhos da emancipação: redes solidárias de libertação dos escravos na região central do Espírito Santo oitocentista",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Michel Dal Col Costa"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "publicationTitle": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "bookTitle": "",
+    "journalAbbreviation": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Throughout the nineteenth century, several instances of Brazilian power interacted with the slave communities through laws enacted now to control their lives, sometimes to establish parameters for the everyday freedom and civil. The cities, towns, farms, villages and forums were centers of social and political relations of slaves, freedmen and free, where such norms, interests, tensions, negotiations and agreements marked the everyday. Given this universe, the dissertation seeks, first, to describe the legal structures that has standardized and controlled the lives of slaves and others, focusing on the central region of the Imperial Espírito Santo. Various aspects of work and social, cultural and everyday life of slaves and other social groups have been addressed. Given the context and local legal universe, the second part of the work advances to national regulatory frameworks and analyzes a wide practical experience of slaves and their communities in a relationship with a legal and institutional framework that became known as the gradual process of liberation embraced by Imperial Government and carried out by the courts in the provinces. The quantitative and qualitative analysis of lawsuits and relative freedom allowed an overview of aspects of the socioeconomic profile of the slaves who had their names enrolled in government programs release. The analysis of these struggles led to the observation of the behaviors, motivations and ways of acting of captives, their families and other partners. They sought, in justice, the civil freedom, understood as another way of life improvement and social mobility and settlement of conflicts of interest experienced in master-slave relationship. Founded in Brazilian historiography latest, which seeks to understand such struggles for freedom, the dissertation describes the structures of control and official paths of emancipation and narrates stories of liberations Immersed in solidarity networks that were recorded on local laws, cases concerning freedom, police register, Espírito Santo's newspapers of the nineteenth century, among other sources.",
+    "doi": "",
+    "url": "http://repositorio.ufes.br/handle/10/3498",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Literature, Culture, and Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Michel Dal Col Costa"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Caminhos da emancipação: redes solidárias de libertação dos escravos na região central do Espírito Santo oitocentista"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/77/775P388K.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

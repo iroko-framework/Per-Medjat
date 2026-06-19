@@ -1,0 +1,110 @@
+{
+  "key": "WEPEAC3Z",
+  "uri": "https://medjat.irokosociety.org/id/library/WEPEAC3Z",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WEPEAC3Z",
+  "zotero": {
+    "group": "6479329",
+    "key": "WEPEAC3Z",
+    "version": 1947,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WEPEAC3Z",
+    "dateAdded": "2026-05-19T14:18:45Z",
+    "dateModified": "2026-05-19T14:18:45Z"
+  },
+  "display": {
+    "title": "Outpost of empire, endpost of blackness : African Americans, the Dominican Republic, and U.S. Foreign Policy, 1869-1965",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lauren Hammond"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation explores African-American interests in U.S.-Dominican relations from 1869 to 1965. From President Grant’s Reconstruction scheme to annex the Dominican Republic to the U.S. intervention in Santo Domingo at the height of the Civil Rights Movement, African Americans and Dominicans confronted U.S. racial ideologies that undergirded Jim Crow and U.S. empire. Yet in spite, or perhaps because of, American racism and paternalism, Dominican elites crafted an Indo-Hispanic identity, notwithstanding Dominicans’ significant African heritage. In examining how the idea of shared African ancestry motivated African-American interest in U.S.-Dominican affairs despite the Dominican state’s projection of a non-black dominicanidad (Dominicanness), the dissertation highlights the power and limits of diasporic politics and argues that diplomacy is a potent tool of diasporic practice. African Diaspora Studies has illuminated much about diasporic politics and practice between black- and/or African-identified groups, yet there has been little consideration of how diasporic politics function in regard to countries like the Dominican Republic, where the state has stifled such identities. As the dissertation examines a series of episodes – the 1869 U.S. attempt to annex the Dominican Republic, the 1937 slaughter of Haitians living in the Dominican Republic during the Trujillato, OCIAA efforts to cement U.S.-Dominican ties during World War II, and President Johnson’s 1965 decision to send troops to Santo Domingo – it illuminates how African-American elites sought to use their limited influence in the public sphere and foreign policy circles to shape U.S. engagement with the Dominican Republic. The study uses periodicals, organizational records, and the personal and public writings of prominent and lesser known African-American intellectuals, activists, and journalists. Contextualizing these sources in the socio-political milieus of American Jim Crow, Dominican hispanophilia, and U.S. empire uncovers the thoughts, discursive strategies, and actions of African Americans who navigated these complexities for what they believed was the benefit of the Dominican people. Additionally, the project explores changes and continuities in African-American readings of U.S. foreign policy and understandings of Dominican politics and identity. What emerges is an intellectual history that contributes to Latin American and African-American history, African Diaspora Studies, and the history of U.S. foreign relations.",
+    "doi": "10.15781/t2901zj8v",
+    "url": "https://doi.org/10.15781/t2901zj8v",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lauren Hammond"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Outpost of empire, endpost of blackness : African Americans, the Dominican Republic, and U.S. Foreign Policy, 1869-1965"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2014."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15781/t2901zj8v"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WE/WEPEAC3Z.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15781/t2901zj8v"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

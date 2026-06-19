@@ -1,0 +1,127 @@
+{
+  "key": "VDSL6DP6",
+  "uri": "https://medjat.irokosociety.org/id/library/VDSL6DP6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VDSL6DP6",
+  "zotero": {
+    "group": "6479329",
+    "key": "VDSL6DP6",
+    "version": 729,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VDSL6DP6",
+    "dateAdded": "2026-05-18T18:57:31Z",
+    "dateModified": "2026-05-18T18:57:31Z"
+  },
+  "display": {
+    "title": "El legado de Borgoña. Fiesta y ceremonia cortesana en la Europa de los Austrias (1454-1648)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Krista De Jonge"
+      },
+      {
+        "role": "series editor",
+        "name": "Bernardo José García García"
+      },
+      {
+        "role": "series editor",
+        "name": "Alicia Esteban Estríngana"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Medical Entomology and Zoology",
+    "publicationTitle": "Medical Entomology and Zoology",
+    "bookTitle": "",
+    "journalAbbreviation": "Medical Entomology and Zoology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "A lo largo del siglo XV se desarrolla en la corte de los duques de Borgona una etiqueta palaciega y una estructura de servicio y representacion que tendra gran influencia en muchas cortes europeas, gracias a los lazos de parentesco establecidos con la Casa de Austria. Este volumen analiza a distintos niveles la presencia y adaptacion de las tradiciones flamenco-borgononas en las fiestas y ceremonias extraordinarias, en los rituales de paso, en la cultura caballeresca, en el ambito de y la Orden del Toison de Oro, y en la conformacion de la propia memoria dinastica, considerando un marco cronologico que se inicia con el fabuloso banquete de los Votos del Faisan celebrado en Lille en 1454 y que se extiende hasta mediados del siglo XVII.",
+    "doi": "",
+    "url": "https://openalex.org/W62422107",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Influence and Diplomacy",
+      "Medieval and Early Modern Iberia",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Krista De Jonge"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El legado de Borgoña. Fiesta y ceremonia cortesana en la Europa de los Austrias (1454-1648)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Medical Entomology and Zoology, 2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Influence and Diplomacy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medieval and Early Modern Iberia"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Bernardo José García García"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Alicia Esteban Estríngana"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/VD/VDSL6DP6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

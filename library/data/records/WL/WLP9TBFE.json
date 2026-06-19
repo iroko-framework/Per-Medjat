@@ -1,0 +1,107 @@
+{
+  "key": "WLP9TBFE",
+  "uri": "https://medjat.irokosociety.org/id/library/WLP9TBFE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WLP9TBFE",
+  "zotero": {
+    "group": "6479329",
+    "key": "WLP9TBFE",
+    "version": 9,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WLP9TBFE",
+    "dateAdded": "2026-05-04T01:09:11Z",
+    "dateModified": "2026-05-04T12:27:47Z"
+  },
+  "display": {
+    "title": "The Allure of the Archives",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Farge, Arlette"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Yale University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "New Haven & London",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "1-152",
+    "abstract": "Arlette Farge’s Le Goût de l’archive is widely regarded as a historiographical classic. While combing through two-hundred-year-old judicial records from the Archives of the Bastille, historian Farge was struck by the extraordinarily intimate portrayal they provided of the lives of the poor in pre-Revolutionary France, especially women. She was seduced by the sensuality of old manuscripts and by the revelatory power of voices otherwise lost. In The Allure of the Archives, she conveys the exhilara",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-300-17673-5",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archival Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Farge, Arlette"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Allure of the Archives"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New Haven & London: Yale University Press, 2013."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "1-152 p."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-300-17673-5"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archival Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WL/WLP9TBFE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

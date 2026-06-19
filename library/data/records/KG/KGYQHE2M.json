@@ -1,0 +1,110 @@
+{
+  "key": "KGYQHE2M",
+  "uri": "https://medjat.irokosociety.org/id/library/KGYQHE2M",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KGYQHE2M",
+  "zotero": {
+    "group": "6479329",
+    "key": "KGYQHE2M",
+    "version": 2223,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KGYQHE2M",
+    "dateAdded": "2026-05-19T14:19:47Z",
+    "dateModified": "2026-05-19T14:19:47Z"
+  },
+  "display": {
+    "title": "The Impact of the Haitian Revolution on the Hispanic Caribbean, c. 1791-1830",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Carrie Gibson"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "Apollo (University of Cambridge)",
+    "publicationTitle": "Apollo (University of Cambridge)",
+    "bookTitle": "",
+    "journalAbbreviation": "Apollo (University of Cambridge)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis examines how the slave uprising in the French Caribbean sugar colony of Saint-Domingue (1791-1804) had dramatic and long-lasting repercussions on the neighbouring Spanish possessions of Cuba, Puerto Rico, and Santo Domingo. Events in Saint-Domingue took place during a period of profound change in the Spanish colonies. Reforms implemented during the reign of Carlos III (1759-1788) had begun to shift the imperial economic focus from the extraction of precious metals in Spain’s American colonies towards the potential of intensive agriculture, especially sugar. The process was accelerated by France’s loss of Saint-Domingue in 1804, which presented the Spanish islands under Carlos IV (1788-1808) with the opportunity to have a much larger share of the sugar trade – a chance which Cuba and Puerto Rico were quick to seize. At the same time, Napoleon Bonaparte’s overthrow of the Spanish monarchy, the war against France (1808-1814), and the writing of a Spanish constitution (1812) precipitated the unravelling of most of Spain’s empire, bar the Philippines and the sugar islands in the Caribbean. The thesis focuses on how relations between Madrid and the Caribbean islands were significantly altered in the wake of peninsular upheaval. At the same time, this work also considers the islands’ reconfigured relationship with new republic of Haiti, formed by the freed slaves of Saint-Domingue. Drawing from correspondence between the crown and the island authorities, as well as between colonial officials, this thesis also examines the culture of fear that permeated the Spanish possessions. Initially, this fear reflected anxieties about Saint-Domingue-style slave rebellions, but as mainland Spanish colonies became independent – and Santo Domingo fell under Haitian control in 1822 – this fear took on a new dimension and became a vital tie between Cuba, Puerto Rico, and Madrid, contributing to the continuation of colonial rule until the Spanish-American War of 1898.",
+    "doi": "10.17863/cam.36674",
+    "url": "https://doi.org/10.17863/cam.36674",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Historical Studies in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Carrie Gibson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Impact of the Haitian Revolution on the Hispanic Caribbean, c. 1791-1830"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Apollo (University of Cambridge), 2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.17863/cam.36674"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/KG/KGYQHE2M.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.17863/cam.36674"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

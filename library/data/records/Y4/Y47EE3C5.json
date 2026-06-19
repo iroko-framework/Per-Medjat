@@ -1,0 +1,121 @@
+{
+  "key": "Y47EE3C5",
+  "uri": "https://medjat.irokosociety.org/id/library/Y47EE3C5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Y47EE3C5",
+  "zotero": {
+    "group": "6479329",
+    "key": "Y47EE3C5",
+    "version": 96,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Y47EE3C5",
+    "dateAdded": "2026-05-08T21:44:40Z",
+    "dateModified": "2026-05-08T21:44:40Z"
+  },
+  "display": {
+    "title": "Las finanzas de las ciudades novohispanas ante el reformismo borbónico: una propuesta historiográfica",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Celaya Nández, Yovana"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Mélanges de la Casa de Velázquez",
+    "publicationTitle": "Mélanges de la Casa de Velázquez",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "46",
+    "issue": "1",
+    "pages": "",
+    "abstract": "Historiographical review of Bourbon fiscal reform in novohispano cities. Establishes the framework for understanding the institutional infrastructure Celaya Nández works within — relevant context for the colonial documentary apparatus.",
+    "doi": "",
+    "url": "https://journals.openedition.org/mcv/6812",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Bourbon reforms",
+      "New Spain",
+      "colonial cities",
+      "fiscal history",
+      "historiography"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Celaya Nández, Yovana"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Las finanzas de las ciudades novohispanas ante el reformismo borbónico: una propuesta historiográfica"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Mélanges de la Casa de Velázquez, 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bourbon reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "New Spain"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "colonial cities"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "fiscal history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "historiography"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/Y4/Y47EE3C5.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

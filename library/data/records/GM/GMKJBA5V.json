@@ -1,0 +1,130 @@
+{
+  "key": "GMKJBA5V",
+  "uri": "https://medjat.irokosociety.org/id/library/GMKJBA5V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GMKJBA5V",
+  "zotero": {
+    "group": "6479329",
+    "key": "GMKJBA5V",
+    "version": 717,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GMKJBA5V",
+    "dateAdded": "2026-05-18T18:57:30Z",
+    "dateModified": "2026-05-18T18:57:30Z"
+  },
+  "display": {
+    "title": "Estudio tecnológico de las estatuillas antropomorfas y de los tupus miniatura del hallazgo de Paucartambo (Cusco, Perú)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Julio César Sierra Palomino"
+      },
+      {
+        "role": "editor",
+        "name": "María Filomena Guerra"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Bulletin de l’Institut français d’études andines",
+    "publicationTitle": "Bulletin de l’Institut français d’études andines",
+    "bookTitle": "",
+    "journalAbbreviation": "Bulletin de l’Institut français d’études andines",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "46 (1)",
+    "issue": "",
+    "pages": "151-170",
+    "abstract": "En el trabajo se describen los estudios realizados por microscopía óptica y fluorescencia de rayos X (FRX) portátil a seis estatuillas y siete tupus miniatura, objetos inkas de sacrificios rituales, ofrendas en aleación de plata y en aleación de oro, provenientes del sitio arqueológico de Chimur, en Chayllabamba, provincia de Paucartambo; es parte de la colección del Museo Inka del Cusco (Perú). Este conjunto incluye la única estatuilla antropomorfa bicolor de proveniencia conocida (elaborada en plata y cobre) y una ofrenda intacta presentada en una caja de madera, conteniendo una estatuilla femenina en plata, envuelta en textiles prendidos con dos tupus de plata. Los resultados registrados sobre la diversidad tipológica de las estatuillas, la diversidad de las tecnologías y de las aleaciones empleadas por los orfebres en su elaboración son discutidos, así como la homogeneidad observada en la elaboración de los tupus.",
+    "doi": "10.4000/bifea.8387",
+    "url": "https://doi.org/10.4000/bifea.8387",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and ancient environmental studies",
+      "Conservation Techniques and Studies",
+      "Cultural Heritage Materials Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Julio César Sierra Palomino"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Estudio tecnológico de las estatuillas antropomorfas y de los tupus miniatura del hallazgo de Paucartambo (Cusco, Perú)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Bulletin de l’Institut français d’études andines, 2017."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "151-170 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/bifea.8387"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and ancient environmental studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Conservation Techniques and Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural Heritage Materials Analysis"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "María Filomena Guerra"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GM/GMKJBA5V.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/bifea.8387"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

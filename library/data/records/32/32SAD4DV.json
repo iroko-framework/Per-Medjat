@@ -1,0 +1,116 @@
+{
+  "key": "32SAD4DV",
+  "uri": "https://medjat.irokosociety.org/id/library/32SAD4DV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=32SAD4DV",
+  "zotero": {
+    "group": "6479329",
+    "key": "32SAD4DV",
+    "version": 1740,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/32SAD4DV",
+    "dateAdded": "2026-05-19T14:17:47Z",
+    "dateModified": "2026-05-19T14:17:47Z"
+  },
+  "display": {
+    "title": "Por uma perspectiva crítica de direitos humanos: o caso das cotas para a população negra no acesso ao ensino superior público",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Camila Magalhães Carvalho"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this paper, we will perform a reflexive exercise about two questions interrelated that are in the centre of the public debate on Brazilian society: the influence of human rights on social dynamic and the affirmative actions on superior education. The exercise consists in building a critic perspective of analyze that approximates both legal experiences, human rights and affirmative actions, to try comprehending the possibilities of social actions that can transform a reality structured by relations based on the exclusion of the black population, such as in Brazil. Regarding human rights, we can observe, on one hand, the contemporary sense of discomfort due the ineffectiveness of its constitutional norms, manifested on all kinds of social inequalities, and on the other hand, they still remain as an instrument in the fight against social injustices. This tension suggests a continuous needing for reflection about its fundamentals and methodology. From the theoretical elements taken from the Frankfurt School critical theory, we suggest a necessary extension of the formalistic and positivist conception of law in view of the dialectic between the legal theory of human rights and corresponding social praxis, of which conceptual develop new ways. From this point of view, we comprehend the social demand for affirmative actions on the education field in Brazil as a requirement for recognition of individual and collective identities of black people or african-descendants and, at the same time, for protecting their human dignity. For this, we will develop a critical analysis of the construction of relations between whites and blacks in Brazil, strongly influenced by discriminatory attitudes and practices, in public and private spheres, against the black population, which remains excluded from the effective enjoyment of fundamental rights, seeking to understand how racism affects inequality between whites and blacks in Brazil. It is noteworthy, in this case, the very memory of the slave period, the ideal of whitening of the Brazilian elite end of the nineteenth century, scientific racism, miscegenation and the myth of racial democracy. Through an introductory dialogue with the critical theory of Axel Honneth about the struggle for recognition, it is suggested that the process of formation of Brazilian society, within which these hierarchical racial relations manifest themselves, affected in a negative way the construction of individual identities and group of blacks, violating the dignity of these individuals, given the potential of social experiences of disrespect, such as exclusion, disenfranchisement and social devaluation, suffered by black people, reaching the subjects emotionally, in its forms of selfactualization. Under Honneth\"s perspective, it is suggested that the policy of quotas for blacks in access to public higher education, by redistributing the social right to education, based on the appreciation of human differences, is able to produce new conditions of intersubjective recognition, leading, in some degree, to the transformation of social inequalities between whites and blacks in Brazilian society.",
+    "doi": "10.11606/d.2.2011.tde-26032012-135021",
+    "url": "https://doi.org/10.11606/d.2.2011.tde-26032012-135021",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Brazilian Legal Issues",
+      "Race, Identity, and Education in Brazil",
+      "Social and Political Issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Camila Magalhães Carvalho"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Por uma perspectiva crítica de direitos humanos: o caso das cotas para a população negra no acesso ao ensino superior público"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/d.2.2011.tde-26032012-135021"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Brazilian Legal Issues"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social and Political Issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/32/32SAD4DV.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/d.2.2011.tde-26032012-135021"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

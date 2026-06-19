@@ -1,0 +1,109 @@
+{
+  "key": "LDADYYKY",
+  "uri": "https://medjat.irokosociety.org/id/library/LDADYYKY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LDADYYKY",
+  "zotero": {
+    "group": "6479329",
+    "key": "LDADYYKY",
+    "version": 1239,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LDADYYKY",
+    "dateAdded": "2026-05-19T13:28:36Z",
+    "dateModified": "2026-05-19T13:28:36Z"
+  },
+  "display": {
+    "title": ". Havana Is the Key",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "University Press of Mississippi eBooks",
+    "journalAbbreviation": "University Press of Mississippi eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "153-174",
+    "abstract": "A profound relationship exists between Abakuá and Cuban popular music. This chapter lays out evidence for Calabarí presence in the formation of rumba music in the nineteenth century and the use of clave sticks in the rumba and son genres. It also describes how Abakuá composers have consistently recorded their social and ritual history using Abakuá language as well as rhythms and distinctive sounds in commercial recordings.",
+    "doi": "10.14325/mississippi/9781934110836.003.0008",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0008",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": ". Havana Is the Key"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "153-174 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14325/mississippi/9781934110836.003.0008"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LD/LDADYYKY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14325/mississippi/9781934110836.003.0008"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

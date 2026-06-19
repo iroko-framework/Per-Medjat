@@ -1,0 +1,130 @@
+{
+  "key": "S68GSD95",
+  "uri": "https://medjat.irokosociety.org/id/library/S68GSD95",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=S68GSD95",
+  "zotero": {
+    "group": "6479329",
+    "key": "S68GSD95",
+    "version": 813,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/S68GSD95",
+    "dateAdded": "2026-05-18T18:57:35Z",
+    "dateModified": "2026-05-18T18:57:35Z"
+  },
+  "display": {
+    "title": "Análisis arqueobotánico de una preparación culinaria recuperada en el poblado prehispánico tardío El Molino (Depto. de Belén, Catamarca)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Juana Fuertes"
+      },
+      {
+        "role": "editor",
+        "name": "María Laura López"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Revista del Museo de Antropología",
+    "publicationTitle": "Revista del Museo de Antropología",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista del Museo de Antropología",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "341-354",
+    "abstract": "Se presentan los resultados obtenidos del estudio de una masa aglutinada constituida por semillas y estructuras leñosas blandas carbonizadas y sin carbonizar, recuperada próxima a un objeto de oro en el recinto 34 del sitio El Molino (Valle de Hualfín), en el que se localizó, además, un entierro humano. El análisis de una muestra de 104 semillas condujo a determinar que el mayor porcentaje pertenece a Chenopodium carnosolum, maleza agrícola conocida como ajara que se asocia al cultivo de las quinoas; un solo ejemplar se identificó como posible Ch. hircinum, mientras que otro no pudo identificarse taxonómicamente. Asimismo, casi la totalidad de las semillas estudiadas estaban inmaduras al momento de su cosecha y tienen evidencia de haber sufrido un procesamiento de desaponificación e hidratación. Teniendo en cuenta el contexto de hallazgo, se considera que esta masa corresponde a una preparación culinaria, la cual podría haber estado involucrada en ceremonias destinadas a los antepasados y haber sido parte de las ritualidades vinculadas a los cierres de ciclo. Asimismo, el posible consumo de ajara durante un evento ritual manifiesta una importante significación, y, por lo tanto, podría considerarse como más que una maleza.",
+    "doi": "10.31048/1852.4826.v17.n2.44258",
+    "url": "https://doi.org/10.31048/1852.4826.v17.n2.44258",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archaeology and ancient environmental studies",
+      "Environmental and Cultural Studies in Latin America and Beyond",
+      "Pacific and Southeast Asian Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Juana Fuertes"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Análisis arqueobotánico de una preparación culinaria recuperada en el poblado prehispánico tardío El Molino (Depto. de Belén, Catamarca)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista del Museo de Antropología, 2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "341-354 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31048/1852.4826.v17.n2.44258"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and ancient environmental studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Environmental and Cultural Studies in Latin America and Beyond"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Pacific and Southeast Asian Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "María Laura López"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/S6/S68GSD95.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31048/1852.4826.v17.n2.44258"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

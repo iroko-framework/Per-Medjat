@@ -1,0 +1,191 @@
+{
+  "key": "SX2846CL",
+  "uri": "https://medjat.irokosociety.org/id/library/SX2846CL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=SX2846CL",
+  "zotero": {
+    "group": "6479329",
+    "key": "SX2846CL",
+    "version": 3405,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/SX2846CL",
+    "dateAdded": "2026-06-05T14:28:10Z",
+    "dateModified": "2026-06-05T14:28:10Z"
+  },
+  "display": {
+    "title": "Black Atlantic Crossings: The Lives and Anti-Racist Tactics of Booker T. Washington and Manuel R. Querino",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gledhill, Sabrina"
+      },
+      {
+        "role": "series editor",
+        "name": "Bacelar, Jeferson Afonso"
+      },
+      {
+        "role": "series editor",
+        "name": "Gomes, Flavio Dos Santos"
+      }
+    ],
+    "year": "2025",
+    "date": "2025-05-01",
+    "publisher": "Editora Funmilayo Publishing",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Crediton",
+    "edition": "",
+    "series": "Unsung Heroes in Black History",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "472",
+    "abstract": "Black Atlantic Crossings examines the lives and anti-racist tactics of Booker T. Washington and Manuel R. Querino, placing the two figures in a transatlantic Black Atlantic frame rather than treating them only within U.S. and Brazilian national histories. The book considers their strategies for combating racism through education, politics, and cultural production, and argues for their continuing importance in histories of post-slavery racial thought and activism.",
+    "doi": "",
+    "url": "https://www.waterstones.com/book/black-atlantic-crossings/sabrina-gledhill/9781068606458",
+    "isbn": "978-1-0686064-5-8",
+    "issn": "",
+    "university": "",
+    "language": "English"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Black Atlantic",
+      "Black intellectual history",
+      "Booker T. Washington",
+      "Brazil",
+      "Manuel Querino",
+      "Manuel R. Querino",
+      "United States",
+      "anti-racism",
+      "post-slavery",
+      "race relations"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gledhill, Sabrina"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Black Atlantic Crossings: The Lives and Anti-Racist Tactics of Booker T. Washington and Manuel R. Querino"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Crediton: Editora Funmilayo Publishing, 2025."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "472 p."
+    },
+    {
+      "field": "490",
+      "label": "Series",
+      "value": "Unsung Heroes in Black History"
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-1-0686064-5-8"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black intellectual history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Booker T. Washington"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Manuel Querino"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Manuel R. Querino"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "anti-racism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "post-slavery"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "race relations"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Bacelar, Jeferson Afonso"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Gomes, Flavio Dos Santos"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/SX/SX2846CL.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "key": "MJDSQJEH",
+  "uri": "https://medjat.irokosociety.org/id/library/MJDSQJEH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MJDSQJEH",
+  "zotero": {
+    "group": "6479329",
+    "key": "MJDSQJEH",
+    "version": 898,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MJDSQJEH",
+    "dateAdded": "2026-05-18T23:51:43Z",
+    "dateModified": "2026-05-18T23:51:43Z"
+  },
+  "display": {
+    "title": "Os bruxos da administração: como entender a babel dos gurus empresariais",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cecília Whitaker Bergamini"
+      }
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "Revista de Administração de Empresas",
+    "publicationTitle": "Revista de Administração de Empresas",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista de Administração de Empresas",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "38",
+    "issue": "3",
+    "pages": "77-79",
+    "abstract": "",
+    "doi": "10.1590/s0034-75901998000300009",
+    "url": "https://doi.org/10.1590/s0034-75901998000300009",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Business and Management Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cecília Whitaker Bergamini"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Os bruxos da administração: como entender a babel dos gurus empresariais"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista de Administração de Empresas, 1998."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "77-79 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/s0034-75901998000300009"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Business and Management Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/MJ/MJDSQJEH.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/s0034-75901998000300009"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

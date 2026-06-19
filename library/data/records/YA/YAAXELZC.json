@@ -1,0 +1,109 @@
+{
+  "key": "YAAXELZC",
+  "uri": "https://medjat.irokosociety.org/id/library/YAAXELZC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YAAXELZC",
+  "zotero": {
+    "group": "6479329",
+    "key": "YAAXELZC",
+    "version": 1344,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YAAXELZC",
+    "dateAdded": "2026-05-19T13:28:55Z",
+    "dateModified": "2026-05-19T13:28:55Z"
+  },
+  "display": {
+    "title": "African Element in Cuban Culture",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "A. V. Sadikov"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Cuadernos Iberoamericanos",
+    "publicationTitle": "Cuadernos Iberoamericanos",
+    "bookTitle": "",
+    "journalAbbreviation": "Cuadernos Iberoamericanos",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "11",
+    "issue": "4",
+    "pages": "124-143",
+    "abstract": "Cuba is one of those countries of the Western Hemisphere whose culture has been, throughout all of their history, and still is at present, under the influence of a potent factor: that of the African origin of a large portion of their population. This factor has been most active in all main domains of the spiritual life of Cuban people: in religion, in the intense functioning of the Abakuá cult and other mystical cults of African origin; in music, in dozens of genres of dance and song among which the Cuban son is most conspicuous, and, particularly, in the creative works of A. García Caturla, A. Roldán and other composers that transplanted African rhythms and melodies into the realm of classical music. And, finally, the African element is vividly reflected in Cuban prose and poetry, in the works of A. Carpentier, N. Guillén and their followers.",
+    "doi": "10.46272/2409-3416-2023-11-4-124-143",
+    "url": "https://doi.org/10.46272/2409-3416-2023-11-4-124-143",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "A. V. Sadikov"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "African Element in Cuban Culture"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cuadernos Iberoamericanos, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "124-143 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.46272/2409-3416-2023-11-4-124-143"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YA/YAAXELZC.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.46272/2409-3416-2023-11-4-124-143"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

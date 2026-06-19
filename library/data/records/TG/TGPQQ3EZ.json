@@ -1,0 +1,156 @@
+{
+  "key": "TGPQQ3EZ",
+  "uri": "https://medjat.irokosociety.org/id/library/TGPQQ3EZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TGPQQ3EZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "TGPQQ3EZ",
+    "version": 159,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TGPQQ3EZ",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Atlantic africa and the spanish caribbean, 1570–1640",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Wheat, David"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "University of North Carolina Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Chapel Hill",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This work resituates the Spanish Caribbean as an extension of the Luso-African Atlantic world from the late sixteenth to the mid-seventeenth century, when the union of the Spanish and Portuguese crowns facilitated a surge in the transatlantic slave trade.",
+    "doi": "",
+    "url": "",
+    "isbn": "979-8-89084-903-8",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Atlantic Coast (Africa) -- History -- 16th century",
+      "Atlantic Coast (Africa) -- History -- 17th century",
+      "Black people -- Caribbean Area -- 16th century",
+      "Black people -- Caribbean Area -- 17th century",
+      "Slave trade -- Africa",
+      "Slavery -- Caribbean Area -- 16th century",
+      "Slavery -- Caribbean Area -- 17th century",
+      "Spain -- Colonies -- Caribbean Area -- History --",
+      "West -- History -- 16th century",
+      "West -- History -- 17th century"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Wheat, David"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Atlantic africa and the spanish caribbean, 1570–1640"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Chapel Hill: University of North Carolina Press, 2016."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "979-8-89084-903-8"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Atlantic Coast (Africa) -- History -- 16th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Atlantic Coast (Africa) -- History -- 17th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Caribbean Area -- 16th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Caribbean Area -- 17th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slave trade -- Africa"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Caribbean Area -- 16th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery -- Caribbean Area -- 17th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spain -- Colonies -- Caribbean Area -- History --"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West -- History -- 16th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West -- History -- 17th century"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/TG/TGPQQ3EZ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

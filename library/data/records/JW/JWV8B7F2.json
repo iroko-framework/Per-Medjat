@@ -1,0 +1,103 @@
+{
+  "key": "JWV8B7F2",
+  "uri": "https://medjat.irokosociety.org/id/library/JWV8B7F2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JWV8B7F2",
+  "zotero": {
+    "group": "6479329",
+    "key": "JWV8B7F2",
+    "version": 2367,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JWV8B7F2",
+    "dateAdded": "2026-05-19T14:20:11Z",
+    "dateModified": "2026-05-19T14:20:11Z"
+  },
+  "display": {
+    "title": "The convict era in Western Australia: Its economic, social and political consequences",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "William Edgar"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Murdoch Research Repository (Murdoch University)",
+    "publicationTitle": "Murdoch Research Repository (Murdoch University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Murdoch Research Repository (Murdoch University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis assesses the economic, social and political consequences of the transportation of convicts to Western Australia from 1850 onward. The work examines firstly the initial trouble-free ‘bedding in’ process during the first five years. Matters then changed with the passing of the ‘Penal Servitude Act’ at Westminster in 1853. From mid 1854 onward a more serious criminal ‘type’ was loaded aboard the transports to Western Australia. &#13;\\n&#13;\\nWith the potential for social disaster, and to tighten the fiscal management of the colony, the authoritarian Dr John Hampton was appointed Governor in 1862. Despite popular perceptions, Hampton proved to be a capable administrator. Although he was blamed for many of the perceived ills of the convict system he transformed the fortunes of the colony, economically and politically. &#13;\\n&#13;\\nWhile much has been handed down about the severity and iniquities of the convict system, much has been falsely mythologized. The Western Australian period of convict transportation from Great Britain was the end phase in a penal methodology that had started with the first transportation act in 1597. It metamorphosed from one of extreme cruelty in its earliest phases in the 17th century to one with rehabilitation rather than retribution as its central tenet during its Western Australian phase. &#13;\\n&#13;\\nThis thesis argues that the new environment played a considerable role in modification of attitudes and behaviour among the convicts, even among the formerly most intransigent. Though a penal colony, Western Australia remained, overall, a law-abiding society during the period. The relatively small free population against the relatively large residue of former convicts, however, was perceived as a limiting imbalance by conservative, ‘responsible’ citizenry and served to delay the granting of self-governing status until 1889. Yet overall the convict experience in Western Australia proved to be, economically and socially, a positive and progressive phase for both the free and bond elements within that struggling embryo society.",
+    "doi": "",
+    "url": "http://researchrepository.murdoch.edu.au/id/eprint/21436/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Australian History and Society",
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "William Edgar"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The convict era in Western Australia: Its economic, social and political consequences"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Murdoch Research Repository (Murdoch University), 2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Australian History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/JW/JWV8B7F2.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

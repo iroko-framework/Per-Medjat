@@ -1,0 +1,97 @@
+{
+  "key": "YCXQQ3MX",
+  "uri": "https://medjat.irokosociety.org/id/library/YCXQQ3MX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YCXQQ3MX",
+  "zotero": {
+    "group": "6479329",
+    "key": "YCXQQ3MX",
+    "version": 1557,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YCXQQ3MX",
+    "dateAdded": "2026-05-19T14:17:07Z",
+    "dateModified": "2026-05-19T14:17:07Z"
+  },
+  "display": {
+    "title": "United States Anti-Slave Trade Laws in Southeast Africa. The Implementation of American Law in the Final Years of the Transatlantic Slave Trade",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Raphael Albisser"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W3021579390",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Raphael Albisser"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "United States Anti-Slave Trade Laws in Southeast Africa. The Implementation of American Law in the Final Years of the Transatlantic Slave Trade"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YC/YCXQQ3MX.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "key": "KSW5LHZ6",
+  "uri": "https://medjat.irokosociety.org/id/library/KSW5LHZ6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KSW5LHZ6",
+  "zotero": {
+    "group": "6479329",
+    "key": "KSW5LHZ6",
+    "version": 889,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KSW5LHZ6",
+    "dateAdded": "2026-05-18T23:51:41Z",
+    "dateModified": "2026-05-18T23:51:41Z"
+  },
+  "display": {
+    "title": "Sob a face de um bruxo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Luiz Costa Lima"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "REEL - Revista Eletrônica de Estudos Literários",
+    "publicationTitle": "REEL - Revista Eletrônica de Estudos Literários",
+    "bookTitle": "",
+    "journalAbbreviation": "REEL - Revista Eletrônica de Estudos Literários",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "05",
+    "pages": "",
+    "abstract": "O ensaio abaixo foi originalmente publicado em Dispersa demanda (Ensaios sobre literature e teoria), em 1981. Ha muito esgotado, enquanto esteve nas livrarias nao teve grande procura, nem gozou de particular estima entre os machadianos. Como autor, nao me cabe julgar se era justo o seu ostracismo. Dai minha positiva surpresa com o oferecimento dos professores Paulo Roberto Sodre e Sergio da Fonseca Amaral em republica-lo na revista eltronica que dirigem. Apresento-o sem grandes mudancas alem da correcao de gralhas e/ou da procura de explicacoes menos imperfeitas. (A mudanca mais saliente aparece nas Notas: na edicao original, eram tao caoticas que, sem encontrar a que parte do texto corresponderiam, tive de eliminar algumas delas). E certo que gostaria de modifica-lo mais intensamente. Mas, entre o muito que tenho pretendido fazer, provavelmente sera muito pouco o que de fato deixarei feito. Nos 28 anos que transcorreram desde sua publicacao, quase nao escrevi sobre Machado. Apenas em livro recente, O Controle do imaginario e a afirmacao do romance (Companhia das Letras, Sao Paulo 2009), revi o que tinha aqui dito sobre o Tristram Shandy, dedicando-lhe um capitulo que suponho ir alem dos preliminares que eram entao rascunhados. Nesta ocasiao, contudo, nao fazia sentido observar melhor sua presenca em Machado.",
+    "doi": "",
+    "url": "https://openalex.org/W2262132994",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural, Media, and Literary Studies",
+      "Linguistics and Education Research",
+      "Literature, Culture, and Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Luiz Costa Lima"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sob a face de um bruxo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "REEL - Revista Eletrônica de Estudos Literários, 2009."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural, Media, and Literary Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Linguistics and Education Research"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/KS/KSW5LHZ6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

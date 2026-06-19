@@ -1,0 +1,97 @@
+{
+  "key": "U7G3CMY7",
+  "uri": "https://medjat.irokosociety.org/id/library/U7G3CMY7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=U7G3CMY7",
+  "zotero": {
+    "group": "6479329",
+    "key": "U7G3CMY7",
+    "version": 1164,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/U7G3CMY7",
+    "dateAdded": "2026-05-19T13:28:15Z",
+    "dateModified": "2026-05-19T13:28:15Z"
+  },
+  "display": {
+    "title": "Etre abakuá à La Havane",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Géraldine Morel"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W899263663",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Géraldine Morel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Etre abakuá à La Havane"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/U7/U7G3CMY7.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

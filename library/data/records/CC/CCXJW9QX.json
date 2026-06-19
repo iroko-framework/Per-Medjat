@@ -1,0 +1,161 @@
+{
+  "key": "CCXJW9QX",
+  "uri": "https://medjat.irokosociety.org/id/library/CCXJW9QX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CCXJW9QX",
+  "zotero": {
+    "group": "6479329",
+    "key": "CCXJW9QX",
+    "version": 100,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CCXJW9QX",
+    "dateAdded": "2026-05-08T21:44:40Z",
+    "dateModified": "2026-05-08T21:44:40Z"
+  },
+  "display": {
+    "title": "Las reformas borbónicas y la invención de Veracruz",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ducey, Michael"
+      },
+      {
+        "role": "author",
+        "name": "Ortiz Escamilla, Juan"
+      },
+      {
+        "role": "author",
+        "name": "Méndez Maín, Silvia María"
+      },
+      {
+        "role": "editor",
+        "name": "Aguilar Sánchez, Martín Gabriel"
+      },
+      {
+        "role": "editor",
+        "name": "Ortiz Escamilla, Juan"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Universidad Veracruzana",
+    "publicationTitle": "",
+    "bookTitle": "Historia general de Veracruz",
+    "journalAbbreviation": "",
+    "place": "Xalapa, Veracruz, México",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "I",
+    "issue": "",
+    "pages": "167-194",
+    "abstract": "Chapter on the Bourbon reforms and the institutional construction of Veracruz. Provides the administrative and political framework within which the slave paper corridor operated. Directly cited in the Ortiz Escamilla outreach letter.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-607-8923-53-3",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Bourbon reforms",
+      "New Spain",
+      "Veracruz",
+      "colonial history"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ducey, Michael"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Las reformas borbónicas y la invención de Veracruz"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Xalapa, Veracruz, México: Universidad Veracruzana, 2023."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "167-194 p."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-607-8923-53-3"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bourbon reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "New Spain"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Veracruz"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "colonial history"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Ortiz Escamilla, Juan"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Méndez Maín, Silvia María"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Aguilar Sánchez, Martín Gabriel"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Ortiz Escamilla, Juan"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/CC/CCXJW9QX.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

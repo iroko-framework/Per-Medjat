@@ -1,0 +1,114 @@
+{
+  "key": "2RN8NP63",
+  "uri": "https://medjat.irokosociety.org/id/library/2RN8NP63",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2RN8NP63",
+  "zotero": {
+    "group": "6479329",
+    "key": "2RN8NP63",
+    "version": 1080,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2RN8NP63",
+    "dateAdded": "2026-05-19T13:27:45Z",
+    "dateModified": "2026-05-19T13:27:45Z"
+  },
+  "display": {
+    "title": "Afrocuban religions in Sara Gomez's one way or another and Gloria Ronaldo's Oggun",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Haseenah Ebrahim"
+      }
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+    "publicationTitle": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+    "bookTitle": "",
+    "journalAbbreviation": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "22",
+    "issue": "4",
+    "pages": "239",
+    "abstract": "Abstract This paper explores depiction of Afrocuban religions in two films -- Sara Gomez's One Way or Another (1974/1977) and Gloria Rolando's Oggun: Forever Present (1991). A (Western)feminist's analysis of Gomez's One Way or Another characterizes Abakua and Santeria as voodoo -- not only collapsing three different Afro-Caribbean religious traditions, but also reflecting Marxist biases that exclude (ironically) a recognition that Gomez's depictions of Abakua and Santeria reflect a gendered perspective. Rolando's Oggun reflects a recent trend in Cuban cinema to celebrate Afrocuban religious practices. Oggun's stunning visuals, compelling song and dance sequences, and fascinating mythology provoke a desire to understand role and impact of this remarkable religious tradition in Cuban society. Introduction For us, film is most important of arts.(1)-Lenin The history of Cuban cinema is of particular interest to anyone concerned with examining cinema from a global perspective, constituting as it does, a trajectory intended -- from very beginning of Revolutionary period -- to undertake a decolonization of screens.(2) How does this decolonization of screen fare, however, when one considers intersection of race and religion in Cuban cinema? This paper will explore depiction of Afrocuban religions in two Cuban films -- Sara Gomez's De cierta manera/One Way or Another (1974/1977) and Gloria Rolando's Oggun: Forever Present (1991). The two filmmakers I discuss in this paper, Sara Gomez and Gloria Rolando, represent what, perhaps, could be considered two generations of post-Revolution Afrocuban filmmaking in Cuba, in sense that as Afrocuban women filmmakers, they negotiate(d) substantially different political and social milieus in regard to acceptability of acknowledgment of African ancestry in post-Revolution Cuba.(3) The late Sara Gomez joined ICAIC, Cuban Film Institute, during early years of its existence -- one of only two black filmmakers, and only woman director there for a considerable period. Gloria Rolando is a contemporary filmmaker determined to celebrate her African heritage. Rolando has traveled to United States on several occasions where her documentary film, Oggun (1991), has appeared at several festival screenings. Cuba is largest of Caribbean islands and is located only 90 miles (150 km) south of Miami, Florida. Cuba is an archipelago consisting of two main islands and about 1600 tiny islets in Caribbean Sea. As a socialist state, Cuba has long been a thorn in flesh of its powerful neighbor and ideological antagonist, United States. The US imposed a trade and financial embargo against Cuba in 1962, after Cuban government expropriated American economic interests in Cuba. The 1990s have been a particularly challenging period for Cuba, a period generally referred to as the special period, a term Castro has used to refer to current economic and political crisis in Cuba resulting from disintegration of ideological and trade support of former Soviet Union, intensification of US trade embargoes and internal political and economic instability. The widespread changes within Cuban society, many of which are a response to external developments in geopolitical alliances, have prompted a reevaluation of entire Revolutionary paradigm among Cubans. Nevertheless, there appears to be a consensus that country cannot regress to its pre-1959 past. It was in March 1959, less than three months after it came to power, that new Revolutionary government established Instituto Cubano de Arte e Industria Cinematograficos (ICAIC), often referred to (in English) as Cuban Film Institute. The Revolutionary government's conviction that film could play a critical role in social transformation may have been influenced by friendship between Alfredo Guevara, ICAIC's first director, and Fidel Castro. …",
+    "doi": "",
+    "url": "http://hdl.handle.net/10539/9780",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Haseenah Ebrahim"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Afrocuban religions in Sara Gomez's one way or another and Gloria Ronaldo's Oggun"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg), 1998."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "239 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2R/2RN8NP63.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "key": "BDI463SS",
+  "uri": "https://medjat.irokosociety.org/id/library/BDI463SS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BDI463SS",
+  "zotero": {
+    "group": "6479329",
+    "key": "BDI463SS",
+    "version": 1878,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BDI463SS",
+    "dateAdded": "2026-05-19T14:18:26Z",
+    "dateModified": "2026-05-19T14:18:26Z"
+  },
+  "display": {
+    "title": "Mellem afrikaner og kreol : etnisk identitet og social navigation i Dansk Vestindien 1730–1770",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Louise Sebro"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Lund University Publications (Lund University)",
+    "publicationTitle": "Lund University Publications (Lund University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Lund University Publications (Lund University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The central question of the dissertation is whether and how African Caribbeans in the Danish West Indies identiﬁed themselves with African ethnic groups. The dissertation discusses if and how such identiﬁcations played a role in the social life of African Caribbeans and inﬂuenced how new social networks developed in the colony. The dissertation is shaped as a micro study focusing on members of the Moravian congregation. It is divided in five chapters. The ﬁrst chapter argues that African ethnic designations reﬂect African Caribbeans' own ideas of belonging to ethnically deﬁned groups referring to Africa. At the same time, however, it is shown how the meaning of such designations were influenced and creolized by the trans-Atlantic journey and the realities of life in the slave society. The second chapter investigates the connections between the identiﬁcation by African Caribbeans with African ethnic terms and cultural traits, and the formation of social networks in the Danish West Indies through a discussion of four themes: African languages, constructed kinship relations, African religious life, and the St. John slave revolt of 1733-34. The main contribution of the chapter is to suggest new interpretations of African Caribbean cultural life and the dynamics of social networking as a consequence of the conclusions of chapter one. The third chapter situates the conclusions about the importance of African ethnic identities and network relations in a wider context of group formation in the Danish West Indian society. The chapter focuses on the plantation and the Moravian congregation as important social networks. By relating these to the existence of networks based on ethnic belonging it is suggested that individuals' and groups' participation in different networks at the same time led to an interweaving of the different networks, and subsequently to their inﬂuencing each other. Thus, it is concluded that African ethnic identity formation among African Caribbeans was a ﬂuid, inclusive process in which ethnic designation and networks were mobilized together with Creole networks and institutions. The fourth chapter focuses on how enslaved Africans in the Danish West Indies managed to sustain a spiritual and metaphysical bond to lost kin and a lost homeland. By analyzing ideas about death and spirituality and their practical use and importance in the Caribbean context it is concluded that African belief systems and practices could be used to both sustain ties backwards and also as a way to handle creolization in its early phases. The dissertation ends with a short chapter based on an analysis of the way one woman, Madlena of Popo, named herself differently in different contexts in her Danish West Indian life. Her story symbolizes the conclusion of the dissertation: that most African Caribbeans were neither African nor Creole, but somewhere in between.",
+    "doi": "",
+    "url": "https://lup.lub.lu.se/record/1527777",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Louise Sebro"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mellem afrikaner og kreol : etnisk identitet og social navigation i Dansk Vestindien 1730–1770"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Lund University Publications (Lund University), 2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BD/BDI463SS.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

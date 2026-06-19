@@ -1,0 +1,109 @@
+{
+  "key": "DZMCGQWR",
+  "uri": "https://medjat.irokosociety.org/id/library/DZMCGQWR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DZMCGQWR",
+  "zotero": {
+    "group": "6479329",
+    "key": "DZMCGQWR",
+    "version": 1809,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DZMCGQWR",
+    "dateAdded": "2026-05-19T14:18:07Z",
+    "dateModified": "2026-05-19T14:18:07Z"
+  },
+  "display": {
+    "title": "Atlantic Crossings: Race, Gender, and the Construction of Families in Eighteenth-Century La Rochelle.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jennifer L. Palmer"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation shows that French families, faced with the contingencies brought on by colonialism and the presence of slaves and free people of color in France, demonstrated flexibility in modifying traditional strategies of parentage, godparentage, marriage, and inheritance to delineate whom they included as members. Positioning the family at the center of analysis demonstrates how slavery shaped gender roles and how both women and men in Saint-Domingue and La Rochelle manipulated the categories of race and gender for their own benefit. Ultimately, this dissertation argues that slavery and colonialism shaped family not only in France’s colonies, but in France itself. This project makes three main historiographic and methodological contributions. First, it demonstrates that transatlantic trade and the movement of people and goods back and forth across the Atlantic shaped people’s daily lives and experiences in France as well as in the colonies. Considering this circulation contributes to historical understanding of the French empire, but also Old Regime France. Second, it shows that family relationships shaped transatlantic commerce, slavery, and the relationships between blacks and whites. The intimate therefore had far-reaching implications for France and its empire, and in order to understand French history broadly it is important to understand intimate relationships that played out within the family or household. Intimacy is a methodological point as well. Drawing on close readings of a wide base of archival sources that include passenger lists, parish records, family papers, notary records, and royal and municipal records enables me to suggest the range of relationships negotiated between whites and enslaved and free people of color, whether they lived under one roof or were separated by the ocean. Third, employing both visual and archival texts deconstructs the line often drawn between text and image, and highlights the implications of expanding the historical source base to include visual images. Pulling images apart to consider the circumstances and meaning of their production and evaluating them in partnership with archival documents emphasizes the necessity of considering both artistic cultural production and the lived experiences of historical actors in cultural analyses of race and gender.",
+    "doi": "",
+    "url": "https://hdl.handle.net/2027.42/58490",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Gender and Feminism Studies",
+      "Historical Studies and Socio-cultural Analysis",
+      "Migration, Health, Geopolitics, Historical Geography"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jennifer L. Palmer"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Atlantic Crossings: Race, Gender, and the Construction of Families in Eighteenth-Century La Rochelle."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2008."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Gender and Feminism Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies and Socio-cultural Analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Health, Geopolitics, Historical Geography"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/DZ/DZMCGQWR.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "key": "9WJ72KMT",
+  "uri": "https://medjat.irokosociety.org/id/library/9WJ72KMT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=9WJ72KMT",
+  "zotero": {
+    "group": "6479329",
+    "key": "9WJ72KMT",
+    "version": 2456,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9WJ72KMT",
+    "dateAdded": "2026-05-20T02:03:24Z",
+    "dateModified": "2026-05-20T02:14:29Z"
+  },
+  "display": {
+    "title": "Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Schnell, Raymond"
+      }
+    ],
+    "year": "1946",
+    "date": "1946",
+    "publisher": "Journal de la Société des Africanistes",
+    "publicationTitle": "Journal de la Société des Africanistes",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Schnell Raymond. Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale. In: Journal de la Société des Africanistes, 1946, tome 16. pp. 29-38.",
+    "doi": "10.3406/jafr.1946.2570",
+    "url": "https://doi.org/10.3406/jafr.1946.2570",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [
+      "Botanical"
+    ],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "digitally-held",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Schnell, Raymond"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal de la Société des Africanistes, 1946."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3406/jafr.1946.2570"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Botanical"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/9W/9WJ72KMT.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3406/jafr.1946.2570"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "key": "C576XMZQ",
+  "uri": "https://medjat.irokosociety.org/id/library/C576XMZQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C576XMZQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "C576XMZQ",
+    "version": 1899,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C576XMZQ",
+    "dateAdded": "2026-05-19T14:18:32Z",
+    "dateModified": "2026-05-19T14:18:32Z"
+  },
+  "display": {
+    "title": "The Social Reproduction of Systemic Racial Inequality",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jennifer C. Mueller"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "OakTrust (Texas A&M University Libraries)",
+    "publicationTitle": "OakTrust (Texas A&M University Libraries)",
+    "bookTitle": "",
+    "journalAbbreviation": "OakTrust (Texas A&M University Libraries)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The racial wealth gap is a deeply inexorable indicator of inequality. Today the average family of color holds only six cents of wealth for every dollar owned by whites. What accounts for such stubborn inequality in an era lauded as racially progressive? Intergenerational family links suggest a major linchpin. In this dissertation I work toward a race critical theory of social reproduction, drawing on 156 family histories of intergenerational wealth transfer. These data were categorically coded for instances of wealth and capital acquisition and transfer, as well as qualitatively analyzed for thematic patterns using the extended case method. My analysis targets specific social mechanisms that differentially promote the transmission of wealth and other forms of capital (e.g., social networks, educational credentials) across racial groups over time.\\n\\nI isolate racial patterns in the mobility trajectories of families through an original construct, inheritance pathways – instances involving the transfer and/or interconvertiblity of wealth/capital between two or more generations. Among my sample, inheritance pathways were regularly traceable from ancestors living during legal slavery and segregation. My analysis reveals that the wealth and capital acquired by white families regularly works in interlocking, supportive ways to “pave” pathways of protected, intergenerational mobility over time. In contrast, though families of color evidence many efforts to build upwardly mobile pathways, they are frequently divested of their capital through both explicitly and subtly racist means. Moreover, the value of their capital is often diminished, making it less useful in launching and sustaining mobility pathways. My analysis hones in on the recursive relationship between micro level family actions and the racial state, which is regularly implicated in these processes.\\n\\nI draw on these data to additionally expand the concept racial capital – a type of “currency” that intersects with other forms of capital for individuals, families and groups. Collectively, the inheritance pathways of families suggest that whiteness often intervenes to (1) “unlock” forms of capital for some individuals/families/groups; and, (2) enhance the value of other forms of capital. Ultimately I argue that inheritance pathways and racial capital serve as primary means for reproducing conditions and meanings that sustain systemic racism over time.",
+    "doi": "",
+    "url": "https://hdl.handle.net/1969.1/151386",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Employment and Welfare Studies",
+      "Labor Movements and Unions",
+      "Social Policy and Reform Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jennifer C. Mueller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Social Reproduction of Systemic Racial Inequality"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "OakTrust (Texas A&M University Libraries), 2013."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Employment and Welfare Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Labor Movements and Unions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social Policy and Reform Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C5/C576XMZQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "key": "GNJEMSVS",
+  "uri": "https://medjat.irokosociety.org/id/library/GNJEMSVS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GNJEMSVS",
+  "zotero": {
+    "group": "6479329",
+    "key": "GNJEMSVS",
+    "version": 1785,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GNJEMSVS",
+    "dateAdded": "2026-05-19T14:18:00Z",
+    "dateModified": "2026-05-19T14:18:00Z"
+  },
+  "display": {
+    "title": "Design and Control of Self-organizing Systems",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Carlos Gershenson"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "CogPrints (University of Southampton)",
+    "publicationTitle": "CogPrints (University of Southampton)",
+    "bookTitle": "",
+    "journalAbbreviation": "CogPrints (University of Southampton)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Complex systems are usually difficult to design and control. There are several particular methods for coping with complexity, but there is no general approach to build complex systems. In this thesis I propose a methodology to aid engineers in the design and control of complex systems. This is based on the description of systems as self-organizing. Starting from the agent metaphor, the methodology proposes a conceptual framework and a series of steps to follow to find proper mechanisms that will promote elements to find solutions by actively interacting among themselves. The main premise of the methodology claims that reducing the “friction” of interactions between elements of a system will result in a higher “satisfaction” of the system, i.e. better performance.\\n\\nA general introduction to complex thinking is given, since designing self-organizing systems requires a non-classical thought, while practical notions of complexity and self-organization are put forward. To illustrate the methodology, I present three case studies. Self-organizing traffic light controllers are proposed and studied with multi-agent simulations, outperforming traditional methods. Methods for improving communication within self-organizing bureaucracies are advanced, introducing a simple computational model to illustrate the benefits of self-organization. In the last case study, requirements for self-organizing artifacts in an ambient intelligence scenario are discussed. Philosophical implications of the conceptual framework are also put forward.",
+    "doi": "",
+    "url": "http://cogprints.org/5442/1/thesis.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Complex Systems and Decision Making",
+      "Computability, Logic, AI Algorithms",
+      "Slime Mold and Myxomycetes Research"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Carlos Gershenson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Design and Control of Self-organizing Systems"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "CogPrints (University of Southampton), 2007."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Complex Systems and Decision Making"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Computability, Logic, AI Algorithms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slime Mold and Myxomycetes Research"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GN/GNJEMSVS.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "7KJKJIFG",
+  "uri": "https://medjat.irokosociety.org/id/library/7KJKJIFG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=7KJKJIFG",
+  "zotero": {
+    "group": "6479329",
+    "key": "7KJKJIFG",
+    "version": 960,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7KJKJIFG",
+    "dateAdded": "2026-05-19T13:27:20Z",
+    "dateModified": "2026-05-19T13:27:20Z"
+  },
+  "display": {
+    "title": "The Ékpè-Abakuá Continuum",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      }
+    ],
+    "year": "2022",
+    "date": "2022",
+    "publisher": "Zanj The Journal of Critical Global South Studies",
+    "publicationTitle": "Zanj The Journal of Critical Global South Studies",
+    "bookTitle": "",
+    "journalAbbreviation": "Zanj The Journal of Critical Global South Studies",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "4",
+    "issue": "1",
+    "pages": "",
+    "abstract": "Building on nearly three decades of research in Cameroon, Cuba and Nigeria, Miller articulates an active Diaspora heritage between West Africa’s Ékpè ‘leopard’ society for community justice and the Cuban Abakuá mutual-aid society. After describing a collective research methodology engaged with initiates of both groups, he articulates an overarching narrative of this trans-Atlantic civilization. Through an examination of the literature about them, he identifies historical biases towards these institutions that hinder a contemporary dialogue with State representatives in each location.",
+    "doi": "10.13169/zanjglobsoutstud.4.1.0005",
+    "url": "https://doi.org/10.13169/zanjglobsoutstud.4.1.0005",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Caribbean history, culture, and politics",
+      "Diaspora, migration, transnational identity"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Ékpè-Abakuá Continuum"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Zanj The Journal of Critical Global South Studies, 2022."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.13169/zanjglobsoutstud.4.1.0005"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diaspora, migration, transnational identity"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/7K/7KJKJIFG.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.13169/zanjglobsoutstud.4.1.0005"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

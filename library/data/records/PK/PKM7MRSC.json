@@ -1,0 +1,97 @@
+{
+  "key": "PKM7MRSC",
+  "uri": "https://medjat.irokosociety.org/id/library/PKM7MRSC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PKM7MRSC",
+  "zotero": {
+    "group": "6479329",
+    "key": "PKM7MRSC",
+    "version": 942,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PKM7MRSC",
+    "dateAdded": "2026-05-19T13:27:17Z",
+    "dateModified": "2026-05-19T13:27:17Z"
+  },
+  "display": {
+    "title": "La sociedad secreta Abakuá : narrada por viejos adeptos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lydia Cabrera"
+      }
+    ],
+    "year": "1970",
+    "date": "1970",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W652168666",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Indigenous Cultures and History"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lydia Cabrera"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La sociedad secreta Abakuá : narrada por viejos adeptos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1970."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Indigenous Cultures and History"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/PK/PKM7MRSC.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

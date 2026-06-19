@@ -1,0 +1,108 @@
+{
+  "key": "PZFQ6RIC",
+  "uri": "https://medjat.irokosociety.org/id/library/PZFQ6RIC",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PZFQ6RIC",
+  "zotero": {
+    "group": "6479329",
+    "key": "PZFQ6RIC",
+    "version": 1005,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PZFQ6RIC",
+    "dateAdded": "2026-05-19T13:27:29Z",
+    "dateModified": "2026-05-19T13:27:29Z"
+  },
+  "display": {
+    "title": "Sikanékue, Mujer Fundacional En Abakuá",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "P. González Gómez-Cásseres"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Afro-Hispanic review",
+    "publicationTitle": "Afro-Hispanic review",
+    "bookTitle": "",
+    "journalAbbreviation": "Afro-Hispanic review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "35",
+    "issue": "2",
+    "pages": "111",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W2885646992",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Latin American Cultural Politics",
+      "Latin American socio-political dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "P. González Gómez-Cásseres"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sikanékue, Mujer Fundacional En Abakuá"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Afro-Hispanic review, 2016."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "111 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American Cultural Politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American socio-political dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/PZ/PZFQ6RIC.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

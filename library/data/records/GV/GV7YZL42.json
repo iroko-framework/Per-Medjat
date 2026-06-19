@@ -1,0 +1,109 @@
+{
+  "key": "GV7YZL42",
+  "uri": "https://medjat.irokosociety.org/id/library/GV7YZL42",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GV7YZL42",
+  "zotero": {
+    "group": "6479329",
+    "key": "GV7YZL42",
+    "version": 1668,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GV7YZL42",
+    "dateAdded": "2026-05-19T14:17:27Z",
+    "dateModified": "2026-05-19T14:17:27Z"
+  },
+  "display": {
+    "title": "On the Edge of Freedom: Free Black Communities, Archaeology, and the Underground Railroad",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cheryl Janifer LaRoche"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "publicationTitle": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"On the Edge of Freedom\" is an interdisciplinary study of five free black communities that functioned as Underground Railroad sites along the southern borders of Ohio, Indiana, and Illinois. Small rural free black communities along the borders of the Ohio and Mississippi Rivers were situated in the landscape to offer sanctuary to runaways as first points of entry within often violent and racially hostile southern regions of the northern border states. I worked with National Forest Service archaeologists, universities, and private non-profit preservation groups. By combining archaeology, with oral and documentary history, genealogy, and cultural landscape studies, I contribute new comparative and theoretical models for explicating African-American history, and identifying and mapping undocumented Underground Railroad sites. The resulting geography of resistance reveals the risks African Americans endured in the cause of their own liberation. Blacks who participated in the subversive work of the Underground Railroad knew the level of violence to which whites would resort in response to black defiance in the face of oppression. Interrelated families played a central role in the establishment of the frontier settlements. Exclusive and independent of white abolitionist activities, virtually every nineteenth-century black settlement, urban or rural, offered some form of assistance to those escaping slavery. African-American, as well as white, Underground Railroad workers were loosely organized to offer assistance within their separate religious denominations although they worked across racial lines. For four out of the five sites, I demonstrate the relationship between the independent black church and the Underground Railroad. Methodist minister and fourth bishop of the African Methodist Episcopal Church, William Paul Quinn, who was instrumental in the spread of Methodism to the northwest, established two churches associated with Underground Railroad sites in this study. Maps, in conjunction with archaeological techniques, are crucial to the identification and recovery of these enclaves. By mapping free black settlements, and black churches, new Underground Railroad routes emerge from the shadows of larger, nearby, better-known Quaker and abolitionist sites. Mapping little known African American Underground Railroad routes has implications for African American preservation initiatives and heritage tourism.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1903/1676",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "American Environmental and Regional History",
+      "Archaeological Research and Protection",
+      "Historical and Cultural Archaeology Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cheryl Janifer LaRoche"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "On the Edge of Freedom: Free Black Communities, Archaeology, and the Underground Railroad"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Repository at the University of Maryland (University of Maryland College Park), 2004."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "American Environmental and Regional History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeological Research and Protection"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Cultural Archaeology Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GV/GV7YZL42.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

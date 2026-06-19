@@ -1,0 +1,114 @@
+{
+  "key": "3ZQR5P6T",
+  "uri": "https://medjat.irokosociety.org/id/library/3ZQR5P6T",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3ZQR5P6T",
+  "zotero": {
+    "group": "6479329",
+    "key": "3ZQR5P6T",
+    "version": 155,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3ZQR5P6T",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Silencing the past: power and the production of history",
+    "subtitle": "",
+    "shortTitle": "Silencing the past",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Trouillot, Michel-Rolph"
+      }
+    ],
+    "year": "1995",
+    "date": "1995",
+    "publisher": "Beacon Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Boston",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this provocative analysis of historical narrative, Michel-Rolph Trouillot demonstrates how power operates, often invisibly, at all stages in the making of history to silence certain voices. From the West's failure to acknowledge the Haitian Revolution, the most successful slave revolt in history, to the continued debate over denials of the Holocaust, and the meaning of Columbus's arrival in the Americas, Trouillot shows us that history is not simply the recording of facts and events, but a process of actively enforced silences, some unconscious, others quite deliberate.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-8070-4310-3",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historicism",
+      "Historiography",
+      "Power (Social sciences)"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Trouillot, Michel-Rolph"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Silencing the past: power and the production of history"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Boston: Beacon Press, 1995."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-8070-4310-3"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historicism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historiography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Power (Social sciences)"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/3Z/3ZQR5P6T.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

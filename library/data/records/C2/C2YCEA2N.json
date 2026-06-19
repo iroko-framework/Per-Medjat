@@ -1,0 +1,109 @@
+{
+  "key": "C2YCEA2N",
+  "uri": "https://medjat.irokosociety.org/id/library/C2YCEA2N",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C2YCEA2N",
+  "zotero": {
+    "group": "6479329",
+    "key": "C2YCEA2N",
+    "version": 2199,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C2YCEA2N",
+    "dateAdded": "2026-05-19T14:19:43Z",
+    "dateModified": "2026-05-19T14:19:43Z"
+  },
+  "display": {
+    "title": "The Use of Slaves in Early Christianity: Slaves as Subjects of Life and Thought",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Tyler Schwaller"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "publicationTitle": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Early Christianity emerged within an empire built on the backs of slaves. Christians likewise participated in the slaveholding practices of the Roman Empire. Christians owned slaves, were slaves, and made use of enslaved labor, even if some in antiquity, including Christians, resisted slavery.\\n\\nYet, current interpretations of slavery language in New Testament texts—and in particular in its earliest writings, namely the letters of the apostle Paul—are often abstracted from the social and material conditions of enslavement within the Roman Empire. Paul’s self-identifications as a “slave of Christ” and “slave to all” are frequently treated as metaphorical, bifurcated from “real” slavery.\\n\\nThis dissertation examines slavery language in the letters of Paul alongside material, literary, and legal evidence evincing the social-material functions of Roman enslavement. I argue that Paul’s writings are dependent upon, not set apart from, practices of slaveholding. When Paul calls himself a slave, it is not “merely metaphorical” but reflects the presence and influence of the enslaved.\\n\\nI propose strategies for reading in ways that foreground the enslaved, making explicit their exploitation but also their vitality. I do so by drawing upon black feminist historiography, feminist rhetorical analysis, and queer frameworks that elaborate both the material and discursive mechanisms by which social hierarchies are enforced, and the tactics used by subjugated people to navigate and resist their constraints. By analyzing Roman and early Christian sources through these lenses, I demonstrate how Paul’s self-representation as a slave and his discussions of the role of the enslaved largely reflect prevailing Roman attitudes and practices regarding the use of slaves. At the same time, I highlight evidence for slaves’ capacities to work toward their best advantage and cultivate relationships that resisted their alienation and dehumanization. Reading Paul’s letters in light of such a dynamic interplay between slaves and freepersons, this dissertation concludes that language of slavery in the letters of Paul is not divorced from the realities of enslavement but contains traces of enslaved life.",
+    "doi": "",
+    "url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:37925650",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Biblical Studies and Interpretation",
+      "Colonialism, slavery, and trade",
+      "Development, Ethics, and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Tyler Schwaller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Use of Slaves in Early Christianity: Slaves as Subjects of Life and Thought"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Access to Scholarship at Harvard (DASH) (Harvard University), 2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Biblical Studies and Interpretation"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Development, Ethics, and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C2/C2YCEA2N.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

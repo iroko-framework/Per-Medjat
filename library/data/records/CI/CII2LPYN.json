@@ -1,0 +1,97 @@
+{
+  "key": "CII2LPYN",
+  "uri": "https://medjat.irokosociety.org/id/library/CII2LPYN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CII2LPYN",
+  "zotero": {
+    "group": "6479329",
+    "key": "CII2LPYN",
+    "version": 1812,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CII2LPYN",
+    "dateAdded": "2026-05-19T14:18:07Z",
+    "dateModified": "2026-05-19T14:18:07Z"
+  },
+  "display": {
+    "title": "American Bards: James M. Whitfield, Eliza R. Snow, John Rollin Ridge, and Walt Whitman",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Edward Whitley"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "publicationTitle": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Repository at the University of Maryland (University of Maryland College Park)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Despite recent efforts to recover a diverse range of nineteenth-century American poets, the aura that continues to surround Walt Whitman as the quintessential American bard has yet to be sufficiently challenged. This dissertation defamiliarizes the Whitman mystique of the national outsider-&lt;i&gt;cum&lt;/i&gt;-national bard-the author as &quot;one of the roughs&quot; who also claims to be a representative American poet-by reinterpreting &lt;i&gt;Leaves of Grass&lt;/i&gt; through the careers of three poets on the margins of national culture whose projects for American poetry parallel the central aspects of Whitman's own. During the 1850s, African American separatist James M. Whitfield, Mormon pioneer Eliza R. Snow, and Anglo-Cherokee journalist John Rollin Ridge claimed to speak for the United States as American bards despite the fact that they were only tenuously connected to the nation which they claimed to represent. Two years before Whitman first attempted to poetically contain a contradictory nation in the first (1855) edition of &lt;i&gt;Leaves of Grass&lt;/i&gt;, James M. Whitfield recorded the conflicts of a nation riven by the contradictions of slavery in &lt;i&gt;America and Other Poems&lt;/i&gt; (1853). Similarly, at the same time that Whitman was announcing himself as the poet of a new American religion, Eliza R. Snow had already been recognized as the poet laureate of a faith that observers such as Leo Tolstoy referred to as &quot;the American religion.&quot; While Whitman would be characterized as &quot;the first white aboriginal&quot; by D. H. Lawrence in the early twentieth century, in the 1850s John Rollin Ridge had already constructed a poetic persona that attempted to mediate the United States' nostalgia for an indigenous past with its faith in national progress. By claiming to speak as national representatives to a nation that rejected them, Whitfield, Snow, and Ridge not only provide alternatives to a Whitman-centered approach to antebellum American poetry, they also offer insight into the contested nature of national identity at a time when poets in the United States were anxious to define their nation both politically and artistically.",
+    "doi": "",
+    "url": "http://hdl.handle.net/1903/1739",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Poetry Analysis and Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Edward Whitley"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "American Bards: James M. Whitfield, Eliza R. Snow, John Rollin Ridge, and Walt Whitman"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Repository at the University of Maryland (University of Maryland College Park), 2004."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Poetry Analysis and Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/CI/CII2LPYN.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

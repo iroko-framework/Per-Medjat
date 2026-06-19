@@ -1,0 +1,110 @@
+{
+  "key": "W8QFR3FJ",
+  "uri": "https://medjat.irokosociety.org/id/library/W8QFR3FJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=W8QFR3FJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "W8QFR3FJ",
+    "version": 4571,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W8QFR3FJ",
+    "dateAdded": "2026-06-19T16:45:03Z",
+    "dateModified": "2026-06-19T16:45:03Z"
+  },
+  "display": {
+    "title": "Lucumí",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Carlos Canet"
+      }
+    ],
+    "year": "1973",
+    "date": "1973",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL7226931W",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "eng"
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Carlos Canet"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Lucumí"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1973."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/W8/W8QFR3FJ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

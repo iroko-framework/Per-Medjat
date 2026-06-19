@@ -1,0 +1,116 @@
+{
+  "key": "G6QR24P7",
+  "uri": "https://medjat.irokosociety.org/id/library/G6QR24P7",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G6QR24P7",
+  "zotero": {
+    "group": "6479329",
+    "key": "G6QR24P7",
+    "version": 648,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G6QR24P7",
+    "dateAdded": "2026-05-18T18:57:18Z",
+    "dateModified": "2026-05-18T18:57:18Z"
+  },
+  "display": {
+    "title": "De la sangre al oro : la transubstanciación del cristianismo y del capitalismo en la comida ritual huichol (México)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Frédéric Saumade"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Amérique latine histoire et mémoire",
+    "publicationTitle": "Amérique latine histoire et mémoire",
+    "bookTitle": "",
+    "journalAbbreviation": "Amérique latine histoire et mémoire",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "25",
+    "issue": "",
+    "pages": "",
+    "abstract": "The practices of ritual food that are observed in the Easter Week fiesta of the Huichol community from San Andrés Cohamiata Tatei Kie represent a particular case of a general problem within the contemporary anthropological field: the interactions between traditional cosmologies and the global reality of the modern world. The author, ruling out any essentialist perspective, demonstrates that the three pillars of the Hispano-Western power – cattle, money, Christianity – have been integrated in a ritual cycle that gathers and sets in motion food, sacrificial flows, religious believes and relations of power. The duality of the dry and the wet, which is the most classical pattern in Middle American cosmological variability, gives its rhythm to this cycle. Meanwhile, such a regular tempo does not confine the Huichol society within a supposedly immutable binary universe. The vitality of the tradition would rather be due to native society’s capacities in reinterpreting, upon the basis of the dry/wet paradigm, the typical elements from the Western mind – transubstantation, capitalization, monetary symbol, inflationist process – whose transforming properties, between material and fictional value, have become part of an adaptive cosmology.",
+    "doi": "10.4000/alhim.4618",
+    "url": "https://doi.org/10.4000/alhim.4618",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Culinary Culture and Tourism",
+      "Food, Nutrition, and Cultural Practices",
+      "Latin American history and culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Frédéric Saumade"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "De la sangre al oro : la transubstanciación del cristianismo y del capitalismo en la comida ritual huichol (México)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Amérique latine histoire et mémoire, 2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/alhim.4618"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Culinary Culture and Tourism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Food, Nutrition, and Cultural Practices"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American history and culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/G6/G6QR24P7.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/alhim.4618"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

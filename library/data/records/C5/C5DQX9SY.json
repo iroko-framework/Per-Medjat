@@ -1,0 +1,103 @@
+{
+  "key": "C5DQX9SY",
+  "uri": "https://medjat.irokosociety.org/id/library/C5DQX9SY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C5DQX9SY",
+  "zotero": {
+    "group": "6479329",
+    "key": "C5DQX9SY",
+    "version": 1158,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C5DQX9SY",
+    "dateAdded": "2026-05-19T13:28:12Z",
+    "dateModified": "2026-05-19T13:28:12Z"
+  },
+  "display": {
+    "title": "Kinetic Conversations: Creative Dance-Music Performance and the Negotiation of Identity in Contemporary Havana, Cuba.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Elizabeth Kimzey Batiuk"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Deep Blue (University of Michigan)",
+    "publicationTitle": "Deep Blue (University of Michigan)",
+    "bookTitle": "",
+    "journalAbbreviation": "Deep Blue (University of Michigan)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In this dissertation, I examine creative dance-music performance as a way that professional folkloric performers pursue individual agendas and negotiate identities central to everyday life. Based on ethnographic research carried out between 2009 and 2012 with members of Oba Ilú, a Havana-based Cuban/Afro-Cuban folklore ensemble, I present three case studies in which performers creatively alter standard genres in ways that are both aesthetically arousing and socially effective. The first case study examines the choreographic transvestism of Isnavi Cardoso Díaz, a woman who performs the traditionally male solo genre of columbia. The next case study explores how Miguel Martínez negotiates his identity as a seductive partner through a fusion of folklore and social dance that I call salsa cubana. In the final case study, performances of abakuá folklore by Gregorio “El Goyo” Hernández, who negotiates his identity as a patriot and public leader of this recently legalized but still controversial ritual community. Each case study is situated in contexts of interviews, autobiography, and historic processes of change in Cuba during the past two decades. I hypothesize that these creative performances operate as language-like domains of reflexive practice, which I call kinetic conversation. Taking the agents’ creative alterations as evidence of identity negotiations, I analyze their performances as a form of discursive interaction organized by musical sound and constitutive of a set of relationships including the protagonist, the interactive dyad, and a community of interpreters. Rather than treating these relationships as symbolic or representational, I consider them in terms of the embodied significance of performance informed by underlying neurobiological processes. Using the concept of habitus and theories of embodied cognition, I trace the kinetic performances of identity that arise through creative performance and how they reveal the intersections and slippages between the performances roles and identity as lived experience. The framework shows how contemporary identity discourses form part of the subjective significance of dance-music performance and suggests that music plays a part in shaping the kinetic dimension of individual identity and social roles.",
+    "doi": "",
+    "url": "https://openalex.org/W2334805895",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Elizabeth Kimzey Batiuk"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Kinetic Conversations: Creative Dance-Music Performance and the Negotiation of Identity in Contemporary Havana, Cuba."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Deep Blue (University of Michigan), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C5/C5DQX9SY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

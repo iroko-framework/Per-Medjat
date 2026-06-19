@@ -1,0 +1,104 @@
+{
+  "key": "NU3N2DCQ",
+  "uri": "https://medjat.irokosociety.org/id/library/NU3N2DCQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NU3N2DCQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "NU3N2DCQ",
+    "version": 1641,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NU3N2DCQ",
+    "dateAdded": "2026-05-19T14:17:18Z",
+    "dateModified": "2026-05-19T14:17:18Z"
+  },
+  "display": {
+    "title": "Covert commerce : a social history of contraband trade in Venezuela, 1701-1789",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jesse Levis Cromwell"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This project explores how conditions of material scarcity and the potential for profit thrust both foreign and Spanish coastal inhabitants into vast networks of illegal, yet essential, commerce. Based on extensive archival investigations in Venezuela and Spain as well as shorter research trips to archives in England, Colombia, and the United States, I probe the specific dynamics of the largest portion of eighteenth-century Atlantic trade, illicit commerce, as a series of practices imbued with moral economy concerns, political meanings, and legal consequences. The first half of my manuscript uses a prosopographical, collective biography approach to profile the largely unexplored actors in the Spanish Empire’s underground economy off the Venezuelan coast: non-Spanish contrabandists, Spanish American merchants, and corrupt Spanish officials. These ordinary folk participated in quotidian transnational trade in basic goods that violated mercantile Spanish law. The second half examines the social impact that smuggling wrought on Venezuela. I focus specifically on the illicit slave trade and Afro-Caribbean contrabandists, the material culture of smuggled goods in Venezuelan daily life, and violent colonial opposition to anti-contraband strictures through several mid-eighteenth century trade uprisings. Smugglers’ shadowy existence between empires revises our understanding of interimperial contact, local identity formation, commercial autonomy, and popular protest in the early modern world. In its complicated and criminal nature, covert commerce also connects large structural shifts in the burgeoning eighteenth-century global economy to local petty traders.",
+    "doi": "10.15781/t2gt5fh15",
+    "url": "https://doi.org/10.15781/t2gt5fh15",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History and Politics in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jesse Levis Cromwell"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Covert commerce : a social history of contraband trade in Venezuela, 1701-1789"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15781/t2gt5fh15"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History and Politics in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/NU/NU3N2DCQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15781/t2gt5fh15"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

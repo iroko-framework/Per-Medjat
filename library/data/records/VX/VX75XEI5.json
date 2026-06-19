@@ -1,0 +1,104 @@
+{
+  "key": "VX75XEI5",
+  "uri": "https://medjat.irokosociety.org/id/library/VX75XEI5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=VX75XEI5",
+  "zotero": {
+    "group": "6479329",
+    "key": "VX75XEI5",
+    "version": 2453,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/VX75XEI5",
+    "dateAdded": "2026-05-20T02:03:20Z",
+    "dateModified": "2026-05-20T02:11:50Z"
+  },
+  "display": {
+    "title": "Problème de l'information et de la coordination sur la recherche et la bibliographie africaniste",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Forde, Daryll"
+      }
+    ],
+    "year": "1968",
+    "date": "1968",
+    "publisher": "Journal de la Société des Africanistes",
+    "publicationTitle": "Journal de la Société des Africanistes",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Forde D. Problème de l'information et de la coordination sur la recherche et la bibliographie africaniste. In: Journal de la Société des Africanistes, 1968, tome 38, fascicule 2. pp. 234-239.",
+    "doi": "10.3406/jafr.1968.1484",
+    "url": "https://doi.org/10.3406/jafr.1968.1484",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [
+      "Material Culture"
+    ],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "digitally-held",
+    "subjects": []
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Forde, Daryll"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Problème de l'information et de la coordination sur la recherche et la bibliographie africaniste"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal de la Société des Africanistes, 1968."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.3406/jafr.1968.1484"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Material Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/VX/VX75XEI5.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.3406/jafr.1968.1484"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

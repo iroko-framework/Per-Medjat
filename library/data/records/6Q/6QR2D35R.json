@@ -1,0 +1,144 @@
+{
+  "key": "6QR2D35R",
+  "uri": "https://medjat.irokosociety.org/id/library/6QR2D35R",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=6QR2D35R",
+  "zotero": {
+    "group": "6479329",
+    "key": "6QR2D35R",
+    "version": 132,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6QR2D35R",
+    "dateAdded": "2026-05-14T15:45:28Z",
+    "dateModified": "2026-05-14T15:45:28Z"
+  },
+  "display": {
+    "title": "Wicked flesh: Black women, intimacy, and freedom in the Atlantic world",
+    "subtitle": "",
+    "shortTitle": "Wicked flesh",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Johnson, Jessica Marie"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "University of Pennsylvania Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Philadelphia",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Unearthing personal stories from the archive, Wicked Flesh shows how black women, from Senegambia in West Africa to the Caribbean to New Orleans, used intimacy and kinship to redefine freedom in the eighteenth-century Atlantic world. Their practices laid the groundwork for the emancipation struggles of the nineteenth century.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-0-8122-9724-9",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African American women -- Louisiana -- New Orleans",
+      "African Americans -- Kinship -- History -- 18th ce",
+      "African diaspora -- History -- 18th century",
+      "Atlantic Ocean Region -- Race relations -- History",
+      "Black -- Atlantic Ocean Region -- History -",
+      "Black -- Atlantic Ocean Region -- Social co",
+      "Slave trade -- Social aspects -- Atlantic Ocean Re",
+      "Women"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Johnson, Jessica Marie"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Wicked flesh: Black women, intimacy, and freedom in the Atlantic world"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Philadelphia: University of Pennsylvania Press, 2020."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-8122-9724-9"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African American women -- Louisiana -- New Orleans"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Americans -- Kinship -- History -- 18th ce"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African diaspora -- History -- 18th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Atlantic Ocean Region -- Race relations -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black -- Atlantic Ocean Region -- History -"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black -- Atlantic Ocean Region -- Social co"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slave trade -- Social aspects -- Atlantic Ocean Re"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Women"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/6Q/6QR2D35R.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "2JHG23HS",
+  "uri": "https://medjat.irokosociety.org/id/library/2JHG23HS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2JHG23HS",
+  "zotero": {
+    "group": "6479329",
+    "key": "2JHG23HS",
+    "version": 1272,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2JHG23HS",
+    "dateAdded": "2026-05-19T13:28:42Z",
+    "dateModified": "2026-05-19T13:28:42Z"
+  },
+  "display": {
+    "title": "Incorporating the Averse. Emulating Freemasonry?",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Karo Moret-Miranda"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+    "publicationTitle": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "1-2",
+    "pages": "337-338",
+    "abstract": "The researcher Karo Moret-Miranda has defended a doctoral thesis dissertation, entitled “Incorporating the Averse. Emulating Freemasonry? Approach to racial and hermeneutical entanglement in the Abakuá religious exercitatio” at Pompeu Fabra University in Spain the December 20th, 2019.",
+    "doi": "10.15517/rehmlac.v12i1-2.41637",
+    "url": "https://doi.org/10.15517/rehmlac.v12i1-2.41637",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Environmental and Cultural Studies in Latin America and Beyond",
+      "Financial Crisis of the 21st Century",
+      "Psychedelics and Drug Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Karo Moret-Miranda"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Incorporating the Averse. Emulating Freemasonry?"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña, 2020."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "337-338 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15517/rehmlac.v12i1-2.41637"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Environmental and Cultural Studies in Latin America and Beyond"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Financial Crisis of the 21st Century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Psychedelics and Drug Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2J/2JHG23HS.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15517/rehmlac.v12i1-2.41637"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

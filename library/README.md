@@ -1,21 +1,22 @@
 # Medjat Library
 
-The main public catalog now uses prebuilt static data from `../data/`.
+The main public catalog uses prebuilt static data from `/library/data/`.
 
-Run the catalog build from the repository root:
+Run the catalog builder from the `medjat-tools` repository:
 
 ```powershell
-python scripts\build_library.py
+$env:PER_MEDJAT_ROOT="C:\path\to\Per-Medjat"
+python build_library\build_library.py
 ```
 
 The build pulls top-level public Zotero records, normalizes them, and generates:
 
-- `data/library.index.json`
-- `data/library.facets.json`
-- `data/records/{prefix}/{key}.json`
-- `data/library.ttl`
-- `data/rdf/{prefix}/{key}.ttl`
-- `data/marc/library.marc.json`
+- `library/data/library.index.json`
+- `library/data/library.facets.json`
+- `library/data/records/{prefix}/{key}.json`
+- `library/data/library.ttl`
+- `library/data/rdf/{prefix}/{key}.ttl`
+- `library/data/marc/library.marc.json`
 
 The public `/library/` page loads only the lightweight index and facet files at startup. Full record JSON is fetched only when a visitor opens catalog details, linked data, or visits `/library/?item=KEY`.
 

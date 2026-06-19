@@ -1,0 +1,109 @@
+{
+  "key": "C8338MEL",
+  "uri": "https://medjat.irokosociety.org/id/library/C8338MEL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C8338MEL",
+  "zotero": {
+    "group": "6479329",
+    "key": "C8338MEL",
+    "version": 1584,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C8338MEL",
+    "dateAdded": "2026-05-19T14:17:10Z",
+    "dateModified": "2026-05-19T14:17:10Z"
+  },
+  "display": {
+    "title": "Fantasies of Consent: Black Women's Sexual Labor in 19th Century New Orleans",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Emily Owens"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "publicationTitle": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "bookTitle": "",
+    "journalAbbreviation": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Fantasies of Consent: Black Women’s Sexual Labor 19th Century New Orleans draws on Louisiana legal statutes and Louisiana State Supreme Court records, alongside French and Spanish Caribbean colonial law, slave narratives, and pro-slavery writing, to craft legal, affective, and economic history of sex and slavery in antebellum New Orleans. This is the first full-length project on the history of non-reproductive sexual labor in slavery: I historicize the lives of women of color who sold, or were sold for, sex to white men. I analyze those labors, together, to understand major elements of sexual labor in the history of slavery. I theorize the meaning of sexual labor and imagine the kinds of world(s) these arrangements brought into existence, and the ways that sex and its attendant affects articulated pleasure and violence within those worlds.\\nThis project offers the framework racialized sexual commerce to name the capacious intersection of sexual commerce and racial commerce, in order to imagine a singular, integrated sexual economy. This project also frames sexual labor outside of dominant scholarly approaches that seek out evidence of rape and consent. Building on these two foundational frameworks, this project argues that the antebellum sex market trafficked in affective objects, that is, affective experiences attached to labor (sex) and made into the primary commodities of this market. Fantasies of Consent asks what kinds of pleasures the bodies of women of color were called upon to produce for white men within the sex economy, what kinds of pleasures they themselves were able to inherit, and how both sets of pleasures emerged from and were therefore imbricated within the violence of the market. I argue that in the sex market, there was no pure consent—no pleasure, no freedom—that was not already shaped by the market through which it was articulated. Affective objects remade the violence of a sex trade that lived and breathed because of slavery as pleasure, revealing the impossibility of disentangling pleasure from violence within antebellum sexual commerce.",
+    "doi": "",
+    "url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:23845425",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Literature: history, themes, analysis",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Emily Owens"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Fantasies of Consent: Black Women's Sexual Labor in 19th Century New Orleans"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Access to Scholarship at Harvard (DASH) (Harvard University), 2015."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature: history, themes, analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C8/C8338MEL.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

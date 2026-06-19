@@ -1,0 +1,97 @@
+{
+  "key": "LXXKMC9C",
+  "uri": "https://medjat.irokosociety.org/id/library/LXXKMC9C",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LXXKMC9C",
+  "zotero": {
+    "group": "6479329",
+    "key": "LXXKMC9C",
+    "version": 1377,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LXXKMC9C",
+    "dateAdded": "2026-05-19T13:29:01Z",
+    "dateModified": "2026-05-19T13:29:01Z"
+  },
+  "display": {
+    "title": "Analisis Pola Ritme Tradisional Afro-Kuba Pada Komposisi Solo Gitar Fase “Avant-Garde” Karya Leo Brouwer",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Muhammad Almer Sidqi"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Studi ini membahas pola ritme tradisional Afro-Kuba pada karya-karya solo gitar avant-garde milik Leo Brouwer. Penelitian ini dilakukan dengan mencari bentuk-bentuk pola ritme tradisional tersebut pada karya-karya Brouwer yang masuk dalam kategori fase avant-garde. Beberapa referensi yang relevan digunakan untuk mengidentifikasi variabel-variabel terkait. Variabel pertama adalah karya-karya Brouwer yang masuk dalam fase avant-garde: Parabola, Canticum, Tarantos, dan La Espiral Eterna, dan bentuk pola-pola ritme tradisional Afro-Kuba. Penulis mengkomparasikan idiom ritme pada karya Brouwer dengan bentuk pola ritme tradisional Afro-Kuba. Hasil penelitian pada karya-karya tersebut ditemukan pola-pola ritme tradisional di tengah gaya musik eksperimental, seperti pola ritme: tressilo, abakua, kobaye, dan cinquillo, yang hadir dalam bentuk modifikasi.",
+    "doi": "",
+    "url": "https://openalex.org/W2783096564",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cultural and Artistic Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Muhammad Almer Sidqi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Analisis Pola Ritme Tradisional Afro-Kuba Pada Komposisi Solo Gitar Fase “Avant-Garde” Karya Leo Brouwer"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2017."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural and Artistic Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LX/LXXKMC9C.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

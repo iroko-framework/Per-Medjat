@@ -1,0 +1,124 @@
+{
+  "key": "XML4S93P",
+  "uri": "https://medjat.irokosociety.org/id/library/XML4S93P",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XML4S93P",
+  "zotero": {
+    "group": "6479329",
+    "key": "XML4S93P",
+    "version": 1014,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XML4S93P",
+    "dateAdded": "2026-05-19T13:27:31Z",
+    "dateModified": "2026-05-19T13:27:31Z"
+  },
+  "display": {
+    "title": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Stephan Palmié"
+      },
+      {
+        "role": "editor",
+        "name": "Elizabeth Pérez‐Hernández"
+      }
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "publicationTitle": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "bookTitle": "",
+    "journalAbbreviation": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "79",
+    "issue": "3-4",
+    "pages": "219-228",
+    "abstract": "Focusses on the Abukuá associations, Afro-Cuban male initiatory secret societies, as such originated in Regla, Havana in 1836. Authors describe how Abakuá titleholders gained powerful social and labour positions in the Havana area, and how they were eventually outlawed in 1876. They point out how Abakuá societies by and since then were designated as negative and criminal in the public sphere, and condemned by many writers and politicians. They show how published accounts of Abakuá since the late 19th c and early 20th c. were thus seldom merely descriptive, but were presented as proof of Cuba's lagging modernity, and of a for some undesired Africanization. They further relate how Fernando Ortiz's studies and work on Abakuá fit in this. They note how Ortiz' s earlier \"criminal anthropology\" work on Abakuá was in the same negative and criminalizing vein, yet they point at changes, as in time he described and evaluated Abakuá as more positive, and as part of Cuban culture. They describe how Ortiz dedicated much effort to studying different aspects of Abakuá, and that extensive notations on these became part of his archive, which, as he told fellow-scholars, he would work out in an eventual monograph on Abakuá. The authors deplore that this monograph was not only never published, but also seems to have been lost.",
+    "doi": "10.1163/22134360-90002506",
+    "url": "https://doi.org/10.1163/22134360-90002506",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Latin American and Latino Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Stephan Palmié"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2005."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "219-228 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/22134360-90002506"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Latin American and Latino Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Elizabeth Pérez‐Hernández"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/XM/XML4S93P.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/22134360-90002506"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

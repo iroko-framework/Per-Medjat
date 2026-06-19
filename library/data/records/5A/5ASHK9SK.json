@@ -1,0 +1,121 @@
+{
+  "key": "5ASHK9SK",
+  "uri": "https://medjat.irokosociety.org/id/library/5ASHK9SK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=5ASHK9SK",
+  "zotero": {
+    "group": "6479329",
+    "key": "5ASHK9SK",
+    "version": 1422,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5ASHK9SK",
+    "dateAdded": "2026-05-19T13:29:09Z",
+    "dateModified": "2026-05-19T13:29:09Z"
+  },
+  "display": {
+    "title": "The Many Faces of Art in Global Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jean M. Borgatti"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "Athens Journal of Humanities and Arts",
+    "publicationTitle": "Athens Journal of Humanities and Arts",
+    "bookTitle": "",
+    "journalAbbreviation": "Athens Journal of Humanities and Arts",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "issue": "4",
+    "pages": "221-230",
+    "abstract": "Global Africa comprises all those parts of the world where more than 100,000 individuals of African descent live: the African continent, European countries that had significant colonial interests or trading networks (UK, France, Portugal, Holland), and those parts of the western hemisphere where European colonial and mercantile interests fostered the forced movement of people from Africa (the United States and Canada, the Caribbean, and portions of Central and South America--notably Brazil and neighboring countries). Global Africa in the context of Arts in a Global World includes the work of visual and performing artists who carried their cultures with them from Africa between the 16th and 19th centuries, those artists of African heritage in the Diaspora whose work focuses on the history of Africans in the Americas or who are inspired by African traditional art as well as those artists whose work appeals to an international market, though they remain resident in Africa, and those who are transnational (born in Africa but living and practicing elsewhere) or bi-cultural (of African descent but whose lives have been split between Africa and the Diaspora). This essay provides a summary overview of traditions in each of these categories, focusing in the last analysis on an international fashion designer of African descent (Ade Bakare) whose career trajectory epitomizes the situation of international artists of African heritage functioning in a global art economy today.",
+    "doi": "10.30958/ajha.2-4-2",
+    "url": "https://doi.org/10.30958/ajha.2-4-2",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Cultural Industries and Urban Development",
+      "Fashion and Cultural Textiles"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jean M. Borgatti"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Many Faces of Art in Global Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Athens Journal of Humanities and Arts, 2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "221-230 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.30958/ajha.2-4-2"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural Industries and Urban Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Fashion and Cultural Textiles"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/5A/5ASHK9SK.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.30958/ajha.2-4-2"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

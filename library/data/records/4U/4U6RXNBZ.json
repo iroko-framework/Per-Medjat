@@ -1,0 +1,109 @@
+{
+  "key": "4U6RXNBZ",
+  "uri": "https://medjat.irokosociety.org/id/library/4U6RXNBZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4U6RXNBZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "4U6RXNBZ",
+    "version": 1305,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4U6RXNBZ",
+    "dateAdded": "2026-05-19T13:28:47Z",
+    "dateModified": "2026-05-19T13:28:47Z"
+  },
+  "display": {
+    "title": "IVOR L. MILLER. Voice of the Leopard: African Secret Societies and Cuba. Foreword by ENGR. (CHIEF) BASSEY E. BASSEY. (Caribbean Studies Series.) Jackson: University Press of Mississippi. 2009. Pp. xx, 364. $55.00",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gwendolyn Midlo Hall"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "The American Historical Review",
+    "publicationTitle": "The American Historical Review",
+    "bookTitle": "",
+    "journalAbbreviation": "The American Historical Review",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "115",
+    "issue": "1",
+    "pages": "257-258",
+    "abstract": "Sugar monoculture began to develop in Cuba during the latter half of the eighteenth century, after the Haitian Revolution removed Haitian sugar from the international market. At the same time the ethnic groups enslaved in Africa changed. The sudden, massive introduction into Cuba of several distinct ethnicities had major religious, cultural, and institutional impacts. The Yoruba (Lukumí) introduced Santería; the Kongo introduced Palo Mayombe; and large numbers of Africans enslaved in the Bight of Biafra were brought to Cuba, where they were called Karabalí after two ports on the coast of the Bight of Biafra, Old Calabar and New Calabar. They introduced Abakuá, a male secret society identified with the leopard. Ivor L. Miller attempts to demonstrate that Africans brought to Cuba from the Cross River Valley and Cameroon grasslands established the Ékpè (Leopard) secret society, the major governing institution in the Bight of Biafra, in and near Havana during the mid-1830s, and that it continues as an informal governing, religious, and cultural institution to the present day. Discipline, justice, payment of debts, protection of pawned persons, and enforcement of community laws were rapidly implemented by members of Ékpè lodges wearing elaborate costumes and wielding arms. In Cuba the Ékpè lodges were known as Abakuá; in the absence of what Western scholarship defines as a state, governance in the Bight of Biafra was local and segmented, allowing its transfer to Cuba.",
+    "doi": "10.1086/ahr.115.1.257-a",
+    "url": "https://doi.org/10.1086/ahr.115.1.257-a",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gwendolyn Midlo Hall"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "IVOR L. MILLER. Voice of the Leopard: African Secret Societies and Cuba. Foreword by ENGR. (CHIEF) BASSEY E. BASSEY. (Caribbean Studies Series.) Jackson: University Press of Mississippi. 2009. Pp. xx, 364. $55.00"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The American Historical Review, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "257-258 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1086/ahr.115.1.257-a"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/4U/4U6RXNBZ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1086/ahr.115.1.257-a"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

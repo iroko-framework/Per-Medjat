@@ -1,0 +1,109 @@
+{
+  "key": "FKH6NB5S",
+  "uri": "https://medjat.irokosociety.org/id/library/FKH6NB5S",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FKH6NB5S",
+  "zotero": {
+    "group": "6479329",
+    "key": "FKH6NB5S",
+    "version": 1968,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FKH6NB5S",
+    "dateAdded": "2026-05-19T14:18:51Z",
+    "dateModified": "2026-05-19T14:18:51Z"
+  },
+  "display": {
+    "title": "Bayesian Belief Nets and Vines in Aviation Safety and other Applications",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Oswaldo Morales‐Nápoles"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "TNO Repository",
+    "publicationTitle": "TNO Repository",
+    "bookTitle": "",
+    "journalAbbreviation": "TNO Repository",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Prior to the defence, at 09.30 there will be a 20 minutes presentation.The defence will be followed by a reception in the Aula. Bayesian belief nets and vines in aviation safety and other applicationsBayesian Belief Nets and Vines in aviation safety and other applications O. Morales Npoles Bayesian Belief Nets and Vines in aviation safety and other applications Oswaldo Morales Npoles nd other applications nd other applications.The rank correlation of random variables X, Y with cumulative distribution functions F X and F Y is:.The rank correlation is the product moment correlation of the ranks of variables X and Y , and measures strength of monotonic relationship between variables.The conditional rank correlation of X and Y given Z is: CHAPTER 6 Dams Safety in the State of Mexico 1This chapter describes a demonstration model for earth dams safety.The aim of the project was to develop a model to investigate environmental factors that could contribute to different failure modes in earth dams in the highlands of central Mexico.This model would serve as a demonstration model for a larger model that would include larger structures and a countrywide coverage.NPCDBBNs were identified as an appropriate tool for this research.The classical method for structured expert judgment was used for model quantification in the absence of field data.",
+    "doi": "",
+    "url": "https://publications.tno.nl/publication/34625516/Eun2aB/moralesnapoles-2009-bayesian.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "AI-based Problem Solving and Planning",
+      "Bayesian Modeling and Causal Inference",
+      "Risk and Safety Analysis"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Oswaldo Morales‐Nápoles"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bayesian Belief Nets and Vines in Aviation Safety and other Applications"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "TNO Repository, 2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "AI-based Problem Solving and Planning"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bayesian Modeling and Causal Inference"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Risk and Safety Analysis"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/FK/FKH6NB5S.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

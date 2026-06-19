@@ -1,0 +1,104 @@
+{
+  "key": "FMWUHAXM",
+  "uri": "https://medjat.irokosociety.org/id/library/FMWUHAXM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FMWUHAXM",
+  "zotero": {
+    "group": "6479329",
+    "key": "FMWUHAXM",
+    "version": 1059,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FMWUHAXM",
+    "dateAdded": "2026-05-19T13:27:41Z",
+    "dateModified": "2026-05-19T13:27:41Z"
+  },
+  "display": {
+    "title": "Cuban Music from A to Z",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Helio Orovio"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Available in English for the first time, Cuban Music from A to Z is an encyclopedic guide to one of the world's richest and most influential musical cultures. It is the most extensive compendium of information about the singers, composers, bands, instruments, and dances of Cuba ever assembled. With more than 1,300 entries and 150 illustrations, this volume is an essential reference guide to the music of the island that brought the world the danzón, the son, the mambo, the conga, and the cha-cha-chá.The life's work of Cuban historian and musician Helio Orovio, Cuban Music from A to Z presents the people, genres, and history of Cuban music. Arranged alphabetically and cross-referenced, the entries span from Abakuá music and dance to Eddy Zervigón, a Cuban bandleader based in New York City. They reveal an extraordinary fusion of musical elements, evident in the unique blend of African and Spanish traditions of the son musical genre and in the integration of jazz and rumba in the timba style developed by bands like Afrocuba, Chucho Valdés's Irakeke, José Luis Cortés's ng La Banda, and the Buena Vista Social Club. Folk and classical music, little-known composers and international superstars, drums and string instruments, symphonies and theaters-it's all here",
+    "doi": "10.1515/9780822385219",
+    "url": "https://doi.org/10.1515/9780822385219",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Helio Orovio"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cuban Music from A to Z"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2004."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1515/9780822385219"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/FM/FMWUHAXM.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1515/9780822385219"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

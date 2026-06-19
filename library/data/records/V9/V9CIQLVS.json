@@ -1,0 +1,116 @@
+{
+  "key": "V9CIQLVS",
+  "uri": "https://medjat.irokosociety.org/id/library/V9CIQLVS",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=V9CIQLVS",
+  "zotero": {
+    "group": "6479329",
+    "key": "V9CIQLVS",
+    "version": 2406,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V9CIQLVS",
+    "dateAdded": "2026-05-19T14:17:11Z",
+    "dateModified": "2026-05-19T14:39:33Z"
+  },
+  "display": {
+    "title": "The Efforts To Reopen The African Slave Trade In Louisiana",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "James L. Hendrix"
+      }
+    ],
+    "year": "1968",
+    "date": "1968",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "With the Louisiana Purchase of 1803, the United States government quickly moved to prohibit the further importation of African slaves into the newly acquired territory. This closing of the foreign slave trade was extended to the national level by a Federal law which became effective January 1, 1808. Protests emanated from Louisiana almost immediately after the trade was closed in 1803, but initially they were infrequent and mild. A general Southern effort to reopen the foreign slave trade began to develop in the early 1850's, largely in the Southern commercial conventions. This movement reached its peak in 1859 when a resolution was passed advocating the reopening of the African traffic. A majority of Louisiana's delegates to the convention sided with those favoring reopening. At the state level Louisiana confined its interest in reopening the trade to the commercial conventions until the late 1850's. In 1858 and 1859 both Houses of the legislature took under consideration African apprentice schemes. These bills would have provided for the importation of indentured African \"apprentices,\" rather than slaves, into Louisiana, v and was simply a means of circumventing the Federal law of 1808. Heated debate took place in both years and public reaction was active. The efforts in 1859 the movement to reopen the slave trade in support waned and other issues associated the Civil War overshadowed the movement.",
+    "doi": "10.31390/gradschool_disstheses.8262",
+    "url": "https://doi.org/10.31390/gradschool_disstheses.8262",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society",
+      "Race, History, and American Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "James L. Hendrix"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Efforts To Reopen The African Slave Trade In Louisiana"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1968."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.31390/gradschool_disstheses.8262"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, History, and American Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/V9/V9CIQLVS.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.31390/gradschool_disstheses.8262"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "GL4J2SG8",
+  "uri": "https://medjat.irokosociety.org/id/library/GL4J2SG8",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GL4J2SG8",
+  "zotero": {
+    "group": "6479329",
+    "key": "GL4J2SG8",
+    "version": 2700,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GL4J2SG8",
+    "dateAdded": "2026-05-18T18:57:30Z",
+    "dateModified": "2026-05-20T16:25:02Z"
+  },
+  "display": {
+    "title": "Santería Copresence and the Making of African Diaspora Bodies",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Aisha Beliso‐De Jesús"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "Cultural Anthropology",
+    "publicationTitle": "Cultural Anthropology",
+    "bookTitle": "",
+    "journalAbbreviation": "Cultural Anthropology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "29",
+    "issue": "3",
+    "pages": "503-526",
+    "abstract": "In Santería priesthoods, practitioners are “made” into African diaspora bodies in what is called “making santo.” These embodied epistemologies reveal not only the complex historical practices that have emerged through processes of racialization and enslavement but also how a body logic resituates the formations of diasporic feeling and sensing. I argue that practitioners’ everyday acts redefine the capacities of and for action as part of a spiritual habitus. The various rituals, works, and spiritual acts in Santería thus culminate in a different form of bodily engagement with the world, operating in racial space. This article examines Santería body logics, showing how what I call copresences are activated in somatic racial ontologies. I suggest that these diasporic sensings resituate anthropological universalisms, arguing for a disruption in the debate between mediation and practice in the anthropology of religion. Rather than assuming notions of presence, copresence allows for an intervention that hails Santería’s embodied epistemology as a form of diasporic sensing.",
+    "doi": "10.14506/ca29.3.04",
+    "url": "https://doi.org/10.14506/ca29.3.04",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anthropological Studies and Insights",
+      "Geographies of human-animal interactions",
+      "Psychedelics and Drug Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Aisha Beliso‐De Jesús"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Santería Copresence and the Making of African Diaspora Bodies"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cultural Anthropology, 2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "503-526 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14506/ca29.3.04"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geographies of human-animal interactions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Psychedelics and Drug Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GL/GL4J2SG8.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14506/ca29.3.04"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

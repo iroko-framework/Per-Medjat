@@ -1,0 +1,114 @@
+{
+  "key": "LG7APPCT",
+  "uri": "https://medjat.irokosociety.org/id/library/LG7APPCT",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LG7APPCT",
+  "zotero": {
+    "group": "6479329",
+    "key": "LG7APPCT",
+    "version": 1374,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LG7APPCT",
+    "dateAdded": "2026-05-19T13:29:01Z",
+    "dateModified": "2026-05-19T13:29:01Z"
+  },
+  "display": {
+    "title": "Cuban heritage in Africa: Deported Ñáñigos to Fernando Po in the 19th century",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Isabela de Aranzadi"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "18",
+    "issue": "2",
+    "pages": "2-41",
+    "abstract": "This paper focuses on the 19th century deportation of Nanigos (members of Abakua, a Cuban secret society) to Fernando Po (Bioko). I argue against the widely held negative image of this group as portrayed in the news and press information in Spanish newspapers from 1865 to 1950 that document the Cuban heritage in Africa. I highlight the point that the deportation of Nanigos to Africa was,in part, due to their association with,in part, due to their association with rebel groups in the decades and years prior to and during the War of Independence. Further, I pointed out the need of the Spanish Government to colonize the African island and use it to harbor expelled groups from the Caribbean island prosecuted for their rebellious character against the colony. As a result, many emancipated slaves1 and Cuban people were deported to Fernando Po in the second half of the nineteenth century, which explains their presence on the island. I discuss, in details, their memory, which has been maintained through some cultural elements - rituals, body attires, and musical and dance elements.. Keywords: Nanigos, slave heritage, Bonko ritual dance, Nankue ritual dance, initiation societies, Cuban deportees",
+    "doi": "",
+    "url": "https://openalex.org/W2347673169",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean and African Literature and Culture",
+      "Cuban History and Society",
+      "Hispanic-African Historical Relations"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Isabela de Aranzadi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Cuban heritage in Africa: Deported Ñáñigos to Fernando Po in the 19th century"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "2-41 p."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean and African Literature and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LG/LG7APPCT.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "857DRSNL",
+  "uri": "https://medjat.irokosociety.org/id/library/857DRSNL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=857DRSNL",
+  "zotero": {
+    "group": "6479329",
+    "key": "857DRSNL",
+    "version": 2346,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/857DRSNL",
+    "dateAdded": "2026-05-19T14:20:06Z",
+    "dateModified": "2026-05-19T14:20:06Z"
+  },
+  "display": {
+    "title": "The cotton trade and Brazilian foreign commerce during the industrial revolution",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Thales Pereira"
+      }
+    ],
+    "year": "2017",
+    "date": "2017",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on. It is our responsibility to leave the people of the future a free hand. In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time. This we will do if we say we have the answers now, so",
+    "doi": "10.11606/t.12.2017.tde-17082017-091648",
+    "url": "https://doi.org/10.11606/t.12.2017.tde-17082017-091648",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Economic Growth and Productivity",
+      "Economic Theory and Policy",
+      "Global trade and economics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Thales Pereira"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The cotton trade and Brazilian foreign commerce during the industrial revolution"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2017."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/t.12.2017.tde-17082017-091648"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Growth and Productivity"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Economic Theory and Policy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global trade and economics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/85/857DRSNL.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/t.12.2017.tde-17082017-091648"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

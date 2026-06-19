@@ -1,0 +1,118 @@
+{
+  "key": "K9B9NI4C",
+  "uri": "https://medjat.irokosociety.org/id/library/K9B9NI4C",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=K9B9NI4C",
+  "zotero": {
+    "group": "6479329",
+    "key": "K9B9NI4C",
+    "version": 1317,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/K9B9NI4C",
+    "dateAdded": "2026-05-19T13:28:51Z",
+    "dateModified": "2026-05-19T13:28:51Z"
+  },
+  "display": {
+    "title": "Artist Segue 5: José Bedia",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ann Rowson Love"
+      },
+      {
+        "role": "editor",
+        "name": "Deborah Randolph"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "71-91",
+    "abstract": "Cuban American José Bedia's artistic practice mirrors ethnography through his close examination of cultural performance and ritual, material culture, imagery, and storytelling. He is a participant-observer of cultural ways of knowing, which become synthesized in his art. His fieldwork with the Semana Santa in Mexico, the Lakota in North America, and Afro-Transatlantic cultures such as Le Regla Kongo, Regla de Ocho, and the Leopard Society of Abakuas, to name a few, is reflected in his artistic practice. He immerses himself into the place and with the event as a learner, making sketches, taking photographs, and writing notes. These understandings appear in his art.",
+    "doi": "10.4324/9780429262326-11",
+    "url": "https://doi.org/10.4324/9780429262326-11",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "History, Culture, and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ann Rowson Love"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Artist Segue 5: José Bedia"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "71-91 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9780429262326-11"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History, Culture, and Society"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Deborah Randolph"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/K9/K9B9NI4C.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9780429262326-11"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

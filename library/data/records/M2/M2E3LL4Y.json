@@ -1,0 +1,116 @@
+{
+  "key": "M2E3LL4Y",
+  "uri": "https://medjat.irokosociety.org/id/library/M2E3LL4Y",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=M2E3LL4Y",
+  "zotero": {
+    "group": "6479329",
+    "key": "M2E3LL4Y",
+    "version": 1254,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M2E3LL4Y",
+    "dateAdded": "2026-05-19T13:28:39Z",
+    "dateModified": "2026-05-19T13:28:39Z"
+  },
+  "display": {
+    "title": "La Sociedad Abakua Enigmas y realidades di Ediel Gonzales Herrera, Ediciones Extramuros, La Habana, 2017",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Giovanna Campani"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "publicationTitle": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "bookTitle": "",
+    "journalAbbreviation": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.13128/ccselap-24510",
+    "url": "https://doi.org/10.13128/ccselap-24510",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Spanish Culture and Identity",
+      "Spanish Literature and Culture Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Giovanna Campani"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "La Sociedad Abakua Enigmas y realidades di Ediel Gonzales Herrera, Ediciones Extramuros, La Habana, 2017"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "DOAJ (DOAJ: Directory of Open Access Journals), 2019."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.13128/ccselap-24510"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Culture and Identity"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/M2/M2E3LL4Y.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.13128/ccselap-24510"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

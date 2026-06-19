@@ -1,0 +1,130 @@
+{
+  "key": "RF7P7NUG",
+  "uri": "https://medjat.irokosociety.org/id/library/RF7P7NUG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RF7P7NUG",
+  "zotero": {
+    "group": "6479329",
+    "key": "RF7P7NUG",
+    "version": 963,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RF7P7NUG",
+    "dateAdded": "2026-05-19T13:27:22Z",
+    "dateModified": "2026-05-19T13:27:22Z"
+  },
+  "display": {
+    "title": "Tattoos of the Marielitos",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rafael Martínez"
+      },
+      {
+        "role": "editor",
+        "name": "Charles V. Wetli"
+      }
+    ],
+    "year": "1989",
+    "date": "1989",
+    "publisher": "American Journal of Forensic Medicine & Pathology",
+    "publicationTitle": "American Journal of Forensic Medicine & Pathology",
+    "bookTitle": "",
+    "journalAbbreviation": "American Journal of Forensic Medicine & Pathology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "10",
+    "issue": "4",
+    "pages": "315-325",
+    "abstract": "Tattoos on Cuban refugees, particularly those who entered the United States during the Mariel Boatlift of 1980, have been associated with both criminal activity and religious affiliations. In an effort to understand better the significance and meanings of these tattoos, a series of interviews (initially informal, followed by a formal survey instrument) were conducted. Examples of the various tattoos were gleaned from the files of the Dade County Medical Examiner Department. In general, tattoos on Cuban refugees signify prior incarceration in Cuban prisons, usually do not reflect criminal specialization, and often reflect affiliation to Afro-Caribbean cults (especially Santeria, Palo Mayombe, and the Abakua Secret Society). In addition, many tattoos reflect the values and attitudes of Cuban jail subculture.",
+    "doi": "10.1097/00000433-198912000-00008",
+    "url": "https://doi.org/10.1097/00000433-198912000-00008",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Asian Culture and Media Studies",
+      "Sexuality, Behavior, and Technology",
+      "Tattoo and Body Piercing Complications"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rafael Martínez"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Tattoos of the Marielitos"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "American Journal of Forensic Medicine & Pathology, 1989."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "315-325 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1097/00000433-198912000-00008"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian Culture and Media Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sexuality, Behavior, and Technology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Tattoo and Body Piercing Complications"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Charles V. Wetli"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/RF/RF7P7NUG.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1097/00000433-198912000-00008"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

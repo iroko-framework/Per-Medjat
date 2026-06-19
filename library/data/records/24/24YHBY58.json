@@ -1,0 +1,121 @@
+{
+  "key": "24YHBY58",
+  "uri": "https://medjat.irokosociety.org/id/library/24YHBY58",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=24YHBY58",
+  "zotero": {
+    "group": "6479329",
+    "key": "24YHBY58",
+    "version": 1176,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/24YHBY58",
+    "dateAdded": "2026-05-19T13:28:19Z",
+    "dateModified": "2026-05-19T13:28:19Z"
+  },
+  "display": {
+    "title": "47The Abakuá Murals: Visual Coefficients of Mythical Narratives",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Francisca Marcela Andrade Lucena"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "47-72",
+    "abstract": "In Afro-Latin American ethnographies, there is a strong focus on assemblages and compositions that reflect the everyday interactions between humans and their connections with spiritual entities and supernatural forces.These configurations often emphasize the spiritual and supernatural dimensions more than the purely human or material aspects.Such assemblages articulate and enable what Wirtz 1 referred to as a dialogical and poetic relation between chronotopes; not just juxtapositions of cultural contexts or the reexamination of historicities, but an actual taking into account of the formation of processes and intersections between the agents involved, whether they are living, dead or deified, 2 emphasizing the significant feedback that emerges from the relationships between them.Without taking into account only the declared characteristics of material culture, nor only the instantiation and figuration 3 of elements as vehicles of agency, 4 the corollary of my analytical proposal is made by thinking not only from materiality that creates new engenderings, but also by wondering what can emerge when they are not confined by rigid disciplinary boundaries.By considering my own experience in the field alongside the members of the Abaku Society, an institutionalized religious brotherhood in Cuba, I was able to realize that directing my attention to their forms of acoustic and visual mediation -the two dimensions experienced by the interlocutors -in the ritual dynamic enabled me to Kristina Wirtz, \"The Living, The Dead, and The Immanent: Dialogue Across Chronotopes,\" Hau:",
+    "doi": "10.1515/9783112224939-003",
+    "url": "https://doi.org/10.1515/9783112224939-003",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anthropological Studies and Insights",
+      "Archaeology and Rock Art Studies",
+      "Public Spaces through Art"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Francisca Marcela Andrade Lucena"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "47The Abakuá Murals: Visual Coefficients of Mythical Narratives"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2025."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "47-72 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1515/9783112224939-003"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archaeology and Rock Art Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Public Spaces through Art"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/24/24YHBY58.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1515/9783112224939-003"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

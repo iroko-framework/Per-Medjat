@@ -1,0 +1,109 @@
+{
+  "key": "YSLIKTRB",
+  "uri": "https://medjat.irokosociety.org/id/library/YSLIKTRB",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YSLIKTRB",
+  "zotero": {
+    "group": "6479329",
+    "key": "YSLIKTRB",
+    "version": 2217,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YSLIKTRB",
+    "dateAdded": "2026-05-19T14:19:47Z",
+    "dateModified": "2026-05-19T14:19:47Z"
+  },
+  "display": {
+    "title": "Delay compensation in bilateral teleoperation using predictor observers",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Tuğba Leblebici"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Sabanci University",
+    "publicationTitle": "Sabanci University",
+    "bookTitle": "",
+    "journalAbbreviation": "Sabanci University",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Destabilization and performance degradation problems caused by the time delay in communication channel is a serious problem in bilateral teleoperation. In particular, variability of the delay due to limited bandwidth, long distance or congestion in transmission problems has been a real challenge in bilateral teleoperation research since the internet communication has become prevalent. Many existing delay compensation techniques are designed for linear teleoperator systems. In order to implement them on real bilateral systems, the nonlinear dynamics of the robots must first be linearized. For this purpose feedback linearization is usually employed. In this thesis, the delay compensation problem is tackled in an observer framework by designing two observers. Integration of a disturbance observer to the slave side implies a linearized slave dynamics with nominal parameters. Disturbance observer estimates the total disturbance (nonlinear terms, parametric uncertainties and external disturbances) on the slave system. A second observer is designed at the master side to predict states of the slave. This observer can be designed using a variety of linear or nonlinear methods. In order to have finite-time convergence, a sliding mode observer is designed at the master side. It is shown that this observer predicts the future positions and/or velocities of the slave and use of such predictions in the computation of a simple PD control law implies stable operation for the bilateral system. Since the disturbance observer increases the robustness of the slave system, the performance of the resulting bilateral system is quite satisfactory. Force reflecting bilateral teleoperation is also considered in this thesis. Integrating the proposed observer based delay compensation technique into the well known four-channel control architecture not only stable but also transparent bilateral teleoperation is achieved. Simulations with bilateral systems consisting of 2 DOF scara robots and pantograph robots, and experiments with bilateral systems consisting of a pair of single link robots and a pair of pantograph robots validate the proposed method.",
+    "doi": "",
+    "url": "https://openalex.org/W968236819",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Dynamics and Control of Mechanical Systems",
+      "Geophysics and Sensor Technology",
+      "Teleoperation and Haptic Systems"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Tuğba Leblebici"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Delay compensation in bilateral teleoperation using predictor observers"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Sabanci University, 2010."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Dynamics and Control of Mechanical Systems"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Geophysics and Sensor Technology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Teleoperation and Haptic Systems"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YS/YSLIKTRB.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

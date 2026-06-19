@@ -1,0 +1,121 @@
+{
+  "key": "K35QC4NP",
+  "uri": "https://medjat.irokosociety.org/id/library/K35QC4NP",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=K35QC4NP",
+  "zotero": {
+    "group": "6479329",
+    "key": "K35QC4NP",
+    "version": 1359,
+    "itemType": "bookSection",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/K35QC4NP",
+    "dateAdded": "2026-05-19T13:28:58Z",
+    "dateModified": "2026-05-19T13:28:58Z"
+  },
+  "display": {
+    "title": "The Giant Lamellophones",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Richard Graham"
+      }
+    ],
+    "year": "2021",
+    "date": "2021",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "Focal Press eBooks",
+    "journalAbbreviation": "Focal Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "202-212",
+    "abstract": "In the study of organology, African lamellophones are a unique class of musical instruments. It is to the transatlantic influence of Afro-Cuban music that we turn to reconstruct the creation and diffusion of the giant lamellophones. These instruments were associated with Abakua lodges, the Western Cuban outpost of fraternal associations which originated in southeastern Nigeria and southwestern Cameroon. With the advent of the Cuban son in the early 20th century, the music and instrumentation of the son conjuntos were heard and replicated through the medium of records, films, and touring groups in Jamaica, Puerto Rico, Colombia, and Argentina. Inter-island migrant workers helped to spread Cuban musical instruments and performance practices throughout the Caribbean. In 1965, the musicologist George List recorded a Colombian marimbula player, Jose Isabel Castillo Martinez, who employed a “showy” technique wherein he passed his left hand underneath his bent knee to play the instrument, an attitude with clear connections to the Angolan likembe and other handheld lamellophones.",
+    "doi": "10.4324/9781003003526-22",
+    "url": "https://doi.org/10.4324/9781003003526-22",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book Chapter",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society",
+      "Music History and Culture"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Richard Graham"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Giant Lamellophones"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2021."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "202-212 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9781003003526-22"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Music History and Culture"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book Chapter"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/K3/K35QC4NP.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9781003003526-22"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

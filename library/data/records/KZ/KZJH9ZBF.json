@@ -1,0 +1,103 @@
+{
+  "key": "KZJH9ZBF",
+  "uri": "https://medjat.irokosociety.org/id/library/KZJH9ZBF",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KZJH9ZBF",
+  "zotero": {
+    "group": "6479329",
+    "key": "KZJH9ZBF",
+    "version": 1911,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KZJH9ZBF",
+    "dateAdded": "2026-05-19T14:18:36Z",
+    "dateModified": "2026-05-19T14:18:36Z"
+  },
+  "display": {
+    "title": "Poverty, living conditions and social relations : aspects of life in Cape Town in the 1830's",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Shirley Ann Judges"
+      }
+    ],
+    "year": "1977",
+    "date": "1977",
+    "publisher": "Open University of Cape Town (University of Cape Town)",
+    "publicationTitle": "Open University of Cape Town (University of Cape Town)",
+    "bookTitle": "",
+    "journalAbbreviation": "Open University of Cape Town (University of Cape Town)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The chief topic discussed in this thesis is poverty - whether it existed in Cape Town during the 1830s; if so, how it can be measured, how it came to exist. Related to this are general living conditions in Cape Town and in particular, the effect their poverty had on the living conditions, health and well-being of the poor. There are also the questions of whether there was any relationship between poverty and race and/or poverty and slavery, and the extent to which social relations in Cape Town were based an economic or racial considerations. Also, given the changes in the status of coloured people, what effect these changes had on Cape Town society during this period. The emphasis throughout this thesis is on 'the poor'. This raises the question of what 'the poor' and 'poverty' actually mean. In Section I an attempt is made to define poverty 'by drawing up an estimate of minimum family expenditure, thus establishing a 'poverty line'. Some occupations are identified, the earnings from which were insufficient to meet this minimum. This provides an indication of the sort of people likely to have been suffering poverty.",
+    "doi": "",
+    "url": "http://hdl.handle.net/11427/17769",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Dutch Social and Cultural Studies",
+      "Historical Education Studies Worldwide"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Shirley Ann Judges"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Poverty, living conditions and social relations : aspects of life in Cape Town in the 1830's"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Open University of Cape Town (University of Cape Town), 1977."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Dutch Social and Cultural Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Education Studies Worldwide"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/KZ/KZJH9ZBF.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

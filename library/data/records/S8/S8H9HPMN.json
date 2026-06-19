@@ -1,0 +1,103 @@
+{
+  "key": "S8H9HPMN",
+  "uri": "https://medjat.irokosociety.org/id/library/S8H9HPMN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=S8H9HPMN",
+  "zotero": {
+    "group": "6479329",
+    "key": "S8H9HPMN",
+    "version": 1875,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/S8H9HPMN",
+    "dateAdded": "2026-05-19T14:18:25Z",
+    "dateModified": "2026-05-19T14:18:25Z"
+  },
+  "display": {
+    "title": "The creative writer and West Indian society : Jamaica 1900-1950",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Claudette Rhonda Cobham-Sander"
+      }
+    ],
+    "year": "1981",
+    "date": "1981",
+    "publisher": "St Andrews Research Repository (St Andrews Research Repository)",
+    "publicationTitle": "St Andrews Research Repository (St Andrews Research Repository)",
+    "bookTitle": "",
+    "journalAbbreviation": "St Andrews Research Repository (St Andrews Research Repository)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Reinhard Sander, whose help and support at every stage of this project has been invaluable.We first met as a result of our mutual research interests and over the years the checking of quotations and footnotes has become a regular feature of our life together.Apart from allowing",
+    "doi": "",
+    "url": "http://hdl.handle.net/10023/7111",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Migration, Ethnicity, and Economy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Claudette Rhonda Cobham-Sander"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The creative writer and West Indian society : Jamaica 1900-1950"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "St Andrews Research Repository (St Andrews Research Repository), 1981."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Ethnicity, and Economy"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/S8/S8H9HPMN.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

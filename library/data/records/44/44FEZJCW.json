@@ -1,0 +1,120 @@
+{
+  "key": "44FEZJCW",
+  "uri": "https://medjat.irokosociety.org/id/library/44FEZJCW",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=44FEZJCW",
+  "zotero": {
+    "group": "6479329",
+    "key": "44FEZJCW",
+    "version": 1481,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/44FEZJCW",
+    "dateAdded": "2026-05-04T14:55:12Z",
+    "dateModified": "2026-05-04T19:12:03Z"
+  },
+  "display": {
+    "title": "Guinea's other suns : the African dynamic in Trinidad culture",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Warner-Lewis, Maureen"
+      }
+    ],
+    "year": "2015",
+    "date": "2015",
+    "publisher": "The University of the West Indies Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Kingston, Jamaica",
+    "edition": "Second edition.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "976-640-505-0",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "Shango Baptist"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Trinidad and Tobago -- Civilization -- African influences"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Warner-Lewis, Maureen"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Guinea's other suns : the African dynamic in Trinidad culture"
+    },
+    {
+      "field": "250",
+      "label": "Edition",
+      "value": "Second edition."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Kingston, Jamaica: The University of the West Indies Press, 2015."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "976-640-505-0"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Trinidad and Tobago -- Civilization -- African influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Shango Baptist"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/44/44FEZJCW.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Shango Baptist",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-shango-baptist"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

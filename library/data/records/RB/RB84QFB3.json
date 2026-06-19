@@ -1,0 +1,116 @@
+{
+  "key": "RB84QFB3",
+  "uri": "https://medjat.irokosociety.org/id/library/RB84QFB3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RB84QFB3",
+  "zotero": {
+    "group": "6479329",
+    "key": "RB84QFB3",
+    "version": 1011,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RB84QFB3",
+    "dateAdded": "2026-05-19T13:27:31Z",
+    "dateModified": "2026-05-19T13:27:31Z"
+  },
+  "display": {
+    "title": "The Light Inside",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "David H. Brown"
+      }
+    ],
+    "year": "2019",
+    "date": "2019",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Originally published in 2003, The Light Inside is a ground-breaking study of an Afro-Cuban secret society, its sacred arts, and their role in modern Cuban cultural history. Enslaved Africans and creoles developed the Abakuá Society, a system of men’s fraternal lodges, in urban Cuba beginnings in 1836. Drawing on years of fieldwork in the country, the book’s novel approach builds on close readings of dazzling Abakuá altars, chalk-drawn signs, and hooded masquerades. It looks at the art history of Abakuá altars, not only tracing changing styles but also how they evolve through cycles of tradition and renovation. The Light Inside reflects the essence of the artists’ creativity and experience: through adornment, altars project the powerful spirituality of Abakuá practice, an aesthetic strategy. The book also traces a biography of Abakuá objects – their shifting forms and meanings – as they participated in successive periods of Cuban cultural history. The book constructs close rhetorical and visual analyses of changing representations of the Abakuá, spanning nineteenth-century arts and letters, modern ethnographic texts, museum displays, paintings, and late twentieth century commercial kitsch. This interdisciplinary work combines art history, African Diaspora, cultural studies and cultural anthropology with Latin American.",
+    "doi": "10.4324/9780429283789",
+    "url": "https://doi.org/10.4324/9780429283789",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "David H. Brown"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Light Inside"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2019."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4324/9780429283789"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/RB/RB84QFB3.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4324/9780429283789"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

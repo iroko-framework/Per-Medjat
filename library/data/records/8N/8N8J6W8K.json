@@ -1,0 +1,109 @@
+{
+  "key": "8N8J6W8K",
+  "uri": "https://medjat.irokosociety.org/id/library/8N8J6W8K",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8N8J6W8K",
+  "zotero": {
+    "group": "6479329",
+    "key": "8N8J6W8K",
+    "version": 2316,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8N8J6W8K",
+    "dateAdded": "2026-05-19T14:20:01Z",
+    "dateModified": "2026-05-19T14:20:01Z"
+  },
+  "display": {
+    "title": "The Biafran frontier, trade, slaves, and Aro society, c. 1750-1905",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "G. Ugo Nwokeji"
+      }
+    ],
+    "year": "1999",
+    "date": "1999",
+    "publisher": "TSpace (University of Toronto)",
+    "publicationTitle": "TSpace (University of Toronto)",
+    "bookTitle": "",
+    "journalAbbreviation": "TSpace (University of Toronto)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "For 400 years, African societies supplied the labour needs of the Amencas through forced migration.This reality provokes basic questions, such as how Afnca supplied so many captives, the organization of the trade in the hinterland, the trade's political, social and cultural implications, its gender and other composition, and how African societies adjusted to the suppression of the tram-oceanic trafic in the 19\" century.This study addresses these questions as they relate to the Bight of Biafh, a major expurring region.The region is of special interest because its trade developed relatively late, expanded dramaticaily frorn the mid-1 8h century onwards in the absence of large centralized states, and drew a higher proportion of females than any other region.This enquiry describes the system that produced the individuals who were forced into Atlantic slavery.Based on marinent joumals, quantitative data sets, archival material, oral data, and scholarly literature, this work demonstrates that the nse and expansion of the Aro merchant group primarily influenced the character of the Biafian trade.Unlike previous studies, which explain the organization of the hinterland trade on the basis of presence or absence of state systerns, this anaiysis associates it with the dynamics of a trade diaspora Seeing Aro Settlements in the context of a trade diaspora thmws light on crucial aspects of trade organization, commercial politics, insritutiond change, and cultural development The gender structure of the Biafkan trade was a fwction of the prevailing socio-cultural processes and the specific configuration of slave marketsdomestic, Saharan, and Atlantic.Unlike existing studies of the slave trade which have sought to explain the modes of enslavement by reference to export sarnples alone, this work incorporates the categories of captives retained in in the region.The study maintains that the means by which a person becarne captive was the principal determinant of his or her destination.",
+    "doi": "",
+    "url": "http://www.collectionscanada.ca/obj/s4/f2/dsk1/tape9/PQDD_0018/NQ41260.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture analysis",
+      "African history and culture studies",
+      "Historical and Contemporary Political Dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "G. Ugo Nwokeji"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Biafran frontier, trade, slaves, and Aro society, c. 1750-1905"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "TSpace (University of Toronto), 1999."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture analysis"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical and Contemporary Political Dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8N/8N8J6W8K.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

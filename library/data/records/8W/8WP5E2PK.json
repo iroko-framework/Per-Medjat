@@ -1,0 +1,103 @@
+{
+  "key": "8WP5E2PK",
+  "uri": "https://medjat.irokosociety.org/id/library/8WP5E2PK",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8WP5E2PK",
+  "zotero": {
+    "group": "6479329",
+    "key": "8WP5E2PK",
+    "version": 1329,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8WP5E2PK",
+    "dateAdded": "2026-05-19T13:28:53Z",
+    "dateModified": "2026-05-19T13:28:53Z"
+  },
+  "display": {
+    "title": "Prácticas mágico – religiosas en Ecué – Yamba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nellys Montenegro de la Hoz"
+      }
+    ],
+    "year": "2014",
+    "date": "2014",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "1",
+    "issue": "1",
+    "pages": "",
+    "abstract": "Este Articulo pretende mostrar como las practicas magico - religiosas afrocubanas reafirman la identidad cultural a traves de la obra Ecue-Yamba-O. En ella convergen manifestaciones culturales afrocubanas en la que se develan rasgos de identidad: Creencias magico- religiosas como: Mito, Ritos, Brujeria, La Cosmogonia Yoruba y La Religion Catolica, El naniguismo o Abakua. Todos y cada uno de estos aspectos logran mantenerse gracias a la funcionalidad de la oralidad que apuesta a la memoria cultural de personajes como MenegildoCue y su familia.",
+    "doi": "",
+    "url": "https://openalex.org/W2294201585",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Literature, Culture, and Aesthetics",
+      "Literature, Magical Realism, García Márquez"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nellys Montenegro de la Hoz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Prácticas mágico – religiosas en Ecué – Yamba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2014."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Aesthetics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Magical Realism, García Márquez"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8W/8WP5E2PK.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

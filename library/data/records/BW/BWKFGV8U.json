@@ -1,0 +1,109 @@
+{
+  "key": "BWKFGV8U",
+  "uri": "https://medjat.irokosociety.org/id/library/BWKFGV8U",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BWKFGV8U",
+  "zotero": {
+    "group": "6479329",
+    "key": "BWKFGV8U",
+    "version": 2001,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BWKFGV8U",
+    "dateAdded": "2026-05-19T14:19:02Z",
+    "dateModified": "2026-05-19T14:19:02Z"
+  },
+  "display": {
+    "title": "Why not marry them? History, essentialism and the condition of slave descendants among the southern Betsileo (Madagascar)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Denis Regnier"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "UPT. Syiah Kuala University Library (Syiah Kuala University)",
+    "publicationTitle": "UPT. Syiah Kuala University Library (Syiah Kuala University)",
+    "bookTitle": "",
+    "journalAbbreviation": "UPT. Syiah Kuala University Library (Syiah Kuala University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The thesis investigates the condition of slave descendants among the southern&#13;\\nBetsileo of Madagascar. Unlike previous research, which has focused on the&#13;\\ndependency of those slave descendants who stayed as share-croppers on their former&#13;\\nmasters’ land and on the discrimination against slave descent migrants, the present&#13;\\nstudy focuses on a group of slave descendants, the Berosaiña, who own their land and&#13;\\nhave acquired autonomy and wealth. Based on fieldwork in a rural area south of&#13;\\nAmbalavao, the thesis presents an ethnographic study of the ambivalent relations&#13;\\nbetween the Berosaiña and their neighbours of free descent. It shows that the&#13;\\nBerosaiña’s knowledge of local history and of their ancestor’s role in the region’s&#13;\\nsettlement is one of their key stakes in local politics, while the free descendants’&#13;\\nrefusal to marry them is the most serious obstacle to their integration. A close study of&#13;\\nslave descendants’ genealogies and of local marriage practices suggests that, although&#13;\\na few ‘unilateral’ marriages occurred, no ‘bilateral’ marriage between commoner&#13;\\ndescendants and the Berosaiña ever took place. After suggesting an explanation for&#13;\\nthe avoidance of marriage with the Berosaiña, the thesis proceeds by showing that the&#13;\\ncategory ‘slaves’ is essentialized by commoner descendants. The essentialist construal&#13;\\nof ‘slaves’, it is argued, is likely to have become entrenched only in the aftermath of&#13;\\nthe abolition of slavery, because the circumstances in which it occurred prevented a&#13;\\nlarge number of freed slaves to be ritually cleansed and because a number of&#13;\\nestablished cultural practices made it difficult for freed slaves to marry free people.&#13;\\nFinally, the thesis analyses the peculiar predicament of the Berosaiña in light of the&#13;\\nstrict marriage avoidance observed by commoner descendants and of commoner&#13;\\ndescendants’ highly essentialized views about ‘slaves’.",
+    "doi": "",
+    "url": "http://etheses.lse.ac.uk/362/1/Regnier_Why%20not%20marry%20them.pdf",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies",
+      "Colonialism, slavery, and trade",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Denis Regnier"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Why not marry them? History, essentialism and the condition of slave descendants among the southern Betsileo (Madagascar)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "UPT. Syiah Kuala University Library (Syiah Kuala University), 2012."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BW/BWKFGV8U.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

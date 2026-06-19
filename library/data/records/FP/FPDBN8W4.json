@@ -1,0 +1,109 @@
+{
+  "key": "FPDBN8W4",
+  "uri": "https://medjat.irokosociety.org/id/library/FPDBN8W4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FPDBN8W4",
+  "zotero": {
+    "group": "6479329",
+    "key": "FPDBN8W4",
+    "version": 759,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FPDBN8W4",
+    "dateAdded": "2026-05-18T18:57:33Z",
+    "dateModified": "2026-05-18T18:57:33Z"
+  },
+  "display": {
+    "title": "Agbékà ọrọ Yoruba appropriate words and expressions in Yoruba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Delanọ, Isaac O. 1904-1979"
+      }
+    ],
+    "year": "1960",
+    "date": "1960",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W7111558942",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Historical Studies in Central America",
+      "Lexicography and Language Studies",
+      "Multilingual Education and Policy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Delanọ, Isaac O. 1904-1979"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Agbékà ọrọ Yoruba appropriate words and expressions in Yoruba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1960."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Historical Studies in Central America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Lexicography and Language Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Multilingual Education and Policy"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/FP/FPDBN8W4.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key": "G7VEUEB2",
+  "uri": "https://medjat.irokosociety.org/id/library/G7VEUEB2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G7VEUEB2",
+  "zotero": {
+    "group": "6479329",
+    "key": "G7VEUEB2",
+    "version": 1821,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G7VEUEB2",
+    "dateAdded": "2026-05-19T14:18:10Z",
+    "dateModified": "2026-05-19T14:18:10Z"
+  },
+  "display": {
+    "title": "Contested nationalism and the 1932 overthrow of the absolute monarchy in Siam",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Matthew P. Copeland"
+      }
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "ANU Open Research (Australian National University)",
+    "publicationTitle": "ANU Open Research (Australian National University)",
+    "bookTitle": "",
+    "journalAbbreviation": "ANU Open Research (Australian National University)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "In contrast to the other nationalisms of Southeast Asia, popular nationalisms engendered by the colonial experience which eventually served to undermine the basis of colonial rule, Thai nationalism has been frequently characterized as an elite discourse of political legitimation. Faced with the threat of European imperial advance in the region, a succession of Jakkri monarchs are thought to have formulated and disseminated the underlying tenets of an official nationalist discourse in a twofold effort to mobilize the Siamese populace and build popular support for the dynastic state. And in this endeavor, they are generally held to have succeeded, enhancing the legitimacy of the Siamese throne and creating an ideological framework for the emergence of the modern Thai nation-state. Drawing upon a variety of press and archival sources, this study is an attempt to construct an alternate account of the Thai nation's early history. Its central thesis is that Thai nationalism evolved in much the same manner as the nationalisms of neighboring colonial states -emerging as the contested discourse of a ruling elite and a disenfranchised urban literati, gaining momentum and shape as an intellectual movement for popular sovereignty, and ultimately reaching a fruition of sorts with the overthrow of the absolute monarchy on 24 June 1932, an event which can be said to mark the figurative 'liberation' of the Thai nation.",
+    "doi": "10.25911/5d7785f1c8f41",
+    "url": "https://doi.org/10.25911/5d7785f1c8f41",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Asian Geopolitics and Ethnography",
+      "Cambodian History and Society",
+      "Southeast Asian Sociopolitical Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Matthew P. Copeland"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Contested nationalism and the 1932 overthrow of the absolute monarchy in Siam"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "ANU Open Research (Australian National University), 1993."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25911/5d7785f1c8f41"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Asian Geopolitics and Ethnography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cambodian History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Southeast Asian Sociopolitical Studies"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/G7/G7VEUEB2.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25911/5d7785f1c8f41"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

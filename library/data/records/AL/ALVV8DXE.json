@@ -1,0 +1,106 @@
+{
+  "key": "ALVV8DXE",
+  "uri": "https://medjat.irokosociety.org/id/library/ALVV8DXE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ALVV8DXE",
+  "zotero": {
+    "group": "6479329",
+    "key": "ALVV8DXE",
+    "version": 1203,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ALVV8DXE",
+    "dateAdded": "2026-05-19T13:28:27Z",
+    "dateModified": "2026-05-19T13:28:27Z"
+  },
+  "display": {
+    "title": "Abakua: rytuał i tragedia / Fernando Ortiz ; przełoż. Katarzyna Górna-Urbańska.",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Fernando Ortiz"
+      },
+      {
+        "role": "editor",
+        "name": "Katarzyna Górna-Urbańska"
+      }
+    ],
+    "year": "1989",
+    "date": "1989",
+    "publisher": "Dialog : miesięcznik Związku Literatów Polskich",
+    "publicationTitle": "Dialog : miesięcznik Związku Literatów Polskich",
+    "bookTitle": "",
+    "journalAbbreviation": "Dialog : miesięcznik Związku Literatów Polskich",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "34",
+    "issue": "3",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W992241453",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Central European Literary Studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Fernando Ortiz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Abakua: rytuał i tragedia / Fernando Ortiz ; przełoż. Katarzyna Górna-Urbańska."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Dialog : miesięcznik Związku Literatów Polskich, 1989."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central European Literary Studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Katarzyna Górna-Urbańska"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/AL/ALVV8DXE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

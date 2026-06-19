@@ -1,0 +1,119 @@
+{
+  "key": "TWXAN2ZZ",
+  "uri": "https://medjat.irokosociety.org/id/library/TWXAN2ZZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=TWXAN2ZZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "TWXAN2ZZ",
+    "version": 930,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/TWXAN2ZZ",
+    "dateAdded": "2026-05-19T13:27:16Z",
+    "dateModified": "2026-05-19T13:27:16Z"
+  },
+  "display": {
+    "title": "Voice of the Leopard",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ivor L. Miller"
+      },
+      {
+        "role": "series editor",
+        "name": "Bassey Echeng Bassey"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "University Press of Mississippi eBooks",
+    "publicationTitle": "University Press of Mississippi eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "University Press of Mississippi eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Abstract This book shows how African migrants and their political fraternities played a formative role in the history of Cuba. During the eighteenth and nineteenth centuries, no large kingdoms controlled Nigeria and Cameroon's multilingual Cross River basin. Instead, each settlement had its own lodge of the initiation society called Ékpè, or \"leopard,\" which was the highest indigenous authority. Ékpè lodges ruled local communities while also managing regional and long-distance trade. Cross River Africans, enslaved and forcibly brought to colonial Cuba, reorganized their Ékpè clubs covertly in Havana and Matanzas into a mutual-aid society called Abakuá, which became foundational to Cuba's urban life and music. The book's author's extensive fieldwork in Cuba and West Africa documents ritual languages and practices that survived the Middle Passage and evolved into a unifying charter for transplanted slaves and their successors. To gain deeper understanding of the material, the author underwent Ékpè initiation rites in Nigeria after ten years' collaboration with Abakuá initiates in Cuba and the United States. The book argues that Cuban music, art, and even politics rely on complexities of these African-inspired codes of conduct and leadership. The book is a tracing of an African title-society to its Caribbean incarnation, which has deeply influenced Cuba's creative energy and popular consciousness.",
+    "doi": "10.14325/mississippi/9781934110836.001.0001",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.001.0001",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Caribbean history, culture, and politics",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ivor L. Miller"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Voice of the Leopard"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University Press of Mississippi eBooks, 2009."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.14325/mississippi/9781934110836.001.0001"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Bassey Echeng Bassey"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/TW/TWXAN2ZZ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.14325/mississippi/9781934110836.001.0001"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+.build/
+medjat-tools/
+.data-legacy-removed/

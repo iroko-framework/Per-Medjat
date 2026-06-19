@@ -1,0 +1,109 @@
+{
+  "key": "24NCDVPQ",
+  "uri": "https://medjat.irokosociety.org/id/library/24NCDVPQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=24NCDVPQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "24NCDVPQ",
+    "version": 1263,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/24NCDVPQ",
+    "dateAdded": "2026-05-19T13:28:40Z",
+    "dateModified": "2026-05-19T13:28:40Z"
+  },
+  "display": {
+    "title": "Calling the Ancestors to Dance",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Elizabeth Kimzey Batiuk"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Journal of Extreme Anthropology",
+    "publicationTitle": "Journal of Extreme Anthropology",
+    "bookTitle": "",
+    "journalAbbreviation": "Journal of Extreme Anthropology",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "7",
+    "issue": "2",
+    "pages": "79-109",
+    "abstract": "The Abakuá are an all-male ceremonial association founded in Cuba in the 1830s which persist to this day as exponents of a form of Afrocuban folklore. Legally recognized on the island for the first time in 2005, the Abakuá community has asserted its autonomy and criticized state uses of folklore through public performance events. One such event on August 23, 2011, mobilizes members of the community-at-large alongside professional folkloric performers. The participation of Abakuá community members transforms the event from an official-style folkloric show to a community-centered event through changes in performance practice and the intense affect that catalyzes. This changes not only the structure of performance but the significance of the event, as it no longer centers on official messages, but rather becomes a vehicle for mobilizing the community and demonstrating their autonomy. Examining the event in terms of affective politics, this article proposes the concept of feelings of coherence to understand how collaborative agency of performance intersects with intensity of affect and meaning in performance. Using evidence from interviews and observation, the analysis of the event shows how the community successfully re-frame the event and motivate participation through processes experienced by the individual but operating at the level of the collective.",
+    "doi": "10.5617/jea.10289",
+    "url": "https://doi.org/10.5617/jea.10289",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Diversity and Impact of Dance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Elizabeth Kimzey Batiuk"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Calling the Ancestors to Dance"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Journal of Extreme Anthropology, 2024."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "79-109 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.5617/jea.10289"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Diversity and Impact of Dance"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/24/24NCDVPQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.5617/jea.10289"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

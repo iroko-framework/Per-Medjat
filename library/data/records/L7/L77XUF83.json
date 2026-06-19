@@ -1,0 +1,141 @@
+{
+  "key": "L77XUF83",
+  "uri": "https://medjat.irokosociety.org/id/library/L77XUF83",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=L77XUF83",
+  "zotero": {
+    "group": "6479329",
+    "key": "L77XUF83",
+    "version": 911,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/L77XUF83",
+    "dateAdded": "2026-05-18T23:51:39Z",
+    "dateModified": "2026-05-19T00:03:35Z"
+  },
+  "display": {
+    "title": "Afro-Brazilian religions in Portugal: bruxos, priests and pais de santo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Clara Saraiva"
+      }
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Etnografica",
+    "publicationTitle": "Etnografica",
+    "bookTitle": "",
+    "journalAbbreviation": "Etnografica",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "vol. 14 (2)",
+    "issue": "",
+    "pages": "265-288",
+    "abstract": "The Afro-Brazilian religions that established themselves in Portugal during the last twenty years are becoming more and more popular. The temples are full with Portuguese followers that, after going through the initiation processes, become important in the organization of the religious community and, with time, may themselves become priests. Most of them previously believers in the Catholic church, their turning towards the Afro-Brazilian cults most of the times does not keep them from sustaining their regular church-going practices. As such, many prefer Umbanda, closer to the Catholic matrix, while others turn to Candomblé and to African performances, which are rather new to them. Drawing on field work conducted in Lisbon, in temples and with followers of these cults, and on the pioneer work of Ismael Pordeus Jr., this paper explores some of the aspects of this new “Portuguese” syncretism, the way these cults incorporating possession appeal to the ­Portuguese, and the hermeneutical process of Brazilian influences in Portugal and returning to their roots again, linking the three corners of the Portuguese Black Atlantic.",
+    "doi": "10.4000/etnografica.292",
+    "url": "https://doi.org/10.4000/etnografica.292",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Candomble"
+    ],
+    "themes": [
+      "Ritual"
+    ],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Community",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religion and Society in Latin America",
+      "Religious Tourism and Spaces",
+      "Urban and sociocultural dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Clara Saraiva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Afro-Brazilian religions in Portugal: bruxos, priests and pais de santo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Etnografica, 2010."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "265-288 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4000/etnografica.292"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ritual"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religious Tourism and Spaces"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban and sociocultural dynamics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Candomble"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/L7/L77XUF83.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4000/etnografica.292"
+    ],
+    "about": [
+      {
+        "label": "Candomble",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

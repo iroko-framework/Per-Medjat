@@ -1,0 +1,127 @@
+{
+  "key": "P44XDE5V",
+  "uri": "https://medjat.irokosociety.org/id/library/P44XDE5V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=P44XDE5V",
+  "zotero": {
+    "group": "6479329",
+    "key": "P44XDE5V",
+    "version": 196,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/P44XDE5V",
+    "dateAdded": "2026-05-14T15:45:23Z",
+    "dateModified": "2026-05-18T14:30:33Z"
+  },
+  "display": {
+    "title": "Of things said and unsaid: Power, archival silences, and power in silence",
+    "subtitle": "",
+    "shortTitle": "Of things said and unsaid",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Carter, Rodney G S"
+      }
+    ],
+    "year": "2006",
+    "date": "2006",
+    "publisher": "Association of Canadian Archivists",
+    "publicationTitle": "Archivaria",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Ottawa",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "61",
+    "pages": "",
+    "abstract": "This article examines the dynamics of silence in archives. It argues that silences are, in part, the manifestation of the actions of the powerful in denying the marginal access to archives and that this has a significant impact on the ability of the marginal groups to form social memory and history. Archivists and researchers can read archives “against the grain” and begin to highlight these silences and give voice to the silenced. This, however, may be a difficult and contentious activity and one that should not be entered into lightly. The article then examines how silence can be a method used by the marginalized to deny the archives their records as a way to exercise their power over the powerful.",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "0318-6954",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Archives",
+      "Collective memory",
+      "Freedom of information",
+      "Grain",
+      "Silence",
+      "Social groups"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Carter, Rodney G S"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Of things said and unsaid: Power, archival silences, and power in silence"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Ottawa: Association of Canadian Archivists, 2006."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Archives"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Collective memory"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Freedom of information"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Grain"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Silence"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Social groups"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/P4/P44XDE5V.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "RAFXN7LZ",
+  "uri": "https://medjat.irokosociety.org/id/library/RAFXN7LZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RAFXN7LZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "RAFXN7LZ",
+    "version": 907,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RAFXN7LZ",
+    "dateAdded": "2026-05-18T23:51:45Z",
+    "dateModified": "2026-05-18T23:51:45Z"
+  },
+  "display": {
+    "title": "O bruxo contra o comunista ou: o incômodo ceticismo de Machado de Assis",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "G. Krause"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "Kriterion Revista de Filosofia",
+    "publicationTitle": "Kriterion Revista de Filosofia",
+    "bookTitle": "",
+    "journalAbbreviation": "Kriterion Revista de Filosofia",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "48",
+    "issue": "115",
+    "pages": "235-247",
+    "abstract": "O artigo comenta a presença do ceticismo na obra de Joaquim Maria Machado de Assis a partir da crítica que lhe faz Octávio Brandão em O niilista Machado de Assis, publicado em 1958. Brandão iguala os termos \"ceticismo\", \"niilismo\", \"cinismo\" e \"pessimismo\" para melhor desqualificar a obra de Machado de Assis. O artigo procura demonstrar que esses termos designam filosofias muito diferentes, reconhecendo o ceticismo em Machado para sustentar que seu valor artístico deriva precisamente deste ceticismo.",
+    "doi": "10.1590/s0100-512x2007000100014",
+    "url": "https://doi.org/10.1590/s0100-512x2007000100014",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Brazilian cultural history and politics",
+      "Cultural, Media, and Literary Studies",
+      "Literature, Culture, and Criticism"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "G. Krause"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "O bruxo contra o comunista ou: o incômodo ceticismo de Machado de Assis"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Kriterion Revista de Filosofia, 2007."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "235-247 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/s0100-512x2007000100014"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Brazilian cultural history and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cultural, Media, and Literary Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Literature, Culture, and Criticism"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/RA/RAFXN7LZ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/s0100-512x2007000100014"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

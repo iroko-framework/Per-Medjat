@@ -1,0 +1,116 @@
+{
+  "key": "XKI2W6XY",
+  "uri": "https://medjat.irokosociety.org/id/library/XKI2W6XY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XKI2W6XY",
+  "zotero": {
+    "group": "6479329",
+    "key": "XKI2W6XY",
+    "version": 2283,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XKI2W6XY",
+    "dateAdded": "2026-05-19T14:19:56Z",
+    "dateModified": "2026-05-19T14:19:56Z"
+  },
+  "display": {
+    "title": "Empire’s angst : the politics of race, migration, and sex work in Panama, 1903-1945",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Jeffrey W. Parker"
+      }
+    ],
+    "year": "2013",
+    "date": "2013",
+    "publisher": "Texas ScholarWorks (Texas Digital Library)",
+    "publicationTitle": "Texas ScholarWorks (Texas Digital Library)",
+    "bookTitle": "",
+    "journalAbbreviation": "Texas ScholarWorks (Texas Digital Library)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This dissertation explores the negotiations and conflicts over race, sex, and disease that shaped the changing contours of the nightlife in Panama from 1903 to 1945. It investigates why sexual commerce on the isthmus evoked an array of masculine anxieties from various historical actors, including U.S. officials, Panamanian authorities, and Afro-Caribbean activists. I argue that the conflicting cultural encounters over sex work remained at the heart of U.S. imperial designs, Panamanian nationalism and state-building efforts, and Afro-Caribbean visions of racial advancement during the first half of the twentieth century. Moreover, these global visions of manliness generated at the local level also took shape in dialogue with each other. This interconnected discourse on manliness highlights the intertwined histories of the United States, Latin America, and the Caribbean in the early twentieth century. Migrant women at the center of the drama, however, became particularly adept at navigating the multiple structures of patriarchal control. They manipulated the legal system, resisted abuses of power, participated in labor organizations, pursued economic opportunities, pressed moral claims, demanded respect, and highlighted injustices. Women embroiled in controversy selected from an array of ideas circulating the region. They also played off competing understandings of manhood in order to achieve their own ends. Often these various strategies of negotiation had contradictory outcomes. Active engagement with patriarchal institutions could simultaneously reinforce gender and racial norms while challenging the material reality of daily life. Nevertheless, the failure by the U.S. and Panamanian governments to curtail sexual deviancy and venereal disease underscored the limits of imperial power at a key global crossroads in the Americas.",
+    "doi": "10.15781/t22n4zm7s",
+    "url": "https://doi.org/10.15781/t22n4zm7s",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuban History and Society",
+      "Philippine History and Culture",
+      "Sex work and related issues"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Jeffrey W. Parker"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Empire’s angst : the politics of race, migration, and sex work in Panama, 1903-1945"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Texas ScholarWorks (Texas Digital Library), 2013."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.15781/t22n4zm7s"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Philippine History and Culture"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Sex work and related issues"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/XK/XKI2W6XY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.15781/t22n4zm7s"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

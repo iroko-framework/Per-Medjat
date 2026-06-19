@@ -1,0 +1,109 @@
+{
+  "key": "CFHXAWGE",
+  "uri": "https://medjat.irokosociety.org/id/library/CFHXAWGE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CFHXAWGE",
+  "zotero": {
+    "group": "6479329",
+    "key": "CFHXAWGE",
+    "version": 2097,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CFHXAWGE",
+    "dateAdded": "2026-05-19T14:19:28Z",
+    "dateModified": "2026-05-19T14:19:28Z"
+  },
+  "display": {
+    "title": "The social and economic history of slavery in Libya (1800-1950)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Amal Mehemed Altaleb"
+      }
+    ],
+    "year": "2016",
+    "date": "2016",
+    "publisher": "Research Portal (King's College London)",
+    "publicationTitle": "Research Portal (King's College London)",
+    "bookTitle": "",
+    "journalAbbreviation": "Research Portal (King's College London)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "This thesis investigates the social and economic history of slavery in Libya in the period between 1800 and 1950. Focusing on Tripoli and the trading centres of Ghadames and Fezzan, it uses a combination of sources including legal records, travel accounts, commercial correspondence, memoirs and oral interviews to examine the impact of the slave trade, the economic and social lives of the enslaved, and their experiences of emancipation.Examining the trading of slaves in Ghadames, the thesis reveals how merchants considered slaves one commodity among others. It analyses how the slave trade continued until the Italian occupation of Libya in 1911, long after the formal prohibition of the trans-Saharan slave trade in 1856. Despite a long-term decline, caravan trading networks remained somewhat resilient and continued with alternative commodities such as ivory and ostrich feathers.This thesis then moves to analyse the social and economic lives of the enslaved, and the legal status of slavery in Libya. It explores the dynamics of employment, resistance by slaves and master-slave relations by analysing two major categories of slaves, who were treated considerably differently; those who worked in the caravan trade in Ghadames, and those slaves who worked as domestic servants in Tripoli.Many existing sources showed the differences in social relationship between slaves and masters. Different occupational categories, such as caravan workers and domestic servants, had different access to patronage, or experiences of abuse and violence. Oral interviews reveal that slaves in Tripoli experienced less violence compared to those in Ghadames and Fezzan in the nineteenth century. However, mistreated slaves had the right to a court hearing. The court provided a platform for slaves to challenge abuse, with some slaves seeking to push these boundaries further by going to court to assert their rights to better treatment by their owners.The third chapter explores the patterns of religious and economic manumission that existed in Libya before the abolition of slavery, It also traces changes of policies of emancipation that pursued by Ottoman and Italian governments. Finally, the thesis explores the social history of emancipation through examining the economic and social lives of communities of freed slaves.Through surveying a large number of legal cases, the thesis argues that slavery in Libya was marked more by continuities than change across the period of study. The legacy of slavery has persisted over time as relations of clientship between ex-slaves and ex-masters replaced direct relations of ownership. This thesis shows the difficulties faced by slaves in negotiating for clientship (al-wala?) from their former masters. Some ex-slaves unquestionably improved their status with a substantial minority experiencing social mobility as caravan workers and agents, while others remained ill-treated, with irregular work and subsistence wage labour; living on the margins of Libyan society.",
+    "doi": "",
+    "url": "https://pure.manchester.ac.uk/ws/files/54580088/FULL_TEXT.PDF",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African Studies and Geopolitics",
+      "African history and culture studies",
+      "Global Maritime and Colonial Histories"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Amal Mehemed Altaleb"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The social and economic history of slavery in Libya (1800-1950)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Research Portal (King's College London), 2016."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African Studies and Geopolitics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Global Maritime and Colonial Histories"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/CF/CFHXAWGE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

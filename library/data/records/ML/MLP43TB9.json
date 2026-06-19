@@ -1,0 +1,113 @@
+{
+  "key": "MLP43TB9",
+  "uri": "https://medjat.irokosociety.org/id/library/MLP43TB9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MLP43TB9",
+  "zotero": {
+    "group": "6479329",
+    "key": "MLP43TB9",
+    "version": 1143,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MLP43TB9",
+    "dateAdded": "2026-05-19T13:28:07Z",
+    "dateModified": "2026-05-19T13:28:07Z"
+  },
+  "display": {
+    "title": "Abakuá Secret Society",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Mark Juergensmeyer"
+      },
+      {
+        "role": "editor",
+        "name": "Wade ClarkRoof"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Encyclopedia of Global Religion",
+    "publicationTitle": "Encyclopedia of Global Religion",
+    "bookTitle": "",
+    "journalAbbreviation": "Encyclopedia of Global Religion",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "10.4135/9781412997898.n1",
+    "url": "https://doi.org/10.4135/9781412997898.n1",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Crime, Illicit Activities, and Governance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Mark Juergensmeyer"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Abakuá Secret Society"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Encyclopedia of Global Religion, 2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.4135/9781412997898.n1"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Crime, Illicit Activities, and Governance"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Wade ClarkRoof"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/ML/MLP43TB9.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.4135/9781412997898.n1"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

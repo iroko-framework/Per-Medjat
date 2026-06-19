@@ -1,0 +1,115 @@
+{
+  "key": "LQNYGUV6",
+  "uri": "https://medjat.irokosociety.org/id/library/LQNYGUV6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=LQNYGUV6",
+  "zotero": {
+    "group": "6479329",
+    "key": "LQNYGUV6",
+    "version": 1410,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LQNYGUV6",
+    "dateAdded": "2026-05-19T13:29:07Z",
+    "dateModified": "2026-05-19T13:29:07Z"
+  },
+  "display": {
+    "title": "Sarita and the Revolution: Race and Cuban Cinema",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Haseenah Ebrahim"
+      }
+    ],
+    "year": "2007",
+    "date": "2007",
+    "publisher": "European Review of Latin American and Caribbean Studies | Revista Europea de Estudios Latinoamericanos y del Caribe",
+    "publicationTitle": "European Review of Latin American and Caribbean Studies | Revista Europea de Estudios Latinoamericanos y del Caribe",
+    "bookTitle": "",
+    "journalAbbreviation": "European Review of Latin American and Caribbean Studies | Revista Europea de Estudios Latinoamericanos y del Caribe",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "82",
+    "pages": "107-118",
+    "abstract": "nnb",
+    "doi": "10.18352/erlacs.9642",
+    "url": "https://doi.org/10.18352/erlacs.9642",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cinema and Media Studies",
+      "Cuban History and Society"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Haseenah Ebrahim"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sarita and the Revolution: Race and Cuban Cinema"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "European Review of Latin American and Caribbean Studies | Revista Europea de Estudios Latinoamericanos y del Caribe, 2007."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "107-118 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.18352/erlacs.9642"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cinema and Media Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuban History and Society"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/LQ/LQNYGUV6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.18352/erlacs.9642"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

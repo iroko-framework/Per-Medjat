@@ -1,0 +1,97 @@
+{
+  "key": "FCS7QQG6",
+  "uri": "https://medjat.irokosociety.org/id/library/FCS7QQG6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=FCS7QQG6",
+  "zotero": {
+    "group": "6479329",
+    "key": "FCS7QQG6",
+    "version": 2124,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FCS7QQG6",
+    "dateAdded": "2026-05-19T14:19:32Z",
+    "dateModified": "2026-05-19T14:19:32Z"
+  },
+  "display": {
+    "title": "The Cape Khoisan in the Eastern districts of the colony before and after Ordinance 50 of 1828",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "V. C. Malherbe"
+      }
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "Open University of Cape Town (University of Cape Town)",
+    "publicationTitle": "Open University of Cape Town (University of Cape Town)",
+    "bookTitle": "",
+    "journalAbbreviation": "Open University of Cape Town (University of Cape Town)",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "My study arose from a wish to consolidate work begun in the 1970s concerning the indigenous people of the Cape -the 'Bushmen' and 'Hottentots' of the historical record who, properly, are called San and Khoi, or 'the Khoisan' My idea was to build upon existing work (of others, chiefly, but also of my own) concerning their dispossession and subordination by colonists from Europe.The focus has, as far as possible, been the people themselves, with Ordinance 50 of 1828 the pivotal point.The ordinance removed certain disabilities peculiar to the Khoisan and other 'free people of colour' in the colony, and conferred equality before the law.Other researchers have explored the alleged vagrancy of Ordinance SO's beneficiaries, its impact upon wages, and the government's administration of the law.V. CONCLUSION 399 12. Looking Back, Looking Ahead 403 'It is .. the thousand means that the spirit of oppression can employ and which I cannot recount: Honouring Ordinance SO's intent 403 'The Boors have abundance of lands, and the Settlers but the Hottentots not' Auguries for Khoisan welfare in the Kat River Settlement Coloured identity and 'Hottentot nationalism' Theorising subjugation The Khoisan, the colonists and Ordinance 50: A legacy",
+    "doi": "",
+    "url": "http://hdl.handle.net/11427/20204",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Legal Issues in South Africa"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "V. C. Malherbe"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Cape Khoisan in the Eastern districts of the colony before and after Ordinance 50 of 1828"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Open University of Cape Town (University of Cape Town), 1997."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Legal Issues in South Africa"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/FC/FCS7QQG6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

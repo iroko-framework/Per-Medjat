@@ -1,0 +1,116 @@
+{
+  "key": "WAMYWLRG",
+  "uri": "https://medjat.irokosociety.org/id/library/WAMYWLRG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WAMYWLRG",
+  "zotero": {
+    "group": "6479329",
+    "key": "WAMYWLRG",
+    "version": 1935,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WAMYWLRG",
+    "dateAdded": "2026-05-19T14:18:42Z",
+    "dateModified": "2026-05-19T14:18:42Z"
+  },
+  "display": {
+    "title": "Entre o fim do tráfico e a abolição: a manutenção da escravidão em Pelotas, RS, na segunda metade do século XIX (1850 a 1884)",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bruno Stelmach Pessi"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The present investigation has as main object the slavery in Pelotas in the second half of the nineteenth century. We sought to understand how this institution was maintained over the last 35 years of its existence, and what were the changes occurring as a result of two abolitionists laws, the Eusebio de Queiroz Law and the Law of Free Womb. In addition, we sought to understand slavery in the locality as a whole, what were the characteristics of slaves groups, their demographic profile, hou it was assembled and maintained, fleeing of the exclusiveness of the charque production, but looking to incorporate all the Pelotas slavery society. The use of serial sources and the slave ownership and historical demography methodologies made it possible to scan a very complex picture for local slavery in the studied period. Far from being a potential supplier of slaves to the coffee growing regions after the close of the transatlantic slave trade, Pelotas showed an effort to maintain slavery until almost its official end in the 1880s.",
+    "doi": "10.11606/d.8.2012.tde-11032013-120538",
+    "url": "https://doi.org/10.11606/d.8.2012.tde-11032013-120538",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Colonialism, slavery, and trade",
+      "History of Colonial Brazil",
+      "Migration, Racism, and Human Rights"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bruno Stelmach Pessi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Entre o fim do tráfico e a abolição: a manutenção da escravidão em Pelotas, RS, na segunda metade do século XIX (1850 a 1884)"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2012."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/d.8.2012.tde-11032013-120538"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "History of Colonial Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Migration, Racism, and Human Rights"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WA/WAMYWLRG.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/d.8.2012.tde-11032013-120538"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

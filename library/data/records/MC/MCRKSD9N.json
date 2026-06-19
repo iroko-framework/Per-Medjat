@@ -1,0 +1,110 @@
+{
+  "key": "MCRKSD9N",
+  "uri": "https://medjat.irokosociety.org/id/library/MCRKSD9N",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=MCRKSD9N",
+  "zotero": {
+    "group": "6479329",
+    "key": "MCRKSD9N",
+    "version": 2088,
+    "itemType": "thesis",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MCRKSD9N",
+    "dateAdded": "2026-05-19T14:19:27Z",
+    "dateModified": "2026-05-19T14:19:27Z"
+  },
+  "display": {
+    "title": "Victim of an 'Extraordinary Conspiracy'? Sir John Eardley Eardley-Wilmot Lieutenant-Governor of Van Diemen's Land 1843-46",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "LC Mickleborough"
+      }
+    ],
+    "year": "2011",
+    "date": "2011",
+    "publisher": "UTAS Research Repository",
+    "publicationTitle": "UTAS Research Repository",
+    "bookTitle": "",
+    "journalAbbreviation": "UTAS Research Repository",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Introduction -- Part 1: Environment, concepts and arrival. Ch. 1. The formation of Sir John Eardley-Wilmot's attitudes and opinions: his approach to crime and punishment in England -- Ch. 2. Prelude to Van Diemen's Land: House of Commons, slavery and financial insecurity -- Ch. 3. Appointment and reception: 'a strong &amp; steady hand'? -- Part 2: The convict system. Ch. 4. Opposition to the established scheme: assignment to probation -- Ch. 5. Probation and population: the system under Eardley-Wilmot -- Ch. 6. 'Misguided little creatures' and female protagonists -- Part 3: Colonial life, controversies and dismissal. Ch. 7. Colonial chaplaincies: church and state -- Ch. 8. Taxes, finances and elected representatives -- Ch. 9. Growth of colonial society -- Ch. 10. Rumours and recall -- Conclusion.",
+    "doi": "10.25959/23210483",
+    "url": "https://doi.org/10.25959/23210483",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Thesis / Dissertation",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Australian History and Society",
+      "Caribbean history, culture, and politics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "LC Mickleborough"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Victim of an 'Extraordinary Conspiracy'? Sir John Eardley Eardley-Wilmot Lieutenant-Governor of Van Diemen's Land 1843-46"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "UTAS Research Repository, 2011."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.25959/23210483"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Australian History and Society"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Thesis / Dissertation"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/MC/MCRKSD9N.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.25959/23210483"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

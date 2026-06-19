@@ -333,6 +333,10 @@
           <span class="quick-category-name">Themes</span>
           <span class="quick-category-count">0</span>
         </button>
+        <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="domain">
+          <span class="quick-category-name">Research Domains</span>
+          <span class="quick-category-count">0</span>
+        </button>
         <button class="quick-category-btn" type="button" role="tab" aria-selected="false" data-quick-category="frameworkClass">
           <span class="quick-category-name">Iroko Framework Classes</span>
           <span class="quick-category-count">0</span>
@@ -1313,6 +1317,7 @@ let F = {
   item: '',
   tradition: '',
   theme: '',
+  domain: '',
   type: '',
   author: '',
   title: '',
@@ -1333,6 +1338,7 @@ function filtered() {
   return ALL.filter(r => {
     const traditions = r.traditions || [];
     const themes = r.themes || [];
+    const domains = r.domains || [];
     const frameworkClasses = r.frameworkClasses || [];
     const frameworkModules = r.frameworkModules || [];
     const creators = r.creators || r.creatorLabels || [];
@@ -1350,6 +1356,13 @@ function filtered() {
     if (F.theme === '__untagged__') {
       if (themes.length > 0) return false;
     } else if (F.theme && !themes.includes(F.theme)) {
+      return false;
+    }
+
+    // Domain filter — supports __untagged__ catch-all
+    if (F.domain === '__untagged__') {
+      if (domains.length > 0) return false;
+    } else if (F.domain && !domains.includes(F.domain)) {
       return false;
     }
 
@@ -1402,7 +1415,7 @@ function sorted(recs) {
 
 /* ── Render ─────────────────────────────────────────────────── */
 function render() {
-  const active = F.query || F.tradition || F.theme || F.type || F.author || F.title || F.publisher ||
+  const active = F.query || F.tradition || F.theme || F.domain || F.type || F.author || F.title || F.publisher ||
     F.frameworkClass || F.frameworkModule || F.access || F.item;
   const area   = document.getElementById('results-area');
   const pager = document.getElementById('catalog-pagination');
@@ -1429,6 +1442,7 @@ function render() {
   if (F.query)     chips.innerHTML += chip('query',     `"${F.query}"`);
   if (F.tradition) chips.innerHTML += chip('tradition', F.tradition === '__untagged__' ? 'Tradition: Untagged' : F.tradition);
   if (F.theme)     chips.innerHTML += chip('theme',     F.theme     === '__untagged__' ? 'Theme: Untagged'     : `Theme: ${F.theme}`);
+  if (F.domain)    chips.innerHTML += chip('domain',    F.domain    === '__untagged__' ? 'Domain: Untagged'    : `Domain: ${F.domain.replace(/-/g, ' ')}`);
   if (F.type)      chips.innerHTML += chip('type',      `Type: ${typeFriendly(F.type)}`);
   if (F.author)    chips.innerHTML += chip('author',    `Author: ${F.author}`);
   if (F.title)     chips.innerHTML += chip('title',     `Title: ${F.title}`);
@@ -1544,6 +1558,16 @@ const QUICK_GROUPS = [
     untaggedTitle: 'Records pending theme assignment in the Medjat Steward',
   },
   {
+    key: 'domain',
+    field: 'domain',
+    label: 'Research Domains',
+    meta: 'Historical and documentary subject categories',
+    get: r => r.domains || [],
+    display: v => v.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+    empty: 'No domain tags yet \u2014 assign via Medjat Steward.',
+    untaggedTitle: 'Records without a Research Domain tag',
+  },
+  {
     key: 'frameworkClass',
     field: 'frameworkClass',
     label: 'Iroko Framework Classes',
@@ -1581,6 +1605,7 @@ function quickFacetName(group) {
     type: 'recordTypes',
     tradition: 'traditions',
     theme: 'themes',
+    domain: 'domains',
     frameworkClass: 'frameworkClasses',
     frameworkModule: 'frameworkModules',
     access: 'access',
@@ -1777,6 +1802,7 @@ function recordIndexFromFull(full) {
     traditions: tags.traditions || [],
     traditionLinks: {},
     themes: tags.themes || [],
+    domains: tags.domains || [],
     frameworkClasses: ifwk.classes || [],
     frameworkModules: ifwk.modules || [],
     access: tags.access || 'Public',

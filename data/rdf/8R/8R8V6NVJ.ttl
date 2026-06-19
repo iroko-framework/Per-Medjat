@@ -1,6 +1,10 @@
-@prefix schema: <https://schema.org/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/8R8V6NVJ>
   a schema:Book ;
@@ -15,5 +19,5 @@
   schema:sameAs <https://doi.org/10.1515/9781478092773> ;
   dcterms:identifier "doi:10.1515/9781478092773" ;
   dcterms:identifier "isbn:978-1-4780-2215-2" ;
-  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" .

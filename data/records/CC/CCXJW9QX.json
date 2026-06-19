@@ -62,6 +62,8 @@
     "recordType": "Book Chapter",
     "traditions": [],
     "themes": [],
+    "domains": [],
+    "connects": [],
     "region": [],
     "language": [],
     "access": "Public",

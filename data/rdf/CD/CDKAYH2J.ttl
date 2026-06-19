@@ -1,6 +1,10 @@
-@prefix schema: <https://schema.org/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/CDKAYH2J>
   a schema:Book ;
@@ -15,5 +19,5 @@
   schema:publisher "New York University Press eBooks" ;
   schema:sameAs <https://doi.org/10.18574/nyu/9781479803491.001.0001> ;
   dcterms:identifier "doi:10.18574/nyu/9781479803491.001.0001" ;
-  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "West African traditions", "Central African traditions", "Syncretic/Creole", "Haitian Vodou", "Afro-Indigenous", "Pan-African Political-Spiritual" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african> ;
+  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "West African traditions", "Central African traditions", "Syncretic/Creole", "Haitian Vodou", "Afro-Indigenous", "Pan-African Political-Spiritual" .

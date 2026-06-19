@@ -1,6 +1,10 @@
-@prefix schema: <https://schema.org/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/S6I4M4G6>
   a schema:ScholarlyArticle ;
@@ -13,5 +17,5 @@
   schema:publisher "American Anthropologist" ;
   schema:sameAs <https://doi.org/10.1525/aa.1937.39.4.02a00080> ;
   dcterms:identifier "doi:10.1525/aa.1937.39.4.02a00080" ;
-  dcterms:subject "Lineage", "Material Culture", "Syncretic/Creole" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> ;
+  dcterms:subject "Lineage", "Material Culture", "Syncretic/Creole" .

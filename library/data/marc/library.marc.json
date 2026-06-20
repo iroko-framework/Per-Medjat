@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T14:11:32Z",
+  "generatedAt": "2026-06-20T15:32:30Z",
   "count": 638,
   "records": [
     {
@@ -21093,7 +21093,7 @@
       ]
     },
     {
-      "key": "8H3R7FJX",
+      "key": "G4WJEULW",
       "marc": [
         {
           "field": "100",
@@ -21108,22 +21108,12 @@
         {
           "field": "264",
           "label": "Published",
-          "value": "La Habana: Cárdenas y Cía, 1955."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "529 p."
-        },
-        {
-          "field": "020",
-          "label": "ISBN",
-          "value": "978-959-10-0240-2"
+          "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
         },
         {
           "field": "041",
           "label": "Language",
-          "value": "Spanish (Cuba) [es-CU]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -21201,14 +21191,9 @@
           "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
         },
         {
-          "field": "020",
-          "label": "ISBN",
-          "value": "978-959-10-0240-2"
-        },
-        {
           "field": "041",
           "label": "Language",
-          "value": "Spanish (Cuba) [es-CU]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -21291,99 +21276,9 @@
           "value": "306 p."
         },
         {
-          "field": "020",
-          "label": "ISBN",
-          "value": "978-959-10-0240-2"
-        },
-        {
           "field": "041",
           "label": "Language",
-          "value": "Spanish (Cuba) [es-CU]"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "African influences"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Black people"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Blacks"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Drum"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "History and criticism"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Medjat custody: IHS Holds"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Music"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Musical instruments"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Percussion instruments"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Percussion music"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book"
-        }
-      ]
-    },
-    {
-      "key": "G4WJEULW",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ortiz, Fernando"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Los Instrumentos De La Música Afrocubana"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952."
-        },
-        {
-          "field": "020",
-          "label": "ISBN",
-          "value": "978-959-10-0240-2"
-        },
-        {
-          "field": "041",
-          "label": "Language",
-          "value": "Spanish (Cuba) [es-CU]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -21461,14 +21356,94 @@
           "value": "La Habana: Cárdenas y Cía, 1954."
         },
         {
-          "field": "020",
-          "label": "ISBN",
-          "value": "978-959-10-0240-2"
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish [es]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Blacks"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Drum"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "History and criticism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Musical instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion instruments"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Percussion music"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "8H3R7FJX",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ortiz, Fernando"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Los Instrumentos De La Música Afrocubana"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "La Habana: Cárdenas y Cía, 1955."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "529 p."
         },
         {
           "field": "041",
           "label": "Language",
-          "value": "Spanish (Cuba) [es-CU]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -21548,7 +21523,7 @@
         {
           "field": "041",
           "label": "Language",
-          "value": "Spanish (Cuba) [es-CU]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",

@@ -16,7 +16,7 @@
   schema:author "Ortiz, Fernando" ;
   schema:datePublished "1952" ;
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
-  dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es-CU" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   schema:hasPart <https://medjat.irokosociety.org/id/library/8JSCYW6P>, <https://medjat.irokosociety.org/id/library/IEFUGH4M>, <https://medjat.irokosociety.org/id/library/G4WJEULW>, <https://medjat.irokosociety.org/id/library/LV3EFRY8>, <https://medjat.irokosociety.org/id/library/8H3R7FJX> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .

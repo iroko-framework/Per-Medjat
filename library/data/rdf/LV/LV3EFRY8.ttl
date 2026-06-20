@@ -16,8 +16,7 @@
   schema:author "Ortiz, Fernando" ;
   schema:datePublished "1954" ;
   schema:publisher "Cárdenas y Cía" ;
-  dcterms:identifier "isbn:978-959-10-0240-2" ;
-  dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es-CU" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .

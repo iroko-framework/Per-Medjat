@@ -10,7 +10,7 @@
     },
     "book": {
       "label": "Book",
-      "count": 82
+      "count": 77
     },
     "bookSection": {
       "label": "Book Chapter",
@@ -32,7 +32,7 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 606
+      "count": 601
     },
     "West African traditions": 20,
     "Central African traditions": 9,
@@ -48,7 +48,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 629
+      "count": 624
     },
     "Material Culture": 3,
     "Secret Society": 3,
@@ -61,7 +61,7 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 638
+      "count": 633
     }
   },
   "language": {
@@ -70,9 +70,9 @@
       "count": 617
     },
     "Spanish": 8,
-    "es-CU": 6,
     "English": 5,
     "Portuguese": 1,
+    "Spanish (Cuba)": 1,
     "Yorùbá": 1
   },
   "frameworkClasses": {},
@@ -80,7 +80,7 @@
     "Ewé": 2
   },
   "access": {
-    "Public": 632,
+    "Public": 627,
     "Community": 6
   }
 }

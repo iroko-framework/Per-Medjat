@@ -139,6 +139,12 @@
     .rec-title em { font-style: italic; color: var(--terracotta); font-size: .9em; }
     .rec-author { font-size: .82rem; color: var(--ink-mid); margin-top: .1rem; }
     .rec-pub { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); }
+    .rec-set { margin: .55rem 0 .15rem; padding: .7rem .8rem; border-left: 3px solid var(--terracotta); background: rgba(156,74,44,.055); }
+    .rec-set-label { font-family: var(--mono); font-size: .58rem; letter-spacing: .09em; text-transform: uppercase; color: var(--terracotta); margin-bottom: .35rem; }
+    .rec-set-list { margin: 0; padding-left: 1.25rem; display: grid; gap: .22rem; }
+    .rec-set-list li { color: var(--ink-soft); font-size: .82rem; line-height: 1.35; }
+    .rec-set-list a, .rec-set > a { color: var(--green); text-decoration: none; }
+    .rec-set-list a:hover, .rec-set > a:hover { text-decoration: underline; }
     .rec-abstract { font-size: .82rem; color: var(--ink-mid); line-height: 1.65; margin-top: .4rem; }
     .rec-foot { margin-top: .6rem; display: flex; flex-direction: column; gap: .3rem; }
     .rec-foot-row1, .rec-foot-row2 { display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
@@ -1057,6 +1063,21 @@ function buildCatalogCard(rec, n) {
     ...(rec.frameworkModules || []).map(t => `Module: ${t}`),
     ...(rec.frameworkClasses || []).map(t => `Class: ${t}`),
   ].map(label => `<span class="rec-iroko">${e(label)}</span>`).join('');
+  const setVolumes = rec.setVolumes || [];
+  const setBlock = setVolumes.length ? `
+  <div class="rec-set">
+    <div class="rec-set-label">Complete ${e(rec.numberOfVolumes || setVolumes.length)}-volume set</div>
+    <ol class="rec-set-list">
+      ${setVolumes.map(volume => `
+        <li><a href="?item=${e(volume.key)}">${e(volume.volume || volume.title)}</a>${volume.year ? ` <span>(${e(volume.year)})</span>` : ''}</li>
+      `).join('')}
+    </ol>
+  </div>` : '';
+  const parentSetBlock = rec.parentSetKey ? `
+  <div class="rec-set">
+    <div class="rec-set-label">Volume in a complete set</div>
+    <a href="?item=${e(rec.parentSetKey)}">${e(rec.parentSetTitle || 'View the complete set')}</a>
+  </div>` : '';
 
   return `
 <div class="rec-card" role="listitem" id="rc-${e(key)}" data-key="${e(key)}">
@@ -1064,6 +1085,7 @@ function buildCatalogCard(rec, n) {
   <div class="rec-title">${e(rec.title)}${rec.subtitle ? `<em> : ${e(rec.subtitle)}</em>` : ''}</div>
   ${authorDisplay ? `<div class="rec-author">${e(authorDisplay)}${rec.year ? ' &middot; ' + e(rec.year) : ''}</div>` : ''}
   ${pubLine ? `<div class="rec-pub">${e(pubLine)}</div>` : ''}
+  ${setBlock}${parentSetBlock}
   <div class="rec-foot">
     <div class="rec-foot-row1">
       ${tradBadges}${typeBadge}${themeBadges}
@@ -1355,6 +1377,7 @@ function filtered() {
     const creators = r.creators || r.creatorLabels || [];
 
     if (F.item && r.key !== F.item) return false;
+    if (!F.item && r.catalogHidden) return false;
 
     // Tradition filter — supports __untagged__ catch-all
     if (F.tradition === '__untagged__') {
@@ -1472,7 +1495,7 @@ function render() {
 
   // Keep the catalog total visible at the top; filtered counts live in results summary.
   const tot = document.getElementById('catalog-total');
-  if (tot) tot.textContent = `\u00b7 ${ALL.length} records`;
+  if (tot) tot.textContent = `\u00b7 ${ALL.filter(record => !record.catalogHidden).length} records`;
 
   if (recs.length === 0) {
     grid.innerHTML = ''; noRes.style.display = 'block';
@@ -1788,7 +1811,7 @@ function buildAdvancedTradition() {
 function _rebuildUI() {
   buildQuickLinks(); buildAdvancedTradition();
   const tot = document.getElementById('catalog-total');
-  if (tot) tot.textContent = `\u00b7 ${ALL.length} records`;
+  if (tot) tot.textContent = `\u00b7 ${ALL.filter(record => !record.catalogHidden).length} records`;
 }
 
 function _setLoadingMsg(msg) {
@@ -1802,6 +1825,7 @@ function recordIndexFromFull(full) {
   const display = full.display || {};
   const tags = full.publicTags || {};
   const ifwk = full.ifwk || {};
+  const relations = full.relations || {};
   const creators = (display.creators || []).map(c => c.name).filter(Boolean);
   const searchText = [
     display.title,
@@ -1838,7 +1862,13 @@ function recordIndexFromFull(full) {
     access: tags.access || 'Public',
     custody: tags.custody || 'metadata-only',
     language: tags.language || [],
+    languageCodes: tags.languageCodes || display.languageCodes || [],
     region: tags.region || [],
+    numberOfVolumes: display.numberOfVolumes || relations.numberOfVolumes || '',
+    setVolumes: relations.volumes || [],
+    parentSetKey: relations.parentSetKey || '',
+    parentSetTitle: relations.parentSetTitle || '',
+    catalogHidden: Boolean(relations.parentSetKey),
     doi: display.doi || '',
     url: display.url || '',
     searchText,

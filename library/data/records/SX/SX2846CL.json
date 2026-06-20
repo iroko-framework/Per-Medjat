@@ -48,7 +48,10 @@
     "isbn": "978-1-0686064-5-8",
     "issn": "",
     "university": "",
-    "language": "English"
+    "language": "English",
+    "languageCodes": [
+      "en"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -73,6 +76,9 @@
       "anti-racism",
       "post-slavery",
       "race relations"
+    ],
+    "languageCodes": [
+      "en"
     ]
   },
   "ifwk": {
@@ -113,7 +119,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "English"
+      "value": "English [en]"
     },
     {
       "field": "650",

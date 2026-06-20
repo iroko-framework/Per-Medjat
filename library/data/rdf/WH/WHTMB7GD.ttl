@@ -16,4 +16,5 @@
   schema:datePublished "1951" ;
   dcterms:identifier "isbn:84-599-3387-3" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Afroamerikanische Musik", "Black people", "Blacks", "Dans", "Folk dance music", "Folk dancing", "Folk music", "Historia", "Historia y crítica", "History", "History and criticism", "Music", "Música", "Música foklórica", "Música para dansas folklóricas", "Negers", "Negros", "Teatro", "Theater", "Toneel" .

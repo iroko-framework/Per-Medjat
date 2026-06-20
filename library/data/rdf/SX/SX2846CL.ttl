@@ -19,4 +19,5 @@
   schema:publisher "Editora Funmilayo Publishing" ;
   dcterms:identifier "isbn:978-1-0686064-5-8" ;
   dcterms:language "English" ;
+  schema:inLanguage "en" ;
   dcterms:subject "Black Atlantic", "Black intellectual history", "Booker T. Washington", "Brazil", "Manuel Querino", "Manuel R. Querino", "United States", "anti-racism", "post-slavery", "race relations" .

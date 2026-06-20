@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "Spanish"
+    "language": "Spanish",
+    "languageCodes": [
+      "es"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -62,6 +65,9 @@
       "Cuba",
       "archival-latency-paper",
       "colonial ethnography"
+    ],
+    "languageCodes": [
+      "es"
     ]
   },
   "ifwk": {
@@ -87,7 +93,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

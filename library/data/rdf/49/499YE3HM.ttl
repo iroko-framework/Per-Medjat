@@ -17,4 +17,5 @@
   schema:datePublished "1950" ;
   dcterms:identifier "isbn:978-959-10-0153-5" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "African Music", "African influences", "Black people", "Blacks", "Folk music", "Historia y crítica", "History and criticism", "Influencias africanas", "Music", "Music,", "Music, African", "Música", "Música folklórica", "Negros" .

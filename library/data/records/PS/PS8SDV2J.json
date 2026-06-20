@@ -40,7 +40,10 @@
     "isbn": "85-347-0568-2",
     "issn": "",
     "university": "",
-    "language": "por"
+    "language": "por",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -64,6 +67,9 @@
       "Orishas",
       "Religion",
       "Yoruba (African people)"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -94,7 +100,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Portuguese"
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

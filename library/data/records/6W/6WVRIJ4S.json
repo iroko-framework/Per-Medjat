@@ -40,7 +40,10 @@
     "isbn": "1-9822-8713-6",
     "issn": "",
     "university": "",
-    "language": "eng"
+    "language": "eng",
+    "languageCodes": [
+      "en"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -54,7 +57,10 @@
     ],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": []
+    "subjects": [],
+    "languageCodes": [
+      "en"
+    ]
   },
   "ifwk": {
     "classes": [],
@@ -84,7 +90,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "English"
+      "value": "English [en]"
     },
     {
       "field": "655",

@@ -28,7 +28,9 @@ jobs:
         with:
           repository: iroko-framework/medjat-tools
           path: .build/medjat-tools
-          ref: c07770e59f4f47485016706a40822c0b32cc3d1d
+          # Follow the maintained builder so catalog rules do not revert after
+          # a local tools update (for example language or multivolume handling).
+          ref: main
           token: ${{ secrets.MEDJAT_TOOLS_PAT }}
 
       - name: Set up Python

@@ -40,7 +40,11 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "es-CU"
+    "language": "es-CU",
+    "numberOfVolumes": "5",
+    "languageCodes": [
+      "es-CU"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -50,7 +54,7 @@
     "connects": [],
     "region": [],
     "language": [
-      "es-CU"
+      "Spanish (Cuba)"
     ],
     "access": "Public",
     "custody": "metadata-only",
@@ -65,6 +69,9 @@
       "Musical instruments",
       "Percussion instruments",
       "Percussion music"
+    ],
+    "languageCodes": [
+      "es-CU"
     ]
   },
   "ifwk": {
@@ -90,7 +97,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "es-CU"
+      "value": "Spanish (Cuba) [es-CU]"
     },
     {
       "field": "650",
@@ -154,5 +161,58 @@
     "sameAs": [],
     "about": [],
     "authorityMappings": []
+  },
+  "relations": {
+    "relatedKeys": [
+      "8H3R7FJX",
+      "IEFUGH4M",
+      "8JSCYW6P",
+      "LV3EFRY8",
+      "G4WJEULW"
+    ],
+    "isSet": true,
+    "numberOfVolumes": "5",
+    "volumes": [
+      {
+        "key": "8JSCYW6P",
+        "title": "Los Instrumentos De La Música Afrocubana",
+        "volume": "1: Los instrumentos anatómicos y los palos percusivos",
+        "year": "1952",
+        "viewUrl": "https://medjat.irokosociety.org/library/?item=8JSCYW6P",
+        "recordPath": "/library/data/records/8J/8JSCYW6P.json"
+      },
+      {
+        "key": "IEFUGH4M",
+        "title": "Los Instrumentos De La Música Afrocubana",
+        "volume": "2: Los instrumentos sacuditivos, los frotativos y los hierros",
+        "year": "1952",
+        "viewUrl": "https://medjat.irokosociety.org/library/?item=IEFUGH4M",
+        "recordPath": "/library/data/records/IE/IEFUGH4M.json"
+      },
+      {
+        "key": "G4WJEULW",
+        "title": "Los Instrumentos De La Música Afrocubana",
+        "volume": "3: Los tambores xilofónicos y los membranófonos abiertos, A a N.",
+        "year": "1952",
+        "viewUrl": "https://medjat.irokosociety.org/library/?item=G4WJEULW",
+        "recordPath": "/library/data/records/G4/G4WJEULW.json"
+      },
+      {
+        "key": "LV3EFRY8",
+        "title": "Los Instrumentos De La Música Afrocubana",
+        "volume": "4: Los membranófonos abiertos, Ñ a Z, los bimembranófonos y otros tambores especiales",
+        "year": "1954",
+        "viewUrl": "https://medjat.irokosociety.org/library/?item=LV3EFRY8",
+        "recordPath": "/library/data/records/LV/LV3EFRY8.json"
+      },
+      {
+        "key": "8H3R7FJX",
+        "title": "Los Instrumentos De La Música Afrocubana",
+        "volume": "5: Los pulsativos, los fricativos, los insuflativos y los aeritivos",
+        "year": "1955",
+        "viewUrl": "https://medjat.irokosociety.org/library/?item=8H3R7FJX",
+        "recordPath": "/library/data/records/8H/8H3R7FJX.json"
+      }
+    ]
   }
 }

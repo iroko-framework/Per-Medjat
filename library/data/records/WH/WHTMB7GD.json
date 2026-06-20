@@ -40,7 +40,10 @@
     "isbn": "84-599-3387-3",
     "issn": "",
     "university": "",
-    "language": "spa"
+    "language": "spa",
+    "languageCodes": [
+      "es"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -75,6 +78,9 @@
       "Teatro",
       "Theater",
       "Toneel"
+    ],
+    "languageCodes": [
+      "es"
     ]
   },
   "ifwk": {
@@ -105,7 +111,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

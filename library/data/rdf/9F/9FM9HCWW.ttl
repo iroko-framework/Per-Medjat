@@ -17,4 +17,5 @@
   schema:datePublished "1947" ;
   dcterms:identifier "isbn:84-9007-109-8" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Civilization", "Cuba", "Cuba, history", "History", "Sugar growing", "Tobacco", "Tobacco industry", "Tobacco manufacture and trade" .

@@ -17,4 +17,5 @@
   schema:publisher "Journal of Slavery and Data Preservation" ;
   schema:sameAs <https://doi.org/10.14321/jsdp.7.1.0001> ;
   dcterms:identifier "doi:10.14321/jsdp.7.1.0001" ;
-  dcterms:language "English" .
+  dcterms:language "English" ;
+  schema:inLanguage "en" .

@@ -15,4 +15,5 @@
   schema:author "Mariela Oní Yemayá" ;
   schema:datePublished "2021" ;
   dcterms:identifier "isbn:979-8-7789-0314-2" ;
-  dcterms:language "Spanish" .
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" .

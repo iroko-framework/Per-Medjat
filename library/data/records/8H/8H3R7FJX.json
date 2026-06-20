@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "8H3R7FJX",
-    "version": 4687,
+    "version": 4706,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8H3R7FJX",
     "dateAdded": "2026-06-19T21:50:03Z",
-    "dateModified": "2026-06-19T22:32:45Z"
+    "dateModified": "2026-06-20T14:43:48Z"
   },
   "display": {
     "title": "Los Instrumentos De La Música Afrocubana",
@@ -36,14 +36,14 @@
     "pages": "529",
     "abstract": "Complete five-volume set held by the Iroko Historical Society.",
     "doi": "",
-    "url": "https://openlibrary.org/works/OL689726W",
-    "isbn": "978-959-10-0240-2",
+    "url": "",
+    "isbn": "",
     "issn": "",
     "university": "",
-    "language": "es-CU",
+    "language": "es",
     "numberOfVolumes": "5",
     "languageCodes": [
-      "es-CU"
+      "es"
     ]
   },
   "publicTags": {
@@ -54,7 +54,7 @@
     "connects": [],
     "region": [],
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "access": "Public",
     "custody": "metadata-only",
@@ -71,7 +71,7 @@
       "Percussion music"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
     ]
   },
   "ifwk": {
@@ -100,14 +100,9 @@
       "value": "529 p."
     },
     {
-      "field": "020",
-      "label": "ISBN",
-      "value": "978-959-10-0240-2"
-    },
-    {
       "field": "041",
       "label": "Language",
-      "value": "Spanish (Cuba) [es-CU]"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

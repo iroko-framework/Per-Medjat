@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "6A6MIAGB",
-    "version": 4701,
+    "version": 4723,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6A6MIAGB",
     "dateAdded": "2026-06-19T22:04:26Z",
-    "dateModified": "2026-06-19T22:39:08Z"
+    "dateModified": "2026-06-20T14:46:39Z"
   },
   "display": {
     "title": "Los instrumentos de la música afrocubana: Serie completa",
@@ -40,10 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "es-CU",
+    "language": "es",
     "numberOfVolumes": "5",
     "languageCodes": [
-      "es-CU"
+      "es"
     ]
   },
   "publicTags": {
@@ -54,7 +54,7 @@
     "connects": [],
     "region": [],
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "access": "Public",
     "custody": "metadata-only",
@@ -71,7 +71,7 @@
       "Percussion music"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
     ]
   },
   "ifwk": {
@@ -97,7 +97,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish (Cuba) [es-CU]"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

@@ -15012,16 +15012,16 @@
     ]
   },
   {
-    "key": "8H3R7FJX",
+    "key": "G4WJEULW",
     "title": "Los Instrumentos De La Música Afrocubana",
     "subtitle": "",
     "creators": [
       "Ortiz, Fernando"
     ],
-    "year": "1955",
-    "date": "1955",
-    "publisher": "Cárdenas y Cía",
-    "publicationLine": "La Habana: Cárdenas y Cía, 1955.",
+    "year": "1952",
+    "date": "1952",
+    "publisher": "Dirección de Cultura, Ministerio de Educación",
+    "publicationLine": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952.",
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [],
@@ -15035,20 +15035,20 @@
     "accessTier": "L0-public",
     "custody": "metadata-only",
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "region": [],
     "doi": "",
-    "url": "https://openlibrary.org/works/OL689726W",
-    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1955 cárdenas y cía book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish (cuba) african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
-    "recordPath": "/library/data/records/8H/8H3R7FJX.json",
-    "volume": "5: Los pulsativos, los fricativos, los insuflativos y los aeritivos",
+    "url": "",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/G4/G4WJEULW.json",
+    "volume": "3: Los tambores xilofónicos y los membranófonos abiertos, A a N.",
     "numberOfVolumes": "5",
     "relatedKeys": [
       "6A6MIAGB"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
     ],
     "catalogHidden": true,
     "parentSetKey": "6A6MIAGB",
@@ -15078,12 +15078,12 @@
     "accessTier": "L0-public",
     "custody": "metadata-only",
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "region": [],
     "doi": "",
-    "url": "https://openlibrary.org/works/OL689726W",
-    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish (cuba) african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "url": "",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
     "recordPath": "/library/data/records/IE/IEFUGH4M.json",
     "volume": "2: Los instrumentos sacuditivos, los frotativos y los hierros",
     "numberOfVolumes": "5",
@@ -15091,7 +15091,7 @@
       "6A6MIAGB"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
     ],
     "catalogHidden": true,
     "parentSetKey": "6A6MIAGB",
@@ -15121,12 +15121,12 @@
     "accessTier": "L0-public",
     "custody": "metadata-only",
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "region": [],
     "doi": "",
-    "url": "https://openlibrary.org/works/OL689726W",
-    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish (cuba) african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "url": "",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
     "recordPath": "/library/data/records/8J/8JSCYW6P.json",
     "volume": "1: Los instrumentos anatómicos y los palos percusivos",
     "numberOfVolumes": "5",
@@ -15134,50 +15134,7 @@
       "6A6MIAGB"
     ],
     "languageCodes": [
-      "es-CU"
-    ],
-    "catalogHidden": true,
-    "parentSetKey": "6A6MIAGB",
-    "parentSetTitle": "Los instrumentos de la música afrocubana: Serie completa"
-  },
-  {
-    "key": "G4WJEULW",
-    "title": "Los Instrumentos De La Música Afrocubana",
-    "subtitle": "",
-    "creators": [
-      "Ortiz, Fernando"
-    ],
-    "year": "1952",
-    "date": "1952",
-    "publisher": "Dirección de Cultura, Ministerio de Educación",
-    "publicationLine": "La Habana: Dirección de Cultura, Ministerio de Educación, 1952.",
-    "itemType": "book",
-    "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [
-      "Spanish (Cuba)"
-    ],
-    "region": [],
-    "doi": "",
-    "url": "https://openlibrary.org/works/OL689726W",
-    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish (cuba) african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
-    "recordPath": "/library/data/records/G4/G4WJEULW.json",
-    "volume": "3: Los tambores xilofónicos y los membranófonos abiertos, A a N.",
-    "numberOfVolumes": "5",
-    "relatedKeys": [
-      "6A6MIAGB"
-    ],
-    "languageCodes": [
-      "es-CU"
+      "es"
     ],
     "catalogHidden": true,
     "parentSetKey": "6A6MIAGB",
@@ -15207,12 +15164,12 @@
     "accessTier": "L0-public",
     "custody": "metadata-only",
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "region": [],
     "doi": "",
-    "url": "https://openlibrary.org/works/OL689726W",
-    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1954 cárdenas y cía book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish (cuba) african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "url": "",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1954 cárdenas y cía book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
     "recordPath": "/library/data/records/LV/LV3EFRY8.json",
     "volume": "4: Los membranófonos abiertos, Ñ a Z, los bimembranófonos y otros tambores especiales",
     "numberOfVolumes": "5",
@@ -15220,7 +15177,50 @@
       "6A6MIAGB"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
+    ],
+    "catalogHidden": true,
+    "parentSetKey": "6A6MIAGB",
+    "parentSetTitle": "Los instrumentos de la música afrocubana: Serie completa"
+  },
+  {
+    "key": "8H3R7FJX",
+    "title": "Los Instrumentos De La Música Afrocubana",
+    "subtitle": "",
+    "creators": [
+      "Ortiz, Fernando"
+    ],
+    "year": "1955",
+    "date": "1955",
+    "publisher": "Cárdenas y Cía",
+    "publicationLine": "La Habana: Cárdenas y Cía, 1955.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "los instrumentos de la música afrocubana ortiz, fernando 1955 cárdenas y cía book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica",
+    "recordPath": "/library/data/records/8H/8H3R7FJX.json",
+    "volume": "5: Los pulsativos, los fricativos, los insuflativos y los aeritivos",
+    "numberOfVolumes": "5",
+    "relatedKeys": [
+      "6A6MIAGB"
+    ],
+    "languageCodes": [
+      "es"
     ],
     "catalogHidden": true,
     "parentSetKey": "6A6MIAGB",
@@ -15250,12 +15250,12 @@
     "accessTier": "L0-public",
     "custody": "metadata-only",
     "language": [
-      "Spanish (Cuba)"
+      "Spanish"
     ],
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "los instrumentos de la música afrocubana: serie completa ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish (cuba) african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica los instrumentos de la música afrocubana 1: los instrumentos anatómicos y los palos percusivos 1952 los instrumentos de la música afrocubana 2: los instrumentos sacuditivos, los frotativos y los hierros 1952 los instrumentos de la música afrocubana 3: los tambores xilofónicos y los membranófonos abiertos, a a n. 1952 los instrumentos de la música afrocubana 4: los membranófonos abiertos, ñ a z, los bimembranófonos y otros tambores especiales 1954 los instrumentos de la música afrocubana 5: los pulsativos, los fricativos, los insuflativos y los aeritivos 1955",
+    "searchText": "los instrumentos de la música afrocubana: serie completa ortiz, fernando 1952 dirección de cultura, ministerio de educación book book african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music spanish african influences black people blacks drum history and criticism medjat custody: ihs holds music musical instruments percussion instruments percussion music medjat-search:fernando-ortiz-musica los instrumentos de la música afrocubana 1: los instrumentos anatómicos y los palos percusivos 1952 los instrumentos de la música afrocubana 2: los instrumentos sacuditivos, los frotativos y los hierros 1952 los instrumentos de la música afrocubana 3: los tambores xilofónicos y los membranófonos abiertos, a a n. 1952 los instrumentos de la música afrocubana 4: los membranófonos abiertos, ñ a z, los bimembranófonos y otros tambores especiales 1954 los instrumentos de la música afrocubana 5: los pulsativos, los fricativos, los insuflativos y los aeritivos 1955",
     "recordPath": "/library/data/records/6A/6A6MIAGB.json",
     "numberOfVolumes": "5",
     "relatedKeys": [
@@ -15266,7 +15266,7 @@
       "G4WJEULW"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
     ],
     "isSet": true,
     "setVolumes": [

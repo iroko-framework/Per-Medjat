@@ -15,5 +15,6 @@
   schema:author "Carlos Canet" ;
   schema:datePublished "1973" ;
   dcterms:language "English" ;
+  schema:inLanguage "en" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
   dcterms:subject "West African traditions" .

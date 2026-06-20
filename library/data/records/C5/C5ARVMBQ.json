@@ -40,7 +40,8 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "",
+    "numberOfVolumes": "5"
   },
   "publicTags": {
     "recordType": "Book",

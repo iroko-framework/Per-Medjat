@@ -16,4 +16,5 @@
   schema:datePublished "2020" ;
   dcterms:identifier "isbn:85-347-0568-2" ;
   dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "African influences", "Afro-Caribbean cults", "Divination", "History", "Ifa (Religion)", "Orisha religion", "Orishas", "Religion", "Yoruba (African people)" .

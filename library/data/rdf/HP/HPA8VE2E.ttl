@@ -15,4 +15,5 @@
   schema:author "Ortiz, Fernando" ;
   schema:datePublished "1935" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "History and criticism", "Music", "Percussion instruments" .

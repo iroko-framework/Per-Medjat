@@ -56,7 +56,10 @@
     "isbn": "",
     "issn": "2691-297X",
     "university": "",
-    "language": "en"
+    "language": "en",
+    "languageCodes": [
+      "en"
+    ]
   },
   "publicTags": {
     "recordType": "Journal Article",
@@ -70,7 +73,10 @@
     ],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": []
+    "subjects": [],
+    "languageCodes": [
+      "en"
+    ]
   },
   "ifwk": {
     "classes": [],
@@ -105,7 +111,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "English"
+      "value": "English [en]"
     },
     {
       "field": "700",

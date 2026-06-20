@@ -15,4 +15,5 @@
   schema:author "R. Avendano" ;
   schema:datePublished "2021" ;
   dcterms:identifier "isbn:979-8-7829-9842-4" ;
-  dcterms:language "Spanish" .
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" .

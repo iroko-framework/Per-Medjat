@@ -15,4 +15,5 @@
   schema:author "Daniela R. De Armas" ;
   schema:datePublished "2024" ;
   dcterms:identifier "isbn:1-9822-8713-6" ;
-  dcterms:language "English" .
+  dcterms:language "English" ;
+  schema:inLanguage "en" .

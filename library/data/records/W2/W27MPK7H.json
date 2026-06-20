@@ -48,7 +48,10 @@
     "isbn": "1-890157-22-8",
     "issn": "",
     "university": "",
-    "language": "eng"
+    "language": "eng",
+    "languageCodes": [
+      "en"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -70,6 +73,9 @@
       "Rites and ceremonies",
       "Yoruba (African people)",
       "Yoruba Americans"
+    ],
+    "languageCodes": [
+      "en"
     ]
   },
   "ifwk": {
@@ -100,7 +106,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "English"
+      "value": "English [en]"
     },
     {
       "field": "650",

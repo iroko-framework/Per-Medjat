@@ -40,7 +40,10 @@
     "isbn": "0-89729-395-9",
     "issn": "",
     "university": "",
-    "language": "yor"
+    "language": "yor",
+    "languageCodes": [
+      "yo"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -58,6 +61,9 @@
       "Cuba",
       "Dialects",
       "Yoruba language"
+    ],
+    "languageCodes": [
+      "yo"
     ]
   },
   "ifwk": {
@@ -88,7 +94,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Yorùbá"
+      "value": "Yorùbá [yo]"
     },
     {
       "field": "650",

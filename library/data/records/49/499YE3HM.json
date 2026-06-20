@@ -44,7 +44,10 @@
     "isbn": "978-959-10-0153-5",
     "issn": "",
     "university": "",
-    "language": "spa"
+    "language": "spa",
+    "languageCodes": [
+      "es"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -73,6 +76,9 @@
       "Música",
       "Música folklórica",
       "Negros"
+    ],
+    "languageCodes": [
+      "es"
     ]
   },
   "ifwk": {
@@ -103,7 +109,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

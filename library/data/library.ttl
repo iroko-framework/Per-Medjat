@@ -1129,6 +1129,7 @@
   schema:author "Carlos Canet" ;
   schema:datePublished "1973" ;
   dcterms:language "English" ;
+  schema:inLanguage "en" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
   dcterms:subject "West African traditions" .
 
@@ -1677,7 +1678,8 @@
   schema:author "Daniela R. De Armas" ;
   schema:datePublished "2024" ;
   dcterms:identifier "isbn:1-9822-8713-6" ;
-  dcterms:language "English" .
+  dcterms:language "English" ;
+  schema:inLanguage "en" .
 
 <https://medjat.irokosociety.org/id/library/LHZ43WE4>
   a schema:Thesis ;
@@ -2255,6 +2257,7 @@
   schema:datePublished "1906" ;
   schema:publisher "Librería de Fernando Fé" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
   dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
 
@@ -2548,6 +2551,7 @@
   schema:publisher "Editora Funmilayo Publishing" ;
   dcterms:identifier "isbn:978-1-0686064-5-8" ;
   dcterms:language "English" ;
+  schema:inLanguage "en" ;
   dcterms:subject "Black Atlantic", "Black intellectual history", "Booker T. Washington", "Brazil", "Manuel Querino", "Manuel R. Querino", "United States", "anti-racism", "post-slavery", "race relations" .
 
 <https://medjat.irokosociety.org/id/library/RNNBM65H>
@@ -4211,6 +4215,7 @@
   schema:datePublished "1983" ;
   dcterms:identifier "isbn:978-0-89729-322-8" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
   dcterms:subject "West African traditions" .
 
@@ -4225,6 +4230,7 @@
   schema:datePublished "2000" ;
   dcterms:identifier "isbn:1-890157-22-8" ;
   dcterms:language "English" ;
+  schema:inLanguage "en" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
   dcterms:subject "Ethnobotany", "Religion", "Rites and ceremonies", "Yoruba (African people)", "Yoruba Americans", "West African traditions" .
 
@@ -4955,6 +4961,7 @@
   schema:datePublished "1957" ;
   dcterms:identifier "isbn:0-89729-395-9" ;
   dcterms:language "Yorùbá" ;
+  schema:inLanguage "yo" ;
   dcterms:subject "Cuba", "Dialects", "Yoruba language" .
 
 <https://medjat.irokosociety.org/id/library/PKM7MRSC>
@@ -5354,7 +5361,8 @@
   schema:author "Mariela Oní Yemayá" ;
   schema:datePublished "2021" ;
   dcterms:identifier "isbn:979-8-7789-0314-2" ;
-  dcterms:language "Spanish" .
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" .
 
 <https://medjat.irokosociety.org/id/library/MLP43TB9>
   a schema:ScholarlyArticle ;
@@ -5938,6 +5946,7 @@
   schema:datePublished "2020" ;
   dcterms:identifier "isbn:85-347-0568-2" ;
   dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "African influences", "Afro-Caribbean cults", "Divination", "History", "Ifa (Religion)", "Orisha religion", "Orishas", "Religion", "Yoruba (African people)" .
 
 <https://medjat.irokosociety.org/id/library/8WP5E2PK>
@@ -6191,6 +6200,7 @@
   schema:datePublished "1947" ;
   dcterms:identifier "isbn:84-9007-109-8" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Civilization", "Cuba", "Cuba, history", "History", "Sugar growing", "Tobacco", "Tobacco industry", "Tobacco manufacture and trade" .
 
 <https://medjat.irokosociety.org/id/library/HPA8VE2E>
@@ -6202,6 +6212,7 @@
   schema:author "Ortiz, Fernando" ;
   schema:datePublished "1935" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "History and criticism", "Music", "Percussion instruments" .
 
 <https://medjat.irokosociety.org/id/library/499YE3HM>
@@ -6215,6 +6226,7 @@
   schema:datePublished "1950" ;
   dcterms:identifier "isbn:978-959-10-0153-5" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "African Music", "African influences", "Black people", "Blacks", "Folk music", "Historia y crítica", "History and criticism", "Influencias africanas", "Music", "Music,", "Music, African", "Música", "Música folklórica", "Negros" .
 
 <https://medjat.irokosociety.org/id/library/WHTMB7GD>
@@ -6227,6 +6239,7 @@
   schema:datePublished "1951" ;
   dcterms:identifier "isbn:84-599-3387-3" ;
   dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Afroamerikanische Musik", "Black people", "Blacks", "Dans", "Folk dance music", "Folk dancing", "Folk music", "Historia", "Historia y crítica", "History", "History and criticism", "Music", "Música", "Música foklórica", "Música para dansas folklóricas", "Negers", "Negros", "Teatro", "Theater", "Toneel" .
 
 <https://medjat.irokosociety.org/id/library/8H3R7FJX>
@@ -6240,7 +6253,9 @@
   schema:datePublished "1955" ;
   schema:publisher "Cárdenas y Cía" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
-  dcterms:language "es-CU" ;
+  dcterms:language "Spanish (Cuba)" ;
+  schema:inLanguage "es-CU" ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/IEFUGH4M>
@@ -6253,7 +6268,9 @@
   schema:datePublished "1952" ;
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
-  dcterms:language "es-CU" ;
+  dcterms:language "Spanish (Cuba)" ;
+  schema:inLanguage "es-CU" ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/8JSCYW6P>
@@ -6267,7 +6284,9 @@
   schema:datePublished "1952" ;
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
-  dcterms:language "es-CU" ;
+  dcterms:language "Spanish (Cuba)" ;
+  schema:inLanguage "es-CU" ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/G4WJEULW>
@@ -6281,7 +6300,9 @@
   schema:datePublished "1952" ;
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
-  dcterms:language "es-CU" ;
+  dcterms:language "Spanish (Cuba)" ;
+  schema:inLanguage "es-CU" ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/LV3EFRY8>
@@ -6295,7 +6316,9 @@
   schema:datePublished "1954" ;
   schema:publisher "Cárdenas y Cía" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
-  dcterms:language "es-CU" ;
+  dcterms:language "Spanish (Cuba)" ;
+  schema:inLanguage "es-CU" ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/6A6MIAGB>
@@ -6308,7 +6331,9 @@
   schema:author "Ortiz, Fernando" ;
   schema:datePublished "1952" ;
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
-  dcterms:language "es-CU" ;
+  dcterms:language "Spanish (Cuba)" ;
+  schema:inLanguage "es-CU" ;
+  schema:hasPart <https://medjat.irokosociety.org/id/library/8JSCYW6P>, <https://medjat.irokosociety.org/id/library/IEFUGH4M>, <https://medjat.irokosociety.org/id/library/G4WJEULW>, <https://medjat.irokosociety.org/id/library/LV3EFRY8>, <https://medjat.irokosociety.org/id/library/8H3R7FJX> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
 <https://medjat.irokosociety.org/id/library/H8RF2YXE>
@@ -6648,7 +6673,8 @@
   schema:author "R. Avendano" ;
   schema:datePublished "2021" ;
   dcterms:identifier "isbn:979-8-7829-9842-4" ;
-  dcterms:language "Spanish" .
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" .
 
 <https://medjat.irokosociety.org/id/library/M4WYLVJ3>
   a schema:Thesis ;
@@ -7275,7 +7301,8 @@
   schema:publisher "Journal of Slavery and Data Preservation" ;
   schema:sameAs <https://doi.org/10.14321/jsdp.7.1.0001> ;
   dcterms:identifier "doi:10.14321/jsdp.7.1.0001" ;
-  dcterms:language "English" .
+  dcterms:language "English" ;
+  schema:inLanguage "en" .
 
 <https://medjat.irokosociety.org/id/library/86VK4JC3>
   a schema:Book ;

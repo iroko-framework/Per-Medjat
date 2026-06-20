@@ -40,7 +40,10 @@
     "isbn": "978-0-89729-322-8",
     "issn": "",
     "university": "",
-    "language": "spa"
+    "language": "spa",
+    "languageCodes": [
+      "es"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -56,7 +59,10 @@
     ],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": []
+    "subjects": [],
+    "languageCodes": [
+      "es"
+    ]
   },
   "ifwk": {
     "classes": [],
@@ -86,7 +92,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

@@ -40,7 +40,11 @@
     "isbn": "978-959-10-0240-2",
     "issn": "",
     "university": "",
-    "language": "es-CU"
+    "language": "es-CU",
+    "numberOfVolumes": "5",
+    "languageCodes": [
+      "es-CU"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -50,7 +54,7 @@
     "connects": [],
     "region": [],
     "language": [
-      "es-CU"
+      "Spanish (Cuba)"
     ],
     "access": "Public",
     "custody": "metadata-only",
@@ -65,6 +69,9 @@
       "Musical instruments",
       "Percussion instruments",
       "Percussion music"
+    ],
+    "languageCodes": [
+      "es-CU"
     ]
   },
   "ifwk": {
@@ -95,7 +102,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "es-CU"
+      "value": "Spanish (Cuba) [es-CU]"
     },
     {
       "field": "650",
@@ -159,5 +166,13 @@
     "sameAs": [],
     "about": [],
     "authorityMappings": []
+  },
+  "relations": {
+    "relatedKeys": [
+      "6A6MIAGB"
+    ],
+    "parentSetKey": "6A6MIAGB",
+    "parentSetTitle": "Los instrumentos de la música afrocubana: Serie completa",
+    "parentSetUrl": "https://medjat.irokosociety.org/library/?item=6A6MIAGB"
   }
 }

@@ -40,10 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "es",
+    "language": "es-CU",
     "numberOfVolumes": "5",
     "languageCodes": [
-      "es"
+      "es-CU"
     ]
   },
   "publicTags": {
@@ -71,7 +71,7 @@
       "Percussion music"
     ],
     "languageCodes": [
-      "es"
+      "es-CU"
     ]
   },
   "ifwk": {
@@ -97,7 +97,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish (Cuba) [es]"
+      "value": "Spanish (Cuba) [es-CU]"
     },
     {
       "field": "650",

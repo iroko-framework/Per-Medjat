@@ -6254,7 +6254,7 @@
   schema:publisher "Cárdenas y Cía" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es" ;
+  schema:inLanguage "es-CU" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
@@ -6269,7 +6269,7 @@
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es" ;
+  schema:inLanguage "es-CU" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
@@ -6285,7 +6285,7 @@
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es" ;
+  schema:inLanguage "es-CU" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
@@ -6301,7 +6301,7 @@
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es" ;
+  schema:inLanguage "es-CU" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
@@ -6317,7 +6317,7 @@
   schema:publisher "Cárdenas y Cía" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es" ;
+  schema:inLanguage "es-CU" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
@@ -6332,7 +6332,7 @@
   schema:datePublished "1952" ;
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es" ;
+  schema:inLanguage "es-CU" ;
   schema:hasPart <https://medjat.irokosociety.org/id/library/8JSCYW6P>, <https://medjat.irokosociety.org/id/library/IEFUGH4M>, <https://medjat.irokosociety.org/id/library/G4WJEULW>, <https://medjat.irokosociety.org/id/library/LV3EFRY8>, <https://medjat.irokosociety.org/id/library/8H3R7FJX> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 

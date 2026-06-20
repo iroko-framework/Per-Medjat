@@ -40,10 +40,10 @@
     "isbn": "978-959-10-0240-2",
     "issn": "",
     "university": "",
-    "language": "es-CU",
+    "language": "es",
     "numberOfVolumes": "5",
     "languageCodes": [
-      "es-CU"
+      "es"
     ]
   },
   "publicTags": {
@@ -71,7 +71,7 @@
       "Percussion music"
     ],
     "languageCodes": [
-      "es-CU"
+      "es"
     ]
   },
   "ifwk": {
@@ -107,7 +107,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "Spanish (Cuba) [es-CU]"
+      "value": "Spanish (Cuba) [es]"
     },
     {
       "field": "650",

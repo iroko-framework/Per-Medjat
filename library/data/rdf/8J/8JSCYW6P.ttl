@@ -18,6 +18,6 @@
   schema:publisher "Dirección de Cultura, Ministerio de Educación" ;
   dcterms:identifier "isbn:978-959-10-0240-2" ;
   dcterms:language "Spanish (Cuba)" ;
-  schema:inLanguage "es-CU" ;
+  schema:inLanguage "es" ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/library/6A6MIAGB> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .

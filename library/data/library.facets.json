@@ -2,7 +2,7 @@
   "recordTypes": {
     "thesis": {
       "label": "Thesis / Dissertation",
-      "count": 300
+      "count": 280
     },
     "journalArticle": {
       "label": "Journal Article",
@@ -32,7 +32,7 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 601
+      "count": 581
     },
     "West African traditions": 20,
     "Central African traditions": 9,
@@ -48,7 +48,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 624
+      "count": 604
     },
     "Material Culture": 3,
     "Secret Society": 3,
@@ -61,25 +61,28 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 633
+      "count": 613
     }
   },
   "language": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 617
+      "count": 586
     },
     "Spanish": 9,
     "English": 5,
-    "Portuguese": 1,
-    "Yorùbá": 1
+    "Portuguese": 5,
+    "French": 4,
+    "sp": 2,
+    "Yorùbá": 1,
+    "s": 1
   },
   "frameworkClasses": {},
   "frameworkModules": {
     "Ewé": 2
   },
   "access": {
-    "Public": 627,
+    "Public": 607,
     "Community": 6
   }
 }

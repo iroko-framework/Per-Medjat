@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/JYZIQD7Y>
   a schema:Thesis ;
-  schema:name "(desde 1919 à Constituição da República de Moçambique de 2004 e à Lei nº 23/2007, de 1 de Agosto)" ;
+  schema:name "Influência da OIT no direito do trabalho em Moçambique" ;
   schema:url <https://medjat.irokosociety.org/library/?item=JYZIQD7Y> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:JYZIQD7Y" ;
@@ -16,4 +16,6 @@
   schema:author "Baltazar, Pedro Maciel" ;
   schema:datePublished "2016" ;
   schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .

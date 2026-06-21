@@ -36,19 +36,6 @@
   dcterms:identifier "doi:10.46272/2409-3416-2023-11-4-124-143" ;
   dcterms:subject "Cuban History and Society" .
 
-<https://medjat.irokosociety.org/id/library/VXRQSTDU>
-  a schema:Thesis ;
-  schema:name "Modeling and (adaptive) control of greenhouse climates" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=VXRQSTDU> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:VXRQSTDU" ;
-  schema:description "The material presented in this thesis can be grouped around four themes, system concepts, modeling, control and adaptive control. In this summary these themes will be treated separately.System conceptsIn Chapters 1 and 2 an overview of the problem formulation is presented. It is suggested that there is some ambiguity with respect to what exactly control is since in practical horticulture control procedures are used. This has motivated to introduce the term GCFC (greenhouse climate feedback/feedforward control) where control in the strict sense is meant. It is ascertained that -despite much research in the field of control procedures- in the field of GCFC little results have been reported in the literature.It is argued that climate control (or more strictly GCFC) in practice restricts itself to climate factors with respect to the greenhouse atmosphere (air temperature and humidity, C02 contents). It is suggested to formulate GCFC) in terms of the crop canopy climate in that notably the radiative part of the control actuators is considered as a controlled variable too.The existing control methods for greenhouse climates are described using the concept of a hierarchical system formulation. Here the problem of creating a beneficial environment for the plants is described as a system with three levels. On the first level GCFC) is found, on level two plant growth on a diurnal basis, and on level three crop growth and development. It is argued that the control procedures as they are employed in the practice of horticulture, can be seen as a combination of the levels one and two, whereas GCFC restricts itself to level one. It is suggested that the control procedures can be improved by solving the GCFC) problem adequately and formulate the procedures as setpoint control of level one.Also, in Chapter 2 an overview of existing literature is presented, both on control in greenhouses and on models of the greenhouse climate.Another conceptual part is presented in Chapter 8, where the optimal control of plant growth is treated. Here the idea of the hierarchical system is employed to describe the optimal control problem. The system is broken down into less complex subsystems (levels in the hierarchical system) and each of the higher levels is optimized in terms of output variables of the lower levels. This assumes that the variables that are used in the optimization correspond with the relevant level.These ideas are reflected against the literature. It is ascertained that measurements on plants can be performed (the speaking plant approach) and that potentially plant transpiration can be regulated -at least in an experimental situation. However, the measurements have to be made in relation with specific knowledge of the plant processes under control. The measurement of single variables like leaf temperature, evapotranspiration etc. alone is not seen to lead to significant results.Although the material in Chapter 8 is speculative by nature, the basic ideas are well established. Scientific knowledge alone does not imply more opportunities of (optimal) control, and for optimal control the approach should be aimed at reducing the complexity of the problem by focusing on variables (and relations between variables) that comply with the level of the hierarchical system.ModelingThe second theme of this thesis concerns the modeling. In Chapter 3 a new approach to the modeling of dynamical greenhouse climate processes is presented. The approach incorporates a sequence of key features which differ from the usual one.The first feature is that the greenhouse climate process -in our case restricted to the temperature- and the actuator processes (mixing valve process and ventilation window process) are described separately. For the mixing valve process that regulates the temperature of the heating pipe network, this is quite natural since the output of the mixing valve process (the heating pipe temperature) can be measured. For the ventilation windows process this is less natural, because the output of this process is the air change rate, which is not directly measurable. However, by the proposed way of description the main non-linearities are removed from the climate process.The following steps follow logically when dynamical systems are of interest: the climate (temperature) process is formulated in terms of incremental variables and a working point is defined. Essential in greenhouses is that the working point is slowly time-varying. By supplying (relatively) high frequency signals as inputs of the system, the low frequency variations of the working point can be rejected using filter techniques. Then parameter estimation is carried out in the time domain, using optimization techniques in order to determine the parameters of a simple model.In this thesis, for the filtering of the signals frequency domain techniques have been used, but filtering in the time domain (with finite impulse response filters) could be used as well. For the test signal, a block signal was applied, because some frequency dependency of the parameters was anticipated. This test signal performs well for the mixing valve as actuator of the process, but for the ventilation windows a test signal spanning a wider frequency range must be used.Up to this point, the traditional goal of control engineering is satisfied, since the process is sufficiently described. However, from the results some dependencies on physical phenomena could be guessed (section 3.4.5). Therefore it was tried to interpret the results in terms of physical parameters. Because a detailed physical model does not comply with the simple dynamical model, an approach was followed using heating-load coefficients (k-values), where the heating-load coefficients enter as the parameters into the simple thermal model.To carry out the interpretation (section 3.4.6), at least one heating-load parameter has to be known. For this, the parameter describing the heat flow from the heating pipe network into the greenhouse is used. This parameter was determined from one type of experiment, and was found to be non-linear.Because the parameter estimation of the dynamical models was carried out on various temperature levels, the non-linearity of the heating system could be checked and was found to comply in both types of experiments.From the parameter of the heating system, the other parameters could be calculated. The values that are found are consistent, as they are confirmed in several different experiments under different outside weather conditions. The value of the heating system parameter was found to agree with values from literature. However, the values found from parameter estimation differ roughly a factor two from the corresponding values found in literature.This latter result could be caused by a defective value of the heating system parameter. Therefore, in Chapter 7 a steady-state analysis is carried out to determine the parameters, where again the heating system parameter is assumed to be known. This time the parameters agree with results found in the literature, so that it may be concluded that the parameters of the dynamical (control) models and the static heating-load models differ, and that the first ones are frequency dependent.For a few cases in Chapter 7 it is also demonstrated, that it is possible to model the slowly time-varying working point, using a quasi-static model. The absence of a long-wave radiation term from the sky in the model can be seen as an omission here. It was suggested that at daytime a quasi-static model should be employed, and that at nighttime a (more simple) steady-state (static) model can be used. When the responses of the working point are combined with the responses of the dynamical model, the \"real\" climate responses can be calculated so that a model of the greenhouse climate is obtained. This model is quite accurate in predicting the momentaneous behaviour of the greenhouse climate process.ControlThe control of greenhouse climates in terms of GCFC is discussed in Chapter 4. Here the attention is focused on temperature control.By analyzing the behaviour of the control loop, performance criteria are formulated, where the attention is focused on the behaviour of the controller when saturations occur caused by the influences of the outside weather conditions. In this respect the control differs from the usual ones. This leads to the formulation of the performance of the GCFC control in terms of overshoot, sag, and undershoot.The performance of a conventional type PI controller is compared with a new dog-lead PI algorithm -which is easily implemented in a computerin terms of the performance criteria. It is seen that the dog-lead algorithm is by far superior in performance with respect to undershoot, better with respect to sag, and similar with respect to overshoot. Since undershoot is the most severe phenomena with respect to poor performance, it is suggested that the dog-lead algorithm is of great practical interest.Also a split-range algorithm is described, which can be used in greenhouses with an upper and a lower heating pipe network.Adaptive controlAn adaptive control method of GCFC of the greenhouse temperature is presented in Chapter 6, and the relevant theory is treated in Chapter 5.The theory is concerned with a novel approach to the estimation of parameters of a dynamical process. The algorithm is based on stability criteria and is formulated as a gradient optimization. From the appearance of the resulting algorithm in the discrete time domain, resemblance to the well known least-squares method is claimed. In the continuous time domain similar algorithms are presented.Adaptive control is presented in Chapter 6. After an outline of the problems associated with the design, results are given of a field test that concludes several years experience with the adaptive method. It is claimed that for the comparison made in the field test, the \"best\" tuned algorithms were compare" ;
-  schema:author "A.J. Udink ten Cate" ;
-  schema:datePublished "1983" ;
-  schema:sameAs <https://doi.org/10.18174/205635> ;
-  dcterms:identifier "doi:10.18174/205635" ;
-  dcterms:subject "Greenhouse Technology and Climate Control" .
-
 <https://medjat.irokosociety.org/id/library/4SIWGKU8>
   a schema:Thesis ;
   schema:name "Eurocentric Archival Knowledge Production and Decolonizing Archival Theory" ;
@@ -125,18 +112,6 @@
   schema:datePublished "1968" ;
   schema:publisher "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)" ;
   dcterms:subject "Caribbean history, culture, and politics" .
-
-<https://medjat.irokosociety.org/id/library/R22TF2AX>
-  a schema:Thesis ;
-  schema:name "Télé-échographie robotisée" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=R22TF2AX> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:R22TF2AX" ;
-  schema:description "This report concerns robotic tele-echographic systems seen as a set of many kinds of modules (master site, slave site, communications, image, video conference, haptic systems, etc.). This work takes place in the context of the design, development and evaluation of a such system and is aimed at the slave site realization. A general presentation of robotic tele-echography is provided before focusing on two prototypes evaluation TER1 and TER2 of the slave robot architecture. The slave robot has 6 dof (degres of freedom). The first prototype is considered as a parallel robot with a first structure for the translation motion and a second one for its orientation. The second prototype is a hybrid robot with the translation structure as a parallel one and the orientation structure considered a serial robot. Both prototypes are non rigid cabledriven robots. The heart of this work concerns this new architecture that is provided to respect compliance, lightness and portability constraints. In fact, one of the objectives of this system is to be used where no medical experts are available to carry out the echographic exam. An inverse geometrical model is developed for each prototype to determine the cables lengths that provide displacements (translation and orientation) of the robot over the patient.s body. For the first prototype a control law of the PIDA kind (proportional, integral, derivative with anticipation term) is used. The TER2 robot uses a closed loop joint control too. In-vitro and in-vivo experiments and evaluations have been done and are presented in this report. Experiments were local and long distance (Grenoble-Toulouse, Grenoble-Brest, Grenoble-Toulon). Promising results and the approval of doctors to use this kind of system have been obtained during the experiments." ;
-  schema:author "Adriana Vilchis-Gonzales" ;
-  schema:datePublished "2003" ;
-  schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
-  dcterms:subject "Soft Robotics and Applications", "Surgical Simulation and Training" .
 
 <https://medjat.irokosociety.org/id/library/X2QZ3E7G>
   a schema:Thesis ;
@@ -281,18 +256,6 @@
   schema:datePublished "1998" ;
   schema:publisher "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)" ;
   dcterms:subject "African history and culture studies", "Caribbean history, culture, and politics", "Economic Zones and Regional Development" .
-
-<https://medjat.irokosociety.org/id/library/XPPX2PGT>
-  a schema:Thesis ;
-  schema:name "\"We Can Learn To Mother Ourselves\": The Queer Survival of Black Feminism" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XPPX2PGT> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XPPX2PGT" ;
-  schema:description "&lt;p&gt;\"We Can Learn to Mother Ourselves\": The Queer Survival of Black Feminism 1968-1996 addresses the questions of mothering and survival from a queer, diasporic literary perspective, arguing that the literary practices of Black feminists Audre Lorde, June Jordan, Alexis De Veaux and Barbara Smith enable a counternarrative to a neoliberal logic that criminalizes Black mothering and the survival of Black people outside and after their utility to capital. Treating Audre Lorde and June Jordan as primary theorists of mothering and survival, and Alexis De Veaux and Barbara Smith as key literary historical figures in the queer manifestation of Black feminist modes of literary production, this dissertation uses previously unavailable archival material, and queer of color critique and critical Black diasporic theoretical approaches to create an intergenerative reading practice. An intergenerative reading practice interrupts the social reproduction of meaning and value across time, and places untimely literary moments and products in poetic relationship to each other in order to reveal the possibility of another meaning of life. Ultimately this dissertation functions as a sample narrative towards the alternate meaning of life that the poetic breaks of Black feminist literary production in the queer spaces of counter-cultural markets, classrooms, autonomous publishing collectives make possible, concluding that mothering is indeed a reflexive and queer way of reading the present in the service of a substantively different future in which our outlawed love survives.&lt;/p&gt;" ;
-  schema:author "Alexis Pauline Gumbs" ;
-  schema:datePublished "2010" ;
-  schema:publisher "DukeSpace (Duke University)" ;
-  dcterms:subject "Gender, Labor, and Family Dynamics" .
 
 <https://medjat.irokosociety.org/id/library/FVQ3XPLH>
   a schema:ScholarlyArticle ;
@@ -530,19 +493,6 @@
   dcterms:identifier "doi:10.4324/9780429262326-11" ;
   dcterms:subject "History, Culture, and Society" .
 
-<https://medjat.irokosociety.org/id/library/2RTYS67H>
-  a schema:Thesis ;
-  schema:name ">i<Sweating System>/i< e trabalho escravo contemporâneo. Um estudo sobre a repetição de padrões" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=2RTYS67H> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:2RTYS67H" ;
-  schema:description "This analysis compares the situation of labor in sewing workshops during the so-called Sweating System, which originated in England during the Industrial Revolution, with contemporary slave labor in Brazil.For the Brazilian case, the study is limited to the case of Bolivians, in the state of So Paulo, as it is more numerous and significant (Souchad, 2012, p. 89; SIMAI, 2012, p. 195).The production of cheap clothes through the so-called Sweating System had high rates of labor exploitation in conditions analogous to slave labor.It so happens that, in those times, Labor Law was not available as it is today, not even the legal definition of what contemporary slave labor would be.It was a time when employees of sewing workshops worked without any legal protection or norms higher than their employers' determinations.However, today, almost 170 years later, as shown in the results, this situation is repeated in the case of Bolivian immigrants who come to So Paulo.What they find is a strong legal framework, but only in theory, since for Brazilian Labor Law, such individuals are invisible.Truck system and exhausting working hours in unhealthy conditions are some of the crimes to which Bolivian citizens who migrate to the state of So Paulo in search of work in clothing industries are subject.The work is unique in the field of Fashion, which strengthens its preventive, informative and educational power for those who intend to live in this area." ;
-  schema:author "Anna Carolina Moraes Figueiredo" ;
-  schema:datePublished "2023" ;
-  schema:sameAs <https://doi.org/10.11606/d.100.2023.tde-24012024-165955> ;
-  dcterms:identifier "doi:10.11606/d.100.2023.tde-24012024-165955" ;
-  dcterms:subject "History of Colonial Brazil", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .
-
 <https://medjat.irokosociety.org/id/library/BGQHTIBE>
   a schema:Thesis ;
   schema:name "Company culture : information, scholarship, and the East India Company settlements 1660-1720s" ;
@@ -641,18 +591,6 @@
   dcterms:identifier "doi:10.31390/gradschool_dissertations.2071" ;
   dcterms:subject "Ecocriticism and Environmental Literature", "Gothic Literature and Media Analysis", "Religious Studies and Spiritual Practices" .
 
-<https://medjat.irokosociety.org/id/library/PLHEBWD9>
-  a schema:Thesis ;
-  schema:name "Hearts divided: The marriage and family of Elizabeth and William Wirt, 1802-1834" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=PLHEBWD9> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:PLHEBWD9" ;
-  schema:description "This joint biography of Elizabeth Gamble Wirt (1784-1857) and William Wirt (1772-1834) tells the story of a middle-class couple in the upper South from 1802 to 1834. The Wirts were members of the emerging urban professional class in the nineteenth-century United States. William Wirt was U.S. Attorney General from 1817 to 1829 and a literary figure who contributed to the legend of the Old South. Elizabeth Wirt was the first American to author a book on the \"language of flowers.\" Although both Elizabeth and William Wirt wrote for publication, their most prolific writings were personal and family correspondence. William Wirt's law practice in Virginia, Washington, D.C., and Maryland separated the couple for many months each year. While apart, the Wirts wrote letters that covered every aspect of their lives: their desire for companionship in their marriage and family; their experiments in modern childrearing; their respective roles in their domestic economy; their supervision of slaves and servants in household production; and their gender roles as husband and wife, father and mother, and master and mistress.\\nWhen Elizabeth and William Wirt married in 1802, they hoped to achieve equality and reciprocity in their marriage. As partners in both love and finances, they planned to make their union the nucleus of a family defined by affection, not by social prescriptions of masculinity and femininity. While the Wirts embraced the ideals of domesticity, they resisted the division of men's lives and women's lives into the separate spheres of home and work. This study documents the Wirts' repeated redefinition of gender roles throughout their marriage. Elizabeth and William Wirt never achieved the high standards they set for themselves, but their lives and letters deepen our understanding of men, women, and the family in nineteenth-century America.\\nUsing interdisciplinary insights from scholarship on religion, architecture, and literature as well as United States social history, women, and families, this study contributes to the fields of women's history, gender studies, the history of childhood education, nineteenth-century America, and the U.S. South." ;
-  schema:author "Anya Jabour" ;
-  schema:datePublished "1995" ;
-  schema:publisher "Rice Digital Scholarship Archive (Rice University)" ;
-  dcterms:subject "American Constitutional Law and Politics", "Historical Economic and Social Studies" .
-
 <https://medjat.irokosociety.org/id/library/979Y7KPQ>
   a schema:Chapter ;
   schema:name "Humans in shackles: an Atlantic history of slavery" ;
@@ -665,20 +603,6 @@
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:978-0-226-77158-8" ;
   dcterms:subject "Slavery -- Atlantic Ocean Region -- History" .
-
-<https://medjat.irokosociety.org/id/library/AY9F56KD>
-  a schema:Thesis ;
-  schema:name "An introduction to psychoanalysis" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=AY9F56KD> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:AY9F56KD" ;
-  schema:description "Abstract not available." ;
-  schema:author "Arthur Blanchette" ;
-  schema:datePublished "1945" ;
-  schema:publisher "uO Research (University of Ottawa)" ;
-  schema:sameAs <https://doi.org/10.20381/ruor-8762> ;
-  dcterms:identifier "doi:10.20381/ruor-8762" ;
-  dcterms:subject "Psychotherapy Techniques and Applications" .
 
 <https://medjat.irokosociety.org/id/library/INDXBY33>
   a schema:ScholarlyArticle ;
@@ -720,7 +644,7 @@
 
 <https://medjat.irokosociety.org/id/library/JYZIQD7Y>
   a schema:Thesis ;
-  schema:name "(desde 1919 à Constituição da República de Moçambique de 2004 e à Lei nº 23/2007, de 1 de Agosto)" ;
+  schema:name "Influência da OIT no direito do trabalho em Moçambique" ;
   schema:url <https://medjat.irokosociety.org/library/?item=JYZIQD7Y> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:JYZIQD7Y" ;
@@ -728,6 +652,8 @@
   schema:author "Baltazar, Pedro Maciel" ;
   schema:datePublished "2016" ;
   schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .
 
 <https://medjat.irokosociety.org/id/library/M4R7JBGT>
@@ -1032,6 +958,8 @@
   schema:author "Bárbara Teixeira" ;
   schema:datePublished "2018" ;
   schema:publisher "Americanae (AECID Library)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues" .
 
 <https://medjat.irokosociety.org/id/library/3VSXMNYP>
@@ -1093,6 +1021,8 @@
   schema:author "Camila Guimarães de Melo" ;
   schema:datePublished "2015" ;
   schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "Migration, Racism, and Human Rights", "Social and Political Issues" .
 
 <https://medjat.irokosociety.org/id/library/32SAD4DV>
@@ -1106,6 +1036,8 @@
   schema:datePublished "2011" ;
   schema:sameAs <https://doi.org/10.11606/d.2.2011.tde-26032012-135021> ;
   dcterms:identifier "doi:10.11606/d.2.2011.tde-26032012-135021" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "Race, Identity, and Education in Brazil", "Social and Political Issues" .
 
 <https://medjat.irokosociety.org/id/library/BTE4G862>
@@ -1305,7 +1237,9 @@
   schema:publisher "Estudios de Historia Novohispana" ;
   schema:sameAs <https://doi.org/10.22201/IIH.24486922E.2021.65.77116> ;
   dcterms:identifier "doi:10.22201/IIH.24486922E.2021.65.77116" ;
-  dcterms:subject "Bourbon reforms", "New Spain", "Veracruz", "ayuntamientos", "fiscal history", "intendentes", "jurisdicción fiscal", "milicias" .
+  dcterms:language "sp" ;
+  schema:inLanguage "sp" ;
+  dcterms:subject "Ayuntamientos", "Bourbon reforms", "City Council", "New Spain", "Veracruz", "fiscal history", "intendentes", "jurisdicción fiscal", "milicias" .
 
 <https://medjat.irokosociety.org/id/library/5V885FIN>
   a schema:ScholarlyArticle ;
@@ -1432,20 +1366,6 @@
   schema:datePublished "2020" ;
   schema:sameAs <https://doi.org/10.1163/9789004431362> ;
   dcterms:identifier "doi:10.1163/9789004431362" ;
-  dcterms:subject "American Constitutional Law and Politics", "Classical Antiquity Studies", "Organic Chemistry Synthesis Methods" .
-
-<https://medjat.irokosociety.org/id/library/KEMYR2PS>
-  a schema:Thesis ;
-  schema:name "Roman representations of the orator during the last century of the Republic" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=KEMYR2PS> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:KEMYR2PS" ;
-  schema:description "The aim of this thesis is to explore the various ways in which Romans constructed the orator's role during this period. I emphasize that the orator was a central figure in Late Republican Rome and that a rhetorical training and an ability to speak in public - whether in the courts, in the senate house or in <em>contiones</em> - could be seen as essential attributes for the leading public figures of this time. In this way the thesis contributes to recent work which has stressed that the political system at Rome can be seen as a form of democracy. My chapters are arranged according to the texts which I have used as evidence in each. The first examines the surviving rhetorical handbooks and dialogues, and argues that there was a thriving and agonistic market for rhetorical education at Rome. Greek ideas were reshaped to suit the Roman socio-political world and its different practices, such as advocacy. Roman orators engaged in heated polemic over the best style of speaking, providing further evidence that the world of the <em>forum</em> was highly competitive. The second chapter uses a selection of Cicero's judicial speeches to argue that a Roman advocate could use a wide variety of strategies, both in portraying his relationship with his client, and in presenting his own persona. The third chapter focuses upon Cicero's <em>Philippics</em>, and explores the ways in which an orator could present his relationship - and establish his authority - with his audience, through his selection of arguments, such as the use of <em>exempla</em>. The final two chapters broaden the horizons of the work: the former uses the fragments of Cato the Elder and Gaius Gracchus to suggest that earlier Romans had used similar devices in developing their self-portrayals. The latter explores the historical texts of Caesar and Sallust, the only surviving evidence which sets the speech-act within the contexts of opposing orations and of audience responses. I conclude with an appendix on the published versions of the speeches." ;
-  schema:author "Christopher Burnand" ;
-  schema:datePublished "2000" ;
-  schema:publisher "Oxford University Research Archive (ORA) (University of Oxford)" ;
-  schema:sameAs <https://doi.org/10.5287/ora-6rekjybey> ;
-  dcterms:identifier "doi:10.5287/ora-6rekjybey" ;
   dcterms:subject "American Constitutional Law and Politics", "Classical Antiquity Studies", "Organic Chemistry Synthesis Methods" .
 
 <https://medjat.irokosociety.org/id/library/PUEJ78PM>
@@ -1605,7 +1525,7 @@
   schema:description "body is[born and sustained through] sacrifice. i see mind seek immortalityandomnipotence through sacrifice. i see mind over body - mind rooting divide in subtraction of orgasmic from being[beingintheworld] to body to part[orgasm] to non i see mind rage [Laing] - where there was once here - rapeing here. seeyouhere [appealing]. argument [syllogism]. i, bodimentofbeing [eg Laing] iam bewhoherenow lookdown. iambody in Pain. The mutual repulsion of profane and sacred [Gould on sacred Hindu law]. profanity [of body] is polluted in embodying [pollution in her] and the sacrifice [decay and death - of zeroing body] - purifies sacred. Based on Gould's summary of the underlying assumptions of Hindu sacred law in chapter four \"Priests and Conrapriests\" (1967) In Gould, Harold A. (1987) The Hindu Caste System: The Sacralization of a Social Order. Chanakya: Delhi. p. 111. Reprinted from Contributions to Indian Sociology. New Series, No. 1, pp 28-57. pain embodimentofbeing [eg Kierkegaard guilts] therefore pain splacematterenergytime [Zeno on splacematterenergytime] splacematterenergytime therefore physics [physics - enlightenment testing ground for cause and effect. Einstein is the light speed observer - observing as fast as impossible with all else in train[slaved]. Newton masters gravity. Chaos is unpredictable slave. Second law of thermodynamics is mastery of slavery. Determinism - master[cause] and slave[effect] - exposed.] physics therefore chemistry [cell bodies], biology [organic bodies], psychology [human body], sociology [human bodies] physics therefore economy [shop - supply of body mastered and demand of body slaved], therefore law [keep shop] and policy [shop front] physics therefore mathematics [dominating human language. the right angle [triangle, hypotenuse, point of view] from Pythagorus and the zeroing of infinity from Indian grammar as void shape [the view of] mind.] physics of mathematics therefore philosophy of mathematics [the form of Plato called first cause by Aristotle and named one by Parmenides and Ptolemy mythologise shape as truth.] mathematics therefore logic [proofing the dominance of mathematics as dominant perspective. Leibniz puts one[everything] and zero[nothing] in Aristotle's syllogism and Boole starts crunching medium of english.] language therefore body [language is metaphor - the naming of] therefore is am i [who] was seen before [then] and therefore pain is becoming in between being inbetweenbeing - etheranderos - heavenandearth and [therefore] creation becomes kill[determined] [sacrifice]. sense [evidence]. inaffinity i body being in words [sound] in paper [light] in hand [body] and water [blood] and inaffinity [analogy] i syllogism. i syllogism to immortality [aim of mind] and syllogism immortality to death [target]. i deal summarily with logic [Aristotle, Leibniz, Boole, Russell and others] language [Panini, Itkonen, Laing, Burke and others] law [Williams, Waddams and others] mathematics [Sarton, Kline, Weyl and others] physics [Zeno, Pythagorus, Newton, Einstein] chemistry [Van Helmont, Brock, Hoagland] biology [Malthus, Darwin, Carson] sociology [Milgram] psychology [Skinner] economy [Smith, Marx, Stigler, Mumford] policy [Machiavelli, Orwell] and mythology [Upanishads, Plato, da Vinci, Galileo, Kant]. i quote directly or quote quote from recognised source. i use subheadings. i sound wordsounds [eg bodyandsoul] i emotion for sound [errors abound]. conclusion [assumptions]. beingintheworld is[the way of the world]. body is mind is being. mind is grasping[knots] itself. mind is lost[without body]. presumption [prediction]. beingwhole [therefore] letgoofyourself [advice given] and shebehere. [500 words]" ;
   schema:author "Craig Goodwillie" ;
   schema:datePublished "1995" ;
-  dcterms:subject "Theological Perspectives and Practices" .
+  dcterms:subject "Ontology", "Philosophy", "Theological Perspectives and Practices" .
 
 <https://medjat.irokosociety.org/id/library/F5IQS7UI>
   a schema:ScholarlyArticle ;
@@ -5779,6 +5699,8 @@
   schema:datePublished "2012" ;
   schema:sameAs <https://doi.org/10.35662/unine-thesis-2272> ;
   dcterms:identifier "doi:10.35662/unine-thesis-2272" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
   dcterms:subject "African history and culture studies", "Migration, Identity, and Health", "Multiculturalism, Politics, Migration, Gender" .
 
 <https://medjat.irokosociety.org/id/library/UF9PHJNU>
@@ -6889,19 +6811,6 @@
   dcterms:identifier "doi:10.47749/t/unicamp.2012.896850" ;
   dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Race, Identity, and Education in Brazil" .
 
-<https://medjat.irokosociety.org/id/library/WPMTKP3S>
-  a schema:Thesis ;
-  schema:name "Imagining Luke - Acts in Roman Britain." ;
-  schema:url <https://medjat.irokosociety.org/library/?item=WPMTKP3S> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:WPMTKP3S" ;
-  schema:description "This dissertation aims to offer a new interpretation of the meanings Luke-Acts conveyed to its first audiences by imagining people from early Roman Britain encountering that text. As the events described in the New Testament were unfolding, the Romans invaded Britain (43 CE). By the time that invasion was complete (c. 83 CE), the earliest books of the New Testament were in circulation. An understanding of early Roman Britain opens a window on to the world of the New Testament and its first audiences. The investigation of three archives from an urban, a military, and a rural community draws on the methodology of archival ethnography. In these writings, traders and merchants, civilians and soldiers, town and country dwellers, slave and free, men and women come alive. People such as these are encountered in the New Testament and are among its first readers. Imagining Luke-Acts through the eyes of the people first of the Bloomberg tablets, takes the reader to passages to do with money and possessions, honour and shame, reciprocity and debt, patrons and clients, slaves and masters, the rich and the destitute, Roman law and literacy; second of the Vindolanda tablets, to passages to do with women of agency, the military and local people, Roman law, travel and identity, festivals and feasting, sickness and healing, honour and shame, patrons and clients, masters and slaves and the reversal of roles; and third of the Uley curse tablets, to passages to do with temples, ritual practice, cursing and praying. The resulting imagined reading of Luke-Acts is justified in the locations and with the writings chosen, informed by careful study of the data available, and warranted by close attention to the biblical text. It contributes to our understanding of the way the first readers of the New Testament negotiated life in the empire and understood Luke-Acts." ;
-  schema:author "Richard Cleaves" ;
-  schema:datePublished "2023" ;
-  schema:sameAs <https://doi.org/10.46289/uu35c34z> ;
-  dcterms:identifier "doi:10.46289/uu35c34z" ;
-  dcterms:subject "Biblical Studies and Interpretation", "Byzantine Studies and History", "Globalization, Historical Perspectives, and International Relations" .
-
 <https://medjat.irokosociety.org/id/library/K35QC4NP>
   a schema:Chapter ;
   schema:name "The Giant Lamellophones" ;
@@ -6914,18 +6823,6 @@
   schema:sameAs <https://doi.org/10.4324/9781003003526-22> ;
   dcterms:identifier "doi:10.4324/9781003003526-22" ;
   dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society", "Music History and Culture" .
-
-<https://medjat.irokosociety.org/id/library/MRTNQY8B>
-  a schema:Thesis ;
-  schema:name "Topics in Asimjeeg Datooga Verbal Morphosyntax" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=MRTNQY8B> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:MRTNQY8B" ;
-  schema:description "Asimjeeg Datooga is a Southern Nilotic language spoken by approximately three thousand people in Northern Tanzania, and it is grouped together with other language varieties in the Datooga family or dialect cluster. Although all of the Datooga varieties are known to be related to one another, very little is understood about many of the individual varieties, especially those that have few speakers such as Asimjeeg Datooga and Bianjida Datooga. This dissertation constitutes not only the first detailed description of Asimjeeg Datooga, but also the first detailed description of any single minority Datooga variety. \\n\\nOne of the most intriguing aspects of the grammatical system of Asimjeeg Datooga, and Datooga varieties more generally, is the verbal morphology. Verbs in Asimjeeg Datooga are structurally and semantically complex. The elements that serve as the building blocks of the verbs include not only individual segmental and tonal morphemes but also schematic and word-level structures. The dependent stem structure, a formal component common to many verbal constructions in Asimjeeg Datooga as well as other varieties of Datooga, is described in detail for the first time in this dissertation. Verbs in Asimjeeg Datooga also encode a wide spectrum of functional domains, including tense, aspect, negation, pluractionality, polarity, applicatives, conditionality, directionality, associated motion, subject and object indexation, and non-polar question formation.\\n\\nThe analysis presented in the dissertation is built upon the foundation of an open-access audio-visual dataset that is hosted at the Endangered Languages Archive. The archive includes approximately 140 hours of audio-visual material and also time-aligned annotations and metadata. These documentation materials are the first open-access dataset for any variety of Datooga, the only documentation of all extant communities for any variety of Datooga, the only dataset that is based on the speech of over 50 speakers for any variety of Datooga, and the only dataset that was at least partially collected by members of a Datooga speech community. Each natural speech example in the dissertation is labeled with a unique identifier that can be used to locate the cited recording segment on ELAR." ;
-  schema:author "Richard Griscom" ;
-  schema:datePublished "2019" ;
-  schema:publisher "Scholars' Bank (University of Oregon)" ;
-  dcterms:subject "Language, Linguistics, Cultural Analysis", "South Asian Studies and Conflicts" .
 
 <https://medjat.irokosociety.org/id/library/V5ITFIIY>
   a schema:ScholarlyArticle ;
@@ -6957,7 +6854,7 @@
 
 <https://medjat.irokosociety.org/id/library/YZFI528Q>
   a schema:ScholarlyArticle ;
-  schema:name "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana" ;
+  schema:name "La influencia de la música cubana de origen abakuá en la música afroperuana" ;
   schema:url <https://medjat.irokosociety.org/library/?item=YZFI528Q> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:YZFI528Q" ;
@@ -6965,7 +6862,9 @@
   schema:author "Rigol Sera, Laureano Arturo" ;
   schema:datePublished "2024" ;
   schema:publisher "Revistas PUCP (Pontificia Universidad Católica del Perú)" ;
-  dcterms:subject "Aesthetics", "Anthropology", "Art", "Diversity (politics)", "Ethnology", "Expression (computer science)", "Focus (optics)", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology", "Theme (computing)" .
+  dcterms:language "sp" ;
+  schema:inLanguage "sp" ;
+  dcterms:subject "Anthropology", "Art", "Diversity (politics)", "Ethnology", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology" .
 
 <https://medjat.irokosociety.org/id/library/ZSJQ3K6D>
   a schema:Thesis ;
@@ -7083,18 +6982,6 @@
   schema:sameAs <https://doi.org/10.1215/9781478060352-004> ;
   dcterms:identifier "doi:10.1215/9781478060352-004" ;
   dcterms:subject "Anthropological Studies and Insights", "Colonialism, slavery, and trade", "Vietnamese History and Culture Studies" .
-
-<https://medjat.irokosociety.org/id/library/PNDNBS39>
-  a schema:Thesis ;
-  schema:name "RELIGIOUS DEMOCRATS: DEMOCRATIC CULTURE AND MUSLIM POLITICAL PARTICIPATION IN POST-SUHARTO INDONESIA" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=PNDNBS39> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:PNDNBS39" ;
-  schema:description "Most theories about the negative relationship between Islam and democracy rely on an interpretation of the Islamic political tradition.More positive accounts are also anchored in the same tradition, interpreted in a different way.While some scholarship relies on more empirical observation and analysis, there is no single work which systematically demonstrates the relationship between Islam and democracy.This study is an attempt to fill this gap by defining Islam empirically in terms of several components and democracy in terms of the components of democratic culturesocial capital, political tolerance, political engagement, political trust, and support for the democratic system-and political participation.The theories which assert that Islam is inimical to democracy are tested by examining the extent to which the Islamic and democratic components are negatively associated.Indonesia was selected for this research as it is the most populous Muslim country in the world, with considerable variation among Muslims in belief and practice.Two national mass surveys were conducted in 2001 and 2002.This study found that Islam defined by two sets of rituals, the networks of Islamic civic engagement, Islamic social identity, and Islamist political orientations (Islamism) does not have a negative association with the components of democracy.The only negative relationship is found between Islamism and tolerance toward Christians.iii However, intolerant Islamism is not a real threat to democratic stability because intolerant Islamists tends to be passive, not active, political participants.There is no association between intolerant Islamism and protest activity that might have the potential to destabilize the democratic system.On the contrary, almost all components of Islam have a positive and significant relationship with secular civic engagement, with political engagement, and with political participation.These three components of democracy reinforce support for the democratic system as whole.Therefore, Islam helps Muslim citizens to be active in politics and this activity is congruent with the democratic system as a whole.What emerges is not religious Muslims who are against democracy, nor non-religious democrats, but rather religious Muslims who contribute to strengthening democracy.They are religious democrats." ;
-  schema:author "Saiful Mujani" ;
-  schema:datePublished "2004" ;
-  schema:publisher "OhioLink ETD Center (Ohio Library and Information Network)" ;
-  dcterms:subject "Asian Studies and History", "Indonesian Election Politics and Participation", "Islamic Studies and Radicalism" .
 
 <https://medjat.irokosociety.org/id/library/XF43J266>
   a schema:Thesis ;
@@ -7283,6 +7170,8 @@
   schema:description "This dissertation investigates the apparent contradiction between civil and political equality and the exclusion of the citizens of the French Antilles from general law after 1848. Adressed for its heuristic value, this paradox is resituated within the general economy of French citizenship and at the intersection with the history of the various legal statuses of individuals in the French colonial empire during the second half of the 19th century. This investigation thus traces out a conceptual genealogy of French citizenship from the margins, over the long term. The thesis shows that the civil and politic equality of individuals does not equate to full inclusion in the political sphere: the « community of citizens », is not constituted by the granting 0 rights. The marginalization of citizens who were former slaves finds its origins in a political and moral assessment of the social and historical legacies these citizens. This assessment is measured by the ideal of a concurrence between the autonomous Iiberal individual and the modem Citizen: the universalization of rights and the generalization of the law require that individuals belong to the same social ethos. The other-ing of equals rests, even according to modem principles, on the politicization of social inheritance. It operates as a mechanism of racialization, based on the politicization of origins. Thus French citizenship was neither unitary nor abstract. It worked as much to include as it did to exclude. Its historical construction was articulated according to a certain modality of race, which included not only categorization based on color, but also based on the perceived level of civilization." ;
   schema:author "Silyane Larcher" ;
   schema:datePublished "2011" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Migration, Identity, and Health" .
 
 <https://medjat.irokosociety.org/id/library/NF8BYSQD>
@@ -7582,17 +7471,6 @@
   schema:publisher "Gothenburg University Publications Electronic Archive (Gothenburg University)" ;
   dcterms:subject "Historical Legal Studies and Society", "Reformation and Early Modern Christianity" .
 
-<https://medjat.irokosociety.org/id/library/ASYUWX4Y>
-  a schema:Thesis ;
-  schema:name "Um bruxo e seu tempo: as obras de Gerald Gardner como expressões contraculturais" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=ASYUWX4Y> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:ASYUWX4Y" ;
-  schema:description "Esta dissertacao analisa a historia da Wicca, um sistema religioso criado por Gerald Gardner na Inglaterra em fins da decada de 40, atraves de tres de suas obras que tratam especificamente de sua concepcao de bruxaria, Com o auxilio da Alta Magia (1949), A Bruxaria Hoje (1954) e O Significado da Bruxaria (1959). Dentro de uma perspectiva que leva em consideracao suas inspiracoes para a constituicao de um sistema religioso original resultante de sua circulacao como um seeker dentro do milieu ocultista de sua epoca, busca-se entender a Wicca como um sistema religioso atraves de uma interpretacao contra cultural. Sendo assim este trabalho questiona em que sentido as obras de Gardner sao um produto historico social de seu tempo. Nossa hipotese e a de que suas obras sao um produto historico social da Inglaterra do pos-guerra na medida em que Gardner, ao construir sua concepcao de bruxaria em suas obras, apropriou-se de tendencias contraculturais para compor um sistema religioso contracultural" ;
-  schema:author "Terzetti Filho" ;
-  schema:datePublished "2012" ;
-  dcterms:subject "Food, Nutrition, and Cultural Practices", "Religious Tourism and Spaces", "Urban and sociocultural dynamics" .
-
 <https://medjat.irokosociety.org/id/library/857DRSNL>
   a schema:Thesis ;
   schema:name "The cotton trade and Brazilian foreign commerce during the industrial revolution" ;
@@ -7668,19 +7546,6 @@
   schema:publisher "The New York Times" ;
   dcterms:subject "Voodoo" .
 
-<https://medjat.irokosociety.org/id/library/KCUSQBE7>
-  a schema:Thesis ;
-  schema:name "Os migrantes da costura em São Paulo: retalhos de trabalho, cidade e Estado" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=KCUSQBE7> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:KCUSQBE7" ;
-  schema:description "This research has three main objectives. The first is to understand the garment workers migration. It analyzes the functioning of the sector that attracts this transnational workforce, located in the urban dynamic of Metropolitan Area of So Paulo. Our approach denies national and ethnic aspects to explain the migration flow that enters the city through the work in the garment industry. The hypothesis is that it was established an elective affinity between the changes in this industry, since the restructuring process, and the way in which is structured the transnational circulating migration, settled in what was called as the garment workshop dispositif. This dispositif provides the conditions for the realization of the migratory project: mobility, qualification, work, housing and nourishment. The second aim lies in understanding the relationship of the garment workshop dispositif with the idea of slave labour. The debate on slave labour is trackedfrom the rural to the urban mode, with reference to the garment workers migration. It is showed the treaties, national and international laws that concern these migrants. Then, some representations of these migrants about this subject are evidenced. The last aim shifts the understanding of slave labour. We put forward the Zara case, an inspection that identified slave labour in Zaras chain production. We examine the transformations of the performance of state agents in the fight against slave labour: from repression and criminalization to the government of the flow and the incorporation of migrants with the mobilization of the large companies and NGOs. Slave labour is understood as agglutinating the various politics of inclusion, referred on the market, which seek to organize this labour market and govern the migration flow. This research seeks to highlight the limits and contradictions of these actions. The methodology used was largely qualitative, based on field research, documentary analysis and semi-structured interviews." ;
-  schema:author "Tiago Rangel Côrtes" ;
-  schema:datePublished "2013" ;
-  schema:sameAs <https://doi.org/10.11606/d.8.2013.tde-03022014-112419> ;
-  dcterms:identifier "doi:10.11606/d.8.2013.tde-03022014-112419" ;
-  dcterms:subject "Migration, Ethnicity, and Economy", "Migration, Racism, and Human Rights", "Urban and sociocultural dynamics" .
-
 <https://medjat.irokosociety.org/id/library/TUGXX643>
   a schema:Thesis ;
   schema:name "In the Clearing: Black Female Bodies, Space and Settler Colonial Landscapes" ;
@@ -7732,30 +7597,6 @@
   schema:publisher "Digital Repository (National Repository of Grey Literature)" ;
   dcterms:subject "Artificial Intelligence in Law", "Interdisciplinary Studies: Technology, Society, and Humanities", "Law, AI, and Intellectual Property" .
 
-<https://medjat.irokosociety.org/id/library/RBDFVBSJ>
-  a schema:Thesis ;
-  schema:name "The Dystopian Testimony in Margaret Atwood's The Handmaid's Tale and The Testaments" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=RBDFVBSJ> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:RBDFVBSJ" ;
-  schema:description "Margaret Atwood's The Handmaid 's Tale (1985) and The Testaments (2019) follows four female narrator-protagonists from the Republic of Gilead, a theocracy which bases its laws and values are on the Bible, and in which oppresses its female population.As a dystopian work, The Handmaid's Tale reflects Atwood's concerns regarding contemporary trends of the 1980s, inspired by her own time and the history of the US.The Testaments follows suit and draws on, among other things, the US presidential election of 2016 as well as the MeToo movement.The thesis examines the different ways in which the two novels approach the theme of the female testimony.It argues that The Handmaid's Tale can be read as an allegory, as it draws parallels between the story of Offred the slave narratives of the 1800s.The Testaments examines the theme of the female testimony by constructing its narrative through three characters of different backgrounds.The thesis adopts the term \"herstory\"opposed to \"history\"a word that denotes history written from a feminist perspective, emphasizing the role of women, or told from a woman's point of view.Drawing as much on the past as she does on the present, besides the use of allegory, Atwood comments on how history and historiography traditionally treat the female testimony as inferior to the masculine one.Using theories and concepts by thinkers such as Michel Foucault, Mikhail Bakhtin, and Louis Althusser, mainly revolving around discourse and ideology, the thesis examines the power structures of Gilead.It claims that ideological state apparatuses, that are central to Althusser's writing, are the main targets of Atwood's critique, as they reproduce racism, sexism, and fundamentalism.However, the thesis also finds that The Testaments is more overtly feminist, which is a label Atwood largely dismisses." ;
-  schema:author "Tore Sefland Heggen" ;
-  schema:datePublished "2020" ;
-  schema:publisher "Bergen Open Research Archive (BORA) (University of Bergen)" ;
-  dcterms:subject "Short Stories in Global Literature", "Themes in Literature Analysis", "Utopian, Dystopian, and Speculative Fiction" .
-
-<https://medjat.irokosociety.org/id/library/XM6DX8FD>
-  a schema:Thesis ;
-  schema:name "Fear and Resistance : the Construction of Alawi Identity in Syria" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XM6DX8FD> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XM6DX8FD" ;
-  schema:description "The Alawi minority of Syria – the sect of president Bashar al-Asad and his father and former president Hafiz al-Asad – figures in the media and academic writings as ‘an extreme Shi’a sect.’ Although there are deep religious cleavages between the Alawis and Syria’s Sunni Muslim majority, this thesis argues that religion is only one aspect of how Alawis construct their collective identity in the Syrian context. \\n\\nFirst-time visitors to Syria will experience a tolerant and heterogeneous country where people of different religions live side by side. This is maintained by the Official Discourse of the regime, which forcefully imposes the notion that Syria’s heterogeneity is a blessing and that Syrians get along irrespective of religion. Yet, Alawi collective identity is formed in an antagonistic relationship to this Official Discourse, and above all, to the Sunni discursive hegemony. Their identity is constructed in several different dimensions, but what their history, culture, and politics have in common are that they are all constructed in a relational way to the Sunni majority. \\n\\nTheir history is connected to the present by the hatred they believe that the Sunnis nurture for them, meaning that the persecution and massacres of the past are still part of the present day. Culturally, they portray themselves as opposites to the Sunnis and see themselves as more similar to the Christians than to other Muslims. And politically, the fact that so many key figures in the regime are Alawis actually makes the Alawis feel even more threatened because it only gives those who hate them yet another reason to do so. Alawi discourses are therefore centred on fear: a fear of the future based on history and history’s contemporary reincarnation in the form of Islamic extremism. \\n\\nUsing discourse theory and based on fieldwork in coastal Syria, this thesis argues that Alawi identity is constructed in direct opposition to the Sunni majority, where the Sunnis become ‘The Other’ that restricts ‘Us.’ This means that while they define themselves as Muslims, arguably the greatest dilemma in their identity construction, they also define themselves as everything that the Sunnis are not. Yet, having no public arenas for their struggle to challenge the Sunni religious monopoly, their oppositional discourses take the shape of hidden transcripts out of sight from the majority." ;
-  schema:author "Torstein Schiøtz Worren" ;
-  schema:datePublished "2007" ;
-  schema:publisher "Duo Research Archive (University of Oslo)" ;
-  dcterms:subject "Jewish and Middle Eastern Studies", "Middle East Politics and Society", "Middle East and Rwanda Conflicts" .
-
 <https://medjat.irokosociety.org/id/library/3ZQR5P6T>
   a schema:Book ;
   schema:name "Silencing the past: power and the production of history" ;
@@ -7768,30 +7609,6 @@
   schema:publisher "Beacon Press" ;
   dcterms:identifier "isbn:978-0-8070-4310-3" ;
   dcterms:subject "Historicism", "Historiography", "Power (Social sciences)" .
-
-<https://medjat.irokosociety.org/id/library/MBNBFXQP>
-  a schema:Thesis ;
-  schema:name "Dealing lightly with the wounds of my people : a theological ethical critique of the South African Truth and Reconciliation Commission" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=MBNBFXQP> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:MBNBFXQP" ;
-  schema:description "This study is an attempt to critique the South African Truth and Reconciliation Commission from a theological ethical perspective. The central critique and argument of this study will be that, it is impossible to reconcile the dispossessor and the dispossessed or the oppressor and oppressed in the way the South African TRC did. As such, it will be befitting to start off this study which explores some of the noticeable lessons and challenges emerging from the South African Truth and Reconciliation Commission (hereafter, the TRC) by elucidating that this study is an attempt to contribute to the on-going discussions on reconciliation. It is also vital to mention up front that this study attempts to contribute to the discussion on reconciliation which seeks to remove injustice at the root. It contributes to a discussion of the weeds of alienation and fragmentation, and it stands in contrast to the frequent use of reconciliation merely to reach some political accommodation and not to address the critical questions of justice, equality and dignity (Boesak&#13;\\n&amp; DeYoung 2012). It is also befitting to point out that two central themes – political pietism and Christian quietism – form the backdrop to this study (Boesak &amp; DeYoung 2012). The study contends that reconciliation in South Africa was used merely to reach some political accommodation and did not address the three critical questions of justice, equality and dignity. These arrangements perpetually favour the rich and powerful but deprive the powerless of justice and dignity. Hitherto, this reconciliation is presented as if it does respond to the need for genuine reconciliation and employs a language that sounds like the truth, but it is in fact deceitful – and this we call political pietism. It is also vital to mention that “reconciliation” is a Christian concept, and as such, Christians’ measure matters of reconciliation with the yardstick of the gospel and therefore should know better. However, as it will be shown in this study, when&#13;\\nChristians in South Africa discovered that the TRC was not really promoting reconciliation, they became complicit in a deceitful reconciliation. This may have been for reasons of self-protection, fear or a desire for acceptance by the powers that govern the world. Whichever way one looks at it, they tried to seek to accommodate the situation, to justify it and to refuse to run the risk of challenge and prophetic truth telling. As a result, they denied the demands of the gospel and refused solidarity with the powerless and oppressed. This is called Christian quietism (Boesak &amp; DeYoung 2012:1).&#13;\\nThis study in its attempt to critique the South Africa TRC from a theological ethical perspective will point out that, the TRC which was obviously the product of the negotiated settlement needs to be understood against the background of the global struggle of particularly Third-World countries which were resisting authoritarian regimes put in place by the West for the benefit of the West. As such, this study will point out how the West, in their attempt to keep a grip on the Third-World countries – particularly on their resources – had to recommend and promote their notion of democracy. Democracy became the only option for Third-World countries as a result of the fall of the Soviet Union. It must, however, be mentioned that the problem is not democracy but the manifestation thereof under capitalism. This is because the notion of democracy was recommended to Third-World countries when capitalism was becoming global. As such, this presented some contradictions because democracy emphasizes joint interests, equality and common loyalties whilst capitalism is based on self-seeking inequality and conflicting individual and group interest (Terriblanche 2002). This means that a transition to democracy (especially constitutional democracy) means that the former oppressor or dispossessor will hold on to economic power. As such, the sudden interest of both the NP and the corporate sector in South Africa to a transition to democracy needs to be understood against this background. This study will argue and demonstrate how the ANC was outsmarted during the negotiations in that, at the formal negotiations, the ANC won political power whilst the NP/corporate sector in South Africa won economic power. This is mentioned to here to point out that both the elite compromise reached at the formal and informal negotiations and the influence of the Latin-American truth commissions led to the inability or unwillingness of the TRC to uncover the truth about systemic exploitation. As such, this study will argue and demonstrate that, on the one hand, reconciliation was not added to the truth commission for the purpose of confronting the country with the demands of the gospel and, on the other hand, the TRC was set up (from its inception) for failure." ;
-  schema:author "Tshepo Lephakga" ;
-  schema:datePublished "2015" ;
-  schema:publisher "Unisa Institutional Repository (University of South Africa)" ;
-  dcterms:subject "Biblical Studies and Interpretation", "Christian Theology and Mission", "Religion, Society, and Development" .
-
-<https://medjat.irokosociety.org/id/library/YSLIKTRB>
-  a schema:Thesis ;
-  schema:name "Delay compensation in bilateral teleoperation using predictor observers" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=YSLIKTRB> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:YSLIKTRB" ;
-  schema:description "Destabilization and performance degradation problems caused by the time delay in communication channel is a serious problem in bilateral teleoperation. In particular, variability of the delay due to limited bandwidth, long distance or congestion in transmission problems has been a real challenge in bilateral teleoperation research since the internet communication has become prevalent. Many existing delay compensation techniques are designed for linear teleoperator systems. In order to implement them on real bilateral systems, the nonlinear dynamics of the robots must first be linearized. For this purpose feedback linearization is usually employed. In this thesis, the delay compensation problem is tackled in an observer framework by designing two observers. Integration of a disturbance observer to the slave side implies a linearized slave dynamics with nominal parameters. Disturbance observer estimates the total disturbance (nonlinear terms, parametric uncertainties and external disturbances) on the slave system. A second observer is designed at the master side to predict states of the slave. This observer can be designed using a variety of linear or nonlinear methods. In order to have finite-time convergence, a sliding mode observer is designed at the master side. It is shown that this observer predicts the future positions and/or velocities of the slave and use of such predictions in the computation of a simple PD control law implies stable operation for the bilateral system. Since the disturbance observer increases the robustness of the slave system, the performance of the resulting bilateral system is quite satisfactory. Force reflecting bilateral teleoperation is also considered in this thesis. Integrating the proposed observer based delay compensation technique into the well known four-channel control architecture not only stable but also transparent bilateral teleoperation is achieved. Simulations with bilateral systems consisting of 2 DOF scara robots and pantograph robots, and experiments with bilateral systems consisting of a pair of single link robots and a pair of pantograph robots validate the proposed method." ;
-  schema:author "Tuğba Leblebici" ;
-  schema:datePublished "2010" ;
-  schema:publisher "Sabanci University" ;
-  dcterms:subject "Dynamics and Control of Mechanical Systems", "Geophysics and Sensor Technology", "Teleoperation and Haptic Systems" .
 
 <https://medjat.irokosociety.org/id/library/C2YCEA2N>
   a schema:Thesis ;
@@ -7820,18 +7637,6 @@
   dcterms:identifier "doi:10.24142/unaula.n38a10" ;
   dcterms:subject "Cuban History and Society" .
 
-<https://medjat.irokosociety.org/id/library/FCS7QQG6>
-  a schema:Thesis ;
-  schema:name "The Cape Khoisan in the Eastern districts of the colony before and after Ordinance 50 of 1828" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=FCS7QQG6> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:FCS7QQG6" ;
-  schema:description "My study arose from a wish to consolidate work begun in the 1970s concerning the indigenous people of the Cape -the 'Bushmen' and 'Hottentots' of the historical record who, properly, are called San and Khoi, or 'the Khoisan' My idea was to build upon existing work (of others, chiefly, but also of my own) concerning their dispossession and subordination by colonists from Europe.The focus has, as far as possible, been the people themselves, with Ordinance 50 of 1828 the pivotal point.The ordinance removed certain disabilities peculiar to the Khoisan and other 'free people of colour' in the colony, and conferred equality before the law.Other researchers have explored the alleged vagrancy of Ordinance SO's beneficiaries, its impact upon wages, and the government's administration of the law.V. CONCLUSION 399 12. Looking Back, Looking Ahead 403 'It is .. the thousand means that the spirit of oppression can employ and which I cannot recount: Honouring Ordinance SO's intent 403 'The Boors have abundance of lands, and the Settlers but the Hottentots not' Auguries for Khoisan welfare in the Kat River Settlement Coloured identity and 'Hottentot nationalism' Theorising subjugation The Khoisan, the colonists and Ordinance 50: A legacy" ;
-  schema:author "V. C. Malherbe" ;
-  schema:datePublished "1997" ;
-  schema:publisher "Open University of Cape Town (University of Cape Town)" ;
-  dcterms:subject "Legal Issues in South Africa" .
-
 <https://medjat.irokosociety.org/id/library/P72Z9FZV>
   a schema:ScholarlyArticle ;
   schema:name "Plantas utilizadas en las ceremonias de la sociedad secreta Abakua: Trabajo etnobotánico de los ritos del Vudú" ;
@@ -7844,30 +7649,20 @@
   schema:publisher "Natura Medicatrix: Revista médica para el estudio y difusión de las medicinas alternativas" ;
   dcterms:subject "African cultural and philosophical studies" .
 
-<https://medjat.irokosociety.org/id/library/XP9VS2ZX>
-  a schema:Thesis ;
-  schema:name "Biopolitical Cyborgs in Post-1980 North American Critical Dystopias" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XP9VS2ZX> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XP9VS2ZX" ;
-  schema:description "Stories of babies born from transplanted uteruses, fetuses created from three biological parents, a booming global surrogacy market, and embryonic gene selection have all made national headlines in the past two years. We live in an era of science fictional childbirths. Reproductive technologies that didn't exist a decade ago are now peddled to whomever can afford them, and science fiction has responded. Post-1980 speculative fiction confronts a potent convergence of various sociopolitical and reproductive trends, including the rise of neoliberal conservatism; the \"test tube baby\" boom; polarized reproductive rights debates; and Diamond v. Chakrabarty (1980), the Supreme Court decision granting corporations the ability to patent genetically modified life forms.;In North American dystopian fiction written after 1980, anxieties about technological reproduction manifest in metaphorical figures I term \"biopolitical cyborgs.\" Evocative of Aldous Huxley's vision of a brave new world, biopolitical cyborgs are citizens whose hybrid features are designed to hinder political agency and personal autonomy. My project reads the biopolitical cyborg as a metaphor of the myriad ways life processes are governed in liberal democracies. I argue that these hybrid denizens of posthuman futures forecast the potential for powerful states and corporations to wield biomedical technologies in their favor, essentially creating citizens designed to comply with state agendas. However, the open and ambiguous endings characteristic of the critical-dystopian genre infuse these dystopian figures with eutopian glimmers, opening possibilities for biopolitical cyborgs to learn to use their hybridity to work towards a posthuman ironic liberation.;Each chapter of my dissertation explores one of four manifestations of this complex figure. Margaret Atwood's The Handmaid's Tale, a dire account of an authoritarian state gaining control of women's fertility, introduces the figure of Mother-soldiers. Mother-soldiers are female citizens who, locked in biopolitical wars, are transformed into soldiers and coerced to use their reproductive abilities in wars for the future of the nation. Soldier-cyborgs, such as the Community citizens in Lois Lowry's The Giver, are genetically modified or artificially augmented humans. In essence, the state uses genetic modification to create perfect, subservient citizens. Bare-life-cyborgs, such as the New People of Paolo Bacigalupi's The Windup Girl, are human/nonhuman hybrids whose transgenic DNA places them outside the protections of human rights laws. Bare-life-cyborgs forecast using the patenting of hybrid life forms to bypass constitutional protections, allowing corporations to legally create and sell a slave class within liberal democracies. Finally, I have termed future posthuman generations born to cyborgs as" ;
-  schema:author "Valerie Ann Surrett" ;
-  schema:datePublished "2017" ;
-  schema:sameAs <https://doi.org/10.33915/etd.6747> ;
-  dcterms:identifier "doi:10.33915/etd.6747" ;
-  dcterms:subject "Religious Studies and Spiritual Practices", "Themes in Literature Analysis", "Utopian, Dystopian, and Speculative Fiction" .
-
 <https://medjat.irokosociety.org/id/library/VXMWIAVV>
   a schema:Thesis ;
-  schema:name "En mal de mots" ;
+  schema:name "En mal de mots: représentations de la figure paternelle Dans les littératures de la Caraïbe et des Mascareignes" ;
   schema:url <https://medjat.irokosociety.org/library/?item=VXMWIAVV> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:VXMWIAVV" ;
-  schema:description "&lt;p&gt;In the French Caribbean islands of Guadeloupe and Martinique, the father is stigmatized because he is often absent from the family structure. The possible reasons for his absence can be found in the Code Noir [Black Code] promulgated in 1685 in the French Caribbean colonies and in 1724 in Mauritius and Reunion. The Black Code is intended to regulate the lives of slaves in the colonies by monitoring their lifestyles, their religion (imposed Catholicism) and their status as commodities. More important, the legal document positions women at the head of the household by defining the legal status of children according to that of their mother, and subsequently denying the black man a role in the family except as procreator. Article XII of the Code stipulates that [c]hildren born in marriages between slaves will belong to the masters of the female slaves and not to those of the husband\". As for article XIII, it claims that \"[i]f the husband married a free woman, their children, boys and girls, will be free like her no matter the status of their father but if the father is free and the mother is a slave, the children will be slaves like their mother\". Thus, it is because she is deprived of a spouse who is her equal that the black woman must occupy the two functions of both mother and father in the family.&lt;/p&gt; &lt;p&gt;After the abolition of slavery, French colonial authorities called for cheap and abundant labor, coming mainly from India, to replace the former slave population on the plantations. The arrival of Indian indentured servants (called Coolies), initially hired for five years, transformed the existing social, cultural and economic structure of the islands because Indians replaced the former African slaves at the bottom of the social ladder. Consequently, like the former slaves of African descent, Indian laborers experienced a new language, a new land, new standards and more importantly, they were subjected to the laws of the Black Code that were not originally applicable to them, but still prevailed even after the abolition. Therefore, what I call a Black Code mentality, articulated in the passage from African slavery to Indian indentureship, is what determines the relationships between men and women, of both African and Indian origins. The mentality extends to the post-slavery, colonial and postcolonial situations of these societies of the Caribbean and the Indian Ocean, until today.&lt;/p&gt; &lt;p&gt;The purpose of my dissertation is to examine the persistence of a widespread monoparental pattern in these regions as a logical consequence of the application of the 1685/1724 Code Noir. My thesis underscores the rearticulation and renegotiation of the role of the father, of African and Indian descent, in both his family structure and his community of origin, as a function that was codified, legitimized and predetermined by the Black Code. Besides, I contend that the ethnic, social and cultural components of these societies are, in many respects, relayed by social laws and decrees that have had a significant impact on family structures in the Caribbean and the Indian Ocean.&lt;/p&gt; &lt;p&gt;Through the critical analysis of contemporary literatures and films from Guadeloupe, Martinique, Reunion and Mauritius, my thesis compares two different geographical areas that are legally connected by the Black Code during slavery and evolve, after the abolition, towards a different political status: Guadeloupe, Martinique and Reunion became French Overseas Departments in 1946 whereas Mauritius became independent in 1968. This comparison allows me to question four major critical concepts pertaining to postcolonial theory: Creolization, Creoleness, Indianness and Coolitude, as they relate to the identity politics of two populations present in the Caribbean and the Indian Ocean: the African diaspora and the Indian diaspora.&lt;/p&gt;" ;
+  schema:description "This dissertation examines the reasons why there is a pattern of the absent father in the family structures of Guadeloupe and Martinique, in the Caribbean, and in Reunion and Mauritius, in the Indian Ocean. I explain this pattern by the persistence, to this day, of a plantation mentality that took shape in times of slavery. Through the analysis of contemporary literatures from Guadeloupe, Martinique, Reunion and Mauritius, my thesis compares the Caribbean (Guadeloupe and Martinique) and the Indian Ocean (Reunion and Mauritius) from the shared experience of slavery and colonization and their respective evolutions in times of post-slavery and post-colonization. Through an analysis of the representations and the roles of fathers or father figures in families, communities and islands in times of slavery, colonization and post-colonization, the dissertation points out the political, social and cultural evolutions and negotiations that fathers, as well as mothers, put in place to survive or counteract laws and policies aimed at historically and culturally relegating them to a position of subaltern within their own families." ;
   schema:author "Vanessa Christine Borilot" ;
   schema:datePublished "2014" ;
+  schema:publisher "University of Iowa" ;
   schema:sameAs <https://doi.org/10.17077/etd.sguuymp2> ;
   dcterms:identifier "doi:10.17077/etd.sguuymp2" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Diverse Cultural and Historical Studies" .
 
 <https://medjat.irokosociety.org/id/library/39XACX54>
@@ -7893,18 +7688,6 @@
   schema:datePublished "1956" ;
   schema:publisher "Historical Society of Nigeria" .
 
-<https://medjat.irokosociety.org/id/library/TULW5M4B>
-  a schema:Thesis ;
-  schema:name "Untersuchungen zur Rhetorik Jesse Jacksons" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=TULW5M4B> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:TULW5M4B" ;
-  schema:description "Jesse Jackson hat seit den 60er Jahren des 20. Jahrhunderts eine wichtige Rolle im öffentlichen Leben der USA eingenommen. Dies gilt besonders für die 80er Jahre, in denen er sich zweimal um die Nominierung als Präsidentschaftskandidat der Demokratischen Partei bewarb. Obwohl seine politischen Erfolge umstritten sind, galt er besonders in dieser Zeit als einer der besten Redner Amerikas, was die vorliegende Untersuchung der sprachlichen und inhaltlichen Merkmale seiner Rheorik rechtfertigt. &lt;br /&gt; Ausgangspunkt der Arbeit ist die &lt;i&gt;Rede Keep Hope Alive!&lt;/i&gt;, die Jackson am 19.7.1988 vor der National Democratic Convention gehalten hat. An ihr werden die charakteristischen Merkmale seiner Rhetorik herausgearbeitet. Der Schwerpunkt liegt dabei auf Sprechakten und Pronominalgebrauch, Satzlängen und Satzbau, Leitmotiven, Bildlichkeit und Wortwahl. Im Bereich Satzbau fallen der häufige Gebrauch von Nominalphrasen und die untergeordnete Rolle von Subordinationen auf, die Jacksons Rhetorik, die stark von einem mündlichen Sprachstil geprägt ist, kennzeichnen.&lt;br /&gt; Anhand ausgewählter politischer und predigtähnlicher Reden wird im weiteren Verlauf der Arbeit untersucht, ob die Ergebnisse der Analyse der Einzelrede verallgemeinert werden können. Es zeigt sich, dass Jackson primär Mittel verwendet, mit denen er ein Gefühl der Zusammengehörigkeit mit seinen Zuhörern und einen emotionalen Appell ausdrücken kann. Zu diesen Mitteln gehören direktive Sprechakte (in denen meist Pronomina der ersten Person Plural verwendet werden), Wiederholungen und Parallelismen (z.B. mit konstrastierenden Prämodifikationen) sowie ein crescendoartiger Vortragstil. &lt;br /&gt; Emotionale Appelle sind in der modernen politischen Rhetorik der USA generell wichtig geworden, so dass sich Jackson im Rahmen der Tradition des amerikanischen &lt;i&gt;mainstream&lt;/i&gt; bewegt. Darüber hinaus greift er auf die afro-amerikanische Rhetorik zurück, besonders auf ihre religiösen Aspekte. Es zeigt sich, dass beide Traditionen bei ihm nicht klar voneinander zu trennen sind, was das Besondere seiner Reden ausmacht. In dieser Verbindung und in dem Rückgriff auf Jacksons Forderung nach (der christlichen Ethik entlehnter) Moral in der Politik ist die Grundlage für seinen „egalitären Evangelismus“ („gospel populism“, Frady 1996) zu sehen, der seine Weltsicht und seine Rhetorik geprägt hat. &lt;br /&gt; Jacksons rhetorische Erfolge sind nicht zuletzt darauf zurückzuführen, dass er aus einer Kultur stammt, in der der Mündlichkeit eine zentrale Rolle zukommt. Größere politische Erfolge Jacksons auf nationaler Ebene scheiterten nicht so sehr an seiner ethnischen Herkunft, sondern eher daran, dass er trotz seiner Verbundenheit mit dem amerikanischen &lt;i&gt;mainstream&lt;/i&gt; Schwerpunkte vertritt, die ihn radikal erscheinen lassen. Zu diesen Schwerpunkten gehören vor allem die Forderung nach umfassender Gerechtigkeit – die nach Jackson in der Inschrift der Freiheitsstatue ausgedrückt ist - und nach dem Dienst am Nächsten, den er aus der Bibel ableitet." ;
-  schema:author "Veronika Caspers" ;
-  schema:datePublished "2003" ;
-  schema:publisher "bonndoc (University of Bonn)" ;
-  dcterms:subject "Media Studies and Communication", "Music History and Culture", "Rhetoric and Communication Studies" .
-
 <https://medjat.irokosociety.org/id/library/ZIQW993N>
   a schema:ScholarlyArticle ;
   schema:name "Violent histories and the ambivalences of recognition in postcolonial Papua New Guinea" ;
@@ -7919,18 +7702,6 @@
   dcterms:identifier "doi:10.1080/13688790.2017.1355879" ;
   dcterms:subject "Anthropological Studies and Insights", "Island Studies and Pacific Affairs", "Pacific and Southeast Asian Studies" .
 
-<https://medjat.irokosociety.org/id/library/9TZCUCRX>
-  a schema:Thesis ;
-  schema:name "The social structure of southern Somali tribes" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=9TZCUCRX> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:9TZCUCRX" ;
-  schema:description "The subject is the social structure of a southern Somali&#13;\\ncommunity of about six thousand people, the Geledi, in the pre-colonial&#13;\\nperiod; and the manner in which it has reacted to colonial and other&#13;\\nmodern influences.&#13;\\nPart A deals with the pre-colonial situation. Section 1 deals&#13;\\nwith the historical background up to the nineteenth century, first&#13;\\ngiving the general geographic and ethnographic setting, to show what&#13;\\nelements went to the making of this community, and then giving the&#13;\\nGeledi's own account of their history and movement up to that time.&#13;\\nSection 2 deals with the structure of the society during the&#13;\\nnineteenth century. Successive chapters deal with the basic units&#13;\\nand categories into which this community divided both itself and the&#13;\\nothers with which it was in contact; with their material culture;&#13;\\nwith economic life; with slavery, which is shown to have been at the&#13;\\nfoundation of the social order; with the political and legal structure;&#13;\\nand with the conduct of war. The chapter on the 'sultanate' examines&#13;\\nthe politico-religious office of the Sheikh or Sultan as the focal point&#13;\\nof the community, and how under successive occupants of this position,&#13;\\nthe Geledi became the dominant power in this part of Somalia.&#13;\\nPart B deals with colonial and post-colonial influences. After&#13;\\nan outline of the history of Somalia since 1889, with special reference&#13;\\nto Geledi, the changes in society brought about by those events are described. The section on Afgoi in the nineteen-sixties deals with&#13;\\nthe developments in population, general culture, economic life, politics and law.&#13;\\nA chapter describes the New Year customary 'stick fight',&#13;\\nand considers the significance of this tradition in the life of Geledi.&#13;\\nThe concluding Section D siiminiiiaes the developments in this&#13;\\ncommunity, in its transition from an autonomous small polity to a part&#13;\\nof a modern nation state. The old elite based on wealth, originally&#13;\\nin slaves, was being replaced by a new one based on education; but&#13;\\nthe latter derived from the former, and the representatives of both cooperated&#13;\\ntogether." ;
-  schema:author "Virginia Luling" ;
-  schema:datePublished "1971" ;
-  schema:publisher "UCL Discovery (University College London)" ;
-  dcterms:subject "African history and culture analysis", "Eurasian Exchange Networks", "Global Maritime and Colonial Histories" .
-
 <https://medjat.irokosociety.org/id/library/F3R8X7IW>
   a schema:Thesis ;
   schema:name "La Sociedad Secreta del Leopardo entre África y América: la búsqueda de una identidad" ;
@@ -7942,6 +7713,7 @@
   schema:datePublished "2014" ;
   schema:sameAs <https://doi.org/10.14201/gredos.126546> ;
   dcterms:identifier "doi:10.14201/gredos.126546" ;
+  dcterms:language "s" ;
   dcterms:subject "Cuban History and Society" .
 
 <https://medjat.irokosociety.org/id/library/6FMYD4EQ>
@@ -8091,6 +7863,8 @@
   schema:author "Windy Phele" ;
   schema:datePublished "2025" ;
   schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Migration, Identity, and Health" .
 
 <https://medjat.irokosociety.org/id/library/3IW5D93S>

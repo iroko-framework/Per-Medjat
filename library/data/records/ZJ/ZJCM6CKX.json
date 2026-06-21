@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "ZJCM6CKX",
-    "version": 94,
+    "version": 4751,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ZJCM6CKX",
     "dateAdded": "2026-05-08T21:44:40Z",
-    "dateModified": "2026-05-08T21:44:40Z"
+    "dateModified": "2026-06-20T18:06:46Z"
   },
   "display": {
     "title": "El Ayuntamiento de Xalapa y su potestad fiscal: definición, negociación y milicias, 1794-1803",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "sp",
+    "languageCodes": [
+      "sp"
+    ]
   },
   "publicTags": {
     "recordType": "Journal Article",
@@ -49,18 +52,24 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "sp"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
+      "Ayuntamientos",
       "Bourbon reforms",
+      "City Council",
       "New Spain",
       "Veracruz",
-      "ayuntamientos",
       "fiscal history",
       "intendentes",
       "jurisdicción fiscal",
       "milicias"
+    ],
+    "languageCodes": [
+      "sp"
     ]
   },
   "ifwk": {
@@ -89,9 +98,24 @@
       "value": "10.22201/IIH.24486922E.2021.65.77116"
     },
     {
+      "field": "041",
+      "label": "Language",
+      "value": "sp [sp]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ayuntamientos"
+    },
+    {
       "field": "650",
       "label": "Subject",
       "value": "Bourbon reforms"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "City Council"
     },
     {
       "field": "650",
@@ -102,11 +126,6 @@
       "field": "650",
       "label": "Subject",
       "value": "Veracruz"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "ayuntamientos"
     },
     {
       "field": "650",

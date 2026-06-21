@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "FVCDBNDG",
-    "version": 2031,
+    "version": 4735,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/FVCDBNDG",
     "dateAdded": "2026-05-19T14:19:11Z",
-    "dateModified": "2026-05-19T14:19:11Z"
+    "dateModified": "2026-06-20T17:47:35Z"
   },
   "display": {
     "title": "Direitos humanos e empresas: a responsabilidade por exploração de trabalhadores em condições análogas à de escravo nas cadeias produtivas da indústria têxtil",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,11 +52,16 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Brazilian Legal Issues"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -75,6 +83,11 @@
       "field": "264",
       "label": "Published",
       "value": "Americanae (AECID Library), 2018."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "32SAD4DV",
-    "version": 1740,
+    "version": 4739,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/32SAD4DV",
     "dateAdded": "2026-05-19T14:17:47Z",
-    "dateModified": "2026-05-19T14:17:47Z"
+    "dateModified": "2026-06-20T17:57:35Z"
   },
   "display": {
     "title": "Por uma perspectiva crítica de direitos humanos: o caso das cotas para a população negra no acesso ao ensino superior público",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Brazilian Legal Issues",
       "Race, Identity, and Education in Brazil",
       "Social and Political Issues"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -82,6 +90,11 @@
       "field": "024",
       "label": "DOI",
       "value": "10.11606/d.2.2011.tde-26032012-135021"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

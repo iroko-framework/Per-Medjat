@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "LAB7YINU",
-    "version": 2073,
+    "version": 4752,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/LAB7YINU",
     "dateAdded": "2026-05-19T14:19:23Z",
-    "dateModified": "2026-05-19T14:19:23Z"
+    "dateModified": "2026-06-20T18:07:29Z"
   },
   "display": {
     "title": "La réparation des séquelles de la traite négrière transatlantique et de l'esclavage colonial français : obstacles juridiques et perspectives politiques",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "fr",
+    "languageCodes": [
+      "fr"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "French"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Caribbean and African Literature and Culture",
       "Colonialism, slavery, and trade",
       "Migration, Identity, and Health"
+    ],
+    "languageCodes": [
+      "fr"
     ]
   },
   "ifwk": {
@@ -77,6 +85,11 @@
       "field": "264",
       "label": "Published",
       "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2025."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "French [fr]"
     },
     {
       "field": "650",

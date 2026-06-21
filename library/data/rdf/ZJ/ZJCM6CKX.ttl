@@ -18,4 +18,6 @@
   schema:publisher "Estudios de Historia Novohispana" ;
   schema:sameAs <https://doi.org/10.22201/IIH.24486922E.2021.65.77116> ;
   dcterms:identifier "doi:10.22201/IIH.24486922E.2021.65.77116" ;
-  dcterms:subject "Bourbon reforms", "New Spain", "Veracruz", "ayuntamientos", "fiscal history", "intendentes", "jurisdicción fiscal", "milicias" .
+  dcterms:language "sp" ;
+  schema:inLanguage "sp" ;
+  dcterms:subject "Ayuntamientos", "Bourbon reforms", "City Council", "New Spain", "Veracruz", "fiscal history", "intendentes", "jurisdicción fiscal", "milicias" .

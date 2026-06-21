@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "D5437JIQ",
-    "version": 2358,
+    "version": 4741,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/D5437JIQ",
     "dateAdded": "2026-05-19T14:20:08Z",
-    "dateModified": "2026-05-19T14:20:08Z"
+    "dateModified": "2026-06-20T18:00:32Z"
   },
   "display": {
     "title": "Bewhoherenow : philosophy of existing sense : a thesis presented in partial fulfilment of the requirements for the degree of Ph. D. in Social Policy and Social Work at Massey University",
@@ -53,6 +53,8 @@
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
+      "Ontology",
+      "Philosophy",
       "Theological Perspectives and Practices"
     ]
   },
@@ -75,6 +77,16 @@
       "field": "264",
       "label": "Published",
       "value": "1995."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ontology"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Philosophy"
     },
     {
       "field": "650",

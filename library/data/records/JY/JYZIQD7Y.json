@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "JYZIQD7Y",
-    "version": 2352,
+    "version": 4733,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JYZIQD7Y",
     "dateAdded": "2026-05-19T14:20:07Z",
-    "dateModified": "2026-05-19T14:20:07Z"
+    "dateModified": "2026-06-20T17:47:02Z"
   },
   "display": {
-    "title": "(desde 1919 à Constituição da República de Moçambique de 2004 e à Lei nº 23/2007, de 1 de Agosto)",
+    "title": "Influência da OIT no direito do trabalho em Moçambique",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Brazilian Legal Issues",
       "History of Colonial Brazil",
       "Migration, Racism, and Human Rights"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -71,12 +79,17 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "(desde 1919 à Constituição da República de Moçambique de 2004 e à Lei nº 23/2007, de 1 de Agosto)"
+      "value": "Influência da OIT no direito do trabalho em Moçambique"
     },
     {
       "field": "264",
       "label": "Published",
       "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 2016."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

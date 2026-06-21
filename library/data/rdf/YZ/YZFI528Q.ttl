@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/YZFI528Q>
   a schema:ScholarlyArticle ;
-  schema:name "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana" ;
+  schema:name "La influencia de la música cubana de origen abakuá en la música afroperuana" ;
   schema:url <https://medjat.irokosociety.org/library/?item=YZFI528Q> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:YZFI528Q" ;
@@ -16,4 +16,6 @@
   schema:author "Rigol Sera, Laureano Arturo" ;
   schema:datePublished "2024" ;
   schema:publisher "Revistas PUCP (Pontificia Universidad Católica del Perú)" ;
-  dcterms:subject "Aesthetics", "Anthropology", "Art", "Diversity (politics)", "Ethnology", "Expression (computer science)", "Focus (optics)", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology", "Theme (computing)" .
+  dcterms:language "sp" ;
+  schema:inLanguage "sp" ;
+  dcterms:subject "Anthropology", "Art", "Diversity (politics)", "Ethnology", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology" .

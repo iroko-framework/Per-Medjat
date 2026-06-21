@@ -16,4 +16,6 @@
   schema:author "Camila Guimarães de Melo" ;
   schema:datePublished "2015" ;
   schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "Migration, Racism, and Human Rights", "Social and Political Issues" .

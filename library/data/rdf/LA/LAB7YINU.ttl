@@ -16,4 +16,6 @@
   schema:author "Windy Phele" ;
   schema:datePublished "2025" ;
   schema:publisher "HAL (Le Centre pour la Communication Scientifique Directe)" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade", "Migration, Identity, and Health" .

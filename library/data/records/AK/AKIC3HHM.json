@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "AKIC3HHM",
-    "version": 1260,
+    "version": 4780,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/AKIC3HHM",
     "dateAdded": "2026-05-19T13:28:40Z",
-    "dateModified": "2026-05-19T13:28:40Z"
+    "dateModified": "2026-06-20T18:26:37Z"
   },
   "display": {
     "title": "Etre Abakua à La Havane: pouvoir en jeu, enjeux de pouvoir et mise en scène de soi",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "fr",
+    "languageCodes": [
+      "fr"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "French"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "African history and culture studies",
       "Migration, Identity, and Health",
       "Multiculturalism, Politics, Migration, Gender"
+    ],
+    "languageCodes": [
+      "fr"
     ]
   },
   "ifwk": {
@@ -82,6 +90,11 @@
       "field": "024",
       "label": "DOI",
       "value": "10.35662/unine-thesis-2272"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "French [fr]"
     },
     {
       "field": "650",

@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "YXYIK753",
-    "version": 1653,
+    "version": 4774,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YXYIK753",
     "dateAdded": "2026-05-19T14:17:21Z",
-    "dateModified": "2026-05-19T14:17:21Z"
+    "dateModified": "2026-06-20T18:21:54Z"
   },
   "display": {
     "title": "L'autre citoyen : universalisme civique et exclusion sociale et politique au miroir des colonies post-esclavagistes de la Caraïbe française (Martinique, Guadeloupe, années 1840 - années 1890)",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "fr",
+    "languageCodes": [
+      "fr"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "French"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Caribbean and African Literature and Culture",
       "Colonialism, slavery, and trade",
       "Migration, Identity, and Health"
+    ],
+    "languageCodes": [
+      "fr"
     ]
   },
   "ifwk": {
@@ -77,6 +85,11 @@
       "field": "264",
       "label": "Published",
       "value": "2011."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "French [fr]"
     },
     {
       "field": "650",

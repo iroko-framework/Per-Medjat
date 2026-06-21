@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "YZFI528Q",
-    "version": 1089,
+    "version": 4748,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YZFI528Q",
     "dateAdded": "2026-05-19T13:27:48Z",
-    "dateModified": "2026-05-19T13:27:48Z"
+    "dateModified": "2026-06-20T18:03:38Z"
   },
   "display": {
-    "title": "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana",
+    "title": "La influencia de la música cubana de origen abakuá en la música afroperuana",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "sp",
+    "languageCodes": [
+      "sp"
+    ]
   },
   "publicTags": {
     "recordType": "Journal Article",
@@ -49,24 +52,25 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "sp"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
-      "Aesthetics",
       "Anthropology",
       "Art",
       "Diversity (politics)",
       "Ethnology",
-      "Expression (computer science)",
-      "Focus (optics)",
       "History",
       "Humanities",
       "Musical",
       "Musical analysis",
       "Musical expression",
-      "Sociology",
-      "Theme (computing)"
+      "Sociology"
+    ],
+    "languageCodes": [
+      "sp"
     ]
   },
   "ifwk": {
@@ -82,7 +86,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana"
+      "value": "La influencia de la música cubana de origen abakuá en la música afroperuana"
     },
     {
       "field": "264",
@@ -90,9 +94,9 @@
       "value": "Revistas PUCP (Pontificia Universidad Católica del Perú), 2024."
     },
     {
-      "field": "650",
-      "label": "Subject",
-      "value": "Aesthetics"
+      "field": "041",
+      "label": "Language",
+      "value": "sp [sp]"
     },
     {
       "field": "650",
@@ -113,16 +117,6 @@
       "field": "650",
       "label": "Subject",
       "value": "Ethnology"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Expression (computer science)"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Focus (optics)"
     },
     {
       "field": "650",
@@ -153,11 +147,6 @@
       "field": "650",
       "label": "Subject",
       "value": "Sociology"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Theme (computing)"
     },
     {
       "field": "655",

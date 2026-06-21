@@ -17,4 +17,5 @@
   schema:datePublished "2014" ;
   schema:sameAs <https://doi.org/10.14201/gredos.126546> ;
   dcterms:identifier "doi:10.14201/gredos.126546" ;
+  dcterms:language "s" ;
   dcterms:subject "Cuban History and Society" .

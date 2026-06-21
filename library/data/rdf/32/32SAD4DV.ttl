@@ -17,4 +17,6 @@
   schema:datePublished "2011" ;
   schema:sameAs <https://doi.org/10.11606/d.2.2011.tde-26032012-135021> ;
   dcterms:identifier "doi:10.11606/d.2.2011.tde-26032012-135021" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "Race, Identity, and Education in Brazil", "Social and Political Issues" .

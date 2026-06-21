@@ -16,4 +16,6 @@
   schema:author "Bárbara Teixeira" ;
   schema:datePublished "2018" ;
   schema:publisher "Americanae (AECID Library)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues" .

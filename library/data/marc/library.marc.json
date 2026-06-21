@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-20T17:37:54Z",
-  "count": 638,
+  "generatedAt": "2026-06-21T11:26:14Z",
+  "count": 618,
   "records": [
     {
       "key": "IGBCQ3B7",
@@ -89,41 +89,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "VXRQSTDU",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "A.J. Udink ten Cate"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Modeling and (adaptive) control of greenhouse climates"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "1983."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.18174/205635"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Greenhouse Technology and Climate Control"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -359,41 +324,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Caribbean history, culture, and politics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "R22TF2AX",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Adriana Vilchis-Gonzales"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Télé-échographie robotisée"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2003."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Soft Robotics and Applications"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Surgical Simulation and Training"
         },
         {
           "field": "655",
@@ -889,36 +819,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Economic Zones and Regional Development"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "XPPX2PGT",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Alexis Pauline Gumbs"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "\"We Can Learn To Mother Ourselves\": The Queer Survival of Black Feminism"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "DukeSpace (Duke University), 2010."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Gender, Labor, and Family Dynamics"
         },
         {
           "field": "655",
@@ -1698,51 +1598,6 @@
       ]
     },
     {
-      "key": "2RTYS67H",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Anna Carolina Moraes Figueiredo"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ">i<Sweating System>/i< e trabalho escravo contemporâneo. Um estudo sobre a repetição de padrões"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2023."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.11606/d.100.2023.tde-24012024-165955"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "History of Colonial Brazil"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Literature, Culture, and Criticism"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Race, Identity, and Education in Brazil"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "BGQHTIBE",
       "marc": [
         {
@@ -2068,41 +1923,6 @@
       ]
     },
     {
-      "key": "PLHEBWD9",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Anya Jabour"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Hearts divided: The marriage and family of Elizabeth and William Wirt, 1802-1834"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Rice Digital Scholarship Archive (Rice University), 1995."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "American Constitutional Law and Politics"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Economic and Social Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "979Y7KPQ",
       "marc": [
         {
@@ -2134,41 +1954,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "AY9F56KD",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Arthur Blanchette"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "An introduction to psychoanalysis"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "uO Research (University of Ottawa), 1945."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.20381/ruor-8762"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Psychotherapy Techniques and Applications"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -2313,12 +2098,17 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "(desde 1919 à Constituição da República de Moçambique de 2004 e à Lei nº 23/2007, de 1 de Agosto)"
+          "value": "Influência da OIT no direito do trabalho em Moçambique"
         },
         {
           "field": "264",
           "label": "Published",
           "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 2016."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
         },
         {
           "field": "650",
@@ -3396,6 +3186,11 @@
           "value": "Americanae (AECID Library), 2018."
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "Brazilian Legal Issues"
@@ -3606,6 +3401,11 @@
           "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 2015."
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "Brazilian Legal Issues"
@@ -3649,6 +3449,11 @@
           "field": "024",
           "label": "DOI",
           "value": "10.11606/d.2.2011.tde-26032012-135021"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
         },
         {
           "field": "650",
@@ -4346,9 +4151,24 @@
           "value": "10.22201/IIH.24486922E.2021.65.77116"
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "sp [sp]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Ayuntamientos"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "Bourbon reforms"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "City Council"
         },
         {
           "field": "650",
@@ -4359,11 +4179,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Veracruz"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "ayuntamientos"
         },
         {
           "field": "650",
@@ -4789,51 +4604,6 @@
           "field": "024",
           "label": "DOI",
           "value": "10.1163/9789004431362"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "American Constitutional Law and Politics"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Classical Antiquity Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Organic Chemistry Synthesis Methods"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "KEMYR2PS",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Christopher Burnand"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Roman representations of the orator during the last century of the Republic"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Oxford University Research Archive (ORA) (University of Oxford), 2000."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.5287/ora-6rekjybey"
         },
         {
           "field": "650",
@@ -5359,6 +5129,16 @@
           "field": "264",
           "label": "Published",
           "value": "1995."
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Ontology"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Philosophy"
         },
         {
           "field": "650",
@@ -19281,6 +19061,11 @@
           "value": "10.35662/unine-thesis-2272"
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "French [fr]"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "African history and culture studies"
@@ -23378,51 +23163,6 @@
       ]
     },
     {
-      "key": "WPMTKP3S",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Richard Cleaves"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Imagining Luke - Acts in Roman Britain."
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2023."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.46289/uu35c34z"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Biblical Studies and Interpretation"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Byzantine Studies and History"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Globalization, Historical Perspectives, and International Relations"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "K35QC4NP",
       "marc": [
         {
@@ -23469,41 +23209,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "MRTNQY8B",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Richard Griscom"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Topics in Asimjeeg Datooga Verbal Morphosyntax"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Scholars' Bank (University of Oregon), 2019."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Language, Linguistics, Cultural Analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "South Asian Studies and Conflicts"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -23618,7 +23323,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "A Influência da Música Cubana de Origem Abakuá na Música Afroperuana"
+          "value": "La influencia de la música cubana de origen abakuá en la música afroperuana"
         },
         {
           "field": "264",
@@ -23626,9 +23331,9 @@
           "value": "Revistas PUCP (Pontificia Universidad Católica del Perú), 2024."
         },
         {
-          "field": "650",
-          "label": "Subject",
-          "value": "Aesthetics"
+          "field": "041",
+          "label": "Language",
+          "value": "sp [sp]"
         },
         {
           "field": "650",
@@ -23649,16 +23354,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Ethnology"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Expression (computer science)"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Focus (optics)"
         },
         {
           "field": "650",
@@ -23689,11 +23384,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Sociology"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Theme (computing)"
         },
         {
           "field": "655",
@@ -24079,46 +23769,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "PNDNBS39",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Saiful Mujani"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "RELIGIOUS DEMOCRATS: DEMOCRATIC CULTURE AND MUSLIM POLITICAL PARTICIPATION IN POST-SUHARTO INDONESIA"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "OhioLink ETD Center (Ohio Library and Information Network), 2004."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Asian Studies and History"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Indonesian Election Politics and Participation"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Islamic Studies and Radicalism"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -24699,6 +24349,11 @@
           "field": "264",
           "label": "Published",
           "value": "2011."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "French [fr]"
         },
         {
           "field": "650",
@@ -25753,46 +25408,6 @@
       ]
     },
     {
-      "key": "ASYUWX4Y",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Terzetti Filho"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Um bruxo e seu tempo: as obras de Gerald Gardner como expressões contraculturais"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2012."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Food, Nutrition, and Cultural Practices"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Religious Tourism and Spaces"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Urban and sociocultural dynamics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "857DRSNL",
       "marc": [
         {
@@ -26043,51 +25658,6 @@
       ]
     },
     {
-      "key": "KCUSQBE7",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Tiago Rangel Côrtes"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Os migrantes da costura em São Paulo: retalhos de trabalho, cidade e Estado"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2013."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.11606/d.8.2013.tde-03022014-112419"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Migration, Ethnicity, and Economy"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Migration, Racism, and Human Rights"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Urban and sociocultural dynamics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "TUGXX643",
       "marc": [
         {
@@ -26243,86 +25813,6 @@
       ]
     },
     {
-      "key": "RBDFVBSJ",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Tore Sefland Heggen"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "The Dystopian Testimony in Margaret Atwood's The Handmaid's Tale and The Testaments"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Bergen Open Research Archive (BORA) (University of Bergen), 2020."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Short Stories in Global Literature"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Themes in Literature Analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Utopian, Dystopian, and Speculative Fiction"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "XM6DX8FD",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Torstein Schiøtz Worren"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Fear and Resistance : the Construction of Alawi Identity in Syria"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Duo Research Archive (University of Oslo), 2007."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Jewish and Middle Eastern Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Middle East Politics and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Middle East and Rwanda Conflicts"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "3ZQR5P6T",
       "marc": [
         {
@@ -26364,86 +25854,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Book"
-        }
-      ]
-    },
-    {
-      "key": "MBNBFXQP",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Tshepo Lephakga"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Dealing lightly with the wounds of my people : a theological ethical critique of the South African Truth and Reconciliation Commission"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Unisa Institutional Repository (University of South Africa), 2015."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Biblical Studies and Interpretation"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Christian Theology and Mission"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Religion, Society, and Development"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "YSLIKTRB",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Tuğba Leblebici"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Delay compensation in bilateral teleoperation using predictor observers"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Sabanci University, 2010."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Dynamics and Control of Mechanical Systems"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Geophysics and Sensor Technology"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Teleoperation and Haptic Systems"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -26533,36 +25943,6 @@
       ]
     },
     {
-      "key": "FCS7QQG6",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "V. C. Malherbe"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "The Cape Khoisan in the Eastern districts of the colony before and after Ordinance 50 of 1828"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Open University of Cape Town (University of Cape Town), 1997."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Legal Issues in South Africa"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "P72Z9FZV",
       "marc": [
         {
@@ -26598,51 +25978,6 @@
       ]
     },
     {
-      "key": "XP9VS2ZX",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Valerie Ann Surrett"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Biopolitical Cyborgs in Post-1980 North American Critical Dystopias"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2017."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.33915/etd.6747"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Religious Studies and Spiritual Practices"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Themes in Literature Analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Utopian, Dystopian, and Speculative Fiction"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "VXMWIAVV",
       "marc": [
         {
@@ -26653,17 +25988,22 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "En mal de mots"
+          "value": "En mal de mots: représentations de la figure paternelle Dans les littératures de la Caraïbe et des Mascareignes"
         },
         {
           "field": "264",
           "label": "Published",
-          "value": "2014."
+          "value": "University of Iowa, 2014."
         },
         {
           "field": "024",
           "label": "DOI",
           "value": "10.17077/etd.sguuymp2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "French [fr]"
         },
         {
           "field": "650",
@@ -26768,46 +26108,6 @@
       ]
     },
     {
-      "key": "TULW5M4B",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Veronika Caspers"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Untersuchungen zur Rhetorik Jesse Jacksons"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "bonndoc (University of Bonn), 2003."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Media Studies and Communication"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Music History and Culture"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Rhetoric and Communication Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "ZIQW993N",
       "marc": [
         {
@@ -26858,46 +26158,6 @@
       ]
     },
     {
-      "key": "9TZCUCRX",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Virginia Luling"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "The social structure of southern Somali tribes"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "UCL Discovery (University College London), 1971."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "African history and culture analysis"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Eurasian Exchange Networks"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Global Maritime and Colonial Histories"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "F3R8X7IW",
       "marc": [
         {
@@ -26919,6 +26179,11 @@
           "field": "024",
           "label": "DOI",
           "value": "10.14201/gredos.126546"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "s"
         },
         {
           "field": "650",
@@ -27479,6 +26744,11 @@
           "field": "264",
           "label": "Published",
           "value": "HAL (Le Centre pour la Communication Scientifique Directe), 2025."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "French [fr]"
         },
         {
           "field": "650",

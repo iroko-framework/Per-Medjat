@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "7TQFU9WZ",
-    "version": 2007,
+    "version": 4737,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7TQFU9WZ",
     "dateAdded": "2026-05-19T14:19:03Z",
-    "dateModified": "2026-05-19T14:19:03Z"
+    "dateModified": "2026-06-20T17:57:21Z"
   },
   "display": {
     "title": "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Brazilian Legal Issues",
       "Migration, Racism, and Human Rights",
       "Social and Political Issues"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -77,6 +85,11 @@
       "field": "264",
       "label": "Published",
       "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 2015."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

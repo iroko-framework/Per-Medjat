@@ -5,42 +5,49 @@
   "zotero": {
     "group": "6479329",
     "key": "JSH5B2GI",
-    "version": 1044,
+    "version": 4799,
     "itemType": "bookSection",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JSH5B2GI",
     "dateAdded": "2026-05-19T13:27:38Z",
-    "dateModified": "2026-05-19T13:27:38Z"
+    "dateModified": "2026-06-22T13:30:35Z"
   },
   "display": {
     "title": "Abakuá",
     "subtitle": "",
-    "shortTitle": "",
+    "shortTitle": "Abakuá",
     "creators": [
       {
         "role": "author",
         "name": "Ivor L. Miller"
+      },
+      {
+        "role": "editor",
+        "name": "Maldonado, Michelle Gonzalez"
       }
     ],
     "year": "2024",
-    "date": "2024",
-    "publisher": "",
+    "date": "2024-03-21",
+    "publisher": "Oxford University Press",
     "publicationTitle": "",
-    "bookTitle": "Oxford University Press eBooks",
+    "bookTitle": "The Oxford Handbook of Caribbean Religions",
     "journalAbbreviation": "Oxford University Press eBooks",
     "place": "",
     "edition": "",
-    "series": "",
+    "series": "Oxford Handbooks",
     "seriesNumber": "",
     "volume": "",
     "issue": "",
     "pages": "89-95",
     "abstract": "Abstract This chapter explores Abakuá’s secret society, which had been fundamental in the formation of Cuban national identity. It explains how Abakuá lodges were necessarily created in secrecy due to being persecuted by colonial authorities before the adaptation of Abakuá to the Cuban context. Moreover, Abakuá exemplifies the concept of los cimarrones urbanos, which refers to urban underground fugitives from the cultural system of the colonizer. Abakuá tradition is an important example of established alternatives to assimilation to Western cultural norms. The chapter explains that Abakuá defended an autonomous and collective identity based upon an ancestral heritage that the dominant class persistently tried to abolish.",
     "doi": "10.1093/oxfordhb/9780190916961.013.7",
-    "url": "https://doi.org/10.1093/oxfordhb/9780190916961.013.7",
-    "isbn": "",
+    "url": "https://academic.oup.com/edited-volume/56208/chapter/444601359",
+    "isbn": "978-0-19-091699-2",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "en",
+    "languageCodes": [
+      "en"
+    ]
   },
   "publicTags": {
     "recordType": "Book Chapter",
@@ -49,11 +56,16 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "English"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
-      "Cuban History and Society"
+      "iroko_modules: Ékpè"
+    ],
+    "languageCodes": [
+      "en"
     ]
   },
   "ifwk": {
@@ -74,7 +86,7 @@
     {
       "field": "264",
       "label": "Published",
-      "value": "2024."
+      "value": "Oxford University Press, 2024."
     },
     {
       "field": "300",
@@ -82,14 +94,34 @@
       "value": "89-95 p."
     },
     {
+      "field": "490",
+      "label": "Series",
+      "value": "Oxford Handbooks"
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-0-19-091699-2"
+    },
+    {
       "field": "024",
       "label": "DOI",
       "value": "10.1093/oxfordhb/9780190916961.013.7"
     },
     {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]"
+    },
+    {
       "field": "650",
       "label": "Subject",
-      "value": "Cuban History and Society"
+      "value": "iroko_modules: Ékpè"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Maldonado, Michelle Gonzalez"
     },
     {
       "field": "655",

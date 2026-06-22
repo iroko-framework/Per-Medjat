@@ -7862,12 +7862,13 @@
     "title": "Abakuá",
     "subtitle": "",
     "creators": [
-      "Ivor L. Miller"
+      "Ivor L. Miller",
+      "Maldonado, Michelle Gonzalez"
     ],
     "year": "2024",
     "date": "2024",
-    "publisher": "",
-    "publicationLine": "2024.",
+    "publisher": "Oxford University Press",
+    "publicationLine": "Oxford University Press, 2024.",
     "itemType": "bookSection",
     "recordTypeLabel": "Book Chapter",
     "traditions": [],
@@ -7880,12 +7881,17 @@
     "access": "Public",
     "accessTier": "L0-public",
     "custody": "metadata-only",
-    "language": [],
+    "language": [
+      "English"
+    ],
     "region": [],
     "doi": "10.1093/oxfordhb/9780190916961.013.7",
-    "url": "https://doi.org/10.1093/oxfordhb/9780190916961.013.7",
-    "searchText": "abakuá ivor l. miller 2024 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
-    "recordPath": "/library/data/records/JS/JSH5B2GI.json"
+    "url": "https://academic.oup.com/edited-volume/56208/chapter/444601359",
+    "searchText": "abakuá ivor l. miller maldonado, michelle gonzalez 2024 oxford university press booksection book chapter iroko_modules: ékpè english iroko_modules: ékpè medjat-search:abakuá",
+    "recordPath": "/library/data/records/JS/JSH5B2GI.json",
+    "languageCodes": [
+      "en"
+    ]
   },
   {
     "key": "IDEDRSSK",

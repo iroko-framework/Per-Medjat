@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T11:26:14Z",
+  "generatedAt": "2026-06-22T13:32:07Z",
   "count": 618,
   "records": [
     {
@@ -11013,7 +11013,7 @@
         {
           "field": "264",
           "label": "Published",
-          "value": "2024."
+          "value": "Oxford University Press, 2024."
         },
         {
           "field": "300",
@@ -11021,14 +11021,34 @@
           "value": "89-95 p."
         },
         {
+          "field": "490",
+          "label": "Series",
+          "value": "Oxford Handbooks"
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-0-19-091699-2"
+        },
+        {
           "field": "024",
           "label": "DOI",
           "value": "10.1093/oxfordhb/9780190916961.013.7"
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
           "field": "650",
           "label": "Subject",
-          "value": "Cuban History and Society"
+          "value": "iroko_modules: Ékpè"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "Maldonado, Michelle Gonzalez"
         },
         {
           "field": "655",

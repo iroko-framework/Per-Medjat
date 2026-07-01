@@ -5,23 +5,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Medjat Archives · Per Medjat · Iroko Historical Society</title>
-  <meta name="description" content="The Medjat Archives holds primary source and field collections governed under the Iroko Framework six-tier access system.">
-  <link rel="canonical" href="https://medjat.irokosociety.org/archives/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Per Medjat - Iroko Historical Society">
-  <meta property="og:title" content="Medjat Archives · Per Medjat · Iroko Historical Society">
-  <meta property="og:description" content="The Medjat Archives holds primary source and field collections governed under the Iroko Framework six-tier access system.">
-  <meta property="og:url" content="https://medjat.irokosociety.org/archives/">
-  <meta property="og:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Medjat Archives · Per Medjat · Iroko Historical Society">
-  <meta name="twitter:description" content="The Medjat Archives holds primary source and field collections governed under the Iroko Framework six-tier access system.">
-  <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/IHS-Logo.jpg">
-  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
+  <meta property="og:type"         content="website">
+  <meta property="og:site_name"    content="Per Medjat - Iroko Historical Society">
+  <meta property="og:title"        content="Medjat Archives - Per Medjat - Iroko Historical Society">
+  <meta property="og:description"  content="Archival and field collections governed under the six-tier Iroko Framework. Unique materials, sacred texts, and donor holdings stewarded with community authorization.">
+  <meta property="og:url"          content="https://medjat.irokosociety.org/archives/">
+  <meta property="og:image"        content="https://medjat.irokosociety.org/assets/og-pm-archives.png">
+  <meta property="og:image:width"  content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type"   content="image/png">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Medjat Archives - Per Medjat - Iroko Historical Society">
+  <meta name="twitter:description" content="Archival and field collections governed under the six-tier Iroko Framework. Unique materials, sacred texts, and donor holdings stewarded with community authorization.">
+  <meta name="twitter:image"       content="https://medjat.irokosociety.org/assets/og-pm-archives.png">  <meta name="description" content="The Medjat Archives holds primary source and field collections governed under the Iroko Framework six-tier access system.">
+  <link rel="canonical" href="https://medjat.irokosociety.org/archives/">  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <link rel="stylesheet" href="../assets/styles.css">
   <style>
     .archives-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
-    .archives-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; }
+    .archives-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--lapis); margin-bottom: .75rem; }
     .archives-title { font-family: var(--serif); font-size: clamp(2rem, 4vw, 3rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .6rem; }
     .archives-sub { font-size: .92rem; color: var(--ink-mid); line-height: 1.75; max-width: 64ch; }
 
@@ -36,7 +37,7 @@
     .tier-cell.t2 { background: var(--gold-light); }
     .tier-cell.t2 .tier-n { color: var(--gold); }
     .tier-cell.t3 { background: #eaeff8; }
-    .tier-cell.t3 .tier-n { color: var(--terracotta); }
+    .tier-cell.t3 .tier-n { color: var(--lapis); }
     .tier-cell.t4 { background: #f0e8f8; }
     .tier-cell.t4 .tier-n { color: var(--purple); }
     .tier-cell.t5 { background: var(--paper-deep); }
@@ -45,28 +46,28 @@
 
     /* Collections grid */
     .archives-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-bottom: 2rem; }
-    .archive-card { background: var(--paper); padding: 1.6rem 1.8rem; display: flex; flex-direction: column; gap: .4rem; text-decoration: none; }
+    .archive-card { background: var(--paper); border-top: 3px solid var(--lapis); padding: 1.6rem 1.8rem; display: flex; flex-direction: column; gap: .4rem; text-decoration: none; }
     .archive-card.live { transition: background .12s; }
     .archive-card.live:hover { background: var(--paper-warm); }
     .archive-card.intake { cursor: pointer; opacity: .88; }
     .archive-card.intake:hover { background: var(--paper-warm); opacity: 1; }
     .archive-card.planned { opacity: .78; }
-    .archive-card-status { display: inline-block; font-family: var(--mono); font-size: .58rem; letter-spacing: .08em; text-transform: uppercase; padding: .15em .6em; border-radius: 2px; border: 1px solid var(--rule-strong); background: var(--paper-deep); color: var(--ink-soft); margin-bottom: .3rem; width: fit-content; }
-    .archive-card-status.live { background: var(--green-light); color: var(--green); border-color: transparent; }
-    .archive-card-status.intake { background: var(--gold-light); color: var(--gold); border-color: transparent; }
-    .archive-card-name { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: var(--green); line-height: 1.15; }
+    .archive-card-status { display: inline-block; font-family: var(--mono); font-size: .58rem; letter-spacing: .08em; text-transform: uppercase; padding: .15em .6em; border-radius: 2px; border: 1px solid rgba(26,52,104,.25); background: #eaeff8; color: var(--lapis); margin-bottom: .3rem; width: fit-content; }
+    .archive-card-status.live,
+    .archive-card-status.intake { background: #eaeff8; color: var(--lapis); border-color: rgba(26,52,104,.25); }
+    .archive-card-name { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: var(--lapis); line-height: 1.15; }
     .archive-card-desc { font-size: .85rem; color: var(--ink-mid); line-height: 1.6; }
     .archive-card-access { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .3rem; }
-    .archive-card-arrow { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; color: var(--green-mid); margin-top: auto; padding-top: .5rem; }
+    .archive-card-arrow { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; color: var(--lapis); margin-top: auto; padding-top: .5rem; }
 
     /* Intake condensed */
-    .intake-block { border-left: 3px solid var(--terracotta); background: #f0f2f8; padding: 1.75rem 2rem; border-radius: 0 3px 3px 0; margin-top: 2rem; }
-    .intake-kicker { font-family: var(--mono); font-size: .62rem; letter-spacing: .15em; text-transform: uppercase; color: var(--terracotta); margin-bottom: .75rem; }
+    .intake-block { border-left: 3px solid var(--lapis); background: #f0f2f8; padding: 1.75rem 2rem; border-radius: 0 3px 3px 0; margin-top: 2rem; }
+    .intake-kicker { font-family: var(--mono); font-size: .62rem; letter-spacing: .15em; text-transform: uppercase; color: var(--lapis); margin-bottom: .75rem; }
     .intake-title { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; color: var(--ink); margin-bottom: .5rem; }
-    .intake-title em { font-style: italic; color: var(--terracotta); }
+    .intake-title em { font-style: italic; color: var(--lapis); }
     .intake-body { font-size: .88rem; color: var(--ink-mid); line-height: 1.75; max-width: 66ch; margin-bottom: 1rem; }
-    .intake-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--terracotta); border: 1px solid var(--terracotta); padding: .35em 1em; border-radius: 2px; text-decoration: none; transition: all .15s; display: inline-block; }
-    .intake-cta:hover { background: var(--terracotta); color: #fff; }
+    .intake-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--lapis); border: 1px solid var(--lapis); padding: .35em 1em; border-radius: 2px; text-decoration: none; transition: all .15s; display: inline-block; }
+    .intake-cta:hover { background: var(--lapis); color: #fff; }
 
     @media (max-width: 640px) { .archives-grid { grid-template-columns: 1fr; } .tier-strip { flex-wrap: wrap; } .tier-cell { flex: 1 1 30%; } }
   </style>
@@ -101,7 +102,7 @@
 
   <div class="archives-hero">
     <div class="archives-eyebrow">Primary source · Field collections · Governed access</div>
-    <h1 class="archives-title">Medjat <em style="font-style:italic;color:var(--terracotta);">Archives</em></h1>
+    <h1 class="archives-title">Medjat <em style="font-style:italic;color:var(--lapis);">Archives</em></h1>
     <p class="archives-sub">Archival and field collections governed under the Iroko Framework six-tier access system. Unique materials, sacred texts, field recordings, and donor collections stewarded with community authorization. Access to any record is calibrated to the nature of the material and the community protocols that govern it.</p>
   </div>
 
@@ -173,7 +174,7 @@
     <a class="intake-cta" href="../entrusting/">Entrusting the Work: Preserving What Was Earned →</a>
   </div>
 
-  <footer class="site-footer site-footer--terracotta">
+  <footer class="site-footer site-footer--lapis">
     <div class="footer-inner-pm">
       <div class="footer-org">
         <div class="footer-org-name">Iroko Historical Society</div>
@@ -198,7 +199,7 @@
   </footer>
 
   <style>
-    .site-footer--terracotta { background: #1a3468; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+    .site-footer--lapis { background: var(--lapis); border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
     .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
     .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
     .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }

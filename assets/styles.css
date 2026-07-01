@@ -13,7 +13,9 @@
   --green:        #2e4a1e;
   --green-mid:    #4a7035;
   --green-light:  #e8f0e2;
-  --terracotta:   #1a3468;
+  --tyrian:       #66023c;
+  --lapis:        #1a3468;
+  --terracotta:   #8b3a1a;
   --gold:         #a07830;
   --gold-light:   #f5edd8;
   --mono:         'DM Mono', monospace;
@@ -67,8 +69,8 @@ a:hover { color: var(--terracotta); }
 .medjat-glyph-box { width: 80px; border: 1px solid var(--rule-strong); background: var(--paper-warm); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: .5rem; gap: .3rem; }
 .medjat-glyph-inner { font-family: 'Noto Sans Egyptian Hieroglyphs', serif; font-size: 1.8rem; line-height: 1; color: var(--ink-mid); letter-spacing: .05em; }
 .medjat-glyph-label { font-family: var(--mono); font-size: .5rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); }
-.medjat-title { font-family: var(--serif); font-size: clamp(2.4rem,5vw,4rem); font-weight: 600; color: var(--green); line-height: 1; }
-.medjat-title em { font-style: italic; color: var(--terracotta); font-size: .7em; }
+.medjat-title { font-family: var(--serif); font-size: clamp(2.4rem,5vw,4rem); font-weight: 600; color: var(--ink); line-height: 1; }
+.medjat-title em { font-style: italic; color: var(--tyrian); font-size: .7em; }
 .medjat-sub { font-size: .92rem; color: var(--ink-mid); margin-top: .9rem; max-width: 52ch; line-height: 1.75; }
 .medjat-definition { margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid var(--rule); font-family: var(--mono); font-size: .72rem; color: var(--ink-soft); line-height: 1.65; }
 .medjat-definition strong { color: var(--ink-mid); font-weight: 500; }
@@ -110,7 +112,7 @@ a:hover { color: var(--terracotta); }
 .hero-logo-fallback { width: 88px; height: 88px; border: 1px solid var(--rule-strong); border-radius: 50%; display: grid; place-items: center; font-family: var(--serif); font-size: 1.5rem; color: var(--green); background: var(--paper-warm); }
 .explorer-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .5rem; }
 .explorer-title { font-family: var(--serif); font-size: clamp(1.8rem,3.5vw,2.8rem); font-weight: 600; color: var(--green); line-height: 1.05; }
-.explorer-title em { font-style: italic; color: var(--terracotta); }
+.explorer-title em { font-style: italic; color: var(--lapis); }
 .explorer-sub { font-size: .88rem; color: var(--ink-mid); margin-top: .75rem; max-width: 58ch; line-height: 1.65; }
 .about-block { border-left: 3px solid var(--green); padding: .85rem 1.1rem; background: var(--green-light); border-radius: 0 3px 3px 0; margin: 2rem 0 0; }
 .about-block-title { font-family: var(--mono); font-size: .65rem; letter-spacing: .15em; text-transform: uppercase; color: var(--green); margin-bottom: .5rem; }
@@ -147,7 +149,7 @@ a:hover { color: var(--terracotta); }
 .access-badge-lg { font-size: .72rem; padding: .2em .7em; }
 .access-public { background: var(--green-light); color: var(--green); }
 .access-community { background: var(--gold-light); color: var(--gold); }
-.access-initiated { background: #eaeff8; color: var(--terracotta); }
+.access-initiated { background: #eaeff8; color: var(--lapis); }
 .access-none { background: #2a2a2a; color: #fff; }
 
 /* ── Plant detail header ───────────────────────────────────────────────────── */
@@ -215,6 +217,12 @@ a:hover { color: var(--terracotta); }
 
 /* ── Responsive ────────────────────────────────────────────────────────────── */
 @media (max-width: 760px) {
+  .top-bar { padding: .65rem 0 .75rem; }
+  .top-bar-shell { flex-direction: column; align-items: flex-start; gap: .65rem; }
+  .top-bar-id { width: 100%; min-width: 0; font-size: .62rem; letter-spacing: .07em; line-height: 1.35; }
+  .top-bar-logo { height: 24px; }
+  .top-bar-links { width: 100%; gap: .45rem .8rem; }
+  .top-bar-links a { font-size: .62rem; letter-spacing: .06em; line-height: 1.2; }
   .medjat-hero-inner { grid-template-columns: 1fr; gap: 1.5rem; }
   .medjat-title-block { flex-direction: column; }
   .stats-panel { min-width: 0; }

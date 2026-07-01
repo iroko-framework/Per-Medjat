@@ -5,24 +5,31 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Medjat Library · Per Medjat · Iroko Historical Society</title>
-  <meta name="description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
-  <link rel="canonical" href="https://medjat.irokosociety.org/library/">
-  <link rel="alternate" type="text/turtle" href="/library/data/library.ttl">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Per Medjat - Iroko Historical Society">
-  <meta property="og:title" content="Medjat Library · Per Medjat · Iroko Historical Society">
-  <meta property="og:description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
-  <meta property="og:url" content="https://medjat.irokosociety.org/library/">
-  <meta property="og:image" content="https://medjat.irokosociety.org/assets/og-per-medjat.png">
-  <meta property="og:image:width" content="1200">
+  <meta property="og:type"         content="website">
+  <meta property="og:site_name"    content="Per Medjat - Iroko Historical Society">
+  <meta property="og:title"        content="Medjat Library - Per Medjat - Iroko Historical Society">
+  <meta property="og:description"  content="Cataloged scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, and the IHS Research Library catalog.">
+  <meta property="og:url"          content="https://medjat.irokosociety.org/library/">
+  <meta property="og:image"        content="https://medjat.irokosociety.org/assets/og-pm-library.png">
+  <meta property="og:image:width"  content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:type" content="image/png">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Medjat Library · Per Medjat · Iroko Historical Society">
-  <meta name="twitter:description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
-  <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/og-per-medjat.png">
-  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
+  <meta property="og:image:type"   content="image/png">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Medjat Library - Per Medjat - Iroko Historical Society">
+  <meta name="twitter:description" content="Cataloged scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, and the IHS Research Library catalog.">
+  <meta name="twitter:image"       content="https://medjat.irokosociety.org/assets/og-pm-library.png">  <meta name="description" content="The Medjat Library holds published and cataloged scholarly materials supporting research into Afro-Atlantic sacred knowledge systems.">
+  <link rel="canonical" href="https://medjat.irokosociety.org/library/">
+  <link rel="alternate" type="text/turtle" href="/library/data/library.ttl">  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <style>
+    @media (max-width: 760px) {
+      .top-bar { padding: .65rem 0 .75rem; }
+      .top-bar-shell { flex-direction: column; align-items: flex-start; gap: .65rem; }
+      .top-bar-id { width: 100%; min-width: 0; font-size: .62rem; letter-spacing: .07em; line-height: 1.35; }
+      .top-bar-logo { height: 24px; }
+      .top-bar-links { width: 100%; gap: .45rem .8rem; }
+      .top-bar-links a { font-size: .62rem; letter-spacing: .06em; line-height: 1.2; }
+    }
+
     /* ── Library hero ──────────────────────────────────────────── */
     .library-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
     .library-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .75rem; display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
@@ -42,13 +49,13 @@
     /* ── Featured work from the library ───────────────────────── */
     .featured-work-section { margin-top: 2rem; }
     .featured-work-section[hidden] { display: none; }
-    .featured-work { border: 1px solid var(--rule-strong); border-radius: 3px; background: var(--paper); display: grid; grid-template-columns: 126px 1fr; gap: 1.5rem; padding: 1.35rem 1.55rem; margin-bottom: 2.5rem; align-items: start; }
+    .featured-work { border: 1px solid rgba(139,58,26,.28); border-top: 3px solid var(--terracotta); border-radius: 3px; background: var(--paper); display: grid; grid-template-columns: 126px 1fr; gap: 1.5rem; padding: 1.35rem 1.55rem; margin-bottom: 2.5rem; align-items: start; }
     .featured-work:hover { background: var(--paper-warm); }
     .featured-work-cover { border: 1px solid var(--rule-strong); background: var(--paper-deep); aspect-ratio: 2 / 3; display: flex; align-items: center; justify-content: center; overflow: hidden; }
     .featured-work-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
-    .featured-work-fallback { display: none; font-family: var(--serif); font-size: 1rem; font-weight: 600; line-height: 1.2; text-align: center; color: var(--green); padding: 1rem; }
-    .featured-work-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: var(--gold); background: var(--gold-light); border: 1px solid rgba(160,120,48,.25); padding: .18em .65em; border-radius: 2px; display: inline-block; margin-bottom: .75rem; }
-    .featured-work-title { font-family: var(--serif); font-size: 1.45rem; font-weight: 600; color: var(--green); line-height: 1.15; margin-bottom: .2rem; }
+    .featured-work-fallback { display: none; font-family: var(--serif); font-size: 1rem; font-weight: 600; line-height: 1.2; text-align: center; color: var(--terracotta); padding: 1rem; }
+    .featured-work-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: var(--terracotta); background: #f7e8df; border: 1px solid rgba(139,58,26,.25); padding: .18em .65em; border-radius: 2px; display: inline-block; margin-bottom: .75rem; }
+    .featured-work-title { font-family: var(--serif); font-size: 1.45rem; font-weight: 600; color: var(--terracotta); line-height: 1.15; margin-bottom: .2rem; }
     .featured-work-author { font-size: .84rem; color: var(--ink-mid); margin-bottom: .75rem; }
     .featured-work-desc { font-size: .87rem; color: var(--ink-mid); line-height: 1.65; max-width: 74ch; }
     .featured-work-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .04em; color: var(--ink-soft); margin-top: .65rem; }
@@ -817,7 +824,7 @@ async function initFeaturedWork() {
           ${work.zoteroUrl ? `<a class="featured-share-cta" href="${e(work.zoteroUrl)}" target="_blank" rel="noopener">Open in Zotero</a>` : ''}
           ${buildFeaturedShareLinks(work)}
         </div>
-        <p class="featured-work-meta" style="margin-top:.65rem;"><a href="featured/archive/" style="color:var(--ink-soft);font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;" onmouseover="this.style.color='var(--green)'" onmouseout="this.style.color='var(--ink-soft)'">Prior featured works →</a></p>
+        <p class="featured-work-meta" style="margin-top:.65rem;"><a href="featured/archive/" style="color:var(--ink-soft);font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;" onmouseover="this.style.color='var(--terracotta)'" onmouseout="this.style.color='var(--ink-soft)'">Prior featured works →</a></p>
       </div>`;
     section.hidden = false;
   } catch (err) {
@@ -1919,57 +1926,12 @@ async function init() {
     errEl.style.display = 'block';
     errEl.textContent = `Catalog unavailable: ${err.message}`;
   }
-  return;
-
-  const vocabPromise = loadTraditionVocab();
-
-  // ── Cache-hit path: render immediately, refresh silently in background ──────
-  const cached = loadCache();
-  if (cached) {
-    ALL = cached;
-    await vocabPromise;  // needed for tradition link resolution in pills
-    _rebuildUI();
-
-    // Background refresh — only re-renders if record count changes
-    fetchAll().then(async raw => {
-      if (!raw.length) return;
-      await vocabPromise;
-      const fresh = raw.map(parse).filter(r => r && r.title);
-      saveCache(fresh);
-      if (fresh.length !== ALL.length) { ALL = fresh; _rebuildUI(); }
-    }).catch(() => { /* network down — cached data stays */ });
-    return;
-  }
-
-  // ── First-load path: progressive fetch with live pill updates ───────────────
-  document.getElementById('quick-option-row').innerHTML =
-    '<span data-loading style="font-family:var(--mono);font-size:.62rem;color:var(--ink-soft);letter-spacing:.06em;align-self:center;">Connecting to catalog\u2026</span>';
-
-  try {
-    await vocabPromise;  // must finish before parse() can resolve traditions
-
-    const raw = await fetchAll((parsed, loaded, total) => {
-      ALL = parsed;
-      buildQuickLinks();
-      _setLoadingMsg(`Loading catalog\u2026 ${loaded} of ${total}`);
-    });
-
-    ALL = raw.map(parse).filter(r => r && r.title);
-    saveCache(ALL);
-    _rebuildUI();
-  } catch(err) {
-    document.getElementById('quick-option-row').innerHTML = '';
-    const errEl = document.getElementById('load-error');
-    errEl.style.display = 'block';
-    errEl.textContent = `Catalog unavailable: ${err.message}`;
-  }
 }
 
 document.getElementById('search-input').addEventListener('keydown', ev => { if (ev.key === 'Enter') triggerSearch(); });
 document.getElementById('search-input').addEventListener('input', ev => { if (!ev.target.value) clearF('query'); });
 document.getElementById('sort-select').addEventListener('change', () => { PAGE = 1; render(); });
 
-// Enter key in adv panel fields triggers Apply
 ['adv-author','adv-title','adv-publisher'].forEach(id => {
   document.getElementById(id).addEventListener('keydown', ev => { if (ev.key === 'Enter') applyAdv(); });
 });

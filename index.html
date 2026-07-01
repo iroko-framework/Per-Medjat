@@ -5,28 +5,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Per Medjat · Iroko Historical Society</title>
-  <meta name="description" content="Per Medjat is the governed public interface for collections of the Iroko Historical Society. Structured knowledge with explicit stewardship boundaries.">
-  <link rel="canonical" href="https://medjat.irokosociety.org/">
-  <link rel="icon" type="image/svg+xml" href="assets/IHS-Logo.svg">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Iroko Historical Society">
-  <meta property="og:title" content="Per Medjat · Iroko Historical Society">
-  <meta property="og:description" content="Per Medjat is the governed public interface for collections of the Iroko Historical Society. Structured knowledge with explicit stewardship boundaries.">
-  <meta property="og:url" content="https://medjat.irokosociety.org/">
-  <meta property="og:image" content="https://medjat.irokosociety.org/assets/og-per-medjat.png">
-  <meta property="og:image:width" content="1200">
+  <meta property="og:type"         content="website">
+  <meta property="og:site_name"    content="Per Medjat - Iroko Historical Society">
+  <meta property="og:title"        content="Per Medjat - Iroko Historical Society">
+  <meta property="og:description"  content="Per Medjat is the governed public interface for collections of the Iroko Historical Society. Structured knowledge with explicit stewardship boundaries.">
+  <meta property="og:url"          content="https://medjat.irokosociety.org/">
+  <meta property="og:image"        content="https://medjat.irokosociety.org/assets/og-pm-main.png">
+  <meta property="og:image:width"  content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:type" content="image/png">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Per Medjat · Iroko Historical Society">
+  <meta property="og:image:type"   content="image/png">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Per Medjat - Iroko Historical Society">
   <meta name="twitter:description" content="Per Medjat is the governed public interface for collections of the Iroko Historical Society. Structured knowledge with explicit stewardship boundaries.">
-  <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/og-per-medjat.png">
-  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
+  <meta name="twitter:image"       content="https://medjat.irokosociety.org/assets/og-pm-main.png">  <meta name="description" content="Per Medjat is the governed public interface for collections of the Iroko Historical Society. Structured knowledge with explicit stewardship boundaries.">
+  <link rel="canonical" href="https://medjat.irokosociety.org/">
+  <link rel="icon" type="image/svg+xml" href="assets/IHS-Logo.svg">  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <link rel="stylesheet" href="assets/styles.css">
   <style>
     .medjat-hero { padding: 3.5rem 0 0; }
-    .medjat-title { font-family: var(--serif); font-size: clamp(2.4rem, 5.5vw, 4.4rem); font-weight: 600; color: var(--green); line-height: 1; margin-bottom: .6rem; }
-    .medjat-title em { display: block; font-style: italic; color: var(--terracotta); font-size: .72em; margin-top: .2rem; }
+    .medjat-title { font-family: var(--serif); font-size: clamp(2.4rem, 5.5vw, 4.4rem); font-weight: 600; color: var(--ink); line-height: 1; margin-bottom: .6rem; }
+    .medjat-title em { display: block; font-style: italic; color: var(--tyrian); font-size: .72em; margin-top: .2rem; opacity: .82; }
     .medjat-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--green-mid); margin-bottom: .9rem; }
     .medjat-sub { font-size: .95rem; color: var(--ink-mid); line-height: 1.75; margin-top: .9rem; }
     .medjat-stat-line { font-family: var(--mono); font-size: .65rem; letter-spacing: .08em; color: var(--ink-soft); margin-top: 1rem; }
@@ -42,16 +40,22 @@
     .institution-card-desc { font-size: .88rem; color: var(--ink-mid); line-height: 1.65; }
     .institution-card-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .25rem; }
     .institution-card-arrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .08em; color: var(--green-mid); margin-top: auto; padding-top: .75rem; }
+    .institution-card--library  { border-top: 3px solid var(--terracotta); }
+    .institution-card--library .institution-card-title { color: var(--terracotta); }
+    .institution-card--library .institution-card-arrow { color: var(--terracotta); }
+    .institution-card--archives { border-top: 3px solid var(--lapis); }
+    .institution-card--archives .institution-card-title { color: var(--lapis); }
+    .institution-card--archives .institution-card-arrow { color: var(--lapis); }
 
     /* Highlighted collection */
-    .featured-label { font-family: var(--mono); font-size: .62rem; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); background: var(--gold-light); border: 1px solid rgba(160,120,48,.25); padding: .18em .65em; border-radius: 2px; display: inline-block; margin-bottom: 1rem; }
-    .featured-block { border: 1px solid var(--rule-strong); border-radius: 3px; padding: 1.6rem 2rem; display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; }
+    .featured-label { font-family: var(--mono); font-size: .62rem; letter-spacing: .18em; text-transform: uppercase; color: var(--lapis); background: #eaeff8; border: 1px solid rgba(26,52,104,.25); padding: .18em .65em; border-radius: 2px; display: inline-block; margin-bottom: 1rem; }
+    .featured-block { border: 1px solid rgba(26,52,104,.25); border-top: 3px solid var(--lapis); border-radius: 3px; padding: 1.6rem 2rem; display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; }
     .featured-block:hover { background: var(--paper-warm); }
-    .featured-name { font-family: var(--serif); font-size: 1.4rem; font-weight: 600; color: var(--green); margin-bottom: .3rem; }
+    .featured-name { font-family: var(--serif); font-size: 1.4rem; font-weight: 600; color: var(--lapis); margin-bottom: .3rem; }
     .featured-desc { font-size: .87rem; color: var(--ink-mid); line-height: 1.6; }
     .featured-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; color: var(--ink-soft); margin-top: .5rem; }
-    .featured-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--green); border: 1px solid var(--green); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .15s; }
-    .featured-cta:hover { background: var(--green); color: #fff; }
+    .featured-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--lapis); border: 1px solid var(--lapis); padding: .35em 1em; border-radius: 2px; text-decoration: none; white-space: nowrap; transition: all .15s; }
+    .featured-cta:hover { background: var(--lapis); color: #fff; }
 
     .collection-card.planned { cursor: pointer; opacity: .85; }
     @media (max-width: 680px) {
@@ -101,14 +105,14 @@
   <p class="section-label">Collections</p>
 
   <div class="institution-grid">
-    <a class="institution-card" href="library/">
+    <a class="institution-card institution-card--library" href="library/">
       <div class="institution-card-eyebrow">Published holdings</div>
       <div class="institution-card-title">Medjat Library</div>
       <div class="institution-card-desc">Cataloged scholarly and reference materials supporting research into Afro-Atlantic sacred knowledge systems. Published works, field editions, reference literature, and the IHS Research Library catalog.</div>
       <div class="institution-card-meta">Structured access · Catalog browsing · Research support</div>
       <div class="institution-card-arrow">Browse the library →</div>
     </a>
-    <a class="institution-card" href="archives/">
+    <a class="institution-card institution-card--archives" href="archives/">
       <div class="institution-card-eyebrow">Primary source &amp; governed collections</div>
       <div class="institution-card-title">Medjat Archives</div>
       <div class="institution-card-desc">Archival and field collections governed under the six-tier Iroko Framework access system. Unique materials, sacred texts, community collections, and donor holdings stewarded with explicit community authorization.</div>
@@ -131,7 +135,7 @@
     </div>
   </a>
 
-  <footer class="site-footer site-footer--terracotta">
+  <footer class="site-footer site-footer--tyrian">
     <div class="footer-inner-pm">
       <div class="footer-org">
         <div class="footer-org-name">Iroko Historical Society</div>
@@ -156,7 +160,7 @@
   </footer>
 
   <style>
-    .site-footer--terracotta { background: #1a3468; border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+    .site-footer--tyrian { background: var(--tyrian); border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
     .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
     .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
     .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }

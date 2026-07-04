@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "8IMEF25Y",
-    "version": 6,
+    "version": 4811,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8IMEF25Y",
     "dateAdded": "2026-05-04T01:09:16Z",
-    "dateModified": "2026-05-04T01:09:16Z"
+    "dateModified": "2026-07-04T00:20:59Z"
   },
   "display": {
     "title": "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [],
+    "traditions": [
+      "West African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -52,7 +54,17 @@
     "language": [],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": []
+    "subjects": [
+      "Art and religion -- Cuba -- History",
+      "Art and religion -- United States -- History",
+      "Arte y religión Cuba Historia",
+      "Arte y religión Estados Unidos Historia",
+      "Kings and rulers -- Religious aspects -- Santeria",
+      "Kings and rulers in art",
+      "Reyes y soberanos Aspectos religiosos Santería Hi",
+      "Santeria -- Historia",
+      "Santeria -- History"
+    ]
   },
   "ifwk": {
     "classes": [],
@@ -85,6 +97,56 @@
       "value": "0-226-07610-5"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Art and religion -- Cuba -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Art and religion -- United States -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Arte y religión Cuba Historia"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Arte y religión Estados Unidos Historia"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kings and rulers -- Religious aspects -- Santeria"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kings and rulers in art"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Reyes y soberanos Aspectos religiosos Santería Hi"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santeria -- Historia"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santeria -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Book"
@@ -94,7 +156,13 @@
     "ttl": "/library/data/rdf/8I/8IMEF25Y.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

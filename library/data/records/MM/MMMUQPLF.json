@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "MMMUQPLF",
-    "version": 1480,
+    "version": 4805,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MMMUQPLF",
     "dateAdded": "2026-05-04T01:09:04Z",
-    "dateModified": "2026-05-18T14:30:09Z"
+    "dateModified": "2026-07-04T00:16:05Z"
   },
   "display": {
     "title": "Guide to Afro-Cuban Herbalism",
@@ -55,7 +55,9 @@
     "language": [],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": []
+    "subjects": [
+      "Ewe Database Source"
+    ]
   },
   "ifwk": {
     "classes": [],
@@ -86,6 +88,11 @@
       "field": "020",
       "label": "ISBN",
       "value": "978-1-4389-8097-3"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ewe Database Source"
     },
     {
       "field": "650",

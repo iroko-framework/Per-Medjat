@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:02:36Z",
+  "generatedAt": "2026-07-04T10:28:01Z",
   "count": 618,
   "records": [
     {
@@ -2833,17 +2833,17 @@
       ]
     },
     {
-      "key": "UTL48XHL",
+      "key": "8IMEF25Y",
       "marc": [
         {
           "field": "100",
           "label": "Author",
-          "value": "Brown, David H"
+          "value": "Brown, David H."
         },
         {
           "field": "245",
           "label": "Title",
-          "value": "Santería Enthroned: art, ritual, and innovation in an Afro-Cuban religion"
+          "value": "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion"
         },
         {
           "field": "264",
@@ -2851,9 +2851,14 @@
           "value": "Chicago: University of Chicago Press, 2003."
         },
         {
+          "field": "300",
+          "label": "Extent",
+          "value": "1-413 p."
+        },
+        {
           "field": "020",
           "label": "ISBN",
-          "value": "0-226-07609-1"
+          "value": "0-226-07610-5"
         },
         {
           "field": "650",
@@ -2904,41 +2909,6 @@
           "field": "650",
           "label": "Subject",
           "value": "West African traditions"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book"
-        }
-      ]
-    },
-    {
-      "key": "8IMEF25Y",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Brown, David H."
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Chicago: University of Chicago Press, 2003."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "1-413 p."
-        },
-        {
-          "field": "020",
-          "label": "ISBN",
-          "value": "0-226-07610-5"
         },
         {
           "field": "655",
@@ -3294,6 +3264,96 @@
           "field": "650",
           "label": "Subject",
           "value": "Central African traditions"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "8KP8CP6A",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Cabrera, Lydia"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "El Monte: Notes on the Religions, Magic, and Folklore of the Black and Creole People of Cuba"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Montreal: Duke University Press, 2023."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-1-4780-2334-0"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African diaspora"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people -- Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Black people -- Cuba -- Religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuba -- Religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Ewe Database Source"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Folklore -- Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Magic -- Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "SOCIAL SCIENCE / Anthropology / Cultural & Social"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Santeria -- Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Traditional medicine -- Cuba"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - translator",
+          "value": "Font-Navarrete, David"
         },
         {
           "field": "655",
@@ -22413,6 +22473,11 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Ewe Database Source"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "West African traditions"
         },
         {
@@ -26074,6 +26139,11 @@
           "field": "650",
           "label": "Subject",
           "value": "Rituals"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Ewe Database Source"
         },
         {
           "field": "650",

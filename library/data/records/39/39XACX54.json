@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "39XACX54",
-    "version": 4580,
+    "version": 4804,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/39XACX54",
     "dateAdded": "2026-05-04T01:08:57Z",
-    "dateModified": "2026-06-19T21:26:21Z"
+    "dateModified": "2026-07-04T00:04:23Z"
   },
   "display": {
     "title": "Ewé: The Use of Plants in Yoruba Society",
@@ -55,6 +55,7 @@
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
+      "Ewe Database Source",
       "Herbs",
       "Medjat custody: IHS Holds",
       "Yorubá"
@@ -96,6 +97,11 @@
       "field": "650",
       "label": "Subject",
       "value": "Rituals"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ewe Database Source"
     },
     {
       "field": "650",

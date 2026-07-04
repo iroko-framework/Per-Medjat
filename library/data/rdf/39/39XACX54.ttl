@@ -17,4 +17,4 @@
   schema:publisher "Odebrecht; Editora Schwarcz" ;
   dcterms:identifier "isbn:85-7164-514-0" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html> ;
-  dcterms:subject "Rituals", "Herbs", "Medjat custody: IHS Holds", "Yorubá" .
+  dcterms:subject "Rituals", "Ewe Database Source", "Herbs", "Medjat custody: IHS Holds", "Yorubá" .

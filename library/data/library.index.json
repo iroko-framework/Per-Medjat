@@ -2023,11 +2023,11 @@
     "recordPath": "/library/data/records/E9/E9RC9V9U.json"
   },
   {
-    "key": "UTL48XHL",
-    "title": "Santería Enthroned: art, ritual, and innovation in an Afro-Cuban religion",
+    "key": "8IMEF25Y",
+    "title": "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion",
     "subtitle": "",
     "creators": [
-      "Brown, David H"
+      "Brown, David H."
     ],
     "year": "2003",
     "date": "2003",
@@ -2053,37 +2053,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "santería enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h 2003 university of chicago press book book west african traditions art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
-    "recordPath": "/library/data/records/UT/UTL48XHL.json"
-  },
-  {
-    "key": "8IMEF25Y",
-    "title": "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion",
-    "subtitle": "",
-    "creators": [
-      "Brown, David H."
-    ],
-    "year": "2003",
-    "date": "2003",
-    "publisher": "University of Chicago Press",
-    "publicationLine": "Chicago: University of Chicago Press, 2003.",
-    "itemType": "book",
-    "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book",
+    "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book west african traditions art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
     "recordPath": "/library/data/records/8I/8IMEF25Y.json"
   },
   {
@@ -2341,6 +2311,37 @@
     "url": "",
     "searchText": "el monte: igbo-finda; ewe orisha; vititi nfinda cabrera, lydia 1992 ediciones universal book book west african traditions central african traditions ewé osanyin osain ozain ọsanyìn herbs entity: osanyin entity: osain entity: ozain entity: ọsanyìn ewé herbs tradition: lucumí tradition: palo tradition: santeria",
     "recordPath": "/library/data/records/G9/G9IYYPGY.json"
+  },
+  {
+    "key": "8KP8CP6A",
+    "title": "El Monte: Notes on the Religions, Magic, and Folklore of the Black and Creole People of Cuba",
+    "subtitle": "",
+    "creators": [
+      "Cabrera, Lydia",
+      "Font-Navarrete, David"
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Duke University Press",
+    "publicationLine": "Montreal: Duke University Press, 2023.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "el monte: notes on the religions, magic, and folklore of the black and creole people of cuba cabrera, lydia font-navarrete, david 2023 duke university press book book african diaspora black people -- cuba black people -- cuba -- religion cuba cuba -- religion ewe database source folklore -- cuba magic -- cuba social science / anthropology / cultural & social santeria -- cuba traditional medicine -- cuba african diaspora black people -- cuba black people -- cuba -- religion cuba cuba -- religion ewe database source folklore -- cuba magic -- cuba social science / anthropology / cultural & social santeria -- cuba traditional medicine -- cuba",
+    "recordPath": "/library/data/records/8K/8KP8CP6A.json"
   },
   {
     "key": "EHRNFQQL",
@@ -15928,7 +15929,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book west african traditions central african traditions tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
+    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book west african traditions central african traditions ewe database source ewe database source tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
     "recordPath": "/library/data/records/MM/MMMUQPLF.json"
   },
   {
@@ -18578,7 +18579,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "ewé: the use of plants in yoruba society verger, pierre 1995 odebrecht; editora schwarcz book book rituals ewé herbs medjat custody: ihs holds yorubá ewé herbs medjat custody: ihs holds theme: rituals yorubá",
+    "searchText": "ewé: the use of plants in yoruba society verger, pierre 1995 odebrecht; editora schwarcz book book rituals ewé ewe database source herbs medjat custody: ihs holds yorubá ewe database source ewé herbs medjat custody: ihs holds theme: rituals yorubá",
     "recordPath": "/library/data/records/39/39XACX54.json"
   },
   {

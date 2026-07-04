@@ -18,4 +18,4 @@
   schema:publisher "AuthorHouse" ;
   dcterms:identifier "isbn:978-1-4389-8097-3" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "West African traditions", "Central African traditions" .
+  dcterms:subject "Ewe Database Source", "West African traditions", "Central African traditions" .

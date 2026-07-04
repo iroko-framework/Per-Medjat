@@ -1,0 +1,171 @@
+{
+  "key": "8KP8CP6A",
+  "uri": "https://medjat.irokosociety.org/id/library/8KP8CP6A",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=8KP8CP6A",
+  "zotero": {
+    "group": "6479329",
+    "key": "8KP8CP6A",
+    "version": 4810,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/8KP8CP6A",
+    "dateAdded": "2026-07-04T00:16:48Z",
+    "dateModified": "2026-07-04T00:20:35Z"
+  },
+  "display": {
+    "title": "El Monte: Notes on the Religions, Magic, and Folklore of the Black and Creole People of Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cabrera, Lydia"
+      },
+      {
+        "role": "translator",
+        "name": "Font-Navarrete, David"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "Duke University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Montreal",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "\"First published in Cuba in 1954 and appearing here in English for the first time, Lydia Cabrera's El Monte is a foundational and iconic study of Afro-Cuban religious and cultural traditions. Drawing on conversations with elderly Afro-Cuban priests who were one or two generations away from the transatlantic slave trade, Cabrera combines ethnography, history, folklore, literature, and botany to provide a panoramic account of the multifaceted influence of Afro-Atlantic cultures in Cuba. Cabrera details the natural and spiritual landscape of the Cuban monte (forest, wilderness) and discusses hundreds of herbs and the constellations of deities, sacred rights, and knowledge that envelop them. The result is a complex spiritual and medicinal architecture of Afro-Cuban cultures. This new edition of what is often referred to as \"the Santería bible\" includes a new foreword, introduction, and translator notes. As a seminal work in the study of the African diaspora that has profoundly impacted numerous fields, Cabrera's magnum opus is essential for scholars, activists, and religious devotees of Afro-Cuban traditions alike\"-- Provided by publisher.",
+    "doi": "",
+    "url": "",
+    "isbn": "978-1-4780-2334-0",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African diaspora",
+      "Black people -- Cuba",
+      "Black people -- Cuba -- Religion",
+      "Cuba",
+      "Cuba -- Religion",
+      "Ewe Database Source",
+      "Folklore -- Cuba",
+      "Magic -- Cuba",
+      "SOCIAL SCIENCE / Anthropology / Cultural & Social",
+      "Santeria -- Cuba",
+      "Traditional medicine -- Cuba"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cabrera, Lydia"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "El Monte: Notes on the Religions, Magic, and Folklore of the Black and Creole People of Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Montreal: Duke University Press, 2023."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-1-4780-2334-0"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African diaspora"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black people -- Cuba -- Religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba -- Religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ewe Database Source"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Folklore -- Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Magic -- Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "SOCIAL SCIENCE / Anthropology / Cultural & Social"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santeria -- Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Traditional medicine -- Cuba"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - translator",
+      "value": "Font-Navarrete, David"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/8K/8KP8CP6A.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

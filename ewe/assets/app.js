@@ -37,31 +37,51 @@
   var searchEl = document.getElementById('plantSearch');
   var countEl = document.getElementById('searchCount');
   var accessEl = document.getElementById('accessFilter');
-  var cards = document.querySelectorAll('.plant-card');
-  var pills = document.querySelectorAll('#ritualFilter .filter-pill');
-  if (!searchEl || !countEl || !cards.length) return;
+  var items = document.querySelectorAll('.record-item');
+  var pills = document.querySelectorAll('#conceptFilter .filter-pill');
+  var tabs = document.querySelectorAll('.view-tab');
+  var panels = document.querySelectorAll('.view-panel');
+  if (!searchEl || !countEl || !items.length) return;
 
   function normalize(value) {
     return (value || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
   }
 
-  var activeRitual = '';
+  var activeKind = '';
+  var activeKey = '';
   var activeAccess = '';
+  var activeView = 'all';
+
+  function hasToken(value, token) {
+    return !token || (' ' + (value || '') + ' ').indexOf(' ' + token + ' ') >= 0;
+  }
+
+  function activePanel() {
+    return document.querySelector('.view-panel[data-panel="' + activeView + '"]');
+  }
 
   function applyFilters() {
     var query = searchEl.value.toLowerCase().trim();
     var queryAscii = normalize(searchEl.value);
-    var visible = 0;
-    cards.forEach(function (card) {
-      var hay = card.dataset.search || '';
-      var hayAscii = card.dataset.searchAscii || '';
+    var currentPanel = activePanel();
+    var visibleIds = {};
+    items.forEach(function (item) {
+      var hay = item.dataset.search || '';
+      var hayAscii = item.dataset.searchAscii || '';
+      var conceptHay = activeKind === 'medicinal' ? item.dataset.medicinal : item.dataset.ritual;
       var ok = (!query || hay.indexOf(query) >= 0 || hayAscii.indexOf(queryAscii) >= 0) &&
-        (!activeRitual || card.dataset.ritual === activeRitual) &&
-        (!activeAccess || card.dataset.access === activeAccess);
-      card.classList.toggle('hidden', !ok);
-      if (ok) visible++;
+        hasToken(conceptHay, activeKey) &&
+        (!activeAccess || item.dataset.access === activeAccess);
+      item.classList.toggle('hidden', !ok);
+      if (ok && currentPanel && currentPanel.contains(item)) {
+        visibleIds[item.dataset.recordId || Math.random().toString()] = true;
+      }
     });
-    countEl.firstChild.textContent = visible + ' ';
+    document.querySelectorAll('.browse-group, .name-index').forEach(function (group) {
+      var visibleChild = group.querySelector('.record-item:not(.hidden)');
+      group.classList.toggle('hidden', !visibleChild);
+    });
+    countEl.firstChild.textContent = Object.keys(visibleIds).length + ' ';
   }
 
   searchEl.addEventListener('input', applyFilters);
@@ -75,8 +95,20 @@
     pill.addEventListener('click', function () {
       pills.forEach(function (p) { p.classList.remove('active'); });
       pill.classList.add('active');
-      activeRitual = pill.dataset.ritual;
+      activeKind = pill.dataset.kind || '';
+      activeKey = pill.dataset.key || '';
       applyFilters();
     });
   });
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      activeView = tab.dataset.view || 'all';
+      tabs.forEach(function (t) { t.classList.toggle('active', t === tab); });
+      panels.forEach(function (panel) {
+        panel.classList.toggle('active', panel.dataset.panel === activeView);
+      });
+      applyFilters();
+    });
+  });
+  applyFilters();
 })();

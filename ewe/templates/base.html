@@ -26,8 +26,9 @@
   <meta name="build-dataset" content="{{ dataset_filename }}">
   <meta name="build-version" content="{{ dataset_version }}">
   <meta name="build-timestamp" content="{{ build_timestamp }}">
+  {% if is_internal_view %}<meta name="robots" content="noindex,nofollow,noarchive">{% endif %}
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
-  {% if record is defined %}
+  {% if record is defined and record.visible_jsonld %}
   <script type="application/ld+json">{{ record.visible_jsonld | tojson(indent=2) }}</script>
   {% endif %}
   <script>window.EWE_UI_COPY = {{ ui | tojson }};</script>
@@ -65,10 +66,15 @@
   </div>
 </div>
 
-<div class="pilot-banner">
+<div class="pilot-banner{% if is_internal_view %} internal-banner{% endif %}">
   <div class="page-wrap pilot-banner-inner">
+    {% if is_internal_view %}
+    <strong>Internal curation view - not public.</strong>
+    Includes governed records and pilot classifications for review only.
+    {% else %}
     <strong>Pilot data — not for citation.</strong>
     Classifications and access tiers are illustrative pending full curatorial review.
+    {% endif %}
   </div>
 </div>
 

@@ -69,6 +69,35 @@ class PlantRecord:
     other_regional_names: list[str]
     sections: dict[str, SectionModel]
     visible_jsonld: dict[str, Any]
+    public_medicinal_keys: list[str] = field(default_factory=list)
+    public_medicinal_labels: list[str] = field(default_factory=list)
+    public_ritual_keys: list[str] = field(default_factory=list)
+    public_ritual_labels: list[str] = field(default_factory=list)
+    image_url: str | None = None
+    image_caption: str = ''
+    image_attribution: str = ''
+    image_source: str = ''
+    status: str = ''
+
+    @property
+    def status_label(self) -> str:
+        return self.status.replace('_', ' ').title() if self.status else ''
+
+    @property
+    def public_ritual_label(self) -> str:
+        return ', '.join(self.public_ritual_labels) if self.public_ritual_labels else 'None publicly displayed'
+
+    @property
+    def public_medicinal_label(self) -> str:
+        return ', '.join(self.public_medicinal_labels) if self.public_medicinal_labels else 'None publicly displayed'
+
+    @property
+    def public_ritual_filter(self) -> str:
+        return ' '.join(self.public_ritual_keys)
+
+    @property
+    def public_medicinal_filter(self) -> str:
+        return ' '.join(self.public_medicinal_keys)
 
     @property
     def primary_yoruba(self) -> str | None:

@@ -20,6 +20,35 @@
   </div>
 </header>
 
+{% macro plant_card(record) -%}
+<a class="plant-card record-item" href="{{ record.page_url }}" data-record-id="{{ record.identifier }}" data-search="{{ record.search_text }}" data-search-ascii="{{ record.search_text_ascii }}" data-ritual="{{ record.public_ritual_filter }}" data-medicinal="{{ record.public_medicinal_filter }}" data-access="{{ record.access_key }}">
+  <div class="card-media">
+    {% if record.image_url %}
+    <img src="{{ record.image_url }}" alt="{{ record.primary_english or record.scientific_name }}">
+    {% else %}
+    <div class="plant-image-placeholder"><span>{{ record.identifier }}</span></div>
+    {% endif %}
+  </div>
+  <div class="card-body">
+    <div class="card-id">{{ record.identifier }}</div>
+    <div class="card-pref">{{ record.primary_yoruba or record.pref_label }}</div>
+    <div class="card-sci">{{ record.scientific_name }}</div>
+    <div class="card-names">
+      {% for code, value in record.card_names %}<div class="card-name-row"><span class="card-name-lang">{{ code }}</span><span class="card-name-val">{{ value }}</span></div>{% endfor %}
+    </div>
+    <div class="card-use-chips">
+      {% for label in record.public_ritual_labels %}<span class="tag-pill">{{ label }}</span>{% endfor %}
+      {% for label in record.public_medicinal_labels %}<span class="tag-pill">{{ label }}</span>{% endfor %}
+    </div>
+    <div class="card-foot">
+      {% if is_internal_view and record.status_label %}<span class="status-pill">{{ record.status_label }}</span>{% endif %}
+      <span class="access-badge {{ record.access_class }}">{{ record.access_label }}</span>
+      {% if record.name_collision %}<span class="collision-notice">Name collision</span>{% endif %}
+    </div>
+  </div>
+</a>
+{%- endmacro %}
+
 <div class="toolbar toolbar-grid">
   <input class="search-input" type="search" id="plantSearch" placeholder="{{ ui.search_placeholder.en }}" autocomplete="off">
   <span class="search-count" id="searchCount">{{ record_count }} <span class="ui-copy" data-copy-key="plants">plants</span></span>
@@ -31,25 +60,102 @@
   </select>
 </div>
 
-<div class="filter-row" id="ritualFilter">
-  <button class="filter-pill active" data-ritual=""><span class="ui-copy" data-copy-key="all_plants">All Plants</span></button>
-  {% for option in ritual_filter_options %}<button class="filter-pill" data-ritual="{{ option }}">{{ option }}</button>{% endfor %}
+<div class="filter-row" id="conceptFilter">
+  <button class="filter-pill active" data-kind="" data-key=""><span class="ui-copy" data-copy-key="all_plants">All Plants</span></button>
+  {% for key, label in ritual_filter_options %}<button class="filter-pill" data-kind="ritual" data-key="{{ key }}">{{ label }}</button>{% endfor %}
+  {% for key, label in medicinal_filter_options %}<button class="filter-pill" data-kind="medicinal" data-key="{{ key }}">{{ label }}</button>{% endfor %}
 </div>
 
-<div class="plant-grid" id="plantGrid">
-  {% for record in records %}
-  <a class="plant-card" href="{{ record.page_url }}" data-search="{{ record.search_text }}" data-search-ascii="{{ record.search_text_ascii }}" data-ritual="{{ record.ritual_label }}" data-access="{{ record.access_key }}">
-    <div class="card-id">{{ record.identifier }}</div>
-    <div class="card-pref">{{ record.primary_yoruba or record.pref_label }}</div>
-    <div class="card-sci">{{ record.scientific_name }}</div>
-    <div class="card-names">
-      {% for code, value in record.card_names %}<div class="card-name-row"><span class="card-name-lang">{{ code }}</span><span class="card-name-val">{{ value }}</span></div>{% endfor %}
-    </div>
-    <div class="card-foot">
-      <span class="access-badge {{ record.access_class }}">{{ record.access_label }}</span>
-      {% if record.name_collision %}<span class="collision-notice">Name collision</span>{% endif %}
-    </div>
-  </a>
+<div class="view-tabs" role="tablist" aria-label="Browse views">
+  <button class="view-tab active" data-view="all">All</button>
+  <button class="view-tab" data-view="ritual">Ritual</button>
+  <button class="view-tab" data-view="medicinal">Medicinal</button>
+  <button class="view-tab" data-view="names">Names</button>
+  <button class="view-tab" data-view="access">Access</button>
+  <button class="view-tab" data-view="table">Table</button>
+</div>
+
+<div class="view-panel active" data-panel="all">
+  <div class="plant-grid">
+    {% for record in records %}{{ plant_card(record) }}{% endfor %}
+  </div>
+</div>
+
+<div class="view-panel" data-panel="ritual">
+  {% for group in ritual_browser %}
+  <section class="browse-group">
+    <div class="browse-heading"><span>{{ group.label }}</span><span>{{ group.count }}</span></div>
+    <div class="plant-grid compact-grid">{% for record in group.records %}{{ plant_card(record) }}{% endfor %}</div>
+  </section>
   {% endfor %}
+</div>
+
+<div class="view-panel" data-panel="medicinal">
+  {% for group in medicinal_browser %}
+  <section class="browse-group">
+    <div class="browse-heading"><span>{{ group.label }}</span><span>{{ group.count }}</span></div>
+    <div class="plant-grid compact-grid">{% for record in group.records %}{{ plant_card(record) }}{% endfor %}</div>
+  </section>
+  {% endfor %}
+</div>
+
+<div class="view-panel" data-panel="names">
+  <div class="name-index-grid">
+    {% for index in name_indexes %}
+    <section class="name-index">
+      <div class="browse-heading"><span>{{ index.label }}</span><span>{{ index.rows | length }}</span></div>
+      {% for row in index.rows %}
+      <a class="name-index-row record-item" href="{{ row.record.page_url }}" data-record-id="{{ row.record.identifier }}" data-search="{{ row.record.search_text }}" data-search-ascii="{{ row.record.search_text_ascii }}" data-ritual="{{ row.record.public_ritual_filter }}" data-medicinal="{{ row.record.public_medicinal_filter }}" data-access="{{ row.record.access_key }}">
+        <span>{{ row.name }}</span>
+        <span>{{ row.record.identifier }}</span>
+      </a>
+      {% endfor %}
+    </section>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="view-panel" data-panel="access">
+  {% for group in access_browser %}
+  <section class="browse-group">
+    <div class="browse-heading"><span>{{ group.label }}</span><span>{{ group.count }}</span></div>
+    <div class="plant-grid compact-grid">{% for record in group.records %}{{ plant_card(record) }}{% endfor %}</div>
+  </section>
+  {% endfor %}
+</div>
+
+<div class="view-panel" data-panel="table">
+  <div class="table-wrap">
+    <table class="research-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          {% if is_internal_view %}<th>Status</th>{% endif %}
+          <th>Yoruba</th>
+          <th>Spanish</th>
+          <th>English</th>
+          <th>Scientific</th>
+          <th>Ritual</th>
+          <th>Medicinal</th>
+          <th>Access</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for record in records %}
+        <tr class="record-item" data-record-id="{{ record.identifier }}" data-search="{{ record.search_text }}" data-search-ascii="{{ record.search_text_ascii }}" data-ritual="{{ record.public_ritual_filter }}" data-medicinal="{{ record.public_medicinal_filter }}" data-access="{{ record.access_key }}">
+          <td><a href="{{ record.page_url }}">{{ record.identifier }}</a></td>
+          {% if is_internal_view %}<td>{{ record.status_label }}</td>{% endif %}
+          <td>{{ record.primary_yoruba or '' }}</td>
+          <td>{{ record.primary_spanish or '' }}</td>
+          <td>{{ record.primary_english or '' }}</td>
+          <td><em>{{ record.scientific_name }}</em></td>
+          <td>{{ record.public_ritual_label }}</td>
+          <td>{{ record.public_medicinal_label }}</td>
+          <td><span class="access-badge {{ record.access_class }}">{{ record.access_label }}</span></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 </div>
 {% endblock %}

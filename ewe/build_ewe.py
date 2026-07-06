@@ -27,6 +27,7 @@ DEFAULT_TTL = BASE / 'Verger_Ewe_Dataset_v4.ttl'
 # rendered site lives in ewe/ root alongside templates/, assets/, etc.
 DEFAULT_OUT = BASE
 DEFAULT_CONFIG = BASE / 'site_config.json'
+DEFAULT_FRAMEWORK_EWE_TTL = BASE.parent.parent / 'iroko-framework' / 'vocab' / 'iroko-ewe.ttl'
 # Medjat Ewé Acquire/Steward's system-of-record database (see
 # Main-Vault/14_Per_Medjat/Ewe/ewe-acquire-steward-spec.md). Only records at
 # status='approved' or 'published' are read from here; 'pilot', 'draft', and
@@ -144,6 +145,74 @@ MEDICINAL_LABELS = {
 }
 
 
+def public_access(access_key: str | None) -> bool:
+    return ACCESS_ORDER.get(access_key or 'access-public-unrestricted', 99) < ACCESS_ORDER['access-community-only']
+
+
+def internal_view(view_mode: str) -> bool:
+    return view_mode == 'internal'
+
+
+def use_label(use_type: str | None) -> str:
+    if not use_type:
+        return ''
+    return RITUAL_LABELS.get(use_type) or MEDICINAL_LABELS.get(use_type) or use_type
+
+
+def dedupe_keys(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    result: list[str] = []
+    for value in values:
+        if value and value not in seen:
+            seen.add(value)
+            result.append(value)
+    return result
+
+
+def public_use_keys_from_rows(uses: list[sqlite3.Row], category: str, view_mode: str = 'public') -> list[str]:
+    return dedupe_keys([
+        use['use_type']
+        for use in uses
+        if use['use_category'] == category and (internal_view(view_mode) or public_access(use['access_tier']))
+    ])
+
+
+def public_use_keys_from_record(access_key: str, *use_keys: str, view_mode: str = 'public') -> list[str]:
+    if not internal_view(view_mode) and not public_access(access_key):
+        return []
+    return dedupe_keys([key for key in use_keys if key])
+
+
+def labels_for_use_keys(keys: list[str]) -> list[str]:
+    return [use_label(key) for key in keys if use_label(key)]
+
+
+def framework_use_concept_keys(ttl_path: Path, scheme_name: str) -> set[str]:
+    graph = Graph()
+    graph.parse(ttl_path, format='turtle')
+    scheme = URIRef(f'{IROKO}{scheme_name}')
+    return {local_name(str(obj)) for obj in graph.objects(scheme, SKOS.hasTopConcept)}
+
+
+def validate_framework_use_vocab(ttl_path: Path) -> list[str]:
+    if not ttl_path.exists():
+        return []
+    problems: list[str] = []
+    checks = [
+        ('RitualUseScheme', set(RITUAL_LABELS), 'RITUAL_LABELS'),
+        ('MedicinalUseScheme', set(MEDICINAL_LABELS), 'MEDICINAL_LABELS'),
+    ]
+    for scheme_name, local_keys, label in checks:
+        framework_keys = framework_use_concept_keys(ttl_path, scheme_name)
+        missing = sorted(framework_keys - local_keys)
+        extra = sorted(local_keys - framework_keys)
+        if missing:
+            problems.append(f'{label} missing framework concept(s): {", ".join(missing)}')
+        if extra:
+            problems.append(f'{label} has concept(s) not in framework: {", ".join(extra)}')
+    return problems
+
+
 def local_name(value: str) -> str:
     if '#' in value:
         return value.rsplit('#', 1)[-1]
@@ -205,6 +274,77 @@ def load_config(config_path: Path) -> dict[str, Any]:
         return json.load(handle)
 
 
+def sqlite_table_exists(conn: sqlite3.Connection, table_name: str) -> bool:
+    row = conn.execute(
+        "SELECT 1 FROM sqlite_master WHERE type='table' AND name=?",
+        (table_name,),
+    ).fetchone()
+    return row is not None
+
+
+def sqlite_columns(conn: sqlite3.Connection, table_name: str) -> set[str]:
+    if not sqlite_table_exists(conn, table_name):
+        return set()
+    return {row['name'] for row in conn.execute(f'PRAGMA table_info({table_name})')}
+
+
+def primary_public_media(conn: sqlite3.Connection, plant_id: int) -> dict[str, str]:
+    if not sqlite_table_exists(conn, 'plant_media'):
+        return {}
+    row = conn.execute(
+        """
+        SELECT image_url, thumbnail_url, caption, attribution, source
+        FROM plant_media
+        WHERE plant_id=?
+          AND COALESCE(access_tier, 'access-public-unrestricted') IN
+              ('access-public-unrestricted', 'access-public-no-amplification')
+        ORDER BY is_primary DESC, id
+        LIMIT 1
+        """,
+        (plant_id,),
+    ).fetchone()
+    if not row:
+        return {}
+    return {
+        'image_url': row['thumbnail_url'] or row['image_url'] or '',
+        'image_caption': row['caption'] or '',
+        'image_attribution': row['attribution'] or '',
+        'image_source': row['source'] or '',
+    }
+
+
+def build_use_browser(records: list[PlantRecord], labels: dict[str, str], category: str) -> list[dict[str, Any]]:
+    groups: list[dict[str, Any]] = []
+    for key, label in labels.items():
+        attr = 'public_ritual_keys' if category == 'ritual' else 'public_medicinal_keys'
+        grouped_records = [record for record in records if key in getattr(record, attr)]
+        if grouped_records:
+            groups.append({'key': key, 'label': label, 'count': len(grouped_records), 'records': grouped_records})
+    return groups
+
+
+def build_access_browser(records: list[PlantRecord]) -> list[dict[str, Any]]:
+    groups: list[dict[str, Any]] = []
+    for key, meta in ACCESS_META.items():
+        grouped_records = [record for record in records if record.access_key == key]
+        if grouped_records:
+            groups.append({'key': key, 'label': meta['label'], 'count': len(grouped_records), 'records': grouped_records})
+    return groups
+
+
+def build_name_indexes(records: list[PlantRecord]) -> list[dict[str, Any]]:
+    indexes: list[dict[str, Any]] = []
+    for lang in ['yo', 'es', 'en', 'ht', 'pt']:
+        rows = []
+        for record in records:
+            for name in record.labels_by_lang.get(lang, []):
+                rows.append({'name': name, 'record': record})
+        if rows:
+            rows.sort(key=lambda row: normalized_ascii(row['name']))
+            indexes.append({'lang': lang, 'label': LANG_LABELS.get(lang, lang), 'rows': rows})
+    return indexes
+
+
 def build_card_names(labels_by_lang: dict[str, list[str]]) -> list[tuple[str, str]]:
     rows: list[tuple[str, str]] = []
     for lang in PRIMARY_CARD_LANGS:
@@ -214,7 +354,7 @@ def build_card_names(labels_by_lang: dict[str, list[str]]) -> list[tuple[str, st
     return rows
 
 
-def make_assertion(field_name: str, display_label: str, value: str | None, record_access: str, lang: str | None = None, category: str | None = None, helper_text: str | None = None) -> AssertionModel:
+def make_assertion(field_name: str, display_label: str, value: str | None, record_access: str, lang: str | None = None, category: str | None = None, helper_text: str | None = None, view_mode: str = 'public') -> AssertionModel:
     assertion_access = field_access(field_name=field_name, record_access=record_access, lang=lang)
     helper = helper_text or 'This assertion is governed by the public stewardship policy for this dataset.'
     decision = evaluate_assertion(assertion_access, helper)
@@ -225,14 +365,14 @@ def make_assertion(field_name: str, display_label: str, value: str | None, recor
         lang=lang,
         category=category,
         access_key=assertion_access,
-        render_mode=decision.render_mode,
+        render_mode='visible' if internal_view(view_mode) else decision.render_mode,
         badge_label=decision.badge_label,
         badge_class=decision.badge_class,
         helper_text=decision.helper_text,
     )
 
 
-def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], scientific_synonyms: list[str], other_regional_names: list[str], ritual_note: str | None, collision_note: str | None) -> dict[str, SectionModel]:
+def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], scientific_synonyms: list[str], other_regional_names: list[str], ritual_note: str | None, collision_note: str | None, view_mode: str = 'public') -> dict[str, SectionModel]:
     names_section = SectionModel(key='names', title='Names by Language')
     for lang in LANG_ORDER:
         values = labels_by_lang.get(lang, [])
@@ -247,6 +387,7 @@ def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], sci
                         lang=lang,
                         category='names',
                         helper_text='This name remains intentionally bounded in the public interface under the record stewardship policy.' if lang == 'x-lucumi' else 'Public linguistic and vernacular labels remain visible in the public interface.',
+                        view_mode=view_mode,
                     )
                 )
         elif lang == 'pt':
@@ -258,9 +399,9 @@ def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], sci
 
     regional_section = SectionModel(key='regional', title='Regional and Unresolved Names')
     for value in scientific_synonyms:
-        regional_section.assertions.append(make_assertion('scientific_synonym', 'Scientific Synonym', value, record_access, category='regional'))
+        regional_section.assertions.append(make_assertion('scientific_synonym', 'Scientific Synonym', value, record_access, category='regional', view_mode=view_mode))
     for value in other_regional_names:
-        regional_section.assertions.append(make_assertion('regional_name', 'Regional Name', value, record_access, category='regional'))
+        regional_section.assertions.append(make_assertion('regional_name', 'Regional Name', value, record_access, category='regional', view_mode=view_mode))
 
     sacred_section = SectionModel(key='sacred', title='Sacred Knowledge')
     if ritual_note:
@@ -271,7 +412,8 @@ def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], sci
                 value=ritual_note,
                 record_access=record_access,
                 category='sacred',
-                helper_text='The ritual note exists in the ontology but remains bounded according to the record access tier.'
+                helper_text='The ritual note exists in the ontology but remains bounded according to the record access tier.',
+                view_mode=view_mode,
             )
         )
     if collision_note:
@@ -282,16 +424,17 @@ def build_sections(record_access: str, labels_by_lang: dict[str, list[str]], sci
                 value=collision_note,
                 record_access=record_access,
                 category='sacred',
-                helper_text='Collision analysis is displayed in accordance with the stewardship tier assigned to this record.'
+                helper_text='Collision analysis is displayed in accordance with the stewardship tier assigned to this record.',
+                view_mode=view_mode,
             )
         )
     return {'names': names_section, 'regional': regional_section, 'sacred': sacred_section}
 
 
-def visible_search_chunks(identifier: str, pref_label: str, scientific_name: str, taxonomic_status: str, labels_by_lang: dict[str, list[str]], scientific_synonyms: list[str], other_regional_names: list[str]) -> list[str]:
+def visible_search_chunks(identifier: str, pref_label: str, scientific_name: str, taxonomic_status: str, labels_by_lang: dict[str, list[str]], scientific_synonyms: list[str], other_regional_names: list[str], view_mode: str = 'public') -> list[str]:
     chunks = [identifier, pref_label, scientific_name, taxonomic_status]
     for lang, values in labels_by_lang.items():
-        if lang == 'x-lucumi':
+        if lang == 'x-lucumi' and not internal_view(view_mode):
             continue
         chunks.extend(values)
     chunks.extend(scientific_synonyms)
@@ -299,7 +442,7 @@ def visible_search_chunks(identifier: str, pref_label: str, scientific_name: str
     return [chunk for chunk in chunks if chunk]
 
 
-def build_jsonld(record_uri: str, scientific_name: str, taxonomic_status: str, labels_by_lang: dict[str, list[str]], access_key: str, medicinal_key: str, ritual_key: str) -> dict[str, Any]:
+def build_jsonld(record_uri: str, scientific_name: str, taxonomic_status: str, labels_by_lang: dict[str, list[str]], access_key: str, medicinal_keys: list[str], ritual_keys: list[str]) -> dict[str, Any]:
     # JSON-LD intentionally includes only assertions visible in the public build.
     # Free-text plant_uses.description / ritual notes / collision notes never
     # appear here, regardless of tier -- only the controlled-vocabulary
@@ -318,6 +461,8 @@ def build_jsonld(record_uri: str, scientific_name: str, taxonomic_status: str, l
     # labels made this JSON-LD look like linked data without actually being
     # dereferenceable. All three are now @id references into the ontology's
     # own vocabulary. See the spec's "Linked-Data Connections" section.
+    medicinal_ids = [f'{IROKO}{key}' for key in medicinal_keys if key]
+    ritual_ids = [f'{IROKO}{key}' for key in ritual_keys if key]
     return {
         '@context': {
             'name': 'http://schema.org/name',
@@ -335,12 +480,12 @@ def build_jsonld(record_uri: str, scientific_name: str, taxonomic_status: str, l
         'taxonomicStatus': taxonomic_status,
         'alternateName': names,
         'accessLevel': f'{IROKO}{access_key}' if access_key else None,
-        'medicinalUse': f'{IROKO}{medicinal_key}' if medicinal_key else None,
-        'ritualUse': f'{IROKO}{ritual_key}' if ritual_key else None,
+        'medicinalUse': medicinal_ids or None,
+        'ritualUse': ritual_ids or None,
     }
 
 
-def parse_graph(ttl_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
+def parse_graph(ttl_path: Path, config: dict[str, Any], view_mode: str = 'public') -> list[PlantRecord]:
     graph = Graph()
     graph.parse(ttl_path, format='turtle')
     public_base = config['public_base'].rstrip('/') + '/'
@@ -391,7 +536,7 @@ def parse_graph(ttl_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
             lang = obj.language or 'und'
             append_unique(labels_by_lang[lang], literal_text(obj))
 
-        if access_key in NEVER_EXPORT_ACCESS:
+        if access_key in NEVER_EXPORT_ACCESS and not internal_view(view_mode):
             # Whole-record exclusion, not field redaction: no page, no
             # JSON-LD, no search-index.json entry. See NEVER_EXPORT_ACCESS.
             continue
@@ -400,11 +545,13 @@ def parse_graph(ttl_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
             pref_label = labels_by_lang.get('en', [scientific_name or identifier])[0]
 
         scientific_synonyms, other_regional_names = partition_regional_names(labels_by_lang.get('und', []), scientific_name)
-        sections = build_sections(access_key, dict(labels_by_lang), scientific_synonyms, other_regional_names, ritual_note, collision_note)
+        sections = build_sections(access_key, dict(labels_by_lang), scientific_synonyms, other_regional_names, ritual_note, collision_note, view_mode=view_mode)
         access_meta = ACCESS_META.get(access_key, ACCESS_META['access-initiated-only'])
-        visible_chunks = visible_search_chunks(identifier, pref_label, scientific_name, taxonomic_status, dict(labels_by_lang), scientific_synonyms, other_regional_names)
+        visible_chunks = visible_search_chunks(identifier, pref_label, scientific_name, taxonomic_status, dict(labels_by_lang), scientific_synonyms, other_regional_names, view_mode=view_mode)
         visible_search_text = ' '.join(visible_chunks).strip().casefold()
-        visible_jsonld = build_jsonld(str(subject), scientific_name, taxonomic_status, dict(labels_by_lang), access_key, medicinal_key, ritual_key)
+        public_medicinal_keys = public_use_keys_from_record(access_key, medicinal_key, view_mode=view_mode)
+        public_ritual_keys = public_use_keys_from_record(access_key, ritual_key, view_mode=view_mode)
+        visible_jsonld = {} if internal_view(view_mode) else build_jsonld(str(subject), scientific_name, taxonomic_status, dict(labels_by_lang), access_key, public_medicinal_keys, public_ritual_keys)
 
         records.append(
             PlantRecord(
@@ -431,12 +578,17 @@ def parse_graph(ttl_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
                 other_regional_names=other_regional_names,
                 sections=sections,
                 visible_jsonld=visible_jsonld,
+                public_medicinal_keys=public_medicinal_keys,
+                public_medicinal_labels=labels_for_use_keys(public_medicinal_keys),
+                public_ritual_keys=public_ritual_keys,
+                public_ritual_labels=labels_for_use_keys(public_ritual_keys),
+                status='ttl-pilot',
             )
         )
     return sort_records(records)
 
 
-def build_sections_from_uses(record_access: str, labels_by_lang: dict[str, list[str]], scientific_synonyms: list[str], other_regional_names: list[str], uses: list[sqlite3.Row], collision_note: str | None) -> dict[str, SectionModel]:
+def build_sections_from_uses(record_access: str, labels_by_lang: dict[str, list[str]], scientific_synonyms: list[str], other_regional_names: list[str], uses: list[sqlite3.Row], collision_note: str | None, view_mode: str = 'public') -> dict[str, SectionModel]:
     """SQLite-source equivalent of build_sections().
 
     Names and regional sections are unchanged in shape from the TTL path.
@@ -461,6 +613,7 @@ def build_sections_from_uses(record_access: str, labels_by_lang: dict[str, list[
                         lang=lang,
                         category='names',
                         helper_text='This name remains intentionally bounded in the public interface under the record stewardship policy.' if lang == 'x-lucumi' else 'Public linguistic and vernacular labels remain visible in the public interface.',
+                        view_mode=view_mode,
                     )
                 )
         elif lang == 'pt':
@@ -472,9 +625,9 @@ def build_sections_from_uses(record_access: str, labels_by_lang: dict[str, list[
 
     regional_section = SectionModel(key='regional', title='Regional and Unresolved Names')
     for value in scientific_synonyms:
-        regional_section.assertions.append(make_assertion('scientific_synonym', 'Scientific Synonym', value, record_access, category='regional'))
+        regional_section.assertions.append(make_assertion('scientific_synonym', 'Scientific Synonym', value, record_access, category='regional', view_mode=view_mode))
     for value in other_regional_names:
-        regional_section.assertions.append(make_assertion('regional_name', 'Regional Name', value, record_access, category='regional'))
+        regional_section.assertions.append(make_assertion('regional_name', 'Regional Name', value, record_access, category='regional', view_mode=view_mode))
 
     sacred_section = SectionModel(key='sacred', title='Sacred Knowledge')
     for use in uses:
@@ -492,7 +645,7 @@ def build_sections_from_uses(record_access: str, labels_by_lang: dict[str, list[
                 value=use['description'],
                 category='sacred',
                 access_key=use_tier,
-                render_mode=decision.render_mode,
+                render_mode='visible' if internal_view(view_mode) else decision.render_mode,
                 badge_label=decision.badge_label,
                 badge_class=decision.badge_class,
                 helper_text=decision.helper_text,
@@ -506,13 +659,14 @@ def build_sections_from_uses(record_access: str, labels_by_lang: dict[str, list[
                 value=collision_note,
                 record_access=record_access,
                 category='sacred',
-                helper_text='Collision analysis is displayed in accordance with the stewardship tier assigned to this record.'
+                helper_text='Collision analysis is displayed in accordance with the stewardship tier assigned to this record.',
+                view_mode=view_mode,
             )
         )
     return {'names': names_section, 'regional': regional_section, 'sacred': sacred_section}
 
 
-def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
+def parse_sqlite(db_path: Path, config: dict[str, Any], view_mode: str = 'public') -> list[PlantRecord]:
     """Read publishable Ewé records from medjat_ewe.sqlite3.
 
     Only plants.status in PUBLISHABLE_STATUSES are read. As of 2026-07-03 all
@@ -530,11 +684,17 @@ def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
     public_base = config['public_base'].rstrip('/') + '/'
     records: list[PlantRecord] = []
 
-    placeholders = ','.join('?' for _ in PUBLISHABLE_STATUSES)
-    plants = conn.execute(
-        f"SELECT * FROM plants WHERE status IN ({placeholders}) ORDER BY identifier",
-        tuple(PUBLISHABLE_STATUSES),
-    ).fetchall()
+    if internal_view(view_mode):
+        plants = conn.execute(
+            "SELECT * FROM plants WHERE COALESCE(status, '') != 'merged' ORDER BY identifier"
+        ).fetchall()
+    else:
+        placeholders = ','.join('?' for _ in PUBLISHABLE_STATUSES)
+        plants = conn.execute(
+            f"SELECT * FROM plants WHERE status IN ({placeholders}) ORDER BY identifier",
+            tuple(PUBLISHABLE_STATUSES),
+        ).fetchall()
+    name_columns = sqlite_columns(conn, 'plant_names')
 
     for plant in plants:
         identifier = plant['identifier']
@@ -547,9 +707,12 @@ def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
         labels_by_lang: dict[str, list[str]] = defaultdict(list)
         pref_label = ''
         for name_row in conn.execute(
-            "SELECT language, name_text, name_type FROM plant_names WHERE plant_id=? ORDER BY id", (plant['id'],)
+            "SELECT * FROM plant_names WHERE plant_id=? ORDER BY id", (plant['id'],)
         ):
             lang = name_row['language'] or 'und'
+            name_access = name_row['access_tier'] if 'access_tier' in name_columns else 'access-public-unrestricted'
+            if not internal_view(view_mode) and lang != 'x-lucumi' and not public_access(name_access):
+                continue
             append_unique(labels_by_lang[lang], name_row['name_text'])
             if name_row['name_type'] == 'pref_label' and not pref_label:
                 pref_label = name_row['name_text']
@@ -561,9 +724,14 @@ def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
         # (see the 2026-07-03 migration) are not curated content and must never
         # reach a live page, even on a record that has since been approved on
         # the strength of a different, sourced use entry.
-        uses = conn.execute(
-            "SELECT * FROM plant_uses WHERE plant_id=? AND is_pilot_data=0 ORDER BY id", (plant['id'],)
-        ).fetchall()
+        if internal_view(view_mode):
+            uses = conn.execute(
+                "SELECT * FROM plant_uses WHERE plant_id=? ORDER BY id", (plant['id'],)
+            ).fetchall()
+        else:
+            uses = conn.execute(
+                "SELECT * FROM plant_uses WHERE plant_id=? AND is_pilot_data=0 ORDER BY id", (plant['id'],)
+            ).fetchall()
         ritual_uses = [u for u in uses if u['use_category'] == 'ritual']
         medicinal_uses = [u for u in uses if u['use_category'] == 'medicinal']
         # Primary use per category for card/filter display, mirroring the old
@@ -573,18 +741,21 @@ def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
         # new schema supports multiple sourced uses per plant.
         ritual_key = ritual_uses[0]['use_type'] if ritual_uses else ''
         medicinal_key = medicinal_uses[0]['use_type'] if medicinal_uses else ''
+        public_ritual_keys = public_use_keys_from_rows(uses, 'ritual', view_mode=view_mode)
+        public_medicinal_keys = public_use_keys_from_rows(uses, 'medicinal', view_mode=view_mode)
 
         record_access = max_access(*(u['access_tier'] for u in uses)) if uses else 'access-public-unrestricted'
-        if record_access in NEVER_EXPORT_ACCESS:
+        if record_access in NEVER_EXPORT_ACCESS and not internal_view(view_mode):
             # Whole-record exclusion. See NEVER_EXPORT_ACCESS.
             continue
 
         scientific_synonyms, other_regional_names = partition_regional_names(labels_by_lang.get('und', []), scientific_name)
-        sections = build_sections_from_uses(record_access, dict(labels_by_lang), scientific_synonyms, other_regional_names, uses, collision_note)
+        sections = build_sections_from_uses(record_access, dict(labels_by_lang), scientific_synonyms, other_regional_names, uses, collision_note, view_mode=view_mode)
         access_meta = ACCESS_META.get(record_access, ACCESS_META['access-initiated-only'])
-        visible_chunks = visible_search_chunks(identifier, pref_label, scientific_name, taxonomic_status, dict(labels_by_lang), scientific_synonyms, other_regional_names)
+        visible_chunks = visible_search_chunks(identifier, pref_label, scientific_name, taxonomic_status, dict(labels_by_lang), scientific_synonyms, other_regional_names, view_mode=view_mode)
         visible_search_text = ' '.join(visible_chunks).strip().casefold()
-        visible_jsonld = build_jsonld(record_uri, scientific_name, taxonomic_status, dict(labels_by_lang), record_access, medicinal_key, ritual_key)
+        visible_jsonld = {} if internal_view(view_mode) else build_jsonld(record_uri, scientific_name, taxonomic_status, dict(labels_by_lang), record_access, public_medicinal_keys, public_ritual_keys)
+        media = primary_public_media(conn, plant['id'])
 
         records.append(
             PlantRecord(
@@ -611,6 +782,15 @@ def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
                 other_regional_names=other_regional_names,
                 sections=sections,
                 visible_jsonld=visible_jsonld,
+                public_medicinal_keys=public_medicinal_keys,
+                public_medicinal_labels=labels_for_use_keys(public_medicinal_keys),
+                public_ritual_keys=public_ritual_keys,
+                public_ritual_labels=labels_for_use_keys(public_ritual_keys),
+                image_url=media.get('image_url'),
+                image_caption=media.get('image_caption', ''),
+                image_attribution=media.get('image_attribution', ''),
+                image_source=media.get('image_source', ''),
+                status=plant['status'] or '',
             )
         )
 
@@ -618,7 +798,7 @@ def parse_sqlite(db_path: Path, config: dict[str, Any]) -> list[PlantRecord]:
     return sort_records(records)
 
 
-def build_context(source_path: Path, records: list[PlantRecord], config: dict[str, Any]) -> dict[str, Any]:
+def build_context(source_path: Path, records: list[PlantRecord], config: dict[str, Any], view_mode: str = 'public') -> dict[str, Any]:
     """source_path is whichever dataset was actually read: the TTL file, or
     medjat_ewe.sqlite3. Used only for the footer's 'Built from ...' credit."""
     now = datetime.now(timezone.utc)
@@ -629,6 +809,9 @@ def build_context(source_path: Path, records: list[PlantRecord], config: dict[st
         'dataset_filename': source_path.name,
         'dataset_version': source_path.stem,
         'record_count': len(records),
+        'view_mode': view_mode,
+        'is_internal_view': internal_view(view_mode),
+        'view_label': 'Internal Curation View' if internal_view(view_mode) else 'Public View',
         'build_date': now.strftime('%Y-%m-%d'),
         'build_timestamp': now.isoformat(timespec='seconds'),
         'namespace_uri': config['namespace_uri'],
@@ -642,7 +825,12 @@ def build_context(source_path: Path, records: list[PlantRecord], config: dict[st
         'ui': UI_COPY,
         'lang_order': ['en', 'es', 'fr', 'yo', 'pt'],
         'lang_labels': LANG_LABELS,
-        'ritual_filter_options': sorted({record.ritual_label for record in records}),
+        'ritual_browser': build_use_browser(records, RITUAL_LABELS, 'ritual'),
+        'medicinal_browser': build_use_browser(records, MEDICINAL_LABELS, 'medicinal'),
+        'access_browser': build_access_browser(records),
+        'name_indexes': build_name_indexes(records),
+        'ritual_filter_options': [(key, label) for key, label in RITUAL_LABELS.items() if any(key in record.public_ritual_keys for record in records)],
+        'medicinal_filter_options': [(key, label) for key, label in MEDICINAL_LABELS.items() if any(key in record.public_medicinal_keys for record in records)],
         'access_filter_options': [(key, meta['label']) for key, meta in ACCESS_META.items()],
         'boundary_message': boundary_message,
     }
@@ -661,12 +849,15 @@ def render_special_files(out_dir: Path, records: list[PlantRecord], context: dic
         "",
     ])
     (out_dir / 'sitemap.xml').write_text(sitemap, encoding='utf-8')
-    (out_dir / 'robots.txt').write_text(
-        f'User-agent: *\nAllow: /\nSitemap: {site_url}/sitemap.xml\n',
-        encoding='utf-8',
-    )
+    if context.get('is_internal_view'):
+        robots = 'User-agent: *\nDisallow: /\n'
+        cache_headers = '/assets/*\n  Cache-Control: no-store\n/search-index.json\n  Cache-Control: no-store\n'
+    else:
+        robots = f'User-agent: *\nAllow: /\nSitemap: {site_url}/sitemap.xml\n'
+        cache_headers = '/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/search-index.json\n  Cache-Control: public, max-age=3600\n'
+    (out_dir / 'robots.txt').write_text(robots, encoding='utf-8')
     (out_dir / '_headers').write_text(
-        '/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/search-index.json\n  Cache-Control: public, max-age=3600\n',
+        cache_headers,
         encoding='utf-8',
     )
     (out_dir / '_redirects').write_text('/ /index.html 200\n', encoding='utf-8')
@@ -733,16 +924,16 @@ def validate_build(stage_dir: Path, records: list[PlantRecord]) -> list[str]:
     return problems
 
 
-def render_site(out_dir: Path, config_path: Path, ttl_path: Path | None = None, db_path: Path | None = None) -> list[PlantRecord]:
+def render_site(out_dir: Path, config_path: Path, ttl_path: Path | None = None, db_path: Path | None = None, view_mode: str = 'public') -> list[PlantRecord]:
     config = load_config(config_path)
     if db_path is not None:
-        records = parse_sqlite(db_path, config)
+        records = parse_sqlite(db_path, config, view_mode=view_mode)
         source_path = db_path
     else:
         ttl_path = ttl_path or DEFAULT_TTL
-        records = parse_graph(ttl_path, config)
+        records = parse_graph(ttl_path, config, view_mode=view_mode)
         source_path = ttl_path
-    context = build_context(source_path, records, config)
+    context = build_context(source_path, records, config, view_mode=view_mode)
 
     # Stage to a temporary directory first. Validate before touching the
     # real out_dir at all -- "confirm ... before any file overwrites the
@@ -768,8 +959,10 @@ def render_site(out_dir: Path, config_path: Path, ttl_path: Path | None = None, 
 
         payload = []
         for r in records:
+            labels_by_lang = r.labels_by_lang if internal_view(view_mode) else {k: v for k, v in r.labels_by_lang.items() if k != 'x-lucumi'}
             payload.append({
                 'identifier': r.identifier,
+                'status': r.status,
                 'pref_label': r.pref_label,
                 'scientific_name': r.scientific_name,
                 'page_url': r.page_url,
@@ -777,10 +970,13 @@ def render_site(out_dir: Path, config_path: Path, ttl_path: Path | None = None, 
                 'html_public_url': r.html_public_url,
                 'access': r.access_label,
                 'access_key': r.access_key,
-                'ritual_use': r.ritual_label,
-                'medicinal_use': r.medicinal_label,
+                'ritual_use': r.public_ritual_labels,
+                'ritual_use_keys': r.public_ritual_keys,
+                'medicinal_use': r.public_medicinal_labels,
+                'medicinal_use_keys': r.public_medicinal_keys,
                 'taxonomic_status': r.taxonomic_status,
-                'labels_by_lang': {k: v for k, v in r.labels_by_lang.items() if k != 'x-lucumi'},
+                'labels_by_lang': labels_by_lang,
+                'image_url': r.image_url,
                 'search_text': r.search_text,
                 'search_text_ascii': r.search_text_ascii,
             })
@@ -816,19 +1012,29 @@ def main() -> None:
     parser.add_argument('--db', type=Path, default=DEFAULT_DB, help='Path to medjat_ewe.sqlite3 (used with --source sqlite)')
     parser.add_argument('--out', type=Path, default=DEFAULT_OUT, help='Output directory (default: this script\'s own directory, matching live deploy practice)')
     parser.add_argument('--config', type=Path, default=DEFAULT_CONFIG, help='Path to site config JSON')
+    parser.add_argument('--framework-ewe-ttl', type=Path, default=DEFAULT_FRAMEWORK_EWE_TTL, help='Path to iroko-ewe.ttl for concept-sync validation')
+    parser.add_argument('--view', choices=['public', 'internal'], default='public', help='View policy: public export or internal curation review')
     args = parser.parse_args()
 
     out_dir = args.out.resolve()
+    if args.view == 'internal' and out_dir == DEFAULT_OUT.resolve():
+        raise SystemExit('Refusing to write an internal curation view to the live Ewe output root. Pass --out to a preview folder.')
     out_dir.mkdir(parents=True, exist_ok=True)
+    vocab_problems = validate_framework_use_vocab(args.framework_ewe_ttl.resolve())
+    if vocab_problems:
+        print('Iroko Framework use vocabulary validation failed:', file=sys.stderr)
+        for problem in vocab_problems:
+            print(f'  - {problem}', file=sys.stderr)
+        raise SystemExit(1)
 
     if args.source == 'sqlite':
         if not args.db.exists():
             raise SystemExit(f'medjat_ewe.sqlite3 not found at {args.db}. Pass --db, or run --source ttl.')
-        records = render_site(out_dir, args.config.resolve(), db_path=args.db.resolve())
+        records = render_site(out_dir, args.config.resolve(), db_path=args.db.resolve(), view_mode=args.view)
     else:
-        records = render_site(out_dir, args.config.resolve(), ttl_path=args.ttl.resolve())
+        records = render_site(out_dir, args.config.resolve(), ttl_path=args.ttl.resolve(), view_mode=args.view)
 
-    print(f'Built {len(records)} record(s) to {out_dir} (source: {args.source})')
+    print(f'Built {len(records)} record(s) to {out_dir} (source: {args.source}, view: {args.view})')
     if args.source == 'sqlite' and not records:
         print(
             "0 records published. This is expected if no plants.status is 'approved' or "

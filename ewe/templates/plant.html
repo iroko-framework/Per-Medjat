@@ -6,10 +6,17 @@
   {% if assertion.field_name == 'placeholder' %}
     <div class="assertion-line placeholder-line"><div class="assertion-value name-empty">{{ assertion.value }}</div></div>
   {% elif assertion.render_mode == 'visible' %}
+    {% if assertion.field_name in ['use_ritual', 'use_medicinal'] %}
+    <div class="assertion-line {{ style }}">
+      <div><span class="use-value">{{ assertion.display_label }}</span></div>
+      {% if assertion.value %}<div class="assertion-value">{{ assertion.value }}</div>{% endif %}
+    </div>
+    {% else %}
     <div class="assertion-line {{ style }}">
       {% if assertion.display_label %}<div class="assertion-key">{{ assertion.display_label }}</div>{% endif %}
       <div class="assertion-value">{{ assertion.value }}</div>
     </div>
+    {% endif %}
   {% else %}
     <div class="redaction-block">
       <div class="redaction-top">
@@ -30,9 +37,17 @@
       <div class="plant-sci-large">{{ record.scientific_name }}</div>
       <div class="plant-id-label">{{ record.identifier }} · iroko:EwePlantRecord</div>
       <div class="plant-header-meta">
+        {% if is_internal_view and record.status_label %}<span class="status-pill">{{ record.status_label }}</span>{% endif %}
         <span class="access-badge {{ record.access_class }} access-badge-lg">{{ record.access_label }}</span>
         {% if record.name_collision %}<span class="collision-notice">Name collision</span>{% endif %}
       </div>
+    </div>
+    <div class="plant-header-media">
+      {% if record.image_url %}
+      <img src="{{ record.image_url }}" alt="{{ record.primary_english or record.scientific_name }}">
+      {% else %}
+      <div class="plant-image-placeholder"><span>{{ record.identifier }}</span></div>
+      {% endif %}
     </div>
     <div>{% include "partials/lang_toggle.html" %}</div>
   </div>
@@ -76,7 +91,14 @@
     <div class="detail-section-title ui-copy" data-copy-key="sacred_knowledge">Sacred Knowledge</div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="ritual_use">Ritual Use</div>
-      <div class="use-value">{{ record.ritual_label }}</div>
+      {% set ritual_use_assertions = record.sections.sacred.assertions | selectattr('field_name','equalto','use_ritual') | list %}
+      {% if ritual_use_assertions %}
+        {% for assertion in ritual_use_assertions %}{{ render_assertion(assertion, 'block') }}{% endfor %}
+      {% elif record.public_ritual_labels %}
+        <div class="tag-cloud">{% for label in record.public_ritual_labels %}<span class="use-value">{{ label }}</span>{% endfor %}</div>
+      {% else %}
+        <span class="name-empty ui-copy" data-copy-key="none_recorded">None recorded</span>
+      {% endif %}
     </div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="ritual_notes">Ritual Notes</div>
@@ -94,7 +116,14 @@
     <div class="detail-section-title ui-copy" data-copy-key="classification">Classification</div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="medicinal_use">Medicinal Use</div>
-      <div class="use-value">{{ record.medicinal_label }}</div>
+      {% set medicinal_use_assertions = record.sections.sacred.assertions | selectattr('field_name','equalto','use_medicinal') | list %}
+      {% if medicinal_use_assertions %}
+        {% for assertion in medicinal_use_assertions %}{{ render_assertion(assertion, 'block') }}{% endfor %}
+      {% elif record.public_medicinal_labels %}
+        <div class="tag-cloud">{% for label in record.public_medicinal_labels %}<span class="use-value">{{ label }}</span>{% endfor %}</div>
+      {% else %}
+        <span class="name-empty ui-copy" data-copy-key="none_recorded">None recorded</span>
+      {% endif %}
     </div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="scientific_name">Scientific Name</div>

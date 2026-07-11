@@ -1,0 +1,22 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/7HTNR8JQ>
+  a schema:Book ;
+  schema:name "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7HTNR8JQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7HTNR8JQ" ;
+  schema:author "Brown, David H." ;
+  schema:datePublished "2026" ;
+  schema:publisher "Digital Publishing of FL" ;
+  dcterms:identifier "isbn:978-1-962929-59-2" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .

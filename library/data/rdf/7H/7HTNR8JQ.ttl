@@ -12,6 +12,7 @@
   schema:url <https://medjat.irokosociety.org/library/?item=7HTNR8JQ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:7HTNR8JQ" ;
+  schema:description "Adeshina's Cuba offers a comprehensive history of the Lukumí (Yorùbá) religion in Cuba from 1820 to 1959, drawing on more than three decades of oral and archival research (1991-2025). Volume I traces the world of Adeshina, a babalawo brought into slavery through Matanzas in the late 1820s, and reconstructs his alliances and accomplishments across Regla, Havana, and Matanzas through hundreds of ritual and family genealogies of Babalawos and Olorishas. Volume II extends this record into more than 250 biographical essays on Ifá and Osha priests and priestesses, organized lineage by lineage from Havana and Matanzas to Palmira and Santiago de Cuba. Together the two volumes document the founding and growth of the Lukumí religion under conditions of slavery, colonial rule, and later Communist suppression, and have been received by reviewers as a major contribution to Afro-Cuban and African Diaspora studies." ;
   schema:author "Brown, David H." ;
   schema:datePublished "2026" ;
   schema:publisher "Digital Publishing of FL" ;

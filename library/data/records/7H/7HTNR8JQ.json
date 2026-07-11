@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "7HTNR8JQ",
-    "version": 4844,
+    "version": 4845,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7HTNR8JQ",
     "dateAdded": "2026-07-11T13:54:41Z",
-    "dateModified": "2026-07-11T14:37:56Z"
+    "dateModified": "2026-07-11T15:19:51Z"
   },
   "display": {
-    "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set",
+    "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Vol.",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -81,7 +81,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set"
+      "value": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Vol."
     },
     {
       "field": "264",

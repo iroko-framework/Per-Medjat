@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/7HTNR8JQ>
   a schema:Book ;
-  schema:name "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set" ;
+  schema:name "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Vol." ;
   schema:url <https://medjat.irokosociety.org/library/?item=7HTNR8JQ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:7HTNR8JQ" ;

@@ -1,5 +1,28 @@
 [
   {
+    "zoteroKey": "6A6MIAGB",
+    "label": "IHS Holding · Prior Featured Work",
+    "title": "Los instrumentos de la música afrocubana: Serie completa",
+    "shortTitle": "Los instrumentos de la música afrocubana",
+    "authorLine": "Fernando Ortiz · Dirección de Cultura, Ministerio de Educación · 1952",
+    "abstract": "Complete five-volume set held by the Iroko Historical Society.",
+    "source": "IHS Zotero Library",
+    "custody": "IHS Holding",
+    "genre": "Book",
+    "isbn": "",
+    "featuredDate": "2026-06-19",
+    "mode": "Curated selection",
+    "shareUrl": "https://medjat.irokosociety.org/library/featured/archive/6A6MIAGB.html",
+    "recordUrl": "https://medjat.irokosociety.org/library/?item=6A6MIAGB",
+    "zoteroUrl": "https://www.zotero.org/groups/ihs_medjat_library/items/6A6MIAGB",
+    "cover": {
+      "url": "https://medjat.irokosociety.org/library/assets/featured/6A6MIAGB.jpg",
+      "alt": "featured-cover – complete five-volume set",
+      "source": "zotero-attachment",
+      "attachmentKey": "K6JZ8CNT"
+    }
+  },
+  {
     "zoteroKey": "SX2846CL",
     "label": "IHS Holding · Prior Featured Work",
     "title": "Black Atlantic Crossings: The Lives and Anti-Racist Tactics of Booker T. Washington and Manuel R. Querino",

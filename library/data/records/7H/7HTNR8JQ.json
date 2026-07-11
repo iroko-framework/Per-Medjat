@@ -1,0 +1,140 @@
+{
+  "key": "7HTNR8JQ",
+  "uri": "https://medjat.irokosociety.org/id/library/7HTNR8JQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=7HTNR8JQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "7HTNR8JQ",
+    "version": 4841,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7HTNR8JQ",
+    "dateAdded": "2026-07-11T13:54:41Z",
+    "dateModified": "2026-07-11T14:08:39Z"
+  },
+  "display": {
+    "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Brown, David H."
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Digital Publishing of FL",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "2",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "978-1-962929-59-2",
+    "issn": "",
+    "university": "",
+    "language": "eng",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Afro-Atlantic",
+      "Medjat custody: IHS Holds",
+      "Yoruba"
+    ],
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Brown, David H."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Digital Publishing of FL, 2026."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "978-1-962929-59-2"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat custody: IHS Holds"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/7H/7HTNR8JQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

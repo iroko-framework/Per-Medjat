@@ -860,6 +860,51 @@
   schema:datePublished "2011" ;
   dcterms:subject "Cultural and Mythological Studies", "Historical Art and Architecture Studies", "Literary and Cultural Studies" .
 
+<https://medjat.irokosociety.org/id/library/Z2BK39AA>
+  a schema:Book ;
+  schema:name "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Z2BK39AA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Z2BK39AA" ;
+  schema:author "Brown, David H." ;
+  schema:datePublished "2026" ;
+  schema:publisher "Digital Publishing of FL" ;
+  dcterms:identifier "isbn:978-1-962929-59-2" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+
+<https://medjat.irokosociety.org/id/library/5PLRK6GT>
+  a schema:Book ;
+  schema:name "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5PLRK6GT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5PLRK6GT" ;
+  schema:author "Brown, David H." ;
+  schema:datePublished "2026" ;
+  schema:publisher "Digital Publishing of FL" ;
+  dcterms:identifier "isbn:978-1-962929-59-2" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+
+<https://medjat.irokosociety.org/id/library/7HTNR8JQ>
+  a schema:Book ;
+  schema:name "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7HTNR8JQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7HTNR8JQ" ;
+  schema:author "Brown, David H." ;
+  schema:datePublished "2026" ;
+  schema:publisher "Digital Publishing of FL" ;
+  dcterms:identifier "isbn:978-1-962929-59-2" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+
 <https://medjat.irokosociety.org/id/library/8IMEF25Y>
   a schema:Book ;
   schema:name "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion" ;

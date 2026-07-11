@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-10T11:21:19Z",
-  "count": 618,
-  "listingCount": 613,
+  "generatedAt": "2026-07-11T14:12:42Z",
+  "count": 621,
+  "listingCount": 616,
   "index": "/library/data/library.index.json",
   "facets": "/library/data/library.facets.json",
   "ttl": "/library/data/library.ttl",
@@ -335,6 +335,21 @@
       "key": "E9RC9V9U",
       "json": "/library/data/records/E9/E9RC9V9U.json",
       "ttl": "/library/data/rdf/E9/E9RC9V9U.ttl"
+    },
+    {
+      "key": "Z2BK39AA",
+      "json": "/library/data/records/Z2/Z2BK39AA.json",
+      "ttl": "/library/data/rdf/Z2/Z2BK39AA.ttl"
+    },
+    {
+      "key": "5PLRK6GT",
+      "json": "/library/data/records/5P/5PLRK6GT.json",
+      "ttl": "/library/data/rdf/5P/5PLRK6GT.ttl"
+    },
+    {
+      "key": "7HTNR8JQ",
+      "json": "/library/data/records/7H/7HTNR8JQ.json",
+      "ttl": "/library/data/rdf/7H/7HTNR8JQ.ttl"
     },
     {
       "key": "8IMEF25Y",

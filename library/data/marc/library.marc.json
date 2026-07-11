@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T11:21:19Z",
-  "count": 618,
+  "generatedAt": "2026-07-11T14:12:42Z",
+  "count": 621,
   "records": [
     {
       "key": "IGBCQ3B7",
@@ -2829,6 +2829,171 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "Z2BK39AA",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Brown, David H."
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Digital Publishing of FL, 2026."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-1-962929-59-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Afro-Atlantic"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Yoruba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "West African traditions"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Monograph"
+        }
+      ]
+    },
+    {
+      "key": "5PLRK6GT",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Brown, David H."
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Digital Publishing of FL, 2026."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-1-962929-59-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Afro-Atlantic"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Yoruba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "West African traditions"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Monograph"
+        }
+      ]
+    },
+    {
+      "key": "7HTNR8JQ",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Brown, David H."
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Digital Publishing of FL, 2026."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-1-962929-59-2"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Afro-Atlantic"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat custody: IHS Holds"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Yoruba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "West African traditions"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Monograph"
         }
       ]
     },

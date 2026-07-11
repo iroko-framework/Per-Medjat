@@ -10,7 +10,7 @@
     },
     "book": {
       "label": "Book",
-      "count": 77
+      "count": 80
     },
     "bookSection": {
       "label": "Book Chapter",
@@ -34,7 +34,7 @@
       "label": "Untagged",
       "count": 581
     },
-    "West African traditions": 20,
+    "West African traditions": 23,
     "Central African traditions": 9,
     "Afro-Indigenous": 3,
     "Haitian Vodou": 3,
@@ -48,7 +48,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 604
+      "count": 607
     },
     "Material Culture": 3,
     "Secret Society": 3,
@@ -61,7 +61,7 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 613
+      "count": 616
     }
   },
   "language": {
@@ -69,8 +69,8 @@
       "label": "Untagged",
       "count": 585
     },
+    "English": 9,
     "Spanish": 9,
-    "English": 6,
     "Portuguese": 5,
     "French": 4,
     "sp": 2,
@@ -82,7 +82,7 @@
     "Ewé": 2
   },
   "access": {
-    "Public": 607,
+    "Public": 610,
     "Community": 6
   }
 }

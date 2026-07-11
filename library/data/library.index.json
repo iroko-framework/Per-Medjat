@@ -2023,6 +2023,128 @@
     "recordPath": "/library/data/records/E9/E9RC9V9U.json"
   },
   {
+    "key": "Z2BK39AA",
+    "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959",
+    "subtitle": "",
+    "creators": [
+      "Brown, David H."
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Digital Publishing of FL",
+    "publicationLine": "Digital Publishing of FL, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [
+      "West African traditions"
+    ],
+    "traditionLinks": {
+      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph west african traditions afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "recordPath": "/library/data/records/Z2/Z2BK39AA.json",
+    "volume": "2",
+    "numberOfVolumes": "2",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
+    "key": "5PLRK6GT",
+    "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959",
+    "subtitle": "",
+    "creators": [
+      "Brown, David H."
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Digital Publishing of FL",
+    "publicationLine": "Digital Publishing of FL, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [
+      "West African traditions"
+    ],
+    "traditionLinks": {
+      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph west african traditions afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "recordPath": "/library/data/records/5P/5PLRK6GT.json",
+    "volume": "1",
+    "numberOfVolumes": "2",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
+    "key": "7HTNR8JQ",
+    "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959: Two-Volume Set",
+    "subtitle": "",
+    "creators": [
+      "Brown, David H."
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Digital Publishing of FL",
+    "publicationLine": "Digital Publishing of FL, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [
+      "West African traditions"
+    ],
+    "traditionLinks": {
+      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959: two-volume set brown, david h. 2026 digital publishing of fl book monograph west african traditions afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "recordPath": "/library/data/records/7H/7HTNR8JQ.json",
+    "volume": "2",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
     "key": "8IMEF25Y",
     "title": "Santeria Enthroned: Art, Ritual, and Innovation in an Afro-Cuban Religion",
     "subtitle": "",

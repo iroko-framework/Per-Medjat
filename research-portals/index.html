@@ -87,7 +87,10 @@
         { "@type": "ListItem", "position": 9, "name": "Amistad Research Center", "url": "https://amistadresearchcenter.org/" },
         { "@type": "ListItem", "position": 10, "name": "MANIOC", "url": "https://www.manioc.org/" },
         { "@type": "ListItem", "position": 11, "name": "Endangered Archives Programme", "url": "https://eap.bl.uk/" },
-        { "@type": "ListItem", "position": 12, "name": "Avery Research Center · Lowcountry Digital Library", "url": "https://lcdl.library.cofc.edu/institution/avery-research-center" }
+        { "@type": "ListItem", "position": 12, "name": "Avery Research Center · Lowcountry Digital Library", "url": "https://lcdl.library.cofc.edu/institution/avery-research-center" },
+        { "@type": "ListItem", "position": 13, "name": "SERNEC Portal", "url": "https://sernecportal.org/portal/" },
+        { "@type": "ListItem", "position": 14, "name": "PROTA4U · Plant Resources of Tropical Africa", "url": "https://prota.prota4u.org/" },
+        { "@type": "ListItem", "position": 15, "name": "Useful Tropical Plants Database", "url": "https://tropical.theferns.info/" }
       ]
     }
   }
@@ -129,7 +132,7 @@
 
 <div class="toolbar toolbar-grid">
   <input class="search-input" type="search" id="portalSearch" placeholder="Search by name, institution, region, or tradition…" autocomplete="off">
-  <span class="search-count" id="searchCount">12 portals</span>
+  <span class="search-count" id="searchCount">15 portals</span>
   <select class="access-select" id="accessFilter">
     <option value="">All Access Types</option>
     <option value="access-open">Open digital access</option>
@@ -145,6 +148,7 @@
   <button class="filter-pill" data-category="religion">Religion &amp; Sacred Traditions</button>
   <button class="filter-pill" data-category="music">Music &amp; Oral History</button>
   <button class="filter-pill" data-category="guide">Bibliographies &amp; Research Guides</button>
+  <button class="filter-pill" data-category="botanical">Botanical &amp; Ethnobotanical Databases</button>
 </div>
 
 <div class="portal-grid" id="portalGrid">
@@ -317,6 +321,48 @@
     </div>
   </a>
 
+  <a class="portal-card" href="https://sernecportal.org/portal/" target="_blank" rel="noopener noreferrer"
+     data-search="sernec portal southeast regional network expertise collections herbarium specimens gulf south hoodoo rootwork plant identification"
+     data-category="botanical" data-access="access-open">
+    <div class="portal-eyebrow">Botanical database</div>
+    <div class="portal-name">SERNEC Portal</div>
+    <div class="portal-institution">Consortium of 233 herbaria, southeastern United States</div>
+    <div class="portal-desc">Specimen images and metadata from 233 herbaria across 14 southeastern states, spanning roughly 150 years of botanical collection. Useful for identifying and cross-referencing Gulf South plant species documented in hoodoo and rootwork tradition.</div>
+    <div class="portal-meta">Coverage: Southeastern US, Gulf South · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://prota.prota4u.org/" target="_blank" rel="noopener noreferrer"
+     data-search="prota4u plant resources of tropical africa west africa useful plants medicinal food dye fiber yoruba ethnobotany verger"
+     data-category="botanical" data-access="access-open">
+    <div class="portal-eyebrow">Botanical database</div>
+    <div class="portal-name">PROTA4U · Plant Resources of Tropical Africa</div>
+    <div class="portal-institution">Originally an international documentation programme, active 2000–2013</div>
+    <div class="portal-desc">A searchable database of roughly 7,000 useful plants of tropical Africa, covering food, medicine, dye, fiber, and other traditional uses by scientific name, common name, and country. A direct companion resource to Pierre Verger's Yoruba ethnobotanical fieldwork underlying the Ewé Database.</div>
+    <div class="portal-meta">Coverage: Tropical Africa, West Africa · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access · legacy dataset</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://tropical.theferns.info/" target="_blank" rel="noopener noreferrer"
+     data-search="useful tropical plants database ken fern ajna fern ethnobotany edible medicinal pantropical caribbean africa"
+     data-category="botanical" data-access="access-open">
+    <div class="portal-eyebrow">Botanical database</div>
+    <div class="portal-name">Useful Tropical Plants Database</div>
+    <div class="portal-institution">Independent, volunteer-maintained (Ken Fern &amp; Ajna Fern)</div>
+    <div class="portal-desc">An independently maintained, fully-referenced database of edible, medicinal, and other traditional uses for more than 13,000 tropical and subtropical plant species. A useful cross-referencing tool for ethnobotanical uses recorded in the Ewé Database and Caribbean herbalism sources.</div>
+    <div class="portal-meta">Coverage: Pantropical, incl. Caribbean and Africa · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access · independent project</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
 </div>
 
 <div class="suggest-block">
@@ -377,8 +423,28 @@
   var pills = document.querySelectorAll('#categoryFilter .filter-pill');
   if (!searchEl || !countEl || !cards.length) return;
 
-  var activeCategory = '';
-  var activeAccess = '';
+  var params = new URLSearchParams(window.location.search);
+  var activeCategory = params.get('category') || '';
+  var activeAccess = params.get('access') || '';
+  var initialQuery = params.get('q') || '';
+
+  if (initialQuery) searchEl.value = initialQuery;
+  if (accessEl && activeAccess) accessEl.value = activeAccess;
+  if (activeCategory) {
+    pills.forEach(function (p) {
+      p.classList.toggle('active', p.dataset.category === activeCategory);
+    });
+  }
+
+  function syncUrl(query) {
+    var next = new URLSearchParams();
+    if (query) next.set('q', query);
+    if (activeCategory) next.set('category', activeCategory);
+    if (activeAccess) next.set('access', activeAccess);
+    var qs = next.toString();
+    var url = window.location.pathname + (qs ? '?' + qs : '');
+    window.history.replaceState(null, '', url);
+  }
 
   function applyFilters() {
     var query = searchEl.value.toLowerCase().trim();
@@ -392,6 +458,7 @@
       if (ok) visible++;
     });
     countEl.textContent = visible + (visible === 1 ? ' portal' : ' portals');
+    syncUrl(query);
   }
 
   searchEl.addEventListener('input', applyFilters);
@@ -409,6 +476,8 @@
       applyFilters();
     });
   });
+
+  applyFilters();
 })();
 </script>
 

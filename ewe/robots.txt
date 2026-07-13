@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medjat.irokosociety.org/ewe/sitemap.xml

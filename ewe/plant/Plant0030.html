@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Ewé Database — Iroko Historical Society">
+  <meta name="description" content="Ewé ìbọ̀ · Jatropha curcas in the Ewé Database, a public Iroko Historical Society plant record.">
   <title>Ewé ìbọ̀ · Jatropha curcas — Ewé Database</title>
   <link rel="canonical" href="https://medjat.irokosociety.org/ewe/plant/Plant0030.html">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Per Medjat - Iroko Historical Society">
   <meta property="og:title" content="Ewé ìbọ̀ · Jatropha curcas — Ewé Database">
-  <meta property="og:description" content="Ewé Database — Iroko Historical Society">
+  <meta property="og:description" content="Ewé ìbọ̀ · Jatropha curcas in the Ewé Database, a public Iroko Historical Society plant record.">
   <meta property="og:url" content="https://medjat.irokosociety.org/ewe/plant/Plant0030.html">
   <meta property="og:image" content="https://medjat.irokosociety.org/assets/og-pm-ewe.png">
   <meta property="og:image:width" content="1200">
@@ -17,27 +17,36 @@
   <meta property="og:image:type" content="image/png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Ewé ìbọ̀ · Jatropha curcas — Ewé Database">
-  <meta name="twitter:description" content="Ewé Database — Iroko Historical Society">
+  <meta name="twitter:description" content="Ewé ìbọ̀ · Jatropha curcas in the Ewé Database, a public Iroko Historical Society plant record.">
   <meta name="twitter:image" content="https://medjat.irokosociety.org/assets/og-pm-ewe.png">
   <meta name="generator" content="build_ewe.py">
   <meta name="build-dataset" content="Verger_Ewe_Dataset_v4.ttl">
   <meta name="build-version" content="Verger_Ewe_Dataset_v4">
-  <meta name="build-timestamp" content="2026-04-08T15:55:51+00:00">
+  <meta name="build-timestamp" content="2026-07-13T13:10:37+00:00">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
   <script type="application/ld+json">{
   "@context": {
-    "accessLevel": "https://ontology.irokosociety.org/iroko#accessLevel",
+    "accessLevel": {
+      "@id": "https://ontology.irokosociety.org/iroko#accessLevel",
+      "@type": "@id"
+    },
     "alternateName": "http://schema.org/alternateName",
     "identifier": "http://purl.org/dc/terms/identifier",
-    "medicinalUse": "https://ontology.irokosociety.org/iroko#medicinalUse",
+    "medicinalUse": {
+      "@id": "https://ontology.irokosociety.org/iroko#medicinalUse",
+      "@type": "@id"
+    },
     "name": "http://schema.org/name",
-    "ritualUse": "https://ontology.irokosociety.org/iroko#ritualUse",
+    "ritualUse": {
+      "@id": "https://ontology.irokosociety.org/iroko#ritualUse",
+      "@type": "@id"
+    },
     "scientificName": "http://rs.tdwg.org/dwc/terms/scientificName",
     "taxonomicStatus": "http://rs.tdwg.org/dwc/terms/taxonomicStatus"
   },
   "@id": "https://ontology.irokosociety.org/data/ewe/Plant0030",
   "@type": "https://ontology.irokosociety.org/iroko#EwePlantRecord",
-  "accessLevel": "access-public-unrestricted",
+  "accessLevel": "https://ontology.irokosociety.org/iroko#access-public-unrestricted",
   "alternateName": [
     {
       "@language": "es",
@@ -124,8 +133,12 @@
       "@value": "M\u00e9dicinier, m\u00e9dicinier b\u00e9ni, Medsinyen bat\u00e0, M\u00e9decinier Rouge, Bois-Ortolan, Graine Ortolan, Z\u00e8b Zotolan, Petit Medecinier"
     }
   ],
-  "medicinalUse": "General Tonic / Revitalizing",
-  "ritualUse": "Healing \u0026 Restoration",
+  "medicinalUse": [
+    "https://ontology.irokosociety.org/iroko#medicinal-general-tonic"
+  ],
+  "ritualUse": [
+    "https://ontology.irokosociety.org/iroko#ritual-healing-restoration"
+  ],
   "scientificName": "Jatropha curcas",
   "taxonomicStatus": "accepted"
 }</script>
@@ -175,6 +188,9 @@
       <div class="plant-header-meta">
         <span class="access-badge access-public access-badge-lg">Public – Unrestricted</span>
       </div>
+    </div>
+    <div class="plant-header-media">
+      <div class="plant-image-placeholder"><span>Plant0030</span></div>
     </div>
     <div><div class="lang-toggle">
   <button class="lang-btn" data-lang="en">EN</button>
@@ -314,7 +330,7 @@
     <div class="detail-section-title ui-copy" data-copy-key="sacred_knowledge">Sacred Knowledge</div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="ritual_use">Ritual Use</div>
-      <div class="use-value">Healing &amp; Restoration</div>
+        <div class="tag-cloud"><span class="use-value">Healing &amp; Restoration</span></div>
     </div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="ritual_notes">Ritual Notes</div>
@@ -328,7 +344,7 @@
     <div class="detail-section-title ui-copy" data-copy-key="classification">Classification</div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="medicinal_use">Medicinal Use</div>
-      <div class="use-value">General Tonic / Revitalizing</div>
+        <div class="tag-cloud"><span class="use-value">General Tonic / Revitalizing</span></div>
     </div>
     <div class="detail-row">
       <div class="detail-label ui-copy" data-copy-key="scientific_name">Scientific Name</div>
@@ -365,7 +381,7 @@
     <div class="footer-left">
       <div>Iroko Historical Society · Ewé Database</div>
       <div>Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
-      <div>Built from Verger_Ewe_Dataset_v4.ttl · 2026-04-08</div>
+      <div>Built from Verger_Ewe_Dataset_v4.ttl · 2026-07-13</div>
       <div>Pierre Fatumbi Verger, Ewé: The Use of Plants in Yoruba Society (1995); Dalia Quiros-Moran, Guide to Afro-Cuban Herbalism</div>
       <div class="footer-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
     </div>

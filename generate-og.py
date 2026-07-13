@@ -26,6 +26,7 @@ TYRIAN_PURPLE = (102, 2, 60)        # #66023C
 PAPER         = (246, 241, 219)     # #F6F1DB
 TERRACOTTA    = (139, 58, 26)       # #8B3A1A
 LAPIS         = (26, 52, 104)       # #1A3468
+GREEN_DARK    = (46, 74, 30)        # #2E4A1E
 GOLD_LABEL    = (225, 199, 138)     # #E1C78A
 CREAM_BOX     = PAPER
 
@@ -70,6 +71,13 @@ SCHEMES = {
         col_title = PAPER,
         col_sub   = _blend(PAPER, 0.75, LAPIS),
         col_dom   = (179, 189, 206),  # #B3BDCE, strengthened footer
+    ),
+    "portals": dict(
+        bg        = GREEN_DARK,
+        col_label = GOLD_LABEL,
+        col_title = PAPER,
+        col_sub   = _blend(PAPER, 0.75, GREEN_DARK),
+        col_dom   = _blend(PAPER, 0.55, GREEN_DARK),
     ),
 }
 
@@ -124,6 +132,13 @@ PAGES = [
          og_title="Hyatt Collection - Medjat Archives - Iroko Historical Society",
          og_description="A planned corpus of structured entries from hoodoo and rootwork materials within the Medjat Archives.",
          og_url=f"{BASE_URL}/hyatt/"),
+    dict(file="research-portals/index.html", slug="og-pm-research-portals", section="portals",
+         label="PER MEDJAT · RESEARCH PORTALS",
+         title="Research Portals",
+         subtitle="Curated external collections\nand research guides",
+         og_title="Research Portals - Per Medjat - Iroko Historical Society",
+         og_description="Curated links to external digital libraries, archives, audiovisual collections, finding aids, and research projects relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems. Independent institutions, not IHS holdings.",
+         og_url=f"{BASE_URL}/research-portals/"),
 ]
 
 _GOOGLE_SPECS = {

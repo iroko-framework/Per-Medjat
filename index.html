@@ -58,11 +58,22 @@
     .featured-cta:hover { background: var(--lapis); color: #fff; }
 
     .collection-card.planned { cursor: pointer; opacity: .85; }
+
+    /* Research Portals — external discovery block */
+    .portals-block { border: 1px solid var(--rule-strong); border-radius: 3px; padding: 1.4rem 1.8rem; display: grid; grid-template-columns: 1fr auto; gap: 1.5rem; align-items: center; margin-bottom: 2.5rem; text-decoration: none; transition: background .12s; }
+    .portals-block:hover { background: var(--paper-warm); }
+    .portals-block-label { font-family: var(--mono); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: .4rem; }
+    .portals-block-title { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: var(--ink-mid); margin-bottom: .3rem; }
+    .portals-block-desc { font-size: .85rem; color: var(--ink-mid); line-height: 1.6; max-width: 60ch; }
+    .portals-block-note { font-family: var(--mono); font-size: .6rem; letter-spacing: .03em; color: var(--ink-soft); margin-top: .5rem; }
+    .portals-block-arrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .08em; color: var(--ink-soft); white-space: nowrap; }
+
     @media (max-width: 680px) {
       .institution-grid { grid-template-columns: 1fr; }
       .featured-block { grid-template-columns: 1fr; gap: 1rem; }
       .medjat-stat-line { font-size: .6rem; letter-spacing: .04em; }
       .medjat-definition { font-size: .68rem; }
+      .portals-block { grid-template-columns: 1fr; gap: .75rem; }
     }
   </style>
   <!-- Google Analytics -->
@@ -121,6 +132,16 @@
     </a>
   </div>
 
+  <a class="portals-block" href="research-portals/">
+    <div>
+      <div class="portals-block-label">External discovery</div>
+      <div class="portals-block-title">Research Portals</div>
+      <div class="portals-block-desc">Curated external collections, archives, and research guides relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems.</div>
+      <div class="portals-block-note">Maintained by independent institutions · not IHS holdings</div>
+    </div>
+    <div class="portals-block-arrow">Explore Research Portals →</div>
+  </a>
+
   <p class="section-label">Featured Collection</p>
 
   <a class="featured-block" href="ewe/" style="text-decoration:none;display:grid;">
@@ -148,6 +169,7 @@
         <a href="/">Home</a>
         <a href="library/">Medjat Library</a>
         <a href="archives/">Medjat Archives</a>
+        <a href="research-portals/">Research Portals</a>
         <a href="entrusting/">Entrusting the Work</a>
       </div>
       <div class="footer-col">

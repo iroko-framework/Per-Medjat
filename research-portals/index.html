@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<!-- IHS ECOSYSTEM · Research Portals · medjat.irokosociety.org/research-portals/ · iroko-framework/Per-Medjat/research-portals/index.html -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Research Portals · Per Medjat · Iroko Historical Society</title>
+  <meta property="og:type"         content="website">
+  <meta property="og:site_name"    content="Per Medjat - Iroko Historical Society">
+  <meta property="og:title"        content="Research Portals - Per Medjat - Iroko Historical Society">
+  <meta property="og:description"  content="Curated links to external digital libraries, archives, audiovisual collections, finding aids, and research projects relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems. Independent institutions, not IHS holdings.">
+  <meta property="og:url"          content="https://medjat.irokosociety.org/research-portals/">
+  <meta property="og:image"        content="https://medjat.irokosociety.org/assets/og-pm-research-portals.png">
+  <meta property="og:image:width"  content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type"   content="image/png">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Research Portals - Per Medjat - Iroko Historical Society">
+  <meta name="twitter:description" content="Curated links to external digital libraries, archives, audiovisual collections, finding aids, and research projects relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems. Independent institutions, not IHS holdings.">
+  <meta name="twitter:image"       content="https://medjat.irokosociety.org/assets/og-pm-research-portals.png">  <meta name="description" content="Curated external collections, archives, and research guides relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems.">
+  <link rel="canonical" href="https://medjat.irokosociety.org/research-portals/">
+  <link rel="icon" type="image/svg+xml" href="../assets/IHS-Logo.svg">
+  <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
+  <link rel="stylesheet" href="../assets/styles.css">
+  <style>
+    .portals-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
+    .portals-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: .75rem; }
+    .portals-title { font-family: var(--serif); font-size: clamp(2rem, 4.5vw, 3.2rem); font-weight: 600; color: var(--green); line-height: 1.05; margin-bottom: .1rem; }
+    .portals-subtitle { font-family: var(--serif); font-size: clamp(1rem, 2.2vw, 1.5rem); font-style: italic; color: var(--ink-mid); margin-bottom: 1rem; }
+    .portals-lede { font-size: .92rem; color: var(--ink-mid); line-height: 1.8; max-width: 68ch; }
+
+    .disclaimer-block { border-left: 3px solid var(--ink-soft); padding: .9rem 1.2rem; background: var(--paper-warm); border-radius: 0 3px 3px 0; margin: 1.5rem 0 0; }
+    .disclaimer-block p { font-size: .85rem; color: var(--ink-mid); line-height: 1.7; }
+    .disclaimer-block p + p { margin-top: .6rem; }
+
+    /* Portal grid and cards */
+    .portal-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(300px,1fr)); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-bottom: 2rem; }
+    .portal-card { background: var(--paper); padding: 1.3rem 1.5rem; transition: background .12s; display: flex; flex-direction: column; gap: .4rem; text-decoration: none; }
+    .portal-card:hover { background: var(--paper-warm); }
+    .portal-card.hidden { display: none; }
+    .portal-eyebrow { font-family: var(--mono); font-size: .58rem; letter-spacing: .1em; color: var(--ink-soft); text-transform: uppercase; }
+    .portal-name { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; color: var(--green); line-height: 1.2; }
+    .portal-institution { font-size: .78rem; font-style: italic; color: var(--ink-soft); }
+    .portal-desc { font-size: .82rem; color: var(--ink-mid); line-height: 1.6; margin-top: .3rem; }
+    .portal-meta { font-family: var(--mono); font-size: .62rem; letter-spacing: .03em; color: var(--ink-soft); margin-top: .5rem; line-height: 1.6; }
+    .portal-foot { margin-top: .6rem; display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; justify-content: space-between; }
+    .portal-cta { font-family: var(--mono); font-size: .62rem; letter-spacing: .06em; text-transform: uppercase; color: var(--green-mid); }
+    .portal-card:hover .portal-cta { color: var(--terracotta); }
+
+    .access-badge.access-open { background: var(--green-light); color: var(--green); }
+    .access-badge.access-partial { background: var(--gold-light); color: var(--gold); }
+    .access-badge.access-finding-aid { background: #eaeff8; color: var(--lapis); }
+
+    .suggest-block { border: 1px dashed var(--rule-strong); border-radius: 3px; padding: 1.4rem 1.6rem; margin-top: .5rem; text-align: center; }
+    .suggest-block p { font-size: .85rem; color: var(--ink-mid); line-height: 1.6; max-width: 56ch; margin: 0 auto .9rem; }
+    .suggest-btn { font-family: var(--mono); font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; border: 1px solid var(--ink-soft); color: var(--ink-mid); padding: .5em 1.3em; border-radius: 2px; text-decoration: none; display: inline-block; transition: all .15s; }
+    .suggest-btn:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
+  </style>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S7WFXNP22P');
+  </script>
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="page-wrap top-bar-shell">
+    <span class="top-bar-id">
+      <img class="top-bar-logo" src="../assets/IHS-Logo.jpg" alt="Iroko Historical Society">
+      Iroko Historical Society · Research Portals
+    </span>
+    <nav class="top-bar-links">
+      <a href="https://medjat.irokosociety.org/">Per Medjat</a>
+      <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">IHS ↗</a>
+      <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+    </nav>
+  </div>
+</div>
+
+<div class="page-wrap">
+<header class="portals-hero">
+  <div class="portals-eyebrow">External discovery · Independent institutions</div>
+  <h1 class="portals-title">Research Portals</h1>
+  <p class="portals-subtitle">External collections and discovery resources</p>
+  <p class="portals-lede">
+    Curated links to digital libraries, archives, audiovisual collections, finding aids, and research projects
+    relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems.
+  </p>
+  <div class="disclaimer-block">
+    <p><strong>These resources are maintained by independent institutions and are not holdings of the Iroko Historical Society.</strong> IHS provides these links as a research service.</p>
+    <p>Inclusion indicates research relevance, not endorsement of an institution's terminology, custodial history, access practices, or interpretation of the communities represented.</p>
+  </div>
+</header>
+
+<div class="toolbar toolbar-grid">
+  <input class="search-input" type="search" id="portalSearch" placeholder="Search by name, institution, region, or tradition…" autocomplete="off">
+  <span class="search-count" id="searchCount">12 portals</span>
+  <select class="access-select" id="accessFilter">
+    <option value="">All Access Types</option>
+    <option value="access-open">Open digital access</option>
+    <option value="access-partial">Partial digital access</option>
+    <option value="access-finding-aid">Finding aid / metadata only</option>
+  </select>
+</div>
+
+<div class="filter-row" id="categoryFilter">
+  <button class="filter-pill active" data-category="">All Portals</button>
+  <button class="filter-pill" data-category="digital-library">Digital Libraries &amp; Repositories</button>
+  <button class="filter-pill" data-category="archive">Archives &amp; Manuscript Collections</button>
+  <button class="filter-pill" data-category="religion">Religion &amp; Sacred Traditions</button>
+  <button class="filter-pill" data-category="music">Music &amp; Oral History</button>
+  <button class="filter-pill" data-category="guide">Bibliographies &amp; Research Guides</button>
+</div>
+
+<div class="portal-grid" id="portalGrid">
+
+  <a class="portal-card" href="https://dloc.com/" target="_blank" rel="noopener noreferrer"
+     data-search="digital library of the caribbean dloc florida international university of florida virgin islands caribbean newspapers maps vodou"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Featured portal</div>
+    <div class="portal-name">Digital Library of the Caribbean</div>
+    <div class="portal-institution">Florida International University · University of Florida · University of the Virgin Islands</div>
+    <div class="portal-desc">A multi-institutional cooperative providing open access to Caribbean and circum-Caribbean cultural, historical, and research materials, including newspapers, maps, and partner archives. Parent portal for several specialized collections, including the Vodou Archive and MANIOC.</div>
+    <div class="portal-meta">Coverage: Caribbean, circum-Caribbean · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://dloc.com/collections/vodou" target="_blank" rel="noopener noreferrer"
+     data-search="vodou archive haiti haitian vodou university of florida duke university neh religion ritual"
+     data-category="religion" data-access="access-open">
+    <div class="portal-eyebrow">Hosted within dLOC</div>
+    <div class="portal-name">Vodou Archive</div>
+    <div class="portal-institution">University of Florida &amp; Duke University · NEH-funded</div>
+    <div class="portal-desc">Documents, photographs, audio, and video recordings pertaining to Haitian Vodou religion and culture. Materials include facsimiles, translations, and transcriptions curating primary sources on Vodou practice.</div>
+    <div class="portal-meta">Coverage: Haiti, Haitian diaspora · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://www.slavesocieties.org/" target="_blank" rel="noopener noreferrer"
+     data-search="slave societies digital archive ssda vanderbilt jane landers brazil cuba colombia florida angola benin ecclesiastical slavery"
+     data-category="archive" data-access="access-open">
+    <div class="portal-eyebrow">Featured portal</div>
+    <div class="portal-name">Slave Societies Digital Archive</div>
+    <div class="portal-institution">Vanderbilt University</div>
+    <div class="portal-desc">More than 700,000 digitized ecclesiastical and secular records documenting Africans and their descendants in Brazil, Cuba, Colombia, Florida, Angola, and Benin from the sixteenth through twentieth centuries. Searchable by collection, map, and named projects, including the Pierre Verger Manuscript from Benin.</div>
+    <div class="portal-meta">Coverage: Brazil, Cuba, Colombia, Florida, Angola, Benin · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://mads.si.edu/mads/id/NMNH-NAASubjectGuide_AfricanDiaspora_2024" target="_blank" rel="noopener noreferrer"
+     data-search="smithsonian african diaspora subject guide national anthropological archives sova finding aids bibliography"
+     data-category="guide" data-access="access-finding-aid">
+    <div class="portal-eyebrow">Featured portal</div>
+    <div class="portal-name">African Diaspora Subject Guide</div>
+    <div class="portal-institution">Smithsonian National Anthropological Archives</div>
+    <div class="portal-desc">A curated subject guide identifying archival collections across the Smithsonian's holdings relevant to the African Diaspora, linking into National Anthropological Archives and SOVA finding aids. A starting point for locating dispersed manuscript and recording collections rather than a collection in its own right.</div>
+    <div class="portal-meta">Coverage: Pan-African diaspora · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-finding-aid">Finding aid / metadata only</span>
+      <span class="portal-cta">Visit guide ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://aodl.org/" target="_blank" rel="noopener noreferrer"
+     data-search="african online digital library aodl michigan state university matrix west africa oral history islam apartheid"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Digital library</div>
+    <div class="portal-name">African Online Digital Library</div>
+    <div class="portal-institution">Michigan State University · Matrix</div>
+    <div class="portal-desc">An open-access library of digitized African cultural heritage materials, developed with museums, archives, and communities across the continent. Organized into thematic galleries covering oral history, Islam in West Africa, and apartheid-era South Africa.</div>
+    <div class="portal-meta">Coverage: Africa, West Africa emphasis · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://archive.culturalequity.org/" target="_blank" rel="noopener noreferrer"
+     data-search="lomax digital archive association for cultural equity alan lomax john lomax caribbean music oral history field recordings"
+     data-category="music" data-access="access-open">
+    <div class="portal-eyebrow">Featured portal</div>
+    <div class="portal-name">Lomax Digital Archive</div>
+    <div class="portal-institution">Association for Cultural Equity</div>
+    <div class="portal-desc">Free access to seven decades of field recordings, photographs, and film compiled by Alan Lomax and John A. Lomax, including Caribbean fieldwork from Haiti, the Bahamas, and Trinidad. A primary source base for Afro-Atlantic music, dance, and oral tradition.</div>
+    <div class="portal-meta">Coverage: Caribbean, US South, global · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://www.nypl.org/about/locations/schomburg/digital-schomburg" target="_blank" rel="noopener noreferrer"
+     data-search="digital schomburg new york public library nypl schomburg center for research in black culture black diaspora"
+     data-category="digital-library" data-access="access-partial">
+    <div class="portal-eyebrow">Digital library</div>
+    <div class="portal-name">Digital Schomburg</div>
+    <div class="portal-institution">New York Public Library · Schomburg Center for Research in Black Culture</div>
+    <div class="portal-desc">Curated digital exhibitions, digitized books, photographs, and oral histories on the global Black experience, produced by Schomburg Center staff and scholars. Broader than Medjat's Afro-Atlantic focus, but a strong entry point for cultural and intellectual context.</div>
+    <div class="portal-meta">Coverage: African Diaspora, broadly · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://louisianadigitallibrary.org/" target="_blank" rel="noopener noreferrer"
+     data-search="louisiana digital library lsu libraries digital consortium gulf south new orleans amistad"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Digital library</div>
+    <div class="portal-name">Louisiana Digital Library</div>
+    <div class="portal-institution">LSU Libraries · Louisiana Digital Consortium</div>
+    <div class="portal-desc">More than 400,000 digitized items from Louisiana archives, libraries, and museums, including photographs, maps, manuscripts, and oral histories. Hosts the digitized collections of several Gulf South partner institutions, including the Amistad Research Center.</div>
+    <div class="portal-meta">Coverage: Louisiana, Gulf South · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://amistadresearchcenter.org/" target="_blank" rel="noopener noreferrer"
+     data-search="amistad research center new orleans african american history civil rights independent archive"
+     data-category="archive" data-access="access-partial">
+    <div class="portal-eyebrow">Archive</div>
+    <div class="portal-name">Amistad Research Center</div>
+    <div class="portal-institution">Independent archive · New Orleans</div>
+    <div class="portal-desc">The nation's oldest and largest independent archive specializing in African American history, the African Diaspora, and the Modern Civil Rights Movement, holding over 33,000 books and extensive manuscript, art, and audiovisual collections. Selected materials are digitized through the Louisiana Digital Library; most of the collection requires an onsite research appointment.</div>
+    <div class="portal-meta">Coverage: Gulf South, African American history · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access · onsite by appointment</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://www.manioc.org/" target="_blank" rel="noopener noreferrer"
+     data-search="manioc bibliotheque numerique caraibe amazonie guyane universite des antilles guiana slavery ethnobotany"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Featured portal</div>
+    <div class="portal-name">MANIOC</div>
+    <div class="portal-institution">Université des Antilles · Université de Guyane consortium</div>
+    <div class="portal-desc">An open-access digital library covering the Caribbean, Amazonia, and the Guyana Plateau, built by roughly twenty partner institutions in the French Antilles, Guyana, and mainland France. Includes primary sources on slavery and ethnobotany alongside digitized books, periodicals, and images.</div>
+    <div class="portal-meta">Coverage: French Caribbean, Amazonia, Guiana · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://eap.bl.uk/" target="_blank" rel="noopener noreferrer"
+     data-search="endangered archives programme british library arcadia global africa caribbean latin america digitization"
+     data-category="archive" data-access="access-open">
+    <div class="portal-eyebrow">Archive</div>
+    <div class="portal-name">Endangered Archives Programme</div>
+    <div class="portal-institution">British Library · funded by Arcadia</div>
+    <div class="portal-desc">Grants and hosts digitized copies of endangered archival collections worldwide, with digitization equipment and training kept in the country of origin under the program's partnership model. Since 2004 it has digitized more than sixteen million images from over ninety countries, including numerous Afro-Atlantic and West African collections.</div>
+    <div class="portal-meta">Coverage: Global, incl. Africa, Caribbean, Latin America · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://lcdl.library.cofc.edu/institution/avery-research-center" target="_blank" rel="noopener noreferrer"
+     data-search="avery research center lowcountry digital library college of charleston south carolina gullah geechee african american"
+     data-category="archive" data-access="access-partial">
+    <div class="portal-eyebrow">Archive</div>
+    <div class="portal-name">Avery Research Center · Lowcountry Digital Library</div>
+    <div class="portal-institution">College of Charleston</div>
+    <div class="portal-desc">Archival and museum collections documenting African American history in Charleston and the South Carolina Lowcountry, including the Gullah Geechee region, held at the site of the former Avery Normal Institute. Digitized holdings are accessible through the Lowcountry Digital Library; the full collection is available onsite.</div>
+    <div class="portal-meta">Coverage: Charleston, SC Lowcountry, Gullah Geechee · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access · onsite research</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+</div>
+
+<div class="suggest-block">
+  <p>Know a collection that belongs here, or spot a broken link? Research Portals is a curated, hand-maintained directory, not an automated feed, and it improves with outside correction.</p>
+  <a class="suggest-btn" href="https://irokosociety.org/contact.html">Suggest a resource →</a>
+</div>
+
+<footer class="site-footer site-footer--green">
+  <div class="footer-inner-pm">
+    <div class="footer-org">
+      <div class="footer-org-name">Iroko Historical Society</div>
+      <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+      <div class="footer-org-meta">New Orleans-founded · Afro-Atlantic archives and research · Est. 2024</div>
+      <div class="footer-org-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+    </div>
+    <div class="footer-col">
+      <div class="footer-col-label">Per Medjat</div>
+      <a href="https://medjat.irokosociety.org/">Home</a>
+      <a href="https://medjat.irokosociety.org/library/">Medjat Library</a>
+      <a href="https://medjat.irokosociety.org/archives/">Medjat Archives</a>
+      <a href="https://medjat.irokosociety.org/research-portals/">Research Portals</a>
+      <a href="https://medjat.irokosociety.org/entrusting/">Entrusting the Work</a>
+    </div>
+    <div class="footer-col">
+      <div class="footer-col-label">IHS</div>
+      <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+      <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
+      <a href="https://ileanaolofi.org" target="_blank" rel="noopener">Ilé Añá Olofí ↗</a>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer--green { background: var(--green); border-top: none; padding: 2.5rem 0; margin-top: 2rem; }
+  .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
+  .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+  .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+  .footer-org-meta { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+  .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); margin-top: .5rem; }
+  .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
+  .footer-org-iao a:hover { color: #f7f4ed; }
+  .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+  .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+  .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
+  .footer-col a:hover { color: #f7f4ed; }
+  @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
+  @media (max-width: 760px) { .portal-grid { grid-template-columns: 1fr; } }
+</style>
+
+</div>
+
+<script>
+(function () {
+  var searchEl = document.getElementById('portalSearch');
+  var countEl = document.getElementById('searchCount');
+  var accessEl = document.getElementById('accessFilter');
+  var cards = document.querySelectorAll('.portal-card');
+  var pills = document.querySelectorAll('#categoryFilter .filter-pill');
+  if (!searchEl || !countEl || !cards.length) return;
+
+  var activeCategory = '';
+  var activeAccess = '';
+
+  function applyFilters() {
+    var query = searchEl.value.toLowerCase().trim();
+    var visible = 0;
+    cards.forEach(function (card) {
+      var hay = card.dataset.search || '';
+      var ok = (!query || hay.indexOf(query) >= 0) &&
+        (!activeCategory || card.dataset.category === activeCategory) &&
+        (!activeAccess || card.dataset.access === activeAccess);
+      card.classList.toggle('hidden', !ok);
+      if (ok) visible++;
+    });
+    countEl.textContent = visible + (visible === 1 ? ' portal' : ' portals');
+  }
+
+  searchEl.addEventListener('input', applyFilters);
+  if (accessEl) {
+    accessEl.addEventListener('change', function () {
+      activeAccess = accessEl.value;
+      applyFilters();
+    });
+  }
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function () {
+      pills.forEach(function (p) { p.classList.remove('active'); });
+      pill.classList.add('active');
+      activeCategory = pill.dataset.category;
+      applyFilters();
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

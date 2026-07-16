@@ -1336,8 +1336,8 @@
   schema:publisher "Estudios de Historia Novohispana" ;
   schema:sameAs <https://doi.org/10.22201/IIH.24486922E.2021.65.77116> ;
   dcterms:identifier "doi:10.22201/IIH.24486922E.2021.65.77116" ;
-  dcterms:language "sp" ;
-  schema:inLanguage "sp" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Ayuntamientos", "Bourbon reforms", "City Council", "New Spain", "Veracruz", "fiscal history", "intendentes", "jurisdicción fiscal", "milicias" .
 
 <https://medjat.irokosociety.org/id/library/5V885FIN>
@@ -1660,6 +1660,8 @@
   schema:author "Cristiana Bastos" ;
   schema:datePublished "1985" ;
   schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Death, Funerary Practices, and Mourning", "Health, Nursing, Elderly Care" .
 
 <https://medjat.irokosociety.org/id/library/5UQNWLS4>
@@ -2465,6 +2467,8 @@
   schema:publisher "África" ;
   schema:sameAs <https://doi.org/10.11606/issn.2526-303x.v0i14-15p69-80> ;
   dcterms:identifier "doi:10.11606/issn.2526-303x.v0i14-15p69-80" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Development, Ethics, and Society", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .
 
 <https://medjat.irokosociety.org/id/library/RAFXN7LZ>
@@ -4001,6 +4005,8 @@
   schema:datePublished "2007" ;
   schema:sameAs <https://doi.org/10.47749/t/unicamp.2007.399018> ;
   dcterms:identifier "doi:10.47749/t/unicamp.2007.399018" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "History of Colonial Brazil", "Migration, Racism, and Human Rights" .
 
 <https://medjat.irokosociety.org/id/library/KTGY7VTD>
@@ -5119,8 +5125,8 @@
   schema:author "Lydia Cabrera" ;
   schema:datePublished "1957" ;
   dcterms:identifier "isbn:0-89729-395-9" ;
-  dcterms:language "Yorùbá" ;
-  schema:inLanguage "yo" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Cuba", "Dialects", "Yoruba language" .
 
 <https://medjat.irokosociety.org/id/library/PKM7MRSC>
@@ -5814,6 +5820,8 @@
   schema:author "Michel Dal Col Costa" ;
   schema:datePublished "2013" ;
   schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Literature, Culture, and Criticism" .
 
 <https://medjat.irokosociety.org/id/library/S7KZLLMH>
@@ -6787,6 +6795,8 @@
   schema:datePublished "2011" ;
   schema:sameAs <https://doi.org/10.11606/d.8.2011.tde-11092012-105013> ;
   dcterms:identifier "doi:10.11606/d.8.2011.tde-11092012-105013" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Doping in Sports", "Martial Arts: Techniques, Psychology, and Education", "Physical Education and Sports Studies" .
 
 <https://medjat.irokosociety.org/id/library/V3KHJMEP>
@@ -7166,8 +7176,8 @@
   schema:author "Rigol Sera, Laureano Arturo" ;
   schema:datePublished "2024" ;
   schema:publisher "Revistas PUCP (Pontificia Universidad Católica del Perú)" ;
-  dcterms:language "sp" ;
-  schema:inLanguage "sp" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Anthropology", "Art", "Diversity (politics)", "Ethnology", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology" .
 
 <https://medjat.irokosociety.org/id/library/ZSJQ3K6D>
@@ -7990,6 +8000,8 @@
   schema:author "Vagner Gonçalves da Silva" ;
   schema:datePublished "1994" ;
   schema:publisher "Editora Atica eBooks" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics" .
 
 <https://medjat.irokosociety.org/id/library/VXMWIAVV>
@@ -8056,7 +8068,8 @@
   schema:datePublished "2014" ;
   schema:sameAs <https://doi.org/10.14201/gredos.126546> ;
   dcterms:identifier "doi:10.14201/gredos.126546" ;
-  dcterms:language "s" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Cuban History and Society" .
 
 <https://medjat.irokosociety.org/id/library/6FMYD4EQ>

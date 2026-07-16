@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "85Z4GB4C",
-    "version": 1560,
+    "version": 5042,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/85Z4GB4C",
     "dateAdded": "2026-05-19T14:17:07Z",
-    "dateModified": "2026-05-19T14:17:07Z"
+    "dateModified": "2026-07-16T23:10:43Z"
   },
   "display": {
     "title": "Conflitos entre jesuitas e colonos na America Portuguesa",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,12 +52,17 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "History of Colonial Brazil",
       "Migration, Racism, and Human Rights"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -81,6 +89,11 @@
       "field": "024",
       "label": "DOI",
       "value": "10.47749/t/unicamp.2007.399018"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

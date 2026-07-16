@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:21:20Z",
+  "generatedAt": "2026-07-16T23:14:13Z",
   "count": 643,
   "records": [
     {
@@ -4613,7 +4613,7 @@
         {
           "field": "041",
           "label": "Language",
-          "value": "sp [sp]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -5714,6 +5714,11 @@
           "field": "264",
           "label": "Published",
           "value": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT), 1985."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
         },
         {
           "field": "650",
@@ -8484,6 +8489,11 @@
           "field": "024",
           "label": "DOI",
           "value": "10.11606/issn.2526-303x.v0i14-15p69-80"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
         },
         {
           "field": "650",
@@ -13656,6 +13666,11 @@
           "value": "10.47749/t/unicamp.2007.399018"
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "History of Colonial Brazil"
@@ -17433,7 +17448,7 @@
         {
           "field": "041",
           "label": "Language",
-          "value": "Yorùbá [yo]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -19714,6 +19729,11 @@
           "field": "264",
           "label": "Published",
           "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2013."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
         },
         {
           "field": "650",
@@ -23441,6 +23461,11 @@
           "value": "10.11606/d.8.2011.tde-11092012-105013"
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "Doping in Sports"
@@ -24673,7 +24698,7 @@
         {
           "field": "041",
           "label": "Language",
-          "value": "sp [sp]"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",
@@ -27436,6 +27461,11 @@
           "value": "Editora Atica eBooks, 1994."
         },
         {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
           "field": "650",
           "label": "Subject",
           "value": "Religion and Society in Latin America"
@@ -27668,7 +27698,7 @@
         {
           "field": "041",
           "label": "Language",
-          "value": "s"
+          "value": "Spanish [es]"
         },
         {
           "field": "650",

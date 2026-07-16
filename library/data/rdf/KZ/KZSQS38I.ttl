@@ -15,4 +15,6 @@
   schema:author "Cristiana Bastos" ;
   schema:datePublished "1985" ;
   schema:publisher "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Death, Funerary Practices, and Mourning", "Health, Nursing, Elderly Care" .

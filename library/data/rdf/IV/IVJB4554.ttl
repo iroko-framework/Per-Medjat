@@ -18,4 +18,6 @@
   schema:publisher "África" ;
   schema:sameAs <https://doi.org/10.11606/issn.2526-303x.v0i14-15p69-80> ;
   dcterms:identifier "doi:10.11606/issn.2526-303x.v0i14-15p69-80" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Development, Ethics, and Society", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .

@@ -15,6 +15,6 @@
   schema:author "Lydia Cabrera" ;
   schema:datePublished "1957" ;
   dcterms:identifier "isbn:0-89729-395-9" ;
-  dcterms:language "Yorùbá" ;
-  schema:inLanguage "yo" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Cuba", "Dialects", "Yoruba language" .

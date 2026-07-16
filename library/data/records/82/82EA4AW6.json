@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "82EA4AW6",
-    "version": 4897,
+    "version": 5040,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/82EA4AW6",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-16T23:10:40Z"
   },
   "display": {
     "title": "Candomblé e Umbanda : caminhos da devoção brasileira",
@@ -36,11 +36,14 @@
     "pages": "",
     "abstract": "",
     "doi": "",
-    "url": "https://openalex.org/W629970783",
+    "url": "",
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Book",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Religion and Society in Latin America",
       "Religion, Society, and Development",
       "Urban and sociocultural dynamics"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -77,6 +85,11 @@
       "field": "264",
       "label": "Published",
       "value": "Editora Atica eBooks, 1994."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

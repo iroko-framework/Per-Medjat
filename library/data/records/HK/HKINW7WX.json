@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "HKINW7WX",
-    "version": 1647,
+    "version": 5041,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HKINW7WX",
     "dateAdded": "2026-05-19T14:17:20Z",
-    "dateModified": "2026-05-19T14:17:20Z"
+    "dateModified": "2026-07-16T23:10:42Z"
   },
   "display": {
     "title": "Capoeiras e valentões na história de São Paulo (1830-1930)",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Doping in Sports",
       "Martial Arts: Techniques, Psychology, and Education",
       "Physical Education and Sports Studies"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -82,6 +90,11 @@
       "field": "024",
       "label": "DOI",
       "value": "10.11606/d.8.2011.tde-11092012-105013"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

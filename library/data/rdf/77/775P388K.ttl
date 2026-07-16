@@ -16,4 +16,6 @@
   schema:author "Michel Dal Col Costa" ;
   schema:datePublished "2013" ;
   schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Literature, Culture, and Criticism" .

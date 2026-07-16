@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "IVJB4554",
-    "version": 886,
+    "version": 5038,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/IVJB4554",
     "dateAdded": "2026-05-18T23:51:40Z",
-    "dateModified": "2026-05-18T23:51:40Z"
+    "dateModified": "2026-07-16T23:10:37Z"
   },
   "display": {
     "title": "Bruxos e Magos",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Journal Article",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Development, Ethics, and Society",
       "Literature, Culture, and Criticism",
       "Race, Identity, and Education in Brazil"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -87,6 +95,11 @@
       "field": "024",
       "label": "DOI",
       "value": "10.11606/issn.2526-303x.v0i14-15p69-80"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

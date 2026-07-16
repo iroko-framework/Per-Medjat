@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "F3R8X7IW",
-    "version": 4753,
+    "version": 5034,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/F3R8X7IW",
     "dateAdded": "2026-05-19T13:28:50Z",
-    "dateModified": "2026-06-20T18:07:45Z"
+    "dateModified": "2026-07-16T23:03:20Z"
   },
   "display": {
     "title": "La Sociedad Secreta del Leopardo entre África y América: la búsqueda de una identidad",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "s"
+    "language": "es",
+    "languageCodes": [
+      "es"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -50,12 +53,15 @@
     "connects": [],
     "region": [],
     "language": [
-      "s"
+      "Spanish"
     ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Cuban History and Society"
+    ],
+    "languageCodes": [
+      "es"
     ]
   },
   "ifwk": {
@@ -86,7 +92,7 @@
     {
       "field": "041",
       "label": "Language",
-      "value": "s"
+      "value": "Spanish [es]"
     },
     {
       "field": "650",

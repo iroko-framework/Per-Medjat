@@ -17,4 +17,6 @@
   schema:datePublished "2011" ;
   schema:sameAs <https://doi.org/10.11606/d.8.2011.tde-11092012-105013> ;
   dcterms:identifier "doi:10.11606/d.8.2011.tde-11092012-105013" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Doping in Sports", "Martial Arts: Techniques, Psychology, and Education", "Physical Education and Sports Studies" .

@@ -17,4 +17,6 @@
   schema:datePublished "2007" ;
   schema:sameAs <https://doi.org/10.47749/t/unicamp.2007.399018> ;
   dcterms:identifier "doi:10.47749/t/unicamp.2007.399018" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "History of Colonial Brazil", "Migration, Racism, and Human Rights" .

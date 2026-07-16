@@ -67,15 +67,12 @@
   "language": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 596
+      "count": 590
     },
+    "Spanish": 15,
     "English": 14,
-    "Spanish": 11,
-    "Portuguese": 8,
-    "French": 5,
-    "sp": 2,
-    "Yorùbá": 1,
-    "s": 1
+    "Portuguese": 14,
+    "French": 5
   },
   "frameworkClasses": {},
   "frameworkModules": {

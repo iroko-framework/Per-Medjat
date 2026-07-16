@@ -15,4 +15,6 @@
   schema:author "Vagner Gonçalves da Silva" ;
   schema:datePublished "1994" ;
   schema:publisher "Editora Atica eBooks" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
   dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics" .

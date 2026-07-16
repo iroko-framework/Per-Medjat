@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "MP9FK9XE",
-    "version": 4586,
+    "version": 5024,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/MP9FK9XE",
     "dateAdded": "2026-05-04T01:04:16Z",
-    "dateModified": "2026-06-19T21:31:25Z"
+    "dateModified": "2026-07-16T23:03:05Z"
   },
   "display": {
     "title": "Los negros brujos",
@@ -40,7 +40,7 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "Spanish",
+    "language": "es",
     "languageCodes": [
       "es"
     ]

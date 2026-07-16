@@ -16,6 +16,6 @@
   schema:author "Rigol Sera, Laureano Arturo" ;
   schema:datePublished "2024" ;
   schema:publisher "Revistas PUCP (Pontificia Universidad Católica del Perú)" ;
-  dcterms:language "sp" ;
-  schema:inLanguage "sp" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
   dcterms:subject "Anthropology", "Art", "Diversity (politics)", "Ethnology", "History", "Humanities", "Musical", "Musical analysis", "Musical expression", "Sociology" .

@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "775P388K",
-    "version": 1956,
+    "version": 5039,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/775P388K",
     "dateAdded": "2026-05-19T14:18:48Z",
-    "dateModified": "2026-05-19T14:18:48Z"
+    "dateModified": "2026-07-16T23:10:39Z"
   },
   "display": {
     "title": "Caminhos da emancipação: redes solidárias de libertação dos escravos na região central do Espírito Santo oitocentista",
@@ -40,7 +40,10 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": ""
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
   },
   "publicTags": {
     "recordType": "Thesis / Dissertation",
@@ -49,13 +52,18 @@
     "domains": [],
     "connects": [],
     "region": [],
-    "language": [],
+    "language": [
+      "Portuguese"
+    ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
       "Colonialism, slavery, and trade",
       "History of Colonial Brazil",
       "Literature, Culture, and Criticism"
+    ],
+    "languageCodes": [
+      "pt"
     ]
   },
   "ifwk": {
@@ -77,6 +85,11 @@
       "field": "264",
       "label": "Published",
       "value": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas), 2013."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
     },
     {
       "field": "650",

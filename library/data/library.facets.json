@@ -6,11 +6,11 @@
     },
     "journalArticle": {
       "label": "Journal Article",
-      "count": 213
+      "count": 230
     },
     "book": {
       "label": "Book",
-      "count": 80
+      "count": 85
     },
     "bookSection": {
       "label": "Book Chapter",
@@ -32,10 +32,10 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 581
+      "count": 595
     },
     "West African traditions": 23,
-    "Central African traditions": 9,
+    "Central African traditions": 17,
     "Afro-Indigenous": 3,
     "Haitian Vodou": 3,
     "Syncretic/Creole": 3,
@@ -48,7 +48,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 607
+      "count": 629
     },
     "Material Culture": 3,
     "Secret Society": 3,
@@ -61,18 +61,18 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 616
+      "count": 638
     }
   },
   "language": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 585
+      "count": 596
     },
-    "English": 9,
-    "Spanish": 9,
-    "Portuguese": 5,
-    "French": 4,
+    "English": 14,
+    "Spanish": 11,
+    "Portuguese": 8,
+    "French": 5,
     "sp": 2,
     "Yorùbá": 1,
     "s": 1
@@ -82,7 +82,7 @@
     "Ewé": 2
   },
   "access": {
-    "Public": 610,
+    "Public": 632,
     "Community": 6
   }
 }

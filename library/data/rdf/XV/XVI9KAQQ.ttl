@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/XVI9KAQQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Kardecismo e Umbanda" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XVI9KAQQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XVI9KAQQ" ;
+  schema:author "João Baptista Borges Pereira" ;
+  schema:datePublished "1964" ;
+  schema:publisher "Revista de Antropologia" ;
+  schema:sameAs <https://doi.org/10.11606/2179-0892.ra.1964.110743> ;
+  dcterms:identifier "doi:10.11606/2179-0892.ra.1964.110743" ;
+  dcterms:subject "Religion and Society in Latin America" .

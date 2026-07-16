@@ -1,0 +1,21 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/3NVB96LY>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda and Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3NVB96LY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3NVB96LY" ;
+  schema:description "This article argues that scholarship on Umbanda (a distinctively Brazilian hybrid of Candomblé, Kardecist Spiritism, and popular Catholicism, with romanticized indigenous elements) manifests certain limitations that lead to insufficient emphasis on the religious tradition's internal doctrinal, ritual, and organizational variation. It compares the complex and ambivalent place of African traditions in Umbanda and Candomblé, highlighting the extent to which Umbanda has been seen as derivative, more distant from Africa. The article also notes other distorting factors such as centros in the southeast of Brazil being considered normative, and scholars focusing inordinately on the question of the tradition's “birth.” The case of Umbanda underlines the Brazilian context of Afro-Brazilian traditions, in contrast to an emphasis on transnationalism." ;
+  schema:author "Steven Engler" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Nova Religio The Journal of Alternative and Emergent Religions" ;
+  schema:sameAs <https://doi.org/10.1525/nr.2012.15.4.13> ;
+  dcterms:identifier "doi:10.1525/nr.2012.15.4.13" ;
+  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions" .

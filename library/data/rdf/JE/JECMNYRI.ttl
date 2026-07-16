@@ -1,0 +1,22 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/JECMNYRI>
+  a schema:ScholarlyArticle ;
+  schema:name "Mami Wata: Arts for Water Spirits in Africa and Its Diasporas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JECMNYRI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JECMNYRI" ;
+  schema:description "ForewordPrefaceAcknowledgmentsNotes on OrthographyIntroduction: Sources and Currents / Henry John Drewal Part I: Mami Wata in a Cultural Context1. Jolly Masquerades and Mammy Wata in Sierra Leone / John W. Nunley2. Mami in Baule, Guro, and Yaure Arts and Cultures / Henry John Drewal3. Dreamscapes: Sacred Arts for Mami Wata along the Togo-Benin Coast / Henry John Drewal4. The Bourian Masquerade: A Rite of Memory and Identity / Henry John Drewal5. The Many Manifestations of Mami Wata among the Igbo / Henry John Drewal6. Mamy Wata among the Annang Ibibio / Jill Salmons7. Mami Wata / Mamba Muntu Paintings in the Democratic Republic of the Congo / Bogumil Jewsiewicki8. Surfing Mami Wata's Virtual Watas: Mami Wata Resources on the Internet / Amy L. Noell Part II: Mami's Sisters in the African Atlantic9. Water Spirits of Haitian Voudou: Lasiren, Queen of Mermaids / Marilyn Houlberg10. Santa Marta la Dominadora - Afro-Catholic Saint and Dominican Vodu Power / Henry John Drewal11. Celebrating Salt and Sweet Waters: Yemanja and Oxum in Bahia, Brazil / Henry John Drewal Part 3: Mami Inspirations12. Mami as Artists' Muse / Henry John Drewal Notes to the TextReferences CitedIndexContributors" ;
+  schema:author "Henry John Drewal" ;
+  schema:creator "Marilyn Hammersley Houlberg", "Bogumił Jewsiewicki", "John W. Nunley", "Jill Salmons" ;
+  schema:datePublished "2008" ;
+  schema:publisher "African Arts" ;
+  schema:sameAs <https://doi.org/10.1162/afar.2008.41.2.60> ;
+  dcterms:identifier "doi:10.1162/afar.2008.41.2.60" ;
+  dcterms:subject "African history and culture studies" .

@@ -1,0 +1,162 @@
+{
+  "key": "I7QCZTXJ",
+  "uri": "https://medjat.irokosociety.org/id/library/I7QCZTXJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=I7QCZTXJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "I7QCZTXJ",
+    "version": 4846,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/I7QCZTXJ",
+    "dateAdded": "2026-07-16T19:51:29Z",
+    "dateModified": "2026-07-16T19:51:29Z"
+  },
+  "display": {
+    "title": "Umbanda en Venezuela",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "editor",
+        "name": "levi, danilo"
+      },
+      {
+        "role": "editor",
+        "name": "pollak-eltz, angelina"
+      }
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi94004464/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "es",
+    "languageCodes": [
+      "es"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "african influences",
+      "african influences -- venezuela",
+      "folk religion",
+      "folk religion -- venezuela",
+      "umbanda -- venezuela",
+      "venezuela"
+    ],
+    "languageCodes": [
+      "es"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "levi, danilo"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda en Venezuela"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1993."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish [es]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "african influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "african influences -- venezuela"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "folk religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "folk religion -- venezuela"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "umbanda -- venezuela"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "venezuela"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "pollak-eltz, angelina"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/I7/I7QCZTXJ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

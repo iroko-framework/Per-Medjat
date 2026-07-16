@@ -1072,6 +1072,41 @@
     "recordPath": "/library/data/records/IJ/IJNIQ37S.json"
   },
   {
+    "key": "4LQPVPBV",
+    "title": "21 Divisions Handbook",
+    "subtitle": "",
+    "creators": [
+      "Angelus Reignos"
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "",
+    "publicationLine": "2023.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL37928872W",
+    "searchText": "21 divisions handbook angelus reignos 2023 book book access: public english access: public medjat-search:21-divisiones",
+    "recordPath": "/library/data/records/4L/4LQPVPBV.json",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
     "key": "944NUPLG",
     "title": "A comparative history of commercial transition in three West African slave trading economies, 1630 to 1860",
     "subtitle": "",
@@ -1842,6 +1877,42 @@
     "recordPath": "/library/data/records/LJ/LJJ53WUH.json"
   },
   {
+    "key": "RZLKIJTX",
+    "title": "Umbanda, memória e esforço legitimador",
+    "subtitle": "",
+    "creators": [
+      "borges, dain",
+      "isaia, artur cesar"
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "",
+    "publicationLine": "1998.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi98015731/",
+    "searchText": "umbanda, memória e esforço legitimador borges, dain isaia, artur cesar 1998 journalarticle journal article portuguese medjat-search:umbanda",
+    "recordPath": "/library/data/records/RZ/RZLKIJTX.json",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  {
     "key": "7GJ66V9P",
     "title": "Sorting things Out: classification and its consequences",
     "subtitle": "",
@@ -2177,6 +2248,86 @@
     "url": "",
     "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book west african traditions art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
     "recordPath": "/library/data/records/8I/8IMEF25Y.json"
+  },
+  {
+    "key": "C226L4AS",
+    "title": "Umbanda and class relations in Brazil",
+    "subtitle": "",
+    "creators": [
+      "brown, diana degroat",
+      "harkess, shirley j."
+    ],
+    "year": "1979",
+    "date": "1979",
+    "publisher": "",
+    "publicationLine": "1979.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi81108353/",
+    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil english african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
+    "recordPath": "/library/data/records/C2/C226L4AS.json",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
+    "key": "J3NTRMM4",
+    "title": "Umbanda: religion and politics in urban Brazil",
+    "subtitle": "",
+    "creators": [
+      "brown, diana degroat",
+      "lovell, peggy a."
+    ],
+    "year": "1994",
+    "date": "1994",
+    "publisher": "",
+    "publicationLine": "1994.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi96001833/",
+    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs english african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
+    "recordPath": "/library/data/records/J3/J3NTRMM4.json",
+    "languageCodes": [
+      "en"
+    ]
   },
   {
     "key": "5A2KTKDF",
@@ -3899,6 +4050,46 @@
     "recordPath": "/library/data/records/5U/5UQNWLS4.json"
   },
   {
+    "key": "AELNGXBY",
+    "title": "História da Umbanda: uma religião brasileira",
+    "subtitle": "",
+    "creators": [
+      "cumino, alexandre",
+      "lima, shênia kellen de"
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "",
+    "publicationLine": "2010.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi2013002669/",
+    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article central african traditions brazil history religious life and customs spirit possession umbanda -- brazil portuguese brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
+    "recordPath": "/library/data/records/AE/AELNGXBY.json",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  {
     "key": "ESMN4JYZ",
     "title": "Potentialities of the Egúngún festival as a tool for tourism development in Ogbomoso, Nigeria",
     "subtitle": "",
@@ -4384,6 +4575,68 @@
     "url": "https://doi.org/10.18297/etd/1485",
     "searchText": "legislation and its effects on race relations in southeastern indiana, 1785-1860. derek d. varble 2014 thesis thesis / dissertation american constitutional law and politics american history and culture american constitutional law and politics american history and culture medjat-search:slave-law",
     "recordPath": "/library/data/records/RB/RB8MGK5P.json"
+  },
+  {
+    "key": "2JV6T2EB",
+    "title": "religion, class, and context: continuities and discontinuities in Brazilian Umbanda",
+    "subtitle": "",
+    "creators": [
+      "Diana Brown",
+      "Mario Bick"
+    ],
+    "year": "1987",
+    "date": "1987",
+    "publisher": "American Ethnologist",
+    "publicationLine": "American Ethnologist, 1987.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.1525/ae.1987.14.1.02a00050",
+    "url": "https://doi.org/10.1525/ae.1987.14.1.02a00050",
+    "searchText": "religion, class, and context: continuities and discontinuities in brazilian umbanda diana brown mario bick 1987 american ethnologist journalarticle journal article anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america medjat-search:umbanda",
+    "recordPath": "/library/data/records/2J/2JV6T2EB.json",
+    "volume": "14"
+  },
+  {
+    "key": "BEZLB3TV",
+    "title": "Umbanda : religion and politics in urban Brazil",
+    "subtitle": "",
+    "creators": [
+      "Diana Brown"
+    ],
+    "year": "1986",
+    "date": "1986",
+    "publisher": "Columbia University Press eBooks",
+    "publicationLine": "Columbia University Press eBooks, 1986.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://openalex.org/W1541218899",
+    "searchText": "umbanda : religion and politics in urban brazil diana brown 1986 columbia university press ebooks book book religion and society in latin america religion and society in latin america medjat-search:umbanda",
+    "recordPath": "/library/data/records/BE/BEZLB3TV.json"
   },
   {
     "key": "KRWX9CCH",
@@ -6348,6 +6601,46 @@
     "volume": "12"
   },
   {
+    "key": "2UNNWD7V",
+    "title": "Umbanda: investigación sobre religiosidad afro-brasileña en Montevideo",
+    "subtitle": "",
+    "creators": [
+      "hadis, benjamín",
+      "pallavicino, maría i."
+    ],
+    "year": "1982",
+    "date": "1982",
+    "publisher": "",
+    "publicationLine": "1982.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi91003427/",
+    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article central african traditions african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda -- uruguay uruguay spanish african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
+    "recordPath": "/library/data/records/2U/2UNNWD7V.json",
+    "languageCodes": [
+      "es"
+    ]
+  },
+  {
     "key": "LEQW3RZ6",
     "title": "A Study of Japanese Loanwords in Chinese",
     "subtitle": "",
@@ -6590,6 +6883,42 @@
     "recordPath": "/library/data/records/BW/BWA87A8Z.json"
   },
   {
+    "key": "2FUW98PL",
+    "title": "21 Divisions",
+    "subtitle": "",
+    "creators": [
+      "Hector Salva",
+      "Hoodoo Sen Moise"
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "",
+    "publicationLine": "2020.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL21664205W",
+    "searchText": "21 divisions hector salva hoodoo sen moise 2020 book book magic occultism witchcraft english magic occultism witchcraft medjat-search:21-divisiones",
+    "recordPath": "/library/data/records/2F/2FUW98PL.json",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
     "key": "2V75IC8C",
     "title": "Modelling Roman agricultural production in the Middle Tiber Valley, Central Italy",
     "subtitle": "",
@@ -6648,6 +6977,41 @@
     "url": "https://doi.org/10.1515/9780822385219",
     "searchText": "cuban music from a to z helio orovio 2004 book book cuban history and society cuban history and society medjat-search:abakuá",
     "recordPath": "/library/data/records/FM/FMWUHAXM.json"
+  },
+  {
+    "key": "JECMNYRI",
+    "title": "Mami Wata: Arts for Water Spirits in Africa and Its Diasporas",
+    "subtitle": "",
+    "creators": [
+      "Henry John Drewal",
+      "Marilyn Hammersley Houlberg",
+      "Bogumił Jewsiewicki",
+      "John W. Nunley",
+      "Jill Salmons"
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "African Arts",
+    "publicationLine": "African Arts, 2008.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.1162/afar.2008.41.2.60",
+    "url": "https://doi.org/10.1162/afar.2008.41.2.60",
+    "searchText": "mami wata: arts for water spirits in africa and its diasporas henry john drewal marilyn hammersley houlberg bogumił jewsiewicki john w. nunley jill salmons 2008 african arts journalarticle journal article african history and culture studies african history and culture studies medjat-search:21-divisions",
+    "recordPath": "/library/data/records/JE/JECMNYRI.json",
+    "volume": "41"
   },
   {
     "key": "JN5JRLSL",
@@ -9806,6 +10170,37 @@
     "volume": "21"
   },
   {
+    "key": "XVI9KAQQ",
+    "title": "Kardecismo e Umbanda",
+    "subtitle": "",
+    "creators": [
+      "João Baptista Borges Pereira"
+    ],
+    "year": "1964",
+    "date": "1964",
+    "publisher": "Revista de Antropologia",
+    "publicationLine": "Revista de Antropologia, 1964.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.11606/2179-0892.ra.1964.110743",
+    "url": "https://doi.org/10.11606/2179-0892.ra.1964.110743",
+    "searchText": "kardecismo e umbanda joão baptista borges pereira 1964 revista de antropologia journalarticle journal article religion and society in latin america religion and society in latin america medjat-search:umbanda",
+    "recordPath": "/library/data/records/XV/XVI9KAQQ.json",
+    "volume": "12"
+  },
+  {
     "key": "PYMPGDSP",
     "title": "Crime, mercado e controle social de elites: sobre o tratamento jurídico dado ao trabalho escravo",
     "subtitle": "",
@@ -11193,6 +11588,46 @@
     "recordPath": "/library/data/records/MC/MCRKSD9N.json"
   },
   {
+    "key": "YAQDCCC2",
+    "title": "Umbanda trance and possession in São Paulo, Brazil",
+    "subtitle": "",
+    "creators": [
+      "leacock, seth",
+      "pressel, esther joan"
+    ],
+    "year": "1974",
+    "date": "1974",
+    "publisher": "",
+    "publicationLine": "1974.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi77101373/",
+    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article central african traditions brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda -- brazil english brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
+    "recordPath": "/library/data/records/YA/YAQDCCC2.json",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
     "key": "QEP57C5S",
     "title": "Masters of Law: English Legal Culture and the Law of Slavery in Colonial South Carolina and the British Atlantic World, 1669-1783",
     "subtitle": "",
@@ -11374,6 +11809,46 @@
     "volume": "46"
   },
   {
+    "key": "I7QCZTXJ",
+    "title": "Umbanda en Venezuela",
+    "subtitle": "",
+    "creators": [
+      "levi, danilo",
+      "pollak-eltz, angelina"
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "",
+    "publicationLine": "1993.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi94004464/",
+    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article central african traditions african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda -- venezuela venezuela spanish african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
+    "recordPath": "/library/data/records/I7/I7QCZTXJ.json",
+    "languageCodes": [
+      "es"
+    ]
+  },
+  {
     "key": "B3MFQB6K",
     "title": "Slavery in the Republic of Texas",
     "subtitle": "",
@@ -11402,6 +11877,37 @@
     "url": "https://digital.library.unt.edu/ark:/67531/metadc504328/",
     "searchText": "slavery in the republic of texas linda myers purcell 1982 university of north texas digital library (university of north texas) thesis thesis / dissertation archaeology and natural history cuban history and society latin american and latino studies archaeology and natural history cuban history and society latin american and latino studies medjat-search:slave-law",
     "recordPath": "/library/data/records/B3/B3MFQB6K.json"
+  },
+  {
+    "key": "HJE4FXT5",
+    "title": "Hearing the mermaid's song: the Umbanda religion in Rio de Janeiro",
+    "subtitle": "",
+    "creators": [
+      "Lindsay Hale"
+    ],
+    "year": "2010",
+    "date": "2010",
+    "publisher": "Choice Reviews Online",
+    "publicationLine": "Choice Reviews Online, 2010.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.5860/choice.47-6328",
+    "url": "https://doi.org/10.5860/choice.47-6328",
+    "searchText": "hearing the mermaid's song: the umbanda religion in rio de janeiro lindsay hale 2010 choice reviews online journalarticle journal article anthropological studies and insights religion and society in latin america anthropological studies and insights religion and society in latin america medjat-search:umbanda",
+    "recordPath": "/library/data/records/HJ/HJE4FXT5.json",
+    "volume": "47"
   },
   {
     "key": "LK9EP643",
@@ -12020,6 +12526,37 @@
     "searchText": "portrayal of women characters in selected contemporary yoruba novels in nigeria lérè adéyemí mi ajibade 2009 african research review journalarticle journal article african sexualities and lgbtq+ issues gender roles and identity studies marriage and sexual relationships african sexualities and lgbtq+ issues gender roles and identity studies marriage and sexual relationships medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/52/52T6YFWR.json",
     "volume": "3"
+  },
+  {
+    "key": "ENNBGWFM",
+    "title": "Umbanda: entre a cruz e a encruzilhada",
+    "subtitle": "",
+    "creators": [
+      "Lísias Nogueira Negrão"
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "Tempo Social",
+    "publicationLine": "Tempo Social, 1993.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.1590/ts.v5i1/2.84951",
+    "url": "https://doi.org/10.1590/ts.v5i1/2.84951",
+    "searchText": "umbanda: entre a cruz e a encruzilhada lísias nogueira negrão 1993 tempo social journalarticle journal article religion and society in latin america religion, society, and development religion and society in latin america religion, society, and development medjat-search:umbanda",
+    "recordPath": "/library/data/records/EN/ENNBGWFM.json",
+    "volume": "5"
   },
   {
     "key": "ZN24MJKN",
@@ -13755,6 +14292,46 @@
     "recordPath": "/library/data/records/KZ/KZPB86KK.json"
   },
   {
+    "key": "NTWSWK8E",
+    "title": "Da doença à desordem: a magia na Umbanda",
+    "subtitle": "",
+    "creators": [
+      "montero, paula",
+      "norris, william p."
+    ],
+    "year": "1985",
+    "date": "1985",
+    "publisher": "",
+    "publicationLine": "1985.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi89006307/",
+    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article central african traditions brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda -- brazil portuguese brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
+    "recordPath": "/library/data/records/NT/NTWSWK8E.json",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  {
     "key": "SWZ96W7G",
     "title": "L. Cabrera. La sociedad secreta Abakuá, narrada por viejos adeptos",
     "subtitle": "",
@@ -15262,6 +15839,46 @@
     ]
   },
   {
+    "key": "KJFP9ZFE",
+    "title": "Umbandá, magie blanche, quimbandá, magie noire",
+    "subtitle": "",
+    "creators": [
+      "ortiz, renato",
+      "saunders, john v.d."
+    ],
+    "year": "1979",
+    "date": "1979",
+    "publisher": "",
+    "publicationLine": "1979.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "French"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi83108415/",
+    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda -- brazil french african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
+    "recordPath": "/library/data/records/KJ/KJFP9ZFE.json",
+    "languageCodes": [
+      "fr"
+    ]
+  },
+  {
     "key": "H8RF2YXE",
     "title": "Mídias: concessão e exclusão: um estudo da invisibilidade seletiva produzida pelos meios de comunicação de massa contra a população afro-brasileira e suas implicações nas relações raciais no Brasil contemporâneo",
     "subtitle": "",
@@ -16607,6 +17224,67 @@
     "recordPath": "/library/data/records/BL/BLIHW292.json"
   },
   {
+    "key": "EZ5XWX9A",
+    "title": "O Brasil com axé: candomblé e umbanda no mercado religioso",
+    "subtitle": "",
+    "creators": [
+      "Reginaldo ́Prandi"
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "Estudos Avançados",
+    "publicationLine": "Estudos Avançados, 2004.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.1590/s0103-40142004000300015",
+    "url": "https://doi.org/10.1590/s0103-40142004000300015",
+    "searchText": "o brasil com axé: candomblé e umbanda no mercado religioso reginaldo ́prandi 2004 estudos avançados journalarticle journal article religion and society in latin america religion and society in latin america medjat-search:umbanda",
+    "recordPath": "/library/data/records/EZ/EZ5XWX9A.json",
+    "volume": "18"
+  },
+  {
+    "key": "GQ8X5Z6A",
+    "title": "A morte branca do feiticeiro negro : Umbanda e sociedade brasileira",
+    "subtitle": "",
+    "creators": [
+      "Renato Ortiz"
+    ],
+    "year": "1991",
+    "date": "1991",
+    "publisher": "Editora Brasiliense eBooks",
+    "publicationLine": "Editora Brasiliense eBooks, 1991.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://openalex.org/W588441049",
+    "searchText": "a morte branca do feiticeiro negro : umbanda e sociedade brasileira renato ortiz 1991 editora brasiliense ebooks book book race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics medjat-search:umbanda",
+    "recordPath": "/library/data/records/GQ/GQ8X5Z6A.json"
+  },
+  {
     "key": "IGQK26FU",
     "title": "Exodus: Literary Migrations of Afro-Atlantic Authors, 1760-1903",
     "subtitle": "",
@@ -17875,6 +18553,68 @@
     "recordPath": "/library/data/records/7C/7C6B7LYD.json"
   },
   {
+    "key": "3NVB96LY",
+    "title": "Umbanda and Africa",
+    "subtitle": "",
+    "creators": [
+      "Steven Engler"
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Nova Religio The Journal of Alternative and Emergent Religions",
+    "publicationLine": "Nova Religio The Journal of Alternative and Emergent Religions, 2012.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.1525/nr.2012.15.4.13",
+    "url": "https://doi.org/10.1525/nr.2012.15.4.13",
+    "searchText": "umbanda and africa steven engler 2012 nova religio the journal of alternative and emergent religions journalarticle journal article african cultural and philosophical studies anthropological studies and insights religion and society interactions african cultural and philosophical studies anthropological studies and insights religion and society interactions medjat-search:umbanda",
+    "recordPath": "/library/data/records/3N/3NVB96LY.json",
+    "volume": "15"
+  },
+  {
+    "key": "34X7X6P3",
+    "title": "Umbanda and Hybridity",
+    "subtitle": "",
+    "creators": [
+      "Steven Engler"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Numen",
+    "publicationLine": "Numen, 2009.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.1163/002959709x12469430260084",
+    "url": "https://doi.org/10.1163/002959709x12469430260084",
+    "searchText": "umbanda and hybridity steven engler 2009 numen journalarticle journal article anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america medjat-search:umbanda",
+    "recordPath": "/library/data/records/34/34X7X6P3.json",
+    "volume": "56"
+  },
+  {
     "key": "8YXA2KST",
     "title": "The free world confronted: the problem of slavery and progress in American foreign relations, 1833-1844",
     "subtitle": "",
@@ -18634,6 +19374,36 @@
     "url": "https://openalex.org/W242726464",
     "searchText": "plantas utilizadas en las ceremonias de la sociedad secreta abakua: trabajo etnobotánico de los ritos del vudú v.r fuentes fiallo 2000 natura medicatrix: revista médica para el estudio y difusión de las medicinas alternativas journalarticle journal article african cultural and philosophical studies african cultural and philosophical studies medjat-search:abakuá",
     "recordPath": "/library/data/records/P7/P72Z9FZV.json"
+  },
+  {
+    "key": "82EA4AW6",
+    "title": "Candomblé e Umbanda : caminhos da devoção brasileira",
+    "subtitle": "",
+    "creators": [
+      "Vagner Gonçalves da Silva"
+    ],
+    "year": "1994",
+    "date": "1994",
+    "publisher": "Editora Atica eBooks",
+    "publicationLine": "Editora Atica eBooks, 1994.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://openalex.org/W629970783",
+    "searchText": "candomblé e umbanda : caminhos da devoção brasileira vagner gonçalves da silva 1994 editora atica ebooks book book religion and society in latin america religion, society, and development urban and sociocultural dynamics religion and society in latin america religion, society, and development urban and sociocultural dynamics medjat-search:umbanda",
+    "recordPath": "/library/data/records/82/82EA4AW6.json"
   },
   {
     "key": "VXMWIAVV",

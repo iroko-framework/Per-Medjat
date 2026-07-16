@@ -1,0 +1,115 @@
+{
+  "key": "4LQPVPBV",
+  "uri": "https://medjat.irokosociety.org/id/library/4LQPVPBV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=4LQPVPBV",
+  "zotero": {
+    "group": "6479329",
+    "key": "4LQPVPBV",
+    "version": 4915,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/4LQPVPBV",
+    "dateAdded": "2026-07-16T19:52:33Z",
+    "dateModified": "2026-07-16T20:04:13Z"
+  },
+  "display": {
+    "title": "21 Divisions Handbook",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Angelus Reignos"
+      }
+    ],
+    "year": "2023",
+    "date": "2023",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL37928872W",
+    "isbn": "1-304-78972-1",
+    "issn": "",
+    "university": "",
+    "language": "en",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public"
+    ],
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Angelus Reignos"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "21 Divisions Handbook"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2023."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "1-304-78972-1"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/4L/4LQPVPBV.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

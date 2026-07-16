@@ -1,0 +1,109 @@
+{
+  "key": "82EA4AW6",
+  "uri": "https://medjat.irokosociety.org/id/library/82EA4AW6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=82EA4AW6",
+  "zotero": {
+    "group": "6479329",
+    "key": "82EA4AW6",
+    "version": 4897,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/82EA4AW6",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "Candomblé e Umbanda : caminhos da devoção brasileira",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Vagner Gonçalves da Silva"
+      }
+    ],
+    "year": "1994",
+    "date": "1994",
+    "publisher": "Editora Atica eBooks",
+    "publicationTitle": "Editora Atica eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Editora Atica eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W629970783",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religion and Society in Latin America",
+      "Religion, Society, and Development",
+      "Urban and sociocultural dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Vagner Gonçalves da Silva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Candomblé e Umbanda : caminhos da devoção brasileira"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Editora Atica eBooks, 1994."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion, Society, and Development"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban and sociocultural dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/82/82EA4AW6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

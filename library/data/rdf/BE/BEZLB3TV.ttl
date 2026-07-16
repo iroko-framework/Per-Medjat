@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/BEZLB3TV>
+  a schema:Book ;
+  schema:name "Umbanda : religion and politics in urban Brazil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BEZLB3TV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BEZLB3TV" ;
+  schema:description "The history and development of the Brazilian religion Umbanda are explored in this text. The author describes the defining features of the religion, its practices, followers and beliefs, its dramatic geographical spread across the country, and its relationship to rapid urban growth." ;
+  schema:author "Diana Brown" ;
+  schema:datePublished "1986" ;
+  schema:publisher "Columbia University Press eBooks" ;
+  dcterms:subject "Religion and Society in Latin America" .

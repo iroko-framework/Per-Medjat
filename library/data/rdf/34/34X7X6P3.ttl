@@ -1,0 +1,21 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/34X7X6P3>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda and Hybridity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=34X7X6P3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:34X7X6P3" ;
+  schema:description "Abstract Scholars of religion continue to talk of syncretism where their colleagues have moved on to talk of hybridity. This paper reviews critiques of the latter concept and argues that “hybridity” can be a useful concept, but only if further specified. I follow Peter Wade in distinguishing between hybridity of origin (the combination of pre-existing forms), and hybridity of encounter (the result of diasporic movements). I propose a third type, hybridity of refraction, in order to highlight the manner in which religious or cultural phenomena refract social tensions within a specific nation or society, resulting in a spectrum of ritual, doctrinal and/or religious forms. The typology is not meant to be complete or mutually exclusive: it suggests the value of adopting distinct, potentially overlapping, perspectives on hybridization. I illustrate the heuristic value of this approach with the case of Umbanda, a twentieth-century Brazilian religion." ;
+  schema:author "Steven Engler" ;
+  schema:datePublished "2009" ;
+  schema:publisher "Numen" ;
+  schema:sameAs <https://doi.org/10.1163/002959709x12469430260084> ;
+  dcterms:identifier "doi:10.1163/002959709x12469430260084" ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America" .

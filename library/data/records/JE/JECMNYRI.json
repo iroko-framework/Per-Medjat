@@ -1,0 +1,145 @@
+{
+  "key": "JECMNYRI",
+  "uri": "https://medjat.irokosociety.org/id/library/JECMNYRI",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JECMNYRI",
+  "zotero": {
+    "group": "6479329",
+    "key": "JECMNYRI",
+    "version": 4909,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JECMNYRI",
+    "dateAdded": "2026-07-16T19:53:06Z",
+    "dateModified": "2026-07-16T19:53:06Z"
+  },
+  "display": {
+    "title": "Mami Wata: Arts for Water Spirits in Africa and Its Diasporas",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Henry John Drewal"
+      },
+      {
+        "role": "editor",
+        "name": "Marilyn Hammersley Houlberg"
+      },
+      {
+        "role": "editor",
+        "name": "Bogumił Jewsiewicki"
+      },
+      {
+        "role": "editor",
+        "name": "John W. Nunley"
+      },
+      {
+        "role": "editor",
+        "name": "Jill Salmons"
+      }
+    ],
+    "year": "2008",
+    "date": "2008",
+    "publisher": "African Arts",
+    "publicationTitle": "African Arts",
+    "bookTitle": "",
+    "journalAbbreviation": "African Arts",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "41",
+    "issue": "2",
+    "pages": "60-83",
+    "abstract": "ForewordPrefaceAcknowledgmentsNotes on OrthographyIntroduction: Sources and Currents / Henry John Drewal Part I: Mami Wata in a Cultural Context1. Jolly Masquerades and Mammy Wata in Sierra Leone / John W. Nunley2. Mami in Baule, Guro, and Yaure Arts and Cultures / Henry John Drewal3. Dreamscapes: Sacred Arts for Mami Wata along the Togo-Benin Coast / Henry John Drewal4. The Bourian Masquerade: A Rite of Memory and Identity / Henry John Drewal5. The Many Manifestations of Mami Wata among the Igbo / Henry John Drewal6. Mamy Wata among the Annang Ibibio / Jill Salmons7. Mami Wata / Mamba Muntu Paintings in the Democratic Republic of the Congo / Bogumil Jewsiewicki8. Surfing Mami Wata's Virtual Watas: Mami Wata Resources on the Internet / Amy L. Noell Part II: Mami's Sisters in the African Atlantic9. Water Spirits of Haitian Voudou: Lasiren, Queen of Mermaids / Marilyn Houlberg10. Santa Marta la Dominadora - Afro-Catholic Saint and Dominican Vodu Power / Henry John Drewal11. Celebrating Salt and Sweet Waters: Yemanja and Oxum in Bahia, Brazil / Henry John Drewal Part 3: Mami Inspirations12. Mami as Artists' Muse / Henry John Drewal Notes to the TextReferences CitedIndexContributors",
+    "doi": "10.1162/afar.2008.41.2.60",
+    "url": "https://doi.org/10.1162/afar.2008.41.2.60",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African history and culture studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Henry John Drewal"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mami Wata: Arts for Water Spirits in Africa and Its Diasporas"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "African Arts, 2008."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "60-83 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1162/afar.2008.41.2.60"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African history and culture studies"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Marilyn Hammersley Houlberg"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Bogumił Jewsiewicki"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "John W. Nunley"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Jill Salmons"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/JE/JECMNYRI.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1162/afar.2008.41.2.60"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

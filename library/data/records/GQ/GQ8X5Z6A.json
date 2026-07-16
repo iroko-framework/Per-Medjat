@@ -1,0 +1,109 @@
+{
+  "key": "GQ8X5Z6A",
+  "uri": "https://medjat.irokosociety.org/id/library/GQ8X5Z6A",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=GQ8X5Z6A",
+  "zotero": {
+    "group": "6479329",
+    "key": "GQ8X5Z6A",
+    "version": 4876,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GQ8X5Z6A",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "A morte branca do feiticeiro negro : Umbanda e sociedade brasileira",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Renato Ortiz"
+      }
+    ],
+    "year": "1991",
+    "date": "1991",
+    "publisher": "Editora Brasiliense eBooks",
+    "publicationTitle": "Editora Brasiliense eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Editora Brasiliense eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openalex.org/W588441049",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Race, Identity, and Education in Brazil",
+      "Religion and Society in Latin America",
+      "Urban and sociocultural dynamics"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Renato Ortiz"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A morte branca do feiticeiro negro : Umbanda e sociedade brasileira"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Editora Brasiliense eBooks, 1991."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Race, Identity, and Education in Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Urban and sociocultural dynamics"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/GQ/GQ8X5Z6A.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

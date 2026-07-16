@@ -1,0 +1,186 @@
+{
+  "key": "KJFP9ZFE",
+  "uri": "https://medjat.irokosociety.org/id/library/KJFP9ZFE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=KJFP9ZFE",
+  "zotero": {
+    "group": "6479329",
+    "key": "KJFP9ZFE",
+    "version": 4855,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/KJFP9ZFE",
+    "dateAdded": "2026-07-16T19:51:29Z",
+    "dateModified": "2026-07-16T19:51:29Z"
+  },
+  "display": {
+    "title": "Umbandá, magie blanche, quimbandá, magie noire",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "editor",
+        "name": "ortiz, renato"
+      },
+      {
+        "role": "editor",
+        "name": "saunders, john v.d."
+      }
+    ],
+    "year": "1979",
+    "date": "1979",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi83108415/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "fr",
+    "languageCodes": [
+      "fr"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "French"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "african influences",
+      "african influences -- brazil",
+      "brazil",
+      "deities",
+      "deities -- brazil",
+      "folk religion",
+      "folk religion -- brazil",
+      "rites and ceremonies",
+      "rites and ceremonies -- brazil",
+      "umbanda -- brazil"
+    ],
+    "languageCodes": [
+      "fr"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "ortiz, renato"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbandá, magie blanche, quimbandá, magie noire"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1979."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "French [fr]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "african influences"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "african influences -- brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "deities"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "deities -- brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "folk religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "folk religion -- brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "rites and ceremonies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "rites and ceremonies -- brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "umbanda -- brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "saunders, john v.d."
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/KJ/KJFP9ZFE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

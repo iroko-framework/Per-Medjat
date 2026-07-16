@@ -1,0 +1,112 @@
+{
+  "key": "RZLKIJTX",
+  "uri": "https://medjat.irokosociety.org/id/library/RZLKIJTX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RZLKIJTX",
+  "zotero": {
+    "group": "6479329",
+    "key": "RZLKIJTX",
+    "version": 4870,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RZLKIJTX",
+    "dateAdded": "2026-07-16T19:51:29Z",
+    "dateModified": "2026-07-16T19:51:29Z"
+  },
+  "display": {
+    "title": "Umbanda, memória e esforço legitimador",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "editor",
+        "name": "borges, dain"
+      },
+      {
+        "role": "editor",
+        "name": "isaia, artur cesar"
+      }
+    ],
+    "year": "1998",
+    "date": "1998",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi98015731/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "pt",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Portuguese"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [],
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "borges, dain"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda, memória e esforço legitimador"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1998."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "isaia, artur cesar"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/RZ/RZLKIJTX.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

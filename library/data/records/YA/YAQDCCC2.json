@@ -1,0 +1,156 @@
+{
+  "key": "YAQDCCC2",
+  "uri": "https://medjat.irokosociety.org/id/library/YAQDCCC2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YAQDCCC2",
+  "zotero": {
+    "group": "6479329",
+    "key": "YAQDCCC2",
+    "version": 4867,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YAQDCCC2",
+    "dateAdded": "2026-07-16T19:51:29Z",
+    "dateModified": "2026-07-16T19:51:29Z"
+  },
+  "display": {
+    "title": "Umbanda trance and possession in São Paulo, Brazil",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "editor",
+        "name": "leacock, seth"
+      },
+      {
+        "role": "editor",
+        "name": "pressel, esther joan"
+      }
+    ],
+    "year": "1974",
+    "date": "1974",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://www.loc.gov/item/hlas-bi77101373/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "en",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [
+      "Central African traditions"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "brazil",
+      "folk religion",
+      "são paulo, brazil (city)",
+      "são paulo, brazil (city) -- folk religion",
+      "umbanda -- brazil"
+    ],
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "leacock, seth"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda trance and possession in São Paulo, Brazil"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "1974."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "folk religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "são paulo, brazil (city)"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "são paulo, brazil (city) -- folk religion"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "umbanda -- brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "pressel, esther joan"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/YA/YAQDCCC2.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "key": "3NVB96LY",
+  "uri": "https://medjat.irokosociety.org/id/library/3NVB96LY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3NVB96LY",
+  "zotero": {
+    "group": "6479329",
+    "key": "3NVB96LY",
+    "version": 4894,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3NVB96LY",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "Umbanda and Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Steven Engler"
+      }
+    ],
+    "year": "2012",
+    "date": "2012",
+    "publisher": "Nova Religio The Journal of Alternative and Emergent Religions",
+    "publicationTitle": "Nova Religio The Journal of Alternative and Emergent Religions",
+    "bookTitle": "",
+    "journalAbbreviation": "Nova Religio The Journal of Alternative and Emergent Religions",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "15",
+    "issue": "4",
+    "pages": "13-35",
+    "abstract": "This article argues that scholarship on Umbanda (a distinctively Brazilian hybrid of Candomblé, Kardecist Spiritism, and popular Catholicism, with romanticized indigenous elements) manifests certain limitations that lead to insufficient emphasis on the religious tradition's internal doctrinal, ritual, and organizational variation. It compares the complex and ambivalent place of African traditions in Umbanda and Candomblé, highlighting the extent to which Umbanda has been seen as derivative, more distant from Africa. The article also notes other distorting factors such as centros in the southeast of Brazil being considered normative, and scholars focusing inordinately on the question of the tradition's “birth.” The case of Umbanda underlines the Brazilian context of Afro-Brazilian traditions, in contrast to an emphasis on transnationalism.",
+    "doi": "10.1525/nr.2012.15.4.13",
+    "url": "https://doi.org/10.1525/nr.2012.15.4.13",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "African cultural and philosophical studies",
+      "Anthropological Studies and Insights",
+      "Religion and Society Interactions"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Steven Engler"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda and Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Nova Religio The Journal of Alternative and Emergent Religions, 2012."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "13-35 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1525/nr.2012.15.4.13"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African cultural and philosophical studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society Interactions"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/3N/3NVB96LY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1525/nr.2012.15.4.13"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

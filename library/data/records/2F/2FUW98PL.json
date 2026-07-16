@@ -1,0 +1,136 @@
+{
+  "key": "2FUW98PL",
+  "uri": "https://medjat.irokosociety.org/id/library/2FUW98PL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2FUW98PL",
+  "zotero": {
+    "group": "6479329",
+    "key": "2FUW98PL",
+    "version": 4903,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2FUW98PL",
+    "dateAdded": "2026-07-16T19:52:33Z",
+    "dateModified": "2026-07-16T19:52:33Z"
+  },
+  "display": {
+    "title": "21 Divisions",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Hector Salva"
+      },
+      {
+        "role": "series editor",
+        "name": "Hoodoo Sen Moise"
+      }
+    ],
+    "year": "2020",
+    "date": "2020",
+    "publisher": "",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://openlibrary.org/works/OL21664205W",
+    "isbn": "1-63341-154-0",
+    "issn": "",
+    "university": "",
+    "language": "en",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Magic",
+      "Occultism",
+      "Witchcraft"
+    ],
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Hector Salva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "21 Divisions"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "2020."
+    },
+    {
+      "field": "020",
+      "label": "ISBN",
+      "value": "1-63341-154-0"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Magic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Occultism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Witchcraft"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Hoodoo Sen Moise"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2F/2FUW98PL.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

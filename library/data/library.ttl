@@ -466,6 +466,19 @@
   dcterms:identifier "doi:10.25148/etd.fidc000734" ;
   dcterms:subject "Caribbean history, culture, and politics", "Cultural Identity and Representation", "Globalization and Cultural Identity" .
 
+<https://medjat.irokosociety.org/id/library/4LQPVPBV>
+  a schema:Book ;
+  schema:name "21 Divisions Handbook" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4LQPVPBV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4LQPVPBV" ;
+  schema:author "Angelus Reignos" ;
+  schema:datePublished "2023" ;
+  dcterms:identifier "isbn:1-304-78972-1" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  dcterms:subject "Access: Public" .
+
 <https://medjat.irokosociety.org/id/library/944NUPLG>
   a schema:Thesis ;
   schema:name "A comparative history of commercial transition in three West African slave trading economies, 1630 to 1860" ;
@@ -784,6 +797,17 @@
   dcterms:identifier "doi:10.4324/9781315829630-11" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Hispanic-African Historical Relations", "Language, Linguistics, Cultural Analysis" .
 
+<https://medjat.irokosociety.org/id/library/RZLKIJTX>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda, memória e esforço legitimador" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=RZLKIJTX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:RZLKIJTX" ;
+  schema:creator "borges, dain", "isaia, artur cesar" ;
+  schema:datePublished "1998" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" .
+
 <https://medjat.irokosociety.org/id/library/7GJ66V9P>
   a schema:Book ;
   schema:name "Sorting things Out: classification and its consequences" ;
@@ -919,6 +943,32 @@
   dcterms:identifier "isbn:0-226-07610-5" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
   dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "West African traditions" .
+
+<https://medjat.irokosociety.org/id/library/C226L4AS>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda and class relations in Brazil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C226L4AS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C226L4AS" ;
+  schema:creator "brown, diana degroat", "harkess, shirley j." ;
+  schema:datePublished "1979" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "social classes", "social classes -- brazil", "social structure", "social structure -- brazil", "Central African traditions" .
+
+<https://medjat.irokosociety.org/id/library/J3NTRMM4>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda: religion and politics in urban Brazil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=J3NTRMM4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:J3NTRMM4" ;
+  schema:creator "brown, diana degroat", "lovell, peggy a." ;
+  schema:datePublished "1994" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "politics and government", "religious life and customs", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/5A2KTKDF>
   a schema:ScholarlyArticle ;
@@ -1624,6 +1674,19 @@
   schema:publisher "Artecubano: revista de artes visuales" ;
   dcterms:subject "Cinema History and Criticism", "Cuban History and Society" .
 
+<https://medjat.irokosociety.org/id/library/AELNGXBY>
+  a schema:ScholarlyArticle ;
+  schema:name "História da Umbanda: uma religião brasileira" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AELNGXBY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AELNGXBY" ;
+  schema:creator "cumino, alexandre", "lima, shênia kellen de" ;
+  schema:datePublished "2010" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/ESMN4JYZ>
   a schema:ScholarlyArticle ;
   schema:name "Potentialities of the Egúngún festival as a tool for tourism development in Ogbomoso, Nigeria" ;
@@ -1818,6 +1881,33 @@
   schema:sameAs <https://doi.org/10.18297/etd/1485> ;
   dcterms:identifier "doi:10.18297/etd/1485" ;
   dcterms:subject "American Constitutional Law and Politics", "American History and Culture" .
+
+<https://medjat.irokosociety.org/id/library/2JV6T2EB>
+  a schema:ScholarlyArticle ;
+  schema:name "religion, class, and context: continuities and discontinuities in Brazilian Umbanda" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2JV6T2EB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2JV6T2EB" ;
+  schema:description "Earlier research on Afro‐Brazilian religions, influenced by static and simplistic models of syncretism and acculturation, underestimated their fluid and politically sensitive nature. Recent ethnographic and historical approaches to these religions show a complex interplay among elements of Catholicism, African, and other religious practices that responds to changing political and social conditions. This processual complexity is illustrated in the history of Umbanda, which has relied on various sources for the construction of its ideology and ritual within contexts variously charged by the expression of class interests, racial identities, and political positions." ;
+  schema:author "Diana Brown" ;
+  schema:creator "Mario Bick" ;
+  schema:datePublished "1987" ;
+  schema:publisher "American Ethnologist" ;
+  schema:sameAs <https://doi.org/10.1525/ae.1987.14.1.02a00050> ;
+  dcterms:identifier "doi:10.1525/ae.1987.14.1.02a00050" ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America" .
+
+<https://medjat.irokosociety.org/id/library/BEZLB3TV>
+  a schema:Book ;
+  schema:name "Umbanda : religion and politics in urban Brazil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BEZLB3TV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BEZLB3TV" ;
+  schema:description "The history and development of the Brazilian religion Umbanda are explored in this text. The author describes the defining features of the religion, its practices, followers and beliefs, its dramatic geographical spread across the country, and its relationship to rapid urban growth." ;
+  schema:author "Diana Brown" ;
+  schema:datePublished "1986" ;
+  schema:publisher "Columbia University Press eBooks" ;
+  dcterms:subject "Religion and Society in Latin America" .
 
 <https://medjat.irokosociety.org/id/library/KRWX9CCH>
   a schema:Thesis ;
@@ -2640,6 +2730,19 @@
   dcterms:identifier "doi:10.4000/echogeo.11706" ;
   dcterms:subject "Cuban History and Society" .
 
+<https://medjat.irokosociety.org/id/library/2UNNWD7V>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda: investigación sobre religiosidad afro-brasileña en Montevideo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2UNNWD7V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2UNNWD7V" ;
+  schema:creator "hadis, benjamín", "pallavicino, maría i." ;
+  schema:datePublished "1982" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "african influences", "african influences -- uruguay", "montevideo", "montevideo (uruguay)", "montevideo, uruguay (city)", "montevideo, uruguay (city) -- umbanda", "religious life and customs", "umbanda -- uruguay", "uruguay", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/LEQW3RZ6>
   a schema:Thesis ;
   schema:name "A Study of Japanese Loanwords in Chinese" ;
@@ -2740,6 +2843,20 @@
   schema:publisher "TSpace" ;
   dcterms:subject "Anthropological Studies and Insights", "Indigenous Health, Education, and Rights", "Water Governance and Infrastructure" .
 
+<https://medjat.irokosociety.org/id/library/2FUW98PL>
+  a schema:Book ;
+  schema:name "21 Divisions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2FUW98PL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2FUW98PL" ;
+  schema:author "Hector Salva" ;
+  schema:creator "Hoodoo Sen Moise" ;
+  schema:datePublished "2020" ;
+  dcterms:identifier "isbn:1-63341-154-0" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  dcterms:subject "Magic", "Occultism", "Witchcraft" .
+
 <https://medjat.irokosociety.org/id/library/2V75IC8C>
   a schema:Thesis ;
   schema:name "Modelling Roman agricultural production in the Middle Tiber Valley, Central Italy" ;
@@ -2764,6 +2881,21 @@
   schema:sameAs <https://doi.org/10.1515/9780822385219> ;
   dcterms:identifier "doi:10.1515/9780822385219" ;
   dcterms:subject "Cuban History and Society" .
+
+<https://medjat.irokosociety.org/id/library/JECMNYRI>
+  a schema:ScholarlyArticle ;
+  schema:name "Mami Wata: Arts for Water Spirits in Africa and Its Diasporas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JECMNYRI> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JECMNYRI" ;
+  schema:description "ForewordPrefaceAcknowledgmentsNotes on OrthographyIntroduction: Sources and Currents / Henry John Drewal Part I: Mami Wata in a Cultural Context1. Jolly Masquerades and Mammy Wata in Sierra Leone / John W. Nunley2. Mami in Baule, Guro, and Yaure Arts and Cultures / Henry John Drewal3. Dreamscapes: Sacred Arts for Mami Wata along the Togo-Benin Coast / Henry John Drewal4. The Bourian Masquerade: A Rite of Memory and Identity / Henry John Drewal5. The Many Manifestations of Mami Wata among the Igbo / Henry John Drewal6. Mamy Wata among the Annang Ibibio / Jill Salmons7. Mami Wata / Mamba Muntu Paintings in the Democratic Republic of the Congo / Bogumil Jewsiewicki8. Surfing Mami Wata's Virtual Watas: Mami Wata Resources on the Internet / Amy L. Noell Part II: Mami's Sisters in the African Atlantic9. Water Spirits of Haitian Voudou: Lasiren, Queen of Mermaids / Marilyn Houlberg10. Santa Marta la Dominadora - Afro-Catholic Saint and Dominican Vodu Power / Henry John Drewal11. Celebrating Salt and Sweet Waters: Yemanja and Oxum in Bahia, Brazil / Henry John Drewal Part 3: Mami Inspirations12. Mami as Artists' Muse / Henry John Drewal Notes to the TextReferences CitedIndexContributors" ;
+  schema:author "Henry John Drewal" ;
+  schema:creator "Marilyn Hammersley Houlberg", "Bogumił Jewsiewicki", "John W. Nunley", "Jill Salmons" ;
+  schema:datePublished "2008" ;
+  schema:publisher "African Arts" ;
+  schema:sameAs <https://doi.org/10.1162/afar.2008.41.2.60> ;
+  dcterms:identifier "doi:10.1162/afar.2008.41.2.60" ;
+  dcterms:subject "African history and culture studies" .
 
 <https://medjat.irokosociety.org/id/library/JN5JRLSL>
   a schema:ScholarlyArticle ;
@@ -4081,6 +4213,19 @@
   schema:publisher "Revista Sexología y Sociedad" ;
   dcterms:subject "Cuban History and Society", "Gender and Feminist Studies" .
 
+<https://medjat.irokosociety.org/id/library/XVI9KAQQ>
+  a schema:ScholarlyArticle ;
+  schema:name "Kardecismo e Umbanda" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XVI9KAQQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XVI9KAQQ" ;
+  schema:author "João Baptista Borges Pereira" ;
+  schema:datePublished "1964" ;
+  schema:publisher "Revista de Antropologia" ;
+  schema:sameAs <https://doi.org/10.11606/2179-0892.ra.1964.110743> ;
+  dcterms:identifier "doi:10.11606/2179-0892.ra.1964.110743" ;
+  dcterms:subject "Religion and Society in Latin America" .
+
 <https://medjat.irokosociety.org/id/library/PYMPGDSP>
   a schema:Thesis ;
   schema:name "Crime, mercado e controle social de elites: sobre o tratamento jurídico dado ao trabalho escravo" ;
@@ -4666,6 +4811,19 @@
   dcterms:identifier "doi:10.25959/23210483" ;
   dcterms:subject "Australian History and Society", "Caribbean history, culture, and politics" .
 
+<https://medjat.irokosociety.org/id/library/YAQDCCC2>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda trance and possession in São Paulo, Brazil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YAQDCCC2> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YAQDCCC2" ;
+  schema:creator "leacock, seth", "pressel, esther joan" ;
+  schema:datePublished "1974" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "brazil", "folk religion", "são paulo, brazil (city)", "são paulo, brazil (city) -- folk religion", "umbanda -- brazil", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/QEP57C5S>
   a schema:Thesis ;
   schema:name "Masters of Law: English Legal Culture and the Law of Slavery in Colonial South Carolina and the British Atlantic World, 1669-1783" ;
@@ -4745,6 +4903,19 @@
   dcterms:identifier "doi:10.1353/cub.2018.0010" ;
   dcterms:subject "Cuban History and Society", "Spanish Literature and Culture Studies", "Theater, Performance, and Music History" .
 
+<https://medjat.irokosociety.org/id/library/I7QCZTXJ>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda en Venezuela" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=I7QCZTXJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:I7QCZTXJ" ;
+  schema:creator "levi, danilo", "pollak-eltz, angelina" ;
+  schema:datePublished "1993" ;
+  dcterms:language "Spanish" ;
+  schema:inLanguage "es" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "african influences", "african influences -- venezuela", "folk religion", "folk religion -- venezuela", "umbanda -- venezuela", "venezuela", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/B3MFQB6K>
   a schema:Thesis ;
   schema:name "Slavery in the Republic of Texas" ;
@@ -4756,6 +4927,20 @@
   schema:datePublished "1982" ;
   schema:publisher "University of North Texas Digital Library (University of North Texas)" ;
   dcterms:subject "Archaeology and Natural History", "Cuban History and Society", "Latin American and Latino Studies" .
+
+<https://medjat.irokosociety.org/id/library/HJE4FXT5>
+  a schema:ScholarlyArticle ;
+  schema:name "Hearing the mermaid's song: the Umbanda religion in Rio de Janeiro" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HJE4FXT5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HJE4FXT5" ;
+  schema:description "77C h a p t e r 5. Cabocla Jurem a / 94 C h a p t e r 6." ;
+  schema:author "Lindsay Hale" ;
+  schema:datePublished "2010" ;
+  schema:publisher "Choice Reviews Online" ;
+  schema:sameAs <https://doi.org/10.5860/choice.47-6328> ;
+  dcterms:identifier "doi:10.5860/choice.47-6328" ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society in Latin America" .
 
 <https://medjat.irokosociety.org/id/library/LK9EP643>
   a schema:Book ;
@@ -5016,6 +5201,20 @@
   schema:sameAs <https://doi.org/10.4314/afrrev.v3i3.47518> ;
   dcterms:identifier "doi:10.4314/afrrev.v3i3.47518" ;
   dcterms:subject "African Sexualities and LGBTQ+ Issues", "Gender Roles and Identity Studies", "Marriage and Sexual Relationships" .
+
+<https://medjat.irokosociety.org/id/library/ENNBGWFM>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda: entre a cruz e a encruzilhada" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ENNBGWFM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ENNBGWFM" ;
+  schema:description "O artigo considera a umbanda, religião afro-brasileira de constituição recente, como estando dividida entre os apelos de suas raízes negras e os atrativos legitimadores da adoção dos princípios éticos cristãos. Embora pouco racionalizada e postulando uma visão de mundo predominantemente encantada, vem crescentemente moralizando-se a partir, sobretudo, das influências do ideal kardecista da caridade. Tal incorporação não é, contudo, linear, mas reinterpretada a partir da vivência concreta de seus agentes e moderada pela necessidade da cobrança por serviços religiosos prestados e pela \"demanda\", concepção mágica de conflito inter-individual." ;
+  schema:author "Lísias Nogueira Negrão" ;
+  schema:datePublished "1993" ;
+  schema:publisher "Tempo Social" ;
+  schema:sameAs <https://doi.org/10.1590/ts.v5i1/2.84951> ;
+  dcterms:identifier "doi:10.1590/ts.v5i1/2.84951" ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development" .
 
 <https://medjat.irokosociety.org/id/library/ZN24MJKN>
   a schema:Thesis ;
@@ -5731,6 +5930,19 @@
   dcterms:identifier "doi:10.7916/d8-kzwv-v408" ;
   dcterms:subject "Historical and Modern Theater Studies", "Latin American and Latino Studies", "Translation Studies and Practices" .
 
+<https://medjat.irokosociety.org/id/library/NTWSWK8E>
+  a schema:ScholarlyArticle ;
+  schema:name "Da doença à desordem: a magia na Umbanda" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NTWSWK8E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NTWSWK8E" ;
+  schema:creator "montero, paula", "norris, william p." ;
+  schema:datePublished "1985" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "brazil", "popular religion", "popular religion -- brazil", "traditional medicine", "traditional medicine -- brazil", "umbanda -- brazil", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/SWZ96W7G>
   a schema:ScholarlyArticle ;
   schema:name "L. Cabrera. La sociedad secreta Abakuá, narrada por viejos adeptos" ;
@@ -6307,6 +6519,19 @@
   schema:hasPart <https://medjat.irokosociety.org/id/library/8JSCYW6P>, <https://medjat.irokosociety.org/id/library/IEFUGH4M>, <https://medjat.irokosociety.org/id/library/G4WJEULW>, <https://medjat.irokosociety.org/id/library/LV3EFRY8>, <https://medjat.irokosociety.org/id/library/8H3R7FJX> ;
   dcterms:subject "African influences", "Black people", "Blacks", "Drum", "History and criticism", "Medjat custody: IHS Holds", "Music", "Musical instruments", "Percussion instruments", "Percussion music" .
 
+<https://medjat.irokosociety.org/id/library/KJFP9ZFE>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbandá, magie blanche, quimbandá, magie noire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KJFP9ZFE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KJFP9ZFE" ;
+  schema:creator "ortiz, renato", "saunders, john v.d." ;
+  schema:datePublished "1979" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "deities", "deities -- brazil", "folk religion", "folk religion -- brazil", "rites and ceremonies", "rites and ceremonies -- brazil", "umbanda -- brazil", "Central African traditions" .
+
 <https://medjat.irokosociety.org/id/library/H8RF2YXE>
   a schema:Thesis ;
   schema:name "Mídias: concessão e exclusão: um estudo da invisibilidade seletiva produzida pelos meios de comunicação de massa contra a população afro-brasileira e suas implicações nas relações raciais no Brasil contemporâneo" ;
@@ -6839,6 +7064,31 @@
   schema:datePublished "1991" ;
   schema:publisher "Warwick Research Archive Portal (University of Warwick)" ;
   dcterms:subject "Caribbean history, culture, and politics" .
+
+<https://medjat.irokosociety.org/id/library/EZ5XWX9A>
+  a schema:ScholarlyArticle ;
+  schema:name "O Brasil com axé: candomblé e umbanda no mercado religioso" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EZ5XWX9A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EZ5XWX9A" ;
+  schema:description "DESDE os estudos de Roger Bastide, na década de 1940, muita coisa mudou no Brasil, também no âmbito das religiões e das religiões afro-brasileiras. Velhas tendências foram confirmadas, novas direções foram se impondo. Religiões recém-criadas se enfrentam com as mais antigas, velhas religiões assumem novas formas e veiculam renovados conteúdos para enfrentar a concorrência mais acirrada no mercado religioso. Vou tratar aqui de um ramo religioso pequeno demograficamente, porém importante do ponto de vista de seu significado para a cultura brasileira e da visibilidade que transborda de seu universo de seguidores: as religiões afro-brasileiras. Trata-se de acompanhar as mudanças numéricas encontradas pelos censos para dimensionar os seguidores das religiões afro-brasileiras, e de examinar algumas de suas características, como cor e escolaridade, para então avançar, sem perder de vista as peculiaridades constitutivas e organizacionais dos cultos e terreiros, alguma explicação sobre mudanças pelas quais vêm passando essas religiões nos dias de hoje." ;
+  schema:author "Reginaldo ́Prandi" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Estudos Avançados" ;
+  schema:sameAs <https://doi.org/10.1590/s0103-40142004000300015> ;
+  dcterms:identifier "doi:10.1590/s0103-40142004000300015" ;
+  dcterms:subject "Religion and Society in Latin America" .
+
+<https://medjat.irokosociety.org/id/library/GQ8X5Z6A>
+  a schema:Book ;
+  schema:name "A morte branca do feiticeiro negro : Umbanda e sociedade brasileira" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=GQ8X5Z6A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:GQ8X5Z6A" ;
+  schema:author "Renato Ortiz" ;
+  schema:datePublished "1991" ;
+  schema:publisher "Editora Brasiliense eBooks" ;
+  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics" .
 
 <https://medjat.irokosociety.org/id/library/IGQK26FU>
   a schema:Thesis ;
@@ -7379,6 +7629,34 @@
   dcterms:identifier "doi:10.15760/etd.7737" ;
   dcterms:subject "American Environmental and Regional History", "American History and Culture", "Race, History, and American Society" .
 
+<https://medjat.irokosociety.org/id/library/3NVB96LY>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda and Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3NVB96LY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3NVB96LY" ;
+  schema:description "This article argues that scholarship on Umbanda (a distinctively Brazilian hybrid of Candomblé, Kardecist Spiritism, and popular Catholicism, with romanticized indigenous elements) manifests certain limitations that lead to insufficient emphasis on the religious tradition's internal doctrinal, ritual, and organizational variation. It compares the complex and ambivalent place of African traditions in Umbanda and Candomblé, highlighting the extent to which Umbanda has been seen as derivative, more distant from Africa. The article also notes other distorting factors such as centros in the southeast of Brazil being considered normative, and scholars focusing inordinately on the question of the tradition's “birth.” The case of Umbanda underlines the Brazilian context of Afro-Brazilian traditions, in contrast to an emphasis on transnationalism." ;
+  schema:author "Steven Engler" ;
+  schema:datePublished "2012" ;
+  schema:publisher "Nova Religio The Journal of Alternative and Emergent Religions" ;
+  schema:sameAs <https://doi.org/10.1525/nr.2012.15.4.13> ;
+  dcterms:identifier "doi:10.1525/nr.2012.15.4.13" ;
+  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions" .
+
+<https://medjat.irokosociety.org/id/library/34X7X6P3>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda and Hybridity" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=34X7X6P3> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:34X7X6P3" ;
+  schema:description "Abstract Scholars of religion continue to talk of syncretism where their colleagues have moved on to talk of hybridity. This paper reviews critiques of the latter concept and argues that “hybridity” can be a useful concept, but only if further specified. I follow Peter Wade in distinguishing between hybridity of origin (the combination of pre-existing forms), and hybridity of encounter (the result of diasporic movements). I propose a third type, hybridity of refraction, in order to highlight the manner in which religious or cultural phenomena refract social tensions within a specific nation or society, resulting in a spectrum of ritual, doctrinal and/or religious forms. The typology is not meant to be complete or mutually exclusive: it suggests the value of adopting distinct, potentially overlapping, perspectives on hybridization. I illustrate the heuristic value of this approach with the case of Umbanda, a twentieth-century Brazilian religion." ;
+  schema:author "Steven Engler" ;
+  schema:datePublished "2009" ;
+  schema:publisher "Numen" ;
+  schema:sameAs <https://doi.org/10.1163/002959709x12469430260084> ;
+  dcterms:identifier "doi:10.1163/002959709x12469430260084" ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America" .
+
 <https://medjat.irokosociety.org/id/library/8YXA2KST>
   a schema:Thesis ;
   schema:name "The free world confronted: the problem of slavery and progress in American foreign relations, 1833-1844" ;
@@ -7702,6 +7980,17 @@
   schema:datePublished "2000" ;
   schema:publisher "Natura Medicatrix: Revista médica para el estudio y difusión de las medicinas alternativas" ;
   dcterms:subject "African cultural and philosophical studies" .
+
+<https://medjat.irokosociety.org/id/library/82EA4AW6>
+  a schema:Book ;
+  schema:name "Candomblé e Umbanda : caminhos da devoção brasileira" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=82EA4AW6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:82EA4AW6" ;
+  schema:author "Vagner Gonçalves da Silva" ;
+  schema:datePublished "1994" ;
+  schema:publisher "Editora Atica eBooks" ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics" .
 
 <https://medjat.irokosociety.org/id/library/VXMWIAVV>
   a schema:Thesis ;

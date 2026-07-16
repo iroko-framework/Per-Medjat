@@ -1,28 +1,32 @@
 {
-  "key": "6WVRIJ4S",
-  "uri": "https://medjat.irokosociety.org/id/library/6WVRIJ4S",
-  "viewUrl": "https://medjat.irokosociety.org/library/?item=6WVRIJ4S",
+  "key": "RZLKIJTX",
+  "uri": "https://medjat.irokosociety.org/id/library/RZLKIJTX",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=RZLKIJTX",
   "zotero": {
     "group": "6479329",
-    "key": "6WVRIJ4S",
-    "version": 4919,
-    "itemType": "book",
-    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6WVRIJ4S",
-    "dateAdded": "2026-06-19T16:45:03Z",
-    "dateModified": "2026-07-16T20:18:41Z"
+    "key": "RZLKIJTX",
+    "version": 4870,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/RZLKIJTX",
+    "dateAdded": "2026-07-16T19:51:29Z",
+    "dateModified": "2026-07-16T19:51:29Z"
   },
   "display": {
-    "title": "Lucumi Practitioner's Handbook",
+    "title": "Umbanda, memória e esforço legitimador",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
       {
-        "role": "author",
-        "name": "Daniela R. De Armas"
+        "role": "editor",
+        "name": "borges, dain"
+      },
+      {
+        "role": "editor",
+        "name": "isaia, artur cesar"
       }
     ],
-    "year": "2024",
-    "date": "2024",
+    "year": "1998",
+    "date": "1998",
     "publisher": "",
     "publicationTitle": "",
     "bookTitle": "",
@@ -36,30 +40,30 @@
     "pages": "",
     "abstract": "",
     "doi": "",
-    "url": "https://openlibrary.org/works/OL38381983W",
-    "isbn": "1-9822-8713-6",
+    "url": "https://www.loc.gov/item/hlas-bi98015731/",
+    "isbn": "",
     "issn": "",
     "university": "",
-    "language": "en",
+    "language": "pt",
     "languageCodes": [
-      "en"
+      "pt"
     ]
   },
   "publicTags": {
-    "recordType": "Book",
+    "recordType": "Journal Article",
     "traditions": [],
     "themes": [],
     "domains": [],
     "connects": [],
     "region": [],
     "language": [
-      "English"
+      "Portuguese"
     ],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [],
     "languageCodes": [
-      "en"
+      "pt"
     ]
   },
   "ifwk": {
@@ -70,36 +74,36 @@
     {
       "field": "100",
       "label": "Author",
-      "value": "Daniela R. De Armas"
+      "value": "borges, dain"
     },
     {
       "field": "245",
       "label": "Title",
-      "value": "Lucumi Practitioner's Handbook"
+      "value": "Umbanda, memória e esforço legitimador"
     },
     {
       "field": "264",
       "label": "Published",
-      "value": "2024."
-    },
-    {
-      "field": "020",
-      "label": "ISBN",
-      "value": "1-9822-8713-6"
+      "value": "1998."
     },
     {
       "field": "041",
       "label": "Language",
-      "value": "English [en]"
+      "value": "Portuguese [pt]"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "isaia, artur cesar"
     },
     {
       "field": "655",
       "label": "Genre/Form",
-      "value": "Book"
+      "value": "Journal Article"
     }
   ],
   "linkedData": {
-    "ttl": "/library/data/rdf/6W/6WVRIJ4S.ttl",
+    "ttl": "/library/data/rdf/RZ/RZLKIJTX.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
     "about": [],

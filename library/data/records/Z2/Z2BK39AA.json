@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "Z2BK39AA",
-    "version": 4840,
+    "version": 4916,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Z2BK39AA",
     "dateAdded": "2026-07-11T13:59:11Z",
-    "dateModified": "2026-07-11T14:08:05Z"
+    "dateModified": "2026-07-16T20:18:36Z"
   },
   "display": {
     "title": "Adeshina's Cuba: The Yorùbá Lukumí, 1820-1959",
@@ -40,7 +40,7 @@
     "isbn": "978-1-962929-59-2",
     "issn": "",
     "university": "",
-    "language": "eng",
+    "language": "en",
     "numberOfVolumes": "2",
     "languageCodes": [
       "en"

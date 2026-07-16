@@ -1,0 +1,109 @@
+{
+  "key": "XVI9KAQQ",
+  "uri": "https://medjat.irokosociety.org/id/library/XVI9KAQQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XVI9KAQQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "XVI9KAQQ",
+    "version": 4888,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XVI9KAQQ",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "Kardecismo e Umbanda",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "João Baptista Borges Pereira"
+      }
+    ],
+    "year": "1964",
+    "date": "1964",
+    "publisher": "Revista de Antropologia",
+    "publicationTitle": "Revista de Antropologia",
+    "bookTitle": "",
+    "journalAbbreviation": "Revista de Antropologia",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "12",
+    "issue": "1-2",
+    "pages": "135-137",
+    "abstract": "",
+    "doi": "10.11606/2179-0892.ra.1964.110743",
+    "url": "https://doi.org/10.11606/2179-0892.ra.1964.110743",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religion and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "João Baptista Borges Pereira"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Kardecismo e Umbanda"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Revista de Antropologia, 1964."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "135-137 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.11606/2179-0892.ra.1964.110743"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/XV/XVI9KAQQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.11606/2179-0892.ra.1964.110743"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

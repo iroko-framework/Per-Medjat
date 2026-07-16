@@ -1,36 +1,32 @@
 {
-  "key": "W27MPK7H",
-  "uri": "https://medjat.irokosociety.org/id/library/W27MPK7H",
-  "viewUrl": "https://medjat.irokosociety.org/library/?item=W27MPK7H",
+  "key": "YAQDCCC2",
+  "uri": "https://medjat.irokosociety.org/id/library/YAQDCCC2",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=YAQDCCC2",
   "zotero": {
     "group": "6479329",
-    "key": "W27MPK7H",
-    "version": 4921,
-    "itemType": "book",
-    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W27MPK7H",
-    "dateAdded": "2026-06-19T16:45:01Z",
-    "dateModified": "2026-07-16T20:18:44Z"
+    "key": "YAQDCCC2",
+    "version": 4867,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/YAQDCCC2",
+    "dateAdded": "2026-07-16T19:51:29Z",
+    "dateModified": "2026-07-16T19:51:29Z"
   },
   "display": {
-    "title": "The Osha",
+    "title": "Umbanda trance and possession in São Paulo, Brazil",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
       {
-        "role": "author",
-        "name": "Julio García Cortez"
+        "role": "editor",
+        "name": "leacock, seth"
       },
       {
-        "role": "series editor",
-        "name": "Julio Garcia Cortez"
-      },
-      {
-        "role": "series editor",
-        "name": "Julio Garcia Corlez"
+        "role": "editor",
+        "name": "pressel, esther joan"
       }
     ],
-    "year": "2000",
-    "date": "2000",
+    "year": "1974",
+    "date": "1974",
     "publisher": "",
     "publicationTitle": "",
     "bookTitle": "",
@@ -44,8 +40,8 @@
     "pages": "",
     "abstract": "",
     "doi": "",
-    "url": "https://openlibrary.org/works/OL4157322W",
-    "isbn": "1-890157-22-8",
+    "url": "https://www.loc.gov/item/hlas-bi77101373/",
+    "isbn": "",
     "issn": "",
     "university": "",
     "language": "en",
@@ -54,9 +50,9 @@
     ]
   },
   "publicTags": {
-    "recordType": "Book",
+    "recordType": "Journal Article",
     "traditions": [
-      "West African traditions"
+      "Central African traditions"
     ],
     "themes": [],
     "domains": [],
@@ -68,11 +64,11 @@
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
-      "Ethnobotany",
-      "Religion",
-      "Rites and ceremonies",
-      "Yoruba (African people)",
-      "Yoruba Americans"
+      "brazil",
+      "folk religion",
+      "são paulo, brazil (city)",
+      "são paulo, brazil (city) -- folk religion",
+      "umbanda -- brazil"
     ],
     "languageCodes": [
       "en"
@@ -86,22 +82,17 @@
     {
       "field": "100",
       "label": "Author",
-      "value": "Julio García Cortez"
+      "value": "leacock, seth"
     },
     {
       "field": "245",
       "label": "Title",
-      "value": "The Osha"
+      "value": "Umbanda trance and possession in São Paulo, Brazil"
     },
     {
       "field": "264",
       "label": "Published",
-      "value": "2000."
-    },
-    {
-      "field": "020",
-      "label": "ISBN",
-      "value": "1-890157-22-8"
+      "value": "1974."
     },
     {
       "field": "041",
@@ -111,58 +102,53 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Ethnobotany"
+      "value": "brazil"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Religion"
+      "value": "folk religion"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Rites and ceremonies"
+      "value": "são paulo, brazil (city)"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Yoruba (African people)"
+      "value": "são paulo, brazil (city) -- folk religion"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Yoruba Americans"
+      "value": "umbanda -- brazil"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Central African traditions"
     },
     {
       "field": "700",
-      "label": "Added entry - series editor",
-      "value": "Julio Garcia Cortez"
-    },
-    {
-      "field": "700",
-      "label": "Added entry - series editor",
-      "value": "Julio Garcia Corlez"
+      "label": "Added entry - editor",
+      "value": "pressel, esther joan"
     },
     {
       "field": "655",
       "label": "Genre/Form",
-      "value": "Book"
+      "value": "Journal Article"
     }
   ],
   "linkedData": {
-    "ttl": "/library/data/rdf/W2/W27MPK7H.ttl",
+    "ttl": "/library/data/rdf/YA/YAQDCCC2.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Central African traditions",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
       }
     ],
     "authorityMappings": []

@@ -1,28 +1,32 @@
 {
-  "key": "6WVRIJ4S",
-  "uri": "https://medjat.irokosociety.org/id/library/6WVRIJ4S",
-  "viewUrl": "https://medjat.irokosociety.org/library/?item=6WVRIJ4S",
+  "key": "2FUW98PL",
+  "uri": "https://medjat.irokosociety.org/id/library/2FUW98PL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2FUW98PL",
   "zotero": {
     "group": "6479329",
-    "key": "6WVRIJ4S",
-    "version": 4919,
+    "key": "2FUW98PL",
+    "version": 4903,
     "itemType": "book",
-    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/6WVRIJ4S",
-    "dateAdded": "2026-06-19T16:45:03Z",
-    "dateModified": "2026-07-16T20:18:41Z"
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2FUW98PL",
+    "dateAdded": "2026-07-16T19:52:33Z",
+    "dateModified": "2026-07-16T19:52:33Z"
   },
   "display": {
-    "title": "Lucumi Practitioner's Handbook",
+    "title": "21 Divisions",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
       {
         "role": "author",
-        "name": "Daniela R. De Armas"
+        "name": "Hector Salva"
+      },
+      {
+        "role": "series editor",
+        "name": "Hoodoo Sen Moise"
       }
     ],
-    "year": "2024",
-    "date": "2024",
+    "year": "2020",
+    "date": "2020",
     "publisher": "",
     "publicationTitle": "",
     "bookTitle": "",
@@ -36,8 +40,8 @@
     "pages": "",
     "abstract": "",
     "doi": "",
-    "url": "https://openlibrary.org/works/OL38381983W",
-    "isbn": "1-9822-8713-6",
+    "url": "https://openlibrary.org/works/OL21664205W",
+    "isbn": "1-63341-154-0",
     "issn": "",
     "university": "",
     "language": "en",
@@ -57,7 +61,11 @@
     ],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": [],
+    "subjects": [
+      "Magic",
+      "Occultism",
+      "Witchcraft"
+    ],
     "languageCodes": [
       "en"
     ]
@@ -70,27 +78,47 @@
     {
       "field": "100",
       "label": "Author",
-      "value": "Daniela R. De Armas"
+      "value": "Hector Salva"
     },
     {
       "field": "245",
       "label": "Title",
-      "value": "Lucumi Practitioner's Handbook"
+      "value": "21 Divisions"
     },
     {
       "field": "264",
       "label": "Published",
-      "value": "2024."
+      "value": "2020."
     },
     {
       "field": "020",
       "label": "ISBN",
-      "value": "1-9822-8713-6"
+      "value": "1-63341-154-0"
     },
     {
       "field": "041",
       "label": "Language",
       "value": "English [en]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Magic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Occultism"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Witchcraft"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - series editor",
+      "value": "Hoodoo Sen Moise"
     },
     {
       "field": "655",
@@ -99,7 +127,7 @@
     }
   ],
   "linkedData": {
-    "ttl": "/library/data/rdf/6W/6WVRIJ4S.ttl",
+    "ttl": "/library/data/rdf/2F/2FUW98PL.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
     "about": [],

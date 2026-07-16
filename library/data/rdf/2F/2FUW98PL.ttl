@@ -1,0 +1,21 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/2FUW98PL>
+  a schema:Book ;
+  schema:name "21 Divisions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2FUW98PL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2FUW98PL" ;
+  schema:author "Hector Salva" ;
+  schema:creator "Hoodoo Sen Moise" ;
+  schema:datePublished "2020" ;
+  dcterms:identifier "isbn:1-63341-154-0" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  dcterms:subject "Magic", "Occultism", "Witchcraft" .

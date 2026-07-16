@@ -1,0 +1,109 @@
+{
+  "key": "EZ5XWX9A",
+  "uri": "https://medjat.irokosociety.org/id/library/EZ5XWX9A",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EZ5XWX9A",
+  "zotero": {
+    "group": "6479329",
+    "key": "EZ5XWX9A",
+    "version": 4885,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EZ5XWX9A",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "O Brasil com axé: candomblé e umbanda no mercado religioso",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Reginaldo ́Prandi"
+      }
+    ],
+    "year": "2004",
+    "date": "2004",
+    "publisher": "Estudos Avançados",
+    "publicationTitle": "Estudos Avançados",
+    "bookTitle": "",
+    "journalAbbreviation": "Estudos Avançados",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "18",
+    "issue": "52",
+    "pages": "223-238",
+    "abstract": "DESDE os estudos de Roger Bastide, na década de 1940, muita coisa mudou no Brasil, também no âmbito das religiões e das religiões afro-brasileiras. Velhas tendências foram confirmadas, novas direções foram se impondo. Religiões recém-criadas se enfrentam com as mais antigas, velhas religiões assumem novas formas e veiculam renovados conteúdos para enfrentar a concorrência mais acirrada no mercado religioso. Vou tratar aqui de um ramo religioso pequeno demograficamente, porém importante do ponto de vista de seu significado para a cultura brasileira e da visibilidade que transborda de seu universo de seguidores: as religiões afro-brasileiras. Trata-se de acompanhar as mudanças numéricas encontradas pelos censos para dimensionar os seguidores das religiões afro-brasileiras, e de examinar algumas de suas características, como cor e escolaridade, para então avançar, sem perder de vista as peculiaridades constitutivas e organizacionais dos cultos e terreiros, alguma explicação sobre mudanças pelas quais vêm passando essas religiões nos dias de hoje.",
+    "doi": "10.1590/s0103-40142004000300015",
+    "url": "https://doi.org/10.1590/s0103-40142004000300015",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religion and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Reginaldo ́Prandi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "O Brasil com axé: candomblé e umbanda no mercado religioso"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Estudos Avançados, 2004."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "223-238 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/s0103-40142004000300015"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/EZ/EZ5XWX9A.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/s0103-40142004000300015"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

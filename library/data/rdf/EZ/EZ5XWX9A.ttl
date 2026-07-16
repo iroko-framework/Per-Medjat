@@ -1,0 +1,21 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/EZ5XWX9A>
+  a schema:ScholarlyArticle ;
+  schema:name "O Brasil com axé: candomblé e umbanda no mercado religioso" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EZ5XWX9A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EZ5XWX9A" ;
+  schema:description "DESDE os estudos de Roger Bastide, na década de 1940, muita coisa mudou no Brasil, também no âmbito das religiões e das religiões afro-brasileiras. Velhas tendências foram confirmadas, novas direções foram se impondo. Religiões recém-criadas se enfrentam com as mais antigas, velhas religiões assumem novas formas e veiculam renovados conteúdos para enfrentar a concorrência mais acirrada no mercado religioso. Vou tratar aqui de um ramo religioso pequeno demograficamente, porém importante do ponto de vista de seu significado para a cultura brasileira e da visibilidade que transborda de seu universo de seguidores: as religiões afro-brasileiras. Trata-se de acompanhar as mudanças numéricas encontradas pelos censos para dimensionar os seguidores das religiões afro-brasileiras, e de examinar algumas de suas características, como cor e escolaridade, para então avançar, sem perder de vista as peculiaridades constitutivas e organizacionais dos cultos e terreiros, alguma explicação sobre mudanças pelas quais vêm passando essas religiões nos dias de hoje." ;
+  schema:author "Reginaldo ́Prandi" ;
+  schema:datePublished "2004" ;
+  schema:publisher "Estudos Avançados" ;
+  schema:sameAs <https://doi.org/10.1590/s0103-40142004000300015> ;
+  dcterms:identifier "doi:10.1590/s0103-40142004000300015" ;
+  dcterms:subject "Religion and Society in Latin America" .

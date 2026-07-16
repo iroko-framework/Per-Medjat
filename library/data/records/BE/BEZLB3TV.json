@@ -1,0 +1,97 @@
+{
+  "key": "BEZLB3TV",
+  "uri": "https://medjat.irokosociety.org/id/library/BEZLB3TV",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BEZLB3TV",
+  "zotero": {
+    "group": "6479329",
+    "key": "BEZLB3TV",
+    "version": 4873,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BEZLB3TV",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "Umbanda : religion and politics in urban Brazil",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Diana Brown"
+      }
+    ],
+    "year": "1986",
+    "date": "1986",
+    "publisher": "Columbia University Press eBooks",
+    "publicationTitle": "Columbia University Press eBooks",
+    "bookTitle": "",
+    "journalAbbreviation": "Columbia University Press eBooks",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "The history and development of the Brazilian religion Umbanda are explored in this text. The author describes the defining features of the religion, its practices, followers and beliefs, its dramatic geographical spread across the country, and its relationship to rapid urban growth.",
+    "doi": "",
+    "url": "https://openalex.org/W1541218899",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religion and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Diana Brown"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda : religion and politics in urban Brazil"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Columbia University Press eBooks, 1986."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BE/BEZLB3TV.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T10:12:32Z",
-  "count": 621,
+  "generatedAt": "2026-07-16T21:21:20Z",
+  "count": 643,
   "records": [
     {
       "key": "IGBCQ3B7",
@@ -1508,6 +1508,46 @@
       ]
     },
     {
+      "key": "4LQPVPBV",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Angelus Reignos"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "21 Divisions Handbook"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2023."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "1-304-78972-1"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Access: Public"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
       "key": "944NUPLG",
       "marc": [
         {
@@ -2573,6 +2613,41 @@
       ]
     },
     {
+      "key": "RZLKIJTX",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "borges, dain"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda, memória e esforço legitimador"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1998."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "isaia, artur cesar"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "7GJ66V9P",
       "marc": [
         {
@@ -3079,6 +3154,166 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "C226L4AS",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "brown, diana degroat"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda and class relations in Brazil"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1979."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "social classes"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "social classes -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "social structure"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "social structure -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "harkess, shirley j."
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "J3NTRMM4",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "brown, diana degroat"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda: religion and politics in urban Brazil"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1994."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "politics and government"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "religious life and customs"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "lovell, peggy a."
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
         }
       ]
     },
@@ -5538,6 +5773,71 @@
       ]
     },
     {
+      "key": "AELNGXBY",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "cumino, alexandre"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "História da Umbanda: uma religião brasileira"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2010."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "history"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "religious life and customs"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "spirit possession"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "umbanda -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "lima, shênia kellen de"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "ESMN4JYZ",
       "marc": [
         {
@@ -6229,6 +6529,91 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "2JV6T2EB",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Diana Brown"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "religion, class, and context: continuities and discontinuities in Brazilian Umbanda"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "American Ethnologist, 1987."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "73-93 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.1525/ae.1987.14.1.02a00050"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Anthropological Studies and Insights"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society Interactions"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "Mario Bick"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "BEZLB3TV",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Diana Brown"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda : religion and politics in urban Brazil"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Columbia University Press eBooks, 1986."
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -9033,6 +9418,91 @@
       ]
     },
     {
+      "key": "2UNNWD7V",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "hadis, benjamín"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda: investigación sobre religiosidad afro-brasileña en Montevideo"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1982."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish [es]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences -- uruguay"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "montevideo"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "montevideo (uruguay)"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "montevideo, uruguay (city)"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "montevideo, uruguay (city) -- umbanda"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "religious life and customs"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "umbanda -- uruguay"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "uruguay"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "pallavicino, maría i."
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "LEQW3RZ6",
       "marc": [
         {
@@ -9348,6 +9818,61 @@
       ]
     },
     {
+      "key": "2FUW98PL",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Hector Salva"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "21 Divisions"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2020."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "1-63341-154-0"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Magic"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Occultism"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Witchcraft"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - series editor",
+          "value": "Hoodoo Sen Moise"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
       "key": "2V75IC8C",
       "marc": [
         {
@@ -9409,6 +9934,66 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "JECMNYRI",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Henry John Drewal"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Mami Wata: Arts for Water Spirits in Africa and Its Diasporas"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "African Arts, 2008."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "60-83 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.1162/afar.2008.41.2.60"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African history and culture studies"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "Marilyn Hammersley Houlberg"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "Bogumił Jewsiewicki"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "John W. Nunley"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "Jill Salmons"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
         }
       ]
     },
@@ -13768,6 +14353,46 @@
       ]
     },
     {
+      "key": "XVI9KAQQ",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "João Baptista Borges Pereira"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Kardecismo e Umbanda"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Revista de Antropologia, 1964."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "135-137 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.11606/2179-0892.ra.1964.110743"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "PYMPGDSP",
       "marc": [
         {
@@ -15778,6 +16403,71 @@
       ]
     },
     {
+      "key": "YAQDCCC2",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "leacock, seth"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda trance and possession in São Paulo, Brazil"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1974."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "são paulo, brazil (city)"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "são paulo, brazil (city) -- folk religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "umbanda -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "pressel, esther joan"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "QEP57C5S",
       "marc": [
         {
@@ -16028,6 +16718,76 @@
       ]
     },
     {
+      "key": "I7QCZTXJ",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "levi, danilo"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda en Venezuela"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1993."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish [es]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences -- venezuela"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion -- venezuela"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "umbanda -- venezuela"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "venezuela"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "pollak-eltz, angelina"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "B3MFQB6K",
       "marc": [
         {
@@ -16064,6 +16824,51 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "HJE4FXT5",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Lindsay Hale"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Hearing the mermaid's song: the Umbanda religion in Rio de Janeiro"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Choice Reviews Online, 2010."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "47-6328 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.5860/choice.47-6328"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Anthropological Studies and Insights"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
         }
       ]
     },
@@ -16889,6 +17694,51 @@
           "field": "700",
           "label": "Added entry - editor",
           "value": "MI Ajibade"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "ENNBGWFM",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Lísias Nogueira Negrão"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda: entre a cruz e a encruzilhada"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Tempo Social, 1993."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "113-122 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.1590/ts.v5i1/2.84951"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion, Society, and Development"
         },
         {
           "field": "655",
@@ -19234,6 +20084,76 @@
           "field": "650",
           "label": "Subject",
           "value": "Translation Studies and Practices"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "NTWSWK8E",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "montero, paula"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Da doença à desordem: a magia na Umbanda"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1985."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "popular religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "popular religion -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "traditional medicine"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "traditional medicine -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "umbanda -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "norris, william p."
         },
         {
           "field": "655",
@@ -21613,6 +22533,96 @@
       ]
     },
     {
+      "key": "KJFP9ZFE",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "ortiz, renato"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbandá, magie blanche, quimbandá, magie noire"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "1979."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "French [fr]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "african influences -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "deities"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "deities -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "folk religion -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "rites and ceremonies"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "rites and ceremonies -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "umbanda -- brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Central African traditions"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "saunders, john v.d."
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "H8RF2YXE",
       "marc": [
         {
@@ -23334,6 +24344,86 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "EZ5XWX9A",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Reginaldo ́Prandi"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "O Brasil com axé: candomblé e umbanda no mercado religioso"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Estudos Avançados, 2004."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "223-238 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.1590/s0103-40142004000300015"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "GQ8X5Z6A",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Renato Ortiz"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "A morte branca do feiticeiro negro : Umbanda e sociedade brasileira"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Editora Brasiliense eBooks, 1991."
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Race, Identity, and Education in Brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Urban and sociocultural dynamics"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -25158,6 +26248,106 @@
       ]
     },
     {
+      "key": "3NVB96LY",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Steven Engler"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda and Africa"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Nova Religio The Journal of Alternative and Emergent Religions, 2012."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "13-35 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.1525/nr.2012.15.4.13"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African cultural and philosophical studies"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Anthropological Studies and Insights"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society Interactions"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "34X7X6P3",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Steven Engler"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Umbanda and Hybridity"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Numen, 2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "545-577 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.1163/002959709x12469430260084"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Anthropological Studies and Insights"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society Interactions"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "8YXA2KST",
       "marc": [
         {
@@ -26224,6 +27414,46 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "82EA4AW6",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Vagner Gonçalves da Silva"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Candomblé e Umbanda : caminhos da devoção brasileira"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Editora Atica eBooks, 1994."
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion and Society in Latin America"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Religion, Society, and Development"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Urban and sociocultural dynamics"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },

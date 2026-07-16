@@ -1,0 +1,18 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/82EA4AW6>
+  a schema:Book ;
+  schema:name "Candomblé e Umbanda : caminhos da devoção brasileira" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=82EA4AW6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:82EA4AW6" ;
+  schema:author "Vagner Gonçalves da Silva" ;
+  schema:datePublished "1994" ;
+  schema:publisher "Editora Atica eBooks" ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics" .

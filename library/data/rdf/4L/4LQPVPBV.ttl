@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/4LQPVPBV>
+  a schema:Book ;
+  schema:name "21 Divisions Handbook" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4LQPVPBV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4LQPVPBV" ;
+  schema:author "Angelus Reignos" ;
+  schema:datePublished "2023" ;
+  dcterms:identifier "isbn:1-304-78972-1" ;
+  dcterms:language "English" ;
+  schema:inLanguage "en" ;
+  dcterms:subject "Access: Public" .

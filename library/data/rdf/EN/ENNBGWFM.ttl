@@ -1,0 +1,21 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/ENNBGWFM>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbanda: entre a cruz e a encruzilhada" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ENNBGWFM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ENNBGWFM" ;
+  schema:description "O artigo considera a umbanda, religião afro-brasileira de constituição recente, como estando dividida entre os apelos de suas raízes negras e os atrativos legitimadores da adoção dos princípios éticos cristãos. Embora pouco racionalizada e postulando uma visão de mundo predominantemente encantada, vem crescentemente moralizando-se a partir, sobretudo, das influências do ideal kardecista da caridade. Tal incorporação não é, contudo, linear, mas reinterpretada a partir da vivência concreta de seus agentes e moderada pela necessidade da cobrança por serviços religiosos prestados e pela \"demanda\", concepção mágica de conflito inter-individual." ;
+  schema:author "Lísias Nogueira Negrão" ;
+  schema:datePublished "1993" ;
+  schema:publisher "Tempo Social" ;
+  schema:sameAs <https://doi.org/10.1590/ts.v5i1/2.84951> ;
+  dcterms:identifier "doi:10.1590/ts.v5i1/2.84951" ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development" .

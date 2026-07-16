@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/AELNGXBY>
+  a schema:ScholarlyArticle ;
+  schema:name "História da Umbanda: uma religião brasileira" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=AELNGXBY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:AELNGXBY" ;
+  schema:creator "cumino, alexandre", "lima, shênia kellen de" ;
+  schema:datePublished "2010" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Central African traditions" .

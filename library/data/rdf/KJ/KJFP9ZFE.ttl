@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/KJFP9ZFE>
+  a schema:ScholarlyArticle ;
+  schema:name "Umbandá, magie blanche, quimbandá, magie noire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KJFP9ZFE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KJFP9ZFE" ;
+  schema:creator "ortiz, renato", "saunders, john v.d." ;
+  schema:datePublished "1979" ;
+  dcterms:language "French" ;
+  schema:inLanguage "fr" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "deities", "deities -- brazil", "folk religion", "folk religion -- brazil", "rites and ceremonies", "rites and ceremonies -- brazil", "umbanda -- brazil", "Central African traditions" .

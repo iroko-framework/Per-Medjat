@@ -1,0 +1,115 @@
+{
+  "key": "ENNBGWFM",
+  "uri": "https://medjat.irokosociety.org/id/library/ENNBGWFM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ENNBGWFM",
+  "zotero": {
+    "group": "6479329",
+    "key": "ENNBGWFM",
+    "version": 4879,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ENNBGWFM",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "Umbanda: entre a cruz e a encruzilhada",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Lísias Nogueira Negrão"
+      }
+    ],
+    "year": "1993",
+    "date": "1993",
+    "publisher": "Tempo Social",
+    "publicationTitle": "Tempo Social",
+    "bookTitle": "",
+    "journalAbbreviation": "Tempo Social",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "5",
+    "issue": "1-2",
+    "pages": "113-122",
+    "abstract": "O artigo considera a umbanda, religião afro-brasileira de constituição recente, como estando dividida entre os apelos de suas raízes negras e os atrativos legitimadores da adoção dos princípios éticos cristãos. Embora pouco racionalizada e postulando uma visão de mundo predominantemente encantada, vem crescentemente moralizando-se a partir, sobretudo, das influências do ideal kardecista da caridade. Tal incorporação não é, contudo, linear, mas reinterpretada a partir da vivência concreta de seus agentes e moderada pela necessidade da cobrança por serviços religiosos prestados e pela \"demanda\", concepção mágica de conflito inter-individual.",
+    "doi": "10.1590/ts.v5i1/2.84951",
+    "url": "https://doi.org/10.1590/ts.v5i1/2.84951",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Religion and Society in Latin America",
+      "Religion, Society, and Development"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Lísias Nogueira Negrão"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda: entre a cruz e a encruzilhada"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Tempo Social, 1993."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "113-122 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1590/ts.v5i1/2.84951"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion, Society, and Development"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/EN/ENNBGWFM.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1590/ts.v5i1/2.84951"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

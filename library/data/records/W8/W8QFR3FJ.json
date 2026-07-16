@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "W8QFR3FJ",
-    "version": 4571,
+    "version": 4920,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/W8QFR3FJ",
     "dateAdded": "2026-06-19T16:45:03Z",
-    "dateModified": "2026-06-19T16:45:03Z"
+    "dateModified": "2026-07-16T20:18:42Z"
   },
   "display": {
     "title": "Lucumí",
@@ -40,7 +40,7 @@
     "isbn": "",
     "issn": "",
     "university": "",
-    "language": "eng",
+    "language": "en",
     "languageCodes": [
       "en"
     ]

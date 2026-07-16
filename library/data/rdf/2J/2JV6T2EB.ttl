@@ -1,0 +1,22 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/2JV6T2EB>
+  a schema:ScholarlyArticle ;
+  schema:name "religion, class, and context: continuities and discontinuities in Brazilian Umbanda" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2JV6T2EB> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2JV6T2EB" ;
+  schema:description "Earlier research on Afro‐Brazilian religions, influenced by static and simplistic models of syncretism and acculturation, underestimated their fluid and politically sensitive nature. Recent ethnographic and historical approaches to these religions show a complex interplay among elements of Catholicism, African, and other religious practices that responds to changing political and social conditions. This processual complexity is illustrated in the history of Umbanda, which has relied on various sources for the construction of its ideology and ritual within contexts variously charged by the expression of class interests, racial identities, and political positions." ;
+  schema:author "Diana Brown" ;
+  schema:creator "Mario Bick" ;
+  schema:datePublished "1987" ;
+  schema:publisher "American Ethnologist" ;
+  schema:sameAs <https://doi.org/10.1525/ae.1987.14.1.02a00050> ;
+  dcterms:identifier "doi:10.1525/ae.1987.14.1.02a00050" ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America" .

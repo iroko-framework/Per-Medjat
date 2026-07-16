@@ -1,0 +1,121 @@
+{
+  "key": "34X7X6P3",
+  "uri": "https://medjat.irokosociety.org/id/library/34X7X6P3",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=34X7X6P3",
+  "zotero": {
+    "group": "6479329",
+    "key": "34X7X6P3",
+    "version": 4891,
+    "itemType": "journalArticle",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/34X7X6P3",
+    "dateAdded": "2026-07-16T19:52:04Z",
+    "dateModified": "2026-07-16T19:52:04Z"
+  },
+  "display": {
+    "title": "Umbanda and Hybridity",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Steven Engler"
+      }
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "Numen",
+    "publicationTitle": "Numen",
+    "bookTitle": "",
+    "journalAbbreviation": "Numen",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "56",
+    "issue": "5",
+    "pages": "545-577",
+    "abstract": "Abstract Scholars of religion continue to talk of syncretism where their colleagues have moved on to talk of hybridity. This paper reviews critiques of the latter concept and argues that “hybridity” can be a useful concept, but only if further specified. I follow Peter Wade in distinguishing between hybridity of origin (the combination of pre-existing forms), and hybridity of encounter (the result of diasporic movements). I propose a third type, hybridity of refraction, in order to highlight the manner in which religious or cultural phenomena refract social tensions within a specific nation or society, resulting in a spectrum of ritual, doctrinal and/or religious forms. The typology is not meant to be complete or mutually exclusive: it suggests the value of adopting distinct, potentially overlapping, perspectives on hybridization. I illustrate the heuristic value of this approach with the case of Umbanda, a twentieth-century Brazilian religion.",
+    "doi": "10.1163/002959709x12469430260084",
+    "url": "https://doi.org/10.1163/002959709x12469430260084",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Journal Article",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Anthropological Studies and Insights",
+      "Religion and Society Interactions",
+      "Religion and Society in Latin America"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Steven Engler"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Umbanda and Hybridity"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Numen, 2009."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "545-577 p."
+    },
+    {
+      "field": "024",
+      "label": "DOI",
+      "value": "10.1163/002959709x12469430260084"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Anthropological Studies and Insights"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society Interactions"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Religion and Society in Latin America"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Journal Article"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/34/34X7X6P3.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [
+      "https://doi.org/10.1163/002959709x12469430260084"
+    ],
+    "about": [],
+    "authorityMappings": []
+  }
+}

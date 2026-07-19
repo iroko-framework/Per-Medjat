@@ -17,5 +17,5 @@
   schema:datePublished "2003" ;
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:0-226-07610-5" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "Lucumí", "Santeria" .

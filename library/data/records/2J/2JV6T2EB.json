@@ -49,7 +49,7 @@
   "publicTags": {
     "recordType": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "themes": [],
     "domains": [],
@@ -112,7 +112,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Umbanda"
     },
     {
       "field": "700",
@@ -133,9 +133,9 @@
     ],
     "about": [
       {
-        "label": "Central African traditions",
+        "label": "Umbanda",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
       }
     ],
     "authorityMappings": []

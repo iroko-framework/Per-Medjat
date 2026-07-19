@@ -46,7 +46,7 @@
     "recordType": "Book",
     "traditions": [
       "Haitian Vodou",
-      "Afro-Indigenous"
+      "Kumina"
     ],
     "themes": [],
     "domains": [],
@@ -90,7 +90,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Afro-Indigenous"
+      "value": "Kumina"
     },
     {
       "field": "655",
@@ -109,9 +109,9 @@
         "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou"
       },
       {
-        "label": "Afro-Indigenous",
+        "label": "Kumina",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-kumina"
       }
     ],
     "authorityMappings": []

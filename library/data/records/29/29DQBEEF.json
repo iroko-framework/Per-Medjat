@@ -45,7 +45,8 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions"
+      "Abakua",
+      "Ekpe"
     ],
     "themes": [],
     "domains": [],
@@ -103,7 +104,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Abakua"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Ekpe"
     },
     {
       "field": "655",
@@ -117,9 +123,14 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Abakua",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
+      },
+      {
+        "label": "Ekpe",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
       }
     ],
     "authorityMappings": []

@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Journal Article",
     "traditions": [
-      "West African traditions"
+      "Calabari/Cross River"
     ],
     "themes": [
       "Lineage",
@@ -111,7 +111,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Calabari/Cross River"
     },
     {
       "field": "655",
@@ -125,9 +125,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Calabari/Cross River",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-calabari"
       }
     ],
     "authorityMappings": []

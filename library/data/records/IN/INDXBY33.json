@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Journal Article",
     "traditions": [
-      "West African traditions"
+      "Yoruba-Derived"
     ],
     "themes": [
       "Secret Society"
@@ -110,7 +110,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Yoruba-Derived"
     },
     {
       "field": "655",
@@ -124,9 +124,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Yoruba-Derived",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
       }
     ],
     "authorityMappings": []

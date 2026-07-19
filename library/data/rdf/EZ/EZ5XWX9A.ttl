@@ -18,5 +18,5 @@
   schema:publisher "Estudos Avançados" ;
   schema:sameAs <https://doi.org/10.1590/s0103-40142004000300015> ;
   dcterms:identifier "doi:10.1590/s0103-40142004000300015" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Umbanda" .

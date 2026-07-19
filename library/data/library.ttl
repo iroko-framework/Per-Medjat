@@ -174,8 +174,8 @@
   schema:author "Alan West-Durán" ;
   schema:datePublished "2018" ;
   schema:publisher "Florida International University Digital Commons (Florida International University)" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Music", "Cuban History and Society", "West African traditions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Music", "Cuban History and Society", "Abakua", "Lucumí", "Palo" .
 
 <https://medjat.irokosociety.org/id/library/XDU3XS8A>
   a schema:Book ;
@@ -675,8 +675,8 @@
   schema:author "Ayokunle Olumuyiwa Omobowale" ;
   schema:datePublished "2008" ;
   schema:publisher "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Secret Society", "African history and culture studies", "Oro", "Postcolonial and Cultural Literary Studies", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> ;
+  dcterms:subject "Secret Society", "African history and culture studies", "Oro", "Postcolonial and Cultural Literary Studies", "Yoruba-Derived" .
 
 <https://medjat.irokosociety.org/id/library/PNWXGMZG>
   a schema:ScholarlyArticle ;
@@ -854,8 +854,8 @@
   schema:author "Bolívar Aróstegui, Natalia." ;
   schema:datePublished "1990" ;
   schema:publisher "Ediciones Union" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "Lucumí", "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/LJJ53WUH>
   a schema:Chapter ;
@@ -879,8 +879,8 @@
   schema:datePublished "1998" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/7GJ66V9P>
   a schema:Book ;
@@ -970,8 +970,8 @@
   dcterms:identifier "isbn:978-1-962929-59-2" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "Lucumí" .
 
 <https://medjat.irokosociety.org/id/library/5PLRK6GT>
   a schema:Book ;
@@ -985,8 +985,8 @@
   dcterms:identifier "isbn:978-1-962929-59-2" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "Lucumí" .
 
 <https://medjat.irokosociety.org/id/library/7HTNR8JQ>
   a schema:Book ;
@@ -1001,8 +1001,8 @@
   dcterms:identifier "isbn:978-1-962929-59-2" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "Lucumí" .
 
 <https://medjat.irokosociety.org/id/library/8IMEF25Y>
   a schema:Book ;
@@ -1015,8 +1015,8 @@
   schema:datePublished "2003" ;
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:0-226-07610-5" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Art and religion -- Cuba -- History", "Art and religion -- United States -- History", "Arte y religión Cuba Historia", "Arte y religión Estados Unidos Historia", "Kings and rulers -- Religious aspects -- Santeria", "Kings and rulers in art", "Reyes y soberanos Aspectos religiosos Santería Hi", "Santeria -- Historia", "Santeria -- History", "Lucumí", "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/C226L4AS>
   a schema:ScholarlyArticle ;
@@ -1028,8 +1028,8 @@
   schema:datePublished "1979" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "social classes", "social classes -- brazil", "social structure", "social structure -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "social classes", "social classes -- brazil", "social structure", "social structure -- brazil", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/J3NTRMM4>
   a schema:ScholarlyArticle ;
@@ -1041,8 +1041,8 @@
   schema:datePublished "1994" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "politics and government", "religious life and customs", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "politics and government", "religious life and customs", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/QSVT2YHA>
   a schema:Book ;
@@ -1155,8 +1155,8 @@
   schema:datePublished "1992" ;
   schema:publisher "Ediciones Universal" ;
   dcterms:identifier "isbn:0-89729-009-7" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Osanyin", "Osain", "Ozain", "Ọsanyìn", "Herbs", "West African traditions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Osanyin", "Osain", "Ozain", "Ọsanyìn", "Herbs", "Lucumí", "Palo", "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/8KP8CP6A>
   a schema:Book ;
@@ -1181,8 +1181,8 @@
   schema:author "Cabrera, Lydia" ;
   schema:datePublished "1970" ;
   schema:publisher "Ediciones CR" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Colección del Chicherekú", "Sociedad Abakuá", "Witchcraft -- Cuba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua> ;
+  dcterms:subject "Colección del Chicherekú", "Sociedad Abakuá", "Witchcraft -- Cuba", "Abakua" .
 
 <https://medjat.irokosociety.org/id/library/VTKDER8N>
   a schema:Book ;
@@ -1193,8 +1193,8 @@
   schema:author "Cabrera, Lydia" ;
   schema:datePublished "1979" ;
   schema:publisher "Peninsular Print." ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .
 
 <https://medjat.irokosociety.org/id/library/7TQFU9WZ>
   a schema:Thesis ;
@@ -1247,8 +1247,8 @@
   schema:datePublished "1973" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/YG4ICWJJ>
   a schema:Thesis ;
@@ -1631,8 +1631,8 @@
   schema:datePublished "2007" ;
   schema:publisher "Praeger" ;
   dcterms:identifier "isbn:979-8-216-01082-1" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/S8H9HPMN>
   a schema:Thesis ;
@@ -1784,8 +1784,8 @@
   schema:datePublished "2010" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/WVQE85MY>
   a schema:Book ;
@@ -2020,8 +2020,8 @@
   schema:publisher "American Ethnologist" ;
   schema:sameAs <https://doi.org/10.1525/ae.1987.14.1.02a00050> ;
   dcterms:identifier "doi:10.1525/ae.1987.14.1.02a00050" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/BEZLB3TV>
   a schema:Book ;
@@ -2033,8 +2033,8 @@
   schema:author "Diana Brown" ;
   schema:datePublished "1986" ;
   schema:publisher "Columbia University Press eBooks" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/KRWX9CCH>
   a schema:Thesis ;
@@ -2347,8 +2347,8 @@
   schema:description "This paper seeks to study the religious background of Ekpu-Oro, the ancestral figurines of Oron people of Nigeria from the framework of the people's cosmology and cultural history. The greatest problem that confronted Oron people in prehistory was that of record keeping and preservation of cultural values for posterity. The transmission of the people's history, cosmology and social values to the new generation was of paramount importance to the ancients. In traditional Oron society, historical memories were preserved and transmitted through Ekpu wooden figurines. Art as a product of human impulse and a reflection of society in whose framework it is created was inspired and affected by religion. Art in Oron was applied to the service of religion. There was a symbiosis between art and religious beliefs." ;
   schema:author "Etim E. Okon" ;
   schema:datePublished "2006" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Lineage", "Secret Society", "African cultural and philosophical studies", "African history and culture analysis", "African studies and sociopolitical issues", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-calabari> ;
+  dcterms:subject "Lineage", "Secret Society", "African cultural and philosophical studies", "African history and culture analysis", "African studies and sociopolitical issues", "Calabari/Cross River" .
 
 <https://medjat.irokosociety.org/id/library/USKCYGM2>
   a schema:ScholarlyArticle ;
@@ -2456,8 +2456,8 @@
   schema:publisher "Librería de Fernando Fé" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
+  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "Abakua", "Palo Mayombe", "Palo Monte" .
 
 <https://medjat.irokosociety.org/id/library/DN5JJZPS>
   a schema:Book ;
@@ -2575,8 +2575,8 @@
   schema:datePublished "2011" ;
   schema:publisher "Scarlet Imprint" ;
   dcterms:identifier "isbn:978-0-9567203-9-9" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .
 
 <https://medjat.irokosociety.org/id/library/G6QR24P7>
   a schema:ScholarlyArticle ;
@@ -2748,7 +2748,7 @@
   schema:datePublished "2025" ;
   schema:publisher "Cambridge University Press" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> .
 
 <https://medjat.irokosociety.org/id/library/IVJFW4B7>
   a schema:Book ;
@@ -2761,7 +2761,7 @@
   schema:datePublished "2025" ;
   schema:publisher "Duke University Press" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85006514>, <http://id.loc.gov/authorities/subjects/sh85028479> ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah> .
 
 <https://medjat.irokosociety.org/id/library/RPRDVHI5>
   a schema:Thesis ;
@@ -2979,8 +2979,8 @@
   schema:datePublished "1982" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- uruguay", "montevideo", "montevideo (uruguay)", "montevideo, uruguay (city)", "montevideo, uruguay (city) -- umbanda", "religious life and customs", "umbanda -- uruguay", "uruguay", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- uruguay", "montevideo", "montevideo (uruguay)", "montevideo, uruguay (city)", "montevideo, uruguay (city) -- umbanda", "religious life and customs", "umbanda -- uruguay", "uruguay", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/LEQW3RZ6>
   a schema:Thesis ;
@@ -3173,8 +3173,8 @@
   schema:creator "Herskovits, Frances S" ;
   schema:datePublished "1938" ;
   schema:publisher "J.J. Augustin" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived> ;
+  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "Fon/Ewe-Derived" .
 
 <https://medjat.irokosociety.org/id/library/S6I4M4G6>
   a schema:ScholarlyArticle ;
@@ -3269,8 +3269,8 @@
   schema:datePublished "1938" ;
   schema:publisher "J. B. Lippincott" ;
   dcterms:identifier "isbn:0-06-169513-0" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> ;
-  dcterms:subject "Haitian Vodou", "Afro-Indigenous" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-kumina> ;
+  dcterms:subject "Haitian Vodou", "Kumina" .
 
 <https://medjat.irokosociety.org/id/library/C5ARVMBQ>
   a schema:Book ;
@@ -3281,8 +3281,8 @@
   schema:author "Hyatt, Harry Middleton" ;
   schema:datePublished "1970" ;
   schema:publisher "Printed by Western Pub.; distributed by American University Bookstore, Washington" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> ;
-  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Syncretic/Creole" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-hoodoo> ;
+  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Hoodoo" .
 
 <https://medjat.irokosociety.org/id/library/X6Z7BVK2>
   a schema:Thesis ;
@@ -3318,8 +3318,8 @@
   schema:datePublished "2017" ;
   schema:publisher "Africa World Press" ;
   dcterms:identifier "isbn:978-1-56902-571-0" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe> ;
+  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "Ekpe" .
 
 <https://medjat.irokosociety.org/id/library/MMY8V2VS>
   a schema:Thesis ;
@@ -4501,8 +4501,8 @@
   schema:publisher "Revista de Antropologia" ;
   schema:sameAs <https://doi.org/10.11606/2179-0892.ra.1964.110743> ;
   dcterms:identifier "doi:10.11606/2179-0892.ra.1964.110743" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Syncretic/Creole", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Espiritismo", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/PYMPGDSP>
   a schema:Thesis ;
@@ -4613,8 +4613,8 @@
   dcterms:identifier "isbn:978-0-89729-322-8" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/W27MPK7H>
   a schema:Book ;
@@ -4628,8 +4628,8 @@
   dcterms:identifier "isbn:1-890157-22-8" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Ethnobotany", "Religion", "Rites and ceremonies", "Yoruba (African people)", "Yoruba Americans", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Ethnobotany", "Religion", "Rites and ceremonies", "Yoruba (African people)", "Yoruba Americans", "Santeria" .
 
 <https://medjat.irokosociety.org/id/library/KHKNYNP6>
   a schema:Thesis ;
@@ -5111,8 +5111,8 @@
   schema:datePublished "1974" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "brazil", "folk religion", "são paulo, brazil (city)", "são paulo, brazil (city) -- folk religion", "umbanda -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "brazil", "folk religion", "são paulo, brazil (city)", "são paulo, brazil (city) -- folk religion", "umbanda -- brazil", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/QEP57C5S>
   a schema:Thesis ;
@@ -5215,8 +5215,8 @@
   schema:datePublished "1993" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- venezuela", "folk religion", "folk religion -- venezuela", "umbanda -- venezuela", "venezuela", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- venezuela", "folk religion", "folk religion -- venezuela", "umbanda -- venezuela", "venezuela", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/CZRCDYF9>
   a schema:Book ;
@@ -5254,8 +5254,8 @@
   schema:publisher "Choice Reviews Online" ;
   schema:sameAs <https://doi.org/10.5860/choice.47-6328> ;
   dcterms:identifier "doi:10.5860/choice.47-6328" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society in Latin America", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/LK9EP643>
   a schema:Book ;
@@ -5397,8 +5397,8 @@
   schema:author "Luis, William" ;
   schema:datePublished "2012" ;
   schema:publisher "Afro - Hispanic Review" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .
 
 <https://medjat.irokosociety.org/id/library/KSW5LHZ6>
   a schema:ScholarlyArticle ;
@@ -5529,8 +5529,8 @@
   schema:publisher "Tempo Social" ;
   schema:sameAs <https://doi.org/10.1590/ts.v5i1/2.84951> ;
   dcterms:identifier "doi:10.1590/ts.v5i1/2.84951" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/ZN24MJKN>
   a schema:Thesis ;
@@ -5729,8 +5729,8 @@
   schema:publisher "New York University Press eBooks" ;
   schema:sameAs <https://doi.org/10.18574/nyu/9781479803491.001.0001> ;
   dcterms:identifier "doi:10.18574/nyu/9781479803491.001.0001" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african> ;
-  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "West African traditions", "Central African traditions", "Syncretic/Creole", "Haitian Vodou", "Afro-Indigenous", "Pan-African Political-Spiritual" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> ;
+  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "Abakua", "Bantu-Derived", "Espiritismo", "Fon/Ewe-Derived", "Haitian Vodou", "Lucumí", "Obeah", "Palo", "Rastafari", "Santeria", "Trinidad Orisha", "Yoruba-Derived" .
 
 <https://medjat.irokosociety.org/id/library/5MUHAQXL>
   a schema:Book ;
@@ -6181,8 +6181,8 @@
   schema:author "Miller, Ivor" ;
   schema:datePublished "2016" ;
   schema:publisher "Afro-Hispanic Review" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe> ;
+  dcterms:subject "Abakua", "Ekpe" .
 
 <https://medjat.irokosociety.org/id/library/29DQBEEF>
   a schema:Book ;
@@ -6194,8 +6194,8 @@
   schema:datePublished "2009" ;
   schema:publisher "University Press of Mississippi" ;
   dcterms:identifier "isbn:978-1-934110-83-6" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe> ;
+  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "Abakua", "Ekpe" .
 
 <https://medjat.irokosociety.org/id/library/BPMTSXPB>
   a schema:ScholarlyArticle ;
@@ -6258,8 +6258,8 @@
   schema:datePublished "1985" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "brazil", "popular religion", "popular religion -- brazil", "traditional medicine", "traditional medicine -- brazil", "umbanda -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "brazil", "popular religion", "popular religion -- brazil", "traditional medicine", "traditional medicine -- brazil", "umbanda -- brazil", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/SWZ96W7G>
   a schema:ScholarlyArticle ;
@@ -6588,8 +6588,8 @@
   schema:datePublished "2004" ;
   schema:publisher "University Press of Kansas" ;
   dcterms:identifier "isbn:978-0-7006-1303-8" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi> ;
+  dcterms:subject "Lucumí" .
 
 <https://medjat.irokosociety.org/id/library/2LGEHSXE>
   a schema:Book ;
@@ -6665,8 +6665,8 @@
   schema:datePublished "2010" ;
   schema:publisher "University of California Press" ;
   dcterms:identifier "isbn:0-520-25684-0" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .
 
 <https://medjat.irokosociety.org/id/library/5QTCWWNC>
   a schema:ScholarlyArticle ;
@@ -6883,8 +6883,8 @@
   schema:datePublished "1979" ;
   dcterms:language "French" ;
   schema:inLanguage "fr" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- brazil", "brazil", "deities", "deities -- brazil", "folk religion", "folk religion -- brazil", "rites and ceremonies", "rites and ceremonies -- brazil", "umbanda -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-quimbanda>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "deities", "deities -- brazil", "folk religion", "folk religion -- brazil", "rites and ceremonies", "rites and ceremonies -- brazil", "umbanda -- brazil", "Quimbanda", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/H8RF2YXE>
   a schema:Thesis ;
@@ -7203,8 +7203,8 @@
   schema:datePublished "2009" ;
   schema:publisher "AuthorHouse" ;
   dcterms:identifier "isbn:978-1-4389-8097-3" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Ewe Database Source", "West African traditions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
+  dcterms:subject "Ewe Database Source", "Abakua", "Lucumí", "Palo Mayombe", "Palo Monte" .
 
 <https://medjat.irokosociety.org/id/library/HUMGTFU9>
   a schema:ScholarlyArticle ;
@@ -7445,8 +7445,8 @@
   schema:publisher "Estudos Avançados" ;
   schema:sameAs <https://doi.org/10.1590/s0103-40142004000300015> ;
   dcterms:identifier "doi:10.1590/s0103-40142004000300015" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/GQ8X5Z6A>
   a schema:Book ;
@@ -7457,8 +7457,8 @@
   schema:author "Renato Ortiz" ;
   schema:datePublished "1991" ;
   schema:publisher "Editora Brasiliense eBooks" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/F73LE2MG>
   a schema:Book ;
@@ -8071,8 +8071,8 @@
   schema:publisher "Nova Religio The Journal of Alternative and Emergent Religions" ;
   schema:sameAs <https://doi.org/10.1525/nr.2012.15.4.13> ;
   dcterms:identifier "doi:10.1525/nr.2012.15.4.13" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/34X7X6P3>
   a schema:ScholarlyArticle ;
@@ -8086,8 +8086,8 @@
   schema:publisher "Numen" ;
   schema:sameAs <https://doi.org/10.1163/002959709x12469430260084> ;
   dcterms:identifier "doi:10.1163/002959709x12469430260084" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/8YXA2KST>
   a schema:Thesis ;
@@ -8129,8 +8129,8 @@
   schema:sameAs <https://doi.org/10.1515/9781478092773> ;
   dcterms:identifier "doi:10.1515/9781478092773" ;
   dcterms:identifier "isbn:978-1-4780-2215-2" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha> ;
+  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Obeah", "Trinidad Orisha" .
 
 <https://medjat.irokosociety.org/id/library/W6FS77CK>
   a schema:ScholarlyArticle ;
@@ -8448,8 +8448,8 @@
   schema:publisher "Editora Atica eBooks" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics", "Umbanda" .
 
 <https://medjat.irokosociety.org/id/library/VXMWIAVV>
   a schema:Thesis ;

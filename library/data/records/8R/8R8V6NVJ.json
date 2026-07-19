@@ -45,8 +45,8 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "Afro-Indigenous",
-      "West African traditions"
+      "Obeah",
+      "Trinidad Orisha"
     ],
     "themes": [],
     "domains": [],
@@ -145,12 +145,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Afro-Indigenous"
+      "value": "Obeah"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Trinidad Orisha"
     },
     {
       "field": "655",
@@ -166,14 +166,14 @@
     ],
     "about": [
       {
-        "label": "Afro-Indigenous",
+        "label": "Obeah",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
       },
       {
-        "label": "West African traditions",
+        "label": "Trinidad Orisha",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha"
       }
     ],
     "authorityMappings": []

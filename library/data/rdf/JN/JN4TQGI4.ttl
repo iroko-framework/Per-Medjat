@@ -16,5 +16,5 @@
   schema:author "Luis, William" ;
   schema:datePublished "2012" ;
   schema:publisher "Afro - Hispanic Review" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .

@@ -18,5 +18,5 @@
   schema:publisher "Numen" ;
   schema:sameAs <https://doi.org/10.1163/002959709x12469430260084> ;
   dcterms:identifier "doi:10.1163/002959709x12469430260084" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Umbanda" .

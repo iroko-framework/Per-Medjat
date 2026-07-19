@@ -16,5 +16,5 @@
   schema:author "Alan West-Durán" ;
   schema:datePublished "2018" ;
   schema:publisher "Florida International University Digital Commons (Florida International University)" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Music", "Cuban History and Society", "West African traditions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Music", "Cuban History and Society", "Abakua", "Lucumí", "Palo" .

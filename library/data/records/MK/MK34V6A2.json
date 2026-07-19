@@ -49,7 +49,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions"
+      "Fon/Ewe-Derived"
     ],
     "themes": [],
     "domains": [],
@@ -126,7 +126,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Fon/Ewe-Derived"
     },
     {
       "field": "700",
@@ -145,9 +145,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Fon/Ewe-Derived",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived"
       }
     ],
     "authorityMappings": []

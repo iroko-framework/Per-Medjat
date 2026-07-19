@@ -19,5 +19,5 @@
   schema:sameAs <https://doi.org/10.1515/9781478092773> ;
   dcterms:identifier "doi:10.1515/9781478092773" ;
   dcterms:identifier "isbn:978-1-4780-2215-2" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Afro-Indigenous", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha> ;
+  dcterms:subject "Black people -- Trinidad and Tobago -- Trinidad --", "Cults -- Law and legislation -- Trinidad and Tobag", "Orisha", "Orisha religion -- Trinidad and Tobago -- Trinidad", "Postcolonialism -- Trinidad and Tobago -- Trinidad", "Religion and law -- Trinidad and Tobago -- Trinida", "Religion and sociology -- Trinidad and Tobago -- T", "Religions -- African influences", "Trinidad -- Religion -- African influences", "Obeah", "Trinidad Orisha" .

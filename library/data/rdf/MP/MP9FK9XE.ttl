@@ -17,5 +17,5 @@
   schema:publisher "Librería de Fernando Fé" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
+  dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "Abakua", "Palo Mayombe", "Palo Monte" .

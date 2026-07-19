@@ -18,5 +18,5 @@
   dcterms:identifier "isbn:1-890157-22-8" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Ethnobotany", "Religion", "Rites and ceremonies", "Yoruba (African people)", "Yoruba Americans", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Ethnobotany", "Religion", "Rites and ceremonies", "Yoruba (African people)", "Yoruba Americans", "Santeria" .

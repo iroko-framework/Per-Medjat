@@ -15,5 +15,5 @@
   schema:description "This paper seeks to study the religious background of Ekpu-Oro, the ancestral figurines of Oron people of Nigeria from the framework of the people's cosmology and cultural history. The greatest problem that confronted Oron people in prehistory was that of record keeping and preservation of cultural values for posterity. The transmission of the people's history, cosmology and social values to the new generation was of paramount importance to the ancients. In traditional Oron society, historical memories were preserved and transmitted through Ekpu wooden figurines. Art as a product of human impulse and a reflection of society in whose framework it is created was inspired and affected by religion. Art in Oron was applied to the service of religion. There was a symbiosis between art and religious beliefs." ;
   schema:author "Etim E. Okon" ;
   schema:datePublished "2006" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Lineage", "Secret Society", "African cultural and philosophical studies", "African history and culture analysis", "African studies and sociopolitical issues", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-calabari> ;
+  dcterms:subject "Lineage", "Secret Society", "African cultural and philosophical studies", "African history and culture analysis", "African studies and sociopolitical issues", "Calabari/Cross River" .

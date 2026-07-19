@@ -16,5 +16,5 @@
   schema:datePublished "2010" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Umbanda" .

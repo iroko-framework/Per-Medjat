@@ -16,5 +16,5 @@
   schema:datePublished "1982" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- uruguay", "montevideo", "montevideo (uruguay)", "montevideo, uruguay (city)", "montevideo, uruguay (city) -- umbanda", "religious life and customs", "umbanda -- uruguay", "uruguay", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- uruguay", "montevideo", "montevideo (uruguay)", "montevideo, uruguay (city)", "montevideo, uruguay (city) -- umbanda", "religious life and customs", "umbanda -- uruguay", "uruguay", "Umbanda" .

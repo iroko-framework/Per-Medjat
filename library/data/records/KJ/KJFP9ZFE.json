@@ -52,7 +52,8 @@
   "publicTags": {
     "recordType": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Quimbanda",
+      "Umbanda"
     ],
     "themes": [],
     "domains": [],
@@ -157,7 +158,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Quimbanda"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Umbanda"
     },
     {
       "field": "700",
@@ -176,9 +182,14 @@
     "sameAs": [],
     "about": [
       {
-        "label": "Central African traditions",
+        "label": "Quimbanda",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-quimbanda"
+      },
+      {
+        "label": "Umbanda",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
       }
     ],
     "authorityMappings": []

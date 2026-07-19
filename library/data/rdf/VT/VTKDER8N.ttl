@@ -15,5 +15,5 @@
   schema:author "Cabrera, Lydia" ;
   schema:datePublished "1979" ;
   schema:publisher "Peninsular Print." ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .

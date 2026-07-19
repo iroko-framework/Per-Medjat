@@ -16,5 +16,5 @@
   schema:datePublished "2011" ;
   schema:publisher "Scarlet Imprint" ;
   dcterms:identifier "isbn:978-0-9567203-9-9" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Palo" .

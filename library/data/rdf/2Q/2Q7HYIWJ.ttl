@@ -17,5 +17,5 @@
   schema:datePublished "2007" ;
   schema:publisher "Praeger" ;
   dcterms:identifier "isbn:979-8-216-01082-1" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Santeria" .

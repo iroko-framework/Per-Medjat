@@ -16,5 +16,5 @@
   schema:author "Ayokunle Olumuyiwa Omobowale" ;
   schema:datePublished "2008" ;
   schema:publisher "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Secret Society", "African history and culture studies", "Oro", "Postcolonial and Cultural Literary Studies", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> ;
+  dcterms:subject "Secret Society", "African history and culture studies", "Oro", "Postcolonial and Cultural Literary Studies", "Yoruba-Derived" .

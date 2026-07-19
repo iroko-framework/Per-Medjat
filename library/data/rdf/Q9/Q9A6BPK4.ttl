@@ -17,4 +17,4 @@
   schema:datePublished "2025" ;
   schema:publisher "Cambridge University Press" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> .

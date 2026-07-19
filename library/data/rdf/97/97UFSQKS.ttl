@@ -17,5 +17,5 @@
   schema:datePublished "2004" ;
   schema:publisher "University Press of Kansas" ;
   dcterms:identifier "isbn:978-0-7006-1303-8" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi> ;
+  dcterms:subject "Lucumí" .

@@ -15,5 +15,5 @@
   schema:author "Hyatt, Harry Middleton" ;
   schema:datePublished "1970" ;
   schema:publisher "Printed by Western Pub.; distributed by American University Bookstore, Washington" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic> ;
-  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Syncretic/Creole" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-hoodoo> ;
+  dcterms:subject "African Americans -- Southern States", "Folklore -- Southern States", "Hoodoo (Cult)", "Medicine, Magic, mystic, and spagiric -- Southern States", "Hoodoo" .

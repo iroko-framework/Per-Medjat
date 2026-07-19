@@ -8,10 +8,12 @@
 
 <https://medjat.irokosociety.org/id/library/93PUVSID>
   a schema:ScholarlyArticle ;
-  schema:name "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro" ;
+  schema:name "Los Tambores Ñáñigos En El Museo Nacional (Madrid). La Sociedad Cubana Secreta Abakuá Y Las Trayectoriasen El Atlántico Negro" ;
   schema:url <https://medjat.irokosociety.org/library/?item=93PUVSID> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:93PUVSID" ;
+  schema:description "Dos de los tambores ñáñigos (ekué y bonkó enchemiyá), expuestos hoy en la Sala de América del Museo Nacional de Antropología, son objetos rituales incautados a la sociedad secreta Abakuá en Cuba. Su itinerario hasta el Museo Biblioteca de Ultramar de Madrid en 1889, se sitúa en un contexto social y político en los años previos a la independencia cubana, con detenciones, incautaciones y deportaciones de los denominados entonces ñáñigos (miembros de la sociedad Abakuá). Su exhibición en el museo en esos años tuvo consecuencias en los futuros estudios académicos que se han realizado sobre esta asociación religiosa afrocubana hasta hoy. La sociedad Abakuá recrea la sociedad Ekpe de Calabar (Nigeria/Camerún) llevada a Cuba por los esclavos carabalí. Muchos deportados ñáñigos llevaron de vuelta esta memoria africana a Fernando Poo (Guinea Ecuatorial). Iniciamos una reflexión sobre la aportación desde Calabar del grupo ndowe, con subgrupos étnicos en Guinea Ecuatorial, Camerún y Gabón, en un complejo entramado de trayectorias en el Atlántico negro..." ;
   schema:author "Isabela de Aranzadi" ;
   schema:datePublished "2015" ;
+  schema:publisher "Ministerio de Educación Cultura y Deporte (España)" ;
   dcterms:subject "Cuban History and Society", "Spanish Literature and Culture Studies" .

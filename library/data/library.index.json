@@ -371,46 +371,6 @@
     "recordPath": "/library/data/records/RE/REI9SVRS.json"
   },
   {
-    "key": "YFVJVVNN",
-    "title": "\"Don't Mess with the Saints\": Popular Music and Afro-Cuban Religion",
-    "subtitle": "",
-    "creators": [
-      "Alan West-Durán"
-    ],
-    "year": "2018",
-    "date": "2018",
-    "publisher": "Florida International University Digital Commons (Florida International University)",
-    "publicationLine": "Florida International University Digital Commons (Florida International University), 2018.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [
-      "Abakua",
-      "Lucumí",
-      "Palo"
-    ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-    },
-    "themes": [
-      "Music"
-    ],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Community",
-    "accessTier": "L1-community",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "https://digitalcommons.fiu.edu/cri_events/417",
-    "searchText": "\"don't mess with the saints\": popular music and afro-cuban religion alan west-durán 2018 florida international university digital commons (florida international university) journalarticle journal article abakua lucumí palo music cuban history and society cuban history and society theme: music tradition: abakua tradition: lucumí tradition: palo medjat-search:abakuá",
-    "recordPath": "/library/data/records/YF/YFVJVVNN.json"
-  },
-  {
     "key": "XDU3XS8A",
     "title": "Afro-Cuban Religions and the Arts",
     "subtitle": "",
@@ -501,6 +461,46 @@
     "recordPath": "/library/data/records/WY/WYHW3KR8.json"
   },
   {
+    "key": "YFVJVVNN",
+    "title": "Don't Mess with the Saints: Popular Music and Afro-Cuban Religion",
+    "subtitle": "",
+    "creators": [
+      "Alan West-Durán"
+    ],
+    "year": "2018",
+    "date": "2018",
+    "publisher": "Florida International University Digital Commons (Florida International University)",
+    "publicationLine": "Florida International University Digital Commons (Florida International University), 2018.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [
+      "Abakua",
+      "Lucumí",
+      "Palo"
+    ],
+    "traditionLinks": {
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
+    },
+    "themes": [
+      "Music"
+    ],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Community",
+    "accessTier": "L1-community",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://digitalcommons.fiu.edu/cri_events/417",
+    "searchText": "don't mess with the saints: popular music and afro-cuban religion alan west-durán 2018 florida international university digital commons (florida international university) journalarticle journal article abakua lucumí palo music cuban history and society cuban history and society theme: music tradition: abakua tradition: lucumí tradition: palo medjat-search:abakuá",
+    "recordPath": "/library/data/records/YF/YFVJVVNN.json"
+  },
+  {
     "key": "R4PJDIL3",
     "title": "Mito, literatura y nación: el mito de Sikán y la construcción del mundo Abakuá en Alejo Carpentier y Lydia Cabrera",
     "subtitle": "",
@@ -564,7 +564,7 @@
   },
   {
     "key": "K423QZUP",
-    "title": "\"Good For Rosetta\" : The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855",
+    "title": "Good For Rosetta: The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855",
     "subtitle": "",
     "creators": [
       "Alexandra Berg"
@@ -589,7 +589,7 @@
     "region": [],
     "doi": "10.15760/honors.920",
     "url": "https://doi.org/10.15760/honors.920",
-    "searchText": "\"good for rosetta\" : the fugitive slave law and the case of rosetta armstead in ohio, 1855 alexandra berg 2020 thesis thesis / dissertation american constitutional law and politics american history and culture race, history, and american society american constitutional law and politics american history and culture race, history, and american society medjat-search:slave-law",
+    "searchText": "good for rosetta: the fugitive slave law and the case of rosetta armstead in ohio, 1855 alexandra berg 2020 thesis thesis / dissertation american constitutional law and politics american history and culture race, history, and american society american constitutional law and politics american history and culture race, history, and american society medjat-search:slave-law",
     "recordPath": "/library/data/records/K4/K423QZUP.json"
   },
   {
@@ -653,36 +653,6 @@
     "searchText": "editorial: africa, the african diaspora & development alfred zack-williams giles mohan 2002 review of african political economy journalarticle journal article diaspora, migration, transnational identity migration and labor dynamics migration, ethnicity, and economy diaspora, migration, transnational identity migration and labor dynamics migration, ethnicity, and economy medjat-search:abakuá",
     "recordPath": "/library/data/records/FV/FVQ3XPLH.json",
     "volume": "29"
-  },
-  {
-    "key": "98XXK97S",
-    "title": "La sepultura de Belmeque (Beja, Bajo Alentejo). Contactos con el Egeo durante el Bronce Final I del suroeste de la Península Ibérica (1625-1425 AC)",
-    "subtitle": "",
-    "creators": [
-      "Alfredo Mederos Martín"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "Veleia",
-    "publicationLine": "Veleia, 2009.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.1387/veleia.1442",
-    "url": "https://doi.org/10.1387/veleia.1442",
-    "searchText": "la sepultura de belmeque (beja, bajo alentejo). contactos con el egeo durante el bronce final i del suroeste de la península ibérica (1625-1425 ac) alfredo mederos martín 2009 veleia journalarticle journal article archaeological and geological studies archaeological and historical studies archaeology and ancient environmental studies archaeological and geological studies archaeological and historical studies archaeology and ancient environmental studies medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/98/98XXK97S.json"
   },
   {
     "key": "4CP2MP6M",
@@ -954,36 +924,6 @@
     "url": "http://hdl.handle.net/2263/46081",
     "searchText": "an analysis of the evolution of the south african law on the warranty against latent defects andrea bauling 2014 upspace institutional repository (university of pretoria) thesis thesis / dissertation legal issues in south africa legal issues in south africa medjat-search:slave-law",
     "recordPath": "/library/data/records/8P/8PH48VQQ.json"
-  },
-  {
-    "key": "4K3LQ5TG",
-    "title": "High-Level Control System for Remote Controlled Surgical Robots: Haptic Guidance of Surgical Robot",
-    "subtitle": "",
-    "creators": [
-      "Andreas Nygaard"
-    ],
-    "year": "2008",
-    "date": "2008",
-    "publisher": "BIBSYS Brage (BIBSYS (Norway))",
-    "publicationLine": "BIBSYS Brage (BIBSYS (Norway)), 2008.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://hdl.handle.net/11250/259688",
-    "searchText": "high-level control system for remote controlled surgical robots: haptic guidance of surgical robot andreas nygaard 2008 bibsys brage (bibsys (norway)) thesis thesis / dissertation intraoperative neuromonitoring and anesthetic effects soft robotics and applications surgical simulation and training intraoperative neuromonitoring and anesthetic effects soft robotics and applications surgical simulation and training medjat-search:slave-law",
-    "recordPath": "/library/data/records/4K/4K3LQ5TG.json"
   },
   {
     "key": "BIGN969N",
@@ -1384,7 +1324,7 @@
   },
   {
     "key": "69SQD4W2",
-    "title": "\"For All Such, a Country is Provided\": Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841",
+    "title": "For All Such, a Country is Provided: Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841",
     "subtitle": "",
     "creators": [
       "Anthony Albey Soliman"
@@ -1409,7 +1349,7 @@
     "region": [],
     "doi": "10.15368/theses.2018.61",
     "url": "https://doi.org/10.15368/theses.2018.61",
-    "searchText": "\"for all such, a country is provided\": choctaw removal, slave trading, and law in southwestern mississippi, 1800-1841 anthony albey soliman 2018 thesis thesis / dissertation american constitutional law and politics american environmental and regional history race, history, and american society american constitutional law and politics american environmental and regional history race, history, and american society medjat-search:slave-law",
+    "searchText": "for all such, a country is provided: choctaw removal, slave trading, and law in southwestern mississippi, 1800-1841 anthony albey soliman 2018 thesis thesis / dissertation american constitutional law and politics american environmental and regional history race, history, and american society american constitutional law and politics american environmental and regional history race, history, and american society medjat-search:slave-law",
     "recordPath": "/library/data/records/69/69SQD4W2.json"
   },
   {
@@ -1443,7 +1383,7 @@
     "recordPath": "/library/data/records/KS/KS7CAVFG.json"
   },
   {
-    "key": "U7AHQGET",
+    "key": "979Y7KPQ",
     "title": "Humans in Shackles: An Atlantic History of Slavery",
     "subtitle": "",
     "creators": [
@@ -1452,7 +1392,7 @@
     "year": "2024",
     "date": "2024",
     "publisher": "University of Chicago Press",
-    "publicationLine": "University of Chicago Press, 2024.",
+    "publicationLine": "Chicago: University of Chicago Press, 2024.",
     "itemType": "book",
     "recordTypeLabel": "Monograph",
     "traditions": [],
@@ -1472,37 +1412,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.slaveryarchive.com/best-books-2024/",
-    "searchText": "humans in shackles: an atlantic history of slavery araujo, ana lucia 2024 university of chicago press book monograph afro-atlantic-history slave-trade access: public afro-atlantic atlantic slave trade comparative slavery & abolition studies comparative history access: public afro-atlantic atlantic slave trade comparative monograph slavery & abolition studies comparative history domain:afro-atlantic-history domain:slave-trade",
-    "recordPath": "/library/data/records/U7/U7AHQGET.json"
-  },
-  {
-    "key": "979Y7KPQ",
-    "title": "Humans in shackles: an Atlantic history of slavery",
-    "subtitle": "",
-    "creators": [
-      "Araujo, Ana Lucia"
-    ],
-    "year": "2024",
-    "date": "2024",
-    "publisher": "University of Chicago Press",
-    "publicationLine": "Chicago: University of Chicago Press, 2024.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "humans in shackles: an atlantic history of slavery araujo, ana lucia 2024 university of chicago press booksection book chapter slavery -- atlantic ocean region -- history slavery -- atlantic ocean region -- history",
+    "searchText": "humans in shackles: an atlantic history of slavery araujo, ana lucia 2024 university of chicago press book monograph afro-atlantic-history slave-trade access: public afro-atlantic atlantic slave trade comparative slavery & abolition studies slavery -- atlantic ocean region -- history comparative history access: public afro-atlantic atlantic slave trade comparative monograph slavery & abolition studies slavery -- atlantic ocean region -- history comparative history domain:afro-atlantic-history domain:slave-trade",
     "recordPath": "/library/data/records/97/979Y7KPQ.json"
   },
   {
@@ -1640,7 +1550,7 @@
   },
   {
     "key": "M5DGT7P8",
-    "title": "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE",
+    "title": "Human Right Violations in 12 Years a Slave",
     "subtitle": "",
     "creators": [
       "Bagus Ardian Hakim"
@@ -1984,7 +1894,7 @@
   },
   {
     "key": "M6WXYVC6",
-    "title": "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba",
+    "title": "If a Woman Knows Cult Secret, She Must Never Tell: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba",
     "subtitle": "",
     "creators": [
       "Bolaji Campbell"
@@ -2009,7 +1919,7 @@
     "region": [],
     "doi": "10.1162/afar_a_00667",
     "url": "https://doi.org/10.1162/afar_a_00667",
-    "searchText": "“if a woman knows cult secret, she must never tell”: ritual consecration, secrecy, and female power in egungun pageantry among the yoruba bolaji campbell 2021 african arts journalarticle journal article african history and culture analysis anthropological studies and insights african history and culture analysis anthropological studies and insights medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
+    "searchText": "if a woman knows cult secret, she must never tell: ritual consecration, secrecy, and female power in egungun pageantry among the yoruba bolaji campbell 2021 african arts journalarticle journal article african history and culture analysis anthropological studies and insights african history and culture analysis anthropological studies and insights medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/M6/M6WXYVC6.json",
     "volume": "55"
   },
@@ -2927,7 +2837,7 @@
   },
   {
     "key": "7TQFU9WZ",
-    "title": "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros",
+    "title": "A Caracterização Do Trabalho Análogo Ao Escravo Na Jurisprudência Dos Tribunais Brasileiros",
     "subtitle": "",
     "creators": [
       "Camila Guimarães de Melo"
@@ -3094,36 +3004,6 @@
     "recordPath": "/library/data/records/YG/YG4ICWJJ.json"
   },
   {
-    "key": "GNJEMSVS",
-    "title": "Design and Control of Self-organizing Systems",
-    "subtitle": "",
-    "creators": [
-      "Carlos Gershenson"
-    ],
-    "year": "2007",
-    "date": "2007",
-    "publisher": "CogPrints (University of Southampton)",
-    "publicationLine": "CogPrints (University of Southampton), 2007.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://cogprints.org/5442/1/thesis.pdf",
-    "searchText": "design and control of self-organizing systems carlos gershenson 2007 cogprints (university of southampton) thesis thesis / dissertation complex systems and decision making computability, logic, ai algorithms slime mold and myxomycetes research complex systems and decision making computability, logic, ai algorithms slime mold and myxomycetes research medjat-search:slave-law",
-    "recordPath": "/library/data/records/GN/GNJEMSVS.json"
-  },
-  {
     "key": "33TPMQJM",
     "title": "O festim dos bruxos : estudos sobre a religião no Brasil",
     "subtitle": "",
@@ -3182,36 +3062,6 @@
     "url": "https://doi.org/10.14264/375281",
     "searchText": "australian women and the great war : aspects of ideological change with particular emphasis on queensland carmel mary shute 1973 the university of queensland thesis thesis / dissertation australian history and society australian history and society medjat-search:slave-law",
     "recordPath": "/library/data/records/CJ/CJXKPZZR.json"
-  },
-  {
-    "key": "IF8PVC2B",
-    "title": "Una comunidad en busca de definición",
-    "subtitle": "",
-    "creators": [
-      "Carmelo Lisón Tolosana"
-    ],
-    "year": "1976",
-    "date": "1976",
-    "publisher": "Revista de Estudios Agrosociales",
-    "publicationLine": "Revista de Estudios Agrosociales, 1976.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "una comunidad en busca de definición carmelo lisón tolosana 1976 revista de estudios agrosociales journalarticle journal article historical and socio-economic studies of spain and related regions urbanism, landscape, and tourism studies historical and socio-economic studies of spain and related regions urbanism, landscape, and tourism studies medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/IF/IF8PVC2B.json"
   },
   {
     "key": "RJ7N62AI",
@@ -3461,37 +3311,6 @@
     "recordPath": "/library/data/records/Q8/Q8XPZWQY.json"
   },
   {
-    "key": "MJDSQJEH",
-    "title": "Os bruxos da administração: como entender a babel dos gurus empresariais",
-    "subtitle": "",
-    "creators": [
-      "Cecília Whitaker Bergamini"
-    ],
-    "year": "1998",
-    "date": "1998",
-    "publisher": "Revista de Administração de Empresas",
-    "publicationLine": "Revista de Administração de Empresas, 1998.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.1590/s0034-75901998000300009",
-    "url": "https://doi.org/10.1590/s0034-75901998000300009",
-    "searchText": "os bruxos da administração: como entender a babel dos gurus empresariais cecília whitaker bergamini 1998 revista de administração de empresas journalarticle journal article business and management studies business and management studies medjat-search:bruxos",
-    "recordPath": "/library/data/records/MJ/MJDSQJEH.json",
-    "volume": "38"
-  },
-  {
     "key": "ZJCM6CKX",
     "title": "El Ayuntamiento de Xalapa y su potestad fiscal: definición, negociación y milicias, 1794-1803",
     "subtitle": "",
@@ -3648,36 +3467,6 @@
     "url": "https://doi.org/10.17863/cam.41678",
     "searchText": "the impact of international law on british foreign policy to the united states, 1836-1846 charles graham earles 2019 apollo (university of cambridge) thesis thesis / dissertation american constitutional law and politics american constitutional law and politics medjat-search:slave-law",
     "recordPath": "/library/data/records/WA/WAPPND9D.json"
-  },
-  {
-    "key": "UQF7LRY6",
-    "title": "Automatic Guidance of Agricultural Wide-Span Implement Carrier (WSIC)",
-    "subtitle": "",
-    "creators": [
-      "Chengming Luo"
-    ],
-    "year": "2017",
-    "date": "2017",
-    "publisher": "uO Research (University of Ottawa)",
-    "publicationLine": "uO Research (University of Ottawa), 2017.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.20381/ruor-21308",
-    "url": "https://doi.org/10.20381/ruor-21308",
-    "searchText": "automatic guidance of agricultural wide-span implement carrier (wsic) chengming luo 2017 uo research (university of ottawa) thesis thesis / dissertation smart agriculture and ai smart agriculture and ai medjat-search:slave-law",
-    "recordPath": "/library/data/records/UQ/UQF7LRY6.json"
   },
   {
     "key": "GV7YZL42",
@@ -4082,37 +3871,6 @@
     "recordPath": "/library/data/records/8T/8TAZ2G7Z.json"
   },
   {
-    "key": "GV95RVWP",
-    "title": "Estudio y restauración de un casco griego del museo de Málaga",
-    "subtitle": "",
-    "creators": [
-      "Constanza Rodríguez Segovia",
-      "Esther Núñez Pariente de León"
-    ],
-    "year": "2015",
-    "date": "2015",
-    "publisher": "PH. Boletín del Instituto Andaluza del Patrimonio Histórico/PH/PH. Boletín del Instituto Andaluz del Patrimonio Histórico/Boletín informativo - Instituto Andaluz del Patrimonio Histórico",
-    "publicationLine": "PH. Boletín del Instituto Andaluza del Patrimonio Histórico/PH/PH. Boletín del Instituto Andaluz del Patrimonio Histórico/Boletín informativo - Instituto Andaluz del Patrimonio Histórico, 2015.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.33349/2015.0.3647",
-    "url": "https://doi.org/10.33349/2015.0.3647",
-    "searchText": "estudio y restauración de un casco griego del museo de málaga constanza rodríguez segovia esther núñez pariente de león 2015 ph. boletín del instituto andaluza del patrimonio histórico/ph/ph. boletín del instituto andaluz del patrimonio histórico/boletín informativo - instituto andaluz del patrimonio histórico journalarticle journal article archaeological and historical studies historical studies of medieval iberia maritime and coastal archaeology archaeological and historical studies historical studies of medieval iberia maritime and coastal archaeology medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/GV/GV95RVWP.json"
-  },
-  {
     "key": "QNVHRKME",
     "title": "The Development of Dark/Cultural Heritage as Attractions in Falmouth, Jamaica, West Indies",
     "subtitle": "",
@@ -4141,68 +3899,6 @@
     "url": "http://hdl.handle.net/10012/7330",
     "searchText": "the development of dark/cultural heritage as attractions in falmouth, jamaica, west indies copeland a. stupart 2013 uwspace (university of waterloo) thesis thesis / dissertation cultural heritage management and preservation diverse aspects of tourism research urban planning and governance cultural heritage management and preservation diverse aspects of tourism research urban planning and governance medjat-search:slave-law",
     "recordPath": "/library/data/records/QN/QNVHRKME.json"
-  },
-  {
-    "key": "ECL8HDP9",
-    "title": "MATERIAS PRIMAS Y OBJETOS DE PRESTIGIO EN AJUARES FUNERARIOS COMO TESTIMONIOS DE REDES DE INTERCAMBIO EN EL HORIZONTE CAMPANIFORME",
-    "subtitle": "",
-    "creators": [
-      "Corina Liesau",
-      "Concepción Blasco"
-    ],
-    "year": "2012",
-    "date": "2012",
-    "publisher": "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid",
-    "publicationLine": "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid, 2012.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.15366/cupauam2012.38.010",
-    "url": "https://doi.org/10.15366/cupauam2012.38.010",
-    "searchText": "materias primas y objetos de prestigio en ajuares funerarios como testimonios de redes de intercambio en el horizonte campaniforme corina liesau concepción blasco 2012 cuadernos de prehistoria y arqueología de la universidad autónoma de madrid journalarticle journal article archaeological and geological studies archaeological and historical studies archaeology and cultural heritage archaeological and geological studies archaeological and historical studies archaeology and cultural heritage medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/EC/ECL8HDP9.json",
-    "volume": "38"
-  },
-  {
-    "key": "D5437JIQ",
-    "title": "Bewhoherenow : philosophy of existing sense : a thesis presented in partial fulfilment of the requirements for the degree of Ph. D. in Social Policy and Social Work at Massey University",
-    "subtitle": "",
-    "creators": [
-      "Craig Goodwillie"
-    ],
-    "year": "1995",
-    "date": "1995",
-    "publisher": "",
-    "publicationLine": "1995.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://hdl.handle.net/10179/4622",
-    "searchText": "bewhoherenow : philosophy of existing sense : a thesis presented in partial fulfilment of the requirements for the degree of ph. d. in social policy and social work at massey university craig goodwillie 1995 thesis thesis / dissertation ontology philosophy theological perspectives and practices ontology philosophy theological perspectives and practices medjat-search:slave-law",
-    "recordPath": "/library/data/records/D5/D5437JIQ.json"
   },
   {
     "key": "F5IQS7UI",
@@ -5024,7 +4720,7 @@
   },
   {
     "key": "GCLQ7AP9",
-    "title": "The right to petition for redress of grievances: constitutional development and interpretations.",
+    "title": "The Right to Petition for Redress of Grievances: Constitutional Development and Interpretations",
     "subtitle": "",
     "creators": [
       "Don L Smith"
@@ -5049,7 +4745,7 @@
     "region": [],
     "doi": "",
     "url": "http://hdl.handle.net/2346/19658",
-    "searchText": "the right to petition for redress of grievances: constitutional development and interpretations. don l smith 1971 thinktech (texas tech university) thesis thesis / dissertation criminal law and evidence legal rights and human rights ombudsman and human rights criminal law and evidence legal rights and human rights ombudsman and human rights medjat-search:slave-law",
+    "searchText": "the right to petition for redress of grievances: constitutional development and interpretations don l smith 1971 thinktech (texas tech university) thesis thesis / dissertation criminal law and evidence legal rights and human rights ombudsman and human rights criminal law and evidence legal rights and human rights ombudsman and human rights medjat-search:slave-law",
     "recordPath": "/library/data/records/GC/GCLQ7AP9.json"
   },
   {
@@ -5486,7 +5182,7 @@
   },
   {
     "key": "CPTGB44A",
-    "title": "“I Got Voodoo, I Got Hoodoo”: Ethnography and Its Objects in Disney’sthe Princess and the Frog",
+    "title": "I Got Voodoo, I Got Hoodoo: Ethnography and Its Objects in Disney’sthe Princess and the Frog",
     "subtitle": "",
     "creators": [
       "Elizabeth Pérez"
@@ -5511,7 +5207,7 @@
     "region": [],
     "doi": "10.1080/17432200.2021.1877954",
     "url": "https://doi.org/10.1080/17432200.2021.1877954",
-    "searchText": "“i got voodoo, i got hoodoo”: ethnography and its objects in disney’sthe princess and the frog elizabeth pérez 2021 material religion journalarticle journal article caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade medjat-search:abakuá",
+    "searchText": "i got voodoo, i got hoodoo: ethnography and its objects in disney’sthe princess and the frog elizabeth pérez 2021 material religion journalarticle journal article caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade medjat-search:abakuá",
     "recordPath": "/library/data/records/CP/CPTGB44A.json",
     "volume": "17"
   },
@@ -5638,37 +5334,6 @@
     "recordPath": "/library/data/records/SC/SC2T9H7A.json"
   },
   {
-    "key": "UF5XH666",
-    "title": "EL HOMBRE Y EL ANIMAL EN LA COLOMBIA PREHISPÁNICA: ESTUDIO DE UNA RELACIÓN EN LA ORFEBRERÍA",
-    "subtitle": "",
-    "creators": [
-      "Enora Gault"
-    ],
-    "year": "2012",
-    "date": "2012",
-    "publisher": "Boletín del Museo Chileno de Arte Precolombino",
-    "publicationLine": "Boletín del Museo Chileno de Arte Precolombino, 2012.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.4067/s0718-68942012000100002",
-    "url": "https://doi.org/10.4067/s0718-68942012000100002",
-    "searchText": "el hombre y el animal en la colombia prehispánica: estudio de una relación en la orfebrería enora gault 2012 boletín del museo chileno de arte precolombino journalarticle journal article cultural and mythological studies literary and cultural studies cultural and mythological studies literary and cultural studies medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/UF/UF5XH666.json",
-    "volume": "17"
-  },
-  {
     "key": "33W6BYLK",
     "title": "Mastering Emotions: The Emotional Politics of Slavery",
     "subtitle": "",
@@ -5730,7 +5395,7 @@
   },
   {
     "key": "I5U4EDX6",
-    "title": "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY",
+    "title": "Ekpu-Oro: Studies in Oron Cosmology and Cultural History",
     "subtitle": "",
     "creators": [
       "Etim E. Okon"
@@ -5927,36 +5592,6 @@
     "url": "https://doi.org/10.47749/t/unicamp.2020.1128753",
     "searchText": "o trabalho análogo ao escravo na justiça do trabalho felipe da silva pinto adão 2020 thesis thesis / dissertation brazilian legal issues development, ethics, and society social and political issues brazilian legal issues development, ethics, and society social and political issues medjat-search:slave-law",
     "recordPath": "/library/data/records/8K/8KB9E2JJ.json"
-  },
-  {
-    "key": "23BLQAQA",
-    "title": "Automatic Performance Analysis on Parallel Computers with SMP Nodes",
-    "subtitle": "",
-    "creators": [
-      "Felix Wolf"
-    ],
-    "year": "2003",
-    "date": "2003",
-    "publisher": "JuSER (Forschungszentrum Jülich)",
-    "publicationLine": "JuSER (Forschungszentrum Jülich), 2003.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://juser.fz-juelich.de/record/28146/files/NIC202343.pdf",
-    "searchText": "automatic performance analysis on parallel computers with smp nodes felix wolf 2003 juser (forschungszentrum jülich) thesis thesis / dissertation cloud computing and resource management distributed and parallel computing systems cloud computing and resource management distributed and parallel computing systems medjat-search:slave-law",
-    "recordPath": "/library/data/records/23/23BLQAQA.json"
   },
   {
     "key": "ALVV8DXE",
@@ -6663,7 +6298,7 @@
   },
   {
     "key": "E2PIGP3D",
-    "title": "WHAT GOD HATH WROUGHT: THE EMBODIMENT OF FREEDOM IN THE THIRTEENTH AMENDMENT",
+    "title": "What God Hath Wrought: The Embodiment of Freedom in the Thirteenth Amendment",
     "subtitle": "",
     "creators": [
       "George H. Hoemann"
@@ -8561,7 +8196,7 @@
   },
   {
     "key": "CZY9TH7X",
-    "title": "La cultura musical Ndowe en el tránsito esclavista del Atlántico. Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial / Ndowe Musical cultura in the Atlantic slave trade. Influence on Cuban society Abakuá and return...",
+    "title": "La Cultura Musical Ndowe En El Tránsito Esclavista Del Atlántico. Influencia En La Sociedad Cubana Abakuá Y De Vuelta a África, En Guinea Ecuatorial / Ndowe Musical Cultura in the Atlantic Slave Trade. Influence on Cuban Society Abakuá and Return to Africa in Equatorial Guinea",
     "subtitle": "",
     "creators": [
       "Isabela de Aranzadi"
@@ -8585,81 +8220,21 @@
     "language": [],
     "region": [],
     "doi": "",
-    "url": "",
-    "searchText": "la cultura musical ndowe en el tránsito esclavista del atlántico. influencia en la sociedad cubana abakuá y de vuelta a áfrica, en guinea ecuatorial / ndowe musical cultura in the atlantic slave trade. influence on cuban society abakuá and return... isabela de aranzadi 2014 coloquios de historia canario americana journalarticle journal article cuban history and society hispanic-african historical relations cuban history and society hispanic-african historical relations medjat-search:abakuá",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7343421",
+    "searchText": "la cultura musical ndowe en el tránsito esclavista del atlántico. influencia en la sociedad cubana abakuá y de vuelta a áfrica, en guinea ecuatorial / ndowe musical cultura in the atlantic slave trade. influence on cuban society abakuá and return to africa in equatorial guinea isabela de aranzadi 2014 coloquios de historia canario americana journalarticle journal article cuban history and society hispanic-african historical relations media, journalism, and communication history spanish literature and culture studies cuban history and society hispanic-african historical relations media, journalism, and communication history spanish literature and culture studies medjat-search:abakuá",
     "recordPath": "/library/data/records/CZ/CZY9TH7X.json"
   },
   {
-    "key": "RKEV68GA",
-    "title": "LA CULTURA MUSICAL NDOWE EN EL TRÁNSITO ESCLAVISTA DEL ATLÁNTICO. INFLUENCIA EN LA SOCIEDAD CUBANA ABAKUÁ Y DE VUELTA A ÁFRICA, EN GUINEA ECUATORIAL NDOWE MUSICAL CULTURE IN THE ATLANTIC SLAVE TRADE. INFLUENCE ON CUBAN SOCIETY ABAKUÁ AND RETURN TO AFRICA IN EQUATORIAL GUINEA",
-    "subtitle": "",
-    "creators": [
-      "Isabela de Aranzadi"
-    ],
-    "year": "2016",
-    "date": "2016",
-    "publisher": "",
-    "publicationLine": "2016.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "la cultura musical ndowe en el tránsito esclavista del atlántico. influencia en la sociedad cubana abakuá y de vuelta a áfrica, en guinea ecuatorial ndowe musical culture in the atlantic slave trade. influence on cuban society abakuá and return to africa in equatorial guinea isabela de aranzadi 2016 journalarticle journal article hispanic-african historical relations media, journalism, and communication history spanish literature and culture studies hispanic-african historical relations media, journalism, and communication history spanish literature and culture studies medjat-search:abakuá",
-    "recordPath": "/library/data/records/RK/RKEV68GA.json"
-  },
-  {
-    "key": "G467Q3IC",
-    "title": "La cultura musical Ndowe en el tránsito esclavista del Atlántico.: Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial",
-    "subtitle": "",
-    "creators": [
-      "Isabela de Aranzadi"
-    ],
-    "year": "2016",
-    "date": "2016",
-    "publisher": "Dialnet (Universidad de la Rioja)",
-    "publicationLine": "Dialnet (Universidad de la Rioja), 2016.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "la cultura musical ndowe en el tránsito esclavista del atlántico.: influencia en la sociedad cubana abakuá y de vuelta a áfrica, en guinea ecuatorial isabela de aranzadi 2016 dialnet (universidad de la rioja) journalarticle journal article hispanic-african historical relations hispanic-african historical relations medjat-search:abakuá",
-    "recordPath": "/library/data/records/G4/G467Q3IC.json"
-  },
-  {
     "key": "93PUVSID",
-    "title": "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro",
+    "title": "Los Tambores Ñáñigos En El Museo Nacional (Madrid). La Sociedad Cubana Secreta Abakuá Y Las Trayectoriasen El Atlántico Negro",
     "subtitle": "",
     "creators": [
       "Isabela de Aranzadi"
     ],
     "year": "2015",
     "date": "2015",
-    "publisher": "",
-    "publicationLine": "2015.",
+    "publisher": "Ministerio de Educación Cultura y Deporte (España)",
+    "publicationLine": "Ministerio de Educación Cultura y Deporte (España), 2015.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [],
@@ -8675,39 +8250,9 @@
     "language": [],
     "region": [],
     "doi": "",
-    "url": "",
-    "searchText": "los tambores ñáñigos en el museo nacional (madrid). la sociedad cubana secreta abakuá y las trayectoriasen el atlántico negro isabela de aranzadi 2015 journalarticle journal article cuban history and society spanish literature and culture studies cuban history and society spanish literature and culture studies medjat-search:abakuá",
+    "url": "http://hdl.handle.net/10486/674671",
+    "searchText": "los tambores ñáñigos en el museo nacional (madrid). la sociedad cubana secreta abakuá y las trayectoriasen el atlántico negro isabela de aranzadi 2015 ministerio de educación cultura y deporte (españa) journalarticle journal article cuban history and society spanish literature and culture studies cuban history and society spanish literature and culture studies medjat-search:abakuá",
     "recordPath": "/library/data/records/93/93PUVSID.json"
-  },
-  {
-    "key": "IAIZRMIP",
-    "title": "Los tambores ñáñigos en el Museo Nacional de Antropología (Madrid): la sociedad cubana secreta Abakuá y las trayectorias en el Atlántico negro",
-    "subtitle": "",
-    "creators": [
-      "Isabela de Aranzadi"
-    ],
-    "year": "2015",
-    "date": "2015",
-    "publisher": "Anales del Museo Nacional de Antropología",
-    "publicationLine": "Anales del Museo Nacional de Antropología, 2015.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "los tambores ñáñigos en el museo nacional de antropología (madrid): la sociedad cubana secreta abakuá y las trayectorias en el atlántico negro isabela de aranzadi 2015 anales del museo nacional de antropología journalarticle journal article cuban history and society hispanic-african historical relations cuban history and society hispanic-african historical relations medjat-search:abakuá",
-    "recordPath": "/library/data/records/IA/IAIZRMIP.json"
   },
   {
     "key": "4C8UTV46",
@@ -8831,186 +8376,6 @@
     "volume": "5"
   },
   {
-    "key": "5JRTNG8Z",
-    "title": ". Arrival",
-    "subtitle": "",
-    "creators": [
-      "Ivor L. Miller"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "",
-    "publicationLine": "2009.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.14325/mississippi/9781934110836.003.0002",
-    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0002",
-    "searchText": ". arrival ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
-    "recordPath": "/library/data/records/5J/5JRTNG8Z.json"
-  },
-  {
-    "key": "M93AUQIH",
-    "title": ". Conclusions",
-    "subtitle": "",
-    "creators": [
-      "Ivor L. Miller"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "",
-    "publicationLine": "2009.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.14325/mississippi/9781934110836.003.0009",
-    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0009",
-    "searchText": ". conclusions ivor l. miller 2009 booksection book chapter colonialism, slavery, and trade cuban history and society historical studies in central america colonialism, slavery, and trade cuban history and society historical studies in central america medjat-search:abakuá",
-    "recordPath": "/library/data/records/M9/M93AUQIH.json"
-  },
-  {
-    "key": "9HMVLEJZ",
-    "title": ". Disintegration of the Spanish Empire",
-    "subtitle": "",
-    "creators": [
-      "Ivor L. Miller"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "",
-    "publicationLine": "2009.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.14325/mississippi/9781934110836.003.0007",
-    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0007",
-    "searchText": ". disintegration of the spanish empire ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
-    "recordPath": "/library/data/records/9H/9HMVLEJZ.json"
-  },
-  {
-    "key": "V8LYB2MK",
-    "title": ". Dispersal",
-    "subtitle": "",
-    "creators": [
-      "Ivor L. Miller"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "",
-    "publicationLine": "2009.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.14325/mississippi/9781934110836.003.0006",
-    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0006",
-    "searchText": ". dispersal ivor l. miller 2009 booksection book chapter colonialism, slavery, and trade colonialism, slavery, and trade medjat-search:abakuá",
-    "recordPath": "/library/data/records/V8/V8LYB2MK.json"
-  },
-  {
-    "key": "LDADYYKY",
-    "title": ". Havana Is the Key",
-    "subtitle": "",
-    "creators": [
-      "Ivor L. Miller"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "",
-    "publicationLine": "2009.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.14325/mississippi/9781934110836.003.0008",
-    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0008",
-    "searchText": ". havana is the key ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
-    "recordPath": "/library/data/records/LD/LDADYYKY.json"
-  },
-  {
-    "key": "75F4QC2L",
-    "title": ". Planting Abakuá in Cuba, 1830s to 1860s",
-    "subtitle": "",
-    "creators": [
-      "Ivor L. Miller"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "",
-    "publicationLine": "2009.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.14325/mississippi/9781934110836.003.0004",
-    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0004",
-    "searchText": ". planting abakuá in cuba, 1830s to 1860s ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
-    "recordPath": "/library/data/records/75/75F4QC2L.json"
-  },
-  {
     "key": "QNUU9ZMT",
     "title": "A Secret Society Goes Public: The Relationship between Abakua and Cuban Popular Culture",
     "subtitle": "",
@@ -9078,6 +8443,36 @@
     ]
   },
   {
+    "key": "5JRTNG8Z",
+    "title": "Arrival",
+    "subtitle": "",
+    "creators": [
+      "Ivor L. Miller"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationLine": "2009.",
+    "itemType": "bookSection",
+    "recordTypeLabel": "Book Chapter",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.14325/mississippi/9781934110836.003.0002",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0002",
+    "searchText": "arrival ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
+    "recordPath": "/library/data/records/5J/5JRTNG8Z.json"
+  },
+  {
     "key": "IDEDRSSK",
     "title": "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City",
     "subtitle": "",
@@ -9107,6 +8502,36 @@
     "searchText": "bongó itá: leopard society music and language in west africa, western cuba, and new york city ivor l. miller 2011 african and black diaspora an international journal journalarticle journal article caribbean and african literature and culture caribbean history, culture, and politics hispanic-african historical relations caribbean and african literature and culture caribbean history, culture, and politics hispanic-african historical relations medjat-search:abakuá",
     "recordPath": "/library/data/records/ID/IDEDRSSK.json",
     "volume": "5"
+  },
+  {
+    "key": "M93AUQIH",
+    "title": "Conclusions",
+    "subtitle": "",
+    "creators": [
+      "Ivor L. Miller"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationLine": "2009.",
+    "itemType": "bookSection",
+    "recordTypeLabel": "Book Chapter",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.14325/mississippi/9781934110836.003.0009",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0009",
+    "searchText": "conclusions ivor l. miller 2009 booksection book chapter colonialism, slavery, and trade cuban history and society historical studies in central america colonialism, slavery, and trade cuban history and society historical studies in central america medjat-search:abakuá",
+    "recordPath": "/library/data/records/M9/M93AUQIH.json"
   },
   {
     "key": "8C7BRIYB",
@@ -9170,6 +8595,66 @@
     "recordPath": "/library/data/records/8P/8PNBJB8G.json"
   },
   {
+    "key": "9HMVLEJZ",
+    "title": "Disintegration of the Spanish Empire",
+    "subtitle": "",
+    "creators": [
+      "Ivor L. Miller"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationLine": "2009.",
+    "itemType": "bookSection",
+    "recordTypeLabel": "Book Chapter",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.14325/mississippi/9781934110836.003.0007",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0007",
+    "searchText": "disintegration of the spanish empire ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
+    "recordPath": "/library/data/records/9H/9HMVLEJZ.json"
+  },
+  {
+    "key": "V8LYB2MK",
+    "title": "Dispersal",
+    "subtitle": "",
+    "creators": [
+      "Ivor L. Miller"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationLine": "2009.",
+    "itemType": "bookSection",
+    "recordTypeLabel": "Book Chapter",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.14325/mississippi/9781934110836.003.0006",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0006",
+    "searchText": "dispersal ivor l. miller 2009 booksection book chapter colonialism, slavery, and trade colonialism, slavery, and trade medjat-search:abakuá",
+    "recordPath": "/library/data/records/V8/V8LYB2MK.json"
+  },
+  {
     "key": "FEH9BKW7",
     "title": "Elephant and Leopard Symbols in the Cross River Region and Its Caribbean Diaspora",
     "subtitle": "",
@@ -9201,6 +8686,36 @@
     "volume": "59"
   },
   {
+    "key": "LDADYYKY",
+    "title": "Havana Is the Key",
+    "subtitle": "",
+    "creators": [
+      "Ivor L. Miller"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationLine": "2009.",
+    "itemType": "bookSection",
+    "recordTypeLabel": "Book Chapter",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.14325/mississippi/9781934110836.003.0008",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0008",
+    "searchText": "havana is the key ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
+    "recordPath": "/library/data/records/LD/LDADYYKY.json"
+  },
+  {
     "key": "A459C3DY",
     "title": "Introduction",
     "subtitle": "",
@@ -9229,6 +8744,36 @@
     "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0001",
     "searchText": "introduction ivor l. miller 2009 booksection book chapter african history and culture studies african history and culture studies medjat-search:abakuá",
     "recordPath": "/library/data/records/A4/A459C3DY.json"
+  },
+  {
+    "key": "75F4QC2L",
+    "title": "Planting Abakuá in Cuba, 1830s to 1860s",
+    "subtitle": "",
+    "creators": [
+      "Ivor L. Miller"
+    ],
+    "year": "2009",
+    "date": "2009",
+    "publisher": "",
+    "publicationLine": "2009.",
+    "itemType": "bookSection",
+    "recordTypeLabel": "Book Chapter",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "10.14325/mississippi/9781934110836.003.0004",
+    "url": "https://doi.org/10.14325/mississippi/9781934110836.003.0004",
+    "searchText": "planting abakuá in cuba, 1830s to 1860s ivor l. miller 2009 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
+    "recordPath": "/library/data/records/75/75F4QC2L.json"
   },
   {
     "key": "BM3G5K2E",
@@ -9324,36 +8869,6 @@
     "recordPath": "/library/data/records/TW/TWXAN2ZZ.json"
   },
   {
-    "key": "KZ5CK3A5",
-    "title": "Damage-controlled logging in managed tropical rain forest in Suriname",
-    "subtitle": "",
-    "creators": [
-      "J. Hendrison"
-    ],
-    "year": "1990",
-    "date": "1990",
-    "publisher": "",
-    "publicationLine": "1990.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.18174/202887",
-    "url": "https://doi.org/10.18174/202887",
-    "searchText": "damage-controlled logging in managed tropical rain forest in suriname j. hendrison 1990 thesis thesis / dissertation agriculture and rural development research forest biomass utilization and management forest management and policy agriculture and rural development research forest biomass utilization and management forest management and policy medjat-search:slave-law",
-    "recordPath": "/library/data/records/KZ/KZ5CK3A5.json"
-  },
-  {
     "key": "368TY97R",
     "title": "The 'slave of all': a tradition-historical study of a synoptic saying",
     "subtitle": "",
@@ -9382,36 +8897,6 @@
     "url": "http://etheses.dur.ac.uk/6843/1/6843_4148.PDF",
     "searchText": "the 'slave of all': a tradition-historical study of a synoptic saying j.e. mcdermond 1987 durham e-theses (durham university) thesis thesis / dissertation archaeology and historical studies biblical studies and interpretation archaeology and historical studies biblical studies and interpretation medjat-search:slave-law",
     "recordPath": "/library/data/records/36/368TY97R.json"
-  },
-  {
-    "key": "3VGMGNZV",
-    "title": "Gold jewellery in Ptolemaic, Roman and Byzantine Egypt",
-    "subtitle": "",
-    "creators": [
-      "Jack Ogden"
-    ],
-    "year": "1990",
-    "date": "1990",
-    "publisher": "Durham e-Theses (Durham University)",
-    "publicationLine": "Durham e-Theses (Durham University), 1990.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://etheses.dur.ac.uk/1457/2/1457_v2.pdf",
-    "searchText": "gold jewellery in ptolemaic, roman and byzantine egypt jack ogden 1990 durham e-theses (durham university) thesis thesis / dissertation law, logistics, and international trade maritime and coastal archaeology metallurgy and cultural artifacts law, logistics, and international trade maritime and coastal archaeology metallurgy and cultural artifacts medjat-search:slave-law",
-    "recordPath": "/library/data/records/3V/3VGMGNZV.json"
   },
   {
     "key": "9AR8BHL5",
@@ -9746,37 +9231,6 @@
     "recordPath": "/library/data/records/DJ/DJMZNXXC.json"
   },
   {
-    "key": "5JA7MW82",
-    "title": "Fíbula de codo tipo Huelva en el entorno norte de la Vega de Granada",
-    "subtitle": "",
-    "creators": [
-      "Javier Carrasco Rus",
-      "Juan Antonio Pachón Romero"
-    ],
-    "year": "2001",
-    "date": "2001",
-    "publisher": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla",
-    "publicationLine": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla, 2001.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.12795/spal.2001.i10.16",
-    "url": "https://doi.org/10.12795/spal.2001.i10.16",
-    "searchText": "fíbula de codo tipo huelva en el entorno norte de la vega de granada javier carrasco rus juan antonio pachón romero 2001 spal revista de prehistoria y arqueología de la universidad de sevilla journalarticle journal article archaeological and geological studies archaeological and historical studies historical studies of medieval iberia archaeological and geological studies archaeological and historical studies historical studies of medieval iberia medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/5J/5JA7MW82.json"
-  },
-  {
     "key": "5ASHK9SK",
     "title": "The Many Faces of Art in Global Africa",
     "subtitle": "",
@@ -9899,7 +9353,7 @@
   },
   {
     "key": "8MKQ77U3",
-    "title": "\"And Be It So Enacted\": Natural Law and Southern Federalism in the Fugitive Slave Controversy",
+    "title": "And Be It So Enacted: Natural Law and Southern Federalism in the Fugitive Slave Controversy",
     "subtitle": "",
     "creators": [
       "Jenkins, Natasha Townsel"
@@ -9924,7 +9378,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "\"and be it so enacted\": natural law and southern federalism in the fugitive slave controversy jenkins, natasha townsel 2017 snhu academic archive (southern new hampshire university) thesis thesis / dissertation american constitutional law and politics colonialism, slavery, and trade music education and analysis american constitutional law and politics colonialism, slavery, and trade music education and analysis medjat-search:slave-law",
+    "searchText": "and be it so enacted: natural law and southern federalism in the fugitive slave controversy jenkins, natasha townsel 2017 snhu academic archive (southern new hampshire university) thesis thesis / dissertation american constitutional law and politics colonialism, slavery, and trade music education and analysis american constitutional law and politics colonialism, slavery, and trade music education and analysis medjat-search:slave-law",
     "recordPath": "/library/data/records/8M/8MKQ77U3.json"
   },
   {
@@ -10230,7 +9684,7 @@
   },
   {
     "key": "QWBYJ79H",
-    "title": "LAS RELIGIONES POPULARES CUBANAS: BREVES COMENTARIOS A MEDIO SIGLO",
+    "title": "Las Religiones Populares Cubanas: Breves Comentarios a Medio Siglo",
     "subtitle": "",
     "creators": [
       "Jesús Guanche"
@@ -10692,36 +10146,6 @@
     "recordPath": "/library/data/records/KH/KHNC58LP.json"
   },
   {
-    "key": "6AUVH3WM",
-    "title": "Time domain passivity control for delayed teleoperation",
-    "subtitle": "",
-    "creators": [
-      "Jordi Artigas Esclusa"
-    ],
-    "year": "2014",
-    "date": "2014",
-    "publisher": "",
-    "publicationLine": "2014.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.20868/upm.thesis.33677",
-    "url": "https://doi.org/10.20868/upm.thesis.33677",
-    "searchText": "time domain passivity control for delayed teleoperation jordi artigas esclusa 2014 thesis thesis / dissertation teleoperation and haptic systems teleoperation and haptic systems medjat-search:slave-law",
-    "recordPath": "/library/data/records/6A/6AUVH3WM.json"
-  },
-  {
     "key": "P8G69BBI",
     "title": "After the Revolution: The Search for Roots in Afro-Cuban Culture",
     "subtitle": "",
@@ -11157,38 +10581,6 @@
     "searchText": "les signatures des dieux. graphismes et action rituelle dans les religions afro-cubaines julien bonhomme katerina kerestetzi 2015 gradhiva journalarticle journal article diverse multidisciplinary academic research linguistics and discourse analysis literary and cultural studies diverse multidisciplinary academic research linguistics and discourse analysis literary and cultural studies medjat-search:abakuá",
     "recordPath": "/library/data/records/8K/8KFF6B7K.json",
     "volume": "22"
-  },
-  {
-    "key": "GMKJBA5V",
-    "title": "Estudio tecnológico de las estatuillas antropomorfas y de los tupus miniatura del hallazgo de Paucartambo (Cusco, Perú)",
-    "subtitle": "",
-    "creators": [
-      "Julio César Sierra Palomino",
-      "María Filomena Guerra"
-    ],
-    "year": "2017",
-    "date": "2017",
-    "publisher": "Bulletin de l’Institut français d’études andines",
-    "publicationLine": "Bulletin de l’Institut français d’études andines, 2017.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.4000/bifea.8387",
-    "url": "https://doi.org/10.4000/bifea.8387",
-    "searchText": "estudio tecnológico de las estatuillas antropomorfas y de los tupus miniatura del hallazgo de paucartambo (cusco, perú) julio césar sierra palomino maría filomena guerra 2017 bulletin de l’institut français d’études andines journalarticle journal article archaeology and ancient environmental studies conservation techniques and studies cultural heritage materials analysis archaeology and ancient environmental studies conservation techniques and studies cultural heritage materials analysis medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/GM/GMKJBA5V.json",
-    "volume": "46 (1)"
   },
   {
     "key": "9E7UIAFM",
@@ -11878,38 +11270,6 @@
     "recordPath": "/library/data/records/9M/9MP3U56T.json"
   },
   {
-    "key": "VDSL6DP6",
-    "title": "El legado de Borgoña. Fiesta y ceremonia cortesana en la Europa de los Austrias (1454-1648)",
-    "subtitle": "",
-    "creators": [
-      "Krista De Jonge",
-      "Bernardo José García García",
-      "Alicia Esteban Estríngana"
-    ],
-    "year": "2010",
-    "date": "2010",
-    "publisher": "Medical Entomology and Zoology",
-    "publicationLine": "Medical Entomology and Zoology, 2010.",
-    "itemType": "book",
-    "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "el legado de borgoña. fiesta y ceremonia cortesana en la europa de los austrias (1454-1648) krista de jonge bernardo josé garcía garcía alicia esteban estríngana 2010 medical entomology and zoology book book historical influence and diplomacy medieval and early modern iberia spanish literature and culture studies historical influence and diplomacy medieval and early modern iberia spanish literature and culture studies medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/VD/VDSL6DP6.json"
-  },
-  {
     "key": "IXYVLFVG",
     "title": "Illicit Mobilities and Wandering Lives: Indigent Transiency in the Mid-Atlantic, 1816-1850",
     "subtitle": "",
@@ -12028,36 +11388,6 @@
     "url": "https://doi.org/10.35645/1711-011-003-012",
     "searchText": "los abakuá: identidadyresistencia cultural en la historia cubana lahouaria naab 2025 مجلة جسور المعرفة journalarticle journal article afro-latin american studies cuban history and society historical studies in central america afro-latin american studies cuban history and society historical studies in central america medjat-search:abakuá",
     "recordPath": "/library/data/records/J5/J52XLG83.json"
-  },
-  {
-    "key": "ZRD9RY6U",
-    "title": "Hybrid machine modelling and control.",
-    "subtitle": "",
-    "creators": [
-      "Lale Canan Tokuz"
-    ],
-    "year": "2016",
-    "date": "2016",
-    "publisher": "Liverpool John Moores University",
-    "publicationLine": "Liverpool John Moores University, 2016.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.24377/ljmu.t.00005039",
-    "url": "https://doi.org/10.24377/ljmu.t.00005039",
-    "searchText": "hybrid machine modelling and control. lale canan tokuz 2016 liverpool john moores university thesis thesis / dissertation control and stability of dynamical systems modeling and simulation systems robotic mechanisms and dynamics control and stability of dynamical systems modeling and simulation systems robotic mechanisms and dynamics medjat-search:slave-law",
-    "recordPath": "/library/data/records/ZR/ZRD9RY6U.json"
   },
   {
     "key": "HQHXF794",
@@ -12273,7 +11603,7 @@
   },
   {
     "key": "M3T43XL3",
-    "title": "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez",
+    "title": "La Revolución La Hicieron Los Hombres, Los Machos: La Remise En Cause Du Machisme Dans De Cierta Manera (1974-1977), De Sara Gómez",
     "subtitle": "",
     "creators": [
       "Laure Pérez"
@@ -12298,7 +11628,7 @@
     "region": [],
     "doi": "",
     "url": "https://hal.science/hal-03779360",
-    "searchText": "\"la revolución la hicieron los hombres, los machos\": la remise en cause du machisme dans de cierta manera (1974-1977), de sara gómez laure pérez 2020 hal (le centre pour la communication scientifique directe) journalarticle journal article cinema history and criticism spanish culture and identity cinema history and criticism spanish culture and identity medjat-search:abakuá",
+    "searchText": "la revolución la hicieron los hombres, los machos: la remise en cause du machisme dans de cierta manera (1974-1977), de sara gómez laure pérez 2020 hal (le centre pour la communication scientifique directe) journalarticle journal article cinema history and criticism spanish culture and identity cinema history and criticism spanish culture and identity medjat-search:abakuá",
     "recordPath": "/library/data/records/M3/M3T43XL3.json"
   },
   {
@@ -12875,37 +12205,6 @@
     "recordPath": "/library/data/records/KC/KCBUP9MX.json"
   },
   {
-    "key": "SHNDVPPA",
-    "title": "Creole Religions of the Caribbean",
-    "subtitle": "",
-    "creators": [
-      "Lizabeth Paravisini-Gebert",
-      "Margarite Fernández Olmos"
-    ],
-    "year": "2020",
-    "date": "2020",
-    "publisher": "New York University Press eBooks",
-    "publicationLine": "New York University Press eBooks, 2020.",
-    "itemType": "book",
-    "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.18574/nyu/9780814728253.001.0001",
-    "url": "https://doi.org/10.18574/nyu/9780814728253.001.0001",
-    "searchText": "creole religions of the caribbean lizabeth paravisini-gebert margarite fernández olmos 2020 new york university press ebooks book book caribbean history, culture, and politics colonialism, slavery, and trade caribbean history, culture, and politics colonialism, slavery, and trade medjat-search:abakuá",
-    "recordPath": "/library/data/records/SH/SHNDVPPA.json"
-  },
-  {
     "key": "47QEDXTV",
     "title": "The Afro-Cuban Religious Traditions of Regla de Palo and the Abakuá Secret Society",
     "subtitle": "",
@@ -13121,36 +12420,6 @@
     "searchText": "palo and paleros: an interview with oba frank martin luis, william 2012 afro - hispanic review journalarticle journal article palo tradition: palo",
     "recordPath": "/library/data/records/JN/JN4TQGI4.json",
     "volume": "31"
-  },
-  {
-    "key": "KSW5LHZ6",
-    "title": "Sob a face de um bruxo",
-    "subtitle": "",
-    "creators": [
-      "Luiz Costa Lima"
-    ],
-    "year": "2009",
-    "date": "2009",
-    "publisher": "REEL - Revista Eletrônica de Estudos Literários",
-    "publicationLine": "REEL - Revista Eletrônica de Estudos Literários, 2009.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "sob a face de um bruxo luiz costa lima 2009 reel - revista eletrônica de estudos literários journalarticle journal article cultural, media, and literary studies linguistics and education research literature, culture, and criticism cultural, media, and literary studies linguistics and education research literature, culture, and criticism medjat-search:bruxos",
-    "recordPath": "/library/data/records/KS/KSW5LHZ6.json"
   },
   {
     "key": "WV9NQ8NC",
@@ -13466,36 +12735,6 @@
     "recordPath": "/library/data/records/ZN/ZN24MJKN.json"
   },
   {
-    "key": "8FFBBF5Q",
-    "title": "Difficult Histories in an urban classroom",
-    "subtitle": "",
-    "creators": [
-      "Maia Sheppard"
-    ],
-    "year": "2010",
-    "date": "2010",
-    "publisher": "University of Minnesota Digital Conservancy (University of Minnesota)",
-    "publicationLine": "University of Minnesota Digital Conservancy (University of Minnesota), 2010.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://purl.umn.edu/94166",
-    "searchText": "difficult histories in an urban classroom maia sheppard 2010 university of minnesota digital conservancy (university of minnesota) thesis thesis / dissertation cultural identity and representation educator training and historical pedagogy oral history, memory, narrative analysis cultural identity and representation educator training and historical pedagogy oral history, memory, narrative analysis medjat-search:slave-law",
-    "recordPath": "/library/data/records/8F/8FFBBF5Q.json"
-  },
-  {
     "key": "UT45G3N7",
     "title": "Leadership and the gospel in the early Pauline churches",
     "subtitle": "",
@@ -13587,36 +12826,6 @@
     "recordPath": "/library/data/records/8E/8EMJWTMS.json"
   },
   {
-    "key": "8B8BQG98",
-    "title": "Retrospective Analysis Within a Counterpoint Framework",
-    "subtitle": "",
-    "creators": [
-      "Marc A. Abramiuk"
-    ],
-    "year": "2023",
-    "date": "2023",
-    "publisher": "",
-    "publicationLine": "2023.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.1093/oxfordhb/9780192895950.013.39",
-    "url": "https://doi.org/10.1093/oxfordhb/9780192895950.013.39",
-    "searchText": "retrospective analysis within a counterpoint framework marc a. abramiuk 2023 booksection book chapter categorization, perception, and language categorization, perception, and language medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/8B/8B8BQG98.json"
-  },
-  {
     "key": "MIKPTKW7",
     "title": "Los Raperos: rap, race, and social transformation in contemporary Cuba",
     "subtitle": "",
@@ -13679,7 +12888,7 @@
   },
   {
     "key": "TZHY8FUB",
-    "title": "TESTEMUNHA OCULAR DA INSERÇÃO DO NEGRO NA BRIGADA MILITAR DO RIO GRANDE DO SUL NO COMEÇO DA REPÚBLICA ATRAVÉS DAS FOTOGRAFIAS",
+    "title": "Testemunha Ocular Da Inserção Do Negro Na Brigada Militar Do Rio Grande Do Sul No Começo Da República Através Das Fotografias",
     "subtitle": "",
     "creators": [
       "Marcelo Veber Goldani"
@@ -13890,7 +13099,7 @@
   },
   {
     "key": "CDKAYH2J",
-    "title": "Creole Religions of the Caribbean, Third",
+    "title": "Creole Religions of the Caribbean, Third Edition",
     "subtitle": "",
     "creators": [
       "Margarite Fernández Olmos",
@@ -13947,39 +13156,8 @@
     "region": [],
     "doi": "10.18574/nyu/9781479803491.001.0001",
     "url": "https://doi.org/10.18574/nyu/9781479803491.001.0001",
-    "searchText": "creole religions of the caribbean, third margarite fernández olmos lizabeth paravisini-gebert 2022 new york university press ebooks book book abakua bantu-derived espiritismo fon/ewe-derived haitian vodou lucumí obeah palo rastafari santeria trinidad orisha yoruba-derived material culture music ritual secret society caribbean history, culture, and politics caribbean history, culture, and politics theme: material culture theme: music theme: ritual theme: secret society tradition: abakua tradition: bantu-derived tradition: espiritismo tradition: fon/ewe-derived tradition: haitian vodou tradition: lucumí tradition: obeah tradition: palo tradition: rastafari tradition: santeria tradition: trinidad orisha tradition: yoruba-derived medjat-search:abakuá",
+    "searchText": "creole religions of the caribbean, third edition margarite fernández olmos lizabeth paravisini-gebert 2022 new york university press ebooks book book abakua bantu-derived espiritismo fon/ewe-derived haitian vodou lucumí obeah palo rastafari santeria trinidad orisha yoruba-derived material culture music ritual secret society caribbean history, culture, and politics colonialism, slavery, and trade caribbean history, culture, and politics colonialism, slavery, and trade theme: material culture theme: music theme: ritual theme: secret society tradition: abakua tradition: bantu-derived tradition: espiritismo tradition: fon/ewe-derived tradition: haitian vodou tradition: lucumí tradition: obeah tradition: palo tradition: rastafari tradition: santeria tradition: trinidad orisha tradition: yoruba-derived medjat-search:abakuá",
     "recordPath": "/library/data/records/CD/CDKAYH2J.json"
-  },
-  {
-    "key": "5MUHAQXL",
-    "title": "Creole Religions of the Caribbean, Third Edition",
-    "subtitle": "",
-    "creators": [
-      "Margarite Fernández Olmos",
-      "Lizabeth Paravisini-Gebert"
-    ],
-    "year": "2022",
-    "date": "2022",
-    "publisher": "New York University Press eBooks",
-    "publicationLine": "New York University Press eBooks, 2022.",
-    "itemType": "book",
-    "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.18574/nyu/9781479803538.001.0001",
-    "url": "https://doi.org/10.18574/nyu/9781479803538.001.0001",
-    "searchText": "creole religions of the caribbean, third edition margarite fernández olmos lizabeth paravisini-gebert 2022 new york university press ebooks book book caribbean history, culture, and politics colonialism, slavery, and trade caribbean history, culture, and politics colonialism, slavery, and trade medjat-search:abakuá",
-    "recordPath": "/library/data/records/5M/5MUHAQXL.json"
   },
   {
     "key": "C7SSJSFC",
@@ -14071,41 +13249,6 @@
     "url": "https://doi.org/10.11606/t.8.2011.tde-04052012-124952",
     "searchText": "a escravidão em são mateus/es: economia e demografia (1848-1888) maria do carmo de oliveira russo 2011 thesis thesis / dissertation colonialism, slavery, and trade history of colonial brazil urban development and societal issues colonialism, slavery, and trade history of colonial brazil urban development and societal issues medjat-search:slave-law",
     "recordPath": "/library/data/records/XX/XXDMNU5V.json"
-  },
-  {
-    "key": "4ALQ6SUU",
-    "title": "Estudio de un conjunto de anillos votivos del santuario periurbano de Tútugi (Cerro del Castillo, Galera, Granada)",
-    "subtitle": "",
-    "creators": [
-      "Maria Oliva Rodríguez‐Ariza",
-      "Ignacio Montero Ruíz",
-      "Carmen Rueda Galán",
-      "Paloma Muriel López",
-      "Eva Montes Moya"
-    ],
-    "year": "2024",
-    "date": "2024",
-    "publisher": "Archivo Español de Arqueología",
-    "publicationLine": "Archivo Español de Arqueología, 2024.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.3989/aespa.097.024.716",
-    "url": "https://doi.org/10.3989/aespa.097.024.716",
-    "searchText": "estudio de un conjunto de anillos votivos del santuario periurbano de tútugi (cerro del castillo, galera, granada) maria oliva rodríguez‐ariza ignacio montero ruíz carmen rueda galán paloma muriel lópez eva montes moya 2024 archivo español de arqueología journalarticle journal article archaeological and geological studies archaeological and historical studies medieval architecture and archaeology archaeological and geological studies archaeological and historical studies medieval architecture and archaeology medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/4A/4ALQ6SUU.json",
-    "volume": "97"
   },
   {
     "key": "JYW49U6Q",
@@ -14296,7 +13439,7 @@
   },
   {
     "key": "F6VLU65S",
-    "title": "FROM MORAL CONDEMNATION TO ECONOMIC STRATEGIES: REFRAMING THE END OF THE BRITISH TRANSATLANTIC SLAVE TRADE",
+    "title": "From Moral Condemnation to Economic Strategies: Reframing the End of the British Transatlantic Slave Trade",
     "subtitle": "",
     "creators": [
       "Marlene Santin"
@@ -15416,7 +14559,7 @@
   },
   {
     "key": "MQFYPHDT",
-    "title": "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)",
+    "title": "Oro De Los Señores: La Tumba 11 De La Isla De Tilcara (jujuy, Noroeste Argentino)",
     "subtitle": "",
     "creators": [
       "Myriam Tarragó",
@@ -15511,7 +14654,7 @@
   },
   {
     "key": "VHQP9VWM",
-    "title": "ENGENDERED EXPERIENCES OF FREEDOM: LIBERATED AFRICAN WOMEN IN RIO DE JANEIRO, 1834-1864",
+    "title": "Engendered Experiences of Freedom: Liberated African Women in Rio De Janeiro, 1834-1864",
     "subtitle": "",
     "creators": [
       "Nadalini Mendes"
@@ -15979,36 +15122,6 @@
     "searchText": "les villes du bénin méridional : entre nature et culture ? noukpo agossou 2007 géographie et cultures journalarticle journal article african botany and ecology studies african studies and ethnography agriculture and rural development research african botany and ecology studies african studies and ethnography agriculture and rural development research medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/LX/LXVIH4Q2.json",
     "volume": "62"
-  },
-  {
-    "key": "NESNS4AE",
-    "title": "APETUNPE ORO-ORUKO AJEMOSOYE ALAINIGBEDEKE LEDE YORUBA",
-    "subtitle": "",
-    "creators": [
-      "O ̣Ajíbóyè"
-    ],
-    "year": "2010",
-    "date": "2010",
-    "publisher": "",
-    "publicationLine": "2010.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "",
-    "searchText": "apetunpe oro-oruko ajemosoye alainigbedeke lede yoruba o ̣ajíbóyè 2010 journalarticle journal article cancer and skin lesions power systems and technologies cancer and skin lesions power systems and technologies medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/NE/NESNS4AE.json"
   },
   {
     "key": "97UFSQKS",
@@ -17059,36 +16172,6 @@
     "volume": "35"
   },
   {
-    "key": "RITSFVWB",
-    "title": "El tesoro de los Quimbayas, un siglo después",
-    "subtitle": "",
-    "creators": [
-      "Pablo Gamboa Hinestrosa"
-    ],
-    "year": "1998",
-    "date": "1998",
-    "publisher": "Ensayos Historia y Teoría del Arte",
-    "publicationLine": "Ensayos Historia y Teoría del Arte, 1998.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=203585",
-    "searchText": "el tesoro de los quimbayas, un siglo después pablo gamboa hinestrosa 1998 ensayos historia y teoría del arte journalarticle journal article archaeology and cultural heritage archaeology and cultural heritage medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/RI/RITSFVWB.json"
-  },
-  {
     "key": "L7S557A4",
     "title": "The cry of trokosi girls in Ghana. A qualitative study of the trokosi practice in Ghana in light of diakonia and human rights.",
     "subtitle": "",
@@ -17274,7 +16357,7 @@
   },
   {
     "key": "TJWRSXBP",
-    "title": "A collection of discrete essays with the common theme of gender and slavery at the Cape of Good Hope with a focus on the 1820s",
+    "title": "A Collection of Discrete Essays with the Common Theme of Gender and Slavery at the Cape of Good Hope with a Focus on the 1820s",
     "subtitle": "",
     "creators": [
       "Patricia van der Spuy"
@@ -17550,34 +16633,6 @@
     "recordPath": "/library/data/records/V3/V3KHJMEP.json"
   },
   {
-    "key": "ADVNCCMY",
-    "title": "Planting Abakuá in Cuba, 1830s to 1860s",
-    "subtitle": "",
-    "creators": [],
-    "year": "2010",
-    "date": "2010",
-    "publisher": "",
-    "publicationLine": "2010.",
-    "itemType": "bookSection",
-    "recordTypeLabel": "Book Chapter",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.2307/jj.14962461.9",
-    "url": "https://doi.org/10.2307/jj.14962461.9",
-    "searchText": "planting abakuá in cuba, 1830s to 1860s 2010 booksection book chapter cuban history and society cuban history and society medjat-search:abakuá",
-    "recordPath": "/library/data/records/AD/ADVNCCMY.json"
-  },
-  {
     "key": "VZFK8YQ5",
     "title": "Recasting Caste: Histories of Dalit Transnationalism and the Internationalization of Caste Discrimination.",
     "subtitle": "",
@@ -17662,7 +16717,10 @@
       "Palo Mayombe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe",
       "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
     },
-    "themes": [],
+    "themes": [
+      "Botanical",
+      "Ritual"
+    ],
     "domains": [],
     "connects": [],
     "frameworkClasses": [],
@@ -17674,7 +16732,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book abakua lucumí palo mayombe palo monte ewe database source ewe database source tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
+    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book abakua lucumí palo mayombe palo monte botanical ritual ewe database source ewe database source theme: botanical theme: ritual tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
     "recordPath": "/library/data/records/MM/MMMUQPLF.json"
   },
   {
@@ -19160,36 +18218,6 @@
     "recordPath": "/library/data/records/KL/KLWIG7XQ.json"
   },
   {
-    "key": "V4ZK7HFG",
-    "title": "Simulation Based Analysis of Kinematics, Dynamics and Control of Space Robots",
-    "subtitle": "",
-    "creators": [
-      "Shafina Sultana"
-    ],
-    "year": "1996",
-    "date": "1996",
-    "publisher": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)",
-    "publicationLine": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia), 1996.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "",
-    "url": "http://psasir.upm.edu.my/id/eprint/9978/1/FK_1996_3_A.pdf",
-    "searchText": "simulation based analysis of kinematics, dynamics and control of space robots shafina sultana 1996 universiti putra malaysia institutional repository (universiti putra malaysia) thesis thesis / dissertation modular robots and swarm intelligence soft robotics and applications space satellite systems and control modular robots and swarm intelligence soft robotics and applications space satellite systems and control medjat-search:slave-law",
-    "recordPath": "/library/data/records/V4/V4ZK7HFG.json"
-  },
-  {
     "key": "5MGY4HKR",
     "title": "Reclaiming my body : black women and the fight for reproductive justice.",
     "subtitle": "",
@@ -19545,7 +18573,7 @@
   },
   {
     "key": "URNK85UG",
-    "title": "'Remembered in the Body': Disability and Slavery in England and the Caribbean 1500-1834",
+    "title": "Remembered in the Body: Disability and Slavery in England and the Caribbean 1500-1834",
     "subtitle": "",
     "creators": [
       "Stefanie Kennedy"
@@ -19570,72 +18598,8 @@
     "region": [],
     "doi": "",
     "url": "https://utoronto.scholaris.ca/bitstreams/99c8ff34-525c-4efb-890d-4093473ba1de/download",
-    "searchText": "'remembered in the body': disability and slavery in england and the caribbean 1500-1834 stefanie kennedy 2015 tspace thesis thesis / dissertation caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade medjat-search:slave-law",
+    "searchText": "remembered in the body: disability and slavery in england and the caribbean 1500-1834 stefanie kennedy 2015 tspace thesis thesis / dissertation caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade caribbean and african literature and culture caribbean history, culture, and politics colonialism, slavery, and trade medjat-search:slave-law",
     "recordPath": "/library/data/records/UR/URNK85UG.json"
-  },
-  {
-    "key": "XML4S93P",
-    "title": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context",
-    "subtitle": "",
-    "creators": [
-      "Stephan Palmié",
-      "Elizabeth Pérez‐Hernández"
-    ],
-    "year": "2005",
-    "date": "2005",
-    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
-    "publicationLine": "New West Indian Guide / Nieuwe West-Indische Gids, 2005.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.1163/22134360-90002506",
-    "url": "https://doi.org/10.1163/22134360-90002506",
-    "searchText": "'an all too present absence: fernando ortiz's work on abaku? in its sociocultural context stephan palmié elizabeth pérez‐hernández 2005 new west indian guide / nieuwe west-indische gids journalarticle journal article cuban history and society latin american and latino studies cuban history and society latin american and latino studies medjat-search:abakuá",
-    "recordPath": "/library/data/records/XM/XML4S93P.json",
-    "volume": "79"
-  },
-  {
-    "key": "48BX3N9R",
-    "title": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context",
-    "subtitle": "",
-    "creators": [
-      "Stephan Palmié",
-      "Elizabeth Pérez"
-    ],
-    "year": "2008",
-    "date": "2008",
-    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
-    "publicationLine": "New West Indian Guide / Nieuwe West-Indische Gids, 2008.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.1163/13822373-90002506",
-    "url": "https://doi.org/10.1163/13822373-90002506",
-    "searchText": "'an all too present absence: fernando ortiz's work on abaku? in its sociocultural context stephan palmié elizabeth pérez 2008 new west indian guide / nieuwe west-indische gids journalarticle journal article cuban history and society latin american and latino studies cuban history and society latin american and latino studies medjat-search:abakuá",
-    "recordPath": "/library/data/records/48/48BX3N9R.json",
-    "volume": "79"
   },
   {
     "key": "BSDT9BH9",
@@ -19667,6 +18631,39 @@
     "searchText": "a view from itia ororó kande1 stephan palmié 2007 social anthropology journalarticle journal article anthropological studies and insights caribbean and african literature and culture colonialism, slavery, and trade anthropological studies and insights caribbean and african literature and culture colonialism, slavery, and trade medjat-search:abakuá",
     "recordPath": "/library/data/records/BS/BSDT9BH9.json",
     "volume": "14"
+  },
+  {
+    "key": "48BX3N9R",
+    "title": "An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context",
+    "subtitle": "",
+    "creators": [
+      "Stephan Palmié",
+      "Elizabeth Pérez",
+      "R.M.A.L. Hoefte"
+    ],
+    "year": "2005",
+    "date": "2005",
+    "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
+    "publicationLine": "New West Indian Guide / Nieuwe West-Indische Gids, 2005.",
+    "itemType": "journalArticle",
+    "recordTypeLabel": "Journal Article",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "https://doi.org/10.1163/22134360-90002506",
+    "url": "https://brill.com/view/journals/nwig/79/3-4/article-p219_2.xml",
+    "searchText": "an all too present absence: fernando ortiz's work on abaku? in its sociocultural context stephan palmié elizabeth pérez r.m.a.l. hoefte 2005 new west indian guide / nieuwe west-indische gids journalarticle journal article cuban history and society latin american and latino studies cuban history and society latin american and latino studies medjat-search:abakuá",
+    "recordPath": "/library/data/records/48/48BX3N9R.json",
+    "volume": "79"
   },
   {
     "key": "TXAN2KHV",
@@ -20262,36 +19259,6 @@
     "recordPath": "/library/data/records/IG/IG7RSHA6.json"
   },
   {
-    "key": "DIFGXY9H",
-    "title": "Productivity and predictability of resource yield: aboriginal controlled burning in the boreal forest",
-    "subtitle": "",
-    "creators": [
-      "Theresa A. Ferguson"
-    ],
-    "year": "1979",
-    "date": "1979",
-    "publisher": "AUSpace (Athabasca University)",
-    "publicationLine": "AUSpace (Athabasca University), 1979.",
-    "itemType": "thesis",
-    "recordTypeLabel": "Thesis / Dissertation",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.7939/r35m62h5v",
-    "url": "https://doi.org/10.7939/r35m62h5v",
-    "searchText": "productivity and predictability of resource yield: aboriginal controlled burning in the boreal forest theresa a. ferguson 1979 auspace (athabasca university) thesis thesis / dissertation ecology and vegetation dynamics studies forest ecology and management rangeland and wildlife management ecology and vegetation dynamics studies forest ecology and management rangeland and wildlife management medjat-search:slave-law",
-    "recordPath": "/library/data/records/DI/DIFGXY9H.json"
-  },
-  {
     "key": "RS5FLDPY",
     "title": "Impossible retour. À propos du spectacle Le Rituel abakuà – Les hommes-léopards ekpe, du Nigeria à Cuba",
     "subtitle": "",
@@ -20747,7 +19714,7 @@
     "traditions": [],
     "traditionLinks": {},
     "themes": [
-      "Rituals"
+      "Ritual"
     ],
     "domains": [],
     "connects": [],
@@ -20762,7 +19729,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "ewé: the use of plants in yoruba society verger, pierre 1995 odebrecht; editora schwarcz book book rituals ewé ewe database source herbs medjat custody: ihs holds yorubá ewe database source ewé herbs medjat custody: ihs holds theme: rituals yorubá",
+    "searchText": "ewé: the use of plants in yoruba society verger, pierre 1995 odebrecht; editora schwarcz book book ritual ewé ewe database source herbs medjat custody: ihs holds yorubá ewe database source ewé herbs medjat custody: ihs holds theme: ritual yorubá",
     "recordPath": "/library/data/records/39/39XACX54.json"
   },
   {
@@ -21357,36 +20324,5 @@
     "url": "https://hdl.handle.net/2027.42/138721",
     "searchText": "disorderly love: illicit friendships, violence, and law in a slave society at war, popayan-colombia, 1809-1830 ángela pérez‐villa 2017 deep blue (university of michigan) thesis thesis / dissertation colonialism, slavery, and trade historical studies in latin america history and politics in latin america colonialism, slavery, and trade historical studies in latin america history and politics in latin america medjat-search:slave-law",
     "recordPath": "/library/data/records/GK/GKR69ARQ.json"
-  },
-  {
-    "key": "W4MPAP4L",
-    "title": "Posmrtno oro vo tradiciite na balkanskite Sloveni<br>Posthumous Ritual Dance - <em>Oro</em> - in the Traditions of Balkan Slavs</br>",
-    "subtitle": "",
-    "creators": [
-      "Љупчо Ристески"
-    ],
-    "year": "2015",
-    "date": "2015",
-    "publisher": "Studia mythologica Slavica",
-    "publicationLine": "Studia mythologica Slavica, 2015.",
-    "itemType": "journalArticle",
-    "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
-    "themes": [],
-    "domains": [],
-    "connects": [],
-    "frameworkClasses": [],
-    "frameworkModules": [],
-    "access": "Public",
-    "accessTier": "L0-public",
-    "custody": "metadata-only",
-    "language": [],
-    "region": [],
-    "doi": "10.3986/sms.v3i0.1832",
-    "url": "https://doi.org/10.3986/sms.v3i0.1832",
-    "searchText": "posmrtno oro vo tradiciite na balkanskite sloveni<br>posthumous ritual dance - <em>oro</em> - in the traditions of balkan slavs</br> љупчо ристески 2015 studia mythologica slavica journalarticle journal article folklore, mythology, and literature studies linguistics and cultural studies linguistics and language evolution folklore, mythology, and literature studies linguistics and cultural studies linguistics and language evolution medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
-    "recordPath": "/library/data/records/W4/W4MPAP4L.json",
-    "volume": "3"
   }
 ]

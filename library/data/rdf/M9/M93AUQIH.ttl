@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/M93AUQIH>
   a schema:Chapter ;
-  schema:name ". Conclusions" ;
+  schema:name "Conclusions" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M93AUQIH> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M93AUQIH" ;

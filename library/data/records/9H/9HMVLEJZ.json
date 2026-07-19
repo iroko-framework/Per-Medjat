@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "9HMVLEJZ",
-    "version": 1248,
+    "version": 5472,
     "itemType": "bookSection",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/9HMVLEJZ",
     "dateAdded": "2026-05-19T13:28:38Z",
-    "dateModified": "2026-05-19T13:28:38Z"
+    "dateModified": "2026-07-19T20:09:22Z"
   },
   "display": {
-    "title": ". Disintegration of the Spanish Empire",
+    "title": "Disintegration of the Spanish Empire",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -69,7 +69,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": ". Disintegration of the Spanish Empire"
+      "value": "Disintegration of the Spanish Empire"
     },
     {
       "field": "264",

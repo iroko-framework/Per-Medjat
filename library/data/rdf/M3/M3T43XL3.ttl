@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/M3T43XL3>
   a schema:ScholarlyArticle ;
-  schema:name "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez" ;
+  schema:name "La Revolución La Hicieron Los Hombres, Los Machos: La Remise En Cause Du Machisme Dans De Cierta Manera (1974-1977), De Sara Gómez" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M3T43XL3> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M3T43XL3" ;

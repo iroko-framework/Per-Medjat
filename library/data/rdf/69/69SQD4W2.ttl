@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/69SQD4W2>
   a schema:Thesis ;
-  schema:name "\"For All Such, a Country is Provided\": Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841" ;
+  schema:name "For All Such, a Country is Provided: Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841" ;
   schema:url <https://medjat.irokosociety.org/library/?item=69SQD4W2> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:69SQD4W2" ;

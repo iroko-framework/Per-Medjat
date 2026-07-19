@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "V8LYB2MK",
-    "version": 1245,
+    "version": 5473,
     "itemType": "bookSection",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/V8LYB2MK",
     "dateAdded": "2026-05-19T13:28:37Z",
-    "dateModified": "2026-05-19T13:28:37Z"
+    "dateModified": "2026-07-19T20:09:30Z"
   },
   "display": {
-    "title": ". Dispersal",
+    "title": "Dispersal",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -69,7 +69,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": ". Dispersal"
+      "value": "Dispersal"
     },
     {
       "field": "264",

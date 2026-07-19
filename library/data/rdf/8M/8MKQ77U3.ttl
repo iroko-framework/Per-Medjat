@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/8MKQ77U3>
   a schema:Thesis ;
-  schema:name "\"And Be It So Enacted\": Natural Law and Southern Federalism in the Fugitive Slave Controversy" ;
+  schema:name "And Be It So Enacted: Natural Law and Southern Federalism in the Fugitive Slave Controversy" ;
   schema:url <https://medjat.irokosociety.org/library/?item=8MKQ77U3> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:8MKQ77U3" ;

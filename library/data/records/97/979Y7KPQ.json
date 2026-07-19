@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "979Y7KPQ",
-    "version": 104,
-    "itemType": "bookSection",
+    "version": 5491,
+    "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/979Y7KPQ",
     "dateAdded": "2026-05-14T15:45:19Z",
-    "dateModified": "2026-05-14T15:45:19Z"
+    "dateModified": "2026-07-19T20:20:48Z"
   },
   "display": {
-    "title": "Humans in shackles: an Atlantic history of slavery",
+    "title": "Humans in Shackles: An Atlantic History of Slavery",
     "subtitle": "",
     "shortTitle": "Humans in shackles",
     "creators": [
@@ -25,7 +25,7 @@
     "date": "2024",
     "publisher": "University of Chicago Press",
     "publicationTitle": "",
-    "bookTitle": "Atlantic history of slavery",
+    "bookTitle": "",
     "journalAbbreviation": "",
     "place": "Chicago",
     "edition": "",
@@ -36,24 +36,33 @@
     "pages": "",
     "abstract": "\"Ana Lucia Araujo's Humans in Shackles is an Atlantic cultural history of slavery in the Americas that sets out to redress the imbalances of existing general histories of slavery by centering on the lived experience of enslaved men and women. In this panoramic book, Araujo provides a humanistic, narrative history that explores in detail the social, cultural, and religious dimensions of the lives of bondspeople. She surveys the trajectories of men, women, and children from Africa to the Americas, examining how European powers reached Africa, how they traded with various African societies, and how Africans were captured, transported to the coast, and taken across the Atlantic Ocean in the hold of slave ships. The book further explores African captives' working conditions in plantations and urban areas; how bondspeople built families despite the abuses they suffered; and how enslaved people congregated, recreated their cultures and religions, and organized rebellions. The book draws not only on a large array of primary sources-travel accounts, pamphlets, newspapers articles, slave ship logs, fugitive slave advertisements, slave narratives, wills, laws, and correspondence in English, Portuguese, French, and Spanish-but it also incorporates visual sources such as engravings, photographs, watercolors, artifacts, monuments, and heritage sites. Humans in Shackles is a testament to the more than twenty years the author has spent studying the history of slavery and the Atlantic slave trade. Ultimately, it argues that the long era in which humans racialized as Black were placed in shackles is indispensable to understanding the construction of the Americas\"–Provided by publisher.",
     "doi": "",
-    "url": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
     "isbn": "978-0-226-77158-8",
     "issn": "",
     "university": "",
     "language": ""
   },
   "publicTags": {
-    "recordType": "Book Chapter",
+    "recordType": "Monograph",
     "traditions": [],
     "themes": [],
-    "domains": [],
+    "domains": [
+      "afro-atlantic-history",
+      "slave-trade"
+    ],
     "connects": [],
     "region": [],
     "language": [],
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
-      "Slavery -- Atlantic Ocean Region -- History"
+      "Access: Public",
+      "Afro-Atlantic",
+      "Atlantic slave trade",
+      "Comparative",
+      "Slavery & Abolition Studies",
+      "Slavery -- Atlantic Ocean Region -- History",
+      "comparative history"
     ]
   },
   "ifwk": {
@@ -69,7 +78,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "Humans in shackles: an Atlantic history of slavery"
+      "value": "Humans in Shackles: An Atlantic History of Slavery"
     },
     {
       "field": "264",
@@ -84,19 +93,72 @@
     {
       "field": "650",
       "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Atlantic slave trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Comparative"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
       "value": "Slavery -- Atlantic Ocean Region -- History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "comparative history"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Slave Trade",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85123323"
     },
     {
       "field": "655",
       "label": "Genre/Form",
-      "value": "Book Chapter"
+      "value": "Monograph"
     }
   ],
   "linkedData": {
     "ttl": "/library/data/rdf/97/979Y7KPQ.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      },
+      {
+        "label": "Slave Trade",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85123323"
+      }
+    ],
     "authorityMappings": []
   }
 }

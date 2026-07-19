@@ -7,8 +7,8 @@
 @prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
 
 <https://medjat.irokosociety.org/id/library/979Y7KPQ>
-  a schema:Chapter ;
-  schema:name "Humans in shackles: an Atlantic history of slavery" ;
+  a schema:Book ;
+  schema:name "Humans in Shackles: An Atlantic History of Slavery" ;
   schema:url <https://medjat.irokosociety.org/library/?item=979Y7KPQ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:979Y7KPQ" ;
@@ -17,4 +17,4 @@
   schema:datePublished "2024" ;
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:978-0-226-77158-8" ;
-  dcterms:subject "Slavery -- Atlantic Ocean Region -- History" .
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> .

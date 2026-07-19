@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/75F4QC2L>
   a schema:Chapter ;
-  schema:name ". Planting Abakuá in Cuba, 1830s to 1860s" ;
+  schema:name "Planting Abakuá in Cuba, 1830s to 1860s" ;
   schema:url <https://medjat.irokosociety.org/library/?item=75F4QC2L> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:75F4QC2L" ;

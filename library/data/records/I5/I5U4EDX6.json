@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "I5U4EDX6",
-    "version": 5003,
+    "version": 5563,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/I5U4EDX6",
     "dateAdded": "2026-05-18T18:57:31Z",
-    "dateModified": "2026-07-16T22:59:37Z"
+    "dateModified": "2026-07-19T21:05:44Z"
   },
   "display": {
-    "title": "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY",
+    "title": "Ekpu-Oro: Studies in Oron Cosmology and Cultural History",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -76,7 +76,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY"
+      "value": "Ekpu-Oro: Studies in Oron Cosmology and Cultural History"
     },
     {
       "field": "264",

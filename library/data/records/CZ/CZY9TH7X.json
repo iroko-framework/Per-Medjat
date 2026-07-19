@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "CZY9TH7X",
-    "version": 4984,
+    "version": 5572,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CZY9TH7X",
     "dateAdded": "2026-05-19T13:27:58Z",
-    "dateModified": "2026-07-16T22:59:10Z"
+    "dateModified": "2026-07-19T21:13:06Z"
   },
   "display": {
-    "title": "La cultura musical Ndowe en el tránsito esclavista del Atlántico. Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial / Ndowe Musical cultura in the Atlantic slave trade. Influence on Cuban society Abakuá and return...",
+    "title": "La Cultura Musical Ndowe En El Tránsito Esclavista Del Atlántico. Influencia En La Sociedad Cubana Abakuá Y De Vuelta a África, En Guinea Ecuatorial / Ndowe Musical Cultura in the Atlantic Slave Trade. Influence on Cuban Society Abakuá and Return to Africa in Equatorial Guinea",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -36,7 +36,7 @@
     "pages": "",
     "abstract": "El estudio comparativo de los elementos musicales a ambos lados del Atlantico en relacion con la esclavitud, ha generado investigaciones de ida al continente americano, pero apenas hay escritos sobre el viaje de retorno y sus influencias en Africa. En este articulo se analiza el legado cultural de vuelta a traves de la esclavitud del grupo ndowe. Este legado llegado a Cuba con los esclavos carabalies quienes fundan la sociedad Abakua , posteriormente efectua un viaje de retorno a Africa con los deportados abakua llevados a Fernando Poo, hoy en Guinea Ecuatorial. El marco del estudio se situa en una consideracion de las areas culturales en Africa, mas alla de las fronteras coloniales y se inicia una reflexion sobre la busqueda hoy de una identidad mas global en los grupos ndowe y la expresion de una “oralidad secundaria”. El grupo ndowe ocupa hoy un area que se extiende por Gabon, Guinea Ecuatorial, Camerun y parte de Congo. The comparative study of the music on both sides of the Atlantic regarding slavery elements has generated research about the journey to American continent, but there is little written on the return trip and its influences in Africa. In this paper is analyzed the cultural heritage in a back way discussed through slavery of Ndowe group. This legacy arrived in Cuba with Carabalies slaves who founded the society Abakua. Later it was made a return trip to Africa with the deportees Abakua carried to Fernando Poo (today Bioko) in Equatorial Guinea. The framework of the study lies in a consideration of the cultural areas in Africa, beyond the colonial borders and in a reflection on the search nowadays for a more global identity in Ndowe groups and the expression of a “secondary orality” that is starting. The Ndowe group occupies an area extending trough Equatorial Guinea, Cameroon Gabon and some areas in Congo .",
     "doi": "",
-    "url": "",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7343421",
     "isbn": "",
     "issn": "",
     "university": "",
@@ -54,7 +54,9 @@
     "custody": "metadata-only",
     "subjects": [
       "Cuban History and Society",
-      "Hispanic-African Historical Relations"
+      "Hispanic-African Historical Relations",
+      "Media, Journalism, and Communication History",
+      "Spanish Literature and Culture Studies"
     ]
   },
   "ifwk": {
@@ -70,7 +72,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "La cultura musical Ndowe en el tránsito esclavista del Atlántico. Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial / Ndowe Musical cultura in the Atlantic slave trade. Influence on Cuban society Abakuá and return..."
+      "value": "La Cultura Musical Ndowe En El Tránsito Esclavista Del Atlántico. Influencia En La Sociedad Cubana Abakuá Y De Vuelta a África, En Guinea Ecuatorial / Ndowe Musical Cultura in the Atlantic Slave Trade. Influence on Cuban Society Abakuá and Return to Africa in Equatorial Guinea"
     },
     {
       "field": "264",
@@ -86,6 +88,16 @@
       "field": "650",
       "label": "Subject",
       "value": "Hispanic-African Historical Relations"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Media, Journalism, and Communication History"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Literature and Culture Studies"
     },
     {
       "field": "655",

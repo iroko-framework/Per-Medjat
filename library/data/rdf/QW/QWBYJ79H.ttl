@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/QWBYJ79H>
   a schema:ScholarlyArticle ;
-  schema:name "LAS RELIGIONES POPULARES CUBANAS: BREVES COMENTARIOS A MEDIO SIGLO" ;
+  schema:name "Las Religiones Populares Cubanas: Breves Comentarios a Medio Siglo" ;
   schema:url <https://medjat.irokosociety.org/library/?item=QWBYJ79H> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:QWBYJ79H" ;

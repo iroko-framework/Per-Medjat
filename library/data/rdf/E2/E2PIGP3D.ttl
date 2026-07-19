@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/E2PIGP3D>
   a schema:Thesis ;
-  schema:name "WHAT GOD HATH WROUGHT: THE EMBODIMENT OF FREEDOM IN THE THIRTEENTH AMENDMENT" ;
+  schema:name "What God Hath Wrought: The Embodiment of Freedom in the Thirteenth Amendment" ;
   schema:url <https://medjat.irokosociety.org/library/?item=E2PIGP3D> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:E2PIGP3D" ;

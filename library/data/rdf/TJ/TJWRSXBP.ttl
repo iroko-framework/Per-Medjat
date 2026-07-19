@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/TJWRSXBP>
   a schema:Thesis ;
-  schema:name "A collection of discrete essays with the common theme of gender and slavery at the Cape of Good Hope with a focus on the 1820s" ;
+  schema:name "A Collection of Discrete Essays with the Common Theme of Gender and Slavery at the Cape of Good Hope with a Focus on the 1820s" ;
   schema:url <https://medjat.irokosociety.org/library/?item=TJWRSXBP> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:TJWRSXBP" ;

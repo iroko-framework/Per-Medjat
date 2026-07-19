@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/CPTGB44A>
   a schema:ScholarlyArticle ;
-  schema:name "“I Got Voodoo, I Got Hoodoo”: Ethnography and Its Objects in Disney’sthe Princess and the Frog" ;
+  schema:name "I Got Voodoo, I Got Hoodoo: Ethnography and Its Objects in Disney’sthe Princess and the Frog" ;
   schema:url <https://medjat.irokosociety.org/library/?item=CPTGB44A> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:CPTGB44A" ;

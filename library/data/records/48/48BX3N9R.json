@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "48BX3N9R",
-    "version": 990,
+    "version": 5552,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/48BX3N9R",
     "dateAdded": "2026-05-19T13:27:26Z",
-    "dateModified": "2026-05-19T13:27:26Z"
+    "dateModified": "2026-07-19T21:01:03Z"
   },
   "display": {
-    "title": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context",
+    "title": "An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -21,12 +21,16 @@
         "name": "Stephan Palmié"
       },
       {
-        "role": "editor",
+        "role": "author",
         "name": "Elizabeth Pérez"
+      },
+      {
+        "role": "editor",
+        "name": "R.M.A.L. Hoefte"
       }
     ],
-    "year": "2008",
-    "date": "2008",
+    "year": "2005",
+    "date": "2005",
     "publisher": "New West Indian Guide / Nieuwe West-Indische Gids",
     "publicationTitle": "New West Indian Guide / Nieuwe West-Indische Gids",
     "bookTitle": "",
@@ -38,9 +42,9 @@
     "volume": "79",
     "issue": "3-4",
     "pages": "219-228",
-    "abstract": "Focusses on the Abukuá associations, Afro-Cuban male initiatory secret societies, as such originated in Regla, Havana in 1836. Authors describe how Abakuá titleholders gained powerful social and labour positions in the Havana area, and how they were eventually outlawed in 1876. They point out how Abakuá societies by and since then were designated as negative and criminal in the public sphere, and condemned by many writers and politicians. They show how published accounts of Abakuá since the late 19th c and early 20th c. were thus seldom merely descriptive, but were presented as proof of Cuba's lagging modernity, and of a for some undesired Africanization. They further relate how Fernando Ortiz's studies and work on Abakuá fit in this. They note how Ortiz' s earlier \"criminal anthropology\" work on Abakuá was in the same negative and criminalizing vein, yet they point at changes, as in time he described and evaluated Abakuá as more positive, and as part of Cuban culture. They describe how Ortiz dedicated much effort to studying different aspects of Abakuá, and that extensive notations on these became part of his archive, which, as he told fellow-scholars, he would work out in an eventual monograph on Abakuá. The authors deplore that this monograph was not only never published, but also seems to have been lost.",
-    "doi": "10.1163/13822373-90002506",
-    "url": "https://doi.org/10.1163/13822373-90002506",
+    "abstract": "Focuses on the Abakuá associations, Afro-Cuban male initiatory secret societies, as such originated in Regla, Havana in 1836. Authors describe how Abakuá titleholders gained powerful social and labour positions in the Havana area, and how they were eventually outlawed in 1876. They point out how Abakuá societies by and since then were designated as negative and criminal in the public sphere, and condemned by many writers and politicians. They show how published accounts of Abakuá since the late 19th c and early 20th c. were thus seldom merely descriptive, but were presented as proof of Cuba's lagging modernity, and of a for some undesired Africanization. They further relate how Fernando Ortiz's studies and work on Abakuá fit in this. They note how Ortiz' s earlier \"criminal anthropology\" work on Abakuá was in the same negative and criminalizing vein, yet they point at changes, as in time he described and evaluated Abakuá as more positive, and as part of Cuban culture. They describe how Ortiz dedicated much effort to studying different aspects of Abakuá, and that extensive notations on these became part of his archive, which, as he told fellow-scholars, he would work out in an eventual monograph on Abakuá. The authors deplore that this monograph was not only never published, but also seems to have been lost.",
+    "doi": "https://doi.org/10.1163/22134360-90002506",
+    "url": "https://brill.com/view/journals/nwig/79/3-4/article-p219_2.xml",
     "isbn": "",
     "issn": "",
     "university": "",
@@ -74,12 +78,12 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context"
+      "value": "An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context"
     },
     {
       "field": "264",
       "label": "Published",
-      "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2008."
+      "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2005."
     },
     {
       "field": "300",
@@ -89,7 +93,7 @@
     {
       "field": "024",
       "label": "DOI",
-      "value": "10.1163/13822373-90002506"
+      "value": "https://doi.org/10.1163/22134360-90002506"
     },
     {
       "field": "650",
@@ -103,8 +107,13 @@
     },
     {
       "field": "700",
-      "label": "Added entry - editor",
+      "label": "Added entry",
       "value": "Elizabeth Pérez"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "R.M.A.L. Hoefte"
     },
     {
       "field": "655",
@@ -116,7 +125,7 @@
     "ttl": "/library/data/rdf/48/48BX3N9R.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [
-      "https://doi.org/10.1163/13822373-90002506"
+      "https://doi.org/https://doi.org/10.1163/22134360-90002506"
     ],
     "about": [],
     "authorityMappings": []

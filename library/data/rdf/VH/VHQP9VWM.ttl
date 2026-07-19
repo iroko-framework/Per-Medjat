@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/VHQP9VWM>
   a schema:Thesis ;
-  schema:name "ENGENDERED EXPERIENCES OF FREEDOM: LIBERATED AFRICAN WOMEN IN RIO DE JANEIRO, 1834-1864" ;
+  schema:name "Engendered Experiences of Freedom: Liberated African Women in Rio De Janeiro, 1834-1864" ;
   schema:url <https://medjat.irokosociety.org/library/?item=VHQP9VWM> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:VHQP9VWM" ;

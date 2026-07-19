@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "93PUVSID",
-    "version": 4979,
+    "version": 5595,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/93PUVSID",
     "dateAdded": "2026-05-19T13:28:46Z",
-    "dateModified": "2026-07-16T22:59:03Z"
+    "dateModified": "2026-07-19T21:22:32Z"
   },
   "display": {
-    "title": "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro",
+    "title": "Los Tambores Ñáñigos En El Museo Nacional (Madrid). La Sociedad Cubana Secreta Abakuá Y Las Trayectoriasen El Atlántico Negro",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -23,8 +23,8 @@
     ],
     "year": "2015",
     "date": "2015",
-    "publisher": "",
-    "publicationTitle": "",
+    "publisher": "Ministerio de Educación Cultura y Deporte (España)",
+    "publicationTitle": "Anales del Museo Nacional de Antropología",
     "bookTitle": "",
     "journalAbbreviation": "",
     "place": "",
@@ -32,11 +32,11 @@
     "series": "",
     "seriesNumber": "",
     "volume": "",
-    "issue": "",
-    "pages": "",
-    "abstract": "",
+    "issue": "17",
+    "pages": "160-187",
+    "abstract": "Dos de los tambores ñáñigos (ekué y bonkó enchemiyá), expuestos hoy en la Sala de América del Museo Nacional de Antropología, son objetos rituales incautados a la sociedad secreta Abakuá en Cuba. Su itinerario hasta el Museo Biblioteca de Ultramar de Madrid en 1889, se sitúa en un contexto social y político en los años previos a la independencia cubana, con detenciones, incautaciones y deportaciones de los denominados entonces ñáñigos (miembros de la sociedad Abakuá). Su exhibición en el museo en esos años tuvo consecuencias en los futuros estudios académicos que se han realizado sobre esta asociación religiosa afrocubana hasta hoy. La sociedad Abakuá recrea la sociedad Ekpe de Calabar (Nigeria/Camerún) llevada a Cuba por los esclavos carabalí. Muchos deportados ñáñigos llevaron de vuelta esta memoria africana a Fernando Poo (Guinea Ecuatorial). Iniciamos una reflexión sobre la aportación desde Calabar del grupo ndowe, con subgrupos étnicos en Guinea Ecuatorial, Camerún y Gabón, en un complejo entramado de trayectorias en el Atlántico negro...",
     "doi": "",
-    "url": "",
+    "url": "http://hdl.handle.net/10486/674671",
     "isbn": "",
     "issn": "",
     "university": "",
@@ -70,12 +70,17 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro"
+      "value": "Los Tambores Ñáñigos En El Museo Nacional (Madrid). La Sociedad Cubana Secreta Abakuá Y Las Trayectoriasen El Atlántico Negro"
     },
     {
       "field": "264",
       "label": "Published",
-      "value": "2015."
+      "value": "Ministerio de Educación Cultura y Deporte (España), 2015."
+    },
+    {
+      "field": "300",
+      "label": "Extent",
+      "value": "160-187 p."
     },
     {
       "field": "650",

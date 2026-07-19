@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/GCLQ7AP9>
   a schema:Thesis ;
-  schema:name "The right to petition for redress of grievances: constitutional development and interpretations." ;
+  schema:name "The Right to Petition for Redress of Grievances: Constitutional Development and Interpretations" ;
   schema:url <https://medjat.irokosociety.org/library/?item=GCLQ7AP9> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:GCLQ7AP9" ;

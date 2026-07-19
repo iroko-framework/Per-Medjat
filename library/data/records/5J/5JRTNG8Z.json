@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "5JRTNG8Z",
-    "version": 1221,
+    "version": 5553,
     "itemType": "bookSection",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/5JRTNG8Z",
     "dateAdded": "2026-05-19T13:28:33Z",
-    "dateModified": "2026-05-19T13:28:33Z"
+    "dateModified": "2026-07-19T21:02:04Z"
   },
   "display": {
-    "title": ". Arrival",
+    "title": "Arrival",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -69,7 +69,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": ". Arrival"
+      "value": "Arrival"
     },
     {
       "field": "264",

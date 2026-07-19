@@ -8,16 +8,15 @@
 
 <https://medjat.irokosociety.org/id/library/CDKAYH2J>
   a schema:Book ;
-  schema:name "Creole Religions of the Caribbean, Third" ;
+  schema:name "Creole Religions of the Caribbean, Third Edition" ;
   schema:url <https://medjat.irokosociety.org/library/?item=CDKAYH2J> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:CDKAYH2J" ;
   schema:description "An updated introduction to the religions developed in the Caribbean regionCreole Religions of the Caribbean offers a comprehensive introduction to the overlapping religions that have developed as a result of the creolization process. Caribbean peoples drew on the variants of Christianity brought by European colonizers, as well as on African religious and healing traditions and the remnants of Amerindian practices, to fashion new systems of belief. From Vodou, Santería, Regla de Palo, the Abakuá Secret Society, and Obeah to Quimbois and Espiritismo, the volume traces the historical–cultural origins of the major Creole religions, as well as the newer traditions such as Rastafari.This third edition updates the scholarship by featuring new critical approaches that have been brought to bear on the study of religion, such as queer studies, environmental studies, and diasporic studies. The third edition also expands the regional considerations of the diaspora to the US Latinx communities that are influenced by Creole spiritual practices, taking into account the increased significance of material culture?art, music, literature, and healing practices influenced by Creole religions" ;
-  schema:author "Margarite Fernández Olmos" ;
-  schema:creator "Lizabeth Paravisini-Gebert" ;
+  schema:author "Margarite Fernández Olmos", "Lizabeth Paravisini-Gebert" ;
   schema:datePublished "2022" ;
   schema:publisher "New York University Press eBooks" ;
   schema:sameAs <https://doi.org/10.18574/nyu/9781479803491.001.0001> ;
   dcterms:identifier "doi:10.18574/nyu/9781479803491.001.0001" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> ;
-  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "Abakua", "Bantu-Derived", "Espiritismo", "Fon/Ewe-Derived", "Haitian Vodou", "Lucumí", "Obeah", "Palo", "Rastafari", "Santeria", "Trinidad Orisha", "Yoruba-Derived" .
+  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Abakua", "Bantu-Derived", "Espiritismo", "Fon/Ewe-Derived", "Haitian Vodou", "Lucumí", "Obeah", "Palo", "Rastafari", "Santeria", "Trinidad Orisha", "Yoruba-Derived" .

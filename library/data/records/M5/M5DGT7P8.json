@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "M5DGT7P8",
-    "version": 5021,
+    "version": 5566,
     "itemType": "thesis",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M5DGT7P8",
     "dateAdded": "2026-05-19T14:17:27Z",
-    "dateModified": "2026-07-16T23:00:02Z"
+    "dateModified": "2026-07-19T21:06:22Z"
   },
   "display": {
-    "title": "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE",
+    "title": "Human Right Violations in 12 Years a Slave",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -70,7 +70,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE"
+      "value": "Human Right Violations in 12 Years a Slave"
     },
     {
       "field": "264",

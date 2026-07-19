@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/K423QZUP>
   a schema:Thesis ;
-  schema:name "\"Good For Rosetta\" : The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855" ;
+  schema:name "Good For Rosetta: The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855" ;
   schema:url <https://medjat.irokosociety.org/library/?item=K423QZUP> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:K423QZUP" ;

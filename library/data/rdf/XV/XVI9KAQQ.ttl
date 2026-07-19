@@ -17,5 +17,5 @@
   schema:publisher "Revista de Antropologia" ;
   schema:sameAs <https://doi.org/10.11606/2179-0892.ra.1964.110743> ;
   dcterms:identifier "doi:10.11606/2179-0892.ra.1964.110743" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Syncretic/Creole", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Espiritismo", "Umbanda" .

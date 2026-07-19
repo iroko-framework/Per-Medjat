@@ -16,5 +16,5 @@
   schema:datePublished "1938" ;
   schema:publisher "J. B. Lippincott" ;
   dcterms:identifier "isbn:0-06-169513-0" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> ;
-  dcterms:subject "Haitian Vodou", "Afro-Indigenous" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-kumina> ;
+  dcterms:subject "Haitian Vodou", "Kumina" .

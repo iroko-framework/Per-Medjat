@@ -16,5 +16,5 @@
   schema:datePublished "2009" ;
   schema:publisher "University Press of Mississippi" ;
   dcterms:identifier "isbn:978-1-934110-83-6" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe> ;
+  dcterms:subject "Black people -- Cuba -- Social life and customs", "Secret societies -- Cuba", "Sociedad Abakuá (Cuba)", "Abakua", "Ekpe" .

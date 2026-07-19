@@ -45,7 +45,8 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions"
+      "Lucumí",
+      "Santeria"
     ],
     "themes": [],
     "domains": [],
@@ -98,7 +99,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Lucumí"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santeria"
     },
     {
       "field": "655",
@@ -112,9 +118,14 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Lucumí",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
+      },
+      {
+        "label": "Santeria",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
       }
     ],
     "authorityMappings": []

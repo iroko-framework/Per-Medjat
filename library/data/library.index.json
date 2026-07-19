@@ -384,12 +384,14 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Abakua",
+      "Lucumí",
+      "Palo"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
     },
     "themes": [
       "Music"
@@ -405,7 +407,7 @@
     "region": [],
     "doi": "",
     "url": "https://digitalcommons.fiu.edu/cri_events/417",
-    "searchText": "\"don't mess with the saints\": popular music and afro-cuban religion alan west-durán 2018 florida international university digital commons (florida international university) journalarticle journal article west african traditions central african traditions music cuban history and society cuban history and society theme: music tradition: abakua tradition: lucumí tradition: palo medjat-search:abakuá",
+    "searchText": "\"don't mess with the saints\": popular music and afro-cuban religion alan west-durán 2018 florida international university digital commons (florida international university) journalarticle journal article abakua lucumí palo music cuban history and society cuban history and society theme: music tradition: abakua tradition: lucumí tradition: palo medjat-search:abakuá",
     "recordPath": "/library/data/records/YF/YFVJVVNN.json"
   },
   {
@@ -1582,10 +1584,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "West African traditions"
+      "Yoruba-Derived"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Yoruba-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
     },
     "themes": [
       "Secret Society"
@@ -1601,7 +1603,7 @@
     "region": [],
     "doi": "",
     "url": "http://www.ssoar.info/ssoar/handle/document/35298",
-    "searchText": "clientelism and social structure: an analysis of patron- age in yoruba social thought ayokunle olumuyiwa omobowale 2008 social science open access repository (gesis – leibniz institute for the social sciences) journalarticle journal article west african traditions secret society african history and culture studies oro postcolonial and cultural literary studies african history and culture studies entity: oro postcolonial and cultural literary studies theme: secret society tradition: yoruba-derived medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
+    "searchText": "clientelism and social structure: an analysis of patron- age in yoruba social thought ayokunle olumuyiwa omobowale 2008 social science open access repository (gesis – leibniz institute for the social sciences) journalarticle journal article yoruba-derived secret society african history and culture studies oro postcolonial and cultural literary studies african history and culture studies entity: oro postcolonial and cultural literary studies theme: secret society tradition: yoruba-derived medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/IN/INDXBY33.json",
     "volume": "43"
   },
@@ -2025,10 +2027,12 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Lucumí",
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -2042,7 +2046,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "los orishas en cuba bolívar aróstegui, natalia. 1990 ediciones union book book west african traditions cuba -- religion orisha orishas -- cuba cuba -- religion entity: orisha orishas -- cuba tradition: lucumí tradition: santeria",
+    "searchText": "los orishas en cuba bolívar aróstegui, natalia. 1990 ediciones union book book lucumí santeria cuba -- religion orisha orishas -- cuba cuba -- religion entity: orisha orishas -- cuba tradition: lucumí tradition: santeria",
     "recordPath": "/library/data/records/HU/HUFZ6PQ6.json"
   },
   {
@@ -2088,10 +2092,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -2107,7 +2111,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi98015731/",
-    "searchText": "umbanda, memória e esforço legitimador borges, dain isaia, artur cesar 1998 journalarticle journal article central african traditions portuguese tradition: umbanda medjat-search:umbanda",
+    "searchText": "umbanda, memória e esforço legitimador borges, dain isaia, artur cesar 1998 journalarticle journal article umbanda portuguese tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/RZ/RZLKIJTX.json",
     "languageCodes": [
       "pt"
@@ -2308,10 +2312,10 @@
     "itemType": "book",
     "recordTypeLabel": "Monograph",
     "traditions": [
-      "West African traditions"
+      "Lucumí"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
     },
     "themes": [],
     "domains": [],
@@ -2327,7 +2331,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph west african traditions afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
     "recordPath": "/library/data/records/Z2/Z2BK39AA.json",
     "volume": "2",
     "numberOfVolumes": "2",
@@ -2349,10 +2353,10 @@
     "itemType": "book",
     "recordTypeLabel": "Monograph",
     "traditions": [
-      "West African traditions"
+      "Lucumí"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
     },
     "themes": [],
     "domains": [],
@@ -2368,7 +2372,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph west african traditions afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
     "recordPath": "/library/data/records/5P/5PLRK6GT.json",
     "volume": "1",
     "numberOfVolumes": "2",
@@ -2390,10 +2394,10 @@
     "itemType": "book",
     "recordTypeLabel": "Monograph",
     "traditions": [
-      "West African traditions"
+      "Lucumí"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
     },
     "themes": [],
     "domains": [],
@@ -2409,7 +2413,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959: two-vol. brown, david h. 2026 digital publishing of fl book monograph west african traditions afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959: two-vol. brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
     "recordPath": "/library/data/records/7H/7HTNR8JQ.json",
     "volume": "2",
     "languageCodes": [
@@ -2430,10 +2434,12 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Lucumí",
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -2447,7 +2453,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book west african traditions art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
+    "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book lucumí santeria art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
     "recordPath": "/library/data/records/8I/8IMEF25Y.json"
   },
   {
@@ -2465,10 +2471,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -2484,7 +2490,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi81108353/",
-    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
+    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
     "recordPath": "/library/data/records/C2/C226L4AS.json",
     "languageCodes": [
       "en"
@@ -2505,10 +2511,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -2524,7 +2530,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi96001833/",
-    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
+    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
     "recordPath": "/library/data/records/J3/J3NTRMM4.json",
     "languageCodes": [
       "en"
@@ -2794,12 +2800,14 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Lucumí",
+      "Palo",
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo",
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -2815,7 +2823,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "el monte: igbo-finda; ewe orisha; vititi nfinda cabrera, lydia 1992 ediciones universal book book west african traditions central african traditions ewé osanyin osain ozain ọsanyìn herbs entity: osanyin entity: osain entity: ozain entity: ọsanyìn ewé herbs tradition: lucumí tradition: palo tradition: santeria",
+    "searchText": "el monte: igbo-finda; ewe orisha; vititi nfinda cabrera, lydia 1992 ediciones universal book book lucumí palo santeria ewé osanyin osain ozain ọsanyìn herbs entity: osanyin entity: osain entity: ozain entity: ọsanyìn ewé herbs tradition: lucumí tradition: palo tradition: santeria",
     "recordPath": "/library/data/records/G9/G9IYYPGY.json"
   },
   {
@@ -2863,10 +2871,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Abakua"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
     },
     "themes": [],
     "domains": [],
@@ -2880,7 +2888,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "la sociedad secreta abakuá cabrera, lydia 1970 ediciones cr book book west african traditions colección del chicherekú sociedad abakuá witchcraft -- cuba colección del chicherekú sociedad abakuá tradition: abakuá witchcraft -- cuba",
+    "searchText": "la sociedad secreta abakuá cabrera, lydia 1970 ediciones cr book book abakua colección del chicherekú sociedad abakuá witchcraft -- cuba colección del chicherekú sociedad abakuá tradition: abakuá witchcraft -- cuba",
     "recordPath": "/library/data/records/EH/EHRNFQQL.json"
   },
   {
@@ -2897,10 +2905,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Central African traditions"
+      "Palo"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
     },
     "themes": [],
     "domains": [],
@@ -2914,7 +2922,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "reglas de congo: palo monte mayombe cabrera, lydia 1979 peninsular print. book book central african traditions tradition: palo",
+    "searchText": "reglas de congo: palo monte mayombe cabrera, lydia 1979 peninsular print. book book palo tradition: palo",
     "recordPath": "/library/data/records/VT/VTKDER8N.json"
   },
   {
@@ -3030,10 +3038,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -3049,7 +3057,7 @@
     "region": [],
     "doi": "",
     "url": "https://openlibrary.org/works/OL7226931W",
-    "searchText": "lucumí carlos canet 1973 book book west african traditions english santeria medjat-search:lucumí",
+    "searchText": "lucumí carlos canet 1973 book book santeria english santeria medjat-search:lucumí",
     "recordPath": "/library/data/records/W8/W8QFR3FJ.json",
     "languageCodes": [
       "en"
@@ -3963,10 +3971,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -3980,7 +3988,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "santería: correcting the myths and uncovering the realities of a growing religion clark, mary ann 2007 praeger book book west african traditions tradition: santeria",
+    "searchText": "santería: correcting the myths and uncovering the realities of a growing religion clark, mary ann 2007 praeger book book santeria tradition: santeria",
     "recordPath": "/library/data/records/2Q/2Q7HYIWJ.json"
   },
   {
@@ -4336,10 +4344,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -4355,7 +4363,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi2013002669/",
-    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article central african traditions brazil history religious life and customs spirit possession umbanda -- brazil portuguese tradition: umbanda brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
+    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article umbanda brazil history religious life and customs spirit possession umbanda -- brazil portuguese tradition: umbanda brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/AE/AELNGXBY.json",
     "languageCodes": [
       "pt"
@@ -4929,10 +4937,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -4946,7 +4954,7 @@
     "region": [],
     "doi": "10.1525/ae.1987.14.1.02a00050",
     "url": "https://doi.org/10.1525/ae.1987.14.1.02a00050",
-    "searchText": "religion, class, and context: continuities and discontinuities in brazilian umbanda diana brown mario bick 1987 american ethnologist journalarticle journal article central african traditions anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america tradition: umbanda medjat-search:umbanda",
+    "searchText": "religion, class, and context: continuities and discontinuities in brazilian umbanda diana brown mario bick 1987 american ethnologist journalarticle journal article umbanda anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/2J/2JV6T2EB.json",
     "volume": "14"
   },
@@ -4964,10 +4972,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -4981,7 +4989,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "umbanda : religion and politics in urban brazil diana brown 1986 columbia university press ebooks book book central african traditions religion and society in latin america religion and society in latin america tradition: umbanda medjat-search:umbanda",
+    "searchText": "umbanda : religion and politics in urban brazil diana brown 1986 columbia university press ebooks book book umbanda religion and society in latin america religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/BE/BEZLB3TV.json"
   },
   {
@@ -5734,10 +5742,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "West African traditions"
+      "Calabari/Cross River"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Calabari/Cross River": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-calabari"
     },
     "themes": [
       "Lineage",
@@ -5754,7 +5762,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "ekpu-oro: studies in oron cosmology and cultural history etim e. okon 2006 journalarticle journal article west african traditions lineage secret society african cultural and philosophical studies african history and culture analysis african studies and sociopolitical issues african cultural and philosophical studies african history and culture analysis african studies and sociopolitical issues theme: lineage theme: secret society tradition: calabari/cross river medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
+    "searchText": "ekpu-oro: studies in oron cosmology and cultural history etim e. okon 2006 journalarticle journal article calabari/cross river lineage secret society african cultural and philosophical studies african history and culture analysis african studies and sociopolitical issues african cultural and philosophical studies african history and culture analysis african studies and sociopolitical issues theme: lineage theme: secret society tradition: calabari/cross river medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/I5/I5U4EDX6.json"
   },
   {
@@ -5996,12 +6004,14 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Abakua",
+      "Palo Mayombe",
+      "Palo Monte"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Palo Mayombe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe",
+      "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
     },
     "themes": [],
     "domains": [],
@@ -6017,7 +6027,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "los negros brujos fernando ortiz 1906 librería de fernando fé book book west african traditions central african traditions afro-cuban religion cuba archival-latency-paper colonial ethnography spanish afro-cuban religion cuba tradition: abakuá tradition: palo mayombe tradition: palo monte archival-latency-paper colonial ethnography",
+    "searchText": "los negros brujos fernando ortiz 1906 librería de fernando fé book book abakua palo mayombe palo monte afro-cuban religion cuba archival-latency-paper colonial ethnography spanish afro-cuban religion cuba tradition: abakuá tradition: palo mayombe tradition: palo monte archival-latency-paper colonial ethnography",
     "recordPath": "/library/data/records/MP/MP9FK9XE.json",
     "languageCodes": [
       "es"
@@ -6284,10 +6294,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Central African traditions"
+      "Palo"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
     },
     "themes": [],
     "domains": [],
@@ -6301,7 +6311,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "palo mayombe: the garden of blood and bones frisvold, nicholaj de mattos 2011 scarlet imprint book book central african traditions tradition: palo",
+    "searchText": "palo mayombe: the garden of blood and bones frisvold, nicholaj de mattos 2011 scarlet imprint book book palo tradition: palo",
     "recordPath": "/library/data/records/AL/ALCLJBH7.json"
   },
   {
@@ -6695,10 +6705,10 @@
     "itemType": "book",
     "recordTypeLabel": "Monograph",
     "traditions": [
-      "West African traditions"
+      "Yoruba-Derived"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Yoruba-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
     },
     "themes": [],
     "domains": [
@@ -6715,7 +6725,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.slaveryarchive.com/10-best-books-2025/",
-    "searchText": "the yoruba are on a rock: recaptured africans and the orisas of grenada george, shantel a. 2025 cambridge university press book monograph west african traditions afro-atlantic-history slave-trade access: community afro-atlantic grenada orisa slavery & abolition studies recaptured africans access: community afro-atlantic grenada monograph orisa slavery & abolition studies tradition: yoruba-derived domain:afro-atlantic-history domain:slave-trade recaptured africans",
+    "searchText": "the yoruba are on a rock: recaptured africans and the orisas of grenada george, shantel a. 2025 cambridge university press book monograph yoruba-derived afro-atlantic-history slave-trade access: community afro-atlantic grenada orisa slavery & abolition studies recaptured africans access: community afro-atlantic grenada monograph orisa slavery & abolition studies tradition: yoruba-derived domain:afro-atlantic-history domain:slave-trade recaptured africans",
     "recordPath": "/library/data/records/Q9/Q9A6BPK4.json"
   },
   {
@@ -6732,10 +6742,10 @@
     "itemType": "book",
     "recordTypeLabel": "Monograph",
     "traditions": [
-      "Afro-Indigenous"
+      "Obeah"
     ],
     "traditionLinks": {
-      "Afro-Indigenous": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+      "Obeah": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
     },
     "themes": [],
     "domains": [
@@ -6752,7 +6762,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.slaveryarchive.com/10-best-books-2025/",
-    "searchText": "archival irruptions: constructing religion and criminalizing obeah in eighteenth-century jamaica gerbner, katharine 2025 duke university press book monograph afro-indigenous archival-studies colonial-law access: community afro-atlantic jamaica slavery & abolition studies archival methodology religion and law access: community afro-atlantic jamaica monograph slavery & abolition studies tradition: obeah archival methodology domain:archival-studies domain:colonial-law religion and law",
+    "searchText": "archival irruptions: constructing religion and criminalizing obeah in eighteenth-century jamaica gerbner, katharine 2025 duke university press book monograph obeah archival-studies colonial-law access: community afro-atlantic jamaica slavery & abolition studies archival methodology religion and law access: community afro-atlantic jamaica monograph slavery & abolition studies tradition: obeah archival methodology domain:archival-studies domain:colonial-law religion and law",
     "recordPath": "/library/data/records/IV/IVJFW4B7.json"
   },
   {
@@ -7269,10 +7279,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -7288,7 +7298,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi91003427/",
-    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article central african traditions african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda -- uruguay uruguay spanish tradition: umbanda african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
+    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article umbanda african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda -- uruguay uruguay spanish tradition: umbanda african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
     "recordPath": "/library/data/records/2U/2UNNWD7V.json",
     "languageCodes": [
       "es"
@@ -7744,10 +7754,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Fon/Ewe-Derived"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Fon/Ewe-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived"
     },
     "themes": [],
     "domains": [],
@@ -7761,7 +7771,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "dahomey, an ancient west african kingdom herskovits, melville j herskovits, frances s 1938 j.j. augustin book book west african traditions afro-atlantic dahomey ethnology -- benin fon (african people) governance religion sovereignty-without-state-paper afro-atlantic dahomey ethnology -- benin fon (african people) fon/ewe-derived governance religion sovereignty-without-state-paper",
+    "searchText": "dahomey, an ancient west african kingdom herskovits, melville j herskovits, frances s 1938 j.j. augustin book book fon/ewe-derived afro-atlantic dahomey ethnology -- benin fon (african people) governance religion sovereignty-without-state-paper afro-atlantic dahomey ethnology -- benin fon (african people) fon/ewe-derived governance religion sovereignty-without-state-paper",
     "recordPath": "/library/data/records/MK/MK34V6A2.json"
   },
   {
@@ -7995,11 +8005,11 @@
     "recordTypeLabel": "Book",
     "traditions": [
       "Haitian Vodou",
-      "Afro-Indigenous"
+      "Kumina"
     ],
     "traditionLinks": {
       "Haitian Vodou": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou",
-      "Afro-Indigenous": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+      "Kumina": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-kumina"
     },
     "themes": [],
     "domains": [],
@@ -8013,7 +8023,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "tell my horse: voodoo and life in haiti and jamaica hurston, zora neale 1938 j. b. lippincott book book haitian vodou afro-indigenous tradition: haitian vodou tradition: kumina",
+    "searchText": "tell my horse: voodoo and life in haiti and jamaica hurston, zora neale 1938 j. b. lippincott book book haitian vodou kumina tradition: haitian vodou tradition: kumina",
     "recordPath": "/library/data/records/FR/FRAWM8JF.json"
   },
   {
@@ -8030,10 +8040,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Syncretic/Creole"
+      "Hoodoo"
     ],
     "traditionLinks": {
-      "Syncretic/Creole": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+      "Hoodoo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-hoodoo"
     },
     "themes": [],
     "domains": [],
@@ -8047,7 +8057,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "hoodoo--conjuration--witchcraft--rootwork: beliefs accepted by many negroes and white persons, these being orally recorded among blacks and whites. hyatt, harry middleton 1970 printed by western pub.; distributed by american university bookstore, washington book book syncretic/creole african americans -- southern states folklore -- southern states hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states african americans -- southern states folklore -- southern states hoodoo hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states",
+    "searchText": "hoodoo--conjuration--witchcraft--rootwork: beliefs accepted by many negroes and white persons, these being orally recorded among blacks and whites. hyatt, harry middleton 1970 printed by western pub.; distributed by american university bookstore, washington book book hoodoo african americans -- southern states folklore -- southern states hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states african americans -- southern states folklore -- southern states hoodoo hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states",
     "recordPath": "/library/data/records/C5/C5ARVMBQ.json",
     "volume": "1",
     "numberOfVolumes": "5"
@@ -8128,10 +8138,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Ekpe"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Ekpe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
     },
     "themes": [],
     "domains": [],
@@ -8145,7 +8155,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "calabar on the cross river : historical and cultural studies imbua, david lovejoy, paul e miller, ivor 2017 africa world press book book west african traditions calabar (nigeria) -- history calabar (nigeria) -- social conditions -- history calabar (nigeria) -- social life and customs -- hi slave trade -- nigeria -- calabar -- history calabar (nigeria) -- history calabar (nigeria) -- social conditions -- history calabar (nigeria) -- social life and customs -- hi slave trade -- nigeria -- calabar -- history tradition: ekpe",
+    "searchText": "calabar on the cross river : historical and cultural studies imbua, david lovejoy, paul e miller, ivor 2017 africa world press book book ekpe calabar (nigeria) -- history calabar (nigeria) -- social conditions -- history calabar (nigeria) -- social life and customs -- hi slave trade -- nigeria -- calabar -- history calabar (nigeria) -- history calabar (nigeria) -- social conditions -- history calabar (nigeria) -- social life and customs -- hi slave trade -- nigeria -- calabar -- history tradition: ekpe",
     "recordPath": "/library/data/records/P2/P2S5H7IA.json"
   },
   {
@@ -10939,12 +10949,12 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Syncretic/Creole",
-      "Central African traditions"
+      "Espiritismo",
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Syncretic/Creole": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Espiritismo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo",
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -10958,7 +10968,7 @@
     "region": [],
     "doi": "10.11606/2179-0892.ra.1964.110743",
     "url": "https://doi.org/10.11606/2179-0892.ra.1964.110743",
-    "searchText": "kardecismo e umbanda joão baptista borges pereira 1964 revista de antropologia journalarticle journal article syncretic/creole central african traditions religion and society in latin america religion and society in latin america tradition: espiritismo tradition: umbanda medjat-search:umbanda",
+    "searchText": "kardecismo e umbanda joão baptista borges pereira 1964 revista de antropologia journalarticle journal article espiritismo umbanda religion and society in latin america religion and society in latin america tradition: espiritismo tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/XV/XVI9KAQQ.json",
     "volume": "12"
   },
@@ -11194,10 +11204,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -11213,7 +11223,7 @@
     "region": [],
     "doi": "",
     "url": "https://openlibrary.org/works/OL4157324W",
-    "searchText": "el santo (la ocha) julio garcía cortez 1983 book book west african traditions spanish santeria medjat-search:lucumí",
+    "searchText": "el santo (la ocha) julio garcía cortez 1983 book book santeria spanish santeria medjat-search:lucumí",
     "recordPath": "/library/data/records/9E/9E7UIAFM.json",
     "languageCodes": [
       "es"
@@ -11235,10 +11245,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Santeria"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
     },
     "themes": [],
     "domains": [],
@@ -11254,7 +11264,7 @@
     "region": [],
     "doi": "",
     "url": "https://openlibrary.org/works/OL4157322W",
-    "searchText": "the osha julio garcía cortez julio garcia cortez julio garcia corlez 2000 book book west african traditions ethnobotany religion rites and ceremonies yoruba (african people) yoruba americans english ethnobotany religion rites and ceremonies santeria yoruba (african people) yoruba americans medjat-search:lucumí",
+    "searchText": "the osha julio garcía cortez julio garcia cortez julio garcia corlez 2000 book book santeria ethnobotany religion rites and ceremonies yoruba (african people) yoruba americans english ethnobotany religion rites and ceremonies santeria yoruba (african people) yoruba americans medjat-search:lucumí",
     "recordPath": "/library/data/records/W2/W27MPK7H.json",
     "languageCodes": [
       "en"
@@ -12396,10 +12406,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -12415,7 +12425,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi77101373/",
-    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article central african traditions brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda -- brazil english tradition: umbanda brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
+    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article umbanda brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda -- brazil english tradition: umbanda brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/YA/YAQDCCC2.json",
     "languageCodes": [
       "en"
@@ -12650,10 +12660,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -12669,7 +12679,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi94004464/",
-    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article central african traditions african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda -- venezuela venezuela spanish tradition: umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
+    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda -- venezuela venezuela spanish tradition: umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
     "recordPath": "/library/data/records/I7/I7QCZTXJ.json",
     "languageCodes": [
       "es"
@@ -12751,10 +12761,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -12768,7 +12778,7 @@
     "region": [],
     "doi": "10.5860/choice.47-6328",
     "url": "https://doi.org/10.5860/choice.47-6328",
-    "searchText": "hearing the mermaid's song: the umbanda religion in rio de janeiro lindsay hale 2010 choice reviews online journalarticle journal article central african traditions anthropological studies and insights religion and society in latin america anthropological studies and insights religion and society in latin america tradition: umbanda medjat-search:umbanda",
+    "searchText": "hearing the mermaid's song: the umbanda religion in rio de janeiro lindsay hale 2010 choice reviews online journalarticle journal article umbanda anthropological studies and insights religion and society in latin america anthropological studies and insights religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/HJ/HJE4FXT5.json",
     "volume": "47"
   },
@@ -13091,10 +13101,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Palo"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
     },
     "themes": [],
     "domains": [],
@@ -13108,7 +13118,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "palo and paleros: an interview with oba frank martin luis, william 2012 afro - hispanic review journalarticle journal article central african traditions tradition: palo",
+    "searchText": "palo and paleros: an interview with oba frank martin luis, william 2012 afro - hispanic review journalarticle journal article palo tradition: palo",
     "recordPath": "/library/data/records/JN/JN4TQGI4.json",
     "volume": "31"
   },
@@ -13404,10 +13414,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -13421,7 +13431,7 @@
     "region": [],
     "doi": "10.1590/ts.v5i1/2.84951",
     "url": "https://doi.org/10.1590/ts.v5i1/2.84951",
-    "searchText": "umbanda: entre a cruz e a encruzilhada lísias nogueira negrão 1993 tempo social journalarticle journal article central african traditions religion and society in latin america religion, society, and development religion and society in latin america religion, society, and development tradition: umbanda medjat-search:umbanda",
+    "searchText": "umbanda: entre a cruz e a encruzilhada lísias nogueira negrão 1993 tempo social journalarticle journal article umbanda religion and society in latin america religion, society, and development religion and society in latin america religion, society, and development tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/EN/ENNBGWFM.json",
     "volume": "5"
   },
@@ -13893,20 +13903,32 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions",
-      "Syncretic/Creole",
+      "Abakua",
+      "Bantu-Derived",
+      "Espiritismo",
+      "Fon/Ewe-Derived",
       "Haitian Vodou",
-      "Afro-Indigenous",
-      "Pan-African Political-Spiritual"
+      "Lucumí",
+      "Obeah",
+      "Palo",
+      "Rastafari",
+      "Santeria",
+      "Trinidad Orisha",
+      "Yoruba-Derived"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african",
-      "Syncretic/Creole": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic",
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Bantu-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived",
+      "Espiritismo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo",
+      "Fon/Ewe-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived",
       "Haitian Vodou": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou",
-      "Afro-Indigenous": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous",
-      "Pan-African Political-Spiritual": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Obeah": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah",
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo",
+      "Rastafari": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari",
+      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria",
+      "Trinidad Orisha": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha",
+      "Yoruba-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
     },
     "themes": [
       "Material Culture",
@@ -13925,7 +13947,7 @@
     "region": [],
     "doi": "10.18574/nyu/9781479803491.001.0001",
     "url": "https://doi.org/10.18574/nyu/9781479803491.001.0001",
-    "searchText": "creole religions of the caribbean, third margarite fernández olmos lizabeth paravisini-gebert 2022 new york university press ebooks book book west african traditions central african traditions syncretic/creole haitian vodou afro-indigenous pan-african political-spiritual material culture music ritual secret society caribbean history, culture, and politics caribbean history, culture, and politics theme: material culture theme: music theme: ritual theme: secret society tradition: abakua tradition: bantu-derived tradition: espiritismo tradition: fon/ewe-derived tradition: haitian vodou tradition: lucumí tradition: obeah tradition: palo tradition: rastafari tradition: santeria tradition: trinidad orisha tradition: yoruba-derived medjat-search:abakuá",
+    "searchText": "creole religions of the caribbean, third margarite fernández olmos lizabeth paravisini-gebert 2022 new york university press ebooks book book abakua bantu-derived espiritismo fon/ewe-derived haitian vodou lucumí obeah palo rastafari santeria trinidad orisha yoruba-derived material culture music ritual secret society caribbean history, culture, and politics caribbean history, culture, and politics theme: material culture theme: music theme: ritual theme: secret society tradition: abakua tradition: bantu-derived tradition: espiritismo tradition: fon/ewe-derived tradition: haitian vodou tradition: lucumí tradition: obeah tradition: palo tradition: rastafari tradition: santeria tradition: trinidad orisha tradition: yoruba-derived medjat-search:abakuá",
     "recordPath": "/library/data/records/CD/CDKAYH2J.json"
   },
   {
@@ -14987,10 +15009,12 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "West African traditions"
+      "Abakua",
+      "Ekpe"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Ekpe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
     },
     "themes": [],
     "domains": [],
@@ -15004,7 +15028,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "the relationship between early forms of literacy in old calabar and inherited manuscripts of the cuban abakuá society miller, ivor 2016 afro-hispanic review journalarticle journal article west african traditions tradition: abakuá tradition: ekpe",
+    "searchText": "the relationship between early forms of literacy in old calabar and inherited manuscripts of the cuban abakuá society miller, ivor 2016 afro-hispanic review journalarticle journal article abakua ekpe tradition: abakuá tradition: ekpe",
     "recordPath": "/library/data/records/F3/F3JU8WXV.json",
     "volume": "35"
   },
@@ -15022,10 +15046,12 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Abakua",
+      "Ekpe"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Ekpe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
     },
     "themes": [],
     "domains": [],
@@ -15039,7 +15065,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "voice of the leopard: african secret societies and cuba miller, ivor 2009 university press of mississippi book book west african traditions black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) tradition: abakuá tradition: ekpe",
+    "searchText": "voice of the leopard: african secret societies and cuba miller, ivor 2009 university press of mississippi book book abakua ekpe black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) tradition: abakuá tradition: ekpe",
     "recordPath": "/library/data/records/29/29DQBEEF.json"
   },
   {
@@ -15178,10 +15204,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -15197,7 +15223,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi89006307/",
-    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article central african traditions brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda -- brazil portuguese tradition: umbanda brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
+    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article umbanda brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda -- brazil portuguese tradition: umbanda brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/NT/NTWSWK8E.json",
     "languageCodes": [
       "pt"
@@ -15998,10 +16024,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions"
+      "Lucumí"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
     },
     "themes": [],
     "domains": [],
@@ -16015,7 +16041,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "animal sacrifice and religious freedom: church of the lukumi babalu aye v. city of hialeah o'brien, david m. 2004 university press of kansas book book west african traditions tradition: lucumí",
+    "searchText": "animal sacrifice and religious freedom: church of the lukumi babalu aye v. city of hialeah o'brien, david m. 2004 university press of kansas book book lucumí tradition: lucumí",
     "recordPath": "/library/data/records/97/97UFSQKS.json"
   },
   {
@@ -16188,10 +16214,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Central African traditions"
+      "Palo"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
     },
     "themes": [],
     "domains": [],
@@ -16205,7 +16231,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "society of the dead: quita manaquita and palo praise in cuba ochoa, todd r 2010 university of california press book book central african traditions tradition: palo",
+    "searchText": "society of the dead: quita manaquita and palo praise in cuba ochoa, todd r 2010 university of california press book book palo tradition: palo",
     "recordPath": "/library/data/records/Q9/Q9IWSL5K.json"
   },
   {
@@ -16822,10 +16848,12 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Quimbanda",
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Quimbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-quimbanda",
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -16841,7 +16869,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi83108415/",
-    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda -- brazil french tradition: quimbanda tradition: umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
+    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article quimbanda umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda -- brazil french tradition: quimbanda tradition: umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/KJ/KJFP9ZFE.json",
     "languageCodes": [
       "fr"
@@ -17623,12 +17651,16 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Abakua",
+      "Lucumí",
+      "Palo Mayombe",
+      "Palo Monte"
     ],
     "traditionLinks": {
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african",
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
+      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
+      "Palo Mayombe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe",
+      "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
     },
     "themes": [],
     "domains": [],
@@ -17642,7 +17674,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book west african traditions central african traditions ewe database source ewe database source tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
+    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book abakua lucumí palo mayombe palo monte ewe database source ewe database source tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
     "recordPath": "/library/data/records/MM/MMMUQPLF.json"
   },
   {
@@ -18244,10 +18276,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -18261,7 +18293,7 @@
     "region": [],
     "doi": "10.1590/s0103-40142004000300015",
     "url": "https://doi.org/10.1590/s0103-40142004000300015",
-    "searchText": "o brasil com axé: candomblé e umbanda no mercado religioso reginaldo ́prandi 2004 estudos avançados journalarticle journal article central african traditions religion and society in latin america religion and society in latin america tradition: umbanda medjat-search:umbanda",
+    "searchText": "o brasil com axé: candomblé e umbanda no mercado religioso reginaldo ́prandi 2004 estudos avançados journalarticle journal article umbanda religion and society in latin america religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/EZ/EZ5XWX9A.json",
     "volume": "18"
   },
@@ -18279,10 +18311,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -18296,7 +18328,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "a morte branca do feiticeiro negro : umbanda e sociedade brasileira renato ortiz 1991 editora brasiliense ebooks book book central african traditions race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics race, identity, and education in brazil religion and society in latin america tradition: umbanda urban and sociocultural dynamics medjat-search:umbanda",
+    "searchText": "a morte branca do feiticeiro negro : umbanda e sociedade brasileira renato ortiz 1991 editora brasiliense ebooks book book umbanda race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics race, identity, and education in brazil religion and society in latin america tradition: umbanda urban and sociocultural dynamics medjat-search:umbanda",
     "recordPath": "/library/data/records/GQ/GQ8X5Z6A.json"
   },
   {
@@ -19742,10 +19774,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -19759,7 +19791,7 @@
     "region": [],
     "doi": "10.1525/nr.2012.15.4.13",
     "url": "https://doi.org/10.1525/nr.2012.15.4.13",
-    "searchText": "umbanda and africa steven engler 2012 nova religio the journal of alternative and emergent religions journalarticle journal article central african traditions african cultural and philosophical studies anthropological studies and insights religion and society interactions african cultural and philosophical studies anthropological studies and insights religion and society interactions tradition: umbanda medjat-search:umbanda",
+    "searchText": "umbanda and africa steven engler 2012 nova religio the journal of alternative and emergent religions journalarticle journal article umbanda african cultural and philosophical studies anthropological studies and insights religion and society interactions african cultural and philosophical studies anthropological studies and insights religion and society interactions tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/3N/3NVB96LY.json",
     "volume": "15"
   },
@@ -19777,10 +19809,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -19794,7 +19826,7 @@
     "region": [],
     "doi": "10.1163/002959709x12469430260084",
     "url": "https://doi.org/10.1163/002959709x12469430260084",
-    "searchText": "umbanda and hybridity steven engler 2009 numen journalarticle journal article central african traditions anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america tradition: umbanda medjat-search:umbanda",
+    "searchText": "umbanda and hybridity steven engler 2009 numen journalarticle journal article umbanda anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/34/34X7X6P3.json",
     "volume": "56"
   },
@@ -19872,12 +19904,12 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Afro-Indigenous",
-      "West African traditions"
+      "Obeah",
+      "Trinidad Orisha"
     ],
     "traditionLinks": {
-      "Afro-Indigenous": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous",
-      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      "Obeah": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah",
+      "Trinidad Orisha": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha"
     },
     "themes": [],
     "domains": [],
@@ -19891,7 +19923,7 @@
     "region": [],
     "doi": "10.1515/9781478092773",
     "url": "",
-    "searchText": "obeah, orisa, and religious identity in trinidad. volume ii, orisa: africana nations and the power of black sacred imagination stewart, dianne m 2022 duke university press book book afro-indigenous west african traditions black people -- trinidad and tobago -- trinidad -- cults -- law and legislation -- trinidad and tobag orisha orisha religion -- trinidad and tobago -- trinidad postcolonialism -- trinidad and tobago -- trinidad religion and law -- trinidad and tobago -- trinida religion and sociology -- trinidad and tobago -- t religions -- african influences trinidad -- religion -- african influences black people -- trinidad and tobago -- trinidad -- cults -- law and legislation -- trinidad and tobag entity: orisha orisha religion -- trinidad and tobago -- trinidad postcolonialism -- trinidad and tobago -- trinidad religion and law -- trinidad and tobago -- trinida religion and sociology -- trinidad and tobago -- t religions -- african influences tradition: obeah tradition: trinidad orisha trinidad -- religion -- african influences",
+    "searchText": "obeah, orisa, and religious identity in trinidad. volume ii, orisa: africana nations and the power of black sacred imagination stewart, dianne m 2022 duke university press book book obeah trinidad orisha black people -- trinidad and tobago -- trinidad -- cults -- law and legislation -- trinidad and tobag orisha orisha religion -- trinidad and tobago -- trinidad postcolonialism -- trinidad and tobago -- trinidad religion and law -- trinidad and tobago -- trinida religion and sociology -- trinidad and tobago -- t religions -- african influences trinidad -- religion -- african influences black people -- trinidad and tobago -- trinidad -- cults -- law and legislation -- trinidad and tobag entity: orisha orisha religion -- trinidad and tobago -- trinidad postcolonialism -- trinidad and tobago -- trinidad religion and law -- trinidad and tobago -- trinida religion and sociology -- trinidad and tobago -- t religions -- african influences tradition: obeah tradition: trinidad orisha trinidad -- religion -- african influences",
     "recordPath": "/library/data/records/8R/8R8V6NVJ.json"
   },
   {
@@ -20639,10 +20671,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Central African traditions"
+      "Umbanda"
     ],
     "traditionLinks": {
-      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
     },
     "themes": [],
     "domains": [],
@@ -20658,7 +20690,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "candomblé e umbanda : caminhos da devoção brasileira vagner gonçalves da silva 1994 editora atica ebooks book book central african traditions religion and society in latin america religion, society, and development urban and sociocultural dynamics portuguese religion and society in latin america religion, society, and development tradition: umbanda urban and sociocultural dynamics medjat-search:umbanda",
+    "searchText": "candomblé e umbanda : caminhos da devoção brasileira vagner gonçalves da silva 1994 editora atica ebooks book book umbanda religion and society in latin america religion, society, and development urban and sociocultural dynamics portuguese religion and society in latin america religion, society, and development tradition: umbanda urban and sociocultural dynamics medjat-search:umbanda",
     "recordPath": "/library/data/records/82/82EA4AW6.json",
     "languageCodes": [
       "pt"

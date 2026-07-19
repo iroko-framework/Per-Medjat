@@ -16,5 +16,5 @@
   schema:datePublished "1993" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- venezuela", "folk religion", "folk religion -- venezuela", "umbanda -- venezuela", "venezuela", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- venezuela", "folk religion", "folk religion -- venezuela", "umbanda -- venezuela", "venezuela", "Umbanda" .

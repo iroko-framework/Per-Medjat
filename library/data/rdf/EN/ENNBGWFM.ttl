@@ -18,5 +18,5 @@
   schema:publisher "Tempo Social" ;
   schema:sameAs <https://doi.org/10.1590/ts.v5i1/2.84951> ;
   dcterms:identifier "doi:10.1590/ts.v5i1/2.84951" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Umbanda" .

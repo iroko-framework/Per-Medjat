@@ -46,7 +46,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "Syncretic/Creole"
+      "Hoodoo"
     ],
     "themes": [],
     "domains": [],
@@ -110,7 +110,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Syncretic/Creole"
+      "value": "Hoodoo"
     },
     {
       "field": "655",
@@ -124,9 +124,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "Syncretic/Creole",
+        "label": "Hoodoo",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-hoodoo"
       }
     ],
     "authorityMappings": []

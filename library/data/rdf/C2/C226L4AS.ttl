@@ -16,5 +16,5 @@
   schema:datePublished "1979" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "social classes", "social classes -- brazil", "social structure", "social structure -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "social classes", "social classes -- brazil", "social structure", "social structure -- brazil", "Umbanda" .

@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions"
+      "Lucumí"
     ],
     "themes": [],
     "domains": [],
@@ -84,7 +84,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Lucumí"
     },
     {
       "field": "655",
@@ -98,9 +98,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Lucumí",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
       }
     ],
     "authorityMappings": []

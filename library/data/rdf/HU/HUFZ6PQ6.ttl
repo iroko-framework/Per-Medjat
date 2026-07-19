@@ -15,5 +15,5 @@
   schema:author "Bolívar Aróstegui, Natalia." ;
   schema:datePublished "1990" ;
   schema:publisher "Ediciones Union" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
+  dcterms:subject "Cuba -- Religion", "Orisha", "Orishas -- Cuba", "Lucumí", "Santeria" .

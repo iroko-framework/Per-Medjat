@@ -17,5 +17,5 @@
   schema:datePublished "2017" ;
   schema:publisher "Africa World Press" ;
   dcterms:identifier "isbn:978-1-56902-571-0" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe> ;
+  dcterms:subject "Calabar (Nigeria) -- History", "Calabar (Nigeria) -- Social conditions -- History", "Calabar (Nigeria) -- Social life and customs -- Hi", "Slave trade -- Nigeria -- Calabar -- History", "Ekpe" .

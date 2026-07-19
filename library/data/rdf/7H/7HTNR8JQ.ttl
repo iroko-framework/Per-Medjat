@@ -19,5 +19,5 @@
   dcterms:identifier "isbn:978-1-962929-59-2" ;
   dcterms:language "English" ;
   schema:inLanguage "en" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi> ;
+  dcterms:subject "Afro-Atlantic", "Medjat custody: IHS Holds", "Yoruba", "Lucumí" .

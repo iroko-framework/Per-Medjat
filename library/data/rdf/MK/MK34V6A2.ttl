@@ -16,5 +16,5 @@
   schema:creator "Herskovits, Frances S" ;
   schema:datePublished "1938" ;
   schema:publisher "J.J. Augustin" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
-  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "West African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived> ;
+  dcterms:subject "Afro-Atlantic", "Dahomey", "Ethnology -- Benin", "Fon (African people)", "governance", "religion", "sovereignty-without-state-paper", "Fon/Ewe-Derived" .

@@ -45,8 +45,8 @@
   "publicTags": {
     "recordType": "Journal Article",
     "traditions": [
-      "Syncretic/Creole",
-      "Central African traditions"
+      "Espiritismo",
+      "Umbanda"
     ],
     "themes": [],
     "domains": [],
@@ -97,12 +97,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Syncretic/Creole"
+      "value": "Espiritismo"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Umbanda"
     },
     {
       "field": "655",
@@ -118,14 +118,14 @@
     ],
     "about": [
       {
-        "label": "Syncretic/Creole",
+        "label": "Espiritismo",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo"
       },
       {
-        "label": "Central African traditions",
+        "label": "Umbanda",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
       }
     ],
     "authorityMappings": []

@@ -45,8 +45,9 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Lucumí",
+      "Palo",
+      "Santeria"
     ],
     "themes": [],
     "domains": [],
@@ -118,12 +119,17 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Lucumí"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Palo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santeria"
     },
     {
       "field": "655",
@@ -142,14 +148,19 @@
         "uri": "https://ontology.irokosociety.org/vocab/iroko-ewe.html"
       },
       {
-        "label": "West African traditions",
+        "label": "Lucumí",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
       },
       {
-        "label": "Central African traditions",
+        "label": "Palo",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
+      },
+      {
+        "label": "Santeria",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
       }
     ],
     "authorityMappings": []

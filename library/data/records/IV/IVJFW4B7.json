@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Monograph",
     "traditions": [
-      "Afro-Indigenous"
+      "Obeah"
     ],
     "themes": [],
     "domains": [
@@ -119,7 +119,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Afro-Indigenous"
+      "value": "Obeah"
     },
     {
       "field": "650",
@@ -145,9 +145,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "Afro-Indigenous",
+        "label": "Obeah",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
       },
       {
         "label": "Archival Studies",

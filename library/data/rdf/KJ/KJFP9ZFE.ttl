@@ -16,5 +16,5 @@
   schema:datePublished "1979" ;
   dcterms:language "French" ;
   schema:inLanguage "fr" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "african influences", "african influences -- brazil", "brazil", "deities", "deities -- brazil", "folk religion", "folk religion -- brazil", "rites and ceremonies", "rites and ceremonies -- brazil", "umbanda -- brazil", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-quimbanda>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "african influences", "african influences -- brazil", "brazil", "deities", "deities -- brazil", "folk religion", "folk religion -- brazil", "rites and ceremonies", "rites and ceremonies -- brazil", "umbanda -- brazil", "Quimbanda", "Umbanda" .

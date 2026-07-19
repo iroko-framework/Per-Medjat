@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "Central African traditions"
+      "Palo"
     ],
     "themes": [],
     "domains": [],
@@ -84,7 +84,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Palo"
     },
     {
       "field": "655",
@@ -98,9 +98,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "Central African traditions",
+        "label": "Palo",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
       }
     ],
     "authorityMappings": []

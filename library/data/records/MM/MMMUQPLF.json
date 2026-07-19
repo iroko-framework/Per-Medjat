@@ -45,8 +45,10 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Abakua",
+      "Lucumí",
+      "Palo Mayombe",
+      "Palo Monte"
     ],
     "themes": [],
     "domains": [],
@@ -97,12 +99,22 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Abakua"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Lucumí"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Palo Mayombe"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Palo Monte"
     },
     {
       "field": "655",
@@ -116,14 +128,24 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Abakua",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
       },
       {
-        "label": "Central African traditions",
+        "label": "Lucumí",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
+      },
+      {
+        "label": "Palo Mayombe",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe"
+      },
+      {
+        "label": "Palo Monte",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
       }
     ],
     "authorityMappings": []

@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Monograph",
     "traditions": [
-      "West African traditions"
+      "Yoruba-Derived"
     ],
     "themes": [],
     "domains": [
@@ -119,7 +119,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Yoruba-Derived"
     },
     {
       "field": "650",
@@ -145,9 +145,9 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Yoruba-Derived",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
       },
       {
         "label": "Afro Atlantic History",

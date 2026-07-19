@@ -18,5 +18,5 @@
   schema:publisher "Nova Religio The Journal of Alternative and Emergent Religions" ;
   schema:sameAs <https://doi.org/10.1525/nr.2012.15.4.13> ;
   dcterms:identifier "doi:10.1525/nr.2012.15.4.13" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
-  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions", "Central African traditions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
+  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions", "Umbanda" .

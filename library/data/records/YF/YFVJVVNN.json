@@ -45,8 +45,9 @@
   "publicTags": {
     "recordType": "Journal Article",
     "traditions": [
-      "West African traditions",
-      "Central African traditions"
+      "Abakua",
+      "Lucumí",
+      "Palo"
     ],
     "themes": [
       "Music"
@@ -94,12 +95,17 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Abakua"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Lucumí"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Palo"
     },
     {
       "field": "655",
@@ -113,14 +119,19 @@
     "sameAs": [],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Abakua",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
       },
       {
-        "label": "Central African traditions",
+        "label": "Lucumí",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
+      },
+      {
+        "label": "Palo",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
       }
     ],
     "authorityMappings": []

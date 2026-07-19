@@ -49,12 +49,18 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "West African traditions",
-      "Central African traditions",
-      "Syncretic/Creole",
+      "Abakua",
+      "Bantu-Derived",
+      "Espiritismo",
+      "Fon/Ewe-Derived",
       "Haitian Vodou",
-      "Afro-Indigenous",
-      "Pan-African Political-Spiritual"
+      "Lucumí",
+      "Obeah",
+      "Palo",
+      "Rastafari",
+      "Santeria",
+      "Trinidad Orisha",
+      "Yoruba-Derived"
     ],
     "themes": [
       "Material Culture",
@@ -125,17 +131,22 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "West African traditions"
+      "value": "Abakua"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Central African traditions"
+      "value": "Bantu-Derived"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Syncretic/Creole"
+      "value": "Espiritismo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Fon/Ewe-Derived"
     },
     {
       "field": "650",
@@ -145,12 +156,37 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Afro-Indigenous"
+      "value": "Lucumí"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Pan-African Political-Spiritual"
+      "value": "Obeah"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Palo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Rastafari"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santeria"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Trinidad Orisha"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba-Derived"
     },
     {
       "field": "700",
@@ -171,19 +207,24 @@
     ],
     "about": [
       {
-        "label": "West African traditions",
+        "label": "Abakua",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
       },
       {
-        "label": "Central African traditions",
+        "label": "Bantu-Derived",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived"
       },
       {
-        "label": "Syncretic/Creole",
+        "label": "Espiritismo",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo"
+      },
+      {
+        "label": "Fon/Ewe-Derived",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived"
       },
       {
         "label": "Haitian Vodou",
@@ -191,14 +232,39 @@
         "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou"
       },
       {
-        "label": "Afro-Indigenous",
+        "label": "Lucumí",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
       },
       {
-        "label": "Pan-African Political-Spiritual",
+        "label": "Obeah",
         "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-pan-african"
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
+      },
+      {
+        "label": "Palo",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
+      },
+      {
+        "label": "Rastafari",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari"
+      },
+      {
+        "label": "Santeria",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
+      },
+      {
+        "label": "Trinidad Orisha",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha"
+      },
+      {
+        "label": "Yoruba-Derived",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
       }
     ],
     "authorityMappings": []

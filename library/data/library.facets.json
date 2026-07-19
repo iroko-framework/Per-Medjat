@@ -9,8 +9,8 @@
       "count": 230
     },
     "book": {
-      "label": "Book",
-      "count": 85
+      "label": "Anthology",
+      "count": 121
     },
     "bookSection": {
       "label": "Book Chapter",
@@ -32,13 +32,13 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 595
+      "count": 618
     },
-    "West African traditions": 23,
-    "Central African traditions": 17,
-    "Afro-Indigenous": 3,
+    "Central African traditions": 28,
+    "West African traditions": 24,
+    "Afro-Indigenous": 4,
+    "Syncretic/Creole": 4,
     "Haitian Vodou": 3,
-    "Syncretic/Creole": 3,
     "Candomble": 2,
     "New Orleans Voodoo": 1,
     "Pan-African Political-Spiritual": 1,
@@ -48,7 +48,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 629
+      "count": 665
     },
     "Material Culture": 3,
     "Secret Society": 3,
@@ -62,12 +62,26 @@
     "__untagged__": {
       "label": "Untagged",
       "count": 638
-    }
+    },
+    "afro-atlantic-history": 10,
+    "resistance": 10,
+    "colonial-law": 6,
+    "afro-caribbean": 5,
+    "archival-studies": 5,
+    "post-abolition": 4,
+    "slave-trade": 4,
+    "colonial-administration": 3,
+    "abolitionism": 2,
+    "material-culture": 2,
+    "piracy": 2,
+    "african-history": 1,
+    "afro-brazil": 1,
+    "colonialism": 1
   },
   "language": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 590
+      "count": 626
     },
     "Spanish": 15,
     "English": 14,
@@ -79,7 +93,7 @@
     "Ewé": 2
   },
   "access": {
-    "Public": 632,
+    "Public": 668,
     "Community": 6
   }
 }

@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "82EA4AW6",
-    "version": 5040,
+    "version": 5297,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/82EA4AW6",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T23:10:40Z"
+    "dateModified": "2026-07-19T18:16:15Z"
   },
   "display": {
     "title": "Candomblé e Umbanda : caminhos da devoção brasileira",
@@ -47,7 +47,9 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -107,6 +109,11 @@
       "value": "Urban and sociocultural dynamics"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Book"
@@ -116,7 +123,13 @@
     "ttl": "/library/data/rdf/82/82EA4AW6.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/IZPCNY48>
+  a schema:Book ;
+  schema:name "The Heretic of Cacheu: Crispina Peres and the Struggle over Life in Seventeenth-Century West Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IZPCNY48> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IZPCNY48" ;
+  schema:description "Global history of West Africa centered on Crispina Peres, a 17th-century woman in the Guinea-Bissau port of Cacheu." ;
+  schema:author "Green, Toby" ;
+  schema:datePublished "2025" ;
+  schema:publisher "University of Chicago Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85028479> .

@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/S6I4M4G6>
   a schema:ScholarlyArticle ;
-  schema:name "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>" ;
+  schema:name "African Gods and Catholic Saints in New World Negro Belief" ;
   schema:url <https://medjat.irokosociety.org/library/?item=S6I4M4G6> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:S6I4M4G6" ;

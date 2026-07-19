@@ -1,0 +1,153 @@
+{
+  "key": "QCABFT5W",
+  "uri": "https://medjat.irokosociety.org/id/library/QCABFT5W",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QCABFT5W",
+  "zotero": {
+    "group": "6479329",
+    "key": "QCABFT5W",
+    "version": 5371,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QCABFT5W",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Slavery and Freedom in Black Thought in the Early Spanish Atlantic",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ireton, Chloe L."
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Cambridge University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Examines how enslaved Africans and their descendants engaged early-modern legal and theological discourse to reimagine slavery and freedom in the Spanish Atlantic.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "colonial-law"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Black thought",
+      "Slavery & Abolition Studies",
+      "Spanish Atlantic",
+      "intellectual history"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ireton, Chloe L."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slavery and Freedom in Black Thought in the Early Spanish Atlantic"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black thought"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "intellectual history"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Archival Studies",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Law",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/QC/QCABFT5W.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Archival Studies",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+      },
+      {
+        "label": "Colonial Law",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

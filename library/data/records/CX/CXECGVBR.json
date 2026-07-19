@@ -1,0 +1,141 @@
+{
+  "key": "CXECGVBR",
+  "uri": "https://medjat.irokosociety.org/id/library/CXECGVBR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CXECGVBR",
+  "zotero": {
+    "group": "6479329",
+    "key": "CXECGVBR",
+    "version": 5431,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CXECGVBR",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Unforgettable Sacrifice: How Black Communities Remembered the Civil War",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Green, Hilary"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Fordham University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Untold stories of African American remembrance and resistance around the memory of the Civil War.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "post-abolition"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "African American history",
+      "Afro-Atlantic",
+      "Civil War memory",
+      "Slavery & Abolition Studies",
+      "United States"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Green, Hilary"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Unforgettable Sacrifice: How Black Communities Remembered the Civil War"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Fordham University Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "African American history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Civil War memory"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Post Abolition",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85106480"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/CX/CXECGVBR.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Post Abolition",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85106480"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

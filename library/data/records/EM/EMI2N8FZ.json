@@ -1,0 +1,165 @@
+{
+  "key": "EMI2N8FZ",
+  "uri": "https://medjat.irokosociety.org/id/library/EMI2N8FZ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=EMI2N8FZ",
+  "zotero": {
+    "group": "6479329",
+    "key": "EMI2N8FZ",
+    "version": 5401,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EMI2N8FZ",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Transatlantic Bondage: Slavery and Freedom in Spain, Santo Domingo, and Puerto Rico",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "editor",
+        "name": "Acosta Corniel, Lissette"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "State University of New York Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Edited volume of original archival research correcting the neglect of Spanish Santo Domingo and Puerto Rico in African diaspora studies.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Anthology",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "archival-studies"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Puerto Rico",
+      "Santo Domingo",
+      "Slavery & Abolition Studies",
+      "Spain",
+      "Spanish Caribbean",
+      "archival research"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Acosta Corniel, Lissette"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Transatlantic Bondage: Slavery and Freedom in Spain, Santo Domingo, and Puerto Rico"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "State University of New York Press, 2024."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Puerto Rico"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santo Domingo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spain"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Caribbean"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "archival research"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Caribbean",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Archival Studies",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Anthology"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/EM/EMI2N8FZ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Caribbean",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+      },
+      {
+        "label": "Archival Studies",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

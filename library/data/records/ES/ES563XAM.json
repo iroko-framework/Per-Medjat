@@ -1,0 +1,141 @@
+{
+  "key": "ES563XAM",
+  "uri": "https://medjat.irokosociety.org/id/library/ES563XAM",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=ES563XAM",
+  "zotero": {
+    "group": "6479329",
+    "key": "ES563XAM",
+    "version": 5410,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ES563XAM",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "A Plausible Man: The True Story of the Escaped Slave Who Inspired Uncle Tom's Cabin",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Ashton, Susanna"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "The New Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Historical account of the escaped enslaved man believed to have inspired Uncle Tom's Cabin.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "resistance"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Slavery & Abolition Studies",
+      "United States",
+      "biography",
+      "fugitive slave narrative"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Ashton, Susanna"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Plausible Man: The True Story of the Escaped Slave Who Inspired Uncle Tom's Cabin"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "The New Press, 2024."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "biography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "fugitive slave narrative"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Resistance",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/ES/ES563XAM.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Resistance",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/F73LE2MG>
+  a schema:Book ;
+  schema:name "The Bonds of Kinship in Dahomey: Portraits of West African Girlhood 1720-1940" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F73LE2MG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F73LE2MG" ;
+  schema:description "History of child dependency and girlhood in the coastal West African kingdom of Dahomey, 1720-1940." ;
+  schema:author "Reuther, Jessica" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Indiana University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001546> .

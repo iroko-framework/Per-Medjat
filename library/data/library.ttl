@@ -73,6 +73,18 @@
   dcterms:identifier "doi:10.18034/apjee.v1i1.483" ;
   dcterms:subject "Geochemistry and Geologic Mapping" .
 
+<https://medjat.irokosociety.org/id/library/EMI2N8FZ>
+  a schema:Book ;
+  schema:name "Transatlantic Bondage: Slavery and Freedom in Spain, Santo Domingo, and Puerto Rico" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EMI2N8FZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EMI2N8FZ" ;
+  schema:description "Edited volume of original archival research correcting the neglect of Spanish Santo Domingo and Puerto Rico in African diaspora studies." ;
+  schema:creator "Acosta Corniel, Lissette" ;
+  schema:datePublished "2024" ;
+  schema:publisher "State University of New York Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635>, <http://id.loc.gov/authorities/subjects/sh85006514> .
+
 <https://medjat.irokosociety.org/id/library/IC9HGKEJ>
   a schema:ScholarlyArticle ;
   schema:name "Influence Of Culture on Women and Leadership Position Among the Yoruba" ;
@@ -604,6 +616,18 @@
   dcterms:identifier "doi:10.31390/gradschool_dissertations.2071" ;
   dcterms:subject "Ecocriticism and Environmental Literature", "Gothic Literature and Media Analysis", "Religious Studies and Spiritual Practices" .
 
+<https://medjat.irokosociety.org/id/library/U7AHQGET>
+  a schema:Book ;
+  schema:name "Humans in Shackles: An Atlantic History of Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=U7AHQGET> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:U7AHQGET" ;
+  schema:description "Sweeping synthesis history of the Atlantic slave trade, described by Kirkus Reviews as \"essential.\"" ;
+  schema:author "Araujo, Ana Lucia" ;
+  schema:datePublished "2024" ;
+  schema:publisher "University of Chicago Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> .
+
 <https://medjat.irokosociety.org/id/library/979Y7KPQ>
   a schema:Chapter ;
   schema:name "Humans in shackles: an Atlantic history of slavery" ;
@@ -616,6 +640,30 @@
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:978-0-226-77158-8" ;
   dcterms:subject "Slavery -- Atlantic Ocean Region -- History" .
+
+<https://medjat.irokosociety.org/id/library/DWJNNJ42>
+  a schema:Book ;
+  schema:name "The Gift: How Objects of Prestige Shaped the Atlantic Slave Trade and Colonialism" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DWJNNJ42> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DWJNNJ42" ;
+  schema:description "Counternarrative of commodification in West and West Central Africa told through the history of prestige objects." ;
+  schema:author "Araujo, Ana Lucia" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85082059>, <http://id.loc.gov/authorities/subjects/sh85123323> .
+
+<https://medjat.irokosociety.org/id/library/ES563XAM>
+  a schema:Book ;
+  schema:name "A Plausible Man: The True Story of the Escaped Slave Who Inspired Uncle Tom's Cabin" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=ES563XAM> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:ES563XAM" ;
+  schema:description "Historical account of the escaped enslaved man believed to have inspired Uncle Tom's Cabin." ;
+  schema:author "Ashton, Susanna" ;
+  schema:datePublished "2024" ;
+  schema:publisher "The New Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85113647> .
 
 <https://medjat.irokosociety.org/id/library/INDXBY33>
   a schema:ScholarlyArticle ;
@@ -668,6 +716,18 @@
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .
+
+<https://medjat.irokosociety.org/id/library/DPLU4S3V>
+  a schema:Book ;
+  schema:name "Pirate Imperialism: Trade, Abolition, and Global Suppression of Maritime Raiding, 1825-1870" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DPLU4S3V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DPLU4S3V" ;
+  schema:description "How the concept of \"pirate\" served imperial purposes in the global suppression of maritime raiding, 1825-1870." ;
+  schema:author "Barcia, Manuel" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Yale University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85000512>, <http://id.loc.gov/authorities/subjects/sh85099004> .
 
 <https://medjat.irokosociety.org/id/library/M4R7JBGT>
   a schema:Book ;
@@ -759,6 +819,18 @@
   schema:publisher "University of North Texas Digital Library (University of North Texas)" ;
   dcterms:subject "Irish and British Studies" .
 
+<https://medjat.irokosociety.org/id/library/3FA78D8V>
+  a schema:Book ;
+  schema:name "Without Fear: Black Women and the Making of Human Rights" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3FA78D8V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3FA78D8V" ;
+  schema:description "On Black women's roles in shaping the modern human rights tradition." ;
+  schema:author "Blain, Keisha" ;
+  schema:datePublished "2025" ;
+  schema:publisher "W.W. Norton" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85113647> .
+
 <https://medjat.irokosociety.org/id/library/M6WXYVC6>
   a schema:ScholarlyArticle ;
   schema:name "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba" ;
@@ -806,7 +878,9 @@
   schema:creator "borges, dain", "isaia, artur cesar" ;
   schema:datePublished "1998" ;
   dcterms:language "Portuguese" ;
-  schema:inLanguage "pt" .
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/7GJ66V9P>
   a schema:Book ;
@@ -969,6 +1043,18 @@
   schema:inLanguage "en" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
   dcterms:subject "african influences", "african influences -- brazil", "brazil", "folk religion", "folk religion -- brazil", "politics and government", "religious life and customs", "Central African traditions" .
+
+<https://medjat.irokosociety.org/id/library/QSVT2YHA>
+  a schema:Book ;
+  schema:name "The Driver's Story: Labor and Power in the World of Atlantic Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QSVT2YHA> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QSVT2YHA" ;
+  schema:description "On enslaved plantation drivers and the nexus of race, power, and capitalism in the Atlantic world." ;
+  schema:author "Browne, Randy" ;
+  schema:datePublished "2024" ;
+  schema:publisher "University of Pennsylvania Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657> .
 
 <https://medjat.irokosociety.org/id/library/5A2KTKDF>
   a schema:ScholarlyArticle ;
@@ -1310,6 +1396,18 @@
   schema:datePublished "2016" ;
   schema:publisher "Deep Blue (University of Michigan)" ;
   dcterms:subject "American History and Culture", "Canadian Identity and History", "Race, History, and American Society" .
+
+<https://medjat.irokosociety.org/id/library/Q8XPZWQY>
+  a schema:Book ;
+  schema:name "The Radical Spanish Empire: How Paperwork Politics Remade the New World" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Q8XPZWQY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Q8XPZWQY" ;
+  schema:description "Reinterprets the Spanish imperial state as a territorially vast experiment in representation and governance through paperwork politics." ;
+  schema:author "Cañizares-Esguerra, Jorge", "Masters, Adrian" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85028485>, <http://id.loc.gov/authorities/subjects/sh85028479> .
 
 <https://medjat.irokosociety.org/id/library/MJDSQJEH>
   a schema:ScholarlyArticle ;
@@ -1689,6 +1787,19 @@
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
   dcterms:subject "brazil", "history", "religious life and customs", "spirit possession", "umbanda -- brazil", "Central African traditions" .
 
+<https://medjat.irokosociety.org/id/library/WVQE85MY>
+  a schema:Book ;
+  schema:name "...And the Dogs Were Silent = ...Et Les Chiens Se Taisaient" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WVQE85MY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WVQE85MY" ;
+  schema:description "Bilingual critical edition, translated by Alex Gil, of Césaire's dramatic poem, with new biographical material." ;
+  schema:author "Césaire, Aimé" ;
+  schema:creator "Gil, Alex" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Duke University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635> .
+
 <https://medjat.irokosociety.org/id/library/ESMN4JYZ>
   a schema:ScholarlyArticle ;
   schema:name "Potentialities of the Egúngún festival as a tool for tourism development in Ogbomoso, Nigeria" ;
@@ -1739,6 +1850,18 @@
   schema:sameAs <https://doi.org/10.22215/etd/2015-11142> ;
   dcterms:identifier "doi:10.22215/etd/2015-11142" ;
   dcterms:subject "Caribbean history, culture, and politics", "Music History and Culture" .
+
+<https://medjat.irokosociety.org/id/library/C4C3CCP5>
+  a schema:Book ;
+  schema:name "The First and the Last King of Haiti: The Rise and Fall of Henry Christophe" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C4C3CCP5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C4C3CCP5" ;
+  schema:description "Biography of Henry Christophe, the only king of Haiti." ;
+  schema:author "Daut, Marlene L." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Penguin/Knopf" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635>, <http://id.loc.gov/authorities/subjects/sh85113647> .
 
 <https://medjat.irokosociety.org/id/library/2UT3R76C>
   a schema:Chapter ;
@@ -1897,7 +2020,8 @@
   schema:publisher "American Ethnologist" ;
   schema:sameAs <https://doi.org/10.1525/ae.1987.14.1.02a00050> ;
   dcterms:identifier "doi:10.1525/ae.1987.14.1.02a00050" ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/BEZLB3TV>
   a schema:Book ;
@@ -1909,7 +2033,8 @@
   schema:author "Diana Brown" ;
   schema:datePublished "1986" ;
   schema:publisher "Columbia University Press eBooks" ;
-  dcterms:subject "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Religion and Society in Latin America", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/KRWX9CCH>
   a schema:Thesis ;
@@ -1969,6 +2094,18 @@
   schema:publisher "Universidad Veracruzana" ;
   dcterms:identifier "isbn:978-607-8923-53-3" ;
   dcterms:subject "Bourbon reforms", "New Spain", "Veracruz", "colonial history" .
+
+<https://medjat.irokosociety.org/id/library/KRVRW5A8>
+  a schema:Book ;
+  schema:name "An Efficient Womanhood: Women and the Making of the Universal Negro Improvement Association" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KRVRW5A8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KRVRW5A8" ;
+  schema:description "On how UNIA women organized and activated the association from the bottom up." ;
+  schema:author "Duncan, Natanya" ;
+  schema:datePublished "2025" ;
+  schema:publisher "University of North Carolina Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480>, <http://id.loc.gov/authorities/subjects/sh85113647> .
 
 <https://medjat.irokosociety.org/id/library/3A5VN2IK>
   a schema:Thesis ;
@@ -2322,6 +2459,18 @@
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
   dcterms:subject "Afro-Cuban religion", "Cuba", "archival-latency-paper", "colonial ethnography", "West African traditions", "Central African traditions" .
 
+<https://medjat.irokosociety.org/id/library/DN5JJZPS>
+  a schema:Book ;
+  schema:name "Worlds of Unfreedom: West Central Africa in the Era of Global Abolition" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DN5JJZPS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DN5JJZPS" ;
+  schema:description "Africa-centered history of anti-slave-trade politics in West Central Africa during the global abolition era, built from archives in multiple countries." ;
+  schema:author "Ferreira, Roquinaldo" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Princeton University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85000512>, <http://id.loc.gov/authorities/subjects/sh85001657> .
+
 <https://medjat.irokosociety.org/id/library/R3494E7G>
   a schema:Book ;
   schema:name "Freedom's mirror: Cuba and Haiti in the age of revolution" ;
@@ -2471,6 +2620,18 @@
   schema:inLanguage "pt" ;
   dcterms:subject "Development, Ethics, and Society", "Literature, Culture, and Criticism", "Race, Identity, and Education in Brazil" .
 
+<https://medjat.irokosociety.org/id/library/F5G3I9U5>
+  a schema:Book ;
+  schema:name "Teresa Benguela and Felipa Crioula Were Pregnant: Motherhood and Slavery in Nineteenth-Century Rio de Janeiro" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F5G3I9U5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F5G3I9U5" ;
+  schema:description "On sexual autonomy, sexual violence, pregnancy, and the care of enslaved and freed babies in 19th-century Rio de Janeiro." ;
+  schema:author "Féres da Silva Telles, Lorena" ;
+  schema:datePublished "2026" ;
+  schema:publisher "University of Georgia Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001659> .
+
 <https://medjat.irokosociety.org/id/library/RAFXN7LZ>
   a schema:ScholarlyArticle ;
   schema:name "O bruxo contra o comunista ou: o incômodo ceticismo de Machado de Assis" ;
@@ -2525,6 +2686,18 @@
   dcterms:identifier "doi:10.22501/rc.3507774" ;
   dcterms:subject "Asian American and Pacific Histories", "Colonial History and Postcolonial Studies", "Diaspora, migration, transnational identity" .
 
+<https://medjat.irokosociety.org/id/library/4Z3W5PNT>
+  a schema:Book ;
+  schema:name "I Have Avenged America: Jean-Jacques Dessalines and Haiti's Fight for Freedom" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=4Z3W5PNT> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:4Z3W5PNT" ;
+  schema:description "Portrait of Jean-Jacques Dessalines and his leadership of Haiti's fight for independence." ;
+  schema:author "Gaffield, Julia" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Yale University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635>, <http://id.loc.gov/authorities/subjects/sh85113647> .
+
 <https://medjat.irokosociety.org/id/library/VIRZ9TZX>
   a schema:ScholarlyArticle ;
   schema:name "Sacred Forests : Indigenous Knowledge and Cultural Beliefs for Conservation of Forests in Ifo Local Government Area of Ogun State, Nigeria" ;
@@ -2563,6 +2736,32 @@
   schema:datePublished "1982" ;
   schema:publisher "Rice Digital Scholarship Archive (Rice University)" ;
   dcterms:subject "Biblical Studies and Interpretation" .
+
+<https://medjat.irokosociety.org/id/library/Q9A6BPK4>
+  a schema:Book ;
+  schema:name "The Yoruba Are on a Rock: Recaptured Africans and the Orisas of Grenada" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Q9A6BPK4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Q9A6BPK4" ;
+  schema:description "Study of recaptured Africans and Orisa traditions in Grenada; described as an important \"infra-Atlantic\" case study of the wider Black Atlantic." ;
+  schema:author "George, Shantel A." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .
+
+<https://medjat.irokosociety.org/id/library/IVJFW4B7>
+  a schema:Book ;
+  schema:name "Archival Irruptions: Constructing Religion and Criminalizing Obeah in Eighteenth-Century Jamaica" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IVJFW4B7> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IVJFW4B7" ;
+  schema:description "Model for reading colonial archives to update and complicate historical narratives around religion and the criminalization of Obeah in 18th-century Jamaica." ;
+  schema:author "Gerbner, Katharine" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Duke University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85006514>, <http://id.loc.gov/authorities/subjects/sh85028479> ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous> .
 
 <https://medjat.irokosociety.org/id/library/RPRDVHI5>
   a schema:Thesis ;
@@ -2644,6 +2843,30 @@
   schema:sameAs <https://doi.org/10.25501/soas.00032302> ;
   dcterms:identifier "doi:10.25501/soas.00032302" ;
   dcterms:subject "Linguistic Variation and Morphology", "Multilingual Education and Policy" .
+
+<https://medjat.irokosociety.org/id/library/CXECGVBR>
+  a schema:Book ;
+  schema:name "Unforgettable Sacrifice: How Black Communities Remembered the Civil War" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CXECGVBR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CXECGVBR" ;
+  schema:description "Untold stories of African American remembrance and resistance around the memory of the Civil War." ;
+  schema:author "Green, Hilary" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Fordham University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480> .
+
+<https://medjat.irokosociety.org/id/library/IZPCNY48>
+  a schema:Book ;
+  schema:name "The Heretic of Cacheu: Crispina Peres and the Struggle over Life in Seventeenth-Century West Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=IZPCNY48> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:IZPCNY48" ;
+  schema:description "Global history of West Africa centered on Crispina Peres, a 17th-century woman in the Guinea-Bissau port of Cacheu." ;
+  schema:author "Green, Toby" ;
+  schema:datePublished "2025" ;
+  schema:publisher "University of Chicago Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85028479> .
 
 <https://medjat.irokosociety.org/id/library/VMUVHS3I>
   a schema:ScholarlyArticle ;
@@ -2733,6 +2956,18 @@
   schema:sameAs <https://doi.org/10.4000/echogeo.11706> ;
   dcterms:identifier "doi:10.4000/echogeo.11706" ;
   dcterms:subject "Cuban History and Society" .
+
+<https://medjat.irokosociety.org/id/library/G9ZMUGA5>
+  a schema:Book ;
+  schema:name "Bloody Numbers: The Early Atlantic Slave Trade and the Invention of Modern Corporeality" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G9ZMUGA5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G9ZMUGA5" ;
+  schema:description "On the historical practices that rendered enslaved populations quantifiable, and the roots of ascribing numbers to bodies." ;
+  schema:author "Gómez, Pablo F." ;
+  schema:datePublished "2026" ;
+  schema:publisher "University of Chicago Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85006514>, <http://id.loc.gov/authorities/subjects/sh85123323> .
 
 <https://medjat.irokosociety.org/id/library/2UNNWD7V>
   a schema:ScholarlyArticle ;
@@ -2943,7 +3178,7 @@
 
 <https://medjat.irokosociety.org/id/library/S6I4M4G6>
   a schema:ScholarlyArticle ;
-  schema:name "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>" ;
+  schema:name "African Gods and Catholic Saints in New World Negro Belief" ;
   schema:url <https://medjat.irokosociety.org/library/?item=S6I4M4G6> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:S6I4M4G6" ;
@@ -3140,6 +3375,18 @@
   schema:sameAs <https://doi.org/10.3366/cor.2018.0135> ;
   dcterms:identifier "doi:10.3366/cor.2018.0135" ;
   dcterms:subject "Natural Language Processing Techniques", "Swearing, Euphemism, Multilingualism" .
+
+<https://medjat.irokosociety.org/id/library/QCABFT5W>
+  a schema:Book ;
+  schema:name "Slavery and Freedom in Black Thought in the Early Spanish Atlantic" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QCABFT5W> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QCABFT5W" ;
+  schema:description "Examines how enslaved Africans and their descendants engaged early-modern legal and theological discourse to reimagine slavery and freedom in the Spanish Atlantic." ;
+  schema:author "Ireton, Chloe L." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85006514>, <http://id.loc.gov/authorities/subjects/sh85028479> .
 
 <https://medjat.irokosociety.org/id/library/HA8567HS>
   a schema:Thesis ;
@@ -4102,6 +4349,18 @@
   dcterms:identifier "isbn:978-0-8122-9724-9" ;
   dcterms:subject "African American women -- Louisiana -- New Orleans", "African Americans -- Kinship -- History -- 18th ce", "African diaspora -- History -- 18th century", "Atlantic Ocean Region -- Race relations -- History", "Black -- Atlantic Ocean Region -- History -", "Black -- Atlantic Ocean Region -- Social co", "Slave trade -- Social aspects -- Atlantic Ocean Re", "Women" .
 
+<https://medjat.irokosociety.org/id/library/QGY444ZQ>
+  a schema:Book ;
+  schema:name "Sweet Home Feliciana: Family, Slavery, and the Hauntings of History" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=QGY444ZQ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:QGY444ZQ" ;
+  schema:description "Traces Indigenous people, enslaved Black people, and their descendants across the Louisiana lands of Feliciana." ;
+  schema:author "Johnson, Rashauna" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657> .
+
 <https://medjat.irokosociety.org/id/library/XH6ASVV4>
   a schema:Thesis ;
   schema:name "The Development of Radio Broadcasting in Nigeria, West Africa" ;
@@ -4113,6 +4372,18 @@
   schema:datePublished "1974" ;
   schema:publisher "University of North Texas Digital Library (University of North Texas)" ;
   dcterms:subject "Radio, Podcasts, and Digital Media" .
+
+<https://medjat.irokosociety.org/id/library/KHNC58LP>
+  a schema:Book ;
+  schema:name "The Trouble of Color: An American Family Memoir" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KHNC58LP> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KHNC58LP" ;
+  schema:description "Historian's family memoir tracing race, belonging, and identity across generations in the United States." ;
+  schema:author "Jones, Martha S." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Basic Books" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657> .
 
 <https://medjat.irokosociety.org/id/library/6AUVH3WM>
   a schema:Thesis ;
@@ -4230,7 +4501,8 @@
   schema:publisher "Revista de Antropologia" ;
   schema:sameAs <https://doi.org/10.11606/2179-0892.ra.1964.110743> ;
   dcterms:identifier "doi:10.11606/2179-0892.ra.1964.110743" ;
-  dcterms:subject "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic>, <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Religion and Society in Latin America", "Syncretic/Creole", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/PYMPGDSP>
   a schema:Thesis ;
@@ -4693,6 +4965,18 @@
   dcterms:identifier "doi:10.24377/ljmu.t.00005039" ;
   dcterms:subject "Control and Stability of Dynamical Systems", "Modeling and Simulation Systems", "Robotic Mechanisms and Dynamics" .
 
+<https://medjat.irokosociety.org/id/library/HQHXF794>
+  a schema:Book ;
+  schema:name "By Flesh and Toil: How Sex, Race, and Labor Shaped the Early French Empire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HQHXF794> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HQHXF794" ;
+  schema:description "On the connections between sex and race in the lives of those governed by the legal regimes of the French empire." ;
+  schema:author "Lamotte, Mélanie" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85028485> .
+
 <https://medjat.irokosociety.org/id/library/GLPP9GMD>
   a schema:Book ;
   schema:name "Atlantic Creoles in the age of revolutions" ;
@@ -4909,6 +5193,18 @@
   dcterms:identifier "doi:10.1353/cub.2018.0010" ;
   dcterms:subject "Cuban History and Society", "Spanish Literature and Culture Studies", "Theater, Performance, and Music History" .
 
+<https://medjat.irokosociety.org/id/library/MDGD7MUR>
+  a schema:Book ;
+  schema:name "Revolution by Fire: New York's Afro-Irish Uprising of 1741: A Graphic Novel" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=MDGD7MUR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:MDGD7MUR" ;
+  schema:description "Graphic-novel history of the 1741 New York uprising and its enslaved and Afro-Irish participants." ;
+  schema:author "Lester, David", "Rediker, Marcus" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Beacon Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85113647> .
+
 <https://medjat.irokosociety.org/id/library/I7QCZTXJ>
   a schema:ScholarlyArticle ;
   schema:name "Umbanda en Venezuela" ;
@@ -4921,6 +5217,18 @@
   schema:inLanguage "es" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
   dcterms:subject "african influences", "african influences -- venezuela", "folk religion", "folk religion -- venezuela", "umbanda -- venezuela", "venezuela", "Central African traditions" .
+
+<https://medjat.irokosociety.org/id/library/CZRCDYF9>
+  a schema:Book ;
+  schema:name "The Unseen Truth: When Race Changed Sight in America" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CZRCDYF9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CZRCDYF9" ;
+  schema:description "On the \"racial detailing\" that constructed a repressive racial regime in American visual culture." ;
+  schema:author "Lewis, Sarah Elizabeth" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657> .
 
 <https://medjat.irokosociety.org/id/library/B3MFQB6K>
   a schema:Thesis ;
@@ -4946,7 +5254,8 @@
   schema:publisher "Choice Reviews Online" ;
   schema:sameAs <https://doi.org/10.5860/choice.47-6328> ;
   dcterms:identifier "doi:10.5860/choice.47-6328" ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society in Latin America", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/LK9EP643>
   a schema:Book ;
@@ -5220,7 +5529,8 @@
   schema:publisher "Tempo Social" ;
   schema:sameAs <https://doi.org/10.1590/ts.v5i1/2.84951> ;
   dcterms:identifier "doi:10.1590/ts.v5i1/2.84951" ;
-  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/ZN24MJKN>
   a schema:Thesis ;
@@ -6168,6 +6478,18 @@
   schema:publisher "Texas ScholarWorks (Texas Digital Library)" ;
   dcterms:subject "American Environmental and Regional History", "Colonialism, slavery, and trade", "Historical and Cultural Archaeology Studies" .
 
+<https://medjat.irokosociety.org/id/library/26BCYK39>
+  a schema:Book ;
+  schema:name "The Crown's Silence: The Hidden History of the British Monarchy and Slavery in the Americas" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=26BCYK39> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:26BCYK39" ;
+  schema:description "On the British monarchy's hidden history of involvement in and silence around slavery in the Americas." ;
+  schema:author "Newman, Brooke" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Mariner" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85028485>, <http://id.loc.gov/authorities/subjects/sh85028521> .
+
 <https://medjat.irokosociety.org/id/library/BKIHTDYL>
   a schema:Thesis ;
   schema:name "Calamity’s Empire: Slavery, Scarcity, and the Political Economy of Provisioning in the British Caribbean, C. 1775-1834" ;
@@ -6268,6 +6590,30 @@
   dcterms:identifier "isbn:978-0-7006-1303-8" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> ;
   dcterms:subject "West African traditions" .
+
+<https://medjat.irokosociety.org/id/library/2LGEHSXE>
+  a schema:Book ;
+  schema:name "Moving Toward Freedom: The Political Education of Enslaved Americans" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2LGEHSXE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2LGEHSXE" ;
+  schema:description "On the political education enslaved Americans gained through local, national, and international travel under slavery." ;
+  schema:author "O'Donovan, Susan Eva" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Penguin Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85113647> .
+
+<https://medjat.irokosociety.org/id/library/D9CCGKQX>
+  a schema:Book ;
+  schema:name "The Escapes of David George: An Odyssey of Slavery, Freedom, and the American Revolution" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=D9CCGKQX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:D9CCGKQX" ;
+  schema:description "Follows David George's search for freedom across the Atlantic world of the American Revolution." ;
+  schema:author "O'Malley, Gregory E." ;
+  schema:datePublished "2026" ;
+  schema:publisher "St. Martin's Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85113647> .
 
 <https://medjat.irokosociety.org/id/library/VWN5D3DM>
   a schema:ScholarlyArticle ;
@@ -7075,6 +7421,18 @@
   schema:publisher "Warwick Research Archive Portal (University of Warwick)" ;
   dcterms:subject "Caribbean history, culture, and politics" .
 
+<https://medjat.irokosociety.org/id/library/R92TTSPR>
+  a schema:Book ;
+  schema:name "Freedom Ship: The Uncharted History of Escaping Slavery by Sea" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=R92TTSPR> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:R92TTSPR" ;
+  schema:description "History of the long-overlooked maritime origins of the Underground Railroad and self-emancipation by sea." ;
+  schema:author "Rediker, Marcus" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Viking" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85113647> .
+
 <https://medjat.irokosociety.org/id/library/EZ5XWX9A>
   a schema:ScholarlyArticle ;
   schema:name "O Brasil com axé: candomblé e umbanda no mercado religioso" ;
@@ -7087,7 +7445,8 @@
   schema:publisher "Estudos Avançados" ;
   schema:sameAs <https://doi.org/10.1590/s0103-40142004000300015> ;
   dcterms:identifier "doi:10.1590/s0103-40142004000300015" ;
-  dcterms:subject "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Religion and Society in Latin America", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/GQ8X5Z6A>
   a schema:Book ;
@@ -7098,7 +7457,20 @@
   schema:author "Renato Ortiz" ;
   schema:datePublished "1991" ;
   schema:publisher "Editora Brasiliense eBooks" ;
-  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics", "Central African traditions" .
+
+<https://medjat.irokosociety.org/id/library/F73LE2MG>
+  a schema:Book ;
+  schema:name "The Bonds of Kinship in Dahomey: Portraits of West African Girlhood 1720-1940" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=F73LE2MG> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:F73LE2MG" ;
+  schema:description "History of child dependency and girlhood in the coastal West African kingdom of Dahomey, 1720-1940." ;
+  schema:author "Reuther, Jessica" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Indiana University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001546> .
 
 <https://medjat.irokosociety.org/id/library/IGQK26FU>
   a schema:Thesis ;
@@ -7205,6 +7577,18 @@
   schema:sameAs <https://doi.org/10.1353/hia.2005.0014> ;
   dcterms:identifier "doi:10.1353/hia.2005.0014" ;
   dcterms:subject "African history and culture studies", "Colonialism, slavery, and trade", "Global Maritime and Colonial Histories" .
+
+<https://medjat.irokosociety.org/id/library/W4E24NP8>
+  a schema:Book ;
+  schema:name "Plantation Goods: A Material History of American Slavery" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=W4E24NP8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:W4E24NP8" ;
+  schema:description "On how slavery permeated the American material and commercial landscape." ;
+  schema:author "Rockman, Seth" ;
+  schema:datePublished "2024" ;
+  schema:publisher "University of Chicago Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85082059> .
 
 <https://medjat.irokosociety.org/id/library/383WQLY2>
   a schema:ScholarlyArticle ;
@@ -7372,6 +7756,18 @@
   schema:publisher "Duo Research Archive (University of Oslo)" ;
   dcterms:subject "Historical and Archaeological Studies" .
 
+<https://medjat.irokosociety.org/id/library/9NKJCALV>
+  a schema:Book ;
+  schema:name "The Plunder of Black America: How the Racial Wealth Gap Was Made" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9NKJCALV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9NKJCALV" ;
+  schema:description "Four hundred years of Black dispossession and decapitalization traced through family histories." ;
+  schema:author "Schermerhorn, Calvin" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Yale University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480> .
+
 <https://medjat.irokosociety.org/id/library/9WJ72KMT>
   a schema:ScholarlyArticle ;
   schema:name "Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale" ;
@@ -7502,6 +7898,18 @@
   dcterms:language "English" ;
   schema:inLanguage "en" .
 
+<https://medjat.irokosociety.org/id/library/595EFEN9>
+  a schema:Book ;
+  schema:name "The Rise and Fall of the Second American Republic: Reconstruction, 1860-1920" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=595EFEN9> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:595EFEN9" ;
+  schema:description "Expansive history of Reconstruction, extended through 1920." ;
+  schema:author "Sinha, Manisha" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Liveright" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480> .
+
 <https://medjat.irokosociety.org/id/library/86VK4JC3>
   a schema:Book ;
   schema:name "Saltwater slavery: a middle passage from africa to american diaspora" ;
@@ -7541,6 +7949,18 @@
   schema:datePublished "2016" ;
   schema:publisher "DukeSpace (Duke University)" ;
   dcterms:subject "Religion, Society, and Development", "Religion, Spirituality, and Psychology", "Theological Perspectives and Practices" .
+
+<https://medjat.irokosociety.org/id/library/G37TPP8L>
+  a schema:Book ;
+  schema:name "Slaves in Paris: Hidden Lives and Fugitive Histories" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G37TPP8L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G37TPP8L" ;
+  schema:description "On enslaved people's hidden lives in Paris and the legal threshold between slavery and freedom in French history." ;
+  schema:author "Spieler, Miranda" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85006514>, <http://id.loc.gov/authorities/subjects/sh85028479> .
 
 <https://medjat.irokosociety.org/id/library/URNK85UG>
   a schema:Thesis ;
@@ -7651,7 +8071,8 @@
   schema:publisher "Nova Religio The Journal of Alternative and Emergent Religions" ;
   schema:sameAs <https://doi.org/10.1525/nr.2012.15.4.13> ;
   dcterms:identifier "doi:10.1525/nr.2012.15.4.13" ;
-  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "African cultural and philosophical studies", "Anthropological Studies and Insights", "Religion and Society Interactions", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/34X7X6P3>
   a schema:ScholarlyArticle ;
@@ -7665,7 +8086,8 @@
   schema:publisher "Numen" ;
   schema:sameAs <https://doi.org/10.1163/002959709x12469430260084> ;
   dcterms:identifier "doi:10.1163/002959709x12469430260084" ;
-  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Anthropological Studies and Insights", "Religion and Society Interactions", "Religion and Society in Latin America", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/8YXA2KST>
   a schema:Thesis ;
@@ -7723,6 +8145,18 @@
   schema:sameAs <https://doi.org/10.1163/22134360-09603032> ;
   dcterms:identifier "doi:10.1163/22134360-09603032" ;
   dcterms:subject "Cuban History and Society" .
+
+<https://medjat.irokosociety.org/id/library/7FU4VJRL>
+  a schema:Book ;
+  schema:name "Mutiny on the Black Prince: Slavery, Piracy, and the Limits of Liberty in the Revolutionary Atlantic World" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=7FU4VJRL> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:7FU4VJRL" ;
+  schema:description "Story of a mutiny aboard an 18th-century British ship and its owners' use of Crown power to protect their investment." ;
+  schema:author "Sweet, James H." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Oxford University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85099004>, <http://id.loc.gov/authorities/subjects/sh85113647> .
 
 <https://medjat.irokosociety.org/id/library/4ZI3JWCN>
   a schema:ScholarlyArticle ;
@@ -7952,6 +8386,18 @@
   dcterms:identifier "isbn:978-0-8070-4310-3" ;
   dcterms:subject "Historicism", "Historiography", "Power (Social sciences)" .
 
+<https://medjat.irokosociety.org/id/library/PN5JWGUH>
+  a schema:Book ;
+  schema:name "Enslaved New World: Slavery, Freedom, and the Making of Race in Santo Domingo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=PN5JWGUH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:PN5JWGUH" ;
+  schema:description "On 16th-century Santo Domingo as the site of the Americas' earliest plantation slave society and its self-emancipated Black majority population." ;
+  schema:author "Turits, Richard Lee" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635>, <http://id.loc.gov/authorities/subjects/sh85028479> .
+
 <https://medjat.irokosociety.org/id/library/C2YCEA2N>
   a schema:Thesis ;
   schema:name "The Use of Slaves in Early Christianity: Slaves as Subjects of Life and Thought" ;
@@ -8002,7 +8448,8 @@
   schema:publisher "Editora Atica eBooks" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics", "Central African traditions" .
 
 <https://medjat.irokosociety.org/id/library/VXMWIAVV>
   a schema:Thesis ;

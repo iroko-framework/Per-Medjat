@@ -1,0 +1,168 @@
+{
+  "key": "Q8XPZWQY",
+  "uri": "https://medjat.irokosociety.org/id/library/Q8XPZWQY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Q8XPZWQY",
+  "zotero": {
+    "group": "6479329",
+    "key": "Q8XPZWQY",
+    "version": 5440,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Q8XPZWQY",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "The Radical Spanish Empire: How Paperwork Politics Remade the New World",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cañizares-Esguerra, Jorge"
+      },
+      {
+        "role": "author",
+        "name": "Masters, Adrian"
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Harvard University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Reinterprets the Spanish imperial state as a territorially vast experiment in representation and governance through paperwork politics.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "colonial-administration",
+      "colonial-law"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Comparative",
+      "Slavery & Abolition Studies",
+      "Spanish Empire",
+      "bureaucracy and paperwork",
+      "colonial governance"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cañizares-Esguerra, Jorge"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Radical Spanish Empire: How Paperwork Politics Remade the New World"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Harvard University Press, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Comparative"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Spanish Empire"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "bureaucracy and paperwork"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "colonial governance"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Administration",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028485"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Law",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+    },
+    {
+      "field": "700",
+      "label": "Added entry",
+      "value": "Masters, Adrian"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/Q8/Q8XPZWQY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Colonial Administration",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028485"
+      },
+      {
+        "label": "Colonial Law",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

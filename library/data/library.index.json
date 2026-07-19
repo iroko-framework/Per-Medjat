@@ -154,6 +154,39 @@
     "volume": "1"
   },
   {
+    "key": "EMI2N8FZ",
+    "title": "Transatlantic Bondage: Slavery and Freedom in Spain, Santo Domingo, and Puerto Rico",
+    "subtitle": "",
+    "creators": [
+      "Acosta Corniel, Lissette"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "State University of New York Press",
+    "publicationLine": "State University of New York Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Anthology",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "archival-studies"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "transatlantic bondage: slavery and freedom in spain, santo domingo, and puerto rico acosta corniel, lissette 2024 state university of new york press book anthology afro-caribbean archival-studies access: public afro-atlantic puerto rico santo domingo slavery & abolition studies spain spanish caribbean archival research access: public afro-atlantic anthology puerto rico santo domingo slavery & abolition studies spain spanish caribbean archival research domain:afro-caribbean domain:archival-studies",
+    "recordPath": "/library/data/records/EM/EMI2N8FZ.json"
+  },
+  {
     "key": "IC9HGKEJ",
     "title": "Influence Of Culture on Women and Leadership Position Among the Yoruba",
     "subtitle": "",
@@ -1408,6 +1441,39 @@
     "recordPath": "/library/data/records/KS/KS7CAVFG.json"
   },
   {
+    "key": "U7AHQGET",
+    "title": "Humans in Shackles: An Atlantic History of Slavery",
+    "subtitle": "",
+    "creators": [
+      "Araujo, Ana Lucia"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "University of Chicago Press",
+    "publicationLine": "University of Chicago Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "slave-trade"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "humans in shackles: an atlantic history of slavery araujo, ana lucia 2024 university of chicago press book monograph afro-atlantic-history slave-trade access: public afro-atlantic atlantic slave trade comparative slavery & abolition studies comparative history access: public afro-atlantic atlantic slave trade comparative monograph slavery & abolition studies comparative history domain:afro-atlantic-history domain:slave-trade",
+    "recordPath": "/library/data/records/U7/U7AHQGET.json"
+  },
+  {
     "key": "979Y7KPQ",
     "title": "Humans in shackles: an Atlantic history of slavery",
     "subtitle": "",
@@ -1436,6 +1502,71 @@
     "url": "",
     "searchText": "humans in shackles: an atlantic history of slavery araujo, ana lucia 2024 university of chicago press booksection book chapter slavery -- atlantic ocean region -- history slavery -- atlantic ocean region -- history",
     "recordPath": "/library/data/records/97/979Y7KPQ.json"
+  },
+  {
+    "key": "DWJNNJ42",
+    "title": "The Gift: How Objects of Prestige Shaped the Atlantic Slave Trade and Colonialism",
+    "subtitle": "",
+    "creators": [
+      "Araujo, Ana Lucia"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Cambridge University Press",
+    "publicationLine": "Cambridge University Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "material-culture",
+      "slave-trade"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "the gift: how objects of prestige shaped the atlantic slave trade and colonialism araujo, ana lucia 2024 cambridge university press book monograph material-culture slave-trade access: public afro-atlantic atlantic slave trade slavery & abolition studies west africa west central africa colonialism material culture access: public afro-atlantic atlantic slave trade monograph slavery & abolition studies west africa west central africa colonialism domain:material-culture domain:slave-trade material culture",
+    "recordPath": "/library/data/records/DW/DWJNNJ42.json"
+  },
+  {
+    "key": "ES563XAM",
+    "title": "A Plausible Man: The True Story of the Escaped Slave Who Inspired Uncle Tom's Cabin",
+    "subtitle": "",
+    "creators": [
+      "Ashton, Susanna"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "The New Press",
+    "publicationLine": "The New Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "a plausible man: the true story of the escaped slave who inspired uncle tom's cabin ashton, susanna 2024 the new press book monograph resistance access: public afro-atlantic slavery & abolition studies united states biography fugitive slave narrative access: public afro-atlantic monograph slavery & abolition studies united states biography domain:resistance fugitive slave narrative",
+    "recordPath": "/library/data/records/ES/ES563XAM.json"
   },
   {
     "key": "INDXBY33",
@@ -1569,6 +1700,39 @@
     "languageCodes": [
       "pt"
     ]
+  },
+  {
+    "key": "DPLU4S3V",
+    "title": "Pirate Imperialism: Trade, Abolition, and Global Suppression of Maritime Raiding, 1825-1870",
+    "subtitle": "",
+    "creators": [
+      "Barcia, Manuel"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Yale University Press",
+    "publicationLine": "Yale University Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "abolitionism",
+      "piracy"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "pirate imperialism: trade, abolition, and global suppression of maritime raiding, 1825-1870 barcia, manuel 2026 yale university press book monograph abolitionism piracy access: public afro-atlantic comparative slavery & abolition studies abolition global history maritime history piracy access: public afro-atlantic comparative monograph slavery & abolition studies abolition domain:abolitionism domain:piracy global history maritime history piracy",
+    "recordPath": "/library/data/records/DP/DPLU4S3V.json"
   },
   {
     "key": "M4R7JBGT",
@@ -1784,6 +1948,39 @@
     "recordPath": "/library/data/records/8C/8CI9ICD7.json"
   },
   {
+    "key": "3FA78D8V",
+    "title": "Without Fear: Black Women and the Making of Human Rights",
+    "subtitle": "",
+    "creators": [
+      "Blain, Keisha"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "W.W. Norton",
+    "publicationLine": "W.W. Norton, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "without fear: black women and the making of human rights blain, keisha 2025 w.w. norton book monograph afro-atlantic-history resistance 20th century united states access: public afro-atlantic black women's history slavery & abolition studies human rights 20th century united states access: public afro-atlantic black women's history monograph slavery & abolition studies domain:afro-atlantic-history domain:resistance human rights",
+    "recordPath": "/library/data/records/3F/3FA78D8V.json"
+  },
+  {
     "key": "M6WXYVC6",
     "title": "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba",
     "subtitle": "",
@@ -1890,8 +2087,12 @@
     "publicationLine": "1998.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -1906,7 +2107,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi98015731/",
-    "searchText": "umbanda, memória e esforço legitimador borges, dain isaia, artur cesar 1998 journalarticle journal article portuguese medjat-search:umbanda",
+    "searchText": "umbanda, memória e esforço legitimador borges, dain isaia, artur cesar 1998 journalarticle journal article central african traditions portuguese tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/RZ/RZLKIJTX.json",
     "languageCodes": [
       "pt"
@@ -2283,7 +2484,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi81108353/",
-    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil english african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
+    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
     "recordPath": "/library/data/records/C2/C226L4AS.json",
     "languageCodes": [
       "en"
@@ -2323,11 +2524,43 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi96001833/",
-    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs english african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
+    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article central african traditions african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
     "recordPath": "/library/data/records/J3/J3NTRMM4.json",
     "languageCodes": [
       "en"
     ]
+  },
+  {
+    "key": "QSVT2YHA",
+    "title": "The Driver's Story: Labor and Power in the World of Atlantic Slavery",
+    "subtitle": "",
+    "creators": [
+      "Browne, Randy"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "University of Pennsylvania Press",
+    "publicationLine": "University of Pennsylvania Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "the driver's story: labor and power in the world of atlantic slavery browne, randy 2024 university of pennsylvania press book monograph afro-atlantic-history access: public afro-atlantic caribbean slavery & abolition studies plantation labor power and resistance slave drivers access: public afro-atlantic caribbean monograph slavery & abolition studies domain:afro-atlantic-history plantation labor power and resistance slave drivers",
+    "recordPath": "/library/data/records/QS/QSVT2YHA.json"
   },
   {
     "key": "5A2KTKDF",
@@ -3184,6 +3417,40 @@
     "url": "https://hdl.handle.net/2027.42/133312",
     "searchText": "railroading black families: african american men, family, and labor in post-emancipation georgia. cavar dewayne reid 2016 deep blue (university of michigan) thesis thesis / dissertation american history and culture canadian identity and history race, history, and american society american history and culture canadian identity and history race, history, and american society medjat-search:slave-law",
     "recordPath": "/library/data/records/8A/8AIMGG8L.json"
+  },
+  {
+    "key": "Q8XPZWQY",
+    "title": "The Radical Spanish Empire: How Paperwork Politics Remade the New World",
+    "subtitle": "",
+    "creators": [
+      "Cañizares-Esguerra, Jorge",
+      "Masters, Adrian"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Harvard University Press",
+    "publicationLine": "Harvard University Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "colonial-administration",
+      "colonial-law"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "the radical spanish empire: how paperwork politics remade the new world cañizares-esguerra, jorge masters, adrian 2026 harvard university press book monograph colonial-administration colonial-law access: public afro-atlantic comparative slavery & abolition studies spanish empire bureaucracy and paperwork colonial governance access: public afro-atlantic comparative monograph slavery & abolition studies spanish empire bureaucracy and paperwork colonial governance domain:colonial-administration domain:colonial-law",
+    "recordPath": "/library/data/records/Q8/Q8XPZWQY.json"
   },
   {
     "key": "MJDSQJEH",
@@ -4088,11 +4355,44 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi2013002669/",
-    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article central african traditions brazil history religious life and customs spirit possession umbanda -- brazil portuguese brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
+    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article central african traditions brazil history religious life and customs spirit possession umbanda -- brazil portuguese tradition: umbanda brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/AE/AELNGXBY.json",
     "languageCodes": [
       "pt"
     ]
+  },
+  {
+    "key": "WVQE85MY",
+    "title": "...And the Dogs Were Silent = ...Et Les Chiens Se Taisaient",
+    "subtitle": "",
+    "creators": [
+      "Césaire, Aimé",
+      "Gil, Alex"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Duke University Press",
+    "publicationLine": "Duke University Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Primary Source",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-caribbean"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "...and the dogs were silent = ...et les chiens se taisaient césaire, aimé gil, alex 2024 duke university press book primary source afro-caribbean access: public afro-atlantic caribbean martinique negritude slavery & abolition studies poetic drama access: public afro-atlantic caribbean martinique negritude primary source slavery & abolition studies domain:afro-caribbean poetic drama",
+    "recordPath": "/library/data/records/WV/WVQE85MY.json"
   },
   {
     "key": "ESMN4JYZ",
@@ -4219,6 +4519,39 @@
     "url": "https://doi.org/10.22215/etd/2015-11142",
     "searchText": "calypso as a vehicle for political commentary: an endangered musical species darryl dean 2015 thesis thesis / dissertation caribbean history, culture, and politics music history and culture caribbean history, culture, and politics music history and culture medjat-search:slave-law",
     "recordPath": "/library/data/records/FX/FXSXIHDJ.json"
+  },
+  {
+    "key": "C4C3CCP5",
+    "title": "The First and the Last King of Haiti: The Rise and Fall of Henry Christophe",
+    "subtitle": "",
+    "creators": [
+      "Daut, Marlene L."
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Penguin/Knopf",
+    "publicationLine": "Penguin/Knopf, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "searchText": "the first and the last king of haiti: the rise and fall of henry christophe daut, marlene l. 2025 penguin/knopf book monograph afro-caribbean resistance access: public afro-atlantic haiti haitian revolution slavery & abolition studies biography access: public afro-atlantic haiti haitian revolution monograph slavery & abolition studies biography domain:afro-caribbean domain:resistance",
+    "recordPath": "/library/data/records/C4/C4C3CCP5.json"
   },
   {
     "key": "2UT3R76C",
@@ -4595,8 +4928,12 @@
     "publicationLine": "American Ethnologist, 1987.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -4609,7 +4946,7 @@
     "region": [],
     "doi": "10.1525/ae.1987.14.1.02a00050",
     "url": "https://doi.org/10.1525/ae.1987.14.1.02a00050",
-    "searchText": "religion, class, and context: continuities and discontinuities in brazilian umbanda diana brown mario bick 1987 american ethnologist journalarticle journal article anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america medjat-search:umbanda",
+    "searchText": "religion, class, and context: continuities and discontinuities in brazilian umbanda diana brown mario bick 1987 american ethnologist journalarticle journal article central african traditions anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/2J/2JV6T2EB.json",
     "volume": "14"
   },
@@ -4626,8 +4963,12 @@
     "publicationLine": "Columbia University Press eBooks, 1986.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -4640,7 +4981,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "umbanda : religion and politics in urban brazil diana brown 1986 columbia university press ebooks book book religion and society in latin america religion and society in latin america medjat-search:umbanda",
+    "searchText": "umbanda : religion and politics in urban brazil diana brown 1986 columbia university press ebooks book book central african traditions religion and society in latin america religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/BE/BEZLB3TV.json"
   },
   {
@@ -4797,6 +5138,39 @@
     "searchText": "las reformas borbónicas y la invención de veracruz ducey, michael ortiz escamilla, juan méndez maín, silvia maría aguilar sánchez, martín gabriel ortiz escamilla, juan 2023 universidad veracruzana booksection book chapter bourbon reforms new spain veracruz colonial history bourbon reforms new spain veracruz colonial history",
     "recordPath": "/library/data/records/CC/CCXJW9QX.json",
     "volume": "I"
+  },
+  {
+    "key": "KRVRW5A8",
+    "title": "An Efficient Womanhood: Women and the Making of the Universal Negro Improvement Association",
+    "subtitle": "",
+    "creators": [
+      "Duncan, Natanya"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "University of North Carolina Press",
+    "publicationLine": "University of North Carolina Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "post-abolition",
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "searchText": "an efficient womanhood: women and the making of the universal negro improvement association duncan, natanya 2025 university of north carolina press book monograph post-abolition resistance 20th century united states access: public afro-atlantic black women's organizing garveyism slavery & abolition studies unia 20th century united states access: public afro-atlantic black women's organizing garveyism monograph slavery & abolition studies unia domain:post-abolition domain:resistance",
+    "recordPath": "/library/data/records/KR/KRVRW5A8.json"
   },
   {
     "key": "3A5VN2IK",
@@ -5650,6 +6024,39 @@
     ]
   },
   {
+    "key": "DN5JJZPS",
+    "title": "Worlds of Unfreedom: West Central Africa in the Era of Global Abolition",
+    "subtitle": "",
+    "creators": [
+      "Ferreira, Roquinaldo"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Princeton University Press",
+    "publicationLine": "Princeton University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "abolitionism",
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "worlds of unfreedom: west central africa in the era of global abolition ferreira, roquinaldo 2025 princeton university press book monograph abolitionism afro-atlantic-history access: public afro-atlantic slavery & abolition studies west central africa abolition archival research access: public afro-atlantic monograph slavery & abolition studies west central africa abolition archival research domain:abolitionism domain:afro-atlantic-history",
+    "recordPath": "/library/data/records/DN/DN5JJZPS.json"
+  },
+  {
     "key": "R3494E7G",
     "title": "Freedom's mirror: Cuba and Haiti in the age of revolution",
     "subtitle": "",
@@ -5994,6 +6401,38 @@
     ]
   },
   {
+    "key": "F5G3I9U5",
+    "title": "Teresa Benguela and Felipa Crioula Were Pregnant: Motherhood and Slavery in Nineteenth-Century Rio de Janeiro",
+    "subtitle": "",
+    "creators": [
+      "Féres da Silva Telles, Lorena"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "University of Georgia Press",
+    "publicationLine": "University of Georgia Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-brazil"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "teresa benguela and felipa crioula were pregnant: motherhood and slavery in nineteenth-century rio de janeiro féres da silva telles, lorena 2026 university of georgia press book monograph afro-brazil access: public afro-atlantic brazil rio de janeiro slavery & abolition studies gender history motherhood and slavery access: public afro-atlantic brazil monograph rio de janeiro slavery & abolition studies domain:afro-brazil gender history motherhood and slavery",
+    "recordPath": "/library/data/records/F5/F5G3I9U5.json"
+  },
+  {
     "key": "RAFXN7LZ",
     "title": "O bruxo contra o comunista ou: o incômodo ceticismo de Machado de Assis",
     "subtitle": "",
@@ -6117,6 +6556,39 @@
     "recordPath": "/library/data/records/JK/JKHHUW88.json"
   },
   {
+    "key": "4Z3W5PNT",
+    "title": "I Have Avenged America: Jean-Jacques Dessalines and Haiti's Fight for Freedom",
+    "subtitle": "",
+    "creators": [
+      "Gaffield, Julia"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Yale University Press",
+    "publicationLine": "Yale University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "searchText": "i have avenged america: jean-jacques dessalines and haiti's fight for freedom gaffield, julia 2025 yale university press book monograph afro-caribbean resistance access: public afro-atlantic haiti haitian revolution slavery & abolition studies biography access: public afro-atlantic haiti haitian revolution monograph slavery & abolition studies biography domain:afro-caribbean domain:resistance",
+    "recordPath": "/library/data/records/4Z/4Z3W5PNT.json"
+  },
+  {
     "key": "VIRZ9TZX",
     "title": "Sacred Forests : Indigenous Knowledge and Cultural Beliefs for Conservation of Forests in Ifo Local Government Area of Ogun State, Nigeria",
     "subtitle": "",
@@ -6208,6 +6680,80 @@
     "url": "http://hdl.handle.net/1911/15684",
     "searchText": "what god hath wrought: the embodiment of freedom in the thirteenth amendment george h. hoemann 1982 rice digital scholarship archive (rice university) thesis thesis / dissertation biblical studies and interpretation biblical studies and interpretation medjat-search:slave-law",
     "recordPath": "/library/data/records/E2/E2PIGP3D.json"
+  },
+  {
+    "key": "Q9A6BPK4",
+    "title": "The Yoruba Are on a Rock: Recaptured Africans and the Orisas of Grenada",
+    "subtitle": "",
+    "creators": [
+      "George, Shantel A."
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Cambridge University Press",
+    "publicationLine": "Cambridge University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [
+      "West African traditions"
+    ],
+    "traditionLinks": {
+      "West African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+    },
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "slave-trade"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "the yoruba are on a rock: recaptured africans and the orisas of grenada george, shantel a. 2025 cambridge university press book monograph west african traditions afro-atlantic-history slave-trade access: community afro-atlantic grenada orisa slavery & abolition studies recaptured africans access: community afro-atlantic grenada monograph orisa slavery & abolition studies tradition: yoruba-derived domain:afro-atlantic-history domain:slave-trade recaptured africans",
+    "recordPath": "/library/data/records/Q9/Q9A6BPK4.json"
+  },
+  {
+    "key": "IVJFW4B7",
+    "title": "Archival Irruptions: Constructing Religion and Criminalizing Obeah in Eighteenth-Century Jamaica",
+    "subtitle": "",
+    "creators": [
+      "Gerbner, Katharine"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Duke University Press",
+    "publicationLine": "Duke University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [
+      "Afro-Indigenous"
+    ],
+    "traditionLinks": {
+      "Afro-Indigenous": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-afro-indigenous"
+    },
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "colonial-law"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "archival irruptions: constructing religion and criminalizing obeah in eighteenth-century jamaica gerbner, katharine 2025 duke university press book monograph afro-indigenous archival-studies colonial-law access: community afro-atlantic jamaica slavery & abolition studies archival methodology religion and law access: community afro-atlantic jamaica monograph slavery & abolition studies tradition: obeah archival methodology domain:archival-studies domain:colonial-law religion and law",
+    "recordPath": "/library/data/records/IV/IVJFW4B7.json"
   },
   {
     "key": "RPRDVHI5",
@@ -6395,6 +6941,71 @@
     "url": "https://doi.org/10.25501/soas.00032302",
     "searchText": "self-reported repertoires and observed language use in the multilingual ọrọ community golden richard ekpo 2022 soas research online (soas university of london) thesis thesis / dissertation linguistic variation and morphology multilingual education and policy linguistic variation and morphology multilingual education and policy medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/TH/TH9PY2EY.json"
+  },
+  {
+    "key": "CXECGVBR",
+    "title": "Unforgettable Sacrifice: How Black Communities Remembered the Civil War",
+    "subtitle": "",
+    "creators": [
+      "Green, Hilary"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Fordham University Press",
+    "publicationLine": "Fordham University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "post-abolition"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "searchText": "unforgettable sacrifice: how black communities remembered the civil war green, hilary 2025 fordham university press book monograph post-abolition access: public african american history afro-atlantic civil war memory slavery & abolition studies united states access: public african american history afro-atlantic civil war memory monograph slavery & abolition studies united states domain:post-abolition",
+    "recordPath": "/library/data/records/CX/CXECGVBR.json"
+  },
+  {
+    "key": "IZPCNY48",
+    "title": "The Heretic of Cacheu: Crispina Peres and the Struggle over Life in Seventeenth-Century West Africa",
+    "subtitle": "",
+    "creators": [
+      "Green, Toby"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "University of Chicago Press",
+    "publicationLine": "University of Chicago Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "colonial-law"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "the heretic of cacheu: crispina peres and the struggle over life in seventeenth-century west africa green, toby 2025 university of chicago press book monograph afro-atlantic-history colonial-law 17th century access: public afro-atlantic guinea-bissau slavery & abolition studies west africa biography gender and slavery 17th century access: public afro-atlantic guinea-bissau monograph slavery & abolition studies west africa biography domain:afro-atlantic-history domain:colonial-law gender and slavery",
+    "recordPath": "/library/data/records/IZ/IZPCNY48.json"
   },
   {
     "key": "VMUVHS3I",
@@ -6611,6 +7222,39 @@
     "volume": "12"
   },
   {
+    "key": "G9ZMUGA5",
+    "title": "Bloody Numbers: The Early Atlantic Slave Trade and the Invention of Modern Corporeality",
+    "subtitle": "",
+    "creators": [
+      "Gómez, Pablo F."
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "University of Chicago Press",
+    "publicationLine": "University of Chicago Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "slave-trade"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "bloody numbers: the early atlantic slave trade and the invention of modern corporeality gómez, pablo f. 2026 university of chicago press book monograph archival-studies slave-trade access: public afro-atlantic atlantic slave trade slavery & abolition studies early modern era history of the body quantification access: public afro-atlantic atlantic slave trade monograph slavery & abolition studies domain:archival-studies domain:slave-trade early modern era history of the body quantification",
+    "recordPath": "/library/data/records/G9/G9ZMUGA5.json"
+  },
+  {
     "key": "2UNNWD7V",
     "title": "Umbanda: investigación sobre religiosidad afro-brasileña en Montevideo",
     "subtitle": "",
@@ -6644,7 +7288,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi91003427/",
-    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article central african traditions african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda -- uruguay uruguay spanish african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
+    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article central african traditions african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda -- uruguay uruguay spanish tradition: umbanda african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
     "recordPath": "/library/data/records/2U/2UNNWD7V.json",
     "languageCodes": [
       "es"
@@ -7122,7 +7766,7 @@
   },
   {
     "key": "S6I4M4G6",
-    "title": "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>",
+    "title": "African Gods and Catholic Saints in New World Negro Belief",
     "subtitle": "",
     "creators": [
       "Herskovits, Melville J."
@@ -7154,7 +7798,7 @@
     "region": [],
     "doi": "10.1525/aa.1937.39.4.02a00080",
     "url": "https://doi.org/10.1525/aa.1937.39.4.02a00080",
-    "searchText": "african gods and catholic saints in new world negro belief<sup>1</sup> herskovits, melville j. 1937 american anthropologist journalarticle journal article syncretic/creole lineage material culture theme: lineage theme: material culture tradition: syncretic/creole",
+    "searchText": "african gods and catholic saints in new world negro belief herskovits, melville j. 1937 american anthropologist journalarticle journal article syncretic/creole lineage material culture theme: lineage theme: material culture tradition: syncretic/creole",
     "recordPath": "/library/data/records/S6/S6I4M4G6.json"
   },
   {
@@ -7626,6 +8270,39 @@
     "searchText": "inter-religious relations in yorubaland, nigeria: corpus methods and anthropological survey data insa nolte clyde ancarno rebecca jones 2018 corpora journalarticle journal article natural language processing techniques swearing, euphemism, multilingualism natural language processing techniques swearing, euphemism, multilingualism medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/G3/G3GKESB5.json",
     "volume": "13"
+  },
+  {
+    "key": "QCABFT5W",
+    "title": "Slavery and Freedom in Black Thought in the Early Spanish Atlantic",
+    "subtitle": "",
+    "creators": [
+      "Ireton, Chloe L."
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Cambridge University Press",
+    "publicationLine": "Cambridge University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "colonial-law"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "slavery and freedom in black thought in the early spanish atlantic ireton, chloe l. 2025 cambridge university press book monograph archival-studies colonial-law access: public afro-atlantic black thought slavery & abolition studies spanish atlantic intellectual history access: public afro-atlantic black thought monograph slavery & abolition studies spanish atlantic domain:archival-studies domain:colonial-law intellectual history",
+    "recordPath": "/library/data/records/QC/QCABFT5W.json"
   },
   {
     "key": "HA8567HS",
@@ -9911,6 +10588,38 @@
     "recordPath": "/library/data/records/6Q/6QR2D35R.json"
   },
   {
+    "key": "QGY444ZQ",
+    "title": "Sweet Home Feliciana: Family, Slavery, and the Hauntings of History",
+    "subtitle": "",
+    "creators": [
+      "Johnson, Rashauna"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Cambridge University Press",
+    "publicationLine": "Cambridge University Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "sweet home feliciana: family, slavery, and the hauntings of history johnson, rashauna 2026 cambridge university press book monograph afro-atlantic-history access: public afro-atlantic louisiana slavery & abolition studies united states family history memory studies access: public afro-atlantic louisiana monograph slavery & abolition studies united states domain:afro-atlantic-history family history memory studies",
+    "recordPath": "/library/data/records/QG/QGY444ZQ.json"
+  },
+  {
     "key": "XH6ASVV4",
     "title": "The Development of Radio Broadcasting in Nigeria, West Africa",
     "subtitle": "",
@@ -9939,6 +10648,38 @@
     "url": "https://digital.library.unt.edu/ark:/67531/metadc663486/",
     "searchText": "the development of radio broadcasting in nigeria, west africa jonathan adegoke adejunmobi 1974 university of north texas digital library (university of north texas) thesis thesis / dissertation radio, podcasts, and digital media radio, podcasts, and digital media medjat-search:slave-law",
     "recordPath": "/library/data/records/XH/XH6ASVV4.json"
+  },
+  {
+    "key": "KHNC58LP",
+    "title": "The Trouble of Color: An American Family Memoir",
+    "subtitle": "",
+    "creators": [
+      "Jones, Martha S."
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Basic Books",
+    "publicationLine": "Basic Books, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "the trouble of color: an american family memoir jones, martha s. 2025 basic books book book afro-atlantic-history access: public afro-atlantic memoir slavery & abolition studies united states family history race and identity access: public afro-atlantic memoir slavery & abolition studies united states domain:afro-atlantic-history family history race and identity",
+    "recordPath": "/library/data/records/KH/KHNC58LP.json"
   },
   {
     "key": "6AUVH3WM",
@@ -10197,8 +10938,14 @@
     "publicationLine": "Revista de Antropologia, 1964.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Syncretic/Creole",
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Syncretic/Creole": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic",
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -10211,7 +10958,7 @@
     "region": [],
     "doi": "10.11606/2179-0892.ra.1964.110743",
     "url": "https://doi.org/10.11606/2179-0892.ra.1964.110743",
-    "searchText": "kardecismo e umbanda joão baptista borges pereira 1964 revista de antropologia journalarticle journal article religion and society in latin america religion and society in latin america medjat-search:umbanda",
+    "searchText": "kardecismo e umbanda joão baptista borges pereira 1964 revista de antropologia journalarticle journal article syncretic/creole central african traditions religion and society in latin america religion and society in latin america tradition: espiritismo tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/XV/XVI9KAQQ.json",
     "volume": "12"
   },
@@ -11303,6 +12050,38 @@
     "recordPath": "/library/data/records/ZR/ZRD9RY6U.json"
   },
   {
+    "key": "HQHXF794",
+    "title": "By Flesh and Toil: How Sex, Race, and Labor Shaped the Early French Empire",
+    "subtitle": "",
+    "creators": [
+      "Lamotte, Mélanie"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Harvard University Press",
+    "publicationLine": "Harvard University Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "colonial-administration"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "by flesh and toil: how sex, race, and labor shaped the early french empire lamotte, mélanie 2026 harvard university press book monograph colonial-administration access: public afro-atlantic french empire slavery & abolition studies gender and race labor history access: public afro-atlantic french empire monograph slavery & abolition studies domain:colonial-administration gender and race labor history",
+    "recordPath": "/library/data/records/HQ/HQHXF794.json"
+  },
+  {
     "key": "GLPP9GMD",
     "title": "Atlantic Creoles in the age of revolutions",
     "subtitle": "",
@@ -11636,7 +12415,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi77101373/",
-    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article central african traditions brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda -- brazil english brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
+    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article central african traditions brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda -- brazil english tradition: umbanda brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/YA/YAQDCCC2.json",
     "languageCodes": [
       "en"
@@ -11824,6 +12603,39 @@
     "volume": "46"
   },
   {
+    "key": "MDGD7MUR",
+    "title": "Revolution by Fire: New York's Afro-Irish Uprising of 1741: A Graphic Novel",
+    "subtitle": "",
+    "creators": [
+      "Lester, David",
+      "Rediker, Marcus"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Beacon Press",
+    "publicationLine": "Beacon Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "revolution by fire: new york's afro-irish uprising of 1741: a graphic novel lester, david rediker, marcus 2024 beacon press book book resistance 1741 slave conspiracy access: public afro-atlantic graphic novel new york slavery & abolition studies resistance and rebellion 1741 slave conspiracy access: public afro-atlantic graphic novel new york slavery & abolition studies domain:resistance resistance and rebellion",
+    "recordPath": "/library/data/records/MD/MDGD7MUR.json"
+  },
+  {
     "key": "I7QCZTXJ",
     "title": "Umbanda en Venezuela",
     "subtitle": "",
@@ -11857,11 +12669,43 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi94004464/",
-    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article central african traditions african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda -- venezuela venezuela spanish african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
+    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article central african traditions african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda -- venezuela venezuela spanish tradition: umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
     "recordPath": "/library/data/records/I7/I7QCZTXJ.json",
     "languageCodes": [
       "es"
     ]
+  },
+  {
+    "key": "CZRCDYF9",
+    "title": "The Unseen Truth: When Race Changed Sight in America",
+    "subtitle": "",
+    "creators": [
+      "Lewis, Sarah Elizabeth"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Harvard University Press",
+    "publicationLine": "Harvard University Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "the unseen truth: when race changed sight in america lewis, sarah elizabeth 2024 harvard university press book monograph afro-atlantic-history access: public afro-atlantic slavery & abolition studies united states race and visual culture racial science access: public afro-atlantic monograph slavery & abolition studies united states domain:afro-atlantic-history race and visual culture racial science",
+    "recordPath": "/library/data/records/CZ/CZRCDYF9.json"
   },
   {
     "key": "B3MFQB6K",
@@ -11906,8 +12750,12 @@
     "publicationLine": "Choice Reviews Online, 2010.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -11920,7 +12768,7 @@
     "region": [],
     "doi": "10.5860/choice.47-6328",
     "url": "https://doi.org/10.5860/choice.47-6328",
-    "searchText": "hearing the mermaid's song: the umbanda religion in rio de janeiro lindsay hale 2010 choice reviews online journalarticle journal article anthropological studies and insights religion and society in latin america anthropological studies and insights religion and society in latin america medjat-search:umbanda",
+    "searchText": "hearing the mermaid's song: the umbanda religion in rio de janeiro lindsay hale 2010 choice reviews online journalarticle journal article central african traditions anthropological studies and insights religion and society in latin america anthropological studies and insights religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/HJ/HJE4FXT5.json",
     "volume": "47"
   },
@@ -12555,8 +13403,12 @@
     "publicationLine": "Tempo Social, 1993.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -12569,7 +13421,7 @@
     "region": [],
     "doi": "10.1590/ts.v5i1/2.84951",
     "url": "https://doi.org/10.1590/ts.v5i1/2.84951",
-    "searchText": "umbanda: entre a cruz e a encruzilhada lísias nogueira negrão 1993 tempo social journalarticle journal article religion and society in latin america religion, society, and development religion and society in latin america religion, society, and development medjat-search:umbanda",
+    "searchText": "umbanda: entre a cruz e a encruzilhada lísias nogueira negrão 1993 tempo social journalarticle journal article central african traditions religion and society in latin america religion, society, and development religion and society in latin america religion, society, and development tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/EN/ENNBGWFM.json",
     "volume": "5"
   },
@@ -14345,7 +15197,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi89006307/",
-    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article central african traditions brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda -- brazil portuguese brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
+    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article central african traditions brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda -- brazil portuguese tradition: umbanda brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/NT/NTWSWK8E.json",
     "languageCodes": [
       "pt"
@@ -14889,6 +15741,39 @@
     "recordPath": "/library/data/records/WK/WKT3MVD9.json"
   },
   {
+    "key": "26BCYK39",
+    "title": "The Crown's Silence: The Hidden History of the British Monarchy and Slavery in the Americas",
+    "subtitle": "",
+    "creators": [
+      "Newman, Brooke"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Mariner",
+    "publicationLine": "Mariner, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "colonial-administration",
+      "colonialism"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "the crown's silence: the hidden history of the british monarchy and slavery in the americas newman, brooke 2026 mariner book monograph colonial-administration colonialism access: public afro-atlantic british empire slavery & abolition studies monarchy slavery and complicity access: public afro-atlantic british empire monograph slavery & abolition studies domain:colonial-administration domain:colonialism monarchy slavery and complicity",
+    "recordPath": "/library/data/records/26/26BCYK39.json"
+  },
+  {
     "key": "BKIHTDYL",
     "title": "Calamity’s Empire: Slavery, Scarcity, and the Political Economy of Provisioning in the British Caribbean, C. 1775-1834",
     "subtitle": "",
@@ -15132,6 +16017,70 @@
     "url": "",
     "searchText": "animal sacrifice and religious freedom: church of the lukumi babalu aye v. city of hialeah o'brien, david m. 2004 university press of kansas book book west african traditions tradition: lucumí",
     "recordPath": "/library/data/records/97/97UFSQKS.json"
+  },
+  {
+    "key": "2LGEHSXE",
+    "title": "Moving Toward Freedom: The Political Education of Enslaved Americans",
+    "subtitle": "",
+    "creators": [
+      "O'Donovan, Susan Eva"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Penguin Press",
+    "publicationLine": "Penguin Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "moving toward freedom: the political education of enslaved americans o'donovan, susan eva 2026 penguin press book monograph resistance access: public afro-atlantic slavery & abolition studies united states antebellum era enslaved political consciousness access: public afro-atlantic monograph slavery & abolition studies united states antebellum era domain:resistance enslaved political consciousness",
+    "recordPath": "/library/data/records/2L/2LGEHSXE.json"
+  },
+  {
+    "key": "D9CCGKQX",
+    "title": "The Escapes of David George: An Odyssey of Slavery, Freedom, and the American Revolution",
+    "subtitle": "",
+    "creators": [
+      "O'Malley, Gregory E."
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "St. Martin's Press",
+    "publicationLine": "St. Martin's Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "the escapes of david george: an odyssey of slavery, freedom, and the american revolution o'malley, gregory e. 2026 st. martin's press book monograph resistance access: public afro-atlantic american revolution black loyalists slavery & abolition studies biography fugitive slave narrative access: public afro-atlantic american revolution black loyalists monograph slavery & abolition studies biography domain:resistance fugitive slave narrative",
+    "recordPath": "/library/data/records/D9/D9CCGKQX.json"
   },
   {
     "key": "VWN5D3DM",
@@ -15892,7 +16841,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi83108415/",
-    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda -- brazil french african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
+    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article central african traditions african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda -- brazil french tradition: quimbanda tradition: umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/KJ/KJFP9ZFE.json",
     "languageCodes": [
       "fr"
@@ -17249,6 +18198,39 @@
     "recordPath": "/library/data/records/BL/BLIHW292.json"
   },
   {
+    "key": "R92TTSPR",
+    "title": "Freedom Ship: The Uncharted History of Escaping Slavery by Sea",
+    "subtitle": "",
+    "creators": [
+      "Rediker, Marcus"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Viking",
+    "publicationLine": "Viking, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "freedom ship: the uncharted history of escaping slavery by sea rediker, marcus 2025 viking book monograph afro-atlantic-history resistance access: public afro-atlantic slavery & abolition studies underground railroad united states escape and resistance maritime history access: public afro-atlantic monograph slavery & abolition studies underground railroad united states domain:afro-atlantic-history domain:resistance escape and resistance maritime history",
+    "recordPath": "/library/data/records/R9/R92TTSPR.json"
+  },
+  {
     "key": "EZ5XWX9A",
     "title": "O Brasil com axé: candomblé e umbanda no mercado religioso",
     "subtitle": "",
@@ -17261,8 +18243,12 @@
     "publicationLine": "Estudos Avançados, 2004.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -17275,7 +18261,7 @@
     "region": [],
     "doi": "10.1590/s0103-40142004000300015",
     "url": "https://doi.org/10.1590/s0103-40142004000300015",
-    "searchText": "o brasil com axé: candomblé e umbanda no mercado religioso reginaldo ́prandi 2004 estudos avançados journalarticle journal article religion and society in latin america religion and society in latin america medjat-search:umbanda",
+    "searchText": "o brasil com axé: candomblé e umbanda no mercado religioso reginaldo ́prandi 2004 estudos avançados journalarticle journal article central african traditions religion and society in latin america religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/EZ/EZ5XWX9A.json",
     "volume": "18"
   },
@@ -17292,8 +18278,12 @@
     "publicationLine": "Editora Brasiliense eBooks, 1991.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -17306,8 +18296,40 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "a morte branca do feiticeiro negro : umbanda e sociedade brasileira renato ortiz 1991 editora brasiliense ebooks book book race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics medjat-search:umbanda",
+    "searchText": "a morte branca do feiticeiro negro : umbanda e sociedade brasileira renato ortiz 1991 editora brasiliense ebooks book book central african traditions race, identity, and education in brazil religion and society in latin america urban and sociocultural dynamics race, identity, and education in brazil religion and society in latin america tradition: umbanda urban and sociocultural dynamics medjat-search:umbanda",
     "recordPath": "/library/data/records/GQ/GQ8X5Z6A.json"
+  },
+  {
+    "key": "F73LE2MG",
+    "title": "The Bonds of Kinship in Dahomey: Portraits of West African Girlhood 1720-1940",
+    "subtitle": "",
+    "creators": [
+      "Reuther, Jessica"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Indiana University Press",
+    "publicationLine": "Indiana University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "african-history"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "the bonds of kinship in dahomey: portraits of west african girlhood 1720-1940 reuther, jessica 2025 indiana university press book monograph african-history access: public afro-atlantic dahomey slavery & abolition studies west africa gender history girlhood access: public afro-atlantic dahomey monograph slavery & abolition studies west africa domain:african-history gender history girlhood",
+    "recordPath": "/library/data/records/F7/F73LE2MG.json"
   },
   {
     "key": "IGQK26FU",
@@ -17556,6 +18578,38 @@
     "searchText": "ethnicities of enslaved africans in the diaspora: on the meanings of “mina” (again) robin law 2005 history in africa journalarticle journal article african history and culture studies colonialism, slavery, and trade global maritime and colonial histories african history and culture studies colonialism, slavery, and trade global maritime and colonial histories medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/3X/3XFQ6BQN.json",
     "volume": "32"
+  },
+  {
+    "key": "W4E24NP8",
+    "title": "Plantation Goods: A Material History of American Slavery",
+    "subtitle": "",
+    "creators": [
+      "Rockman, Seth"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "University of Chicago Press",
+    "publicationLine": "University of Chicago Press, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "material-culture"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "plantation goods: a material history of american slavery rockman, seth 2024 university of chicago press book monograph material-culture access: public afro-atlantic slavery & abolition studies united states material culture plantation economy access: public afro-atlantic monograph slavery & abolition studies united states domain:material-culture material culture plantation economy",
+    "recordPath": "/library/data/records/W4/W4E24NP8.json"
   },
   {
     "key": "383WQLY2",
@@ -17950,6 +19004,38 @@
     "recordPath": "/library/data/records/A7/A7FUGLUF.json"
   },
   {
+    "key": "9NKJCALV",
+    "title": "The Plunder of Black America: How the Racial Wealth Gap Was Made",
+    "subtitle": "",
+    "creators": [
+      "Schermerhorn, Calvin"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Yale University Press",
+    "publicationLine": "Yale University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "post-abolition"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "searchText": "the plunder of black america: how the racial wealth gap was made schermerhorn, calvin 2025 yale university press book monograph post-abolition access: public afro-atlantic slavery & abolition studies united states economic history racial wealth gap access: public afro-atlantic monograph slavery & abolition studies united states domain:post-abolition economic history racial wealth gap",
+    "recordPath": "/library/data/records/9N/9NKJCALV.json"
+  },
+  {
     "key": "9WJ72KMT",
     "title": "Sur quelques plantes à usage religieux de la région forestière d'Afrique occidentale",
     "subtitle": "",
@@ -18269,6 +19355,38 @@
     ]
   },
   {
+    "key": "595EFEN9",
+    "title": "The Rise and Fall of the Second American Republic: Reconstruction, 1860-1920",
+    "subtitle": "",
+    "creators": [
+      "Sinha, Manisha"
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Liveright",
+    "publicationLine": "Liveright, 2024.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "post-abolition"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "searchText": "the rise and fall of the second american republic: reconstruction, 1860-1920 sinha, manisha 2024 liveright book monograph post-abolition access: public afro-atlantic reconstruction slavery & abolition studies united states political history access: public afro-atlantic monograph reconstruction slavery & abolition studies united states domain:post-abolition political history",
+    "recordPath": "/library/data/records/59/595EFEN9.json"
+  },
+  {
     "key": "86VK4JC3",
     "title": "Saltwater slavery: a middle passage from africa to american diaspora",
     "subtitle": "",
@@ -18359,6 +19477,39 @@
     "url": "http://hdl.handle.net/10161/12925",
     "searchText": "in whose image: the emergence, development, and challenge of african-american evangelicalism soong‐chan rah 2016 dukespace (duke university) thesis thesis / dissertation religion, society, and development religion, spirituality, and psychology theological perspectives and practices religion, society, and development religion, spirituality, and psychology theological perspectives and practices medjat-search:slave-law",
     "recordPath": "/library/data/records/WS/WS32QGFV.json"
+  },
+  {
+    "key": "G37TPP8L",
+    "title": "Slaves in Paris: Hidden Lives and Fugitive Histories",
+    "subtitle": "",
+    "creators": [
+      "Spieler, Miranda"
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Harvard University Press",
+    "publicationLine": "Harvard University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "colonial-law"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "searchText": "slaves in paris: hidden lives and fugitive histories spieler, miranda 2025 harvard university press book monograph archival-studies colonial-law access: public afro-atlantic france french atlantic paris slavery & abolition studies fugitive slaves legal history access: public afro-atlantic france french atlantic monograph paris slavery & abolition studies domain:archival-studies domain:colonial-law fugitive slaves legal history",
+    "recordPath": "/library/data/records/G3/G37TPP8L.json"
   },
   {
     "key": "URNK85UG",
@@ -18590,8 +19741,12 @@
     "publicationLine": "Nova Religio The Journal of Alternative and Emergent Religions, 2012.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -18604,7 +19759,7 @@
     "region": [],
     "doi": "10.1525/nr.2012.15.4.13",
     "url": "https://doi.org/10.1525/nr.2012.15.4.13",
-    "searchText": "umbanda and africa steven engler 2012 nova religio the journal of alternative and emergent religions journalarticle journal article african cultural and philosophical studies anthropological studies and insights religion and society interactions african cultural and philosophical studies anthropological studies and insights religion and society interactions medjat-search:umbanda",
+    "searchText": "umbanda and africa steven engler 2012 nova religio the journal of alternative and emergent religions journalarticle journal article central african traditions african cultural and philosophical studies anthropological studies and insights religion and society interactions african cultural and philosophical studies anthropological studies and insights religion and society interactions tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/3N/3NVB96LY.json",
     "volume": "15"
   },
@@ -18621,8 +19776,12 @@
     "publicationLine": "Numen, 2009.",
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -18635,7 +19794,7 @@
     "region": [],
     "doi": "10.1163/002959709x12469430260084",
     "url": "https://doi.org/10.1163/002959709x12469430260084",
-    "searchText": "umbanda and hybridity steven engler 2009 numen journalarticle journal article anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america medjat-search:umbanda",
+    "searchText": "umbanda and hybridity steven engler 2009 numen journalarticle journal article central african traditions anthropological studies and insights religion and society interactions religion and society in latin america anthropological studies and insights religion and society interactions religion and society in latin america tradition: umbanda medjat-search:umbanda",
     "recordPath": "/library/data/records/34/34X7X6P3.json",
     "volume": "56"
   },
@@ -18765,6 +19924,39 @@
     "searchText": "dancing with the revolution: power, politics, and privilege in cuba , by elizabeth b. schwall susanna sloat 2022 new west indian guide / nieuwe west-indische gids journalarticle journal article cuban history and society cuban history and society medjat-search:abakuá",
     "recordPath": "/library/data/records/W6/W6FS77CK.json",
     "volume": "96"
+  },
+  {
+    "key": "7FU4VJRL",
+    "title": "Mutiny on the Black Prince: Slavery, Piracy, and the Limits of Liberty in the Revolutionary Atlantic World",
+    "subtitle": "",
+    "creators": [
+      "Sweet, James H."
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Oxford University Press",
+    "publicationLine": "Oxford University Press, 2025.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "piracy",
+      "resistance"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "searchText": "mutiny on the black prince: slavery, piracy, and the limits of liberty in the revolutionary atlantic world sweet, james h. 2025 oxford university press book monograph piracy resistance 18th century access: public afro-atlantic british atlantic slavery & abolition studies maritime history piracy 18th century access: public afro-atlantic british atlantic monograph slavery & abolition studies domain:piracy domain:resistance maritime history piracy",
+    "recordPath": "/library/data/records/7F/7FU4VJRL.json"
   },
   {
     "key": "4ZI3JWCN",
@@ -19310,6 +20502,39 @@
     "recordPath": "/library/data/records/3Z/3ZQR5P6T.json"
   },
   {
+    "key": "PN5JWGUH",
+    "title": "Enslaved New World: Slavery, Freedom, and the Making of Race in Santo Domingo",
+    "subtitle": "",
+    "creators": [
+      "Turits, Richard Lee"
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Cambridge University Press",
+    "publicationLine": "Cambridge University Press, 2026.",
+    "itemType": "book",
+    "recordTypeLabel": "Monograph",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "colonial-law"
+    ],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [],
+    "region": [],
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "searchText": "enslaved new world: slavery, freedom, and the making of race in santo domingo turits, richard lee 2026 cambridge university press book monograph afro-caribbean colonial-law access: public afro-atlantic hispaniola santo domingo slavery & abolition studies early colonial slavery race formation access: public afro-atlantic hispaniola monograph santo domingo slavery & abolition studies domain:afro-caribbean domain:colonial-law early colonial slavery race formation",
+    "recordPath": "/library/data/records/PN/PN5JWGUH.json"
+  },
+  {
     "key": "C2YCEA2N",
     "title": "The Use of Slaves in Early Christianity: Slaves as Subjects of Life and Thought",
     "subtitle": "",
@@ -19413,8 +20638,12 @@
     "publicationLine": "Editora Atica eBooks, 1994.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [],
-    "traditionLinks": {},
+    "traditions": [
+      "Central African traditions"
+    ],
+    "traditionLinks": {
+      "Central African traditions": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+    },
     "themes": [],
     "domains": [],
     "connects": [],
@@ -19429,7 +20658,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "candomblé e umbanda : caminhos da devoção brasileira vagner gonçalves da silva 1994 editora atica ebooks book book religion and society in latin america religion, society, and development urban and sociocultural dynamics portuguese religion and society in latin america religion, society, and development urban and sociocultural dynamics medjat-search:umbanda",
+    "searchText": "candomblé e umbanda : caminhos da devoção brasileira vagner gonçalves da silva 1994 editora atica ebooks book book central african traditions religion and society in latin america religion, society, and development urban and sociocultural dynamics portuguese religion and society in latin america religion, society, and development tradition: umbanda urban and sociocultural dynamics medjat-search:umbanda",
     "recordPath": "/library/data/records/82/82EA4AW6.json",
     "languageCodes": [
       "pt"

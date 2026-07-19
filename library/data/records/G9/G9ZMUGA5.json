@@ -1,0 +1,159 @@
+{
+  "key": "G9ZMUGA5",
+  "uri": "https://medjat.irokosociety.org/id/library/G9ZMUGA5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G9ZMUGA5",
+  "zotero": {
+    "group": "6479329",
+    "key": "G9ZMUGA5",
+    "version": 5443,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G9ZMUGA5",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "Bloody Numbers: The Early Atlantic Slave Trade and the Invention of Modern Corporeality",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Gómez, Pablo F."
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "University of Chicago Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On the historical practices that rendered enslaved populations quantifiable, and the roots of ascribing numbers to bodies.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "slave-trade"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Atlantic slave trade",
+      "Slavery & Abolition Studies",
+      "early modern era",
+      "history of the body",
+      "quantification"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Gómez, Pablo F."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Bloody Numbers: The Early Atlantic Slave Trade and the Invention of Modern Corporeality"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of Chicago Press, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Atlantic slave trade"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "early modern era"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "history of the body"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "quantification"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Archival Studies",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Slave Trade",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85123323"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/G9/G9ZMUGA5.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Archival Studies",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+      },
+      {
+        "label": "Slave Trade",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85123323"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

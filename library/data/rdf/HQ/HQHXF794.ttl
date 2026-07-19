@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/HQHXF794>
+  a schema:Book ;
+  schema:name "By Flesh and Toil: How Sex, Race, and Labor Shaped the Early French Empire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=HQHXF794> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:HQHXF794" ;
+  schema:description "On the connections between sex and race in the lives of those governed by the legal regimes of the French empire." ;
+  schema:author "Lamotte, Mélanie" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85028485> .

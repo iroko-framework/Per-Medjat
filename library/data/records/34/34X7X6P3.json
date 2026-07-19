@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "34X7X6P3",
-    "version": 4891,
+    "version": 5299,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/34X7X6P3",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:16:55Z"
   },
   "display": {
     "title": "Umbanda and Hybridity",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -104,6 +106,11 @@
       "value": "Religion and Society in Latin America"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Journal Article"
@@ -115,7 +122,13 @@
     "sameAs": [
       "https://doi.org/10.1163/002959709x12469430260084"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/C4C3CCP5>
+  a schema:Book ;
+  schema:name "The First and the Last King of Haiti: The Rise and Fall of Henry Christophe" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C4C3CCP5> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C4C3CCP5" ;
+  schema:description "Biography of Henry Christophe, the only king of Haiti." ;
+  schema:author "Daut, Marlene L." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Penguin/Knopf" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635>, <http://id.loc.gov/authorities/subjects/sh85113647> .

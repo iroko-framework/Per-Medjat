@@ -1,0 +1,153 @@
+{
+  "key": "26BCYK39",
+  "uri": "https://medjat.irokosociety.org/id/library/26BCYK39",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=26BCYK39",
+  "zotero": {
+    "group": "6479329",
+    "key": "26BCYK39",
+    "version": 5452,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/26BCYK39",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "The Crown's Silence: The Hidden History of the British Monarchy and Slavery in the Americas",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Newman, Brooke"
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Mariner",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On the British monarchy's hidden history of involvement in and silence around slavery in the Americas.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "colonial-administration",
+      "colonialism"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "British Empire",
+      "Slavery & Abolition Studies",
+      "monarchy",
+      "slavery and complicity"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Newman, Brooke"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Crown's Silence: The Hidden History of the British Monarchy and Slavery in the Americas"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Mariner, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "British Empire"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "monarchy"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "slavery and complicity"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Administration",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028485"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonialism",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028521"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/26/26BCYK39.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Colonial Administration",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028485"
+      },
+      {
+        "label": "Colonialism",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028521"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

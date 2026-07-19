@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "2JV6T2EB",
-    "version": 4882,
+    "version": 5306,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2JV6T2EB",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:19:26Z"
   },
   "display": {
     "title": "religion, class, and context: continuities and discontinuities in Brazilian Umbanda",
@@ -48,7 +48,9 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -108,6 +110,11 @@
       "value": "Religion and Society in Latin America"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "700",
       "label": "Added entry - editor",
       "value": "Mario Bick"
@@ -124,7 +131,13 @@
     "sameAs": [
       "https://doi.org/10.1525/ae.1987.14.1.02a00050"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/9NKJCALV>
+  a schema:Book ;
+  schema:name "The Plunder of Black America: How the Racial Wealth Gap Was Made" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9NKJCALV> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9NKJCALV" ;
+  schema:description "Four hundred years of Black dispossession and decapitalization traced through family histories." ;
+  schema:author "Schermerhorn, Calvin" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Yale University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480> .

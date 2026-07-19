@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/EMI2N8FZ>
+  a schema:Book ;
+  schema:name "Transatlantic Bondage: Slavery and Freedom in Spain, Santo Domingo, and Puerto Rico" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=EMI2N8FZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:EMI2N8FZ" ;
+  schema:description "Edited volume of original archival research correcting the neglect of Spanish Santo Domingo and Puerto Rico in African diaspora studies." ;
+  schema:creator "Acosta Corniel, Lissette" ;
+  schema:datePublished "2024" ;
+  schema:publisher "State University of New York Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635>, <http://id.loc.gov/authorities/subjects/sh85006514> .

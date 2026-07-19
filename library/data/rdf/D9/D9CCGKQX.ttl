@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/D9CCGKQX>
+  a schema:Book ;
+  schema:name "The Escapes of David George: An Odyssey of Slavery, Freedom, and the American Revolution" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=D9CCGKQX> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:D9CCGKQX" ;
+  schema:description "Follows David George's search for freedom across the Atlantic world of the American Revolution." ;
+  schema:author "O'Malley, Gregory E." ;
+  schema:datePublished "2026" ;
+  schema:publisher "St. Martin's Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85113647> .

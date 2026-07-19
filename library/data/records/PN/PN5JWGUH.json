@@ -1,0 +1,159 @@
+{
+  "key": "PN5JWGUH",
+  "uri": "https://medjat.irokosociety.org/id/library/PN5JWGUH",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=PN5JWGUH",
+  "zotero": {
+    "group": "6479329",
+    "key": "PN5JWGUH",
+    "version": 5461,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/PN5JWGUH",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "Enslaved New World: Slavery, Freedom, and the Making of Race in Santo Domingo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Turits, Richard Lee"
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Cambridge University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On 16th-century Santo Domingo as the site of the Americas' earliest plantation slave society and its self-emancipated Black majority population.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "colonial-law"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Hispaniola",
+      "Santo Domingo",
+      "Slavery & Abolition Studies",
+      "early colonial slavery",
+      "race formation"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Turits, Richard Lee"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Enslaved New World: Slavery, Freedom, and the Making of Race in Santo Domingo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Hispaniola"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Santo Domingo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "early colonial slavery"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "race formation"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Caribbean",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Law",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/PN/PN5JWGUH.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Caribbean",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+      },
+      {
+        "label": "Colonial Law",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

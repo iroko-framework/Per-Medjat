@@ -1,0 +1,141 @@
+{
+  "key": "2LGEHSXE",
+  "uri": "https://medjat.irokosociety.org/id/library/2LGEHSXE",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=2LGEHSXE",
+  "zotero": {
+    "group": "6479329",
+    "key": "2LGEHSXE",
+    "version": 5437,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/2LGEHSXE",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "Moving Toward Freedom: The Political Education of Enslaved Americans",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "O'Donovan, Susan Eva"
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Penguin Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On the political education enslaved Americans gained through local, national, and international travel under slavery.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "resistance"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Slavery & Abolition Studies",
+      "United States",
+      "antebellum era",
+      "enslaved political consciousness"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "O'Donovan, Susan Eva"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Moving Toward Freedom: The Political Education of Enslaved Americans"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Penguin Press, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "antebellum era"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "enslaved political consciousness"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Resistance",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/2L/2LGEHSXE.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Resistance",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

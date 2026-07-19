@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/2LGEHSXE>
+  a schema:Book ;
+  schema:name "Moving Toward Freedom: The Political Education of Enslaved Americans" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=2LGEHSXE> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:2LGEHSXE" ;
+  schema:description "On the political education enslaved Americans gained through local, national, and international travel under slavery." ;
+  schema:author "O'Donovan, Susan Eva" ;
+  schema:datePublished "2026" ;
+  schema:publisher "Penguin Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85113647> .

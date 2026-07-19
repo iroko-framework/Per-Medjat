@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "HJE4FXT5",
-    "version": 4900,
+    "version": 5303,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/HJE4FXT5",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:18:45Z"
   },
   "display": {
     "title": "Hearing the mermaid's song: the Umbanda religion in Rio de Janeiro",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -98,6 +100,11 @@
       "value": "Religion and Society in Latin America"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Journal Article"
@@ -109,7 +116,13 @@
     "sameAs": [
       "https://doi.org/10.5860/choice.47-6328"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

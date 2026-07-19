@@ -1,0 +1,165 @@
+{
+  "key": "G37TPP8L",
+  "uri": "https://medjat.irokosociety.org/id/library/G37TPP8L",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=G37TPP8L",
+  "zotero": {
+    "group": "6479329",
+    "key": "G37TPP8L",
+    "version": 5383,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/G37TPP8L",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Slaves in Paris: Hidden Lives and Fugitive Histories",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Spieler, Miranda"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Harvard University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On enslaved people's hidden lives in Paris and the legal threshold between slavery and freedom in French history.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "archival-studies",
+      "colonial-law"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "France",
+      "French Atlantic",
+      "Paris",
+      "Slavery & Abolition Studies",
+      "fugitive slaves",
+      "legal history"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Spieler, Miranda"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Slaves in Paris: Hidden Lives and Fugitive Histories"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Harvard University Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "France"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "French Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Paris"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "fugitive slaves"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "legal history"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Archival Studies",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Law",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/G3/G37TPP8L.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Archival Studies",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85006514"
+      },
+      {
+        "label": "Colonial Law",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

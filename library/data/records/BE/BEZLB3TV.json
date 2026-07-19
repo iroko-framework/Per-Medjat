@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "BEZLB3TV",
-    "version": 5017,
+    "version": 5307,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BEZLB3TV",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T22:59:57Z"
+    "dateModified": "2026-07-19T18:19:35Z"
   },
   "display": {
     "title": "Umbanda : religion and politics in urban Brazil",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -82,6 +84,11 @@
       "value": "Religion and Society in Latin America"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Book"
@@ -91,7 +98,13 @@
     "ttl": "/library/data/rdf/BE/BEZLB3TV.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

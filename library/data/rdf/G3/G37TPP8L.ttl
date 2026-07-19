@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/G37TPP8L>
+  a schema:Book ;
+  schema:name "Slaves in Paris: Hidden Lives and Fugitive Histories" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=G37TPP8L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:G37TPP8L" ;
+  schema:description "On enslaved people's hidden lives in Paris and the legal threshold between slavery and freedom in French history." ;
+  schema:author "Spieler, Miranda" ;
+  schema:datePublished "2025" ;
+  schema:publisher "Harvard University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85006514>, <http://id.loc.gov/authorities/subjects/sh85028479> .

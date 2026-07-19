@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "ENNBGWFM",
-    "version": 4879,
+    "version": 5302,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/ENNBGWFM",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:18:33Z"
   },
   "display": {
     "title": "Umbanda: entre a cruz e a encruzilhada",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -98,6 +100,11 @@
       "value": "Religion, Society, and Development"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Journal Article"
@@ -109,7 +116,13 @@
     "sameAs": [
       "https://doi.org/10.1590/ts.v5i1/2.84951"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

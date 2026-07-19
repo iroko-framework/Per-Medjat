@@ -1,0 +1,153 @@
+{
+  "key": "3FA78D8V",
+  "uri": "https://medjat.irokosociety.org/id/library/3FA78D8V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3FA78D8V",
+  "zotero": {
+    "group": "6479329",
+    "key": "3FA78D8V",
+    "version": 5356,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3FA78D8V",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Without Fear: Black Women and the Making of Human Rights",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Blain, Keisha"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "W.W. Norton",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On Black women's roles in shaping the modern human rights tradition.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "resistance"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "20th century United States",
+      "Access: Public",
+      "Afro-Atlantic",
+      "Black women's history",
+      "Slavery & Abolition Studies",
+      "human rights"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Blain, Keisha"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Without Fear: Black Women and the Making of Human Rights"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "W.W. Norton, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "20th century United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Black women's history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "human rights"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Resistance",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/3F/3FA78D8V.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      },
+      {
+        "label": "Resistance",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

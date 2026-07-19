@@ -1,0 +1,156 @@
+{
+  "key": "WVQE85MY",
+  "uri": "https://medjat.irokosociety.org/id/library/WVQE85MY",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=WVQE85MY",
+  "zotero": {
+    "group": "6479329",
+    "key": "WVQE85MY",
+    "version": 5395,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/WVQE85MY",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "...And the Dogs Were Silent = ...Et Les Chiens Se Taisaient",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Césaire, Aimé"
+      },
+      {
+        "role": "editor",
+        "name": "Gil, Alex"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Duke University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Bilingual critical edition, translated by Alex Gil, of Césaire's dramatic poem, with new biographical material.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Primary Source",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-caribbean"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Caribbean",
+      "Martinique",
+      "Negritude",
+      "Slavery & Abolition Studies",
+      "poetic drama"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Césaire, Aimé"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "...And the Dogs Were Silent = ...Et Les Chiens Se Taisaient"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Duke University Press, 2024."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Martinique"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Negritude"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "poetic drama"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Caribbean",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+    },
+    {
+      "field": "700",
+      "label": "Added entry - editor",
+      "value": "Gil, Alex"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Primary Source"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/WV/WVQE85MY.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Caribbean",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

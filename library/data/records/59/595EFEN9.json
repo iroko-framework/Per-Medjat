@@ -1,0 +1,141 @@
+{
+  "key": "595EFEN9",
+  "uri": "https://medjat.irokosociety.org/id/library/595EFEN9",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=595EFEN9",
+  "zotero": {
+    "group": "6479329",
+    "key": "595EFEN9",
+    "version": 5404,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/595EFEN9",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "The Rise and Fall of the Second American Republic: Reconstruction, 1860-1920",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Sinha, Manisha"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "Liveright",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Expansive history of Reconstruction, extended through 1920.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "post-abolition"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Reconstruction",
+      "Slavery & Abolition Studies",
+      "United States",
+      "political history"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Sinha, Manisha"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Rise and Fall of the Second American Republic: Reconstruction, 1860-1920"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Liveright, 2024."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Reconstruction"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "political history"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Post Abolition",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85106480"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/59/595EFEN9.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Post Abolition",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85106480"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

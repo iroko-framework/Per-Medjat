@@ -1,0 +1,159 @@
+{
+  "key": "R92TTSPR",
+  "uri": "https://medjat.irokosociety.org/id/library/R92TTSPR",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=R92TTSPR",
+  "zotero": {
+    "group": "6479329",
+    "key": "R92TTSPR",
+    "version": 5377,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/R92TTSPR",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Freedom Ship: The Uncharted History of Escaping Slavery by Sea",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Rediker, Marcus"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Viking",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "History of the long-overlooked maritime origins of the Underground Railroad and self-emancipation by sea.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "resistance"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Slavery & Abolition Studies",
+      "Underground Railroad",
+      "United States",
+      "escape and resistance",
+      "maritime history"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Rediker, Marcus"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Freedom Ship: The Uncharted History of Escaping Slavery by Sea"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Viking, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Underground Railroad"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "escape and resistance"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "maritime history"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Resistance",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/R9/R92TTSPR.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      },
+      {
+        "label": "Resistance",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

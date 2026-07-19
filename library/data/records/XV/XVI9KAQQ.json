@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "XVI9KAQQ",
-    "version": 4888,
+    "version": 5305,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XVI9KAQQ",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:19:12Z"
   },
   "display": {
     "title": "Kardecismo e Umbanda",
@@ -44,7 +44,10 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Syncretic/Creole",
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -92,6 +95,16 @@
       "value": "Religion and Society in Latin America"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Syncretic/Creole"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Journal Article"
@@ -103,7 +116,18 @@
     "sameAs": [
       "https://doi.org/10.11606/2179-0892.ra.1964.110743"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Syncretic/Creole",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
+      },
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

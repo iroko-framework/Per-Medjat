@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/WVQE85MY>
+  a schema:Book ;
+  schema:name "...And the Dogs Were Silent = ...Et Les Chiens Se Taisaient" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=WVQE85MY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:WVQE85MY" ;
+  schema:description "Bilingual critical edition, translated by Alex Gil, of Césaire's dramatic poem, with new biographical material." ;
+  schema:author "Césaire, Aimé" ;
+  schema:creator "Gil, Alex" ;
+  schema:datePublished "2024" ;
+  schema:publisher "Duke University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001635> .

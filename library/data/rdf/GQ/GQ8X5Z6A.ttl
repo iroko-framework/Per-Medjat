@@ -15,4 +15,5 @@
   schema:author "Renato Ortiz" ;
   schema:datePublished "1991" ;
   schema:publisher "Editora Brasiliense eBooks" ;
-  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Race, Identity, and Education in Brazil", "Religion and Society in Latin America", "Urban and sociocultural dynamics", "Central African traditions" .

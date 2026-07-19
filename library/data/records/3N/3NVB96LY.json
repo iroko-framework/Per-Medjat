@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "3NVB96LY",
-    "version": 4894,
+    "version": 5298,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3NVB96LY",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:16:44Z"
   },
   "display": {
     "title": "Umbanda and Africa",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -104,6 +106,11 @@
       "value": "Religion and Society Interactions"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Journal Article"
@@ -115,7 +122,13 @@
     "sameAs": [
       "https://doi.org/10.1525/nr.2012.15.4.13"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

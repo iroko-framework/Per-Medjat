@@ -16,4 +16,5 @@
   schema:author "Diana Brown" ;
   schema:datePublished "1986" ;
   schema:publisher "Columbia University Press eBooks" ;
-  dcterms:subject "Religion and Society in Latin America" .
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Religion and Society in Latin America", "Central African traditions" .

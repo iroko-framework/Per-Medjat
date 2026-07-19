@@ -1,0 +1,147 @@
+{
+  "key": "F73LE2MG",
+  "uri": "https://medjat.irokosociety.org/id/library/F73LE2MG",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=F73LE2MG",
+  "zotero": {
+    "group": "6479329",
+    "key": "F73LE2MG",
+    "version": 5380,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/F73LE2MG",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "The Bonds of Kinship in Dahomey: Portraits of West African Girlhood 1720-1940",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Reuther, Jessica"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Indiana University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "History of child dependency and girlhood in the coastal West African kingdom of Dahomey, 1720-1940.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "african-history"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Dahomey",
+      "Slavery & Abolition Studies",
+      "West Africa",
+      "gender history",
+      "girlhood"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Reuther, Jessica"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Bonds of Kinship in Dahomey: Portraits of West African Girlhood 1720-1940"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Indiana University Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Dahomey"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West Africa"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "gender history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "girlhood"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "African History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001546"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/F7/F73LE2MG.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "African History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001546"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

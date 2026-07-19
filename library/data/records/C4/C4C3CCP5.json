@@ -1,0 +1,153 @@
+{
+  "key": "C4C3CCP5",
+  "uri": "https://medjat.irokosociety.org/id/library/C4C3CCP5",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=C4C3CCP5",
+  "zotero": {
+    "group": "6479329",
+    "key": "C4C3CCP5",
+    "version": 5419,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/C4C3CCP5",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "The First and the Last King of Haiti: The Rise and Fall of Henry Christophe",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Daut, Marlene L."
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Penguin/Knopf",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Biography of Henry Christophe, the only king of Haiti.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-caribbean",
+      "resistance"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Haiti",
+      "Haitian Revolution",
+      "Slavery & Abolition Studies",
+      "biography"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Daut, Marlene L."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The First and the Last King of Haiti: The Rise and Fall of Henry Christophe"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Penguin/Knopf, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Haiti"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Haitian Revolution"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "biography"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Caribbean",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Resistance",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/C4/C4C3CCP5.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Caribbean",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001635"
+      },
+      {
+        "label": "Resistance",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

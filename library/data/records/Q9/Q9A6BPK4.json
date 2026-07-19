@@ -1,0 +1,165 @@
+{
+  "key": "Q9A6BPK4",
+  "uri": "https://medjat.irokosociety.org/id/library/Q9A6BPK4",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=Q9A6BPK4",
+  "zotero": {
+    "group": "6479329",
+    "key": "Q9A6BPK4",
+    "version": 5362,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/Q9A6BPK4",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "The Yoruba Are on a Rock: Recaptured Africans and the Orisas of Grenada",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "George, Shantel A."
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Cambridge University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Study of recaptured Africans and Orisa traditions in Grenada; described as an important \"infra-Atlantic\" case study of the wider Black Atlantic.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [
+      "West African traditions"
+    ],
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "slave-trade"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Community",
+      "Afro-Atlantic",
+      "Grenada",
+      "Orisa",
+      "Slavery & Abolition Studies",
+      "recaptured Africans"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "George, Shantel A."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Yoruba Are on a Rock: Recaptured Africans and the Orisas of Grenada"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Community"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Grenada"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Orisa"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "recaptured Africans"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West African traditions"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Slave Trade",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85123323"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/Q9/Q9A6BPK4.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "West African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african"
+      },
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      },
+      {
+        "label": "Slave Trade",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85123323"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

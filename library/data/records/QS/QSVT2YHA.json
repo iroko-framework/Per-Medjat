@@ -1,0 +1,147 @@
+{
+  "key": "QSVT2YHA",
+  "uri": "https://medjat.irokosociety.org/id/library/QSVT2YHA",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QSVT2YHA",
+  "zotero": {
+    "group": "6479329",
+    "key": "QSVT2YHA",
+    "version": 5389,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QSVT2YHA",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "The Driver's Story: Labor and Power in the World of Atlantic Slavery",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Browne, Randy"
+      }
+    ],
+    "year": "2024",
+    "date": "2024",
+    "publisher": "University of Pennsylvania Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "On enslaved plantation drivers and the nexus of race, power, and capitalism in the Atlantic world.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/best-books-2024/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Caribbean",
+      "Slavery & Abolition Studies",
+      "plantation labor",
+      "power and resistance",
+      "slave drivers"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Browne, Randy"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Driver's Story: Labor and Power in the World of Atlantic Slavery"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of Pennsylvania Press, 2024."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Caribbean"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "plantation labor"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "power and resistance"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "slave drivers"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/QS/QSVT2YHA.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

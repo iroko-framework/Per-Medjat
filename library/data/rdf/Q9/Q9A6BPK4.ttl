@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/Q9A6BPK4>
+  a schema:Book ;
+  schema:name "The Yoruba Are on a Rock: Recaptured Africans and the Orisas of Grenada" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=Q9A6BPK4> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:Q9A6BPK4" ;
+  schema:description "Study of recaptured Africans and Orisa traditions in Grenada; described as an important \"infra-Atlantic\" case study of the wider Black Atlantic." ;
+  schema:author "George, Shantel A." ;
+  schema:datePublished "2025" ;
+  schema:publisher "Cambridge University Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-west-african> .

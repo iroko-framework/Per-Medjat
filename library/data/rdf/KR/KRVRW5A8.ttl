@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/KRVRW5A8>
+  a schema:Book ;
+  schema:name "An Efficient Womanhood: Women and the Making of the Universal Negro Improvement Association" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=KRVRW5A8> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:KRVRW5A8" ;
+  schema:description "On how UNIA women organized and activated the association from the bottom up." ;
+  schema:author "Duncan, Natanya" ;
+  schema:datePublished "2025" ;
+  schema:publisher "University of North Carolina Press" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480>, <http://id.loc.gov/authorities/subjects/sh85113647> .

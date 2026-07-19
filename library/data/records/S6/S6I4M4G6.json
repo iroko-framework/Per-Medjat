@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "S6I4M4G6",
-    "version": 2446,
+    "version": 5152,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/S6I4M4G6",
     "dateAdded": "2026-05-20T01:05:48Z",
-    "dateModified": "2026-05-20T02:00:42Z"
+    "dateModified": "2026-07-19T18:01:37Z"
   },
   "display": {
-    "title": "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>",
+    "title": "African Gods and Catholic Saints in New World Negro Belief",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -72,7 +72,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "AFRICAN GODS AND CATHOLIC SAINTS IN NEW WORLD NEGRO BELIEF<sup>1</sup>"
+      "value": "African Gods and Catholic Saints in New World Negro Belief"
     },
     {
       "field": "264",

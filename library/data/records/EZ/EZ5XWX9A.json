@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "EZ5XWX9A",
-    "version": 4885,
+    "version": 5301,
     "itemType": "journalArticle",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/EZ5XWX9A",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T19:52:04Z"
+    "dateModified": "2026-07-19T18:18:12Z"
   },
   "display": {
     "title": "O Brasil com axé: candomblé e umbanda no mercado religioso",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Journal Article",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -92,6 +94,11 @@
       "value": "Religion and Society in Latin America"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Journal Article"
@@ -103,7 +110,13 @@
     "sameAs": [
       "https://doi.org/10.1590/s0103-40142004000300015"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

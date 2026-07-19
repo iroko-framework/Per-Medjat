@@ -15,4 +15,6 @@
   schema:creator "borges, dain", "isaia, artur cesar" ;
   schema:datePublished "1998" ;
   dcterms:language "Portuguese" ;
-  schema:inLanguage "pt" .
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african> ;
+  dcterms:subject "Central African traditions" .

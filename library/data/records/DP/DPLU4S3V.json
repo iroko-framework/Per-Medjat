@@ -1,0 +1,165 @@
+{
+  "key": "DPLU4S3V",
+  "uri": "https://medjat.irokosociety.org/id/library/DPLU4S3V",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DPLU4S3V",
+  "zotero": {
+    "group": "6479329",
+    "key": "DPLU4S3V",
+    "version": 5434,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DPLU4S3V",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "Pirate Imperialism: Trade, Abolition, and Global Suppression of Maritime Raiding, 1825-1870",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Barcia, Manuel"
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Yale University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "How the concept of \"pirate\" served imperial purposes in the global suppression of maritime raiding, 1825-1870.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "abolitionism",
+      "piracy"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Comparative",
+      "Slavery & Abolition Studies",
+      "abolition",
+      "global history",
+      "maritime history",
+      "piracy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Barcia, Manuel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Pirate Imperialism: Trade, Abolition, and Global Suppression of Maritime Raiding, 1825-1870"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Yale University Press, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Comparative"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "abolition"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "global history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "maritime history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "piracy"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Abolitionism",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85000512"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Piracy",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85099004"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/DP/DPLU4S3V.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Abolitionism",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85000512"
+      },
+      {
+        "label": "Piracy",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85099004"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

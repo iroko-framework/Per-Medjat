@@ -1,0 +1,147 @@
+{
+  "key": "QGY444ZQ",
+  "uri": "https://medjat.irokosociety.org/id/library/QGY444ZQ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=QGY444ZQ",
+  "zotero": {
+    "group": "6479329",
+    "key": "QGY444ZQ",
+    "version": 5446,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/QGY444ZQ",
+    "dateAdded": "2026-07-19T18:59:09Z",
+    "dateModified": "2026-07-19T18:59:09Z"
+  },
+  "display": {
+    "title": "Sweet Home Feliciana: Family, Slavery, and the Hauntings of History",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Johnson, Rashauna"
+      }
+    ],
+    "year": "2026",
+    "date": "2026",
+    "publisher": "Cambridge University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Traces Indigenous people, enslaved Black people, and their descendants across the Louisiana lands of Feliciana.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-2026/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Access: Public",
+      "Afro-Atlantic",
+      "Louisiana",
+      "Slavery & Abolition Studies",
+      "United States",
+      "family history",
+      "memory studies"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Johnson, Rashauna"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Sweet Home Feliciana: Family, Slavery, and the Hauntings of History"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Cambridge University Press, 2026."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Louisiana"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "United States"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "family history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "memory studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/QG/QGY444ZQ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

@@ -1,0 +1,19 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/3FA78D8V>
+  a schema:Book ;
+  schema:name "Without Fear: Black Women and the Making of Human Rights" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3FA78D8V> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3FA78D8V" ;
+  schema:description "On Black women's roles in shaping the modern human rights tradition." ;
+  schema:author "Blain, Keisha" ;
+  schema:datePublished "2025" ;
+  schema:publisher "W.W. Norton" ;
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85113647> .

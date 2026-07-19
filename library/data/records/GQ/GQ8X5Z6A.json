@@ -5,11 +5,11 @@
   "zotero": {
     "group": "6479329",
     "key": "GQ8X5Z6A",
-    "version": 4944,
+    "version": 5300,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/GQ8X5Z6A",
     "dateAdded": "2026-07-16T19:52:04Z",
-    "dateModified": "2026-07-16T22:58:13Z"
+    "dateModified": "2026-07-19T18:17:03Z"
   },
   "display": {
     "title": "A morte branca do feiticeiro negro : Umbanda e sociedade brasileira",
@@ -44,7 +44,9 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [],
+    "traditions": [
+      "Central African traditions"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -94,6 +96,11 @@
       "value": "Urban and sociocultural dynamics"
     },
     {
+      "field": "650",
+      "label": "Subject",
+      "value": "Central African traditions"
+    },
+    {
       "field": "655",
       "label": "Genre/Form",
       "value": "Book"
@@ -103,7 +110,13 @@
     "ttl": "/library/data/rdf/GQ/GQ8X5Z6A.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Central African traditions",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#region-central-african"
+      }
+    ],
     "authorityMappings": []
   }
 }

@@ -1,0 +1,159 @@
+{
+  "key": "7FU4VJRL",
+  "uri": "https://medjat.irokosociety.org/id/library/7FU4VJRL",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=7FU4VJRL",
+  "zotero": {
+    "group": "6479329",
+    "key": "7FU4VJRL",
+    "version": 5422,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/7FU4VJRL",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "Mutiny on the Black Prince: Slavery, Piracy, and the Limits of Liberty in the Revolutionary Atlantic World",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Sweet, James H."
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "Oxford University Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Story of a mutiny aboard an 18th-century British ship and its owners' use of Crown power to protect their investment.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "piracy",
+      "resistance"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "18th century",
+      "Access: Public",
+      "Afro-Atlantic",
+      "British Atlantic",
+      "Slavery & Abolition Studies",
+      "maritime history",
+      "piracy"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Sweet, James H."
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Mutiny on the Black Prince: Slavery, Piracy, and the Limits of Liberty in the Revolutionary Atlantic World"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Oxford University Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "18th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "British Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "maritime history"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "piracy"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Piracy",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85099004"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Resistance",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/7F/7FU4VJRL.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Piracy",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85099004"
+      },
+      {
+        "label": "Resistance",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85113647"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

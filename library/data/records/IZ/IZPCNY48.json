@@ -1,0 +1,165 @@
+{
+  "key": "IZPCNY48",
+  "uri": "https://medjat.irokosociety.org/id/library/IZPCNY48",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=IZPCNY48",
+  "zotero": {
+    "group": "6479329",
+    "key": "IZPCNY48",
+    "version": 5368,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/IZPCNY48",
+    "dateAdded": "2026-07-19T18:59:08Z",
+    "dateModified": "2026-07-19T18:59:08Z"
+  },
+  "display": {
+    "title": "The Heretic of Cacheu: Crispina Peres and the Struggle over Life in Seventeenth-Century West Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Green, Toby"
+      }
+    ],
+    "year": "2025",
+    "date": "2025",
+    "publisher": "University of Chicago Press",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "Global history of West Africa centered on Crispina Peres, a 17th-century woman in the Guinea-Bissau port of Cacheu.",
+    "doi": "",
+    "url": "https://www.slaveryarchive.com/10-best-books-2025/",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": ""
+  },
+  "publicTags": {
+    "recordType": "Monograph",
+    "traditions": [],
+    "themes": [],
+    "domains": [
+      "afro-atlantic-history",
+      "colonial-law"
+    ],
+    "connects": [],
+    "region": [],
+    "language": [],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "17th century",
+      "Access: Public",
+      "Afro-Atlantic",
+      "Guinea-Bissau",
+      "Slavery & Abolition Studies",
+      "West Africa",
+      "biography",
+      "gender and slavery"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Green, Toby"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "The Heretic of Cacheu: Crispina Peres and the Struggle over Life in Seventeenth-Century West Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "University of Chicago Press, 2025."
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "17th century"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Access: Public"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Afro-Atlantic"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Guinea-Bissau"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Slavery & Abolition Studies"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "West Africa"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "biography"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "gender and slavery"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Afro Atlantic History",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+    },
+    {
+      "field": "650",
+      "label": "Subject (Research Domain)",
+      "value": "Colonial Law",
+      "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Monograph"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/IZ/IZPCNY48.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Afro Atlantic History",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85001657"
+      },
+      {
+        "label": "Colonial Law",
+        "type": "Research Domain",
+        "uri": "http://id.loc.gov/authorities/subjects/sh85028479"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

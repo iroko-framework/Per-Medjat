@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/CZY9TH7X>
   a schema:ScholarlyArticle ;
-  schema:name "La cultura musical Ndowe en el tránsito esclavista del Atlántico. Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial / Ndowe Musical cultura in the Atlantic slave trade. Influence on Cuban society Abakuá and return..." ;
+  schema:name "La Cultura Musical Ndowe En El Tránsito Esclavista Del Atlántico. Influencia En La Sociedad Cubana Abakuá Y De Vuelta a África, En Guinea Ecuatorial / Ndowe Musical Cultura in the Atlantic Slave Trade. Influence on Cuban Society Abakuá and Return to Africa in Equatorial Guinea" ;
   schema:url <https://medjat.irokosociety.org/library/?item=CZY9TH7X> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:CZY9TH7X" ;
@@ -16,4 +16,4 @@
   schema:author "Isabela de Aranzadi" ;
   schema:datePublished "2014" ;
   schema:publisher "Coloquios de Historia Canario Americana" ;
-  dcterms:subject "Cuban History and Society", "Hispanic-African Historical Relations" .
+  dcterms:subject "Cuban History and Society", "Hispanic-African Historical Relations", "Media, Journalism, and Communication History", "Spanish Literature and Culture Studies" .

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T19:14:50Z",
-  "count": 679,
+  "generatedAt": "2026-07-19T21:23:52Z",
+  "count": 644,
   "records": [
     {
       "key": "IGBCQ3B7",
@@ -545,56 +545,6 @@
       ]
     },
     {
-      "key": "YFVJVVNN",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Alan West-Durán"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "\"Don't Mess with the Saints\": Popular Music and Afro-Cuban Religion"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Florida International University Digital Commons (Florida International University), 2018."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Music"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Abakua"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Lucumí"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Palo"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "XDU3XS8A",
       "marc": [
         {
@@ -725,6 +675,56 @@
       ]
     },
     {
+      "key": "YFVJVVNN",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Alan West-Durán"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Don't Mess with the Saints: Popular Music and Afro-Cuban Religion"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Florida International University Digital Commons (Florida International University), 2018."
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Music"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Abakua"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Lucumí"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Palo"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
       "key": "R4PJDIL3",
       "marc": [
         {
@@ -835,7 +835,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "\"Good For Rosetta\" : The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855"
+          "value": "Good For Rosetta: The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855"
         },
         {
           "field": "264",
@@ -951,56 +951,6 @@
           "field": "700",
           "label": "Added entry - editor",
           "value": "Giles Mohan"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "98XXK97S",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Alfredo Mederos Martín"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "La sepultura de Belmeque (Beja, Bajo Alentejo). Contactos con el Egeo durante el Bronce Final I del suroeste de la Península Ibérica (1625-1425 AC)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Veleia, 2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "235-264 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1387/veleia.1442"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Geological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Historical Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeology and ancient environmental studies"
         },
         {
           "field": "655",
@@ -1366,46 +1316,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Legal Issues in South Africa"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "4K3LQ5TG",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Andreas Nygaard"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "High-Level Control System for Remote Controlled Surgical Robots: Haptic Guidance of Surgical Robot"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "BIBSYS Brage (BIBSYS (Norway)), 2008."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Intraoperative Neuromonitoring and Anesthetic Effects"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Soft Robotics and Applications"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Surgical Simulation and Training"
         },
         {
           "field": "655",
@@ -1965,7 +1875,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "\"For All Such, a Country is Provided\": Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841"
+          "value": "For All Such, a Country is Provided: Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841"
         },
         {
           "field": "264",
@@ -2045,7 +1955,7 @@
       ]
     },
     {
-      "key": "U7AHQGET",
+      "key": "979Y7KPQ",
       "marc": [
         {
           "field": "100",
@@ -2060,7 +1970,12 @@
         {
           "field": "264",
           "label": "Published",
-          "value": "University of Chicago Press, 2024."
+          "value": "Chicago: University of Chicago Press, 2024."
+        },
+        {
+          "field": "020",
+          "label": "ISBN",
+          "value": "978-0-226-77158-8"
         },
         {
           "field": "650",
@@ -2090,6 +2005,11 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Slavery -- Atlantic Ocean Region -- History"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "comparative history"
         },
         {
@@ -2108,41 +2028,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Monograph"
-        }
-      ]
-    },
-    {
-      "key": "979Y7KPQ",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Araujo, Ana Lucia"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Humans in shackles: an Atlantic history of slavery"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Chicago: University of Chicago Press, 2024."
-        },
-        {
-          "field": "020",
-          "label": "ISBN",
-          "value": "978-0-226-77158-8"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Slavery -- Atlantic Ocean Region -- History"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
         }
       ]
     },
@@ -2390,7 +2275,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE"
+          "value": "Human Right Violations in 12 Years a Slave"
         },
         {
           "field": "264",
@@ -2919,7 +2804,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba"
+          "value": "If a Woman Knows Cult Secret, She Must Never Tell: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba"
         },
         {
           "field": "264",
@@ -4370,7 +4255,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros"
+          "value": "A Caracterização Do Trabalho Análogo Ao Escravo Na Jurisprudência Dos Tribunais Brasileiros"
         },
         {
           "field": "264",
@@ -4575,46 +4460,6 @@
       ]
     },
     {
-      "key": "GNJEMSVS",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Carlos Gershenson"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Design and Control of Self-organizing Systems"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "CogPrints (University of Southampton), 2007."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Complex Systems and Decision Making"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Computability, Logic, AI Algorithms"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Slime Mold and Myxomycetes Research"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "33TPMQJM",
       "marc": [
         {
@@ -4686,46 +4531,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "IF8PVC2B",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Carmelo Lisón Tolosana"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Una comunidad en busca de definición"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Revista de Estudios Agrosociales, 1976."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "7-24 p."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical and socio-economic studies of Spain and related regions"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Urbanism, Landscape, and Tourism Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -5142,46 +4947,6 @@
       ]
     },
     {
-      "key": "MJDSQJEH",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Cecília Whitaker Bergamini"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Os bruxos da administração: como entender a babel dos gurus empresariais"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Revista de Administração de Empresas, 1998."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "77-79 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1590/s0034-75901998000300009"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Business and Management Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "ZJCM6CKX",
       "marc": [
         {
@@ -5448,41 +5213,6 @@
           "field": "650",
           "label": "Subject",
           "value": "American Constitutional Law and Politics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "UQF7LRY6",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Chengming Luo"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Automatic Guidance of Agricultural Wide-Span Implement Carrier (WSIC)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "uO Research (University of Ottawa), 2017."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.20381/ruor-21308"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Smart Agriculture and AI"
         },
         {
           "field": "655",
@@ -6022,61 +5752,6 @@
       ]
     },
     {
-      "key": "GV95RVWP",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Constanza Rodríguez Segovia"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Estudio y restauración de un casco griego del museo de Málaga"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "PH. Boletín del Instituto Andaluza del Patrimonio Histórico/PH/PH. Boletín del Instituto Andaluz del Patrimonio Histórico/Boletín informativo - Instituto Andaluz del Patrimonio Histórico, 2015."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "128-128 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.33349/2015.0.3647"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Historical Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Studies of Medieval Iberia"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Maritime and Coastal Archaeology"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Esther Núñez Pariente de León"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "QNVHRKME",
       "marc": [
         {
@@ -6108,96 +5783,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Urban Planning and Governance"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "ECL8HDP9",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Corina Liesau"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "MATERIAS PRIMAS Y OBJETOS DE PRESTIGIO EN AJUARES FUNERARIOS COMO TESTIMONIOS DE REDES DE INTERCAMBIO EN EL HORIZONTE CAMPANIFORME"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid, 2012."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.15366/cupauam2012.38.010"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Geological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Historical Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeology and Cultural Heritage"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Concepción Blasco"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "D5437JIQ",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Craig Goodwillie"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Bewhoherenow : philosophy of existing sense : a thesis presented in partial fulfilment of the requirements for the degree of Ph. D. in Social Policy and Social Work at Massey University"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "1995."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Ontology"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Philosophy"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Theological Perspectives and Practices"
         },
         {
           "field": "655",
@@ -7415,7 +7000,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "The right to petition for redress of grievances: constitutional development and interpretations."
+          "value": "The Right to Petition for Redress of Grievances: Constitutional Development and Interpretations"
         },
         {
           "field": "264",
@@ -8072,7 +7657,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "“I Got Voodoo, I Got Hoodoo”: Ethnography and Its Objects in Disney’sthe Princess and the Frog"
+          "value": "I Got Voodoo, I Got Hoodoo: Ethnography and Its Objects in Disney’sthe Princess and the Frog"
         },
         {
           "field": "264",
@@ -8277,51 +7862,6 @@
       ]
     },
     {
-      "key": "UF5XH666",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Enora Gault"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "EL HOMBRE Y EL ANIMAL EN LA COLOMBIA PREHISPÁNICA: ESTUDIO DE UNA RELACIÓN EN LA ORFEBRERÍA"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Boletín del Museo Chileno de Arte Precolombino, 2012."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "11-30 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.4067/s0718-68942012000100002"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cultural and Mythological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Literary and Cultural Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "33W6BYLK",
       "marc": [
         {
@@ -8402,7 +7942,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY"
+          "value": "Ekpu-Oro: Studies in Oron Cosmology and Cultural History"
         },
         {
           "field": "264",
@@ -8683,41 +8223,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Social and Political Issues"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "23BLQAQA",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Felix Wolf"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Automatic Performance Analysis on Parallel Computers with SMP Nodes"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "JuSER (Forschungszentrum Jülich), 2003."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cloud Computing and Resource Management"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Distributed and Parallel Computing Systems"
         },
         {
           "field": "655",
@@ -9827,7 +9332,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "WHAT GOD HATH WROUGHT: THE EMBODIMENT OF FREEDOM IN THE THIRTEENTH AMENDMENT"
+          "value": "What God Hath Wrought: The Embodiment of Freedom in the Thirteenth Amendment"
         },
         {
           "field": "264",
@@ -12618,7 +12123,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "La cultura musical Ndowe en el tránsito esclavista del Atlántico. Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial / Ndowe Musical cultura in the Atlantic slave trade. Influence on Cuban society Abakuá and return..."
+          "value": "La Cultura Musical Ndowe En El Tránsito Esclavista Del Atlántico. Influencia En La Sociedad Cubana Abakuá Y De Vuelta a África, En Guinea Ecuatorial / Ndowe Musical Cultura in the Atlantic Slave Trade. Influence on Cuban Society Abakuá and Return to Africa in Equatorial Guinea"
         },
         {
           "field": "264",
@@ -12629,36 +12134,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Cuban History and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Hispanic-African Historical Relations"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "RKEV68GA",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Isabela de Aranzadi"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "LA CULTURA MUSICAL NDOWE EN EL TRÁNSITO ESCLAVISTA DEL ATLÁNTICO. INFLUENCIA EN LA SOCIEDAD CUBANA ABAKUÁ Y DE VUELTA A ÁFRICA, EN GUINEA ECUATORIAL NDOWE MUSICAL CULTURE IN THE ATLANTIC SLAVE TRADE. INFLUENCE ON CUBAN SOCIETY ABAKUÁ AND RETURN TO AFRICA IN EQUATORIAL GUINEA"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2016."
         },
         {
           "field": "650",
@@ -12683,41 +12158,6 @@
       ]
     },
     {
-      "key": "G467Q3IC",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Isabela de Aranzadi"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "La cultura musical Ndowe en el tránsito esclavista del Atlántico.: Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Dialnet (Universidad de la Rioja), 2016."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "93 p."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Hispanic-African Historical Relations"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "93PUVSID",
       "marc": [
         {
@@ -12728,47 +12168,12 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro"
+          "value": "Los Tambores Ñáñigos En El Museo Nacional (Madrid). La Sociedad Cubana Secreta Abakuá Y Las Trayectoriasen El Atlántico Negro"
         },
         {
           "field": "264",
           "label": "Published",
-          "value": "2015."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Spanish Literature and Culture Studies"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "IAIZRMIP",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Isabela de Aranzadi"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Los tambores ñáñigos en el Museo Nacional de Antropología (Madrid): la sociedad cubana secreta Abakuá y las trayectorias en el Atlántico negro"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Anales del Museo Nacional de Antropología, 2015."
+          "value": "Ministerio de Educación Cultura y Deporte (España), 2015."
         },
         {
           "field": "300",
@@ -12783,7 +12188,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Hispanic-African Historical Relations"
+          "value": "Spanish Literature and Culture Studies"
         },
         {
           "field": "655",
@@ -12958,256 +12363,6 @@
       ]
     },
     {
-      "key": "5JRTNG8Z",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ivor L. Miller"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ". Arrival"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "37-65 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.14325/mississippi/9781934110836.003.0002"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "M93AUQIH",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ivor L. Miller"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ". Conclusions"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "175-178 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.14325/mississippi/9781934110836.003.0009"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Colonialism, slavery, and trade"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Studies in Central America"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "9HMVLEJZ",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ivor L. Miller"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ". Disintegration of the Spanish Empire"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "140-152 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.14325/mississippi/9781934110836.003.0007"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "V8LYB2MK",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ivor L. Miller"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ". Dispersal"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "119-139 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.14325/mississippi/9781934110836.003.0006"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Colonialism, slavery, and trade"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "LDADYYKY",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ivor L. Miller"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ". Havana Is the Key"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "153-174 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.14325/mississippi/9781934110836.003.0008"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
-      "key": "75F4QC2L",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Ivor L. Miller"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": ". Planting Abakuá in Cuba, 1830s to 1860s"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2009."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "89-102 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.14325/mississippi/9781934110836.003.0004"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
       "key": "QNUU9ZMT",
       "marc": [
         {
@@ -13318,6 +12473,46 @@
       ]
     },
     {
+      "key": "5JRTNG8Z",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ivor L. Miller"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Arrival"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "37-65 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.14325/mississippi/9781934110836.003.0002"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book Chapter"
+        }
+      ]
+    },
+    {
       "key": "IDEDRSSK",
       "marc": [
         {
@@ -13364,6 +12559,56 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "M93AUQIH",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ivor L. Miller"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Conclusions"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "175-178 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.14325/mississippi/9781934110836.003.0009"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Colonialism, slavery, and trade"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Historical Studies in Central America"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book Chapter"
         }
       ]
     },
@@ -13468,6 +12713,86 @@
       ]
     },
     {
+      "key": "9HMVLEJZ",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ivor L. Miller"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Disintegration of the Spanish Empire"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "140-152 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.14325/mississippi/9781934110836.003.0007"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book Chapter"
+        }
+      ]
+    },
+    {
+      "key": "V8LYB2MK",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ivor L. Miller"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Dispersal"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "119-139 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.14325/mississippi/9781934110836.003.0006"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Colonialism, slavery, and trade"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book Chapter"
+        }
+      ]
+    },
+    {
       "key": "FEH9BKW7",
       "marc": [
         {
@@ -13518,6 +12843,46 @@
       ]
     },
     {
+      "key": "LDADYYKY",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ivor L. Miller"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Havana Is the Key"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "153-174 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.14325/mississippi/9781934110836.003.0008"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book Chapter"
+        }
+      ]
+    },
+    {
       "key": "A459C3DY",
       "marc": [
         {
@@ -13549,6 +12914,46 @@
           "field": "650",
           "label": "Subject",
           "value": "African history and culture studies"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book Chapter"
+        }
+      ]
+    },
+    {
+      "key": "75F4QC2L",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Ivor L. Miller"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Planting Abakuá in Cuba, 1830s to 1860s"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "2009."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "89-102 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "10.14325/mississippi/9781934110836.003.0004"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
         },
         {
           "field": "655",
@@ -13698,51 +13103,6 @@
       ]
     },
     {
-      "key": "KZ5CK3A5",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "J. Hendrison"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Damage-controlled logging in managed tropical rain forest in Suriname"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "1990."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.18174/202887"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Agriculture and Rural Development Research"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Forest Biomass Utilization and Management"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Forest Management and Policy"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "368TY97R",
       "marc": [
         {
@@ -13769,46 +13129,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Biblical Studies and Interpretation"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "3VGMGNZV",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Jack Ogden"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Gold jewellery in Ptolemaic, Roman and Byzantine Egypt"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Durham e-Theses (Durham University), 1990."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Law, logistics, and international trade"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Maritime and Coastal Archaeology"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Metallurgy and Cultural Artifacts"
         },
         {
           "field": "655",
@@ -14253,61 +13573,6 @@
       ]
     },
     {
-      "key": "5JA7MW82",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Javier Carrasco Rus"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Fíbula de codo tipo Huelva en el entorno norte de la Vega de Granada"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla, 2001."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "235-248 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.12795/spal.2001.i10.16"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Geological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Historical Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Studies of Medieval Iberia"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Juan Antonio Pachón Romero"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "5ASHK9SK",
       "marc": [
         {
@@ -14493,7 +13758,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "\"And Be It So Enacted\": Natural Law and Southern Federalism in the Fugitive Slave Controversy"
+          "value": "And Be It So Enacted: Natural Law and Southern Federalism in the Fugitive Slave Controversy"
         },
         {
           "field": "264",
@@ -14928,7 +14193,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "LAS RELIGIONES POPULARES CUBANAS: BREVES COMENTARIOS A MEDIO SIGLO"
+          "value": "Las Religiones Populares Cubanas: Breves Comentarios a Medio Siglo"
         },
         {
           "field": "264",
@@ -15620,41 +14885,6 @@
       ]
     },
     {
-      "key": "6AUVH3WM",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Jordi Artigas Esclusa"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Time domain passivity control for delayed teleoperation"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2014."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.20868/upm.thesis.33677"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Teleoperation and Haptic Systems"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "P8G69BBI",
       "marc": [
         {
@@ -16271,61 +15501,6 @@
           "field": "700",
           "label": "Added entry - editor",
           "value": "Katerina Kerestetzi"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "GMKJBA5V",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Julio César Sierra Palomino"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Estudio tecnológico de las estatuillas antropomorfas y de los tupus miniatura del hallazgo de Paucartambo (Cusco, Perú)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Bulletin de l’Institut français d’études andines, 2017."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "151-170 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.4000/bifea.8387"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeology and ancient environmental studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Conservation Techniques and Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cultural Heritage Materials Analysis"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "María Filomena Guerra"
         },
         {
           "field": "655",
@@ -17305,56 +16480,6 @@
       ]
     },
     {
-      "key": "VDSL6DP6",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Krista De Jonge"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "El legado de Borgoña. Fiesta y ceremonia cortesana en la Europa de los Austrias (1454-1648)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Medical Entomology and Zoology, 2010."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Historical Influence and Diplomacy"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Medieval and Early Modern Iberia"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Spanish Literature and Culture Studies"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - series editor",
-          "value": "Bernardo José García García"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - series editor",
-          "value": "Alicia Esteban Estríngana"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book"
-        }
-      ]
-    },
-    {
       "key": "IXYVLFVG",
       "marc": [
         {
@@ -17531,51 +16656,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "ZRD9RY6U",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Lale Canan Tokuz"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Hybrid machine modelling and control."
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Liverpool John Moores University, 2016."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.24377/ljmu.t.00005039"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Control and Stability of Dynamical Systems"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Modeling and Simulation Systems"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Robotic Mechanisms and Dynamics"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
         }
       ]
     },
@@ -17916,7 +16996,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez"
+          "value": "La Revolución La Hicieron Los Hombres, Los Machos: La Remise En Cause Du Machisme Dans De Cierta Manera (1974-1977), De Sara Gómez"
         },
         {
           "field": "264",
@@ -18788,51 +17868,6 @@
       ]
     },
     {
-      "key": "SHNDVPPA",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Lizabeth Paravisini-Gebert"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Creole Religions of the Caribbean"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "New York University Press eBooks, 2020."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.18574/nyu/9780814728253.001.0001"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Caribbean history, culture, and politics"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Colonialism, slavery, and trade"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - series editor",
-          "value": "Margarite Fernández Olmos"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book"
-        }
-      ]
-    },
-    {
       "key": "47QEDXTV",
       "marc": [
         {
@@ -19109,46 +18144,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Palo"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "KSW5LHZ6",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Luiz Costa Lima"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Sob a face de um bruxo"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "REEL - Revista Eletrônica de Estudos Literários, 2009."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cultural, Media, and Literary Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Linguistics and Education Research"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Literature, Culture, and Criticism"
         },
         {
           "field": "655",
@@ -19588,46 +18583,6 @@
       ]
     },
     {
-      "key": "8FFBBF5Q",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Maia Sheppard"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Difficult Histories in an urban classroom"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "University of Minnesota Digital Conservancy (University of Minnesota), 2010."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cultural Identity and Representation"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Educator Training and Historical Pedagogy"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Oral History, Memory, Narrative Analysis"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "UT45G3N7",
       "marc": [
         {
@@ -19748,46 +18703,6 @@
       ]
     },
     {
-      "key": "8B8BQG98",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Marc A. Abramiuk"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Retrospective Analysis Within a Counterpoint Framework"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2023."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "981-1004 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1093/oxfordhb/9780192895950.013.39"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Categorization, perception, and language"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
       "key": "MIKPTKW7",
       "marc": [
         {
@@ -19873,7 +18788,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "TESTEMUNHA OCULAR DA INSERÇÃO DO NEGRO NA BRIGADA MILITAR DO RIO GRANDE DO SUL NO COMEÇO DA REPÚBLICA ATRAVÉS DAS FOTOGRAFIAS"
+          "value": "Testemunha Ocular Da Inserção Do Negro Na Brigada Militar Do Rio Grande Do Sul No Começo Da República Através Das Fotografias"
         },
         {
           "field": "264",
@@ -20143,7 +19058,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "Creole Religions of the Caribbean, Third"
+          "value": "Creole Religions of the Caribbean, Third Edition"
         },
         {
           "field": "264",
@@ -20179,6 +19094,11 @@
           "field": "650",
           "label": "Subject",
           "value": "Caribbean history, culture, and politics"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Colonialism, slavery, and trade"
         },
         {
           "field": "650",
@@ -20242,52 +19162,7 @@
         },
         {
           "field": "700",
-          "label": "Added entry - series editor",
-          "value": "Lizabeth Paravisini-Gebert"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book"
-        }
-      ]
-    },
-    {
-      "key": "5MUHAQXL",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Margarite Fernández Olmos"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Creole Religions of the Caribbean, Third Edition"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "New York University Press eBooks, 2022."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.18574/nyu/9781479803538.001.0001"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Caribbean history, culture, and politics"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Colonialism, slavery, and trade"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - series editor",
+          "label": "Added entry",
           "value": "Lizabeth Paravisini-Gebert"
         },
         {
@@ -20434,76 +19309,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "4ALQ6SUU",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Maria Oliva Rodríguez‐Ariza"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Estudio de un conjunto de anillos votivos del santuario periurbano de Tútugi (Cerro del Castillo, Galera, Granada)"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Archivo Español de Arqueología, 2024."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "716-716 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3989/aespa.097.024.716"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Geological Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeological and Historical Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Medieval Architecture and Archaeology"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Ignacio Montero Ruíz"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Carmen Rueda Galán"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Paloma Muriel López"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Eva Montes Moya"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -20768,7 +19573,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "FROM MORAL CONDEMNATION TO ECONOMIC STRATEGIES: REFRAMING THE END OF THE BRITISH TRANSATLANTIC SLAVE TRADE"
+          "value": "From Moral Condemnation to Economic Strategies: Reframing the End of the British Transatlantic Slave Trade"
         },
         {
           "field": "264",
@@ -22243,7 +21048,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)"
+          "value": "Oro De Los Señores: La Tumba 11 De La Isla De Tilcara (jujuy, Noroeste Argentino)"
         },
         {
           "field": "264",
@@ -22398,7 +21203,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "ENGENDERED EXPERIENCES OF FREEDOM: LIBERATED AFRICAN WOMEN IN RIO DE JANEIRO, 1834-1864"
+          "value": "Engendered Experiences of Freedom: Liberated African Women in Rio De Janeiro, 1834-1864"
         },
         {
           "field": "264",
@@ -23096,41 +21901,6 @@
           "field": "650",
           "label": "Subject",
           "value": "Agriculture and Rural Development Research"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "NESNS4AE",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "O ̣Ajíbóyè"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "APETUNPE ORO-ORUKO AJEMOSOYE ALAINIGBEDEKE LEDE YORUBA"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2010."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cancer and Skin Lesions"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Power Systems and Technologies"
         },
         {
           "field": "655",
@@ -24912,41 +23682,6 @@
       ]
     },
     {
-      "key": "RITSFVWB",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Pablo Gamboa Hinestrosa"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "El tesoro de los Quimbayas, un siglo después"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Ensayos Historia y Teoría del Arte, 1998."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "211-234 p."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Archaeology and Cultural Heritage"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
       "key": "L7S557A4",
       "marc": [
         {
@@ -25172,7 +23907,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "A collection of discrete essays with the common theme of gender and slavery at the Cape of Good Hope with a focus on the 1820s"
+          "value": "A Collection of Discrete Essays with the Common Theme of Gender and Slavery at the Cape of Good Hope with a Focus on the 1820s"
         },
         {
           "field": "264",
@@ -25552,41 +24287,6 @@
       ]
     },
     {
-      "key": "ADVNCCMY",
-      "marc": [
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Planting Abakuá in Cuba, 1830s to 1860s"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "2010."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "89-102 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.2307/jj.14962461.9"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Book Chapter"
-        }
-      ]
-    },
-    {
       "key": "VZFK8YQ5",
       "marc": [
         {
@@ -25693,6 +24393,16 @@
           "field": "020",
           "label": "ISBN",
           "value": "978-1-4389-8097-3"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Botanical"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Ritual"
         },
         {
           "field": "650",
@@ -27797,46 +26507,6 @@
       ]
     },
     {
-      "key": "V4ZK7HFG",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Shafina Sultana"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Simulation Based Analysis of Kinematics, Dynamics and Control of Space Robots"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia), 1996."
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Modular Robots and Swarm Intelligence"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Soft Robotics and Applications"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Space Satellite Systems and Control"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "5MGY4HKR",
       "marc": [
         {
@@ -28390,7 +27060,7 @@
         {
           "field": "245",
           "label": "Title",
-          "value": "'Remembered in the Body': Disability and Slavery in England and the Caribbean 1500-1834"
+          "value": "Remembered in the Body: Disability and Slavery in England and the Caribbean 1500-1834"
         },
         {
           "field": "264",
@@ -28416,106 +27086,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "XML4S93P",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Stephan Palmié"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2005."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "219-228 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1163/22134360-90002506"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Latin American and Latino Studies"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Elizabeth Pérez‐Hernández"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
-        }
-      ]
-    },
-    {
-      "key": "48BX3N9R",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Stephan Palmié"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2008."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "219-228 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.1163/13822373-90002506"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Cuban History and Society"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Latin American and Latino Studies"
-        },
-        {
-          "field": "700",
-          "label": "Added entry - editor",
-          "value": "Elizabeth Pérez"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     },
@@ -28561,6 +27131,61 @@
           "field": "650",
           "label": "Subject",
           "value": "Colonialism, slavery, and trade"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "48BX3N9R",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Stephan Palmié"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "New West Indian Guide / Nieuwe West-Indische Gids, 2005."
+        },
+        {
+          "field": "300",
+          "label": "Extent",
+          "value": "219-228 p."
+        },
+        {
+          "field": "024",
+          "label": "DOI",
+          "value": "https://doi.org/10.1163/22134360-90002506"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuban History and Society"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Latin American and Latino Studies"
+        },
+        {
+          "field": "700",
+          "label": "Added entry",
+          "value": "Elizabeth Pérez"
+        },
+        {
+          "field": "700",
+          "label": "Added entry - editor",
+          "value": "R.M.A.L. Hoefte"
         },
         {
           "field": "655",
@@ -29487,51 +28112,6 @@
       ]
     },
     {
-      "key": "DIFGXY9H",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Theresa A. Ferguson"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Productivity and predictability of resource yield: aboriginal controlled burning in the boreal forest"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "AUSpace (Athabasca University), 1979."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.7939/r35m62h5v"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Ecology and Vegetation Dynamics Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Forest ecology and management"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Rangeland and Wildlife Management"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
       "key": "RS5FLDPY",
       "marc": [
         {
@@ -30164,7 +28744,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Rituals"
+          "value": "Ritual"
         },
         {
           "field": "650",
@@ -31065,56 +29645,6 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
-        }
-      ]
-    },
-    {
-      "key": "W4MPAP4L",
-      "marc": [
-        {
-          "field": "100",
-          "label": "Author",
-          "value": "Љупчо Ристески"
-        },
-        {
-          "field": "245",
-          "label": "Title",
-          "value": "Posmrtno oro vo tradiciite na balkanskite Sloveni<br>Posthumous Ritual Dance - <em>Oro</em> - in the Traditions of Balkan Slavs</br>"
-        },
-        {
-          "field": "264",
-          "label": "Published",
-          "value": "Studia mythologica Slavica, 2015."
-        },
-        {
-          "field": "300",
-          "label": "Extent",
-          "value": "133-148 p."
-        },
-        {
-          "field": "024",
-          "label": "DOI",
-          "value": "10.3986/sms.v3i0.1832"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Folklore, Mythology, and Literature Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Linguistics and Cultural Studies"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Linguistics and language evolution"
-        },
-        {
-          "field": "655",
-          "label": "Genre/Form",
-          "value": "Journal Article"
         }
       ]
     }

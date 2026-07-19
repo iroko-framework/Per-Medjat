@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/9HMVLEJZ>
   a schema:Chapter ;
-  schema:name ". Disintegration of the Spanish Empire" ;
+  schema:name "Disintegration of the Spanish Empire" ;
   schema:url <https://medjat.irokosociety.org/library/?item=9HMVLEJZ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:9HMVLEJZ" ;

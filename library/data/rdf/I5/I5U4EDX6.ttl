@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/I5U4EDX6>
   a schema:ScholarlyArticle ;
-  schema:name "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY" ;
+  schema:name "Ekpu-Oro: Studies in Oron Cosmology and Cultural History" ;
   schema:url <https://medjat.irokosociety.org/library/?item=I5U4EDX6> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:I5U4EDX6" ;

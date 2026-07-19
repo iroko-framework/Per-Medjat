@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/F6VLU65S>
   a schema:Thesis ;
-  schema:name "FROM MORAL CONDEMNATION TO ECONOMIC STRATEGIES: REFRAMING THE END OF THE BRITISH TRANSATLANTIC SLAVE TRADE" ;
+  schema:name "From Moral Condemnation to Economic Strategies: Reframing the End of the British Transatlantic Slave Trade" ;
   schema:url <https://medjat.irokosociety.org/library/?item=F6VLU65S> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:F6VLU65S" ;

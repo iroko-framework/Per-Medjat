@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/TZHY8FUB>
   a schema:Thesis ;
-  schema:name "TESTEMUNHA OCULAR DA INSERÇÃO DO NEGRO NA BRIGADA MILITAR DO RIO GRANDE DO SUL NO COMEÇO DA REPÚBLICA ATRAVÉS DAS FOTOGRAFIAS" ;
+  schema:name "Testemunha Ocular Da Inserção Do Negro Na Brigada Militar Do Rio Grande Do Sul No Começo Da República Através Das Fotografias" ;
   schema:url <https://medjat.irokosociety.org/library/?item=TZHY8FUB> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:TZHY8FUB" ;

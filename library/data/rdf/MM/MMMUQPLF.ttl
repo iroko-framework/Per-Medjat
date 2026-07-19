@@ -18,4 +18,4 @@
   schema:publisher "AuthorHouse" ;
   dcterms:identifier "isbn:978-1-4389-8097-3" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
-  dcterms:subject "Ewe Database Source", "Abakua", "Lucumí", "Palo Mayombe", "Palo Monte" .
+  dcterms:subject "Botanical", "Ritual", "Ewe Database Source", "Abakua", "Lucumí", "Palo Mayombe", "Palo Monte" .

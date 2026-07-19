@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/URNK85UG>
   a schema:Thesis ;
-  schema:name "'Remembered in the Body': Disability and Slavery in England and the Caribbean 1500-1834" ;
+  schema:name "Remembered in the Body: Disability and Slavery in England and the Caribbean 1500-1834" ;
   schema:url <https://medjat.irokosociety.org/library/?item=URNK85UG> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:URNK85UG" ;

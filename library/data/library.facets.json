@@ -2,19 +2,19 @@
   "recordTypes": {
     "thesis": {
       "label": "Thesis / Dissertation",
-      "count": 280
+      "count": 268
     },
     "journalArticle": {
       "label": "Journal Article",
-      "count": 230
+      "count": 213
     },
     "book": {
       "label": "Anthology",
-      "count": 121
+      "count": 118
     },
     "bookSection": {
       "label": "Book Chapter",
-      "count": 40
+      "count": 37
     },
     "document": {
       "label": "Document",
@@ -32,7 +32,7 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 618
+      "count": 583
     },
     "Umbanda": 19,
     "Lucumí": 10,
@@ -63,20 +63,19 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 665
+      "count": 629
     },
+    "Ritual": 4,
     "Material Culture": 3,
     "Secret Society": 3,
+    "Botanical": 2,
     "Lineage": 2,
-    "Music": 2,
-    "Ritual": 2,
-    "Botanical": 1,
-    "Rituals": 1
+    "Music": 2
   },
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 638
+      "count": 603
     },
     "afro-atlantic-history": 10,
     "resistance": 10,
@@ -96,7 +95,7 @@
   "language": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 626
+      "count": 591
     },
     "Spanish": 15,
     "English": 14,
@@ -108,7 +107,7 @@
     "Ewé": 2
   },
   "access": {
-    "Public": 668,
+    "Public": 633,
     "Community": 6
   }
 }

@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/M6WXYVC6>
   a schema:ScholarlyArticle ;
-  schema:name "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba" ;
+  schema:name "If a Woman Knows Cult Secret, She Must Never Tell: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M6WXYVC6> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M6WXYVC6" ;

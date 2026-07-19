@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "M93AUQIH",
-    "version": 1233,
+    "version": 5582,
     "itemType": "bookSection",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M93AUQIH",
     "dateAdded": "2026-05-19T13:28:35Z",
-    "dateModified": "2026-05-19T13:28:35Z"
+    "dateModified": "2026-07-19T21:15:46Z"
   },
   "display": {
-    "title": ". Conclusions",
+    "title": "Conclusions",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -71,7 +71,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": ". Conclusions"
+      "value": "Conclusions"
     },
     {
       "field": "264",

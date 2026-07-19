@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "CDKAYH2J",
-    "version": 4802,
+    "version": 5557,
     "itemType": "book",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CDKAYH2J",
     "dateAdded": "2026-05-19T13:29:00Z",
-    "dateModified": "2026-07-04T00:03:01Z"
+    "dateModified": "2026-07-19T21:05:21Z"
   },
   "display": {
-    "title": "Creole Religions of the Caribbean, Third",
+    "title": "Creole Religions of the Caribbean, Third Edition",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -21,7 +21,7 @@
         "name": "Margarite Fernández Olmos"
       },
       {
-        "role": "series editor",
+        "role": "author",
         "name": "Lizabeth Paravisini-Gebert"
       }
     ],
@@ -75,7 +75,8 @@
     "access": "Public",
     "custody": "metadata-only",
     "subjects": [
-      "Caribbean history, culture, and politics"
+      "Caribbean history, culture, and politics",
+      "Colonialism, slavery, and trade"
     ]
   },
   "ifwk": {
@@ -91,7 +92,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": "Creole Religions of the Caribbean, Third"
+      "value": "Creole Religions of the Caribbean, Third Edition"
     },
     {
       "field": "264",
@@ -127,6 +128,11 @@
       "field": "650",
       "label": "Subject",
       "value": "Caribbean history, culture, and politics"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Colonialism, slavery, and trade"
     },
     {
       "field": "650",
@@ -190,7 +196,7 @@
     },
     {
       "field": "700",
-      "label": "Added entry - series editor",
+      "label": "Added entry",
       "value": "Lizabeth Paravisini-Gebert"
     },
     {

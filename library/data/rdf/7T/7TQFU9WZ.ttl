@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/7TQFU9WZ>
   a schema:Thesis ;
-  schema:name "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros" ;
+  schema:name "A Caracterização Do Trabalho Análogo Ao Escravo Na Jurisprudência Dos Tribunais Brasileiros" ;
   schema:url <https://medjat.irokosociety.org/library/?item=7TQFU9WZ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:7TQFU9WZ" ;

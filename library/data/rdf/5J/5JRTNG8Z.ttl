@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/5JRTNG8Z>
   a schema:Chapter ;
-  schema:name ". Arrival" ;
+  schema:name "Arrival" ;
   schema:url <https://medjat.irokosociety.org/library/?item=5JRTNG8Z> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:5JRTNG8Z" ;

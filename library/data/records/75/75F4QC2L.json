@@ -5,14 +5,14 @@
   "zotero": {
     "group": "6479329",
     "key": "75F4QC2L",
-    "version": 1068,
+    "version": 5500,
     "itemType": "bookSection",
     "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/75F4QC2L",
     "dateAdded": "2026-05-19T13:27:42Z",
-    "dateModified": "2026-05-19T13:27:42Z"
+    "dateModified": "2026-07-19T20:27:35Z"
   },
   "display": {
-    "title": ". Planting Abakuá in Cuba, 1830s to 1860s",
+    "title": "Planting Abakuá in Cuba, 1830s to 1860s",
     "subtitle": "",
     "shortTitle": "",
     "creators": [
@@ -25,7 +25,7 @@
     "date": "2009",
     "publisher": "",
     "publicationTitle": "",
-    "bookTitle": "University Press of Mississippi eBooks",
+    "bookTitle": "Voice of the Leopard: African Secret Societies and Cuba",
     "journalAbbreviation": "University Press of Mississippi eBooks",
     "place": "",
     "edition": "",
@@ -69,7 +69,7 @@
     {
       "field": "245",
       "label": "Title",
-      "value": ". Planting Abakuá in Cuba, 1830s to 1860s"
+      "value": "Planting Abakuá in Cuba, 1830s to 1860s"
     },
     {
       "field": "264",

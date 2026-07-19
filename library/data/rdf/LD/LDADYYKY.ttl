@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/LDADYYKY>
   a schema:Chapter ;
-  schema:name ". Havana Is the Key" ;
+  schema:name "Havana Is the Key" ;
   schema:url <https://medjat.irokosociety.org/library/?item=LDADYYKY> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:LDADYYKY" ;

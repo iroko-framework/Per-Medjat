@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/M5DGT7P8>
   a schema:Thesis ;
-  schema:name "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE" ;
+  schema:name "Human Right Violations in 12 Years a Slave" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M5DGT7P8> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M5DGT7P8" ;

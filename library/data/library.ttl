@@ -164,19 +164,6 @@
   dcterms:identifier "doi:10.11606/d.8.2011.tde-06072011-090553" ;
   dcterms:subject "Brazilian History and Foreign Policy", "Colonialism, slavery, and trade", "History of Colonial Brazil" .
 
-<https://medjat.irokosociety.org/id/library/YFVJVVNN>
-  a schema:ScholarlyArticle ;
-  schema:name "\"Don't Mess with the Saints\": Popular Music and Afro-Cuban Religion" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=YFVJVVNN> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:YFVJVVNN" ;
-  schema:description "Dr. Alan West-Durán examined the influence of Ocha, Palo, and Abakuá in the island's music and their intimate relationship with Cuban daily life." ;
-  schema:author "Alan West-Durán" ;
-  schema:datePublished "2018" ;
-  schema:publisher "Florida International University Digital Commons (Florida International University)" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
-  dcterms:subject "Music", "Cuban History and Society", "Abakua", "Lucumí", "Palo" .
-
 <https://medjat.irokosociety.org/id/library/XDU3XS8A>
   a schema:Book ;
   schema:name "Afro-Cuban Religions and the Arts" ;
@@ -216,6 +203,19 @@
   dcterms:identifier "doi:10.5771/9781793639837-251" ;
   dcterms:subject "Ancient Mediterranean Archaeology and History", "Classical Antiquity Studies" .
 
+<https://medjat.irokosociety.org/id/library/YFVJVVNN>
+  a schema:ScholarlyArticle ;
+  schema:name "Don't Mess with the Saints: Popular Music and Afro-Cuban Religion" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=YFVJVVNN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:YFVJVVNN" ;
+  schema:description "Dr. Alan West-Durán examined the influence of Ocha, Palo, and Abakuá in the island's music and their intimate relationship with Cuban daily life." ;
+  schema:author "Alan West-Durán" ;
+  schema:datePublished "2018" ;
+  schema:publisher "Florida International University Digital Commons (Florida International University)" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
+  dcterms:subject "Music", "Cuban History and Society", "Abakua", "Lucumí", "Palo" .
+
 <https://medjat.irokosociety.org/id/library/R4PJDIL3>
   a schema:ScholarlyArticle ;
   schema:name "Mito, literatura y nación: el mito de Sikán y la construcción del mundo Abakuá en Alejo Carpentier y Lydia Cabrera" ;
@@ -246,7 +246,7 @@
 
 <https://medjat.irokosociety.org/id/library/K423QZUP>
   a schema:Thesis ;
-  schema:name "\"Good For Rosetta\" : The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855" ;
+  schema:name "Good For Rosetta: The Fugitive Slave Law and the Case of Rosetta Armstead in Ohio, 1855" ;
   schema:url <https://medjat.irokosociety.org/library/?item=K423QZUP> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:K423QZUP" ;
@@ -283,20 +283,6 @@
   schema:sameAs <https://doi.org/10.1080/03056240208704609> ;
   dcterms:identifier "doi:10.1080/03056240208704609" ;
   dcterms:subject "Diaspora, migration, transnational identity", "Migration and Labor Dynamics", "Migration, Ethnicity, and Economy" .
-
-<https://medjat.irokosociety.org/id/library/98XXK97S>
-  a schema:ScholarlyArticle ;
-  schema:name "La sepultura de Belmeque (Beja, Bajo Alentejo). Contactos con el Egeo durante el Bronce Final I del suroeste de la Península Ibérica (1625-1425 AC)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=98XXK97S> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:98XXK97S" ;
-  schema:description "La tumba de Belmeque, una cueva artificial excavada en la roca, es la más rica de todo el Bronce del Suroeste de la Península Ibérica. Presenta un ajuar con una cerámica con acanalados verticales, 2 puñales con remaches de plata, 1 cuchillo de bronce, 13.8% de estaño, con 4 remaches de oro y dorso recubierto de una fina lámina de oro y, finalmente, 9 remaches de plata, quizás de 2 cinturones. El cuchillo responde a un modelo egeo, para un ritual de sacrificio, que no conocemos en otro enterramiento del Bronce de la Península Ibérica, aunque no es necesariamente una importación. Su mejor paralelo es un cuchillo de la sepultura 52 de la necrópolis de Prosymna, situada en la ladera del santuario de Hera en Argos, el Heraeum, del Heládico Final I, 1625-1500 AC. Los remaches tienen entre 70‑75% de oro y 25-30% de oro «blanco» o electro, presente en los grupos A3 y A3C de Hartmann, que tienen su mejor representación en las sepulturas de fosa de Micenas del Heládico Medio III-Heládico Final I. Por otra parte, la presencia de dorado en el dorso del cuchillo de Belmeque tiene también sus mejores paralelos en las tumbas de fosa de los círculos A y B de Mi­cenas y en el Tholos de Vapheio en Laconia del Heládico Medio III-Heládico Final IIA, 1675-1450 AC. Los ajuares del Bronce Medio y Final I del Suroeste son muy modestos, especialmente en armas o útiles de cobre o bronce, con apenas 12 puñales, más algunos punzones. Las tumbas más ricas aparecen a partir del Bronce Final I, ca. 1625-1425 AC, con algunas cuentas de collar de oro y cuentas de fayenza azul, que también aparecen en Irlanda y Gran Bretaña, hacia el 1700-1550 AC, coincidente con la fase Derryniggin. Este incremento en objetos metálicos, incluida la plata y el oro, hasta entonces desconocido, puede ser resultado de la explotación del estaño de la zona de Neves Corvo, en el Bajo Alentejo. Su explotación quizás explique que sea esta región donde aparezcan las estelas alentejanas y después se concentren las estelas con escritura del Suroeste, instalándose asentamientos fenicios como Tavira desde el siglo VIII a.C. en la costa del Algarve." ;
-  schema:author "Alfredo Mederos Martín" ;
-  schema:datePublished "2009" ;
-  schema:publisher "Veleia" ;
-  schema:sameAs <https://doi.org/10.1387/veleia.1442> ;
-  dcterms:identifier "doi:10.1387/veleia.1442" ;
-  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Archaeology and ancient environmental studies" .
 
 <https://medjat.irokosociety.org/id/library/4CP2MP6M>
   a schema:Thesis ;
@@ -411,18 +397,6 @@
   schema:datePublished "2014" ;
   schema:publisher "UpSpace Institutional Repository (University of Pretoria)" ;
   dcterms:subject "Legal Issues in South Africa" .
-
-<https://medjat.irokosociety.org/id/library/4K3LQ5TG>
-  a schema:Thesis ;
-  schema:name "High-Level Control System for Remote Controlled Surgical Robots: Haptic Guidance of Surgical Robot" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=4K3LQ5TG> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:4K3LQ5TG" ;
-  schema:description "This report considers the work to improve the autonomy of surgical teleoperated systems, by introducing haptic guidance. The use of surgical robots in surgical procedures have become more common the recent years, but still it is in its infancy. Some advantages when using robots is scalability of movements, reduced tremor, better visualisation systems and greater range of motions than with conventional minimally invasive surgery. On the contrary, lack of tactile feedback and highly unstructured medical environment restricts the use of teleoperated robots to specific tasks within specific procedures. A way of improving autonomy of the teleoperated system is to introduce predefined constraints in the surgical environment, to create a trajectory or forbidden area, in order to guide the movements of the surgeon. This is often called haptic guidance. This report introduces the basics of teleoperated systems, with control schemes, models and analytical tools. Algorithms for haptic guidance have been developed, and the entire control and guidance system have been modified and suited for implementation on a real teleoperated system. Theoretical analysis of the position position (PP) control scheme reveals some general stability and performance characteristics, later used as a basis for tuning the real system parameters. The teleoperated system consists of a Phantom Omni device, from SensAble-Technologies, used as master manipulator, and AESOP 3000DS, from Computer Motions Inc., as the slave manipulator. The control system is implemented on a regular PC, connecting the complete system. Tests reveal that the slave manipulator is not suited for this task due to a significant communication time delay, limited velocity and inadequate control possibilities. The consequences makes force feedback based on the PP control scheme impossible, and limits performance of the entire teleoperated system. The guidance system is implemented in two variations, one based on slave positions and one based on master positions. This is motivated to give a performance comparison for variations of position error/tracking between the two manipulators. Slave based guidance appears to be stable only for limited values of the gains, and thus, it generates no strict constraints. It can be used to guide the operator away from forbidden areas, but is not suitable for high precision guiding. The master based guidance is stabile for very high gains, and the guidance have the accuracy to improve the surgeons precision during procedures. In the case of line guidance, the master based guidance gives a deviation of up to $1.3mm$ from the given trajectory. The work has shown the possibilities of using haptic guidance to improve accuracy and precision in surgical procedures, but among others, hardware limitations give room for several improvements in order to develop a teleoperated system that works." ;
-  schema:author "Andreas Nygaard" ;
-  schema:datePublished "2008" ;
-  schema:publisher "BIBSYS Brage (BIBSYS (Norway))" ;
-  dcterms:subject "Intraoperative Neuromonitoring and Anesthetic Effects", "Soft Robotics and Applications", "Surgical Simulation and Training" .
 
 <https://medjat.irokosociety.org/id/library/BIGN969N>
   a schema:ScholarlyArticle ;
@@ -592,7 +566,7 @@
 
 <https://medjat.irokosociety.org/id/library/69SQD4W2>
   a schema:Thesis ;
-  schema:name "\"For All Such, a Country is Provided\": Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841" ;
+  schema:name "For All Such, a Country is Provided: Choctaw Removal, Slave Trading, and Law in Southwestern Mississippi, 1800-1841" ;
   schema:url <https://medjat.irokosociety.org/library/?item=69SQD4W2> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:69SQD4W2" ;
@@ -616,21 +590,9 @@
   dcterms:identifier "doi:10.31390/gradschool_dissertations.2071" ;
   dcterms:subject "Ecocriticism and Environmental Literature", "Gothic Literature and Media Analysis", "Religious Studies and Spiritual Practices" .
 
-<https://medjat.irokosociety.org/id/library/U7AHQGET>
+<https://medjat.irokosociety.org/id/library/979Y7KPQ>
   a schema:Book ;
   schema:name "Humans in Shackles: An Atlantic History of Slavery" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=U7AHQGET> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:U7AHQGET" ;
-  schema:description "Sweeping synthesis history of the Atlantic slave trade, described by Kirkus Reviews as \"essential.\"" ;
-  schema:author "Araujo, Ana Lucia" ;
-  schema:datePublished "2024" ;
-  schema:publisher "University of Chicago Press" ;
-  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> .
-
-<https://medjat.irokosociety.org/id/library/979Y7KPQ>
-  a schema:Chapter ;
-  schema:name "Humans in shackles: an Atlantic history of slavery" ;
   schema:url <https://medjat.irokosociety.org/library/?item=979Y7KPQ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:979Y7KPQ" ;
@@ -639,7 +601,7 @@
   schema:datePublished "2024" ;
   schema:publisher "University of Chicago Press" ;
   dcterms:identifier "isbn:978-0-226-77158-8" ;
-  dcterms:subject "Slavery -- Atlantic Ocean Region -- History" .
+  dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657>, <http://id.loc.gov/authorities/subjects/sh85123323> .
 
 <https://medjat.irokosociety.org/id/library/DWJNNJ42>
   a schema:Book ;
@@ -694,7 +656,7 @@
 
 <https://medjat.irokosociety.org/id/library/M5DGT7P8>
   a schema:Thesis ;
-  schema:name "HUMAN RIGHT VIOLATIONS IN 12 YEARS A SLAVE" ;
+  schema:name "Human Right Violations in 12 Years a Slave" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M5DGT7P8> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M5DGT7P8" ;
@@ -833,7 +795,7 @@
 
 <https://medjat.irokosociety.org/id/library/M6WXYVC6>
   a schema:ScholarlyArticle ;
-  schema:name "“If a Woman Knows Cult Secret, She Must Never Tell”: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba" ;
+  schema:name "If a Woman Knows Cult Secret, She Must Never Tell: Ritual Consecration, Secrecy, and Female Power in Egungun Pageantry Among the Yoruba" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M6WXYVC6> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M6WXYVC6" ;
@@ -1198,7 +1160,7 @@
 
 <https://medjat.irokosociety.org/id/library/7TQFU9WZ>
   a schema:Thesis ;
-  schema:name "A caracterização do trabalho análogo ao escravo na jurisprudência dos tribunais brasileiros" ;
+  schema:name "A Caracterização Do Trabalho Análogo Ao Escravo Na Jurisprudência Dos Tribunais Brasileiros" ;
   schema:url <https://medjat.irokosociety.org/library/?item=7TQFU9WZ> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:7TQFU9WZ" ;
@@ -1262,18 +1224,6 @@
   schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
   dcterms:subject "Health, Education, and Cultural Studies", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .
 
-<https://medjat.irokosociety.org/id/library/GNJEMSVS>
-  a schema:Thesis ;
-  schema:name "Design and Control of Self-organizing Systems" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=GNJEMSVS> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:GNJEMSVS" ;
-  schema:description "Complex systems are usually difficult to design and control. There are several particular methods for coping with complexity, but there is no general approach to build complex systems. In this thesis I propose a methodology to aid engineers in the design and control of complex systems. This is based on the description of systems as self-organizing. Starting from the agent metaphor, the methodology proposes a conceptual framework and a series of steps to follow to find proper mechanisms that will promote elements to find solutions by actively interacting among themselves. The main premise of the methodology claims that reducing the “friction” of interactions between elements of a system will result in a higher “satisfaction” of the system, i.e. better performance.\\n\\nA general introduction to complex thinking is given, since designing self-organizing systems requires a non-classical thought, while practical notions of complexity and self-organization are put forward. To illustrate the methodology, I present three case studies. Self-organizing traffic light controllers are proposed and studied with multi-agent simulations, outperforming traditional methods. Methods for improving communication within self-organizing bureaucracies are advanced, introducing a simple computational model to illustrate the benefits of self-organization. In the last case study, requirements for self-organizing artifacts in an ambient intelligence scenario are discussed. Philosophical implications of the conceptual framework are also put forward." ;
-  schema:author "Carlos Gershenson" ;
-  schema:datePublished "2007" ;
-  schema:publisher "CogPrints (University of Southampton)" ;
-  dcterms:subject "Complex Systems and Decision Making", "Computability, Logic, AI Algorithms", "Slime Mold and Myxomycetes Research" .
-
 <https://medjat.irokosociety.org/id/library/33TPMQJM>
   a schema:Book ;
   schema:name "O festim dos bruxos : estudos sobre a religião no Brasil" ;
@@ -1298,18 +1248,6 @@
   schema:sameAs <https://doi.org/10.14264/375281> ;
   dcterms:identifier "doi:10.14264/375281" ;
   dcterms:subject "Australian History and Society" .
-
-<https://medjat.irokosociety.org/id/library/IF8PVC2B>
-  a schema:ScholarlyArticle ;
-  schema:name "Una comunidad en busca de definición" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=IF8PVC2B> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:IF8PVC2B" ;
-  schema:description "En este trabajo el autor analiza los cambios ocurridos en una pequena comunidad aragonesa del valle medio del Ebro desde que se realizo la investigacion antropologica del campo entre 1958-1960. Debido a las circunstancias especiales, la comunidad ha dejado de ser agricola, transformandose en industrial; la modernizacion resultante ha sido muy considerable, sobrepasando notablemente el grado de modernizacion que podemos detectar en conjunto en las comunidades rurales espanolas. El modo de vida es similar al de la ciudad. Pero tambien, y como resultado, han aparecido ambiguedades y dilemas. Los pilares basicos de la pequena sociedad, tales como la propiedad y la familia, algunos valores y rituales, con conceptos de identidad personal y de comunidad no presentan ya un significado concreto y homogeneo. El individuo y la comunidad, instituciones y valores, requieren ser definidos de nuevo. Como resultado y al mismo tiempo que se rinde culto al becerro de oro de la modernizacion la ambiguedad existente causa confusion e incertidumbre." ;
-  schema:author "Carmelo Lisón Tolosana" ;
-  schema:datePublished "1976" ;
-  schema:publisher "Revista de Estudios Agrosociales" ;
-  dcterms:subject "Historical and socio-economic studies of Spain and related regions", "Urbanism, Landscape, and Tourism Studies" .
 
 <https://medjat.irokosociety.org/id/library/RJ7N62AI>
   a schema:ScholarlyArticle ;
@@ -1409,19 +1347,6 @@
   schema:publisher "Harvard University Press" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85028485>, <http://id.loc.gov/authorities/subjects/sh85028479> .
 
-<https://medjat.irokosociety.org/id/library/MJDSQJEH>
-  a schema:ScholarlyArticle ;
-  schema:name "Os bruxos da administração: como entender a babel dos gurus empresariais" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=MJDSQJEH> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:MJDSQJEH" ;
-  schema:author "Cecília Whitaker Bergamini" ;
-  schema:datePublished "1998" ;
-  schema:publisher "Revista de Administração de Empresas" ;
-  schema:sameAs <https://doi.org/10.1590/s0034-75901998000300009> ;
-  dcterms:identifier "doi:10.1590/s0034-75901998000300009" ;
-  dcterms:subject "Business and Management Studies" .
-
 <https://medjat.irokosociety.org/id/library/ZJCM6CKX>
   a schema:ScholarlyArticle ;
   schema:name "El Ayuntamiento de Xalapa y su potestad fiscal: definición, negociación y milicias, 1794-1803" ;
@@ -1489,20 +1414,6 @@
   schema:sameAs <https://doi.org/10.17863/cam.41678> ;
   dcterms:identifier "doi:10.17863/cam.41678" ;
   dcterms:subject "American Constitutional Law and Politics" .
-
-<https://medjat.irokosociety.org/id/library/UQF7LRY6>
-  a schema:Thesis ;
-  schema:name "Automatic Guidance of Agricultural Wide-Span Implement Carrier (WSIC)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=UQF7LRY6> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:UQF7LRY6" ;
-  schema:description "The Wide-Span Implement Carrier (WSIC) is a versatile agricultural platform for the support and operation of different agricultural field equipment. It has been used in cranberry production since the 1990s. The main components of the WSIC include a long truss and two low-profile tractors that provide support to the truss at each end. WSIC operations require the motions of the two tractors to be well synchronized. Currently, this process is controlled by human operators on the tractors and the guidance accuracy depends on their experience and on-site judgement. The objective of this research is to develop an automatic guidance system to replace the manual guidance and control process of the WSIC, so that the demand of operators can be reduced and the operation accuracy can be improved. The original contributions of this work are the development and experimental validation of the two groups of control algorithms designed for the WISC, one for its mobile operating mode and one for its stationary operating mode. The mobile mode was modelled as a synchronous trajectory tracking problem and a master-slave cooperative method was designed. The stationary mode was modelled as a parallel point-to-point tracking problem and a second master-slave cooperative method was designed. For the mobile mode, the master vehicle performs a path following task by controlling its steering angle, and the slave vehicle performs a path following task and a synchronous tracking task by controlling both the steering angle and the velocity. During the operation, the motion states of the master including its position, orientation, and velocity are sent to the slave in real time. For the stationary mode, both vehicles perform a point tracking task and repeat the task in a periodic control sequence, which is executed on the master. The slave follows the commands sent from the master to perform point tracking processes. The designed control algorithms were first verified through several simulations. To test the control models and algorithms in practical applications, a scaled-down experimental WSIC platform using two heavy-duty mobile robots and an original automatic guidance system adapted to WSIC operations were developed. The hardware and software of the guidance system were designed and developed. The hardware included a dual-rover Real-Time Kinematic Global Positioning System, inertial measurement units, XBee wireless communication modules, and a group of control processors. The control structure of the software was developed at two levels: upper level for guidance algorithms calculation and lower level for velocity and steering angle control. Validation experiments were conducted using the robotic platform under restricted conditions including flat and firm test grounds and reasonably slow operation velocities. For each operating mode, two series of experiments were performed. For the mobile mode, the first series tested the path following control for a single robot, and the second series tested the cooperative synchronous tracking control. For the stationary mode, the first series verified the designed velocity and steering angle control laws for the point tracking task, and the second series tested the sequential point-to-point tracking control. Experimental results showed that the developed guidance system performed with satisfactory accuracy. For the mobile mode, the master and slave robots could automatically follow the reference paths with lateral errors less than 0.1 m and orientation errors less than 5°, and the motions of the two robots were well synchronized with offset errors less than 0.1 m. For the stationary mode, the robots performed the forward point tracking tasks with lateral errors less than 0.16 m and orientation errors less than 11° , and the root mean square and maximum of the offset errors were 0.04 m and 0.1 m respectively. The time differences when the robots stopped at their target points were less than 2 s. This motion synchronization could permit high efficiency for autonomous WSIC operations." ;
-  schema:author "Chengming Luo" ;
-  schema:datePublished "2017" ;
-  schema:publisher "uO Research (University of Ottawa)" ;
-  schema:sameAs <https://doi.org/10.20381/ruor-21308> ;
-  dcterms:identifier "doi:10.20381/ruor-21308" ;
-  dcterms:subject "Smart Agriculture and AI" .
 
 <https://medjat.irokosociety.org/id/library/GV7YZL42>
   a schema:Thesis ;
@@ -1671,21 +1582,6 @@
   dcterms:identifier "doi:10.31390/gradschool_dissertations.1347" ;
   dcterms:subject "American Constitutional Law and Politics", "American History and Culture", "Race, History, and American Society" .
 
-<https://medjat.irokosociety.org/id/library/GV95RVWP>
-  a schema:ScholarlyArticle ;
-  schema:name "Estudio y restauración de un casco griego del museo de Málaga" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=GV95RVWP> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:GV95RVWP" ;
-  schema:description "Durante el año 2012 se acometió una intervención arqueológica preventiva en un solar ubicado en las calles Jinete y Refino de Málaga, en la que, amén de importantes niveles medievales, se documentó una gran tumba en la cual había sido enterrado un individuo varón acompañado de un magnífico ajuar mortuorio. Este se componía, principalmente, por armamento adscribible a una panoplia hoplita (casco, punta de lanza y restos de un posible escudo), así como de otros elementos de carácter ritual y simbólico (escarabeo de cornalina engastado en oro suspendido por anillo de plata, pátera de plata con roseta central, par de varillas de plata y timaterio cerámico), que denotaban el alto nivel social del inhumado.Una vez trasladados estos materiales al Taller de Patrimonio Arqueológico del Centro de Intervención del IAPH, se le han practicado todos aquellos estudios y análisis concluyentes en la ulterior actuación de restauración, que permitirá su adecuada conservación así como su uso social a través de su musealización. En este artículo se recogen los datos que han aportado la investigación y tratamiento de una de las piezas más destacadas, el casco corintio." ;
-  schema:author "Constanza Rodríguez Segovia" ;
-  schema:creator "Esther Núñez Pariente de León" ;
-  schema:datePublished "2015" ;
-  schema:publisher "PH. Boletín del Instituto Andaluza del Patrimonio Histórico/PH/PH. Boletín del Instituto Andaluz del Patrimonio Histórico/Boletín informativo - Instituto Andaluz del Patrimonio Histórico" ;
-  schema:sameAs <https://doi.org/10.33349/2015.0.3647> ;
-  dcterms:identifier "doi:10.33349/2015.0.3647" ;
-  dcterms:subject "Archaeological and Historical Studies", "Historical Studies of Medieval Iberia", "Maritime and Coastal Archaeology" .
-
 <https://medjat.irokosociety.org/id/library/QNVHRKME>
   a schema:Thesis ;
   schema:name "The Development of Dark/Cultural Heritage as Attractions in Falmouth, Jamaica, West Indies" ;
@@ -1697,32 +1593,6 @@
   schema:datePublished "2013" ;
   schema:publisher "UWSpace (University of Waterloo)" ;
   dcterms:subject "Cultural Heritage Management and Preservation", "Diverse Aspects of Tourism Research", "Urban Planning and Governance" .
-
-<https://medjat.irokosociety.org/id/library/ECL8HDP9>
-  a schema:ScholarlyArticle ;
-  schema:name "MATERIAS PRIMAS Y OBJETOS DE PRESTIGIO EN AJUARES FUNERARIOS COMO TESTIMONIOS DE REDES DE INTERCAMBIO EN EL HORIZONTE CAMPANIFORME" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=ECL8HDP9> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:ECL8HDP9" ;
-  schema:description "El trabajo da a conocer los resultados de recientes análisis realizados a diferentes componentes de los ajuares de enterramientos calcolíticos, especialmente campaniformes, de la región de Madrid. Con esta información, a parte de la clásica panoplia donada en los registros funerarios, otras entregas menos estudiadas evidencian con mayor rotundidad la capacidad adquisitiva y de control que determinados personajes pudieron tener sobre algunos recursos. Además del cobre y el oro, sobre los que ya se ha llamado la atención, el marfil y el cinabrio se perfilan como materias especialmente recurrentes en los registros funerarios campaniformes ricos. Su reiterada presencia indica que, aparte de controlar sus vías de distribución, se amplía el valor simbólico y de prestigio de los ajuares y los ritos de una élite cuyo poder adquiere aún más fuerza de la que se hasta ahora se le había asignado a partir de su clásica panoplia funeraria asociada.Palabras clave: Calcolítico, Campaniforme, Valle Tajo, Ritual FunerarioSummaryThis paper refers the results of recent analyses realized to different components of the chalcolithic grave goods, especially Bell Beaker ones in the Madrid region. New information about the materials of funerary records are not only an expression of the acquisitive capacity that certain prominent individuals could have by the control of some resources, not only copper and gold, but also ivory and cinnabar and their routes of distribution. In addition, the results reveal that the symbolic and prestige value of ivory and cinnabar is extended by an elite which power acquires more relevance which till now there had been assigned from the classic funerary package.Keywords: Chalcolithic, Bell Beaker, Tagus valley, funerary ritual." ;
-  schema:author "Corina Liesau" ;
-  schema:creator "Concepción Blasco" ;
-  schema:datePublished "2012" ;
-  schema:publisher "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid" ;
-  schema:sameAs <https://doi.org/10.15366/cupauam2012.38.010> ;
-  dcterms:identifier "doi:10.15366/cupauam2012.38.010" ;
-  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Archaeology and Cultural Heritage" .
-
-<https://medjat.irokosociety.org/id/library/D5437JIQ>
-  a schema:Thesis ;
-  schema:name "Bewhoherenow : philosophy of existing sense : a thesis presented in partial fulfilment of the requirements for the degree of Ph. D. in Social Policy and Social Work at Massey University" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=D5437JIQ> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:D5437JIQ" ;
-  schema:description "body is[born and sustained through] sacrifice. i see mind seek immortalityandomnipotence through sacrifice. i see mind over body - mind rooting divide in subtraction of orgasmic from being[beingintheworld] to body to part[orgasm] to non i see mind rage [Laing] - where there was once here - rapeing here. seeyouhere [appealing]. argument [syllogism]. i, bodimentofbeing [eg Laing] iam bewhoherenow lookdown. iambody in Pain. The mutual repulsion of profane and sacred [Gould on sacred Hindu law]. profanity [of body] is polluted in embodying [pollution in her] and the sacrifice [decay and death - of zeroing body] - purifies sacred. Based on Gould's summary of the underlying assumptions of Hindu sacred law in chapter four \"Priests and Conrapriests\" (1967) In Gould, Harold A. (1987) The Hindu Caste System: The Sacralization of a Social Order. Chanakya: Delhi. p. 111. Reprinted from Contributions to Indian Sociology. New Series, No. 1, pp 28-57. pain embodimentofbeing [eg Kierkegaard guilts] therefore pain splacematterenergytime [Zeno on splacematterenergytime] splacematterenergytime therefore physics [physics - enlightenment testing ground for cause and effect. Einstein is the light speed observer - observing as fast as impossible with all else in train[slaved]. Newton masters gravity. Chaos is unpredictable slave. Second law of thermodynamics is mastery of slavery. Determinism - master[cause] and slave[effect] - exposed.] physics therefore chemistry [cell bodies], biology [organic bodies], psychology [human body], sociology [human bodies] physics therefore economy [shop - supply of body mastered and demand of body slaved], therefore law [keep shop] and policy [shop front] physics therefore mathematics [dominating human language. the right angle [triangle, hypotenuse, point of view] from Pythagorus and the zeroing of infinity from Indian grammar as void shape [the view of] mind.] physics of mathematics therefore philosophy of mathematics [the form of Plato called first cause by Aristotle and named one by Parmenides and Ptolemy mythologise shape as truth.] mathematics therefore logic [proofing the dominance of mathematics as dominant perspective. Leibniz puts one[everything] and zero[nothing] in Aristotle's syllogism and Boole starts crunching medium of english.] language therefore body [language is metaphor - the naming of] therefore is am i [who] was seen before [then] and therefore pain is becoming in between being inbetweenbeing - etheranderos - heavenandearth and [therefore] creation becomes kill[determined] [sacrifice]. sense [evidence]. inaffinity i body being in words [sound] in paper [light] in hand [body] and water [blood] and inaffinity [analogy] i syllogism. i syllogism to immortality [aim of mind] and syllogism immortality to death [target]. i deal summarily with logic [Aristotle, Leibniz, Boole, Russell and others] language [Panini, Itkonen, Laing, Burke and others] law [Williams, Waddams and others] mathematics [Sarton, Kline, Weyl and others] physics [Zeno, Pythagorus, Newton, Einstein] chemistry [Van Helmont, Brock, Hoagland] biology [Malthus, Darwin, Carson] sociology [Milgram] psychology [Skinner] economy [Smith, Marx, Stigler, Mumford] policy [Machiavelli, Orwell] and mythology [Upanishads, Plato, da Vinci, Galileo, Kant]. i quote directly or quote quote from recognised source. i use subheadings. i sound wordsounds [eg bodyandsoul] i emotion for sound [errors abound]. conclusion [assumptions]. beingintheworld is[the way of the world]. body is mind is being. mind is grasping[knots] itself. mind is lost[without body]. presumption [prediction]. beingwhole [therefore] letgoofyourself [advice given] and shebehere. [500 words]" ;
-  schema:author "Craig Goodwillie" ;
-  schema:datePublished "1995" ;
-  dcterms:subject "Ontology", "Philosophy", "Theological Perspectives and Practices" .
 
 <https://medjat.irokosociety.org/id/library/F5IQS7UI>
   a schema:ScholarlyArticle ;
@@ -2049,7 +1919,7 @@
 
 <https://medjat.irokosociety.org/id/library/GCLQ7AP9>
   a schema:Thesis ;
-  schema:name "The right to petition for redress of grievances: constitutional development and interpretations." ;
+  schema:name "The Right to Petition for Redress of Grievances: Constitutional Development and Interpretations" ;
   schema:url <https://medjat.irokosociety.org/library/?item=GCLQ7AP9> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:GCLQ7AP9" ;
@@ -2238,7 +2108,7 @@
 
 <https://medjat.irokosociety.org/id/library/CPTGB44A>
   a schema:ScholarlyArticle ;
-  schema:name "“I Got Voodoo, I Got Hoodoo”: Ethnography and Its Objects in Disney’sthe Princess and the Frog" ;
+  schema:name "I Got Voodoo, I Got Hoodoo: Ethnography and Its Objects in Disney’sthe Princess and the Frog" ;
   schema:url <https://medjat.irokosociety.org/library/?item=CPTGB44A> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:CPTGB44A" ;
@@ -2300,20 +2170,6 @@
   dcterms:identifier "doi:10.18574/nyu/9780814722343.003.0005" ;
   dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .
 
-<https://medjat.irokosociety.org/id/library/UF5XH666>
-  a schema:ScholarlyArticle ;
-  schema:name "EL HOMBRE Y EL ANIMAL EN LA COLOMBIA PREHISPÁNICA: ESTUDIO DE UNA RELACIÓN EN LA ORFEBRERÍA" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=UF5XH666> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:UF5XH666" ;
-  schema:description "En el estudio de la iconografía de la orfebrería colombiana prehispánica en las colecciones del Museo del Oro, Bogotá, se observa la constante puesta en escena de la imagen del hombre con la de ciertos animales, a veces separados y otras veces entremezclados en una sola figura. La cosmogonía prehispánica propia de Colombia, así como de otras áreas culturales de América, da cuenta de la importancia de esta relación. No obstante, se sigue pensando que la iconografía prehispánica es simplemente la representación de los protagonistas de los actos religiosos y mitológicos. En este artículo se plantea que las imágenes observadas, en vez de ser figurativas, simbolizan o contienen un pensamiento complejo, el cual se transmitía mediante metáforas visuales, o bien a través de los mitos o durante los rituales." ;
-  schema:author "Enora Gault" ;
-  schema:datePublished "2012" ;
-  schema:publisher "Boletín del Museo Chileno de Arte Precolombino" ;
-  schema:sameAs <https://doi.org/10.4067/s0718-68942012000100002> ;
-  dcterms:identifier "doi:10.4067/s0718-68942012000100002" ;
-  dcterms:subject "Cultural and Mythological Studies", "Literary and Cultural Studies" .
-
 <https://medjat.irokosociety.org/id/library/33W6BYLK>
   a schema:Thesis ;
   schema:name "Mastering Emotions: The Emotional Politics of Slavery" ;
@@ -2340,7 +2196,7 @@
 
 <https://medjat.irokosociety.org/id/library/I5U4EDX6>
   a schema:ScholarlyArticle ;
-  schema:name "EKPU-ORO: STUDIES IN ORON COSMOLOGY AND CULTURAL HISTORY" ;
+  schema:name "Ekpu-Oro: Studies in Oron Cosmology and Cultural History" ;
   schema:url <https://medjat.irokosociety.org/library/?item=I5U4EDX6> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:I5U4EDX6" ;
@@ -2420,18 +2276,6 @@
   schema:sameAs <https://doi.org/10.47749/t/unicamp.2020.1128753> ;
   dcterms:identifier "doi:10.47749/t/unicamp.2020.1128753" ;
   dcterms:subject "Brazilian Legal Issues", "Development, Ethics, and Society", "Social and Political Issues" .
-
-<https://medjat.irokosociety.org/id/library/23BLQAQA>
-  a schema:Thesis ;
-  schema:name "Automatic Performance Analysis on Parallel Computers with SMP Nodes" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=23BLQAQA> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:23BLQAQA" ;
-  schema:description "Parallel computers with SMP nodes provide both multithreading and message passing as their modes of parallel execution.This thesis addresses the complexity of the performance problems that can arise in these systems by formally characterizing the problems in terms of execution patterns that represent situations of inefficient behavior.These patterns are specified as compound events which are input for an automatic analysis process that recognizes and quantifies the inefficient behavior in event traces.Mechanisms that hide the complex relationships within compound-event specifications allow a simple description of complex inefficient behavior on a high level of abstraction.The analysis process automatically transforms event traces into a scalable representation of performance behavior, allowing a fast and easy identification of performance bottlenecks on varying levels of granularity along the dimensions of problem type, call graph, and process or thread.The uniform mapping of performance behavior onto the corresponding fraction of execution time enables the convenient correlation of different performance behavior using only a single integrated view.A modular analysis architecture separates the performance-problem specifications from the actual analysis process, simplifying the extension and customization of predefined performance problems to meet individual (e.g., application-specific) needs.To demonstrate the methodology in real parallel-programming environments, it was applied to the programming interfaces MPI, OpenMP, and their combination.To show the methodology's usefulness in practice, the performance-tool prototype EXPERT was implemented and successfully tested for several real-world applications.The examples presented in the previous subsections reveal an interesting property of the description method used here.The constituent definitions of a compound event can be divided into two parts.The first part is responsible for locating, i.e., instantiating, the constituents of the compound event.The second part places additional constraints on the constituents that are essential for the performance property they describe.These considerations also apply to the root predicate.The root predicate can be divided into a condition requiring a certain type and optional constraints if necessary.Writing the constraint part separately allows a clearer distinction among different concerns and improves the readability of the specification.Also, reuse of different specification parts might become easier.For example, Example 3.2 might be rewritten like this: Root Type Receive Instantiations 1 := root.sendptr e 1 := root.enterptr e 2 := s 1 .enterptrConstraint root.enterptr.reg= MPI Recv s 1 .enterptr.regThe separation of instantiation and constraints will be used for integrating compound events into the ASL specification language in Section 3.9. Compound Events in ASLThe APART Specification Language ASL [21] developed by the APART working group on Automatic Performance Analysis: Resources and Tools is a novel approach to the formalization of performance properties and the associated performance-related data.ASL provides a formal notation for defining performance properties related to different programming models.By providing a general framework for the specification of performance properties ASL both encourages the collection of a multitude of different performance properties among users and tool builders and also provides a structure that can work as a basis for performance-tool design.With , it is possible to compute | sev (x,y,z) ( P))| solely based on | sev(P))| and thus on |sev(P))|: SummaryEXPERT represents the performance behavior as the mapping | sev (x,y,z) ( P)| that maps a point in the performance space defined by the property, call path, and location coordinates, onto the amount of a CPU-reservation time interval set.The semantics of each coordinate may be either inclusive or exclusive depending on what the user would like to know." ;
-  schema:author "Felix Wolf" ;
-  schema:datePublished "2003" ;
-  schema:publisher "JuSER (Forschungszentrum Jülich)" ;
-  dcterms:subject "Cloud Computing and Resource Management", "Distributed and Parallel Computing Systems" .
 
 <https://medjat.irokosociety.org/id/library/ALVV8DXE>
   a schema:ScholarlyArticle ;
@@ -2727,7 +2571,7 @@
 
 <https://medjat.irokosociety.org/id/library/E2PIGP3D>
   a schema:Thesis ;
-  schema:name "WHAT GOD HATH WROUGHT: THE EMBODIMENT OF FREEDOM IN THE THIRTEENTH AMENDMENT" ;
+  schema:name "What God Hath Wrought: The Embodiment of Freedom in the Thirteenth Amendment" ;
   schema:url <https://medjat.irokosociety.org/library/?item=E2PIGP3D> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:E2PIGP3D" ;
@@ -3487,7 +3331,7 @@
 
 <https://medjat.irokosociety.org/id/library/CZY9TH7X>
   a schema:ScholarlyArticle ;
-  schema:name "La cultura musical Ndowe en el tránsito esclavista del Atlántico. Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial / Ndowe Musical cultura in the Atlantic slave trade. Influence on Cuban society Abakuá and return..." ;
+  schema:name "La Cultura Musical Ndowe En El Tránsito Esclavista Del Atlántico. Influencia En La Sociedad Cubana Abakuá Y De Vuelta a África, En Guinea Ecuatorial / Ndowe Musical Cultura in the Atlantic Slave Trade. Influence on Cuban Society Abakuá and Return to Africa in Equatorial Guinea" ;
   schema:url <https://medjat.irokosociety.org/library/?item=CZY9TH7X> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:CZY9TH7X" ;
@@ -3495,52 +3339,19 @@
   schema:author "Isabela de Aranzadi" ;
   schema:datePublished "2014" ;
   schema:publisher "Coloquios de Historia Canario Americana" ;
-  dcterms:subject "Cuban History and Society", "Hispanic-African Historical Relations" .
-
-<https://medjat.irokosociety.org/id/library/RKEV68GA>
-  a schema:ScholarlyArticle ;
-  schema:name "LA CULTURA MUSICAL NDOWE EN EL TRÁNSITO ESCLAVISTA DEL ATLÁNTICO. INFLUENCIA EN LA SOCIEDAD CUBANA ABAKUÁ Y DE VUELTA A ÁFRICA, EN GUINEA ECUATORIAL NDOWE MUSICAL CULTURE IN THE ATLANTIC SLAVE TRADE. INFLUENCE ON CUBAN SOCIETY ABAKUÁ AND RETURN TO AFRICA IN EQUATORIAL GUINEA" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=RKEV68GA> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:RKEV68GA" ;
-  schema:description "The comparative study of the music on both sides of the Atlantic regarding slavery elements has gener - ated research about the journey to American continent, but there is little written on the return trip and its influ- ences in Africa. In this paper is analyzed the cultural heritage in a back way discussed through slavery of Ndowe group. This legacy arrived in Cuba with Carabalies slaves who founded the society Abakua. Later it was made a return trip to Africa with the deportees Abakua carried to Fernando Poo (today Bioko) in Equatorial Guinea. The framework of the study lies in a consideration of the cultural areas in Africa, beyond the colonial borders and in a reflection on the search nowadays for a more global identity in Ndowe groups and the expression of a secondary orality that is starting. The Ndowe group occupies an area extending trough Equatorial Guinea, Cameroon Gabon and some areas in Congo." ;
-  schema:author "Isabela de Aranzadi" ;
-  schema:datePublished "2016" ;
-  dcterms:subject "Hispanic-African Historical Relations", "Media, Journalism, and Communication History", "Spanish Literature and Culture Studies" .
-
-<https://medjat.irokosociety.org/id/library/G467Q3IC>
-  a schema:ScholarlyArticle ;
-  schema:name "La cultura musical Ndowe en el tránsito esclavista del Atlántico.: Influencia en la sociedad cubana Abakuá y de vuelta a África, en Guinea Ecuatorial" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=G467Q3IC> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:G467Q3IC" ;
-  schema:description "espanolEl estudio comparativo de los elementos musicales a ambos lados del Atlantico en relacion con la esclavitud, ha generado investigaciones de ida al continente americano, pero apenas hay escritos sobre el viaje de retorno y sus influencias en Africa. En este articulo se analiza el legado cultural de vuelta a traves de la esclavitud del grupo ndowe. Este legado llegado a Cuba con los esclavos carabalies quienes fundan la sociedad Abakua, posteriormente efectua un viaje de retorno a Africa con los deportados abakua llevados a Fernando Poo, hoy en Guinea Ecuatorial. El marco del estudio se situa en una consideracion de las areas culturales en Africa, mas alla de las fronteras coloniales y se inicia una reflexion sobre la busqueda hoy de una identidad mas global en los grupos ndowe y la expresion de una “oralidad secundaria”. El grupo ndowe ocupa hoy un area que se extiende por Gabon, Guinea Ecuatorial, Camerun y parte de Congo. EnglishThe comparative study of the music on both sides of the Atlantic regarding slavery elements has generated research about the journey to American continent, but there is little written on the return trip and its influences in Africa. In this paper is analyzed the cultural heritage in a back way discussed through slavery of Ndowe group. This legacy arrived in Cuba with Carabalies slaves who founded the society Abakua. Later it was made a return trip to Africa with the deportees Abakua carried to Fernando Poo (today Bioko) in Equatorial Guinea. The framework of the study lies in a consideration of the cultural areas in Africa, beyond the colonial borders and in a reflection on the search nowadays for a more global identity in Ndowe groups and the expression of a “secondary orality” that is starting. The Ndowe group occupies an area extending trough Equatorial Guinea, Cameroon Gabon and some areas in Congo." ;
-  schema:author "Isabela de Aranzadi" ;
-  schema:datePublished "2016" ;
-  schema:publisher "Dialnet (Universidad de la Rioja)" ;
-  dcterms:subject "Hispanic-African Historical Relations" .
+  dcterms:subject "Cuban History and Society", "Hispanic-African Historical Relations", "Media, Journalism, and Communication History", "Spanish Literature and Culture Studies" .
 
 <https://medjat.irokosociety.org/id/library/93PUVSID>
   a schema:ScholarlyArticle ;
-  schema:name "Los tambores ñáñigos en el Museo Nacional (Madrid). La sociedad cubana secreta Abakuá y las trayectoriasen el Atlántico negro" ;
+  schema:name "Los Tambores Ñáñigos En El Museo Nacional (Madrid). La Sociedad Cubana Secreta Abakuá Y Las Trayectoriasen El Atlántico Negro" ;
   schema:url <https://medjat.irokosociety.org/library/?item=93PUVSID> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:93PUVSID" ;
+  schema:description "Dos de los tambores ñáñigos (ekué y bonkó enchemiyá), expuestos hoy en la Sala de América del Museo Nacional de Antropología, son objetos rituales incautados a la sociedad secreta Abakuá en Cuba. Su itinerario hasta el Museo Biblioteca de Ultramar de Madrid en 1889, se sitúa en un contexto social y político en los años previos a la independencia cubana, con detenciones, incautaciones y deportaciones de los denominados entonces ñáñigos (miembros de la sociedad Abakuá). Su exhibición en el museo en esos años tuvo consecuencias en los futuros estudios académicos que se han realizado sobre esta asociación religiosa afrocubana hasta hoy. La sociedad Abakuá recrea la sociedad Ekpe de Calabar (Nigeria/Camerún) llevada a Cuba por los esclavos carabalí. Muchos deportados ñáñigos llevaron de vuelta esta memoria africana a Fernando Poo (Guinea Ecuatorial). Iniciamos una reflexión sobre la aportación desde Calabar del grupo ndowe, con subgrupos étnicos en Guinea Ecuatorial, Camerún y Gabón, en un complejo entramado de trayectorias en el Atlántico negro..." ;
   schema:author "Isabela de Aranzadi" ;
   schema:datePublished "2015" ;
+  schema:publisher "Ministerio de Educación Cultura y Deporte (España)" ;
   dcterms:subject "Cuban History and Society", "Spanish Literature and Culture Studies" .
-
-<https://medjat.irokosociety.org/id/library/IAIZRMIP>
-  a schema:ScholarlyArticle ;
-  schema:name "Los tambores ñáñigos en el Museo Nacional de Antropología (Madrid): la sociedad cubana secreta Abakuá y las trayectorias en el Atlántico negro" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=IAIZRMIP> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:IAIZRMIP" ;
-  schema:description "espanolDos de los tambores nanigos (ekue y bonko enchemiya), expuestos hoy en la Sala de America del Museo Nacional de Antropologia, son objetos rituales incautados a la sociedad secreta Abakua en Cuba. Su itinerario hasta el Museo Biblioteca de Ultramar de Madrid en 1889, se situa en un contexto social y politico en los anos previos a la independencia cubana, con detenciones, incautaciones y deportaciones de los denominados entonces nanigos (miembros de la sociedad Abakua). Su exhibicion en el museo en esos anos tuvo consecuencias en los futuros estudios academicos que se han realizado sobre esta asociacion religiosa afrocubana hasta hoy. La sociedad Abakua recrea la sociedad Ekpe de Calabar (Nigeria/Camerun) llevada a Cuba por los esclavos carabali. Muchos deportados nanigos llevaron de vuelta esta memoria africana a Fernando Poo (Guinea Ecuatorial). Iniciamos una reflexion sobre la aportacion desde Calabar del grupo ndowe, con subgrupos etnicos en Guinea Ecuatorial, Camerun y Gabon, en un complejo entramado de trayectorias en el Atlantico negro. EnglishThe two drums of the Nanigos (the ekue and the bonko enchemiya), exposed in the America Hall of the Museo Nacional de Antropologia are ritual objects seized from the secret society Abakua in Cuba. The itinerary to the Museo Biblioteca de Ultramar in 1889 in Madrid is situated in a social and political context in the years before the Cuban independence, with arrests, seizures and deportations of so-called Nanigos (members of Abakua society). Their exhibition at this Museum at that time had an impact on future academic studies that have been done about this Afro-Cuban religious association until nowadays. The Abakua secret society has recreated the Ekpe society in Calabar (Nigeria / Cameroon) brought to Cuba by Calabar slaves. Many Nanigos deportees brought back this memory to Africa to the island of Fernando Poo (Equatorial Guinea). We started a reflection on the contribution from Calabar to Cuba from the Ndowe group, a community with ethnic subgroups in Equatorial Guinea, Cameroon and Gabon in a complex network of paths on the Black Atlantic." ;
-  schema:author "Isabela de Aranzadi" ;
-  schema:datePublished "2015" ;
-  schema:publisher "Anales del Museo Nacional de Antropología" ;
-  dcterms:subject "Cuban History and Society", "Hispanic-African Historical Relations" .
 
 <https://medjat.irokosociety.org/id/library/4C8UTV46>
   a schema:ScholarlyArticle ;
@@ -3589,84 +3400,6 @@
   schema:publisher "Batey. Revista Cubana de Antropología Sociocultural (ISSN 2225-529X)" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Cuban History and Society", "Hispanic-African Historical Relations" .
 
-<https://medjat.irokosociety.org/id/library/5JRTNG8Z>
-  a schema:Chapter ;
-  schema:name ". Arrival" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=5JRTNG8Z> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:5JRTNG8Z" ;
-  schema:description "This chapter is based largely on Abakuá narratives about the arrival of Carabalá Ékpè members and the various stages in their process of recreating Ékpè in Cuba. They created the first Abakuá lodges and established the three major “ethnic” lineages: Efí, Efó, and Orú. Most of the Abakuá language used to tell this story is contained in chants used even today in ceremonies." ;
-  schema:author "Ivor L. Miller" ;
-  schema:datePublished "2009" ;
-  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0002> ;
-  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0002" ;
-  dcterms:subject "Cuban History and Society" .
-
-<https://medjat.irokosociety.org/id/library/M93AUQIH>
-  a schema:Chapter ;
-  schema:name ". Conclusions" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=M93AUQIH> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:M93AUQIH" ;
-  schema:description "Abstract This chapter summarizes the preceding discussions, which showed how African migrants in colonial Cuba, through Abakuá, reorganized their homeland government and passed it onto their offspring in the form of a mutual aid society. Abakuá expanded its urban networks through the interactions of many communities, including African nation-groups, free black artisans, the black and mulatto militias, urban fugitives, and African descendants from Spain. Abakuá groups also functioned as antislavery cells that maintained a sense of morality and history among their communities." ;
-  schema:author "Ivor L. Miller" ;
-  schema:datePublished "2009" ;
-  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0009> ;
-  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0009" ;
-  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Historical Studies in Central America" .
-
-<https://medjat.irokosociety.org/id/library/9HMVLEJZ>
-  a schema:Chapter ;
-  schema:name ". Disintegration of the Spanish Empire" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=9HMVLEJZ> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:9HMVLEJZ" ;
-  schema:description "This chapter reviews the last two decades of colonial rule, including the official termination of the African cabildos de nación, their Three Kings’ Day processions in Havana, and the attempts by police to destroy Abakuá by confiscating their sacred objects. In the emergent Cuban popular theater and music there is evidence of Abakuá used as a symbol of cubanía (Cuban-ness). To illustrate contemporary anecdotes gathered about Abakuá and African-descended General Antonio Maceo, the chapter reviews the significance of Maceo, whose mother is regarded as the “mother of the Cuban nation”." ;
-  schema:author "Ivor L. Miller" ;
-  schema:datePublished "2009" ;
-  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0007> ;
-  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0007" ;
-  dcterms:subject "Cuban History and Society" .
-
-<https://medjat.irokosociety.org/id/library/V8LYB2MK>
-  a schema:Chapter ;
-  schema:name ". Dispersal" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=V8LYB2MK> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:V8LYB2MK" ;
-  schema:description "This chapter describes how Abakué was made illegal in 1875, with its members (as well as other anticolonials) dispersed to Spanish penal colonies in North and West Africa. Those who could escaped from Cuba to Florida to join the emerging cigar industry. Responding to scholarship that argues for the recreation of Abakuá lodges in exile, having learned otherwise from Abakuá leaders, the chapter discusses issues basic to the process, which highlight the extraordinary achievements of Abakuá’s foundation in Cuba." ;
-  schema:author "Ivor L. Miller" ;
-  schema:datePublished "2009" ;
-  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0006> ;
-  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0006" ;
-  dcterms:subject "Colonialism, slavery, and trade" .
-
-<https://medjat.irokosociety.org/id/library/LDADYYKY>
-  a schema:Chapter ;
-  schema:name ". Havana Is the Key" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=LDADYYKY> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:LDADYYKY" ;
-  schema:description "A profound relationship exists between Abakuá and Cuban popular music. This chapter lays out evidence for Calabarí presence in the formation of rumba music in the nineteenth century and the use of clave sticks in the rumba and son genres. It also describes how Abakuá composers have consistently recorded their social and ritual history using Abakuá language as well as rhythms and distinctive sounds in commercial recordings." ;
-  schema:author "Ivor L. Miller" ;
-  schema:datePublished "2009" ;
-  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0008> ;
-  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0008" ;
-  dcterms:subject "Cuban History and Society" .
-
-<https://medjat.irokosociety.org/id/library/75F4QC2L>
-  a schema:Chapter ;
-  schema:name ". Planting Abakuá in Cuba, 1830s to 1860s" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=75F4QC2L> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:75F4QC2L" ;
-  schema:description "This chapter uses the concept of planting, of activating the brotherhood—shared by Ékpè and Abakuá—to describe how Abakuá expanded from the 1830s to 1860s in a cosmopolitan urban environment, and in the face of repression as experienced in the wake of the infamous Conspiracy of La Escalera in the 1840s. Documenting the process of the transmission of Ékpè into Cuba, the chapter lists the major lodges founded and identifies their possible Cross River precedents. In the 1860s, Abakuá expanded into the nearby port city of Matanzas, with the sponsorship of Havana lodges." ;
-  schema:author "Ivor L. Miller" ;
-  schema:datePublished "2009" ;
-  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0004> ;
-  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0004" ;
-  dcterms:subject "Cuban History and Society" .
-
 <https://medjat.irokosociety.org/id/library/QNUU9ZMT>
   a schema:ScholarlyArticle ;
   schema:name "A Secret Society Goes Public: The Relationship between Abakua and Cuban Popular Culture" ;
@@ -3699,6 +3432,19 @@
   schema:inLanguage "en" ;
   dcterms:subject "iroko_modules: Ékpè" .
 
+<https://medjat.irokosociety.org/id/library/5JRTNG8Z>
+  a schema:Chapter ;
+  schema:name "Arrival" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=5JRTNG8Z> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:5JRTNG8Z" ;
+  schema:description "This chapter is based largely on Abakuá narratives about the arrival of Carabalá Ékpè members and the various stages in their process of recreating Ékpè in Cuba. They created the first Abakuá lodges and established the three major “ethnic” lineages: Efí, Efó, and Orú. Most of the Abakuá language used to tell this story is contained in chants used even today in ceremonies." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0002> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0002" ;
+  dcterms:subject "Cuban History and Society" .
+
 <https://medjat.irokosociety.org/id/library/IDEDRSSK>
   a schema:ScholarlyArticle ;
   schema:name "Bongó Itá: leopard society music and language in West Africa, Western Cuba, and New York City" ;
@@ -3712,6 +3458,19 @@
   schema:sameAs <https://doi.org/10.1080/17528631.2012.629437> ;
   dcterms:identifier "doi:10.1080/17528631.2012.629437" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Hispanic-African Historical Relations" .
+
+<https://medjat.irokosociety.org/id/library/M93AUQIH>
+  a schema:Chapter ;
+  schema:name "Conclusions" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M93AUQIH> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M93AUQIH" ;
+  schema:description "Abstract This chapter summarizes the preceding discussions, which showed how African migrants in colonial Cuba, through Abakuá, reorganized their homeland government and passed it onto their offspring in the form of a mutual aid society. Abakuá expanded its urban networks through the interactions of many communities, including African nation-groups, free black artisans, the black and mulatto militias, urban fugitives, and African descendants from Spain. Abakuá groups also functioned as antislavery cells that maintained a sense of morality and history among their communities." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0009> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0009" ;
+  dcterms:subject "Colonialism, slavery, and trade", "Cuban History and Society", "Historical Studies in Central America" .
 
 <https://medjat.irokosociety.org/id/library/8C7BRIYB>
   a schema:ScholarlyArticle ;
@@ -3740,6 +3499,32 @@
   dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0010" ;
   dcterms:subject "African history and culture studies", "Cuban History and Society", "Race, History, and American Society" .
 
+<https://medjat.irokosociety.org/id/library/9HMVLEJZ>
+  a schema:Chapter ;
+  schema:name "Disintegration of the Spanish Empire" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=9HMVLEJZ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:9HMVLEJZ" ;
+  schema:description "This chapter reviews the last two decades of colonial rule, including the official termination of the African cabildos de nación, their Three Kings’ Day processions in Havana, and the attempts by police to destroy Abakuá by confiscating their sacred objects. In the emergent Cuban popular theater and music there is evidence of Abakuá used as a symbol of cubanía (Cuban-ness). To illustrate contemporary anecdotes gathered about Abakuá and African-descended General Antonio Maceo, the chapter reviews the significance of Maceo, whose mother is regarded as the “mother of the Cuban nation”." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0007> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0007" ;
+  dcterms:subject "Cuban History and Society" .
+
+<https://medjat.irokosociety.org/id/library/V8LYB2MK>
+  a schema:Chapter ;
+  schema:name "Dispersal" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=V8LYB2MK> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:V8LYB2MK" ;
+  schema:description "This chapter describes how Abakué was made illegal in 1875, with its members (as well as other anticolonials) dispersed to Spanish penal colonies in North and West Africa. Those who could escaped from Cuba to Florida to join the emerging cigar industry. Responding to scholarship that argues for the recreation of Abakuá lodges in exile, having learned otherwise from Abakuá leaders, the chapter discusses issues basic to the process, which highlight the extraordinary achievements of Abakuá’s foundation in Cuba." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0006> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0006" ;
+  dcterms:subject "Colonialism, slavery, and trade" .
+
 <https://medjat.irokosociety.org/id/library/FEH9BKW7>
   a schema:ScholarlyArticle ;
   schema:name "Elephant and Leopard Symbols in the Cross River Region and Its Caribbean Diaspora" ;
@@ -3754,6 +3539,19 @@
   dcterms:identifier "doi:10.1162/afar.a.828" ;
   dcterms:subject "African Studies and Ethnography", "Archaeology and Rock Art Studies", "Colonialism, slavery, and trade" .
 
+<https://medjat.irokosociety.org/id/library/LDADYYKY>
+  a schema:Chapter ;
+  schema:name "Havana Is the Key" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=LDADYYKY> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:LDADYYKY" ;
+  schema:description "A profound relationship exists between Abakuá and Cuban popular music. This chapter lays out evidence for Calabarí presence in the formation of rumba music in the nineteenth century and the use of clave sticks in the rumba and son genres. It also describes how Abakuá composers have consistently recorded their social and ritual history using Abakuá language as well as rhythms and distinctive sounds in commercial recordings." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0008> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0008" ;
+  dcterms:subject "Cuban History and Society" .
+
 <https://medjat.irokosociety.org/id/library/A459C3DY>
   a schema:Chapter ;
   schema:name "Introduction" ;
@@ -3766,6 +3564,19 @@
   schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0001> ;
   dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0001" ;
   dcterms:subject "African history and culture studies" .
+
+<https://medjat.irokosociety.org/id/library/75F4QC2L>
+  a schema:Chapter ;
+  schema:name "Planting Abakuá in Cuba, 1830s to 1860s" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=75F4QC2L> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:75F4QC2L" ;
+  schema:description "This chapter uses the concept of planting, of activating the brotherhood—shared by Ékpè and Abakuá—to describe how Abakuá expanded from the 1830s to 1860s in a cosmopolitan urban environment, and in the face of repression as experienced in the wake of the infamous Conspiracy of La Escalera in the 1840s. Documenting the process of the transmission of Ékpè into Cuba, the chapter lists the major lodges founded and identifies their possible Cross River precedents. In the 1860s, Abakuá expanded into the nearby port city of Matanzas, with the sponsorship of Havana lodges." ;
+  schema:author "Ivor L. Miller" ;
+  schema:datePublished "2009" ;
+  schema:sameAs <https://doi.org/10.14325/mississippi/9781934110836.003.0004> ;
+  dcterms:identifier "doi:10.14325/mississippi/9781934110836.003.0004" ;
+  dcterms:subject "Cuban History and Society" .
 
 <https://medjat.irokosociety.org/id/library/BM3G5K2E>
   a schema:ScholarlyArticle ;
@@ -3810,19 +3621,6 @@
   dcterms:identifier "doi:10.14325/mississippi/9781934110836.001.0001" ;
   dcterms:subject "Caribbean history, culture, and politics", "Cuban History and Society" .
 
-<https://medjat.irokosociety.org/id/library/KZ5CK3A5>
-  a schema:Thesis ;
-  schema:name "Damage-controlled logging in managed tropical rain forest in Suriname" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=KZ5CK3A5> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:KZ5CK3A5" ;
-  schema:description "Concern about worldwide deforestation and exploitation of the tropical rain forests has led to friction between national governments, wood industries and timber trade on the one hand, and scientists and environmental organizations on the other. One way to safeguard the tropical rain forests is to avoid human interference and to use forests only as nature reserves and as buffer zones of environmental protection. Some vulnerable tropical rain forests and those with unique flora and fauna should, indeed, be treated in this way. Most forests, however, have the potential to produce timber and other products on a sustainable basis provided that they are managed wisely. This study is concerned with sustained timber production of tropical rain forests, particularly with damage control during timber harvesting.The harvesting study is part of multidisciplinary research to develop a forest management system for sustained timber production in Suriname. The research started in the 1960s on an experimental scale in the northern Forestry Belt of Suriname. At first, a monocyclic silvicultural system was chosen with the aim of converting selectively logged rain forests by silvicultural measures into stands of valuable commercial timbers in a period of 60 to 80 years (Schulz, 1960; Boerboom, 1965). The long rotation period, intensive weed control and tending of future crop trees made this system economically unattractive.In the 1970s, a polycyclic sivicultural system was tested, envisaging timber harvests in felling cycles of 20 years by treatments of logged-over forest. This system, later known as CELOS Silvicultural System (CSS), was developed after further research (de Graaf, 1986; Poels, 1987; Jonkers, 1987). In 1981 harvesting studies were included to extend the CSS into a forest management system. Field experiments were carried out in order to compare controlled (organized) logging with conventional (unorganized, haphazardous) logging. These experiments covered damage to the remaining stand caused by felling and skidding of trees, the impact of skidding machines on the forest soil, and organizational and administrative aspects of logging.The research was carried out mainly in Mapane region, 100 km south-east of Paramaribo (Figs 2.1 and 3.1). Conventional, commercial logging operations and controlled logging experiments were studied in a forest area of 640 ha during the period 1982-1984. A number of observations were made in an area of 100 ha, 120 km south-east of Paramaribo, in the forest estate Patamacca, of the Bruynzeel Wood Company (BSH), the largest forest concession holder in Suriname.Felling and skidding impacts to the remaining stand were determined by mapping and calculating the affected forest area. Felling damage was assessed in terms of gaps (chablis) in the forest resulting from a felled tree, and also by the number of damaged trees per ha. Controlled felling, which includes directional felling based on a tree location map in order to facilitate skidding, was shown to reduce felling damage significantly. At a felling intensity of 8-10 trees per ha (20 m 3), approximatly 14% of the forest area was damaged in conventional felling compared with 8% in controlled felling. In controlled skidding, damage was restricted to 5-8% of the remaining forest, whereas in conventional skidding the affected area exceeded 14%. Skidding damage was also substantial (13%) in the organized harvesting operations of BSH, amounting to 7% due to pre-sorting operations of crawlers in the stump area and 6% due to wheeled skidding on trails.Soil damage may result from movement of skidders. As well as rutting and disturbance to the structure, the soil may also be compacted. The type and degree of compaction are determined by soil characteristics such as structure, texture, field moisture content and organic matter content, and by characteristics of the skidders such as gross vehicle weight, steering system, and tyre and track type. Soil compaction was measured on soil samples and with the aid of a penetrometer. The soil moisture was also assessed by determining the saturated conductivity (K factor) and pF value. Subjected to intensive machine traffic, primary skid trails (main trails from stump areas to log landings), were found to be highly compacted. Most secondary branch trails (log-collecting trails in the stump areas) were compacted to some degree, depending on traffic intensity.Trail sections with moisture content near field capacity were maximally compacted after a few round trips of the loaded skidder. Moisture content appeared to be a decisive factor in the soil degrading process. Soil recovery was a slow process, and skid trails used eight years previously were still found to be maximally compacted.Controlled logging was found to be more efficient than conventional logging. This was examined by measuring logging production in relation to effective crew and machine time, and also by studying the suboperations in a working cycle. Measures to control felling damage were not found to have a negative effect on production. Mean felling productivity was similar for both systems, being 0.07 man-day per m 3in the conventional and 0.08 man-days per m 3in controlled system. On an annual basis, skidding production under the controlled system was twice that of conventional logging. This difference can be explained in terms of planning and preparation of harvesting activities undertaken in the controlled system, and also the skidding method based on a pre-established skid trail network. The controlled skidding method was more efficient as 40% less machine time was required per unit of product transported.The research findings provided the basis for theCELOSHarvesting System (CHS) aiming at combining logging efficiency and damage prevention. Timber harvesting is based on planning and pre-harvesting preparations, work organization and adapted logging techniques.The cornerstone for planning is forest prospecting, that is a full (100%)enumeration of harvestable commercial trees. Prospecting data, including terrain characteristics, are mapped and recorded for the use of felling and skidding crews in searching for trees. The maps are also used to design a skid trail network for efficient terrain transport of logs from the stump area to landings along the truck roads. In this way a plan of operations can be made annually for all harvesting work.The skid trail system should be established prior to harvesting in order to facilitate tree felling according to the skidding pattern, thus combining damage prevention and skidding efficiency. The damaging effects of skidding in the stump area can also be reduced by winching logs to the trails. The additional costs of damage prevention are compensated by overall improvement in logging efficiency.The logging organization of a management unit is composed of one prospecting crew (5 men), one felling crew (3 men), one crawler tractor crew (2 men) and one wheeled skidder crew (2 men). This unit is supervised by an assistant manager (ranger). All field staff need to be trained in basic techniques such as tree spotting, scaling, and power saw operation to enable job rotation and thus greater flexibility in operation. Training of machine operators especially should focus on damage prevention and logging efficiency. Such an organizational unit should be able to harvest annually an area of 1000 ha.The CELOS Harvesting System and the CELOS Silvicultural System are the subsystems of the CELOS Management System (CMS) which has been designed for a forest unit of approximately 25 000 ha. Central to this polycyclic system are the management objectives and planning for the subsystems. A major aim is restriction of logging impacts to the soil and the remaining stand. Felling intensity is restricted, for instance for Suriname to 30 m 3/ha, in order to maintain the ecological, conservational, and protective functions of the forest. The present study gives guidelines for the layout of a standard management unit with a production target of at least 25 000 to 30 000 m 3per year and also indicates how harvesting and silvicultural operations can be integrated. The CELOS Management System is applicable in the northern Forestry Belt of Suriname and probably in similar forest types of the Amazon basin. Timber harvesting according to this system is applicable or adaptable to most lowland tropical rain forests." ;
-  schema:author "J. Hendrison" ;
-  schema:datePublished "1990" ;
-  schema:sameAs <https://doi.org/10.18174/202887> ;
-  dcterms:identifier "doi:10.18174/202887" ;
-  dcterms:subject "Agriculture and Rural Development Research", "Forest Biomass Utilization and Management", "Forest Management and Policy" .
-
 <https://medjat.irokosociety.org/id/library/368TY97R>
   a schema:Thesis ;
   schema:name "The 'slave of all': a tradition-historical study of a synoptic saying" ;
@@ -3834,18 +3632,6 @@
   schema:datePublished "1987" ;
   schema:publisher "Durham e-Theses (Durham University)" ;
   dcterms:subject "Archaeology and Historical Studies", "Biblical Studies and Interpretation" .
-
-<https://medjat.irokosociety.org/id/library/3VGMGNZV>
-  a schema:Thesis ;
-  schema:name "Gold jewellery in Ptolemaic, Roman and Byzantine Egypt" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=3VGMGNZV> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:3VGMGNZV" ;
-  schema:description "This study deals with the gold jewellery made and worn in Egypt during the millennium between Alexander the Great's invasion of Egypt and the Arab conquest.Funerary jewellery is largely ignored as are ornaments in the traditional, older Egyptian styles.The work draws upon a wide variety of evidence, in particular the style, composition and construction of surviving jewellery, the many representations of jewellery in wear, such as funerary portraits, and the numerous literary references from the papyri and from Classical and early Christian writers.Egypt, during the period considered, has provided a greater wealth of such information than anywhere else in the ancient or medieval world and this allows a broadly based study of jewellery in a single ancient society.The individual chapters deal with a brief historical background; the information available from papyri and other literary sources; the sources, distribution, composition and value of gold; the origins and use of mineral and organic gem materials; the economic and social organisation of the goldsmiths' trade; and the individual jewellery types, their chronology, manufacture and significance.This last section is covered in four chapters which deal respectively with rings, earrings, necklets and pendants, and bracelets and armiets.These nine chapters are followed by a detailed bibliography and a list of the 511 illustrations." ;
-  schema:author "Jack Ogden" ;
-  schema:datePublished "1990" ;
-  schema:publisher "Durham e-Theses (Durham University)" ;
-  dcterms:subject "Law, logistics, and international trade", "Maritime and Coastal Archaeology", "Metallurgy and Cultural Artifacts" .
 
 <https://medjat.irokosociety.org/id/library/9AR8BHL5>
   a schema:Thesis ;
@@ -3985,21 +3771,6 @@
   schema:publisher "TSpace" ;
   dcterms:subject "Employment and Welfare Studies", "Food Security and Health in Diverse Populations", "Migration and Labor Dynamics" .
 
-<https://medjat.irokosociety.org/id/library/5JA7MW82>
-  a schema:ScholarlyArticle ;
-  schema:name "Fíbula de codo tipo Huelva en el entorno norte de la Vega de Granada" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=5JA7MW82> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:5JA7MW82" ;
-  schema:description "El hallazgo de una nueva fíbula de codo 'tipo Huelva', en el borde norte de la Vega de Granada, contribuye a ratificar la importancia del Sureste y, concretamente, de la provincia de Granada en el desarrollo de la metalurgia del Bronce Final hispano. La composición de su aleación, pobre en estaño y con presencia de arsénico, la adscribe al grupo granadino como una producción más de los talleres metalúrgicos existentes, al tiempo que la separa del conjunto de la Ría de Huelva y del oeste peninsular. Por otro lado, su exclusiva decoración con botones de oro le confiere un carácter suntuario que debemos poner en relación con los rituales propios del mundo funerario y de prestigio de las clases sociales eminentes en las últimas comunidades prehistóricas. Todo ello en íntima conexión con los problemas del intercambio de bienes, la precolonización, las interrelaciones mediterráneas y la extensión del uso de tejidos de lujo." ;
-  schema:author "Javier Carrasco Rus" ;
-  schema:creator "Juan Antonio Pachón Romero" ;
-  schema:datePublished "2001" ;
-  schema:publisher "SPAL Revista de Prehistoria y Arqueología de la Universidad de Sevilla" ;
-  schema:sameAs <https://doi.org/10.12795/spal.2001.i10.16> ;
-  dcterms:identifier "doi:10.12795/spal.2001.i10.16" ;
-  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Historical Studies of Medieval Iberia" .
-
 <https://medjat.irokosociety.org/id/library/5ASHK9SK>
   a schema:ScholarlyArticle ;
   schema:name "The Many Faces of Art in Global Africa" ;
@@ -4057,7 +3828,7 @@
 
 <https://medjat.irokosociety.org/id/library/8MKQ77U3>
   a schema:Thesis ;
-  schema:name "\"And Be It So Enacted\": Natural Law and Southern Federalism in the Fugitive Slave Controversy" ;
+  schema:name "And Be It So Enacted: Natural Law and Southern Federalism in the Fugitive Slave Controversy" ;
   schema:url <https://medjat.irokosociety.org/library/?item=8MKQ77U3> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:8MKQ77U3" ;
@@ -4194,7 +3965,7 @@
 
 <https://medjat.irokosociety.org/id/library/QWBYJ79H>
   a schema:ScholarlyArticle ;
-  schema:name "LAS RELIGIONES POPULARES CUBANAS: BREVES COMENTARIOS A MEDIO SIGLO" ;
+  schema:name "Las Religiones Populares Cubanas: Breves Comentarios a Medio Siglo" ;
   schema:url <https://medjat.irokosociety.org/library/?item=QWBYJ79H> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:QWBYJ79H" ;
@@ -4385,19 +4156,6 @@
   schema:publisher "Basic Books" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85001657> .
 
-<https://medjat.irokosociety.org/id/library/6AUVH3WM>
-  a schema:Thesis ;
-  schema:name "Time domain passivity control for delayed teleoperation" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=6AUVH3WM> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:6AUVH3WM" ;
-  schema:description "La telepesencia combina diferentes modalidades sensoriales, incluyendo, entre otras, la visual y la del tacto, para producir una sensación de presencia remota en el operador. Un elemento clave en la implementación de sistemas de telepresencia para permitir una telemanipulación del entorno remoto es el retorno de fuerza. Durante una telemanipulación, la energía mecánica es transferida entre el operador humano y el entorno remoto. En general, la energía es una propiedad de los objetos físicos, fundamental en su mutual interacción. En esta interacción, la energía se puede transmitir entre los objetos, puede cambiar de forma pero no puede crearse ni destruirse. En esta tesis, se aplica este principio fundamental para derivar un nuevo método de control bilateral que permite el diseño de sistemas de teleoperación estables para cualquier arquitectura concebible. El razonamiento parte del hecho de que la energía mecánica insertada por el operador humano en el sistema debe transferirse hacia el entorno remoto y viceversa. Tal como se verá, el uso de la energía como variable de control permite un tratamiento más general del sistema que el control convencional basado en variables específicas del sistema. Mediante el concepto de Red de Potencia de Retardo Temporal (RPRT), el problema de definir los flujos de energía en un sistema de teleoperación es solucionado con independencia de la arquitectura de comunicación. Como se verá, los retardos temporales son la principal causa de generación de energía virtual. Este hecho se observa con retardos a partir de 1 milisegundo. Esta energía virtual es añadida al sistema de forma intrínseca y representa la causa principal de inestabilidad. Se demuestra que las RPRTs son transportadoras de la energía deseada intercambiada entre maestro y esclavo pero a la vez generadoras de energía virtual debido al retardo temporal. Una vez estas redes son identificadas, el método de Control de Pasividad en el Dominio Temporal para RPRTs se propone como mecanismo de control para asegurar la pasividad del sistema, y as__ la estabilidad. El método se basa en el simple hecho de que esta energía virtual debido al retardo debe transformarse en disipación. As__ el sistema se aproxima al sistema deseado, donde solo la energía insertada desde un extremo es transferida hacia el otro. El sistema resultante presenta dos cualidades: por un lado la estabilidad del sistema queda garantizada con independencia de la arquitectura del sistema y del canal de comunicación; por el otro, el rendimiento es maximizado en términos de fidelidad de transmisión energética. Los métodos propuestos se sustentan con sistemas experimentales con diferentes arquitecturas de control y retardos entre 2 y 900 ms. La tesis concluye con un experimento que incluye una comunicación espacial basada en el satélite geoestacionario ASTRA. ABSTRACT Telepresence combines different sensorial modalities, including vision and touch, to produce a feeling of being present in a remote location. The key element to successfully implement a telepresence system and thus to allow telemanipulation of a remote environment is force feedback. In a telemanipulation, mechanical energy must convey from the human operator to the manipulated object found in the remote environment. In general, energy is a property of all physical objects, fundamental to their mutual interactions in which the energy can be transferred among the objects and can change form but cannot be created or destroyed. In this thesis, we exploit this fundamental principle to derive a novel bilateral control mechanism that allows designing stable teleoperation systems with any conceivable communication architecture. The rationale starts from the fact that the mechanical energy injected by a human operator into the system must be conveyed to the remote environment and Vice Versa. As will be seen, setting energy as the control variable allows a more general treatment of the controlled system in contrast to the more conventional control of specific systems variables. Through the Time Delay Power Network (TDPN) concept, the issue of defining the energy flows involved in a teleoperation system is solved with independence of the communication architecture. In particular, communication time delays are found to be a source of virtual energy. This fact is observed with delays starting from 1 millisecond. Since this energy is added, the resulting teleoperation system can be non-passive and thus become unstable. The Time Delay Power Networks are found to be carriers of the desired exchanged energy but also generators of virtual energy due to the time delay. Once these networks are identified, the Time Domain Passivity Control approach for TDPNs is proposed as a control mechanism to ensure system passivity and therefore, system stability. The proposed method is based on the simple fact that this intrinsically added energy due to the communication must be transformed into dissipation. Then the system becomes closer to the ambitioned one, where only the energy injected from one end of the system is conveyed to the other one. The resulting system presents two benefits: On one hand, system stability is guaranteed through passivity independently from the chosen control architecture and communication channel; on the other, performance is maximized in terms of energy transfer faithfulness. The proposed methods are sustained with a set of experimental implementations using different control architectures and communication delays ranging from 2 to 900 milliseconds. An experiment that includes a communication Space link based on the geostationary satellite ASTRA concludes this thesis." ;
-  schema:author "Jordi Artigas Esclusa" ;
-  schema:datePublished "2014" ;
-  schema:sameAs <https://doi.org/10.20868/upm.thesis.33677> ;
-  dcterms:identifier "doi:10.20868/upm.thesis.33677" ;
-  dcterms:subject "Teleoperation and Haptic Systems" .
-
 <https://medjat.irokosociety.org/id/library/P8G69BBI>
   a schema:ScholarlyArticle ;
   schema:name "After the Revolution: The Search for Roots in Afro-Cuban Culture" ;
@@ -4586,21 +4344,6 @@
   schema:sameAs <https://doi.org/10.4000/gradhiva.3044> ;
   dcterms:identifier "doi:10.4000/gradhiva.3044" ;
   dcterms:subject "Diverse multidisciplinary academic research", "Linguistics and Discourse Analysis", "Literary and Cultural Studies" .
-
-<https://medjat.irokosociety.org/id/library/GMKJBA5V>
-  a schema:ScholarlyArticle ;
-  schema:name "Estudio tecnológico de las estatuillas antropomorfas y de los tupus miniatura del hallazgo de Paucartambo (Cusco, Perú)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=GMKJBA5V> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:GMKJBA5V" ;
-  schema:description "En el trabajo se describen los estudios realizados por microscopía óptica y fluorescencia de rayos X (FRX) portátil a seis estatuillas y siete tupus miniatura, objetos inkas de sacrificios rituales, ofrendas en aleación de plata y en aleación de oro, provenientes del sitio arqueológico de Chimur, en Chayllabamba, provincia de Paucartambo; es parte de la colección del Museo Inka del Cusco (Perú). Este conjunto incluye la única estatuilla antropomorfa bicolor de proveniencia conocida (elaborada en plata y cobre) y una ofrenda intacta presentada en una caja de madera, conteniendo una estatuilla femenina en plata, envuelta en textiles prendidos con dos tupus de plata. Los resultados registrados sobre la diversidad tipológica de las estatuillas, la diversidad de las tecnologías y de las aleaciones empleadas por los orfebres en su elaboración son discutidos, así como la homogeneidad observada en la elaboración de los tupus." ;
-  schema:author "Julio César Sierra Palomino" ;
-  schema:creator "María Filomena Guerra" ;
-  schema:datePublished "2017" ;
-  schema:publisher "Bulletin de l’Institut français d’études andines" ;
-  schema:sameAs <https://doi.org/10.4000/bifea.8387> ;
-  dcterms:identifier "doi:10.4000/bifea.8387" ;
-  dcterms:subject "Archaeology and ancient environmental studies", "Conservation Techniques and Studies", "Cultural Heritage Materials Analysis" .
 
 <https://medjat.irokosociety.org/id/library/9E7UIAFM>
   a schema:Book ;
@@ -4886,19 +4629,6 @@
   schema:publisher "Durham e-Theses (Durham University)" ;
   dcterms:subject "Global Financial Crisis and Policies", "International Development and Aid", "State Capitalism and Financial Governance" .
 
-<https://medjat.irokosociety.org/id/library/VDSL6DP6>
-  a schema:Book ;
-  schema:name "El legado de Borgoña. Fiesta y ceremonia cortesana en la Europa de los Austrias (1454-1648)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=VDSL6DP6> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:VDSL6DP6" ;
-  schema:description "A lo largo del siglo XV se desarrolla en la corte de los duques de Borgona una etiqueta palaciega y una estructura de servicio y representacion que tendra gran influencia en muchas cortes europeas, gracias a los lazos de parentesco establecidos con la Casa de Austria. Este volumen analiza a distintos niveles la presencia y adaptacion de las tradiciones flamenco-borgononas en las fiestas y ceremonias extraordinarias, en los rituales de paso, en la cultura caballeresca, en el ambito de y la Orden del Toison de Oro, y en la conformacion de la propia memoria dinastica, considerando un marco cronologico que se inicia con el fabuloso banquete de los Votos del Faisan celebrado en Lille en 1454 y que se extiende hasta mediados del siglo XVII." ;
-  schema:author "Krista De Jonge" ;
-  schema:creator "Bernardo José García García", "Alicia Esteban Estríngana" ;
-  schema:datePublished "2010" ;
-  schema:publisher "Medical Entomology and Zoology" ;
-  dcterms:subject "Historical Influence and Diplomacy", "Medieval and Early Modern Iberia", "Spanish Literature and Culture Studies" .
-
 <https://medjat.irokosociety.org/id/library/IXYVLFVG>
   a schema:Thesis ;
   schema:name "Illicit Mobilities and Wandering Lives: Indigent Transiency in the Mid-Atlantic, 1816-1850" ;
@@ -4950,20 +4680,6 @@
   schema:sameAs <https://doi.org/10.35645/1711-011-003-012> ;
   dcterms:identifier "doi:10.35645/1711-011-003-012" ;
   dcterms:subject "Afro-Latin American Studies", "Cuban History and Society", "Historical Studies in Central America" .
-
-<https://medjat.irokosociety.org/id/library/ZRD9RY6U>
-  a schema:Thesis ;
-  schema:name "Hybrid machine modelling and control." ;
-  schema:url <https://medjat.irokosociety.org/library/?item=ZRD9RY6U> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:ZRD9RY6U" ;
-  schema:description "Non-uniform motion in machines can be conceived in terms of linkage mechanisms or cams which transform the notionally uniform motion of a motor. Alternatively the non-uniform motion can be generated directly by a servo~motor under computer control. The advantage of linkage mechanisms and cams is that they are capable of higher speeds. They usually admit the means of introduction of dynamic balancing without extra parts and a high degree of energy conservation exists within the arrangement in motion. The advantage of servo~motors is that it is easier to re-program their motion to provide the versatility required of many manufacturing processes.&#13;\\nTo generate non-uniform mechanism motion, two alternative techniques are envisaged in the work presented.&#13;\\n(i) where a servo-motor drives a linkage to produce an output. The motion transformation is determined with the geometry of the linkage. The mechanism acts as a non-uniform inertia buffer between the output and the motor.&#13;\\n(ii) where a constant speed motor acts in combination with a servo-motor and a differential mechanism to produce the output motion of a linkage.&#13;\\nMachines of these two kinds combine both linkage and a programmable driver. The first configuration is referred to a programmable machine, the second one is referred to as a hybrid machine. The focus of interest here is on the hybrid machine. One anticipated benefit, the second would have over the first, is that the size of the servo-motor power requirement should come down.&#13;\\nIn order to explore the idea an experimental rig involving a slider-crank mechanism is designed and built. Initially a computer model is developed for this so-called hybrid machine. The motion is implemented on an experimental rig using a sampled data control system. The torque and power relations for the system are considered. The power flow in the rig is analysed and compared with the computer model. The merits of the hybrid machine are then compared with the programmable machine. The hybrid machine is further represented with bond graphs. Lastly, the observations on the present work are presented as a guide for the development and use of hybrid machines." ;
-  schema:author "Lale Canan Tokuz" ;
-  schema:datePublished "2016" ;
-  schema:publisher "Liverpool John Moores University" ;
-  schema:sameAs <https://doi.org/10.24377/ljmu.t.00005039> ;
-  dcterms:identifier "doi:10.24377/ljmu.t.00005039" ;
-  dcterms:subject "Control and Stability of Dynamical Systems", "Modeling and Simulation Systems", "Robotic Mechanisms and Dynamics" .
 
 <https://medjat.irokosociety.org/id/library/HQHXF794>
   a schema:Book ;
@@ -5049,7 +4765,7 @@
 
 <https://medjat.irokosociety.org/id/library/M3T43XL3>
   a schema:ScholarlyArticle ;
-  schema:name "\"La Revolución la hicieron los hombres, los machos\": La remise en cause du machisme dans De cierta manera (1974-1977), de Sara Gómez" ;
+  schema:name "La Revolución La Hicieron Los Hombres, Los Machos: La Remise En Cause Du Machisme Dans De Cierta Manera (1974-1977), De Sara Gómez" ;
   schema:url <https://medjat.irokosociety.org/library/?item=M3T43XL3> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:M3T43XL3" ;
@@ -5293,21 +5009,6 @@
   schema:publisher "Warwick Research Archive Portal (University of Warwick)" ;
   dcterms:subject "Asian Studies and History", "International Development and Aid", "Socioeconomic Development in Asia" .
 
-<https://medjat.irokosociety.org/id/library/SHNDVPPA>
-  a schema:Book ;
-  schema:name "Creole Religions of the Caribbean" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=SHNDVPPA> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:SHNDVPPA" ;
-  schema:description "Creolization-the coming together of diverse beliefs and practices to form new beliefs and practices-is one of the most significant phenomena in Caribbean religious history. Brought together in the crucible of the sugar plantation, Caribbean peoples drew on the variants of Christianity brought by European colonizers, as well as on African religious and healing traditions and the remnants of Amerindian practices, to fashion new systems of belief.Creole Religions of the Caribbean offers a comprehensive introduction to the syncretic religions that have developed in the region. From Vodou, Santería, Regla de Palo, the Abakuá Secret Society, and Obeah to Quimbois and Espiritismo, the volume traces the historical-cultural origins of the major Creole religions, as well as the newer traditions such as Pocomania and Rastafarianism. This second edition updates the scholarship on the religions themselves and also expands the regional considerations of the Diaspora to the U. S. Latino community who are influenced by Creole spiritual practices. Fernández Olmos and Paravisini-Gebert also take into account the increased significance of material culture-art, music, literature-and healing practices influenced by Creole religions.In the Religion, Race, and Ethnicity series" ;
-  schema:author "Lizabeth Paravisini-Gebert" ;
-  schema:creator "Margarite Fernández Olmos" ;
-  schema:datePublished "2020" ;
-  schema:publisher "New York University Press eBooks" ;
-  schema:sameAs <https://doi.org/10.18574/nyu/9780814728253.001.0001> ;
-  dcterms:identifier "doi:10.18574/nyu/9780814728253.001.0001" ;
-  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .
-
 <https://medjat.irokosociety.org/id/library/47QEDXTV>
   a schema:Chapter ;
   schema:name "The Afro-Cuban Religious Traditions of Regla de Palo and the Abakuá Secret Society" ;
@@ -5399,18 +5100,6 @@
   schema:publisher "Afro - Hispanic Review" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo> ;
   dcterms:subject "Palo" .
-
-<https://medjat.irokosociety.org/id/library/KSW5LHZ6>
-  a schema:ScholarlyArticle ;
-  schema:name "Sob a face de um bruxo" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=KSW5LHZ6> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:KSW5LHZ6" ;
-  schema:description "O ensaio abaixo foi originalmente publicado em Dispersa demanda (Ensaios sobre literature e teoria), em 1981. Ha muito esgotado, enquanto esteve nas livrarias nao teve grande procura, nem gozou de particular estima entre os machadianos. Como autor, nao me cabe julgar se era justo o seu ostracismo. Dai minha positiva surpresa com o oferecimento dos professores Paulo Roberto Sodre e Sergio da Fonseca Amaral em republica-lo na revista eltronica que dirigem. Apresento-o sem grandes mudancas alem da correcao de gralhas e/ou da procura de explicacoes menos imperfeitas. (A mudanca mais saliente aparece nas Notas: na edicao original, eram tao caoticas que, sem encontrar a que parte do texto corresponderiam, tive de eliminar algumas delas). E certo que gostaria de modifica-lo mais intensamente. Mas, entre o muito que tenho pretendido fazer, provavelmente sera muito pouco o que de fato deixarei feito. Nos 28 anos que transcorreram desde sua publicacao, quase nao escrevi sobre Machado. Apenas em livro recente, O Controle do imaginario e a afirmacao do romance (Companhia das Letras, Sao Paulo 2009), revi o que tinha aqui dito sobre o Tristram Shandy, dedicando-lhe um capitulo que suponho ir alem dos preliminares que eram entao rascunhados. Nesta ocasiao, contudo, nao fazia sentido observar melhor sua presenca em Machado." ;
-  schema:author "Luiz Costa Lima" ;
-  schema:datePublished "2009" ;
-  schema:publisher "REEL - Revista Eletrônica de Estudos Literários" ;
-  dcterms:subject "Cultural, Media, and Literary Studies", "Linguistics and Education Research", "Literature, Culture, and Criticism" .
 
 <https://medjat.irokosociety.org/id/library/WV9NQ8NC>
   a schema:Thesis ;
@@ -5544,18 +5233,6 @@
   schema:publisher "Digital Repository at the University of Maryland (University of Maryland College Park)" ;
   dcterms:subject "American Environmental and Regional History", "Colonialism, slavery, and trade", "Race, History, and American Society" .
 
-<https://medjat.irokosociety.org/id/library/8FFBBF5Q>
-  a schema:Thesis ;
-  schema:name "Difficult Histories in an urban classroom" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=8FFBBF5Q> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:8FFBBF5Q" ;
-  schema:description "University of Minnesota Ph.D. dissertation. June 2010. Major: Education, Curriculum and Instruction. Advisors: Patricia G. Avery, Benjamin M. Jacobs. 1 computer file (PDF); vi, 156 pages, appendices A-B." ;
-  schema:author "Maia Sheppard" ;
-  schema:datePublished "2010" ;
-  schema:publisher "University of Minnesota Digital Conservancy (University of Minnesota)" ;
-  dcterms:subject "Cultural Identity and Representation", "Educator Training and Historical Pedagogy", "Oral History, Memory, Narrative Analysis" .
-
 <https://medjat.irokosociety.org/id/library/UT45G3N7>
   a schema:Thesis ;
   schema:name "Leadership and the gospel in the early Pauline churches" ;
@@ -5593,19 +5270,6 @@
   schema:publisher "Universidad de Huelva eBooks" ;
   dcterms:subject "Historical Art and Architecture Studies", "Historical Studies on Spain" .
 
-<https://medjat.irokosociety.org/id/library/8B8BQG98>
-  a schema:Chapter ;
-  schema:name "Retrospective Analysis Within a Counterpoint Framework" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=8B8BQG98> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:8B8BQG98" ;
-  schema:description "Abstract In this chapter, two forms of analysis that are frequently undertaken in cognitive archaeology—prospective analysis and retrospective analysis—are differentiated. Prospective analysis in recent decades has tended to dominate certain themes in cognitive archaeological research and among these themes is the study of ancient Maya rituals. In this study, a retrospective analysis is conducted on a stela ritual deposit uncovered at the ancient Maya site of Quebrada de Oro located in the interior of the southern Maya Mountains of Belize. Retrospective analysis involves anchoring inferences regarding aspects of the human mind in the past—in this case, motives—to epistemologically familiar human behaviors and thought processes. The interpretation from the results of this analysis is used as a counterpoint to the conventional interpretation of similar ancient Maya ritual deposits which have been derived from prospective analysis. This proposed analytical framework of using both forms of analysis as respective counterpoints, it is asserted, can broaden or narrow our interpretations of the study of the human mind in the past depending on the case." ;
-  schema:author "Marc A. Abramiuk" ;
-  schema:datePublished "2023" ;
-  schema:sameAs <https://doi.org/10.1093/oxfordhb/9780192895950.013.39> ;
-  dcterms:identifier "doi:10.1093/oxfordhb/9780192895950.013.39" ;
-  dcterms:subject "Categorization, perception, and language" .
-
 <https://medjat.irokosociety.org/id/library/MIKPTKW7>
   a schema:Thesis ;
   schema:name "Los Raperos: rap, race, and social transformation in contemporary Cuba" ;
@@ -5634,7 +5298,7 @@
 
 <https://medjat.irokosociety.org/id/library/TZHY8FUB>
   a schema:Thesis ;
-  schema:name "TESTEMUNHA OCULAR DA INSERÇÃO DO NEGRO NA BRIGADA MILITAR DO RIO GRANDE DO SUL NO COMEÇO DA REPÚBLICA ATRAVÉS DAS FOTOGRAFIAS" ;
+  schema:name "Testemunha Ocular Da Inserção Do Negro Na Brigada Militar Do Rio Grande Do Sul No Começo Da República Através Das Fotografias" ;
   schema:url <https://medjat.irokosociety.org/library/?item=TZHY8FUB> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:TZHY8FUB" ;
@@ -5718,34 +5382,18 @@
 
 <https://medjat.irokosociety.org/id/library/CDKAYH2J>
   a schema:Book ;
-  schema:name "Creole Religions of the Caribbean, Third" ;
+  schema:name "Creole Religions of the Caribbean, Third Edition" ;
   schema:url <https://medjat.irokosociety.org/library/?item=CDKAYH2J> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:CDKAYH2J" ;
   schema:description "An updated introduction to the religions developed in the Caribbean regionCreole Religions of the Caribbean offers a comprehensive introduction to the overlapping religions that have developed as a result of the creolization process. Caribbean peoples drew on the variants of Christianity brought by European colonizers, as well as on African religious and healing traditions and the remnants of Amerindian practices, to fashion new systems of belief. From Vodou, Santería, Regla de Palo, the Abakuá Secret Society, and Obeah to Quimbois and Espiritismo, the volume traces the historical–cultural origins of the major Creole religions, as well as the newer traditions such as Rastafari.This third edition updates the scholarship by featuring new critical approaches that have been brought to bear on the study of religion, such as queer studies, environmental studies, and diasporic studies. The third edition also expands the regional considerations of the diaspora to the US Latinx communities that are influenced by Creole spiritual practices, taking into account the increased significance of material culture?art, music, literature, and healing practices influenced by Creole religions" ;
-  schema:author "Margarite Fernández Olmos" ;
-  schema:creator "Lizabeth Paravisini-Gebert" ;
+  schema:author "Margarite Fernández Olmos", "Lizabeth Paravisini-Gebert" ;
   schema:datePublished "2022" ;
   schema:publisher "New York University Press eBooks" ;
   schema:sameAs <https://doi.org/10.18574/nyu/9781479803491.001.0001> ;
   dcterms:identifier "doi:10.18574/nyu/9781479803491.001.0001" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived> ;
-  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "Abakua", "Bantu-Derived", "Espiritismo", "Fon/Ewe-Derived", "Haitian Vodou", "Lucumí", "Obeah", "Palo", "Rastafari", "Santeria", "Trinidad Orisha", "Yoruba-Derived" .
-
-<https://medjat.irokosociety.org/id/library/5MUHAQXL>
-  a schema:Book ;
-  schema:name "Creole Religions of the Caribbean, Third Edition" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=5MUHAQXL> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:5MUHAQXL" ;
-  schema:description "An updated introduction to the religions developed in the Caribbean regionCreole Religions of the Caribbean offers a comprehensive introduction to the overlapping religions that have developed as a result of the creolization process. Caribbean peoples drew on the variants of Christianity brought by European colonizers, as well as on African religious and healing traditions and the remnants of Amerindian practices, to fashion new systems of belief. From Vodou, Santería, Regla de Palo, the Abakuá Secret Society, and Obeah to Quimbois and Espiritismo, the volume traces the historical-cultural origins of the major Creole religions, as well as the newer traditions such as Rastafari.This third edition updates the scholarship by featuring new critical approaches that have been brought to bear on the study of religion, such as queer studies, environmental studies, and diasporic studies. The third edition also expands the regional considerations of the diaspora to the US Latinx communities that are influenced by Creole spiritual practices, taking into account the increased significance of material culture?art, music, literature, and healing practices influenced by Creole religions" ;
-  schema:author "Margarite Fernández Olmos" ;
-  schema:creator "Lizabeth Paravisini-Gebert" ;
-  schema:datePublished "2022" ;
-  schema:publisher "New York University Press eBooks" ;
-  schema:sameAs <https://doi.org/10.18574/nyu/9781479803538.001.0001> ;
-  dcterms:identifier "doi:10.18574/nyu/9781479803538.001.0001" ;
-  dcterms:subject "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .
+  dcterms:subject "Material Culture", "Music", "Ritual", "Secret Society", "Caribbean history, culture, and politics", "Colonialism, slavery, and trade", "Abakua", "Bantu-Derived", "Espiritismo", "Fon/Ewe-Derived", "Haitian Vodou", "Lucumí", "Obeah", "Palo", "Rastafari", "Santeria", "Trinidad Orisha", "Yoruba-Derived" .
 
 <https://medjat.irokosociety.org/id/library/C7SSJSFC>
   a schema:Chapter ;
@@ -5786,21 +5434,6 @@
   schema:sameAs <https://doi.org/10.11606/t.8.2011.tde-04052012-124952> ;
   dcterms:identifier "doi:10.11606/t.8.2011.tde-04052012-124952" ;
   dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Urban Development and Societal Issues" .
-
-<https://medjat.irokosociety.org/id/library/4ALQ6SUU>
-  a schema:ScholarlyArticle ;
-  schema:name "Estudio de un conjunto de anillos votivos del santuario periurbano de Tútugi (Cerro del Castillo, Galera, Granada)" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=4ALQ6SUU> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:4ALQ6SUU" ;
-  schema:description "Este trabajo presenta el estudio morfotipológico y elemental de 46 anillos y 8 objetos de distinta tipología y metal (bronce, plomo, hierro y oro) recuperados en la intervención arqueológica realizada en el santuario periurbano de Tútugi, así como un conjunto de 22 anillos del Museo de Galera, con procedencia del Cerro del Real, que es el yacimiento sobre el que se desarrolla la Tútugi ibero-romana, como análisis básico para poder contrastar los resultados. La mayoría de anillos presentan una tipología similar, con algunas variantes formales, aunque con una heterogeneidad en su manufactura y procedencia. Se utilizaron bronces binarios o bronces plomados de manera indistinta, con un conjunto minoritario de cobres sin alear. Se constata cómo la ofrenda y depósito de los anillos es común al espacio ritual ibero de los siglos IV-III a. C., incorporándose como práctica que viene a completar una amplia cadena de acciones rituales, destacando en este lugar el depósito de miles de ollas y platos/cuencos. Asimismo, incorporamos algunas propuestas interpretativas que ponen de relieve cómo este tipo de ofrendas contribuye a la generación de memorias colectivas que incorporan nuevas fórmulas de cohesión social que tienen en los santuarios espacios de referencia fundamental." ;
-  schema:author "Maria Oliva Rodríguez‐Ariza" ;
-  schema:creator "Ignacio Montero Ruíz", "Carmen Rueda Galán", "Paloma Muriel López", "Eva Montes Moya" ;
-  schema:datePublished "2024" ;
-  schema:publisher "Archivo Español de Arqueología" ;
-  schema:sameAs <https://doi.org/10.3989/aespa.097.024.716> ;
-  dcterms:identifier "doi:10.3989/aespa.097.024.716" ;
-  dcterms:subject "Archaeological and Geological Studies", "Archaeological and Historical Studies", "Medieval Architecture and Archaeology" .
 
 <https://medjat.irokosociety.org/id/library/JYW49U6Q>
   a schema:Thesis ;
@@ -5881,7 +5514,7 @@
 
 <https://medjat.irokosociety.org/id/library/F6VLU65S>
   a schema:Thesis ;
-  schema:name "FROM MORAL CONDEMNATION TO ECONOMIC STRATEGIES: REFRAMING THE END OF THE BRITISH TRANSATLANTIC SLAVE TRADE" ;
+  schema:name "From Moral Condemnation to Economic Strategies: Reframing the End of the British Transatlantic Slave Trade" ;
   schema:url <https://medjat.irokosociety.org/library/?item=F6VLU65S> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:F6VLU65S" ;
@@ -6334,7 +5967,7 @@
 
 <https://medjat.irokosociety.org/id/library/MQFYPHDT>
   a schema:ScholarlyArticle ;
-  schema:name "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)" ;
+  schema:name "Oro De Los Señores: La Tumba 11 De La Isla De Tilcara (jujuy, Noroeste Argentino)" ;
   schema:url <https://medjat.irokosociety.org/library/?item=MQFYPHDT> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:MQFYPHDT" ;
@@ -6375,7 +6008,7 @@
 
 <https://medjat.irokosociety.org/id/library/VHQP9VWM>
   a schema:Thesis ;
-  schema:name "ENGENDERED EXPERIENCES OF FREEDOM: LIBERATED AFRICAN WOMEN IN RIO DE JANEIRO, 1834-1864" ;
+  schema:name "Engendered Experiences of Freedom: Liberated African Women in Rio De Janeiro, 1834-1864" ;
   schema:url <https://medjat.irokosociety.org/library/?item=VHQP9VWM> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:VHQP9VWM" ;
@@ -6566,16 +6199,6 @@
   schema:sameAs <https://doi.org/10.4000/gc.2384> ;
   dcterms:identifier "doi:10.4000/gc.2384" ;
   dcterms:subject "African Botany and Ecology Studies", "African Studies and Ethnography", "Agriculture and Rural Development Research" .
-
-<https://medjat.irokosociety.org/id/library/NESNS4AE>
-  a schema:ScholarlyArticle ;
-  schema:name "APETUNPE ORO-ORUKO AJEMOSOYE ALAINIGBEDEKE LEDE YORUBA" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=NESNS4AE> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:NESNS4AE" ;
-  schema:author "O ̣Ajíbóyè" ;
-  schema:datePublished "2010" ;
-  dcterms:subject "Cancer and Skin Lesions", "Power Systems and Technologies" .
 
 <https://medjat.irokosociety.org/id/library/97UFSQKS>
   a schema:Book ;
@@ -6959,18 +6582,6 @@
   schema:publisher "Afro-Hispanic review" ;
   dcterms:subject "Latin American Cultural Politics", "Latin American socio-political dynamics" .
 
-<https://medjat.irokosociety.org/id/library/RITSFVWB>
-  a schema:ScholarlyArticle ;
-  schema:name "El tesoro de los Quimbayas, un siglo después" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=RITSFVWB> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:RITSFVWB" ;
-  schema:description "En la region del Quindio, en 1890, cerca del pueblo de Filandia, los guaqueros sacaron un ajuar funerario en oro y ceramica, sepultado entre los siglos II a.c. y X d.c. correspondiente al estilo quimbaya clasico. Por su riqueza, rareza, cantidad y diversidad de objetos rituales o de sus suntuosos atuendos, - exquisitas obras de arte de las mas refinada orfebreria - las 123 piezas de esta ofrenda, constituidas como simbolos religiosos o emblemas jerarquicos precolombinos, son El Tesoro de los Quimbayas. Un siglo despues de su descubrimiento, de haberse expuesto en 1892, durante el IV Centenario de America, en Madrid, y de su donacion a la Corona Espanola, nos proponemos hacer algunos planteamientos sobre estos hechos desde la problematica de identidad y patrimonio cultural." ;
-  schema:author "Pablo Gamboa Hinestrosa" ;
-  schema:datePublished "1998" ;
-  schema:publisher "Ensayos Historia y Teoría del Arte" ;
-  dcterms:subject "Archaeology and Cultural Heritage" .
-
 <https://medjat.irokosociety.org/id/library/L7S557A4>
   a schema:Thesis ;
   schema:name "The cry of trokosi girls in Ghana. A qualitative study of the trokosi practice in Ghana in light of diakonia and human rights." ;
@@ -7046,7 +6657,7 @@
 
 <https://medjat.irokosociety.org/id/library/TJWRSXBP>
   a schema:Thesis ;
-  schema:name "A collection of discrete essays with the common theme of gender and slavery at the Cape of Good Hope with a focus on the 1820s" ;
+  schema:name "A Collection of Discrete Essays with the Common Theme of Gender and Slavery at the Cape of Good Hope with a Focus on the 1820s" ;
   schema:url <https://medjat.irokosociety.org/library/?item=TJWRSXBP> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:TJWRSXBP" ;
@@ -7157,17 +6768,6 @@
   schema:publisher "MacSphere (McMaster University)" ;
   dcterms:subject "American and British Literature Analysis", "Canadian Identity and History", "Short Stories in Global Literature" .
 
-<https://medjat.irokosociety.org/id/library/ADVNCCMY>
-  a schema:Chapter ;
-  schema:name "Planting Abakuá in Cuba, 1830s to 1860s" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=ADVNCCMY> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:ADVNCCMY" ;
-  schema:datePublished "2010" ;
-  schema:sameAs <https://doi.org/10.2307/jj.14962461.9> ;
-  dcterms:identifier "doi:10.2307/jj.14962461.9" ;
-  dcterms:subject "Cuban History and Society" .
-
 <https://medjat.irokosociety.org/id/library/VZFK8YQ5>
   a schema:Thesis ;
   schema:name "Recasting Caste: Histories of Dalit Transnationalism and the Internationalization of Caste Discrimination." ;
@@ -7204,7 +6804,7 @@
   schema:publisher "AuthorHouse" ;
   dcterms:identifier "isbn:978-1-4389-8097-3" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
-  dcterms:subject "Ewe Database Source", "Abakua", "Lucumí", "Palo Mayombe", "Palo Monte" .
+  dcterms:subject "Botanical", "Ritual", "Ewe Database Source", "Abakua", "Lucumí", "Palo Mayombe", "Palo Monte" .
 
 <https://medjat.irokosociety.org/id/library/HUMGTFU9>
   a schema:ScholarlyArticle ;
@@ -7808,18 +7408,6 @@
   dcterms:identifier "doi:10.18130/v3hr5f" ;
   dcterms:subject "American Constitutional Law and Politics", "Military History and Strategy", "Politics and Conflicts in Afghanistan, Pakistan, and Middle East" .
 
-<https://medjat.irokosociety.org/id/library/V4ZK7HFG>
-  a schema:Thesis ;
-  schema:name "Simulation Based Analysis of Kinematics, Dynamics and Control of Space Robots" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=V4ZK7HFG> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:V4ZK7HFG" ;
-  schema:description "The space robotics kinematics, dynamics and control were studied by simulation. An emerging concept in space robotics is the Virtual Manipulator (VM) concept. In this study, the VM concept was enhanced and verified through simulation. The mathematical software package MATHEMATICA was used to compute the formulations. In the kinematics simulation of free-floating space robotics systems the concept of VM was enhanced which relates to the homogeneous matrix formulation. This was established by simulation results, there are no external forces condition, the inverse kinematics solution can be solved. In the area of space robot dynamic identification, the method based on conservation law of linear and angular momentum of a space robot from the VM approach was introduced. It was shown that the acceleration of the Virtual Base (VB) was proportionally equal to the change of its position in inertial space from the applied forces or torques. The forces or torques rotates about the system center of mass. A PD control law was used with the simulation test to identify the dynamic parameters. In the problem of trajectory planning, the VM concept was utilized that allow the space robot translation and rotation with respect to an inertial reference frame. A method was developed that can compute the satellite platform moments from the manipulator's motion. The resolved motion rate control algorithm was used for time periodic feedback control. In the simulation results, a satellite-based three degrees of freedom robot was simulated using schematic illustrations. The telerobotic control system was used in the space robotics control. In the masterslave control environment study, several considerations were taken into account, like the master and slave arm configuration, telemonitoring force feedback algorithm, and dynamic characteristics of master and slave arm. In this study a complete and enhanced master-slave space robotics system was established by simulation." ;
-  schema:author "Shafina Sultana" ;
-  schema:datePublished "1996" ;
-  schema:publisher "Universiti Putra Malaysia Institutional Repository (Universiti Putra Malaysia)" ;
-  dcterms:subject "Modular Robots and Swarm Intelligence", "Soft Robotics and Applications", "Space Satellite Systems and Control" .
-
 <https://medjat.irokosociety.org/id/library/5MGY4HKR>
   a schema:Thesis ;
   schema:name "Reclaiming my body : black women and the fight for reproductive justice." ;
@@ -7964,7 +7552,7 @@
 
 <https://medjat.irokosociety.org/id/library/URNK85UG>
   a schema:Thesis ;
-  schema:name "'Remembered in the Body': Disability and Slavery in England and the Caribbean 1500-1834" ;
+  schema:name "Remembered in the Body: Disability and Slavery in England and the Caribbean 1500-1834" ;
   schema:url <https://medjat.irokosociety.org/library/?item=URNK85UG> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:URNK85UG" ;
@@ -7973,36 +7561,6 @@
   schema:datePublished "2015" ;
   schema:publisher "TSpace" ;
   dcterms:subject "Caribbean and African Literature and Culture", "Caribbean history, culture, and politics", "Colonialism, slavery, and trade" .
-
-<https://medjat.irokosociety.org/id/library/XML4S93P>
-  a schema:ScholarlyArticle ;
-  schema:name "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=XML4S93P> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:XML4S93P" ;
-  schema:description "Focusses on the Abukuá associations, Afro-Cuban male initiatory secret societies, as such originated in Regla, Havana in 1836. Authors describe how Abakuá titleholders gained powerful social and labour positions in the Havana area, and how they were eventually outlawed in 1876. They point out how Abakuá societies by and since then were designated as negative and criminal in the public sphere, and condemned by many writers and politicians. They show how published accounts of Abakuá since the late 19th c and early 20th c. were thus seldom merely descriptive, but were presented as proof of Cuba's lagging modernity, and of a for some undesired Africanization. They further relate how Fernando Ortiz's studies and work on Abakuá fit in this. They note how Ortiz' s earlier \"criminal anthropology\" work on Abakuá was in the same negative and criminalizing vein, yet they point at changes, as in time he described and evaluated Abakuá as more positive, and as part of Cuban culture. They describe how Ortiz dedicated much effort to studying different aspects of Abakuá, and that extensive notations on these became part of his archive, which, as he told fellow-scholars, he would work out in an eventual monograph on Abakuá. The authors deplore that this monograph was not only never published, but also seems to have been lost." ;
-  schema:author "Stephan Palmié" ;
-  schema:creator "Elizabeth Pérez‐Hernández" ;
-  schema:datePublished "2005" ;
-  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
-  schema:sameAs <https://doi.org/10.1163/22134360-90002506> ;
-  dcterms:identifier "doi:10.1163/22134360-90002506" ;
-  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies" .
-
-<https://medjat.irokosociety.org/id/library/48BX3N9R>
-  a schema:ScholarlyArticle ;
-  schema:name "'An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=48BX3N9R> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:48BX3N9R" ;
-  schema:description "Focusses on the Abukuá associations, Afro-Cuban male initiatory secret societies, as such originated in Regla, Havana in 1836. Authors describe how Abakuá titleholders gained powerful social and labour positions in the Havana area, and how they were eventually outlawed in 1876. They point out how Abakuá societies by and since then were designated as negative and criminal in the public sphere, and condemned by many writers and politicians. They show how published accounts of Abakuá since the late 19th c and early 20th c. were thus seldom merely descriptive, but were presented as proof of Cuba's lagging modernity, and of a for some undesired Africanization. They further relate how Fernando Ortiz's studies and work on Abakuá fit in this. They note how Ortiz' s earlier \"criminal anthropology\" work on Abakuá was in the same negative and criminalizing vein, yet they point at changes, as in time he described and evaluated Abakuá as more positive, and as part of Cuban culture. They describe how Ortiz dedicated much effort to studying different aspects of Abakuá, and that extensive notations on these became part of his archive, which, as he told fellow-scholars, he would work out in an eventual monograph on Abakuá. The authors deplore that this monograph was not only never published, but also seems to have been lost." ;
-  schema:author "Stephan Palmié" ;
-  schema:creator "Elizabeth Pérez" ;
-  schema:datePublished "2008" ;
-  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
-  schema:sameAs <https://doi.org/10.1163/13822373-90002506> ;
-  dcterms:identifier "doi:10.1163/13822373-90002506" ;
-  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies" .
 
 <https://medjat.irokosociety.org/id/library/BSDT9BH9>
   a schema:ScholarlyArticle ;
@@ -8017,6 +7575,21 @@
   schema:sameAs <https://doi.org/10.1111/j.1469-8676.2006.tb00026.x> ;
   dcterms:identifier "doi:10.1111/j.1469-8676.2006.tb00026.x" ;
   dcterms:subject "Anthropological Studies and Insights", "Caribbean and African Literature and Culture", "Colonialism, slavery, and trade" .
+
+<https://medjat.irokosociety.org/id/library/48BX3N9R>
+  a schema:ScholarlyArticle ;
+  schema:name "An All Too Present Absence: Fernando Ortiz's Work on Abaku? in its Sociocultural Context" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=48BX3N9R> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:48BX3N9R" ;
+  schema:description "Focuses on the Abakuá associations, Afro-Cuban male initiatory secret societies, as such originated in Regla, Havana in 1836. Authors describe how Abakuá titleholders gained powerful social and labour positions in the Havana area, and how they were eventually outlawed in 1876. They point out how Abakuá societies by and since then were designated as negative and criminal in the public sphere, and condemned by many writers and politicians. They show how published accounts of Abakuá since the late 19th c and early 20th c. were thus seldom merely descriptive, but were presented as proof of Cuba's lagging modernity, and of a for some undesired Africanization. They further relate how Fernando Ortiz's studies and work on Abakuá fit in this. They note how Ortiz' s earlier \"criminal anthropology\" work on Abakuá was in the same negative and criminalizing vein, yet they point at changes, as in time he described and evaluated Abakuá as more positive, and as part of Cuban culture. They describe how Ortiz dedicated much effort to studying different aspects of Abakuá, and that extensive notations on these became part of his archive, which, as he told fellow-scholars, he would work out in an eventual monograph on Abakuá. The authors deplore that this monograph was not only never published, but also seems to have been lost." ;
+  schema:author "Stephan Palmié", "Elizabeth Pérez" ;
+  schema:creator "R.M.A.L. Hoefte" ;
+  schema:datePublished "2005" ;
+  schema:publisher "New West Indian Guide / Nieuwe West-Indische Gids" ;
+  schema:sameAs <https://doi.org/https://doi.org/10.1163/22134360-90002506> ;
+  dcterms:identifier "doi:https://doi.org/10.1163/22134360-90002506" ;
+  dcterms:subject "Cuban History and Society", "Latin American and Latino Studies" .
 
 <https://medjat.irokosociety.org/id/library/TXAN2KHV>
   a schema:ScholarlyArticle ;
@@ -8272,20 +7845,6 @@
   dcterms:identifier "doi:10.5744/florida/9780813034676.003.0005" ;
   dcterms:subject "Cuban History and Society", "Diversity and Impact of Dance", "Theater, Performance, and Music History" .
 
-<https://medjat.irokosociety.org/id/library/DIFGXY9H>
-  a schema:Thesis ;
-  schema:name "Productivity and predictability of resource yield: aboriginal controlled burning in the boreal forest" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=DIFGXY9H> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:DIFGXY9H" ;
-  schema:description "Chapter V delineates changes in the use of the native burning technique since the early 1900's and speculates on the transformations which may have occurred prior to the 1900's.Corresponding changes in the regional vegetation are outlined, based both on inference and on informant observations, and the technique of palynology is tested as a means of revealing such trends.Chapter VI is a concluding chapter which outlines some of the long-term implications of the use of controlled burning and elaborates on some points requiring future research.This paper is, in essence, a perspective paper designed to provide a general context for inquiry and to facilitate the process of arriving at determinate hypotheses." ;
-  schema:author "Theresa A. Ferguson" ;
-  schema:datePublished "1979" ;
-  schema:publisher "AUSpace (Athabasca University)" ;
-  schema:sameAs <https://doi.org/10.7939/r35m62h5v> ;
-  dcterms:identifier "doi:10.7939/r35m62h5v" ;
-  dcterms:subject "Ecology and Vegetation Dynamics Studies", "Forest ecology and management", "Rangeland and Wildlife Management" .
-
 <https://medjat.irokosociety.org/id/library/RS5FLDPY>
   a schema:ScholarlyArticle ;
   schema:name "Impossible retour. À propos du spectacle Le Rituel abakuà – Les hommes-léopards ekpe, du Nigeria à Cuba" ;
@@ -8478,7 +8037,7 @@
   schema:publisher "Odebrecht; Editora Schwarcz" ;
   dcterms:identifier "isbn:85-7164-514-0" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-ewe.html> ;
-  dcterms:subject "Rituals", "Ewe Database Source", "Herbs", "Medjat custody: IHS Holds", "Yorubá" .
+  dcterms:subject "Ritual", "Ewe Database Source", "Herbs", "Medjat custody: IHS Holds", "Yorubá" .
 
 <https://medjat.irokosociety.org/id/library/TDYPAVS4>
   a schema:ScholarlyArticle ;
@@ -8719,17 +8278,3 @@
   schema:datePublished "2017" ;
   schema:publisher "Deep Blue (University of Michigan)" ;
   dcterms:subject "Colonialism, slavery, and trade", "Historical Studies in Latin America", "History and Politics in Latin America" .
-
-<https://medjat.irokosociety.org/id/library/W4MPAP4L>
-  a schema:ScholarlyArticle ;
-  schema:name "Posmrtno oro vo tradiciite na balkanskite Sloveni<br>Posthumous Ritual Dance - <em>Oro</em> - in the Traditions of Balkan Slavs</br>" ;
-  schema:url <https://medjat.irokosociety.org/library/?item=W4MPAP4L> ;
-  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
-  dcterms:identifier "zotero:6479329:W4MPAP4L" ;
-  schema:description "The author researches the act of ritual dancing - oro - and singing in the posthumous ritual complex, which presents one of the most important ritual and magic activities in order to destroy or neutralize the effects of death, and at the same time, to protect the living members of the social community, as a whole." ;
-  schema:author "Љупчо Ристески" ;
-  schema:datePublished "2015" ;
-  schema:publisher "Studia mythologica Slavica" ;
-  schema:sameAs <https://doi.org/10.3986/sms.v3i0.1832> ;
-  dcterms:identifier "doi:10.3986/sms.v3i0.1832" ;
-  dcterms:subject "Folklore, Mythology, and Literature Studies", "Linguistics and Cultural Studies", "Linguistics and language evolution" .

@@ -8,7 +8,7 @@
 
 <https://medjat.irokosociety.org/id/library/MQFYPHDT>
   a schema:ScholarlyArticle ;
-  schema:name "ORO DE LOS SEÑORES: LA TUMBA 11 DE LA ISLA DE TILCARA (JUJUY, NOROESTE ARGENTINO)" ;
+  schema:name "Oro De Los Señores: La Tumba 11 De La Isla De Tilcara (jujuy, Noroeste Argentino)" ;
   schema:url <https://medjat.irokosociety.org/library/?item=MQFYPHDT> ;
   dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
   dcterms:identifier "zotero:6479329:MQFYPHDT" ;

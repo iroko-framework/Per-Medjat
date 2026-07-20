@@ -138,7 +138,7 @@ PAGES = [
          title="Research Portals",
          subtitle="Afro-Atlantic archives,\ndatabases, and research guides",
          og_title="Afro-Atlantic Research Portals - Medjat Library",
-         og_description="A curated guide to archives, digital collections, research databases, finding aids, and open-access sources for Africa and the Afro-Atlantic world. Independent institutions, not IHS holdings.",
+         og_description="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.",
          og_url=f"{BASE_URL}/research-portals/"),
 ]
 

@@ -8,7 +8,7 @@
   <meta property="og:type"         content="website">
   <meta property="og:site_name"    content="Per Medjat - Iroko Historical Society">
   <meta property="og:title"        content="Afro-Atlantic Research Portals - Medjat Library">
-  <meta property="og:description"  content="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.">
+  <meta property="og:description"  content="Curated Afro-Atlantic research portals for archives, thesis repositories, digital collections, finding aids, and databases, with language and access notes.">
   <meta property="og:url"          content="https://medjat.irokosociety.org/research-portals/">
   <meta property="og:image"        content="https://medjat.irokosociety.org/assets/og-pm-research-portals.png">
   <meta property="og:image:width"  content="1200">
@@ -16,9 +16,9 @@
   <meta property="og:image:type"   content="image/png">
   <meta name="twitter:card"        content="summary_large_image">
   <meta name="twitter:title"       content="Afro-Atlantic Research Portals - Medjat Library">
-  <meta name="twitter:description" content="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.">
+  <meta name="twitter:description" content="Curated Afro-Atlantic research portals for archives, thesis repositories, digital collections, finding aids, and databases, with language and access notes.">
   <meta name="twitter:image"       content="https://medjat.irokosociety.org/assets/og-pm-research-portals.png">
-  <meta name="description" content="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.">
+  <meta name="description" content="Curated Afro-Atlantic research portals for archives, thesis repositories, digital collections, finding aids, and databases, with language and access notes.">
   <link rel="canonical" href="https://medjat.irokosociety.org/research-portals/">
   <link rel="icon" type="image/svg+xml" href="../assets/IHS-Logo.svg">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
@@ -26,7 +26,8 @@
   <style>
     .portals-hero { padding: 3rem 0 2.5rem; border-bottom: 2px solid var(--ink); }
     .portals-eyebrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .18em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: .75rem; }
-    .portals-title { font-family: var(--serif); font-size: clamp(2rem, 4.5vw, 3.2rem); font-weight: 600; color: var(--butterscotch-deep); line-height: 1.05; margin-bottom: .1rem; }
+    .portals-title { font-family: var(--serif); font-size: clamp(2rem, 4.5vw, 3.2rem); font-weight: 600; color: var(--ink); line-height: 1.05; margin-bottom: .1rem; }
+    .portals-title em { font-style: italic; color: var(--butterscotch-deep); }
     .portals-subtitle { font-family: var(--serif); font-size: clamp(1rem, 2.2vw, 1.5rem); font-style: italic; color: var(--ink-mid); margin-bottom: 1rem; }
     .portals-lede { font-size: .92rem; color: var(--ink-mid); line-height: 1.8; max-width: 68ch; }
 
@@ -51,13 +52,32 @@
     .filter-reset:hover,
     .filter-reset:focus-visible { background: var(--paper); border-color: var(--butterscotch-deep); color: var(--butterscotch-deep); }
 
+    /* Intentional deviation from shared .section-title: Portal Directory uses a larger heading and local butterscotch accent. */
+    h2.section-title.portal-directory-title {
+      color: var(--butterscotch-deep) !important;
+      border-bottom: 0 !important;
+      font-size: 1.50rem !important;
+      padding-bottom: 0;
+    }
+    h2.section-title.portal-directory-title::after {
+      content: "";
+      display: block;
+      position: static;
+      width: 92px;
+      height: 5px;
+      margin: 1rem 0 .75rem;
+      transform: none;
+      background: var(--butterscotch) !important;
+      border: 0 !important;
+    }
+
     /* Portal grid and cards */
     .portal-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(300px,1fr)); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-bottom: 2rem; }
     .portal-card { background: var(--paper); padding: 1.3rem 1.5rem; transition: background .12s; display: flex; flex-direction: column; gap: .4rem; text-decoration: none; }
     .portal-card:hover { background: var(--paper-warm); }
     .portal-card.hidden { display: none; }
     .portal-eyebrow { font-family: var(--mono); font-size: .58rem; letter-spacing: .1em; color: var(--ink-soft); text-transform: uppercase; }
-    .portal-name { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; color: var(--butterscotch-deep); line-height: 1.2; }
+    .portal-name { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; color: var(--butterscotch-deep); line-height: 1.2; margin: 0; }
     .portal-institution { font-size: .78rem; font-style: italic; color: var(--ink-soft); }
     .portal-desc { font-size: .82rem; color: var(--ink-mid); line-height: 1.6; margin-top: .3rem; }
     .portal-fields { display: grid; gap: .35rem; margin-top: .55rem; padding-top: .65rem; border-top: 1px solid var(--rule); }
@@ -98,7 +118,7 @@
     "@type": "CollectionPage",
     "name": "Afro-Atlantic Research Portals",
     "url": "https://medjat.irokosociety.org/research-portals/",
-    "description": "Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.",
+    "description": "Curated Afro-Atlantic research portals for archives, thesis repositories, digital collections, finding aids, and databases, with language and access notes.",
     "isPartOf": { "@id": "https://medjat.irokosociety.org/#website" },
     "publisher": { "@id": "https://www.irokosociety.org/#organization" },
     "hasPart": {
@@ -154,7 +174,7 @@
 
 <header class="portals-hero">
   <div class="portals-eyebrow">External discovery · Independent institutions</div>
-  <h1 class="portals-title">Research Portals</h1>
+  <h1 class="portals-title">Afro-Atlantic <em>Research Portals</em></h1>
   <p class="portals-subtitle">External collections and discovery resources</p>
   <p class="portals-lede">
     Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa
@@ -219,13 +239,15 @@
   <button type="button" class="filter-pill" data-category="botanical" aria-pressed="false">Botanical &amp; Ethnobotanical Databases</button>
 </div>
 
+<h2 class="section-title portal-directory-title">Portal Directory</h2>
+
 <div class="portal-grid" id="portalGrid">
 
   <a class="portal-card" href="https://dloc.com/" target="_blank" rel="noopener noreferrer"
      data-search="digital library of the caribbean dloc florida international university of florida virgin islands caribbean newspapers maps vodou"
      data-category="digital-library" data-access="access-open">
     <div class="portal-eyebrow">Digital library</div>
-    <div class="portal-name">Digital Library of the Caribbean</div>
+    <h3 class="portal-name">Digital Library of the Caribbean</h3>
     <div class="portal-institution">Florida International University · University of Florida · University of the Virgin Islands</div>
     <div class="portal-desc">A multi-institutional cooperative providing open access to Caribbean and circum-Caribbean cultural, historical, and research materials, including newspapers, maps, and partner archives. Parent portal for several specialized collections, including the Vodou Archive and MANIOC.</div>
     <div class="portal-fields">
@@ -244,13 +266,14 @@
      data-search="vodou archive haiti haitian vodou university of florida duke university neh religion ritual"
      data-category="religion" data-access="access-open">
     <div class="portal-eyebrow">Religion collection</div>
-    <div class="portal-name">Vodou Archive</div>
+    <h3 class="portal-name">Vodou Archive</h3>
     <div class="portal-institution">University of Florida &amp; Duke University · NEH-funded</div>
     <div class="portal-desc">Documents, photographs, audio, and video recordings pertaining to Haitian Vodou religion and culture. Materials include facsimiles, translations, and transcriptions curating primary sources on Vodou practice.</div>
     <div class="portal-fields">
       <div class="portal-field"><strong>Best for</strong><span>Haitian Vodou primary sources and ritual-cultural multimedia.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>English, French, and Haitian Creole; varies by item.</span></div>
       <div class="portal-field"><strong>Materials</strong><span>Documents, photographs, audio, video, translations, and transcriptions.</span></div>
+      <div class="portal-field"><strong>Search terms</strong><span>Vodou, vodoun, Haiti, lwa, ritual, sacred arts.</span></div>
     </div>
     <div class="portal-meta">Coverage: Haiti, Haitian diaspora · Last verified: July 2026</div>
     <div class="portal-foot">
@@ -263,13 +286,14 @@
      data-search="slave societies digital archive ssda vanderbilt jane landers brazil cuba colombia florida angola benin ecclesiastical slavery"
      data-category="archive" data-access="access-open">
     <div class="portal-eyebrow">Digital archive</div>
-    <div class="portal-name">Slave Societies Digital Archive</div>
+    <h3 class="portal-name">Slave Societies Digital Archive</h3>
     <div class="portal-institution">Vanderbilt University</div>
     <div class="portal-desc">More than 700,000 digitized ecclesiastical and secular records documenting Africans and their descendants in Brazil, Cuba, Colombia, Florida, Angola, and Benin from the sixteenth through twentieth centuries. Searchable by collection, map, and named projects, including the Pierre Verger Manuscript from Benin.</div>
     <div class="portal-fields">
       <div class="portal-field"><strong>Best for</strong><span>Ecclesiastical and civil records on Africans and their descendants.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>Portuguese, Spanish, English, and French; varies by collection.</span></div>
       <div class="portal-field"><strong>Materials</strong><span>Baptism, marriage, burial, notarial, and secular records.</span></div>
+      <div class="portal-field"><strong>Search terms</strong><span>Slavery, enslaved Africans, baptism, marriage, burial, ecclesiastical records.</span></div>
     </div>
     <div class="portal-meta">Coverage: Brazil, Cuba, Colombia, Florida, Angola, Benin · Last verified: July 2026</div>
     <div class="portal-foot">
@@ -282,13 +306,14 @@
      data-search="smithsonian african diaspora subject guide national anthropological archives sova finding aids bibliography"
      data-category="guide" data-access="access-finding-aid">
     <div class="portal-eyebrow">Research guide</div>
-    <div class="portal-name">African Diaspora Subject Guide</div>
+    <h3 class="portal-name">African Diaspora Subject Guide</h3>
     <div class="portal-institution">Smithsonian National Anthropological Archives</div>
     <div class="portal-desc">A curated subject guide identifying archival collections across the Smithsonian's holdings relevant to the African Diaspora, linking into National Anthropological Archives and SOVA finding aids. A starting point for locating dispersed manuscript and recording collections rather than a collection in its own right.</div>
     <div class="portal-fields">
       <div class="portal-field"><strong>Best for</strong><span>Locating dispersed Smithsonian archival collections.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>English metadata; source languages vary.</span></div>
       <div class="portal-field"><strong>Materials</strong><span>Subject guide entries, finding aids, and archival collection records.</span></div>
+      <div class="portal-field"><strong>Search terms</strong><span>African diaspora, National Anthropological Archives, SOVA, finding aids, bibliography.</span></div>
     </div>
     <div class="portal-meta">Coverage: Pan-African diaspora · Last verified: July 2026</div>
     <div class="portal-foot">
@@ -301,7 +326,7 @@
      data-search="african online digital library aodl michigan state university matrix west africa oral history islam apartheid"
      data-category="digital-library" data-access="access-open">
     <div class="portal-eyebrow">Digital library</div>
-    <div class="portal-name">African Online Digital Library</div>
+    <h3 class="portal-name">African Online Digital Library</h3>
     <div class="portal-institution">Michigan State University · Matrix</div>
     <div class="portal-desc">An open-access library of digitized African cultural heritage materials, developed with museums, archives, and communities across the continent. Organized into thematic galleries covering oral history, Islam in West Africa, and apartheid-era South Africa.</div>
     <div class="portal-fields">
@@ -320,7 +345,7 @@
      data-search="lomax digital archive association for cultural equity alan lomax john lomax caribbean music oral history field recordings"
      data-category="music" data-access="access-open">
     <div class="portal-eyebrow">Music and oral history</div>
-    <div class="portal-name">Lomax Digital Archive</div>
+    <h3 class="portal-name">Lomax Digital Archive</h3>
     <div class="portal-institution">Association for Cultural Equity</div>
     <div class="portal-desc">Free access to seven decades of field recordings, photographs, and film compiled by Alan Lomax and John A. Lomax, including Caribbean fieldwork from Haiti, the Bahamas, and Trinidad. A primary source base for Afro-Atlantic music, dance, and oral tradition.</div>
     <div class="portal-fields">
@@ -339,7 +364,7 @@
      data-search="digital schomburg new york public library nypl schomburg center for research in black culture black diaspora"
      data-category="digital-library" data-access="access-partial">
     <div class="portal-eyebrow">Digital library</div>
-    <div class="portal-name">Digital Schomburg</div>
+    <h3 class="portal-name">Digital Schomburg</h3>
     <div class="portal-institution">New York Public Library · Schomburg Center for Research in Black Culture</div>
     <div class="portal-desc">Curated digital exhibitions, digitized books, photographs, and oral histories on the global Black experience, produced by Schomburg Center staff and scholars. Broader than Medjat's Afro-Atlantic focus, but a strong entry point for cultural and intellectual context.</div>
     <div class="portal-fields">
@@ -358,7 +383,7 @@
      data-search="louisiana digital library lsu libraries digital consortium gulf south new orleans amistad"
      data-category="digital-library" data-access="access-open">
     <div class="portal-eyebrow">Digital library</div>
-    <div class="portal-name">Louisiana Digital Library</div>
+    <h3 class="portal-name">Louisiana Digital Library</h3>
     <div class="portal-institution">LSU Libraries · Louisiana Digital Consortium</div>
     <div class="portal-desc">More than 400,000 digitized items from Louisiana archives, libraries, and museums, including photographs, maps, manuscripts, and oral histories. Hosts the digitized collections of several Gulf South partner institutions, including the Amistad Research Center.</div>
     <div class="portal-fields">
@@ -377,7 +402,7 @@
      data-search="amistad research center new orleans african american history civil rights independent archive"
      data-category="archive" data-access="access-partial">
     <div class="portal-eyebrow">Archive</div>
-    <div class="portal-name">Amistad Research Center</div>
+    <h3 class="portal-name">Amistad Research Center</h3>
     <div class="portal-institution">Independent archive · New Orleans</div>
     <div class="portal-desc">The nation's oldest and largest independent archive specializing in African American history, the African Diaspora, and the Modern Civil Rights Movement, holding over 33,000 books and extensive manuscript, art, and audiovisual collections. Selected materials are digitized through the Louisiana Digital Library; most of the collection requires an onsite research appointment.</div>
     <div class="portal-fields">
@@ -396,7 +421,7 @@
      data-search="manioc bibliotheque numerique caraibe amazonie guyane universite des antilles guiana slavery ethnobotany"
      data-category="digital-library" data-access="access-open">
     <div class="portal-eyebrow">Digital library</div>
-    <div class="portal-name">MANIOC</div>
+    <h3 class="portal-name">MANIOC</h3>
     <div class="portal-institution">Université des Antilles · Université de Guyane consortium</div>
     <div class="portal-desc">An open-access digital library covering the Caribbean, Amazonia, and the Guyana Plateau, built by roughly twenty partner institutions in the French Antilles, Guyana, and mainland France. Includes primary sources on slavery and ethnobotany alongside digitized books, periodicals, and images.</div>
     <div class="portal-fields">
@@ -415,7 +440,7 @@
      data-search="endangered archives programme british library arcadia global africa caribbean latin america digitization"
      data-category="archive" data-access="access-open">
     <div class="portal-eyebrow">Archive</div>
-    <div class="portal-name">Endangered Archives Programme</div>
+    <h3 class="portal-name">Endangered Archives Programme</h3>
     <div class="portal-institution">British Library · funded by Arcadia</div>
     <div class="portal-desc">Grants and hosts digitized copies of endangered archival collections worldwide, with digitization equipment and training kept in the country of origin under the program's partnership model. Since 2004 it has digitized more than sixteen million images from over ninety countries, including numerous Afro-Atlantic and West African collections.</div>
     <div class="portal-fields">
@@ -434,7 +459,7 @@
      data-search="avery research center lowcountry digital library college of charleston south carolina gullah geechee african american"
      data-category="archive" data-access="access-partial">
     <div class="portal-eyebrow">Archive</div>
-    <div class="portal-name">Avery Research Center · Lowcountry Digital Library</div>
+    <h3 class="portal-name">Avery Research Center · Lowcountry Digital Library</h3>
     <div class="portal-institution">College of Charleston</div>
     <div class="portal-desc">Archival and museum collections documenting African American history in Charleston and the South Carolina Lowcountry, including the Gullah Geechee region, held at the site of the former Avery Normal Institute. Digitized holdings are accessible through the Lowcountry Digital Library; the full collection is available onsite.</div>
     <div class="portal-fields">
@@ -453,13 +478,14 @@
      data-search="bdtd biblioteca digital brasileira teses dissertacoes ibict brazil brasil theses dissertations portuguese afro brazilian candomble umbanda slavery ethnobotany religion"
      data-category="theses" data-access="access-open">
     <div class="portal-eyebrow">Thesis repository</div>
-    <div class="portal-name">BDTD - Brazilian Digital Library of Theses and Dissertations</div>
+    <h3 class="portal-name">BDTD - Brazilian Digital Library of Theses and Dissertations</h3>
     <div class="portal-institution">Instituto Brasileiro de Informacao em Ciencia e Tecnologia (IBICT)</div>
     <div class="portal-desc">Brazilian national discovery portal aggregating theses and dissertations from participating universities and research institutions. Strong first stop for Portuguese-language work on Candomble, Umbanda, Afro-Brazilian history, slavery, ethnobotany, and religious studies.</div>
     <div class="portal-fields">
       <div class="portal-field"><strong>Best for</strong><span>Brazilian graduate research and university repository records.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>Primarily Portuguese, with abstracts and metadata varying by institution.</span></div>
       <div class="portal-field"><strong>Materials</strong><span>Theses, dissertations, abstracts, metadata, and institutional full-text links.</span></div>
+      <div class="portal-field"><strong>Search terms</strong><span>religioes afro-brasileiras, Candomble, Umbanda, escravidao, etnobotanica.</span></div>
     </div>
     <div class="portal-meta">Coverage: Brazil; Brazilian researchers abroad · Last verified: July 2026</div>
     <div class="portal-foot">
@@ -472,7 +498,7 @@
      data-search="uwi theses collection uwispace university west indies caribbean jamaica trinidad barbados theses dissertations anthropology religion history cultural studies"
      data-category="theses" data-access="access-partial">
     <div class="portal-eyebrow">Thesis repository</div>
-    <div class="portal-name">The University of the West Indies Theses Collection</div>
+    <h3 class="portal-name">The University of the West Indies Theses Collection</h3>
     <div class="portal-institution">UWISpace · The University of the West Indies</div>
     <div class="portal-desc">Institutional repository collection for UWI theses across Caribbean campuses. Useful for Caribbean-focused graduate research, including history, anthropology, religion, cultural studies, language, music, and local case studies that may not appear in commercial databases.</div>
     <div class="portal-fields">
@@ -491,7 +517,7 @@
      data-search="theses.fr french theses dissertations france doctoral africa caribbean antilles guyane haiti vodou migration slavery colonial archives religion ethnology"
      data-category="theses" data-access="access-partial">
     <div class="portal-eyebrow">Thesis repository</div>
-    <div class="portal-name">theses.fr</div>
+    <h3 class="portal-name">theses.fr</h3>
     <div class="portal-institution">ABES · French higher education thesis portal</div>
     <div class="portal-desc">French national thesis search engine for defended and in-progress doctoral work in France. Useful for French-language scholarship on Africa, the Caribbean, migration, slavery, religion, ethnology, and colonial archives.</div>
     <div class="portal-fields">
@@ -510,7 +536,7 @@
      data-search="hal theses tel france open archive doctoral theses dissertations french francophone africa caribbean anthropology history religious studies"
      data-category="theses" data-access="access-open">
     <div class="portal-eyebrow">Thesis repository</div>
-    <div class="portal-name">HAL Theses</div>
+    <h3 class="portal-name">HAL Theses</h3>
     <div class="portal-institution">HAL · Centre pour la Communication Scientifique Directe (CCSD)</div>
     <div class="portal-desc">Open archive for French doctoral theses within HAL. Useful when the priority is full-text author-deposited scholarship connected to France, Francophone Africa, the Caribbean, anthropology, history, and religious studies.</div>
     <div class="portal-fields">
@@ -529,7 +555,7 @@
      data-search="dialnet tesis doctoral theses dissertations spanish hispanic latin america spain caribbean afro latin anthropology religion history cultural studies"
      data-category="theses" data-access="access-partial">
     <div class="portal-eyebrow">Thesis repository</div>
-    <div class="portal-name">Dialnet Tesis</div>
+    <h3 class="portal-name">Dialnet Tesis</h3>
     <div class="portal-institution">Fundacion Dialnet · Universidad de La Rioja</div>
     <div class="portal-desc">Spanish-language thesis search within Dialnet, a major bibliographic portal for Hispanic scholarly production. Useful for work from Spain and Latin America, including Afro-Latin studies, Caribbean history, religions, literature, anthropology, and cultural studies.</div>
     <div class="portal-fields">
@@ -548,7 +574,7 @@
      data-search="ebsco open dissertations electronic theses dissertations etd worldwide graduate research institutional repositories africa caribbean afro atlantic"
      data-category="theses" data-access="access-open">
     <div class="portal-eyebrow">Thesis repository</div>
-    <div class="portal-name">EBSCO Open Dissertations</div>
+    <h3 class="portal-name">EBSCO Open Dissertations</h3>
     <div class="portal-institution">EBSCO Information Services</div>
     <div class="portal-desc">Free open-web portal for electronic theses and dissertations harvested from institutional repositories worldwide. Useful for broad discovery when regional repository boundaries are unclear or when looking for graduate work outside core Afro-Atlantic databases.</div>
     <div class="portal-fields">
@@ -567,7 +593,7 @@
      data-search="sernec portal southeast regional network expertise collections herbarium specimens gulf south hoodoo rootwork plant identification"
      data-category="botanical" data-access="access-open">
     <div class="portal-eyebrow">Botanical database</div>
-    <div class="portal-name">SERNEC Portal</div>
+    <h3 class="portal-name">SERNEC Portal</h3>
     <div class="portal-institution">Consortium of 233 herbaria, southeastern United States</div>
     <div class="portal-desc">Specimen images and metadata from 233 herbaria across 14 southeastern states, spanning roughly 150 years of botanical collection. Useful for identifying and cross-referencing Gulf South plant species documented in hoodoo and rootwork tradition.</div>
     <div class="portal-fields">
@@ -586,13 +612,14 @@
      data-search="prota4u plant resources of tropical africa west africa useful plants medicinal food dye fiber yoruba ethnobotany verger"
      data-category="botanical" data-access="access-open">
     <div class="portal-eyebrow">Botanical database</div>
-    <div class="portal-name">PROTA4U · Plant Resources of Tropical Africa</div>
+    <h3 class="portal-name">PROTA4U · Plant Resources of Tropical Africa</h3>
     <div class="portal-institution">Originally an international documentation programme, active 2000–2013</div>
     <div class="portal-desc">A searchable database of roughly 7,000 useful plants of tropical Africa, covering food, medicine, dye, fiber, and other traditional uses by scientific name, common name, and country. A direct companion resource to Pierre Verger's Yoruba ethnobotanical fieldwork underlying the Ewé Database.</div>
     <div class="portal-fields">
       <div class="portal-field"><strong>Best for</strong><span>Tropical African useful plants by scientific or common name.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>English interface and botanical terminology.</span></div>
       <div class="portal-field"><strong>Materials</strong><span>Plant profiles, use categories, distribution notes, and references.</span></div>
+      <div class="portal-field"><strong>Search terms</strong><span>Yoruba plants, medicinal plants, useful plants, ethnobotany, botanical names.</span></div>
     </div>
     <div class="portal-meta">Coverage: Tropical Africa, West Africa · Last verified: July 2026</div>
     <div class="portal-foot">
@@ -605,7 +632,7 @@
      data-search="useful tropical plants database ken fern ajna fern ethnobotany edible medicinal pantropical caribbean africa"
      data-category="botanical" data-access="access-open">
     <div class="portal-eyebrow">Botanical database</div>
-    <div class="portal-name">Useful Tropical Plants Database</div>
+    <h3 class="portal-name">Useful Tropical Plants Database</h3>
     <div class="portal-institution">Independent, volunteer-maintained (Ken Fern &amp; Ajna Fern)</div>
     <div class="portal-desc">An independently maintained, fully-referenced database of edible, medicinal, and other traditional uses for more than 13,000 tropical and subtropical plant species. A useful cross-referencing tool for ethnobotanical uses recorded in the Ewé Database and Caribbean herbalism sources.</div>
     <div class="portal-fields">

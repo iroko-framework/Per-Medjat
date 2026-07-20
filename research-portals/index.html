@@ -35,8 +35,9 @@
     .disclaimer-block p + p { margin-top: .6rem; }
 
     .start-here { margin: 2rem 0 1.5rem; }
-    .start-here .section-title { margin-top: 0; color: var(--butterscotch-deep); border-bottom-color: rgba(98,72,24,.35); }
-    .start-intro { font-size: .86rem; color: var(--ink-mid); line-height: 1.65; max-width: 58ch; margin: -.8rem 0 1rem; }
+    .start-here .section-title { margin-top: 0; color: var(--butterscotch-deep); border-bottom: 0 !important; padding-bottom: 0; }
+    .start-here .section-title::after { background: var(--butterscotch) !important; border-color: var(--butterscotch) !important; }
+    .start-intro { font-size: .86rem; color: var(--butterscotch-deep); line-height: 1.65; max-width: 58ch; margin: -.8rem 0 1rem; }
     .start-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); }
     .start-card { background: var(--paper); padding: 1rem 1.1rem; min-height: 100%; text-decoration: none; transition: background .12s; }
     .start-card:hover { background: var(--paper-warm); }

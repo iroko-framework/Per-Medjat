@@ -35,7 +35,8 @@
     .disclaimer-block p + p { margin-top: .6rem; }
 
     .start-here { margin: 2rem 0 1.5rem; }
-    .start-here .section-title { margin-top: 0; }
+    .start-here .section-title { margin-top: 0; color: var(--butterscotch-deep); border-bottom-color: rgba(98,72,24,.35); }
+    .start-intro { font-size: .86rem; color: var(--ink-mid); line-height: 1.65; max-width: 58ch; margin: -.8rem 0 1rem; }
     .start-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); }
     .start-card { background: var(--paper); padding: 1rem 1.1rem; min-height: 100%; text-decoration: none; transition: background .12s; }
     .start-card:hover { background: var(--paper-warm); }
@@ -43,7 +44,11 @@
     .start-card-title { display: block; font-family: var(--serif); font-size: 1.05rem; font-weight: 600; color: var(--butterscotch-deep); line-height: 1.15; }
     .toolbar-grid .search-input:focus,
     .toolbar-grid .access-select:focus { border-color: var(--butterscotch-deep); }
+    .portal-toolbar { grid-template-columns: minmax(240px,1fr) auto 220px auto; }
     #categoryFilter .filter-pill.active { background: var(--butterscotch-deep); border-color: var(--butterscotch-deep); color: #fff; }
+    .filter-reset { font-family: var(--mono); font-size: .62rem; letter-spacing: .07em; text-transform: uppercase; padding: .52rem .85rem; border-radius: 2px; border: 1px solid rgba(98,72,24,.45); background: var(--paper); color: var(--butterscotch-deep); cursor: pointer; transition: all .12s; }
+    .filter-reset:hover,
+    .filter-reset:focus-visible { background: var(--butterscotch-deep); border-color: var(--butterscotch-deep); color: #fff; }
 
     /* Portal grid and cards */
     .portal-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(300px,1fr)); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); margin-bottom: 2rem; }
@@ -73,7 +78,7 @@
     .suggest-btn:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
     .no-results { border: 1px dashed var(--rule-strong); border-radius: 3px; padding: 1.2rem 1.4rem; margin: -1rem 0 2rem; background: var(--paper-warm); color: var(--ink-mid); font-size: .86rem; line-height: 1.6; }
     .no-results.hidden { display: none; }
-    @media (max-width: 760px) { .start-grid { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 760px) { .start-grid { grid-template-columns: 1fr 1fr; } .portal-toolbar { grid-template-columns: 1fr; } }
     @media (max-width: 520px) { .start-grid { grid-template-columns: 1fr; } .portal-field { grid-template-columns: 1fr; gap: .05rem; } }
   </style>
   <!-- Google Analytics -->
@@ -154,6 +159,7 @@
 
 <section class="start-here" aria-labelledby="startHereTitle">
   <h2 id="startHereTitle" class="section-title">Start Here</h2>
+  <p class="start-intro">Choose the kind of source you need; each path filters the directory below.</p>
   <div class="start-grid">
     <a class="start-card" href="?category=guide">
       <span class="start-card-kicker">Finding aids</span>
@@ -174,7 +180,7 @@
   </div>
 </section>
 
-<div class="toolbar toolbar-grid" role="search" aria-label="Filter research portals">
+<div class="toolbar toolbar-grid portal-toolbar" role="search" aria-label="Filter research portals">
   <label class="sr-only" for="portalSearch">Search research portals</label>
   <input class="search-input" type="search" id="portalSearch" placeholder="Search by name, institution, region, language, or topic..." autocomplete="off">
   <span class="search-count" id="searchCount" aria-live="polite">15 portals</span>
@@ -185,6 +191,7 @@
     <option value="access-partial">Partial digital access</option>
     <option value="access-finding-aid">Finding aid / metadata only</option>
   </select>
+  <button type="button" class="filter-reset" id="clearFilters">Reset filters</button>
 </div>
 
 <div class="filter-row" id="categoryFilter">
@@ -544,6 +551,7 @@
   var searchEl = document.getElementById('portalSearch');
   var countEl = document.getElementById('searchCount');
   var accessEl = document.getElementById('accessFilter');
+  var clearEl = document.getElementById('clearFilters');
   var noResultsEl = document.getElementById('noResults');
   var cards = document.querySelectorAll('.portal-card');
   var pills = document.querySelectorAll('#categoryFilter .filter-pill');
@@ -566,6 +574,15 @@
 
   function normalize(value) {
     return (value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+  }
+
+  function setActiveCategory(category) {
+    activeCategory = category || '';
+    pills.forEach(function (p) {
+      var isActive = p.dataset.category === activeCategory;
+      p.classList.toggle('active', isActive);
+      p.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    });
   }
 
   function syncUrl(query) {
@@ -602,14 +619,18 @@
       applyFilters();
     });
   }
+  if (clearEl) {
+    clearEl.addEventListener('click', function () {
+      searchEl.value = '';
+      if (accessEl) accessEl.value = '';
+      activeAccess = '';
+      setActiveCategory('');
+      applyFilters();
+    });
+  }
   pills.forEach(function (pill) {
     pill.addEventListener('click', function () {
-      pills.forEach(function (p) {
-        var isActive = p === pill;
-        p.classList.toggle('active', isActive);
-        p.setAttribute('aria-pressed', isActive ? 'true' : 'false');
-      });
-      activeCategory = pill.dataset.category;
+      setActiveCategory(pill.dataset.category);
       applyFilters();
     });
   });

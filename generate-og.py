@@ -27,6 +27,7 @@ PAPER         = (246, 241, 219)     # #F6F1DB
 TERRACOTTA    = (139, 58, 26)       # #8B3A1A
 LAPIS         = (26, 52, 104)       # #1A3468
 GREEN_DARK    = (46, 74, 30)        # #2E4A1E
+BUTTERSCOTCH_DEEP = (98, 72, 24)    # #624818
 GOLD_LABEL    = (225, 199, 138)     # #E1C78A
 CREAM_BOX     = PAPER
 
@@ -73,11 +74,11 @@ SCHEMES = {
         col_dom   = (179, 189, 206),  # #B3BDCE, strengthened footer
     ),
     "portals": dict(
-        bg        = GREEN_DARK,
+        bg        = BUTTERSCOTCH_DEEP,
         col_label = GOLD_LABEL,
         col_title = PAPER,
-        col_sub   = _blend(PAPER, 0.75, GREEN_DARK),
-        col_dom   = _blend(PAPER, 0.55, GREEN_DARK),
+        col_sub   = _blend(PAPER, 0.75, BUTTERSCOTCH_DEEP),
+        col_dom   = _blend(PAPER, 0.55, BUTTERSCOTCH_DEEP),
     ),
 }
 
@@ -135,9 +136,9 @@ PAGES = [
     dict(file="research-portals/index.html", slug="og-pm-research-portals", section="portals",
          label="PER MEDJAT · RESEARCH PORTALS",
          title="Research Portals",
-         subtitle="Curated external collections\nand research guides",
-         og_title="Research Portals - Per Medjat - Iroko Historical Society",
-         og_description="Curated links to external digital libraries, archives, audiovisual collections, finding aids, and research projects relevant to Afro-Atlantic history, culture, religion, and sacred knowledge systems. Independent institutions, not IHS holdings.",
+         subtitle="Afro-Atlantic archives,\ndatabases, and research guides",
+         og_title="Afro-Atlantic Research Portals - Medjat Library",
+         og_description="A curated guide to archives, digital collections, research databases, finding aids, and open-access sources for Africa and the Afro-Atlantic world. Independent institutions, not IHS holdings.",
          og_url=f"{BASE_URL}/research-portals/"),
 ]
 
@@ -334,7 +335,7 @@ OG_BLOCK = "\n".join([
     '  <meta name="twitter:title"       content="{og_title}">',
     '  <meta name="twitter:description" content="{og_description}">',
     '  <meta name="twitter:image"       content="{og_image}">',
-])
+]) + "\n"
 
 
 def inject_og_tags(html_path: Path, page: dict, png_filename: str) -> None:

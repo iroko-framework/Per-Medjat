@@ -8,7 +8,7 @@
   <meta property="og:type"         content="website">
   <meta property="og:site_name"    content="Per Medjat - Iroko Historical Society">
   <meta property="og:title"        content="Afro-Atlantic Research Portals - Medjat Library">
-  <meta property="og:description"  content="A curated guide to archives, digital collections, research databases, finding aids, and open-access sources for Africa and the Afro-Atlantic world. Independent institutions, not IHS holdings.">
+  <meta property="og:description"  content="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.">
   <meta property="og:url"          content="https://medjat.irokosociety.org/research-portals/">
   <meta property="og:image"        content="https://medjat.irokosociety.org/assets/og-pm-research-portals.png">
   <meta property="og:image:width"  content="1200">
@@ -16,9 +16,9 @@
   <meta property="og:image:type"   content="image/png">
   <meta name="twitter:card"        content="summary_large_image">
   <meta name="twitter:title"       content="Afro-Atlantic Research Portals - Medjat Library">
-  <meta name="twitter:description" content="A curated guide to archives, digital collections, research databases, finding aids, and open-access sources for Africa and the Afro-Atlantic world. Independent institutions, not IHS holdings.">
+  <meta name="twitter:description" content="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.">
   <meta name="twitter:image"       content="https://medjat.irokosociety.org/assets/og-pm-research-portals.png">
-  <meta name="description" content="A curated guide to archives, digital collections, research databases, theses, dissertations, finding aids, and open-access sources for Africa and the Afro-Atlantic world.">
+  <meta name="description" content="Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.">
   <link rel="canonical" href="https://medjat.irokosociety.org/research-portals/">
   <link rel="icon" type="image/svg+xml" href="../assets/IHS-Logo.svg">
   <link rel="stylesheet" href="https://ontology.irokosociety.org/assets/iroko-style.css">
@@ -30,15 +30,15 @@
     .portals-subtitle { font-family: var(--serif); font-size: clamp(1rem, 2.2vw, 1.5rem); font-style: italic; color: var(--ink-mid); margin-bottom: 1rem; }
     .portals-lede { font-size: .92rem; color: var(--ink-mid); line-height: 1.8; max-width: 68ch; }
 
-    .disclaimer-block { border-left: 3px solid var(--ink-soft); padding: .9rem 1.2rem; background: var(--paper-warm); border-radius: 0 3px 3px 0; margin: 1.5rem 0 0; }
-    .disclaimer-block p { font-size: .85rem; color: var(--ink-mid); line-height: 1.7; }
+    .disclaimer-block { border-left: 3px solid var(--ink-soft); padding: .95rem 1.25rem; background: var(--paper-warm); border-radius: 0 3px 3px 0; margin: 1.5rem 0 0 1rem; max-width: 62ch; box-sizing: border-box; }
+    .disclaimer-block p { font-size: .85rem; color: var(--ink-mid); line-height: 1.7; margin: 0; text-wrap: pretty; overflow-wrap: break-word; }
     .disclaimer-block p + p { margin-top: .6rem; }
 
     .start-here { margin: 2rem 0 1.5rem; }
     .start-here .section-title { margin: 0; color: var(--butterscotch-deep); border-bottom: 0 !important; padding-bottom: 0; }
     .start-here .section-title::after { content: ""; display: block; position: static; width: 92px; height: 5px; margin: 1rem 0 .75rem; transform: none; background: var(--butterscotch) !important; border: 0 !important; }
     .start-intro { font-size: .86rem; color: var(--butterscotch-deep); line-height: 1.65; max-width: 58ch; margin: 0 0 1.6rem; }
-    .start-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); }
+    .start-grid { display: grid; grid-template-columns: repeat(5,minmax(0,1fr)); gap: 1px; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; background: var(--rule-strong); }
     .start-card { background: var(--paper); padding: 1rem 1.1rem; min-height: 100%; text-decoration: none; transition: background .12s; }
     .start-card:hover { background: var(--paper-warm); }
     .start-card-kicker { display: block; font-family: var(--mono); font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: .35rem; }
@@ -79,7 +79,9 @@
     .suggest-btn:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
     .no-results { border: 1px dashed var(--rule-strong); border-radius: 3px; padding: 1.2rem 1.4rem; margin: -1rem 0 2rem; background: var(--paper-warm); color: var(--ink-mid); font-size: .86rem; line-height: 1.6; }
     .no-results.hidden { display: none; }
+    @media (max-width: 980px) { .start-grid { grid-template-columns: repeat(3,1fr); } }
     @media (max-width: 760px) { .start-grid { grid-template-columns: 1fr 1fr; } .portal-toolbar { grid-template-columns: 1fr; } }
+    @media (max-width: 640px) { .disclaimer-block { margin-left: 0; max-width: none; padding: .9rem 1rem; } }
     @media (max-width: 520px) { .start-grid { grid-template-columns: 1fr; } .portal-field { grid-template-columns: 1fr; gap: .05rem; } }
   </style>
   <!-- Google Analytics -->
@@ -96,7 +98,7 @@
     "@type": "CollectionPage",
     "name": "Afro-Atlantic Research Portals",
     "url": "https://medjat.irokosociety.org/research-portals/",
-    "description": "A curated guide to archives, digital collections, research databases, finding aids, and open-access sources for Africa and the Afro-Atlantic world. Independent institutions, not IHS holdings.",
+    "description": "Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available languages, material types, and access model.",
     "isPartOf": { "@id": "https://medjat.irokosociety.org/#website" },
     "publisher": { "@id": "https://www.irokosociety.org/#organization" },
     "hasPart": {
@@ -114,9 +116,15 @@
         { "@type": "ListItem", "position": 10, "name": "MANIOC", "url": "https://www.manioc.org/" },
         { "@type": "ListItem", "position": 11, "name": "Endangered Archives Programme", "url": "https://eap.bl.uk/" },
         { "@type": "ListItem", "position": 12, "name": "Avery Research Center · Lowcountry Digital Library", "url": "https://lcdl.library.cofc.edu/institution/avery-research-center" },
-        { "@type": "ListItem", "position": 13, "name": "SERNEC Portal", "url": "https://sernecportal.org/portal/" },
-        { "@type": "ListItem", "position": 14, "name": "PROTA4U · Plant Resources of Tropical Africa", "url": "https://prota.prota4u.org/" },
-        { "@type": "ListItem", "position": 15, "name": "Useful Tropical Plants Database", "url": "https://tropical.theferns.info/" }
+        { "@type": "ListItem", "position": 13, "name": "BDTD - Brazilian Digital Library of Theses and Dissertations", "url": "https://bdtd.ibict.br/vufind/" },
+        { "@type": "ListItem", "position": 14, "name": "The University of the West Indies Theses Collection", "url": "https://uwispace.sta.uwi.edu/handle/2139/13054" },
+        { "@type": "ListItem", "position": 15, "name": "theses.fr", "url": "https://theses.fr/" },
+        { "@type": "ListItem", "position": 16, "name": "HAL Theses", "url": "https://theses.hal.science/" },
+        { "@type": "ListItem", "position": 17, "name": "Dialnet Tesis", "url": "https://dialnet.unirioja.es/tesis" },
+        { "@type": "ListItem", "position": 18, "name": "EBSCO Open Dissertations", "url": "https://opendissertations.org/" },
+        { "@type": "ListItem", "position": 19, "name": "SERNEC Portal", "url": "https://sernecportal.org/portal/" },
+        { "@type": "ListItem", "position": 20, "name": "PROTA4U · Plant Resources of Tropical Africa", "url": "https://prota.prota4u.org/" },
+        { "@type": "ListItem", "position": 21, "name": "Useful Tropical Plants Database", "url": "https://tropical.theferns.info/" }
       ]
     }
   }
@@ -149,8 +157,9 @@
   <h1 class="portals-title">Research Portals</h1>
   <p class="portals-subtitle">External collections and discovery resources</p>
   <p class="portals-lede">
-    Find research beyond the Medjat catalog. Explore selected databases, archives, digital collections, finding aids,
-    and scholarly portals for Africa and the Afro-Atlantic world.
+    Explore selected databases, archives, digital collections, finding aids, and scholarly portals for research on Africa
+    and the Afro-Atlantic world. Each entry identifies what the resource is best for, its geographic coverage, available
+    languages, material types, and access model.
   </p>
   <div class="disclaimer-block">
     <p><strong>These resources are maintained by independent institutions and are not holdings of the Iroko Historical Society.</strong> IHS provides these links as a research service.</p>
@@ -165,6 +174,10 @@
     <a class="start-card" href="?category=guide">
       <span class="start-card-kicker">Finding aids</span>
       <span class="start-card-title">Research guides and bibliographies</span>
+    </a>
+    <a class="start-card" href="?category=theses">
+      <span class="start-card-kicker">Theses</span>
+      <span class="start-card-title">Theses and dissertations</span>
     </a>
     <a class="start-card" href="?category=archive">
       <span class="start-card-kicker">Primary sources</span>
@@ -184,7 +197,7 @@
 <div class="toolbar toolbar-grid portal-toolbar" role="search" aria-label="Filter research portals">
   <label class="sr-only" for="portalSearch">Search research portals</label>
   <input class="search-input" type="search" id="portalSearch" placeholder="Search by name, institution, region, language, or topic..." autocomplete="off">
-  <span class="search-count" id="searchCount" aria-live="polite">15 portals</span>
+  <span class="search-count" id="searchCount" aria-live="polite">21 portals</span>
   <label class="sr-only" for="accessFilter">Filter by access type</label>
   <select class="access-select" id="accessFilter">
     <option value="">All Access Types</option>
@@ -198,6 +211,7 @@
 <div class="filter-row" id="categoryFilter">
   <button type="button" class="filter-pill active" data-category="" aria-pressed="true">All Portals</button>
   <button type="button" class="filter-pill" data-category="digital-library" aria-pressed="false">Digital Libraries &amp; Repositories</button>
+  <button type="button" class="filter-pill" data-category="theses" aria-pressed="false">Theses &amp; Dissertations</button>
   <button type="button" class="filter-pill" data-category="archive" aria-pressed="false">Archives &amp; Manuscript Collections</button>
   <button type="button" class="filter-pill" data-category="religion" aria-pressed="false">Religion &amp; Sacred Traditions</button>
   <button type="button" class="filter-pill" data-category="music" aria-pressed="false">Music &amp; Oral History</button>
@@ -431,6 +445,120 @@
     <div class="portal-meta">Coverage: Charleston, SC Lowcountry, Gullah Geechee · Last verified: July 2026</div>
     <div class="portal-foot">
       <span class="access-badge access-partial">Partial digital access · onsite research</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://bdtd.ibict.br/vufind/" target="_blank" rel="noopener noreferrer"
+     data-search="bdtd biblioteca digital brasileira teses dissertacoes ibict brazil brasil theses dissertations portuguese afro brazilian candomble umbanda slavery ethnobotany religion"
+     data-category="theses" data-access="access-open">
+    <div class="portal-eyebrow">Thesis repository</div>
+    <div class="portal-name">BDTD - Brazilian Digital Library of Theses and Dissertations</div>
+    <div class="portal-institution">Instituto Brasileiro de Informacao em Ciencia e Tecnologia (IBICT)</div>
+    <div class="portal-desc">Brazilian national discovery portal aggregating theses and dissertations from participating universities and research institutions. Strong first stop for Portuguese-language work on Candomble, Umbanda, Afro-Brazilian history, slavery, ethnobotany, and religious studies.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Brazilian graduate research and university repository records.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily Portuguese, with abstracts and metadata varying by institution.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Theses, dissertations, abstracts, metadata, and institutional full-text links.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: Brazil; Brazilian researchers abroad · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://uwispace.sta.uwi.edu/handle/2139/13054" target="_blank" rel="noopener noreferrer"
+     data-search="uwi theses collection uwispace university west indies caribbean jamaica trinidad barbados theses dissertations anthropology religion history cultural studies"
+     data-category="theses" data-access="access-partial">
+    <div class="portal-eyebrow">Thesis repository</div>
+    <div class="portal-name">The University of the West Indies Theses Collection</div>
+    <div class="portal-institution">UWISpace · The University of the West Indies</div>
+    <div class="portal-desc">Institutional repository collection for UWI theses across Caribbean campuses. Useful for Caribbean-focused graduate research, including history, anthropology, religion, cultural studies, language, music, and local case studies that may not appear in commercial databases.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Caribbean theses and campus-based graduate scholarship.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily English; varies by thesis and campus.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Thesis records, abstracts, and full-text files when available.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: Caribbean; UWI campuses · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://theses.fr/" target="_blank" rel="noopener noreferrer"
+     data-search="theses.fr french theses dissertations france doctoral africa caribbean antilles guyane haiti vodou migration slavery colonial archives religion ethnology"
+     data-category="theses" data-access="access-partial">
+    <div class="portal-eyebrow">Thesis repository</div>
+    <div class="portal-name">theses.fr</div>
+    <div class="portal-institution">ABES · French higher education thesis portal</div>
+    <div class="portal-desc">French national thesis search engine for defended and in-progress doctoral work in France. Useful for French-language scholarship on Africa, the Caribbean, migration, slavery, religion, ethnology, and colonial archives.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>French doctoral theses, supervisors, institutions, and research topics.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily French, with multilingual titles and abstracts when supplied.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Thesis records, abstracts, in-progress thesis notices, and full-text links when available.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: France; Francophone research networks · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://theses.hal.science/" target="_blank" rel="noopener noreferrer"
+     data-search="hal theses tel france open archive doctoral theses dissertations french francophone africa caribbean anthropology history religious studies"
+     data-category="theses" data-access="access-open">
+    <div class="portal-eyebrow">Thesis repository</div>
+    <div class="portal-name">HAL Theses</div>
+    <div class="portal-institution">HAL · Centre pour la Communication Scientifique Directe (CCSD)</div>
+    <div class="portal-desc">Open archive for French doctoral theses within HAL. Useful when the priority is full-text author-deposited scholarship connected to France, Francophone Africa, the Caribbean, anthropology, history, and religious studies.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Open full-text French and Francophone doctoral theses.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily French, with some English and other languages.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Deposited theses, metadata, author profiles, and repository links.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: France; international HAL deposits · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://dialnet.unirioja.es/tesis" target="_blank" rel="noopener noreferrer"
+     data-search="dialnet tesis doctoral theses dissertations spanish hispanic latin america spain caribbean afro latin anthropology religion history cultural studies"
+     data-category="theses" data-access="access-partial">
+    <div class="portal-eyebrow">Thesis repository</div>
+    <div class="portal-name">Dialnet Tesis</div>
+    <div class="portal-institution">Fundacion Dialnet · Universidad de La Rioja</div>
+    <div class="portal-desc">Spanish-language thesis search within Dialnet, a major bibliographic portal for Hispanic scholarly production. Useful for work from Spain and Latin America, including Afro-Latin studies, Caribbean history, religions, literature, anthropology, and cultural studies.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Doctoral theses from Spanish and Hispanic scholarly networks.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily Spanish, with other Iberian and European languages appearing by record.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Thesis records, abstracts, university metadata, and full-text links when available.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: Spain, Latin America, Hispanic scholarship · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://opendissertations.org/" target="_blank" rel="noopener noreferrer"
+     data-search="ebsco open dissertations electronic theses dissertations etd worldwide graduate research institutional repositories africa caribbean afro atlantic"
+     data-category="theses" data-access="access-open">
+    <div class="portal-eyebrow">Thesis repository</div>
+    <div class="portal-name">EBSCO Open Dissertations</div>
+    <div class="portal-institution">EBSCO Information Services</div>
+    <div class="portal-desc">Free open-web portal for electronic theses and dissertations harvested from institutional repositories worldwide. Useful for broad discovery when regional repository boundaries are unclear or when looking for graduate work outside core Afro-Atlantic databases.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Worldwide thesis and dissertation discovery across many institutions.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>English-dominant interface and metadata, with records from many countries.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>ETD records, abstracts, repository pointers, and full-text links when available.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: Worldwide · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
       <span class="portal-cta">Visit collection ↗</span>
     </div>
   </a>

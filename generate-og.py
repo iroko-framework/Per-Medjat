@@ -45,6 +45,7 @@ TEXT_X_LOGO             = LOGO_BOX["x"] + LOGO_BOX["w"] + 75
 RIGHT_PAD               = 72
 LABEL_Y                 = 170
 TITLE_OFFSET_FROM_LABEL = 38
+TITLE_SUBTITLE_GAP      = 20
 
 SZ_LABEL  = 18
 SZ_TITLE  = 62
@@ -253,6 +254,12 @@ def _text_h(draw, text, font) -> int:
     bb = draw.textbbox((0, 0), text, font=font)
     return bb[3] - bb[1]
 
+def _line_h(font) -> int:
+    if hasattr(font, "getmetrics"):
+        ascent, descent = font.getmetrics()
+        return ascent + descent
+    return _text_h(ImageDraw.Draw(Image.new("RGB", (1, 1))), "Ag", font)
+
 def wrap_text(draw, text, font, max_w) -> list:
     """Wrap text while preserving any deliberate line breaks in the source."""
     lines = []
@@ -276,9 +283,10 @@ def wrap_text(draw, text, font, max_w) -> list:
     return lines
 
 def draw_wrapped(draw, text, font, x, y, max_w, color, leading_mult=1.25) -> int:
+    line_step = int(_line_h(font) * leading_mult)
     for line in wrap_text(draw, text, font, max_w):
         draw.text((x, y), line, font=font, fill=color)
-        y += int(_text_h(draw, line, font) * leading_mult)
+        y += line_step
     return y
 
 def auto_size_title(draw, title, max_w):
@@ -313,7 +321,7 @@ def make_og_image(page: dict) -> Image.Image:
     title_y    = LABEL_Y + TITLE_OFFSET_FROM_LABEL + _text_h(draw, "A", f_label)
     title_end  = draw_wrapped(draw, page["title"], f_title, text_x, title_y, max_w, sc["col_title"], 1.15)
     f_sub = get_font("garamond_ital", SZ_SUB)
-    draw_wrapped(draw, page["subtitle"], f_sub, text_x, title_end + 20, max_w, sc["col_sub"], 1.45)
+    draw_wrapped(draw, page["subtitle"], f_sub, text_x, title_end + TITLE_SUBTITLE_GAP, max_w, sc["col_sub"], 1.45)
     f_dom  = get_font("sourcesans", SZ_DOMAIN)
     domain = "medjat.irokosociety.org"
     dh     = _text_h(draw, domain, f_dom)

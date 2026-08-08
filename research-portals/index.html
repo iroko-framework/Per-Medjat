@@ -142,9 +142,15 @@
         { "@type": "ListItem", "position": 16, "name": "HAL Theses", "url": "https://theses.hal.science/" },
         { "@type": "ListItem", "position": 17, "name": "Dialnet Tesis", "url": "https://dialnet.unirioja.es/tesis" },
         { "@type": "ListItem", "position": 18, "name": "EBSCO Open Dissertations", "url": "https://opendissertations.org/" },
-        { "@type": "ListItem", "position": 19, "name": "SERNEC Portal", "url": "https://sernecportal.org/portal/" },
-        { "@type": "ListItem", "position": 20, "name": "PROTA4U · Plant Resources of Tropical Africa", "url": "https://prota.prota4u.org/" },
-        { "@type": "ListItem", "position": 21, "name": "Useful Tropical Plants Database", "url": "https://tropical.theferns.info/" }
+        { "@type": "ListItem", "position": 19, "name": "Sudoc", "url": "https://www.sudoc.abes.fr/" },
+        { "@type": "ListItem", "position": 20, "name": "HAL", "url": "https://hal.science/" },
+        { "@type": "ListItem", "position": 21, "name": "OpenEdition Journals", "url": "https://journals.openedition.org/" },
+        { "@type": "ListItem", "position": 22, "name": "Persée", "url": "https://www.persee.fr/" },
+        { "@type": "ListItem", "position": 23, "name": "Cairn.info", "url": "https://www.cairn.info/" },
+        { "@type": "ListItem", "position": 24, "name": "Hemeroteca Digital Brasileira", "url": "https://memoria.bn.gov.br/hdb/periodico.aspx" },
+        { "@type": "ListItem", "position": 25, "name": "SERNEC Portal", "url": "https://sernecportal.org/portal/" },
+        { "@type": "ListItem", "position": 26, "name": "PROTA4U · Plant Resources of Tropical Africa", "url": "https://prota.prota4u.org/" },
+        { "@type": "ListItem", "position": 27, "name": "Useful Tropical Plants Database", "url": "https://tropical.theferns.info/" }
       ]
     }
   }
@@ -217,7 +223,7 @@
 <div class="toolbar toolbar-grid portal-toolbar" role="search" aria-label="Filter research portals">
   <label class="sr-only" for="portalSearch">Search research portals</label>
   <input class="search-input" type="search" id="portalSearch" placeholder="Search by name, institution, region, language, or topic..." autocomplete="off">
-  <span class="search-count" id="searchCount" aria-live="polite">21 portals</span>
+  <span class="search-count" id="searchCount" aria-live="polite">27 portals</span>
   <label class="sr-only" for="accessFilter">Filter by access type</label>
   <select class="access-select" id="accessFilter">
     <option value="">All Access Types</option>
@@ -418,18 +424,18 @@
   </a>
 
   <a class="portal-card" href="https://www.manioc.org/" target="_blank" rel="noopener noreferrer"
-     data-search="manioc bibliotheque numerique caraibe amazonie guyane universite des antilles guiana slavery ethnobotany"
+     data-search="manioc bibliotheque numerique caraibe amazonie guyane universite des antilles guiana slavery ethnobotany audio conferences seminars iconography research recordings"
      data-category="digital-library" data-access="access-open">
     <div class="portal-eyebrow">Digital library</div>
     <h3 class="portal-name">MANIOC</h3>
     <div class="portal-institution">Université des Antilles · Université de Guyane consortium</div>
-    <div class="portal-desc">An open-access digital library covering the Caribbean, Amazonia, and the Guyana Plateau, built by roughly twenty partner institutions in the French Antilles, Guyana, and mainland France. Includes primary sources on slavery and ethnobotany alongside digitized books, periodicals, and images.</div>
+    <div class="portal-desc">An open-access digital library covering the Caribbean, Amazonia, and Guyane, operating since 2006 and built by roughly twenty partner institutions in the French Antilles, Guyane, and mainland France. Holdings run beyond digitized texts to recorded conferences and seminars, iconography, and born-digital research output, alongside primary sources on slavery and ethnobotany.</div>
     <div class="portal-fields">
-      <div class="portal-field"><strong>Best for</strong><span>French Caribbean, Amazonia, and Guiana digitized sources.</span></div>
+      <div class="portal-field"><strong>Best for</strong><span>French Caribbean, Amazonian, and Guyanese sources, including recorded scholarship.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>French primarily; source languages vary.</span></div>
-      <div class="portal-field"><strong>Materials</strong><span>Books, periodicals, images, and primary sources.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Books, periodicals, audio and video, iconography, and primary sources.</span></div>
     </div>
-    <div class="portal-meta">Coverage: French Caribbean, Amazonia, Guiana · Last verified: July 2026</div>
+    <div class="portal-meta">Coverage: Caribbean, Amazonia, Guyane; since 2006 · Last verified: August 2026</div>
     <div class="portal-foot">
       <span class="access-badge access-open">Open digital access</span>
       <span class="portal-cta">Visit collection ↗</span>
@@ -518,14 +524,14 @@
      data-category="theses" data-access="access-partial">
     <div class="portal-eyebrow">Thesis repository</div>
     <h3 class="portal-name">theses.fr</h3>
-    <div class="portal-institution">ABES · French higher education thesis portal</div>
-    <div class="portal-desc">French national thesis search engine for defended and in-progress doctoral work in France. Useful for French-language scholarship on Africa, the Caribbean, migration, slavery, religion, ethnology, and colonial archives.</div>
+    <div class="portal-institution">ABES · Agence bibliographique de l'enseignement supérieur</div>
+    <div class="portal-desc">The French national thesis registry, covering both defended doctorates and theses currently in preparation. The in-preparation records are the distinguishing feature: they surface work in progress years before publication, which is how you learn that someone is already three years into your subject. Operated by ABES, the same agency behind Sudoc, so records cross-reference cleanly.</div>
     <div class="portal-fields">
-      <div class="portal-field"><strong>Best for</strong><span>French doctoral theses, supervisors, institutions, and research topics.</span></div>
+      <div class="portal-field"><strong>Best for</strong><span>Defended and in-preparation French doctoral work, supervisors, and laboratories.</span></div>
       <div class="portal-field"><strong>Languages</strong><span>Primarily French, with multilingual titles and abstracts when supplied.</span></div>
-      <div class="portal-field"><strong>Materials</strong><span>Thesis records, abstracts, in-progress thesis notices, and full-text links when available.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Thesis records, abstracts, in-preparation notices, and full-text links when available.</span></div>
     </div>
-    <div class="portal-meta">Coverage: France; Francophone research networks · Last verified: July 2026</div>
+    <div class="portal-meta">Coverage: France; Francophone research networks · Last verified: August 2026</div>
     <div class="portal-foot">
       <span class="access-badge access-partial">Partial digital access</span>
       <span class="portal-cta">Visit collection ↗</span>
@@ -583,6 +589,120 @@
       <div class="portal-field"><strong>Materials</strong><span>ETD records, abstracts, repository pointers, and full-text links when available.</span></div>
     </div>
     <div class="portal-meta">Coverage: Worldwide · Last verified: July 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://www.sudoc.abes.fr/" target="_blank" rel="noopener noreferrer"
+     data-search="sudoc abes systeme universitaire de documentation french union catalogue academic libraries france holdings interlibrary loan theses monographs periodicals francophone africa caribbean antilles"
+     data-category="digital-library" data-access="access-finding-aid">
+    <div class="portal-eyebrow">Union catalogue</div>
+    <h3 class="portal-name">Sudoc</h3>
+    <div class="portal-institution">ABES · Agence bibliographique de l'enseignement supérieur</div>
+    <div class="portal-desc">The union catalogue of French higher-education and research libraries, maintained by the same agency that operates theses.fr. Records describe monographs, periodicals, theses, and archival holdings across several thousand French institutions, with locating information for each holding library. Use it to establish that a French-language work on the Antilles, Guyane, or Francophone Africa exists and to determine where a physical copy sits before requesting it.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Verifying French-language citations and locating holding institutions.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>French interface; catalogued works in all languages.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Bibliographic records, holdings data, authority records, and thesis notices.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: French academic libraries; all languages · Last verified: August 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-finding-aid">Finding aid / metadata only</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://hal.science/" target="_blank" rel="noopener noreferrer"
+     data-search="hal science ccsd open archive france preprints postprints repository francophone africa caribbean anthropology ethnology history religious studies full text"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Open repository</div>
+    <h3 class="portal-name">HAL</h3>
+    <div class="portal-institution">Centre pour la Communication Scientifique Directe (CCSD)</div>
+    <div class="portal-desc">France's national open-access repository for author-deposited preprints, postprints, book chapters, and conference papers. Broader than the HAL Theses subset also listed here: much Francophone anthropology and history circulates in HAL well before, or entirely outside of, a paywalled journal version. Frequently the only free route to an article otherwise locked behind Cairn.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Free full text of Francophone scholarship, including paywalled-elsewhere articles.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily French, with substantial English deposits.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Preprints, postprints, chapters, conference papers, and theses.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: France; international deposits · Last verified: August 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://journals.openedition.org/" target="_blank" rel="noopener noreferrer"
+     data-search="openedition journals revues.org gradhiva journal des africanistes cahiers d etudes africaines francophone humanities social sciences anthropology ethnology religion caribbean africa"
+     data-category="digital-library" data-access="access-partial">
+    <div class="portal-eyebrow">Journal platform</div>
+    <h3 class="portal-name">OpenEdition Journals</h3>
+    <div class="portal-institution">OpenEdition · CNRS, EHESS, Aix-Marseille Université, Université d'Avignon</div>
+    <div class="portal-desc">The principal platform for Francophone humanities and social science journals, hosting several hundred titles. Directly relevant runs include <em>Gradhiva</em>, <em>Journal des africanistes</em>, and <em>Cahiers d'études africaines</em>, which carry much of the twentieth-century French ethnographic literature on Afro-Atlantic religion. Most content is open; some titles operate a moving wall or freemium model.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Francophone ethnography and religious studies journal literature.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily French, with English and Spanish articles.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Journal articles, issues, reviews, and editorial apparatus.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: Francophone humanities and social sciences · Last verified: August 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access · mostly open</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://www.persee.fr/" target="_blank" rel="noopener noreferrer"
+     data-search="persee persee.fr digitized backfiles french journals retrospective runs journal de la societe des africanistes cahiers d etudes africaines annales colonial ethnography africa caribbean"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Journal backfiles</div>
+    <h3 class="portal-name">Persée</h3>
+    <div class="portal-institution">Persée · ENS de Lyon, CNRS, Ministère de l'Enseignement supérieur</div>
+    <div class="portal-desc">Retrospective digitization of French scholarly journals, covering the runs that predate the OpenEdition era. Where OpenEdition begins a title in the 1990s or 2000s, Persée frequently holds everything before it, including the early <em>Journal de la Société des Africanistes</em>. Indispensable for colonial-period ethnography that later scholarship cites but rarely reproduces.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Pre-1990 French journal runs and colonial-era ethnographic articles.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily French.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Digitized articles, full issues, and page images with OCR.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: French scholarly journals, 19th century onward · Last verified: August 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-open">Open digital access</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://www.cairn.info/" target="_blank" rel="noopener noreferrer"
+     data-search="cairn cairn.info francophone humanities social sciences journals revues belgium france switzerland subscription paywall abstracts indexing anthropology sociology history religion"
+     data-category="digital-library" data-access="access-partial">
+    <div class="portal-eyebrow">Journal platform</div>
+    <h3 class="portal-name">Cairn.info</h3>
+    <div class="portal-institution">Cairn · Belgian and French publisher consortium</div>
+    <div class="portal-desc">A subscription platform for Francophone humanities and social science journals, books, and reference works. Most articles sit behind a paywall, but records, abstracts, and full citations are openly indexed, which makes Cairn useful as a discovery layer even without a subscription. Once an article is identified here, check HAL or Persée for an open version before seeking institutional access.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Identifying recent Francophone journal literature and complete citations.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Primarily French, with English abstracts and some translated articles.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Journal articles, edited volumes, and reference works.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: France, Belgium, Switzerland, Québec · Last verified: August 2026</div>
+    <div class="portal-foot">
+      <span class="access-badge access-partial">Partial digital access · paywalled, openly indexed</span>
+      <span class="portal-cta">Visit collection ↗</span>
+    </div>
+  </a>
+
+  <a class="portal-card" href="https://memoria.bn.gov.br/hdb/periodico.aspx" target="_blank" rel="noopener noreferrer"
+     data-search="hemeroteca digital brasileira biblioteca nacional bndigital brazil brazilian newspapers periodicals magazines ocr full text portuguese candomble macumba umbanda imprensa negra black press abolition slavery rio de janeiro bahia salvador nineteenth century"
+     data-category="digital-library" data-access="access-open">
+    <div class="portal-eyebrow">Newspaper archive</div>
+    <h3 class="portal-name">Hemeroteca Digital Brasileira</h3>
+    <div class="portal-institution">Fundação Biblioteca Nacional · BNDigital</div>
+    <div class="portal-desc">Brazil's national digitized periodical archive, roughly five million pages of newspapers, magazines, yearbooks, and bulletins from the early nineteenth century forward, searchable in full text by OCR. The single richest open source for how Candomblé, Macumba, and Umbanda were reported, policed, and prosecuted in the Brazilian press, alongside abolition-era coverage and the twentieth-century <em>imprensa negra</em>. Complements BDTD, which indexes scholarship about these subjects rather than the contemporary record of them.</div>
+    <div class="portal-fields">
+      <div class="portal-field"><strong>Best for</strong><span>Full-text keyword searching of the Brazilian press on Afro-Brazilian religion and slavery.</span></div>
+      <div class="portal-field"><strong>Languages</strong><span>Portuguese; interface in Portuguese with partial English.</span></div>
+      <div class="portal-field"><strong>Materials</strong><span>Newspapers, magazines, yearbooks, bulletins, and serial publications as page images with OCR.</span></div>
+    </div>
+    <div class="portal-meta">Coverage: Brazil, 19th century onward · Last verified: August 2026</div>
     <div class="portal-foot">
       <span class="access-badge access-open">Open digital access</span>
       <span class="portal-cta">Visit collection ↗</span>

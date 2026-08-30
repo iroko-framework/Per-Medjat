@@ -70,7 +70,15 @@
     .intake-cta { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--lapis); border: 1px solid var(--lapis); padding: .35em 1em; border-radius: 2px; text-decoration: none; transition: all .15s; display: inline-block; }
     .intake-cta:hover { background: var(--lapis); color: #fff; }
 
-    @media (max-width: 640px) { .archives-grid { grid-template-columns: 1fr; } .tier-strip { flex-wrap: wrap; } .tier-cell { flex: 1 1 30%; } }
+    /* Public collection-care guidance */
+    .care-block { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 2rem; align-items: center; border: 1px solid var(--rule-strong); border-top: 4px solid var(--lapis); background: var(--paper); padding: 1.6rem 1.8rem; border-radius: 3px; margin: 1rem 0 2.25rem; }
+    .care-kicker { font-family: var(--mono); font-size: .6rem; letter-spacing: .14em; text-transform: uppercase; color: var(--lapis); margin-bottom: .45rem; }
+    .care-title { font-family: var(--serif); font-size: 1.35rem; font-weight: 600; color: var(--ink); margin-bottom: .4rem; }
+    .care-body { font-size: .86rem; color: var(--ink-mid); line-height: 1.7; max-width: 65ch; }
+    .care-cta { font-family: var(--mono); font-size: .66rem; letter-spacing: .09em; text-transform: uppercase; color: #fff; background: var(--lapis); padding: .65rem 1rem; border-radius: 2px; text-decoration: none; white-space: nowrap; }
+    .care-cta:hover { background: var(--ink); color: #fff; }
+
+    @media (max-width: 640px) { .archives-grid { grid-template-columns: 1fr; } .tier-strip { flex-wrap: wrap; } .tier-cell { flex: 1 1 30%; } .care-block { grid-template-columns: 1fr; gap: 1rem; } .care-cta { width: fit-content; } }
   </style>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
@@ -159,7 +167,7 @@
     <a class="archive-card planned" href="https://medjat.irokosociety.org/espiritismo/">
       <span class="archive-card-status">Forthcoming</span>
       <div class="archive-card-name">Espiritismo</div>
-      <div class="archive-card-desc">Archival and ethnographic materials on Caribbean Spiritism: Kardecista, Cruzado, and Científico traditions across Cuba, Puerto Rico, and the Gulf diaspora. Particular attention to intersections with Lucumí, Palo, and Abakuá.</div>
+      <div class="archive-card-desc">Archival and ethnographic materials on Caribbean Spiritism: Kardecista, Cruzado, and Científico traditions across Cuba, Puerto Rico, and Gulf Coast communities. Particular attention to intersections with Lucumí, Palo, and Abakuá.</div>
       <div class="archive-card-access">Access: Mixed tiers anticipated · IHS Havana fieldwork basis · In development</div>
     </a>
 
@@ -176,6 +184,17 @@
     <a class="action-primary" href="https://ontology.irokosociety.org/">Iroko Framework vocabulary ↗</a>
     <a class="action-secondary" href="https://www.irokosociety.org/access-policy.html">Access policy</a>
     <a class="action-secondary" href="https://www.irokosociety.org/contact.html">Submit a research request</a>
+  </div>
+
+  <p class="section-label">Caring for a collection</p>
+
+  <div class="care-block">
+    <div>
+      <div class="care-kicker">Public guidance &middot; No transfer required</div>
+      <div class="care-title">Before Anything Is Moved</div>
+      <p class="care-body">A first-response guide for families, congregations, and community organizations facing an urgent move, closure, storage deadline, or change of caretaker. Protect context, authority, and living knowledge before sorting or scanning begins.</p>
+    </div>
+    <a class="care-cta" href="first-response/">Open the guide &#8594;</a>
   </div>
 
   <div class="intake-block">
@@ -199,6 +218,7 @@
         <a href="https://medjat.irokosociety.org/">Home</a>
         <a href="https://medjat.irokosociety.org/library/">Medjat Library</a>
         <a href="https://medjat.irokosociety.org/archives/">Medjat Archives</a>
+        <a href="https://medjat.irokosociety.org/archives/first-response/">First-Response Guide</a>
         <a href="https://medjat.irokosociety.org/research-portals/">Research Portals</a>
         <a href="https://medjat.irokosociety.org/entrusting/">Entrusting the Work</a>
       </div>

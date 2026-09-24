@@ -1647,6 +1647,43 @@
     "recordPath": "/library/data/records/DP/DPLU4S3V.json"
   },
   {
+    "key": "NKTKS9VJ",
+    "title": "English-Tshi (Asante): A Dictionary",
+    "subtitle": "",
+    "creators": [
+      "Basel Evangelical Missionary Society"
+    ],
+    "year": "1909",
+    "date": "1909",
+    "publisher": "Basel Evangelical Missionary Society",
+    "publicationLine": "Basel: Basel Evangelical Missionary Society, 1909.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English",
+      "twi"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/englishtshiasant00evaniala",
+    "searchText": "english-tshi (asante): a dictionary basel evangelical missionary society 1909 basel evangelical missionary society book book akan language medjat lexicon twi language dictionaries english twi akan language medjat lexicon twi language dictionaries",
+    "recordPath": "/library/data/records/NK/NKTKS9VJ.json",
+    "languageCodes": [
+      "en",
+      "twi"
+    ]
+  },
+  {
     "key": "M4R7JBGT",
     "title": "Owning memory: how a Caribbean community lost its archives and found its history",
     "subtitle": "",
@@ -1737,6 +1774,78 @@
     "searchText": "spatial product differentiation in specialized markets for agricultural food products of kano metropolis, nigeria bello gambo 2016 american journal of business, economics and management journalarticle journal article urban and freight transport logistics urban and freight transport logistics medjat-search:(oro-or-ọrọ)-and-(yoruba-or-masquerade-or-ritual-or-nigeria-or-secret-or-\"secret-society\")",
     "recordPath": "/library/data/records/EM/EM9GDAYL.json",
     "volume": "4"
+  },
+  {
+    "key": "C2SRVL7B",
+    "title": "Appendix to the Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa",
+    "subtitle": "",
+    "creators": [
+      "Bentley, W. Holman"
+    ],
+    "year": "1895",
+    "date": "1895",
+    "publisher": "Baptist Missionary Society",
+    "publicationLine": "London: Baptist Missionary Society, 1895.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English",
+      "Kongo"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/dictionarygramma00bentuoft",
+    "searchText": "appendix to the dictionary and grammar of the kongo language, as spoken at san salvador, the ancient capital of the old kongo empire, west africa bentley, w. holman 1895 baptist missionary society book book kongo language medjat lexicon dictionaries english kongo kongo language medjat lexicon dictionaries",
+    "recordPath": "/library/data/records/C2/C2SRVL7B.json",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  {
+    "key": "M9I2ZF2I",
+    "title": "Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa",
+    "subtitle": "",
+    "creators": [
+      "Bentley, W. Holman"
+    ],
+    "year": "1887",
+    "date": "1887",
+    "publisher": "Baptist Missionary Society and Trübner",
+    "publicationLine": "London: Baptist Missionary Society and Trübner, 1887.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English",
+      "Kongo"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/dictionarygramma00bent",
+    "searchText": "dictionary and grammar of the kongo language, as spoken at san salvador, the ancient capital of the old kongo empire, west africa bentley, w. holman 1887 baptist missionary society and trübner book book kongo language medjat lexicon dictionaries english kongo kongo language medjat lexicon dictionaries",
+    "recordPath": "/library/data/records/M9/M9I2ZF2I.json",
+    "languageCodes": [
+      "en"
+    ]
   },
   {
     "key": "6W74TVMY",
@@ -2025,6 +2134,43 @@
     "recordPath": "/library/data/records/RZ/RZLKIJTX.json",
     "languageCodes": [
       "pt"
+    ]
+  },
+  {
+    "key": "3MZWH2Y6",
+    "title": "Grammar and Dictionary of the Yoruba Language, with an Introductory Description of the Country and People of Yoruba",
+    "subtitle": "",
+    "creators": [
+      "Bowen, Thomas Jefferson"
+    ],
+    "year": "1858",
+    "date": "1858",
+    "publisher": "Smithsonian Institution",
+    "publicationLine": "Washington, DC: Smithsonian Institution, 1858.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English",
+      "Yorùbá"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "grammar and dictionary of the yoruba language, with an introductory description of the country and people of yoruba bowen, thomas jefferson 1858 smithsonian institution book book medjat lexicon yoruba language dictionaries english yorùbá medjat lexicon yoruba language dictionaries",
+    "recordPath": "/library/data/records/3M/3MZWH2Y6.json",
+    "languageCodes": [
+      "en",
+      "yo"
     ]
   },
   {
@@ -2600,6 +2746,42 @@
     "recordPath": "/library/data/records/WA/WAMYWLRG.json"
   },
   {
+    "key": "B2XD6R6A",
+    "title": "Dictionnaire kikongo-français, français-kikongo",
+    "subtitle": "",
+    "creators": [
+      "Butaye, René"
+    ],
+    "year": "1910",
+    "date": "1910",
+    "publisher": "Jules De Meester",
+    "publicationLine": "Roulers: Jules De Meester, 1910.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "French",
+      "Kongo"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/dictionnaire-butaye",
+    "searchText": "dictionnaire kikongo-français, français-kikongo butaye, rené 1910 jules de meester book book kongo language medjat lexicon dictionaries french kongo kongo language medjat lexicon dictionaries",
+    "recordPath": "/library/data/records/B2/B2XD6R6A.json",
+    "languageCodes": [
+      "fr"
+    ]
+  },
+  {
     "key": "EZF4W8ZV",
     "title": "Transculturación y sincretismo: una visión holística desde la proyección músico-danzaria en diferentes contextos socioculturales cubanos",
     "subtitle": "",
@@ -2903,6 +3085,44 @@
     "recordPath": "/library/data/records/32/32SAD4DV.json",
     "languageCodes": [
       "pt"
+    ]
+  },
+  {
+    "key": "CJ3MC94E",
+    "title": "Diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina",
+    "subtitle": "",
+    "creators": [
+      "Cannecattim, Bernardo Maria de"
+    ],
+    "year": "1804",
+    "date": "1804",
+    "publisher": "Impressão Regia",
+    "publicationLine": "Lisbon: Impressão Regia, 1804.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese",
+      "Latin",
+      "Kimbundu"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/b33080227",
+    "searchText": "diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina cannecattim, bernardo maria de 1804 impressão regia book book kimbundu language medjat lexicon dictionaries portuguese latin kimbundu kimbundu language medjat lexicon dictionaries",
+    "recordPath": "/library/data/records/CJ/CJ3MC94E.json",
+    "languageCodes": [
+      "pt",
+      "la"
     ]
   },
   {
@@ -3710,6 +3930,43 @@
     "volume": "57"
   },
   {
+    "key": "BU5D742B",
+    "title": "A Dictionary of the Yoruba Language",
+    "subtitle": "",
+    "creators": [
+      "Church Missionary Society"
+    ],
+    "year": "1913",
+    "date": "1913",
+    "publisher": "Church Missionary Society Bookshop",
+    "publicationLine": "Lagos: Church Missionary Society Bookshop, 1913.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Yorùbá",
+      "English"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/DictionaryOfTheYorubaLanguage",
+    "searchText": "a dictionary of the yoruba language church missionary society 1913 church missionary society bookshop book book medjat lexicon yoruba language dictionaries yorùbá english medjat lexicon yoruba language dictionaries",
+    "recordPath": "/library/data/records/BU/BU5D742B.json",
+    "languageCodes": [
+      "yo",
+      "en"
+    ]
+  },
+  {
     "key": "L77XUF83",
     "title": "Afro-Brazilian religions in Portugal: bruxos, priests and pais de santo",
     "subtitle": "",
@@ -4024,6 +4281,43 @@
     "url": "",
     "searchText": "belkis ayón: su propia voz cristina vives 2009 artecubano: revista de artes visuales journalarticle journal article cinema history and criticism cuban history and society cinema history and criticism cuban history and society medjat-search:abakuá",
     "recordPath": "/library/data/records/5U/5UQNWLS4.json"
+  },
+  {
+    "key": "XSD3XH24",
+    "title": "A Vocabulary of the Yoruba Language",
+    "subtitle": "",
+    "creators": [
+      "Crowther, Samuel Ajayi"
+    ],
+    "year": "1852",
+    "date": "1852",
+    "publisher": "Seeleys",
+    "publicationLine": "London: Seeleys, 1852.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "English",
+      "Yorùbá"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/vocabularyofyoru00crow",
+    "searchText": "a vocabulary of the yoruba language crowther, samuel ajayi 1852 seeleys book book medjat lexicon yoruba language dictionaries english yorùbá medjat lexicon yoruba language dictionaries",
+    "recordPath": "/library/data/records/XS/XSD3XH24.json",
+    "languageCodes": [
+      "en",
+      "yo"
+    ]
   },
   {
     "key": "AELNGXBY",
@@ -4875,6 +5169,46 @@
     "url": "https://www.slaveryarchive.com/most-anticipated-books-of-2025/",
     "searchText": "an efficient womanhood: women and the making of the universal negro improvement association duncan, natanya 2025 university of north carolina press book monograph post-abolition resistance 20th century united states access: public afro-atlantic black women's organizing garveyism slavery & abolition studies unia 20th century united states access: public afro-atlantic black women's organizing garveyism monograph slavery & abolition studies unia domain:post-abolition domain:resistance",
     "recordPath": "/library/data/records/KR/KRVRW5A8.json"
+  },
+  {
+    "key": "JU7B6L7S",
+    "title": "Diccionario de la lengua conga residual en Cuba",
+    "subtitle": "",
+    "creators": [
+      "Díaz Fabelo, Teodoro"
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá",
+    "publicationLine": "Santiago de Cuba; Alcalá de Henares: Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá, 1997.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [
+      "Palo Monte"
+    ],
+    "traditionLinks": {
+      "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Spanish",
+      "Kongo"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "",
+    "searchText": "diccionario de la lengua conga residual en cuba díaz fabelo, teodoro 1997 casa del caribe; orcalc/unesco; universidad de alcalá book book palo monte cuba kongo language medjat lexicon dictionaries spanish kongo cuba kongo language medjat lexicon palo monte dictionaries",
+    "recordPath": "/library/data/records/JU/JU7B6L7S.json",
+    "languageCodes": [
+      "es"
+    ]
   },
   {
     "key": "3A5VN2IK",
@@ -14713,6 +15047,42 @@
     "recordPath": "/library/data/records/LG/LGEABKBZ.json"
   },
   {
+    "key": "DDPKSSFN",
+    "title": "Diccionario portuguez-kimbundu",
+    "subtitle": "",
+    "creators": [
+      "Nascimento, J. Pereira do"
+    ],
+    "year": "1903",
+    "date": "1903",
+    "publisher": "Typographia da Missão",
+    "publicationLine": "Huíla: Typographia da Missão, 1903.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese",
+      "Kimbundu"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/diccionarioport00nascgoog",
+    "searchText": "diccionario portuguez-kimbundu nascimento, j. pereira do 1903 typographia da missão book book kimbundu language medjat lexicon dictionaries portuguese kimbundu kimbundu language medjat lexicon dictionaries",
+    "recordPath": "/library/data/records/DD/DDPKSSFN.json",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  {
     "key": "VQQYIZWC",
     "title": "El legado africano en Cuba",
     "subtitle": "",
@@ -15091,6 +15461,41 @@
     "url": "http://hdl.handle.net/11427/19713",
     "searchText": "the northern cape frontier zone, 1700 - c.1815 nigel penn 1995 open university of cape town (university of cape town) thesis thesis / dissertation historical influence and diplomacy migration, policy, and dickens studies scottish history and national identity historical influence and diplomacy migration, policy, and dickens studies scottish history and national identity medjat-search:slave-law",
     "recordPath": "/library/data/records/T4/T4W3UVC2.json"
+  },
+  {
+    "key": "T4R62BSS",
+    "title": "Os africanos no Brasil",
+    "subtitle": "",
+    "creators": [
+      "Nina Rodrigues, Raimundo"
+    ],
+    "year": "1932",
+    "date": "1932",
+    "publisher": "Companhia Editora Nacional",
+    "publicationLine": "São Paulo: Companhia Editora Nacional, 1932.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [],
+    "traditionLinks": {},
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/osafricanosnobrasil",
+    "searchText": "os africanos no brasil nina rodrigues, raimundo 1932 companhia editora nacional book book african languages bahia brazil medjat lexicon portuguese african languages bahia brazil medjat lexicon",
+    "recordPath": "/library/data/records/T4/T4R62BSS.json",
+    "languageCodes": [
+      "pt"
+    ]
   },
   {
     "key": "LXVIH4Q2",
@@ -16691,6 +17096,45 @@
     "url": "https://ri.uea.edu.br/handle/riuea/1810",
     "searchText": "what is the maid's home? the intersection between space, inequality and experiences in domestic work queren silva lima 2024 la referencia (red federada de repositorios institucionales de publicaciones científicas) thesis thesis / dissertation migration, racism, and human rights race, identity, and education in brazil urban development and societal issues migration, racism, and human rights race, identity, and education in brazil urban development and societal issues medjat-search:slave-law",
     "recordPath": "/library/data/records/II/II5KVLMW.json"
+  },
+  {
+    "key": "JHHZ8U5X",
+    "title": "A raça africana e os seus costumes",
+    "subtitle": "",
+    "creators": [
+      "Querino, Manuel"
+    ],
+    "year": "1955",
+    "date": "1955",
+    "publisher": "Livraria Progresso Editora",
+    "publicationLine": "Salvador: Livraria Progresso Editora, 1955.",
+    "itemType": "book",
+    "recordTypeLabel": "Book",
+    "traditions": [
+      "Candomble"
+    ],
+    "traditionLinks": {
+      "Candomble": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
+    },
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "frameworkClasses": [],
+    "frameworkModules": [],
+    "access": "Public",
+    "accessTier": "L0-public",
+    "custody": "metadata-only",
+    "language": [
+      "Portuguese"
+    ],
+    "region": [],
+    "doi": "",
+    "url": "https://archive.org/details/aracaafricana",
+    "searchText": "a raça africana e os seus costumes querino, manuel 1955 livraria progresso editora book book candomble bahia brazil medjat lexicon portuguese bahia brazil candomblé medjat lexicon",
+    "recordPath": "/library/data/records/JH/JHHZ8U5X.json",
+    "languageCodes": [
+      "pt"
+    ]
   },
   {
     "key": "MMMUQPLF",

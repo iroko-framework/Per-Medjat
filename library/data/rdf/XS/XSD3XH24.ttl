@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/XSD3XH24>
+  a schema:Book ;
+  schema:name "A Vocabulary of the Yoruba Language" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XSD3XH24> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XSD3XH24" ;
+  schema:author "Crowther, Samuel Ajayi" ;
+  schema:datePublished "1852" ;
+  schema:publisher "Seeleys" ;
+  dcterms:language "English", "Yorùbá" ;
+  schema:inLanguage "en", "yo" ;
+  dcterms:subject "Medjat Lexicon", "Yoruba language", "dictionaries" .

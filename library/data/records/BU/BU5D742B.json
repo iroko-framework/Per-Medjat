@@ -1,0 +1,125 @@
+{
+  "key": "BU5D742B",
+  "uri": "https://medjat.irokosociety.org/id/library/BU5D742B",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=BU5D742B",
+  "zotero": {
+    "group": "6479329",
+    "key": "BU5D742B",
+    "version": 5601,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/BU5D742B",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "A Dictionary of the Yoruba Language",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Church Missionary Society"
+      }
+    ],
+    "year": "1913",
+    "date": "1913",
+    "publisher": "Church Missionary Society Bookshop",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Lagos",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/DictionaryOfTheYorubaLanguage",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "Yoruba; English",
+    "languageCodes": [
+      "yo",
+      "en"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Yorùbá",
+      "English"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Medjat Lexicon",
+      "Yoruba language",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "yo",
+      "en"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Church Missionary Society"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Dictionary of the Yoruba Language"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Lagos: Church Missionary Society Bookshop, 1913."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Yorùbá [yo]; English [en]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/BU/BU5D742B.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

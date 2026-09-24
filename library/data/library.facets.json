@@ -10,7 +10,7 @@
     },
     "book": {
       "label": "Anthology",
-      "count": 118
+      "count": 130
     },
     "bookSection": {
       "label": "Book Chapter",
@@ -32,22 +32,22 @@
   "traditions": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 583
+      "count": 593
     },
     "Umbanda": 19,
     "Lucumí": 10,
     "Santeria": 8,
     "Abakua": 7,
     "Palo": 7,
+    "Candomble": 3,
     "Ekpe": 3,
     "Haitian Vodou": 3,
     "Obeah": 3,
+    "Palo Monte": 3,
     "Yoruba-Derived": 3,
-    "Candomble": 2,
     "Espiritismo": 2,
     "Fon/Ewe-Derived": 2,
     "Palo Mayombe": 2,
-    "Palo Monte": 2,
     "Trinidad Orisha": 2,
     "Bantu-Derived": 1,
     "Calabari/Cross River": 1,
@@ -63,7 +63,7 @@
   "themes": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 629
+      "count": 641
     },
     "Ritual": 4,
     "Material Culture": 3,
@@ -75,7 +75,7 @@
   "domains": {
     "__untagged__": {
       "label": "Untagged",
-      "count": 603
+      "count": 615
     },
     "afro-atlantic-history": 10,
     "resistance": 10,
@@ -97,17 +97,22 @@
       "label": "Untagged",
       "count": 591
     },
-    "Spanish": 15,
-    "English": 14,
-    "Portuguese": 14,
-    "French": 5
+    "English": 20,
+    "Portuguese": 18,
+    "Spanish": 16,
+    "French": 6,
+    "Kongo": 4,
+    "Yorùbá": 3,
+    "Kimbundu": 2,
+    "Latin": 1,
+    "twi": 1
   },
   "frameworkClasses": {},
   "frameworkModules": {
     "Ewé": 2
   },
   "access": {
-    "Public": 633,
+    "Public": 645,
     "Community": 6
   }
 }

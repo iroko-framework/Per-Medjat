@@ -691,6 +691,19 @@
   schema:publisher "Yale University Press" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85000512>, <http://id.loc.gov/authorities/subjects/sh85099004> .
 
+<https://medjat.irokosociety.org/id/library/NKTKS9VJ>
+  a schema:Book ;
+  schema:name "English-Tshi (Asante): A Dictionary" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=NKTKS9VJ> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:NKTKS9VJ" ;
+  schema:author "Basel Evangelical Missionary Society" ;
+  schema:datePublished "1909" ;
+  schema:publisher "Basel Evangelical Missionary Society" ;
+  dcterms:language "English", "twi" ;
+  schema:inLanguage "en", "twi" ;
+  dcterms:subject "Akan language", "Medjat Lexicon", "Twi language", "dictionaries" .
+
 <https://medjat.irokosociety.org/id/library/M4R7JBGT>
   a schema:Book ;
   schema:name "Owning memory: how a Caribbean community lost its archives and found its history" ;
@@ -729,6 +742,32 @@
   schema:datePublished "2016" ;
   schema:publisher "American Journal of Business, Economics and Management" ;
   dcterms:subject "Urban and Freight Transport Logistics" .
+
+<https://medjat.irokosociety.org/id/library/C2SRVL7B>
+  a schema:Book ;
+  schema:name "Appendix to the Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=C2SRVL7B> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:C2SRVL7B" ;
+  schema:author "Bentley, W. Holman" ;
+  schema:datePublished "1895" ;
+  schema:publisher "Baptist Missionary Society" ;
+  dcterms:language "English", "Kongo" ;
+  schema:inLanguage "en" ;
+  dcterms:subject "Kongo language", "Medjat Lexicon", "dictionaries" .
+
+<https://medjat.irokosociety.org/id/library/M9I2ZF2I>
+  a schema:Book ;
+  schema:name "Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=M9I2ZF2I> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:M9I2ZF2I" ;
+  schema:author "Bentley, W. Holman" ;
+  schema:datePublished "1887" ;
+  schema:publisher "Baptist Missionary Society and Trübner" ;
+  dcterms:language "English", "Kongo" ;
+  schema:inLanguage "en" ;
+  dcterms:subject "Kongo language", "Medjat Lexicon", "dictionaries" .
 
 <https://medjat.irokosociety.org/id/library/6W74TVMY>
   a schema:Book ;
@@ -843,6 +882,19 @@
   schema:inLanguage "pt" ;
   schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
   dcterms:subject "Umbanda" .
+
+<https://medjat.irokosociety.org/id/library/3MZWH2Y6>
+  a schema:Book ;
+  schema:name "Grammar and Dictionary of the Yoruba Language, with an Introductory Description of the Country and People of Yoruba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=3MZWH2Y6> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:3MZWH2Y6" ;
+  schema:author "Bowen, Thomas Jefferson" ;
+  schema:datePublished "1858" ;
+  schema:publisher "Smithsonian Institution" ;
+  dcterms:language "English", "Yorùbá" ;
+  schema:inLanguage "en", "yo" ;
+  dcterms:subject "Medjat Lexicon", "Yoruba language", "dictionaries" .
 
 <https://medjat.irokosociety.org/id/library/7GJ66V9P>
   a schema:Book ;
@@ -1067,6 +1119,19 @@
   dcterms:identifier "doi:10.11606/d.8.2012.tde-11032013-120538" ;
   dcterms:subject "Colonialism, slavery, and trade", "History of Colonial Brazil", "Migration, Racism, and Human Rights" .
 
+<https://medjat.irokosociety.org/id/library/B2XD6R6A>
+  a schema:Book ;
+  schema:name "Dictionnaire kikongo-français, français-kikongo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=B2XD6R6A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:B2XD6R6A" ;
+  schema:author "Butaye, René" ;
+  schema:datePublished "1910" ;
+  schema:publisher "Jules De Meester" ;
+  dcterms:language "French", "Kongo" ;
+  schema:inLanguage "fr" ;
+  dcterms:subject "Kongo language", "Medjat Lexicon", "dictionaries" .
+
 <https://medjat.irokosociety.org/id/library/EZF4W8ZV>
   a schema:ScholarlyArticle ;
   schema:name "Transculturación y sincretismo: una visión holística desde la proyección músico-danzaria en diferentes contextos socioculturales cubanos" ;
@@ -1186,6 +1251,19 @@
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
   dcterms:subject "Brazilian Legal Issues", "Race, Identity, and Education in Brazil", "Social and Political Issues" .
+
+<https://medjat.irokosociety.org/id/library/CJ3MC94E>
+  a schema:Book ;
+  schema:name "Diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CJ3MC94E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CJ3MC94E" ;
+  schema:author "Cannecattim, Bernardo Maria de" ;
+  schema:datePublished "1804" ;
+  schema:publisher "Impressão Regia" ;
+  dcterms:language "Portuguese", "Latin", "Kimbundu" ;
+  schema:inLanguage "pt", "la" ;
+  dcterms:subject "Kimbundu language", "Medjat Lexicon", "dictionaries" .
 
 <https://medjat.irokosociety.org/id/library/BTE4G862>
   a schema:ScholarlyArticle ;
@@ -1516,6 +1594,19 @@
   dcterms:identifier "doi:10.1162/afar_a_00752" ;
   dcterms:subject "African history and culture studies", "Art Education and Development", "Media, Gender, and Advertising" .
 
+<https://medjat.irokosociety.org/id/library/BU5D742B>
+  a schema:Book ;
+  schema:name "A Dictionary of the Yoruba Language" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BU5D742B> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BU5D742B" ;
+  schema:author "Church Missionary Society" ;
+  schema:datePublished "1913" ;
+  schema:publisher "Church Missionary Society Bookshop" ;
+  dcterms:language "Yorùbá", "English" ;
+  schema:inLanguage "yo", "en" ;
+  dcterms:subject "Medjat Lexicon", "Yoruba language", "dictionaries" .
+
 <https://medjat.irokosociety.org/id/library/L77XUF83>
   a schema:ScholarlyArticle ;
   schema:name "Afro-Brazilian religions in Portugal: bruxos, priests and pais de santo" ;
@@ -1643,6 +1734,19 @@
   schema:datePublished "2009" ;
   schema:publisher "Artecubano: revista de artes visuales" ;
   dcterms:subject "Cinema History and Criticism", "Cuban History and Society" .
+
+<https://medjat.irokosociety.org/id/library/XSD3XH24>
+  a schema:Book ;
+  schema:name "A Vocabulary of the Yoruba Language" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=XSD3XH24> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:XSD3XH24" ;
+  schema:author "Crowther, Samuel Ajayi" ;
+  schema:datePublished "1852" ;
+  schema:publisher "Seeleys" ;
+  dcterms:language "English", "Yorùbá" ;
+  schema:inLanguage "en", "yo" ;
+  dcterms:subject "Medjat Lexicon", "Yoruba language", "dictionaries" .
 
 <https://medjat.irokosociety.org/id/library/AELNGXBY>
   a schema:ScholarlyArticle ;
@@ -1976,6 +2080,20 @@
   schema:datePublished "2025" ;
   schema:publisher "University of North Carolina Press" ;
   dcterms:subject <http://id.loc.gov/authorities/subjects/sh85106480>, <http://id.loc.gov/authorities/subjects/sh85113647> .
+
+<https://medjat.irokosociety.org/id/library/JU7B6L7S>
+  a schema:Book ;
+  schema:name "Diccionario de la lengua conga residual en Cuba" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JU7B6L7S> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JU7B6L7S" ;
+  schema:author "Díaz Fabelo, Teodoro" ;
+  schema:datePublished "1997" ;
+  schema:publisher "Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá" ;
+  dcterms:language "Spanish", "Kongo" ;
+  schema:inLanguage "es" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
+  dcterms:subject "Cuba", "Kongo language", "Medjat Lexicon", "dictionaries", "Palo Monte" .
 
 <https://medjat.irokosociety.org/id/library/3A5VN2IK>
   a schema:Thesis ;
@@ -6031,6 +6149,19 @@
   schema:publisher "TSpace" ;
   dcterms:subject "Education and Islamic Studies" .
 
+<https://medjat.irokosociety.org/id/library/DDPKSSFN>
+  a schema:Book ;
+  schema:name "Diccionario portuguez-kimbundu" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=DDPKSSFN> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:DDPKSSFN" ;
+  schema:author "Nascimento, J. Pereira do" ;
+  schema:datePublished "1903" ;
+  schema:publisher "Typographia da Missão" ;
+  dcterms:language "Portuguese", "Kimbundu" ;
+  schema:inLanguage "pt" ;
+  dcterms:subject "Kimbundu language", "Medjat Lexicon", "dictionaries" .
+
 <https://medjat.irokosociety.org/id/library/VQQYIZWC>
   a schema:ScholarlyArticle ;
   schema:name "El legado africano en Cuba" ;
@@ -6185,6 +6316,19 @@
   schema:datePublished "1995" ;
   schema:publisher "Open University of Cape Town (University of Cape Town)" ;
   dcterms:subject "Historical Influence and Diplomacy", "Migration, Policy, and Dickens Studies", "Scottish History and National Identity" .
+
+<https://medjat.irokosociety.org/id/library/T4R62BSS>
+  a schema:Book ;
+  schema:name "Os africanos no Brasil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=T4R62BSS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:T4R62BSS" ;
+  schema:author "Nina Rodrigues, Raimundo" ;
+  schema:datePublished "1932" ;
+  schema:publisher "Companhia Editora Nacional" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  dcterms:subject "African languages", "Bahia", "Brazil", "Medjat Lexicon" .
 
 <https://medjat.irokosociety.org/id/library/LXVIH4Q2>
   a schema:ScholarlyArticle ;
@@ -6791,6 +6935,20 @@
   schema:datePublished "2024" ;
   schema:publisher "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)" ;
   dcterms:subject "Migration, Racism, and Human Rights", "Race, Identity, and Education in Brazil", "Urban Development and Societal Issues" .
+
+<https://medjat.irokosociety.org/id/library/JHHZ8U5X>
+  a schema:Book ;
+  schema:name "A raça africana e os seus costumes" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JHHZ8U5X> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JHHZ8U5X" ;
+  schema:author "Querino, Manuel" ;
+  schema:datePublished "1955" ;
+  schema:publisher "Livraria Progresso Editora" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
+  dcterms:subject "Bahia", "Brazil", "Medjat Lexicon", "Candomble" .
 
 <https://medjat.irokosociety.org/id/library/MMMUQPLF>
   a schema:Book ;

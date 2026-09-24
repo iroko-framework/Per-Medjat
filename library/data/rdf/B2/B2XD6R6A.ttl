@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/B2XD6R6A>
+  a schema:Book ;
+  schema:name "Dictionnaire kikongo-français, français-kikongo" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=B2XD6R6A> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:B2XD6R6A" ;
+  schema:author "Butaye, René" ;
+  schema:datePublished "1910" ;
+  schema:publisher "Jules De Meester" ;
+  dcterms:language "French", "Kongo" ;
+  schema:inLanguage "fr" ;
+  dcterms:subject "Kongo language", "Medjat Lexicon", "dictionaries" .

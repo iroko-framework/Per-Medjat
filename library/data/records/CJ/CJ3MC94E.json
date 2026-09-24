@@ -1,0 +1,126 @@
+{
+  "key": "CJ3MC94E",
+  "uri": "https://medjat.irokosociety.org/id/library/CJ3MC94E",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=CJ3MC94E",
+  "zotero": {
+    "group": "6479329",
+    "key": "CJ3MC94E",
+    "version": 5611,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/CJ3MC94E",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "Diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Cannecattim, Bernardo Maria de"
+      }
+    ],
+    "year": "1804",
+    "date": "1804",
+    "publisher": "Impressão Regia",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Lisbon",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/b33080227",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "Portuguese; Latin; Kimbundu",
+    "languageCodes": [
+      "pt",
+      "la"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Portuguese",
+      "Latin",
+      "Kimbundu"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Kimbundu language",
+      "Medjat Lexicon",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "pt",
+      "la"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Cannecattim, Bernardo Maria de"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Lisbon: Impressão Regia, 1804."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]; Latin [la]; Kimbundu"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kimbundu language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/CJ/CJ3MC94E.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

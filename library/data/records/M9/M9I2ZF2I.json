@@ -1,0 +1,123 @@
+{
+  "key": "M9I2ZF2I",
+  "uri": "https://medjat.irokosociety.org/id/library/M9I2ZF2I",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=M9I2ZF2I",
+  "zotero": {
+    "group": "6479329",
+    "key": "M9I2ZF2I",
+    "version": 5603,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/M9I2ZF2I",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bentley, W. Holman"
+      }
+    ],
+    "year": "1887",
+    "date": "1887",
+    "publisher": "Baptist Missionary Society and Trübner",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "London",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/dictionarygramma00bent",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "English; Kongo",
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English",
+      "Kongo"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Kongo language",
+      "Medjat Lexicon",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "en"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bentley, W. Holman"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London: Baptist Missionary Society and Trübner, 1887."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]; Kongo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kongo language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/M9/M9I2ZF2I.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

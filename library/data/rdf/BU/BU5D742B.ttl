@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/BU5D742B>
+  a schema:Book ;
+  schema:name "A Dictionary of the Yoruba Language" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=BU5D742B> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:BU5D742B" ;
+  schema:author "Church Missionary Society" ;
+  schema:datePublished "1913" ;
+  schema:publisher "Church Missionary Society Bookshop" ;
+  dcterms:language "Yorùbá", "English" ;
+  schema:inLanguage "yo", "en" ;
+  dcterms:subject "Medjat Lexicon", "Yoruba language", "dictionaries" .

@@ -1,0 +1,21 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/JHHZ8U5X>
+  a schema:Book ;
+  schema:name "A raça africana e os seus costumes" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=JHHZ8U5X> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:JHHZ8U5X" ;
+  schema:author "Querino, Manuel" ;
+  schema:datePublished "1955" ;
+  schema:publisher "Livraria Progresso Editora" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
+  dcterms:subject "Bahia", "Brazil", "Medjat Lexicon", "Candomble" .

@@ -1,0 +1,123 @@
+{
+  "key": "DDPKSSFN",
+  "uri": "https://medjat.irokosociety.org/id/library/DDPKSSFN",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=DDPKSSFN",
+  "zotero": {
+    "group": "6479329",
+    "key": "DDPKSSFN",
+    "version": 5613,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/DDPKSSFN",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "Diccionario portuguez-kimbundu",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Nascimento, J. Pereira do"
+      }
+    ],
+    "year": "1903",
+    "date": "1903",
+    "publisher": "Typographia da Missão",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Huíla",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/diccionarioport00nascgoog",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "Portuguese; Kimbundu",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Portuguese",
+      "Kimbundu"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Kimbundu language",
+      "Medjat Lexicon",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Nascimento, J. Pereira do"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Diccionario portuguez-kimbundu"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Huíla: Typographia da Missão, 1903."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]; Kimbundu"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kimbundu language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/DD/DDPKSSFN.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

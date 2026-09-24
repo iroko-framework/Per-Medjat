@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/CJ3MC94E>
+  a schema:Book ;
+  schema:name "Diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=CJ3MC94E> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:CJ3MC94E" ;
+  schema:author "Cannecattim, Bernardo Maria de" ;
+  schema:datePublished "1804" ;
+  schema:publisher "Impressão Regia" ;
+  dcterms:language "Portuguese", "Latin", "Kimbundu" ;
+  schema:inLanguage "pt", "la" ;
+  dcterms:subject "Kimbundu language", "Medjat Lexicon", "dictionaries" .

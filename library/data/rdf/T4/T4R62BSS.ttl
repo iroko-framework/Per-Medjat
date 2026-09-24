@@ -1,0 +1,20 @@
+@prefix schema:   <https://schema.org/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:     <http://xmlns.com/foaf/0.1/> .
+@prefix medjat:   <https://medjat.irokosociety.org/vocab/> .
+
+<https://medjat.irokosociety.org/id/library/T4R62BSS>
+  a schema:Book ;
+  schema:name "Os africanos no Brasil" ;
+  schema:url <https://medjat.irokosociety.org/library/?item=T4R62BSS> ;
+  dcterms:isPartOf <https://medjat.irokosociety.org/id/collection/medjat-library> ;
+  dcterms:identifier "zotero:6479329:T4R62BSS" ;
+  schema:author "Nina Rodrigues, Raimundo" ;
+  schema:datePublished "1932" ;
+  schema:publisher "Companhia Editora Nacional" ;
+  dcterms:language "Portuguese" ;
+  schema:inLanguage "pt" ;
+  dcterms:subject "African languages", "Bahia", "Brazil", "Medjat Lexicon" .

@@ -69,12 +69,21 @@
     .portals-block-note { font-family: var(--mono); font-size: .6rem; letter-spacing: .03em; color: var(--ink-soft); margin-top: .5rem; }
     .portals-block-arrow { font-family: var(--mono); font-size: .68rem; letter-spacing: .08em; color: var(--green); white-space: nowrap; }
 
+    /* Discovery row: Research Portals (green) beside the Lexicon (adire indigo) */
+    .discovery-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-bottom: 2.5rem; }
+    .discovery-row .portals-block { margin-bottom: 0; grid-template-columns: 1fr; gap: .9rem; align-content: space-between; }
+    .portals-block--lexicon { border-top-color: #34305e; }
+    .portals-block--lexicon .portals-block-title em,
+    .portals-block--lexicon .portals-block-arrow { color: #34305e; }
+    .portals-block--lexicon .portals-block-title em { font-style: italic; }
+
     @media (max-width: 680px) {
       .institution-grid { grid-template-columns: 1fr; }
       .featured-block { grid-template-columns: 1fr; gap: 1rem; }
       .medjat-stat-line { font-size: .6rem; letter-spacing: .04em; }
       .medjat-definition { font-size: .68rem; }
       .portals-block { grid-template-columns: 1fr; gap: .75rem; }
+      .discovery-row { grid-template-columns: 1fr; }
     }
   </style>
   <!-- Google Analytics -->
@@ -169,15 +178,26 @@
     </a>
   </div>
 
-  <a class="portals-block" href="research-portals/">
-    <div>
-      <div class="portals-block-label">External discovery</div>
-      <div class="portals-block-title">Research Portals</div>
-      <div class="portals-block-desc">Curated external archives, digital collections, research guides, thesis repositories, and scholarly portals for Afro-Atlantic research.</div>
-      <div class="portals-block-note">Maintained by independent institutions · not IHS holdings</div>
-    </div>
-    <div class="portals-block-arrow">Explore Research Portals →</div>
-  </a>
+  <div class="discovery-row">
+    <a class="portals-block" href="research-portals/">
+      <div>
+        <div class="portals-block-label">External discovery</div>
+        <div class="portals-block-title">Research Portals</div>
+        <div class="portals-block-desc">Curated external archives, digital collections, research guides, thesis repositories, and scholarly portals for Afro-Atlantic research.</div>
+        <div class="portals-block-note">Maintained by independent institutions · not IHS holdings</div>
+      </div>
+      <div class="portals-block-arrow">Explore Research Portals →</div>
+    </a>
+    <a class="portals-block portals-block--lexicon" href="lexicon/">
+      <div>
+        <div class="portals-block-label">Reference</div>
+        <div class="portals-block-title">Medjat <em>Lexicon</em></div>
+        <div class="portals-block-desc">One word, every dictionary: Yorùbá, Lucumí, Kikongo, the Kongo of Cuba and Twi, with the meaning in English, the printed page, and the same meaning in other languages.</div>
+        <div class="portals-block-note">78,000+ entries · twelve sources · 1852 to today</div>
+      </div>
+      <div class="portals-block-arrow">Open the Lexicon →</div>
+    </a>
+  </div>
 
   <p class="section-label">Featured Collection</p>
 
@@ -207,6 +227,7 @@
         <a href="library/">Medjat Library</a>
         <a href="archives/">Medjat Archives</a>
         <a href="research-portals/">Research Portals</a>
+        <a href="lexicon/">Medjat Lexicon</a>
         <a href="entrusting/">Entrusting the Work</a>
       </div>
       <div class="footer-col">

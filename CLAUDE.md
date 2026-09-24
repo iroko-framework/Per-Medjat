@@ -22,6 +22,7 @@ To change what appears in the catalog, edit either the Zotero group library (the
 | `library/mappings/` | `authority-map.json`, `ifwk-map.json`, `language-map.json`, `tag-map.json`, `local-overrides.json` | No, hand-maintained |
 | `library/featured/`, `library/assets/`, `library/index.html` | Catalog front end | No |
 | `ewe/` | Ewé botanical subsite; `build_ewe.py`, `access.py`, `model.py`, Verger dataset (LS-563) | Site is built from the scripts |
+| `lexicon/` | The Lexicon: `index.html`, `data/lexicon.json`, `data/lexicon.ttl`. Written by `medjat-tools/medjat_lexicon/build_lexicon.py --public --root <this checkout>`; do not hand-edit. Fix the parser, `config/sources.json` or `config/corrections.json` in medjat-tools and rebuild | Yes, by hand-run build (not nightly) |
 | `archives/`, `espiritismo/`, `entrusting/`, `hyatt/`, `research-portals/` | Section landing pages | No |
 | `generate-og.py` | Open Graph card generation. `generate-og (old).py` is superseded; do not run it | No |
 

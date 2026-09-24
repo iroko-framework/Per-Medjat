@@ -1,0 +1,123 @@
+{
+  "key": "B2XD6R6A",
+  "uri": "https://medjat.irokosociety.org/id/library/B2XD6R6A",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=B2XD6R6A",
+  "zotero": {
+    "group": "6479329",
+    "key": "B2XD6R6A",
+    "version": 5607,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/B2XD6R6A",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "Dictionnaire kikongo-français, français-kikongo",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Butaye, René"
+      }
+    ],
+    "year": "1910",
+    "date": "1910",
+    "publisher": "Jules De Meester",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Roulers",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/dictionnaire-butaye",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "French; Kongo",
+    "languageCodes": [
+      "fr"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "French",
+      "Kongo"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Kongo language",
+      "Medjat Lexicon",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "fr"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Butaye, René"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Dictionnaire kikongo-français, français-kikongo"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Roulers: Jules De Meester, 1910."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "French [fr]; Kongo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kongo language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/B2/B2XD6R6A.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

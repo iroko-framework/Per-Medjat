@@ -1,0 +1,125 @@
+{
+  "key": "XSD3XH24",
+  "uri": "https://medjat.irokosociety.org/id/library/XSD3XH24",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=XSD3XH24",
+  "zotero": {
+    "group": "6479329",
+    "key": "XSD3XH24",
+    "version": 5597,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/XSD3XH24",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "A Vocabulary of the Yoruba Language",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Crowther, Samuel Ajayi"
+      }
+    ],
+    "year": "1852",
+    "date": "1852",
+    "publisher": "Seeleys",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "London",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/vocabularyofyoru00crow",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "English; Yoruba",
+    "languageCodes": [
+      "en",
+      "yo"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English",
+      "Yorùbá"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Medjat Lexicon",
+      "Yoruba language",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "en",
+      "yo"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Crowther, Samuel Ajayi"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A Vocabulary of the Yoruba Language"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "London: Seeleys, 1852."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]; Yorùbá [yo]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/XS/XSD3XH24.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

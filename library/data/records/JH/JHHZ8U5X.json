@@ -1,0 +1,140 @@
+{
+  "key": "JHHZ8U5X",
+  "uri": "https://medjat.irokosociety.org/id/library/JHHZ8U5X",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JHHZ8U5X",
+  "zotero": {
+    "group": "6479329",
+    "key": "JHHZ8U5X",
+    "version": 5619,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JHHZ8U5X",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "A raça africana e os seus costumes",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Querino, Manuel"
+      }
+    ],
+    "year": "1955",
+    "date": "1955",
+    "publisher": "Livraria Progresso Editora",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Salvador",
+    "edition": "",
+    "series": "Coleção de Estudos Brasileiros, Série Cruzeiro, 9",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/aracaafricana",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "Portuguese",
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "Candomble"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Portuguese"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Bahia",
+      "Brazil",
+      "Medjat Lexicon"
+    ],
+    "languageCodes": [
+      "pt"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Querino, Manuel"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "A raça africana e os seus costumes"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Salvador: Livraria Progresso Editora, 1955."
+    },
+    {
+      "field": "490",
+      "label": "Series",
+      "value": "Coleção de Estudos Brasileiros, Série Cruzeiro, 9"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Portuguese [pt]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Bahia"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Brazil"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Candomble"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/JH/JHHZ8U5X.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Candomble",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

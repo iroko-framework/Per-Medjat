@@ -1,0 +1,142 @@
+{
+  "key": "JU7B6L7S",
+  "uri": "https://medjat.irokosociety.org/id/library/JU7B6L7S",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=JU7B6L7S",
+  "zotero": {
+    "group": "6479329",
+    "key": "JU7B6L7S",
+    "version": 5609,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/JU7B6L7S",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "Diccionario de la lengua conga residual en Cuba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Díaz Fabelo, Teodoro"
+      }
+    ],
+    "year": "1997",
+    "date": "1997",
+    "publisher": "Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Santiago de Cuba; Alcalá de Henares",
+    "edition": "",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "Spanish; Kongo",
+    "languageCodes": [
+      "es"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [
+      "Palo Monte"
+    ],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "Spanish",
+      "Kongo"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Cuba",
+      "Kongo language",
+      "Medjat Lexicon",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "es"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Díaz Fabelo, Teodoro"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Diccionario de la lengua conga residual en Cuba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Santiago de Cuba; Alcalá de Henares: Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá, 1997."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "Spanish [es]; Kongo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Cuba"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Kongo language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Palo Monte"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/JU/JU7B6L7S.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [
+      {
+        "label": "Palo Monte",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
+      }
+    ],
+    "authorityMappings": []
+  }
+}

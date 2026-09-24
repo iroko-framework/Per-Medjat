@@ -1,0 +1,130 @@
+{
+  "key": "3MZWH2Y6",
+  "uri": "https://medjat.irokosociety.org/id/library/3MZWH2Y6",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=3MZWH2Y6",
+  "zotero": {
+    "group": "6479329",
+    "key": "3MZWH2Y6",
+    "version": 5599,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/3MZWH2Y6",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "Grammar and Dictionary of the Yoruba Language, with an Introductory Description of the Country and People of Yoruba",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Bowen, Thomas Jefferson"
+      }
+    ],
+    "year": "1858",
+    "date": "1858",
+    "publisher": "Smithsonian Institution",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Washington, DC",
+    "edition": "",
+    "series": "Smithsonian Contributions to Knowledge",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "English; Yoruba",
+    "languageCodes": [
+      "en",
+      "yo"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English",
+      "Yorùbá"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Medjat Lexicon",
+      "Yoruba language",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "en",
+      "yo"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Bowen, Thomas Jefferson"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "Grammar and Dictionary of the Yoruba Language, with an Introductory Description of the Country and People of Yoruba"
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Washington, DC: Smithsonian Institution, 1858."
+    },
+    {
+      "field": "490",
+      "label": "Series",
+      "value": "Smithsonian Contributions to Knowledge"
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]; Yorùbá [yo]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Yoruba language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/3M/3MZWH2Y6.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

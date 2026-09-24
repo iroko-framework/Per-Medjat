@@ -1,0 +1,136 @@
+{
+  "key": "NKTKS9VJ",
+  "uri": "https://medjat.irokosociety.org/id/library/NKTKS9VJ",
+  "viewUrl": "https://medjat.irokosociety.org/library/?item=NKTKS9VJ",
+  "zotero": {
+    "group": "6479329",
+    "key": "NKTKS9VJ",
+    "version": 5615,
+    "itemType": "book",
+    "alternate": "https://www.zotero.org/groups/ihs_medjat_library/items/NKTKS9VJ",
+    "dateAdded": "2026-09-24T22:26:26Z",
+    "dateModified": "2026-09-24T22:26:26Z"
+  },
+  "display": {
+    "title": "English-Tshi (Asante): A Dictionary",
+    "subtitle": "",
+    "shortTitle": "",
+    "creators": [
+      {
+        "role": "author",
+        "name": "Basel Evangelical Missionary Society"
+      }
+    ],
+    "year": "1909",
+    "date": "1909",
+    "publisher": "Basel Evangelical Missionary Society",
+    "publicationTitle": "",
+    "bookTitle": "",
+    "journalAbbreviation": "",
+    "place": "Basel",
+    "edition": "2nd ed.",
+    "series": "",
+    "seriesNumber": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "abstract": "",
+    "doi": "",
+    "url": "https://archive.org/details/englishtshiasant00evaniala",
+    "isbn": "",
+    "issn": "",
+    "university": "",
+    "language": "English; Twi",
+    "languageCodes": [
+      "en",
+      "twi"
+    ]
+  },
+  "publicTags": {
+    "recordType": "Book",
+    "traditions": [],
+    "themes": [],
+    "domains": [],
+    "connects": [],
+    "region": [],
+    "language": [
+      "English",
+      "twi"
+    ],
+    "access": "Public",
+    "custody": "metadata-only",
+    "subjects": [
+      "Akan language",
+      "Medjat Lexicon",
+      "Twi language",
+      "dictionaries"
+    ],
+    "languageCodes": [
+      "en",
+      "twi"
+    ]
+  },
+  "ifwk": {
+    "classes": [],
+    "modules": []
+  },
+  "marc": [
+    {
+      "field": "100",
+      "label": "Author",
+      "value": "Basel Evangelical Missionary Society"
+    },
+    {
+      "field": "245",
+      "label": "Title",
+      "value": "English-Tshi (Asante): A Dictionary"
+    },
+    {
+      "field": "250",
+      "label": "Edition",
+      "value": "2nd ed."
+    },
+    {
+      "field": "264",
+      "label": "Published",
+      "value": "Basel: Basel Evangelical Missionary Society, 1909."
+    },
+    {
+      "field": "041",
+      "label": "Language",
+      "value": "English [en]; twi [twi]"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Akan language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Medjat Lexicon"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "Twi language"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
+      "value": "dictionaries"
+    },
+    {
+      "field": "655",
+      "label": "Genre/Form",
+      "value": "Book"
+    }
+  ],
+  "linkedData": {
+    "ttl": "/library/data/rdf/NK/NKTKS9VJ.ttl",
+    "aggregateTtl": "/library/data/library.ttl",
+    "sameAs": [],
+    "about": [],
+    "authorityMappings": []
+  }
+}

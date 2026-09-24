@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T13:36:17Z",
-  "count": 644,
+  "generatedAt": "2026-09-24T22:39:45Z",
+  "count": 656,
   "records": [
     {
       "key": "IGBCQ3B7",
@@ -2422,6 +2422,61 @@
       ]
     },
     {
+      "key": "NKTKS9VJ",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Basel Evangelical Missionary Society"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "English-Tshi (Asante): A Dictionary"
+        },
+        {
+          "field": "250",
+          "label": "Edition",
+          "value": "2nd ed."
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Basel: Basel Evangelical Missionary Society, 1909."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]; twi [twi]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Akan language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Twi language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
       "key": "M4R7JBGT",
       "marc": [
         {
@@ -2543,6 +2598,96 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "C2SRVL7B",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Bentley, W. Holman"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Appendix to the Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "London: Baptist Missionary Society, 1895."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]; Kongo"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Kongo language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
+      "key": "M9I2ZF2I",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Bentley, W. Holman"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Dictionary and Grammar of the Kongo Language, as Spoken at San Salvador, the Ancient Capital of the Old Kongo Empire, West Africa"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "London: Baptist Missionary Society and Trübner, 1887."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]; Kongo"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Kongo language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -2970,6 +3115,56 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "3MZWH2Y6",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Bowen, Thomas Jefferson"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Grammar and Dictionary of the Yoruba Language, with an Introductory Description of the Country and People of Yoruba"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Washington, DC: Smithsonian Institution, 1858."
+        },
+        {
+          "field": "490",
+          "label": "Series",
+          "value": "Smithsonian Contributions to Knowledge"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]; Yorùbá [yo]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Yoruba language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -3890,6 +4085,51 @@
       ]
     },
     {
+      "key": "B2XD6R6A",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Butaye, René"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Dictionnaire kikongo-français, français-kikongo"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Roulers: Jules De Meester, 1910."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "French [fr]; Kongo"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Kongo language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
       "key": "EZF4W8ZV",
       "marc": [
         {
@@ -4336,6 +4576,51 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "CJ3MC94E",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Cannecattim, Bernardo Maria de"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Diccionario da lingua bunda, ou angolense, explicada na portugueza, e latina"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Lisbon: Impressão Regia, 1804."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]; Latin [la]; Kimbundu"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Kimbundu language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -5537,6 +5822,51 @@
       ]
     },
     {
+      "key": "BU5D742B",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Church Missionary Society"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "A Dictionary of the Yoruba Language"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Lagos: Church Missionary Society Bookshop, 1913."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Yorùbá [yo]; English [en]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Yoruba language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
       "key": "L77XUF83",
       "marc": [
         {
@@ -5953,6 +6283,51 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Journal Article"
+        }
+      ]
+    },
+    {
+      "key": "XSD3XH24",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Crowther, Samuel Ajayi"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "A Vocabulary of the Yoruba Language"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "London: Seeleys, 1852."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "English [en]; Yorùbá [yo]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Yoruba language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -7253,6 +7628,61 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Monograph"
+        }
+      ]
+    },
+    {
+      "key": "JU7B6L7S",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Díaz Fabelo, Teodoro"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Diccionario de la lengua conga residual en Cuba"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Santiago de Cuba; Alcalá de Henares: Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá, 1997."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Spanish [es]; Kongo"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Cuba"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Kongo language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Palo Monte"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -21258,6 +21688,51 @@
       ]
     },
     {
+      "key": "DDPKSSFN",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Nascimento, J. Pereira do"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Diccionario portuguez-kimbundu"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Huíla: Typographia da Missão, 1903."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]; Kimbundu"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Kimbundu language"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "dictionaries"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
+        }
+      ]
+    },
+    {
       "key": "VQQYIZWC",
       "marc": [
         {
@@ -21856,6 +22331,56 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "T4R62BSS",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Nina Rodrigues, Raimundo"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "Os africanos no Brasil"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "São Paulo: Companhia Editora Nacional, 1932."
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "African languages"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Bahia"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },
@@ -24363,6 +24888,61 @@
           "field": "655",
           "label": "Genre/Form",
           "value": "Thesis / Dissertation"
+        }
+      ]
+    },
+    {
+      "key": "JHHZ8U5X",
+      "marc": [
+        {
+          "field": "100",
+          "label": "Author",
+          "value": "Querino, Manuel"
+        },
+        {
+          "field": "245",
+          "label": "Title",
+          "value": "A raça africana e os seus costumes"
+        },
+        {
+          "field": "264",
+          "label": "Published",
+          "value": "Salvador: Livraria Progresso Editora, 1955."
+        },
+        {
+          "field": "490",
+          "label": "Series",
+          "value": "Coleção de Estudos Brasileiros, Série Cruzeiro, 9"
+        },
+        {
+          "field": "041",
+          "label": "Language",
+          "value": "Portuguese [pt]"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Bahia"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Brazil"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Medjat Lexicon"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
+          "value": "Candomble"
+        },
+        {
+          "field": "655",
+          "label": "Genre/Form",
+          "value": "Book"
         }
       ]
     },

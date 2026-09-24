@@ -126,7 +126,28 @@
     details.grp > summary:hover { color: var(--lex); }
     .grp-n { font-family: var(--mono); font-size: .66rem; background: var(--lex-soft); color: var(--lex); border-radius: 999px; padding: .02rem .45rem; margin-left: .35rem; letter-spacing: 0; }
     @media (max-width: 600px) { .hw { font-size: 1.2rem; } #q { font-size: 1.1rem; } }
+    /* Site footer, as on every Per Medjat page, in the Lexicon's indigo */
+    .site-footer--indigo { background: var(--lex); border-top: none; padding: 2.5rem 0; margin-top: 2rem; display: block; }
+    .footer-inner-pm { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 3rem; align-items: start; max-width: 1080px; margin: 0 auto; padding: 0 2rem; }
+    .footer-org-name { font-family: var(--serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; color: #f7f4ed; margin-bottom: .35rem; }
+    .footer-org-tag { font-family: var(--sans, sans-serif); font-size: .78rem; color: rgba(247,244,237,.8); line-height: 1.5; margin-bottom: .5rem; }
+    .footer-org-meta, .footer-org-iao { font-family: var(--mono, monospace); font-size: .62rem; letter-spacing: .04em; color: rgba(247,244,237,.6); line-height: 1.8; }
+    .footer-org-iao { margin-top: .5rem; }
+    .footer-org-iao a { color: rgba(247,244,237,.6); text-decoration: none; }
+    .footer-col-label { font-family: var(--mono, monospace); font-size: .6rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(247,244,237,.5); margin-bottom: .65rem; }
+    .footer-col { display: flex; flex-direction: column; gap: .4rem; }
+    .footer-col a { font-family: var(--mono, monospace); font-size: .7rem; letter-spacing: .04em; color: rgba(247,244,237,.75); text-decoration: none; }
+    .footer-col a:hover, .footer-org-iao a:hover { color: #f7f4ed; }
+    @media (max-width: 640px) { .footer-inner-pm { grid-template-columns: 1fr; gap: 1.75rem; padding: 0 1.25rem; } }
   </style>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7WFXNP22P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S7WFXNP22P');
+  </script>
 </head>
 <body>
 
@@ -174,7 +195,7 @@
   <details class="sources above">
     <summary>About the sources</summary>
     <div id="source-list"></div>
-    <p class="meta">Connections between languages run through English meanings. Spanish and French definitions reach English through <a href="https://www.wikdict.com" target="_blank" rel="noopener">WikDict</a> bilingual dictionaries, built from Wiktionary and licensed <a href="https://www.wikdict.com/page/about" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike</a>; links marked "via translation" depend on them. Modern standard forms and their glosses come from <a href="https://en.wiktionary.org" target="_blank" rel="noopener">Wiktionary</a> (via <a href="https://kaikki.org" target="_blank" rel="noopener">kaikki.org</a>), Creative Commons Attribution-ShareAlike. Standard definitions come from <a href="https://en-word.net" target="_blank" rel="noopener">Open English WordNet</a> (CC BY 4.0), with scientific names and modern names from <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a> (CC0); IHS corrects WordNet where it misdescribes Afro-Atlantic practice, and gives no standard definition where a source uses missionary vocabulary. Page images of the older dictionaries are served by the <a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a>.</p>
+    <p class="meta">Connections between languages run through English meanings. Spanish, French and Portuguese definitions reach English through <a href="https://www.wikdict.com" target="_blank" rel="noopener">WikDict</a> bilingual dictionaries, built from Wiktionary and licensed <a href="https://www.wikdict.com/page/about" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike</a>; links marked "via translation" depend on them. Modern standard forms and their glosses come from <a href="https://en.wiktionary.org" target="_blank" rel="noopener">Wiktionary</a> (via <a href="https://kaikki.org" target="_blank" rel="noopener">kaikki.org</a>), Creative Commons Attribution-ShareAlike. Standard definitions come from <a href="https://en-word.net" target="_blank" rel="noopener">Open English WordNet</a> (CC BY 4.0), with scientific names and modern names from <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a> (CC0); IHS corrects WordNet where it misdescribes Afro-Atlantic practice, and gives no standard definition where a source uses missionary vocabulary. Page images of the older dictionaries are served by the <a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a>.</p>
     <p class="meta">Built <span id="built"></span>. Older dictionaries were read by OCR and have not all been reviewed; an entry marked <span class="badge warn">OCR, unreviewed</span> should be checked against the page image before it is cited.</p>
   </details>
 
@@ -182,6 +203,32 @@
   <div id="results"></div>
 
 </div>
+
+<footer class="site-footer site-footer--indigo">
+  <div class="footer-inner-pm">
+    <div class="footer-org">
+      <div class="footer-org-name">Iroko Historical Society</div>
+      <div class="footer-org-tag">Postcustodial Digital Archives for Afro-Atlantic Cultural Materials</div>
+      <div class="footer-org-meta">New Orleans-founded · Afro-Atlantic archives and research · Est. 2024</div>
+      <div class="footer-org-iao">Ilé Añá Olofí, Inc. 501(c)(3) · <a href="https://ileanaolofi.org" target="_blank" rel="noopener">ileanaolofi.org</a></div>
+    </div>
+    <div class="footer-col">
+      <div class="footer-col-label">Per Medjat</div>
+      <a href="https://medjat.irokosociety.org/">Home</a>
+      <a href="https://medjat.irokosociety.org/library/">Medjat Library</a>
+      <a href="https://medjat.irokosociety.org/archives/">Medjat Archives</a>
+      <a href="https://medjat.irokosociety.org/research-portals/">Research Portals</a>
+      <a href="https://medjat.irokosociety.org/lexicon/">Medjat Lexicon</a>
+      <a href="https://medjat.irokosociety.org/entrusting/">Entrusting the Work</a>
+    </div>
+    <div class="footer-col">
+      <div class="footer-col-label">IHS</div>
+      <a href="https://ontology.irokosociety.org/">Ontology ↗</a>
+      <a href="https://www.irokosociety.org/" target="_blank" rel="noopener">irokosociety.org ↗</a>
+      <a href="https://ileanaolofi.org" target="_blank" rel="noopener">Ilé Añá Olofí ↗</a>
+    </div>
+  </div>
+</footer>
 
 <script id="lexicon-data" type="application/json" data-src="data/lexicon.json"></script>
 <script>

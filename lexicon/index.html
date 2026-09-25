@@ -46,7 +46,8 @@
     .keys button:hover { border-color: var(--lex); }
     .filters { display: flex; flex-wrap: wrap; gap: .35rem .5rem; align-items: center; margin-top: .5rem; font-size: .85rem; }
     .filters .lbl { font-family: var(--mono); font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); margin-right: .15rem; }
-    .chip { border: 1px solid var(--rule-strong); border-radius: 999px; padding: .12rem .6rem; background: #fff; cursor: pointer; font-size: .8rem; color: var(--ink-mid); }
+    /* chips carry their own font and colours: a button does not inherit them, and a missing site variable must not blank the label */
+    .chip { border: 1px solid var(--rule-strong, #c9c2a8); border-radius: 999px; padding: .12rem .6rem; background: #fff; cursor: pointer; font-family: var(--sans, "DM Sans", system-ui, sans-serif); font-size: .8rem; line-height: 1.4; color: var(--ink-mid, #3d4a36); -webkit-text-fill-color: currentColor; }
     .chip[aria-pressed="true"] { background: var(--lex); border-color: var(--lex); color: #fff; }
     .chip:focus-visible, .keys button:focus-visible { outline: 2px solid var(--lex); outline-offset: 1px; }
     label.tog { display: inline-flex; gap: .3rem; align-items: center; color: var(--ink-mid); }
@@ -194,9 +195,9 @@
 
   <details class="sources above">
     <summary>About the sources</summary>
-    <div id="source-list"></div>
     <p class="meta">Connections between languages run through English meanings. Spanish, French and Portuguese definitions reach English through <a href="https://www.wikdict.com" target="_blank" rel="noopener">WikDict</a> bilingual dictionaries, built from Wiktionary and licensed <a href="https://www.wikdict.com/page/about" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike</a>; links marked "via translation" depend on them. Modern standard forms and their glosses come from <a href="https://en.wiktionary.org" target="_blank" rel="noopener">Wiktionary</a> (via <a href="https://kaikki.org" target="_blank" rel="noopener">kaikki.org</a>), Creative Commons Attribution-ShareAlike. Standard definitions come from <a href="https://en-word.net" target="_blank" rel="noopener">Open English WordNet</a> (CC BY 4.0), with scientific names and modern names from <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a> (CC0); IHS corrects WordNet where it misdescribes Afro-Atlantic practice, and gives no standard definition where a source uses missionary vocabulary. Page images of the older dictionaries are served by the <a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a>.</p>
     <p class="meta">Built <span id="built"></span>. Older dictionaries were read by OCR and have not all been reviewed; an entry marked <span class="badge warn">OCR, unreviewed</span> should be checked against the page image before it is cited.</p>
+    <div id="source-list"></div>
   </details>
 
   <div id="status" aria-live="polite">Loading…</div>

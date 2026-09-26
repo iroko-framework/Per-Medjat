@@ -45,9 +45,7 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [
-      "Hoodoo"
-    ],
+    "traditions": [],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -58,6 +56,7 @@
     "subjects": [
       "African Americans -- Southern States",
       "Folklore -- Southern States",
+      "Hoodoo",
       "Hoodoo (Cult)",
       "Medicine, Magic, mystic, and spagiric -- Southern States"
     ]
@@ -100,17 +99,17 @@
     {
       "field": "650",
       "label": "Subject",
+      "value": "Hoodoo"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
       "value": "Hoodoo (Cult)"
     },
     {
       "field": "650",
       "label": "Subject",
       "value": "Medicine, Magic, mystic, and spagiric -- Southern States"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Hoodoo"
     },
     {
       "field": "655",
@@ -122,13 +121,7 @@
     "ttl": "/library/data/rdf/C5/C5ARVMBQ.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Hoodoo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-hoodoo"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

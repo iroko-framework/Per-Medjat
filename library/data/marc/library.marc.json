@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:55:34Z",
+  "generatedAt": "2026-09-26T13:11:39Z",
   "count": 656,
   "records": [
     {
@@ -3464,17 +3464,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Lucumí"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "Medjat custody: IHS Holds"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "Yoruba"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Lucumí"
         },
         {
           "field": "655",
@@ -3519,17 +3519,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Lucumí"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "Medjat custody: IHS Holds"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "Yoruba"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Lucumí"
         },
         {
           "field": "655",
@@ -3574,17 +3574,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Lucumí"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "Medjat custody: IHS Holds"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "Yoruba"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Lucumí"
         },
         {
           "field": "655",
@@ -3674,7 +3674,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Santeria"
+          "value": "Santería"
         },
         {
           "field": "655",
@@ -3754,7 +3754,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Umbanda"
+          "value": "umbanda"
         },
         {
           "field": "700",
@@ -3829,7 +3829,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Umbanda"
+          "value": "umbanda"
         },
         {
           "field": "700",
@@ -4445,7 +4445,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Abakua"
+          "value": "Abakuá"
         },
         {
           "field": "655",
@@ -6377,12 +6377,12 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "umbanda -- brazil"
+          "value": "umbanda"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "Umbanda"
+          "value": "umbanda -- brazil"
         },
         {
           "field": "700",
@@ -7672,12 +7672,12 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "dictionaries"
+          "value": "Palo Monte"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "Palo Monte"
+          "value": "dictionaries"
         },
         {
           "field": "655",
@@ -8742,7 +8742,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Abakua"
+          "value": "Abakuá"
         },
         {
           "field": "650",
@@ -10796,17 +10796,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "umbanda"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "umbanda -- uruguay"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "uruguay"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Umbanda"
         },
         {
           "field": "700",
@@ -11436,6 +11436,11 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Fon/Ewe-Derived"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "governance"
         },
         {
@@ -11447,11 +11452,6 @@
           "field": "650",
           "label": "Subject",
           "value": "sovereignty-without-state-paper"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Fon/Ewe-Derived"
         },
         {
           "field": "700",
@@ -11791,17 +11791,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Hoodoo"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "Hoodoo (Cult)"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "Medicine, Magic, mystic, and spagiric -- Southern States"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Hoodoo"
         },
         {
           "field": "655",
@@ -16025,17 +16025,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Santeria"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "Yoruba (African people)"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "Yoruba Americans"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Santeria"
         },
         {
           "field": "700",
@@ -17616,12 +17616,12 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "umbanda -- brazil"
+          "value": "umbanda"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "Umbanda"
+          "value": "umbanda -- brazil"
         },
         {
           "field": "700",
@@ -18002,17 +18002,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "umbanda"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "umbanda -- venezuela"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "venezuela"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Umbanda"
         },
         {
           "field": "700",
@@ -20373,6 +20373,11 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "Candomble"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "religion"
         },
         {
@@ -20388,7 +20393,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Candomble"
+          "value": "Candomblé"
         },
         {
           "field": "655",
@@ -20933,7 +20938,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Abakua"
+          "value": "Abakuá"
         },
         {
           "field": "650",
@@ -20988,7 +20993,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Abakua"
+          "value": "Abakuá"
         },
         {
           "field": "650",
@@ -21223,12 +21228,12 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "umbanda -- brazil"
+          "value": "umbanda"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "Umbanda"
+          "value": "umbanda -- brazil"
         },
         {
           "field": "700",
@@ -23937,17 +23942,17 @@
         {
           "field": "650",
           "label": "Subject",
+          "value": "umbanda"
+        },
+        {
+          "field": "650",
+          "label": "Subject",
           "value": "umbanda -- brazil"
         },
         {
           "field": "650",
           "label": "Subject",
           "value": "Quimbanda"
-        },
-        {
-          "field": "650",
-          "label": "Subject",
-          "value": "Umbanda"
         },
         {
           "field": "700",
@@ -24932,12 +24937,12 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Medjat Lexicon"
+          "value": "Candomblé"
         },
         {
           "field": "650",
           "label": "Subject",
-          "value": "Candomble"
+          "value": "Medjat Lexicon"
         },
         {
           "field": "655",
@@ -24992,7 +24997,7 @@
         {
           "field": "650",
           "label": "Subject",
-          "value": "Abakua"
+          "value": "Abakuá"
         },
         {
           "field": "650",

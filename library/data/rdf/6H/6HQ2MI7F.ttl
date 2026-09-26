@@ -16,5 +16,4 @@
   schema:datePublished "2005" ;
   schema:publisher "Princeton University Press" ;
   dcterms:identifier "isbn:978-0-691-05927-3" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
-  dcterms:subject "Afro-Brazilian", "religion", "sovereignty-without-state-paper", "transnationalism", "Candomble" .
+  dcterms:subject "Afro-Brazilian", "Candomble", "religion", "sovereignty-without-state-paper", "transnationalism", "Candomblé" .

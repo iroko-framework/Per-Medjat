@@ -47,9 +47,7 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [
-      "Santeria"
-    ],
+    "traditions": [],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -59,7 +57,9 @@
     ],
     "access": "Public",
     "custody": "metadata-only",
-    "subjects": [],
+    "subjects": [
+      "Santeria"
+    ],
     "languageCodes": [
       "es"
     ]
@@ -109,13 +109,7 @@
     "ttl": "/library/data/rdf/9E/9E7UIAFM.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Santeria",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

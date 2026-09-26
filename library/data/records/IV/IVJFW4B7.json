@@ -145,11 +145,6 @@
     "sameAs": [],
     "about": [
       {
-        "label": "Obeah",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
-      },
-      {
         "label": "Archival Studies",
         "type": "Research Domain",
         "uri": "http://id.loc.gov/authorities/subjects/sh85006514"

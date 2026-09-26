@@ -16,5 +16,4 @@
   schema:author "Diana Brown" ;
   schema:datePublished "1986" ;
   schema:publisher "Columbia University Press eBooks" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
   dcterms:subject "Religion and Society in Latin America", "Umbanda" .

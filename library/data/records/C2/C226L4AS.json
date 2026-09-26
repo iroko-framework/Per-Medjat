@@ -72,7 +72,8 @@
       "social classes",
       "social classes -- brazil",
       "social structure",
-      "social structure -- brazil"
+      "social structure -- brazil",
+      "umbanda"
     ],
     "languageCodes": [
       "en"
@@ -151,7 +152,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Umbanda"
+      "value": "umbanda"
     },
     {
       "field": "700",
@@ -168,13 +169,7 @@
     "ttl": "/library/data/rdf/C2/C226L4AS.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

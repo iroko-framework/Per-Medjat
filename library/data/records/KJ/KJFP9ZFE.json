@@ -74,6 +74,7 @@
       "folk religion -- brazil",
       "rites and ceremonies",
       "rites and ceremonies -- brazil",
+      "umbanda",
       "umbanda -- brazil"
     ],
     "languageCodes": [
@@ -153,17 +154,17 @@
     {
       "field": "650",
       "label": "Subject",
+      "value": "umbanda"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
       "value": "umbanda -- brazil"
     },
     {
       "field": "650",
       "label": "Subject",
       "value": "Quimbanda"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Umbanda"
     },
     {
       "field": "700",
@@ -180,18 +181,7 @@
     "ttl": "/library/data/rdf/KJ/KJFP9ZFE.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Quimbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-quimbanda"
-      },
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

@@ -146,21 +146,6 @@
         "label": "Ewé",
         "type": "Iroko Framework module",
         "uri": "https://ontology.irokosociety.org/vocab/iroko-ewe.html"
-      },
-      {
-        "label": "Lucumí",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-      },
-      {
-        "label": "Palo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-      },
-      {
-        "label": "Santeria",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
       }
     ],
     "authorityMappings": []

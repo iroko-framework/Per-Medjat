@@ -61,6 +61,7 @@
     "custody": "metadata-only",
     "subjects": [
       "Afro-Atlantic",
+      "Lucumí",
       "Medjat custody: IHS Holds",
       "Yoruba"
     ],
@@ -106,17 +107,17 @@
     {
       "field": "650",
       "label": "Subject",
+      "value": "Lucumí"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
       "value": "Medjat custody: IHS Holds"
     },
     {
       "field": "650",
       "label": "Subject",
       "value": "Yoruba"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Lucumí"
     },
     {
       "field": "655",
@@ -128,13 +129,7 @@
     "ttl": "/library/data/rdf/7H/7HTNR8JQ.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Lucumí",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

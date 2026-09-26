@@ -46,7 +46,7 @@
     "recordType": "Book",
     "traditions": [
       "Lucumí",
-      "Santeria"
+      "Santería"
     ],
     "themes": [],
     "domains": [],
@@ -150,7 +150,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Santeria"
+      "value": "Santería"
     },
     {
       "field": "655",
@@ -162,18 +162,7 @@
     "ttl": "/library/data/rdf/8I/8IMEF25Y.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Lucumí",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-      },
-      {
-        "label": "Santeria",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

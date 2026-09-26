@@ -17,5 +17,4 @@
   schema:publisher "Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá" ;
   dcterms:language "Spanish", "Kongo" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte> ;
-  dcterms:subject "Cuba", "Kongo language", "Medjat Lexicon", "dictionaries", "Palo Monte" .
+  dcterms:subject "Cuba", "Kongo language", "Medjat Lexicon", "Palo Monte", "dictionaries" .

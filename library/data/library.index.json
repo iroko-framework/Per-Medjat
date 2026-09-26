@@ -478,11 +478,7 @@
       "Lucumí",
       "Palo"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-    },
+    "traditionLinks": {},
     "themes": [
       "Music"
     ],
@@ -1496,9 +1492,7 @@
     "traditions": [
       "Yoruba-Derived"
     ],
-    "traditionLinks": {
-      "Yoruba-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
-    },
+    "traditionLinks": {},
     "themes": [
       "Secret Society"
     ],
@@ -2049,10 +2043,7 @@
       "Lucumí",
       "Santeria"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2113,9 +2104,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2370,9 +2359,7 @@
     "traditions": [
       "Lucumí"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2387,7 +2374,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic lucumí medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
     "recordPath": "/library/data/records/Z2/Z2BK39AA.json",
     "volume": "2",
     "numberOfVolumes": "2",
@@ -2411,9 +2398,7 @@
     "traditions": [
       "Lucumí"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2428,7 +2413,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959 brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic lucumí medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
     "recordPath": "/library/data/records/5P/5PLRK6GT.json",
     "volume": "1",
     "numberOfVolumes": "2",
@@ -2452,9 +2437,7 @@
     "traditions": [
       "Lucumí"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2469,7 +2452,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959: two-vol. brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
+    "searchText": "adeshina's cuba: the yorùbá lukumí, 1820-1959: two-vol. brown, david h. 2026 digital publishing of fl book monograph lucumí afro-atlantic lucumí medjat custody: ihs holds yoruba english afro-atlantic lucumí medjat custody: ihs holds monograph tradition: lucumí yoruba",
     "recordPath": "/library/data/records/7H/7HTNR8JQ.json",
     "volume": "2",
     "languageCodes": [
@@ -2491,12 +2474,9 @@
     "recordTypeLabel": "Book",
     "traditions": [
       "Lucumí",
-      "Santeria"
+      "Santería"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2509,7 +2489,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book lucumí santeria art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
+    "searchText": "santeria enthroned: art, ritual, and innovation in an afro-cuban religion brown, david h. 2003 university of chicago press book book lucumí santería art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history art and religion -- cuba -- history art and religion -- united states -- history arte y religión cuba historia arte y religión estados unidos historia kings and rulers -- religious aspects -- santeria kings and rulers in art reyes y soberanos aspectos religiosos santería hi santeria -- historia santeria -- history tradition: lucumí tradition: santería",
     "recordPath": "/library/data/records/8I/8IMEF25Y.json"
   },
   {
@@ -2529,9 +2509,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2546,7 +2524,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi81108353/",
-    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
+    "searchText": "umbanda and class relations in brazil brown, diana degroat harkess, shirley j. 1979 journalarticle journal article umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil social classes social classes -- brazil social structure social structure -- brazil umbanda english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda social classes social classes -- brazil social structure social structure -- brazil umbanda",
     "recordPath": "/library/data/records/C2/C226L4AS.json",
     "languageCodes": [
       "en"
@@ -2569,9 +2547,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2586,7 +2562,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi96001833/",
-    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
+    "searchText": "umbanda: religion and politics in urban brazil brown, diana degroat lovell, peggy a. 1994 journalarticle journal article umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil politics and government religious life and customs umbanda english tradition: umbanda african influences african influences -- brazil brazil folk religion folk religion -- brazil medjat-search:umbanda politics and government religious life and customs umbanda",
     "recordPath": "/library/data/records/J3/J3NTRMM4.json",
     "languageCodes": [
       "en"
@@ -2896,11 +2872,7 @@
       "Palo",
       "Santeria"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo",
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2963,11 +2935,9 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Abakua"
+      "Abakuá"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -2980,7 +2950,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "la sociedad secreta abakuá cabrera, lydia 1970 ediciones cr book book abakua colección del chicherekú sociedad abakuá witchcraft -- cuba colección del chicherekú sociedad abakuá tradition: abakuá witchcraft -- cuba",
+    "searchText": "la sociedad secreta abakuá cabrera, lydia 1970 ediciones cr book book abakuá colección del chicherekú sociedad abakuá witchcraft -- cuba colección del chicherekú sociedad abakuá tradition: abakuá witchcraft -- cuba",
     "recordPath": "/library/data/records/EH/EHRNFQQL.json"
   },
   {
@@ -2999,9 +2969,7 @@
     "traditions": [
       "Palo"
     ],
-    "traditionLinks": {
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -3167,12 +3135,8 @@
     "publicationLine": "1973.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Santeria"
-    ],
-    "traditionLinks": {
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -3982,9 +3946,7 @@
     "traditions": [
       "Candomble"
     ],
-    "traditionLinks": {
-      "Candomble": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
-    },
+    "traditionLinks": {},
     "themes": [
       "Ritual"
     ],
@@ -4019,9 +3981,7 @@
     "traditions": [
       "Santeria"
     ],
-    "traditionLinks": {
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -4336,9 +4296,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -4353,7 +4311,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi2013002669/",
-    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article umbanda brazil history religious life and customs spirit possession umbanda -- brazil portuguese tradition: umbanda brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
+    "searchText": "história da umbanda: uma religião brasileira cumino, alexandre lima, shênia kellen de 2010 journalarticle journal article umbanda brazil history religious life and customs spirit possession umbanda umbanda -- brazil portuguese tradition: umbanda brazil history medjat-search:umbanda religious life and customs spirit possession umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/AE/AELNGXBY.json",
     "languageCodes": [
       "pt"
@@ -4929,9 +4887,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -4964,9 +4920,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -5183,12 +5137,8 @@
     "publicationLine": "Santiago de Cuba; Alcalá de Henares: Casa del Caribe; ORCALC/UNESCO; Universidad de Alcalá, 1997.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Palo Monte"
-    ],
-    "traditionLinks": {
-      "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -5204,7 +5154,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "diccionario de la lengua conga residual en cuba díaz fabelo, teodoro 1997 casa del caribe; orcalc/unesco; universidad de alcalá book book palo monte cuba kongo language medjat lexicon dictionaries spanish kongo cuba kongo language medjat lexicon palo monte dictionaries",
+    "searchText": "diccionario de la lengua conga residual en cuba díaz fabelo, teodoro 1997 casa del caribe; orcalc/unesco; universidad de alcalá book book cuba kongo language medjat lexicon palo monte dictionaries spanish kongo cuba kongo language medjat lexicon palo monte dictionaries",
     "recordPath": "/library/data/records/JU/JU7B6L7S.json",
     "languageCodes": [
       "es"
@@ -5743,9 +5693,7 @@
     "traditions": [
       "Calabari/Cross River"
     ],
-    "traditionLinks": {
-      "Calabari/Cross River": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-calabari"
-    },
+    "traditionLinks": {},
     "themes": [
       "Lineage",
       "Secret Society"
@@ -5847,10 +5795,7 @@
       "Haitian Vodou",
       "New Orleans Voodoo"
     ],
-    "traditionLinks": {
-      "Haitian Vodou": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou",
-      "New Orleans Voodoo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -5973,15 +5918,11 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Abakua",
+      "Abakuá",
       "Palo Mayombe",
       "Palo Monte"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Palo Mayombe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe",
-      "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -5996,7 +5937,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "los negros brujos fernando ortiz 1906 librería de fernando fé book book abakua palo mayombe palo monte afro-cuban religion cuba archival-latency-paper colonial ethnography spanish afro-cuban religion cuba tradition: abakuá tradition: palo mayombe tradition: palo monte archival-latency-paper colonial ethnography",
+    "searchText": "los negros brujos fernando ortiz 1906 librería de fernando fé book book abakuá palo mayombe palo monte afro-cuban religion cuba archival-latency-paper colonial ethnography spanish afro-cuban religion cuba tradition: abakuá tradition: palo mayombe tradition: palo monte archival-latency-paper colonial ethnography",
     "recordPath": "/library/data/records/MP/MP9FK9XE.json",
     "languageCodes": [
       "es"
@@ -6265,9 +6206,7 @@
     "traditions": [
       "Palo"
     ],
-    "traditionLinks": {
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -6676,9 +6615,7 @@
     "traditions": [
       "Yoruba-Derived"
     ],
-    "traditionLinks": {
-      "Yoruba-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [
       "afro-atlantic-history",
@@ -6713,9 +6650,7 @@
     "traditions": [
       "Obeah"
     ],
-    "traditionLinks": {
-      "Obeah": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [
       "archival-studies",
@@ -7250,9 +7185,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -7267,7 +7200,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi91003427/",
-    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article umbanda african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda -- uruguay uruguay spanish tradition: umbanda african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
+    "searchText": "umbanda: investigación sobre religiosidad afro-brasileña en montevideo hadis, benjamín pallavicino, maría i. 1982 journalarticle journal article umbanda african influences african influences -- uruguay montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay spanish tradition: umbanda african influences african influences -- uruguay medjat-search:umbanda montevideo montevideo (uruguay) montevideo, uruguay (city) montevideo, uruguay (city) -- umbanda religious life and customs umbanda umbanda -- uruguay uruguay",
     "recordPath": "/library/data/records/2U/2UNNWD7V.json",
     "languageCodes": [
       "es"
@@ -7722,12 +7655,8 @@
     "publicationLine": "Evanston: J.J. Augustin, 1938.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Fon/Ewe-Derived"
-    ],
-    "traditionLinks": {
-      "Fon/Ewe-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -7740,7 +7669,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "dahomey, an ancient west african kingdom herskovits, melville j herskovits, frances s 1938 j.j. augustin book book fon/ewe-derived afro-atlantic dahomey ethnology -- benin fon (african people) governance religion sovereignty-without-state-paper afro-atlantic dahomey ethnology -- benin fon (african people) fon/ewe-derived governance religion sovereignty-without-state-paper",
+    "searchText": "dahomey, an ancient west african kingdom herskovits, melville j herskovits, frances s 1938 j.j. augustin book book afro-atlantic dahomey ethnology -- benin fon (african people) fon/ewe-derived governance religion sovereignty-without-state-paper afro-atlantic dahomey ethnology -- benin fon (african people) fon/ewe-derived governance religion sovereignty-without-state-paper",
     "recordPath": "/library/data/records/MK/MK34V6A2.json"
   },
   {
@@ -7759,9 +7688,7 @@
     "traditions": [
       "Syncretic/Creole"
     ],
-    "traditionLinks": {
-      "Syncretic/Creole": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
-    },
+    "traditionLinks": {},
     "themes": [
       "Lineage",
       "Material Culture"
@@ -7976,10 +7903,7 @@
       "Haitian Vodou",
       "Kumina"
     ],
-    "traditionLinks": {
-      "Haitian Vodou": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou",
-      "Kumina": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-kumina"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -8008,12 +7932,8 @@
     "publicationLine": "Hannibal, Mo: Printed by Western Pub.; distributed by American University Bookstore, Washington, 1970.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Hoodoo"
-    ],
-    "traditionLinks": {
-      "Hoodoo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-hoodoo"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -8026,7 +7946,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "hoodoo--conjuration--witchcraft--rootwork: beliefs accepted by many negroes and white persons, these being orally recorded among blacks and whites. hyatt, harry middleton 1970 printed by western pub.; distributed by american university bookstore, washington book book hoodoo african americans -- southern states folklore -- southern states hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states african americans -- southern states folklore -- southern states hoodoo hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states",
+    "searchText": "hoodoo--conjuration--witchcraft--rootwork: beliefs accepted by many negroes and white persons, these being orally recorded among blacks and whites. hyatt, harry middleton 1970 printed by western pub.; distributed by american university bookstore, washington book book african americans -- southern states folklore -- southern states hoodoo hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states african americans -- southern states folklore -- southern states hoodoo hoodoo (cult) medicine, magic, mystic, and spagiric -- southern states",
     "recordPath": "/library/data/records/C5/C5ARVMBQ.json",
     "volume": "1",
     "numberOfVolumes": "5"
@@ -8109,9 +8029,7 @@
     "traditions": [
       "Ekpe"
     ],
-    "traditionLinks": {
-      "Ekpe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -10710,10 +10628,7 @@
       "Espiritismo",
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Espiritismo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo",
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -10929,12 +10844,8 @@
     "publicationLine": "1983.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Santeria"
-    ],
-    "traditionLinks": {
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -10970,12 +10881,8 @@
     "publicationLine": "2000.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Santeria"
-    ],
-    "traditionLinks": {
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -10990,7 +10897,7 @@
     "region": [],
     "doi": "",
     "url": "https://openlibrary.org/works/OL4157322W",
-    "searchText": "the osha julio garcía cortez julio garcia cortez julio garcia corlez 2000 book book santeria ethnobotany religion rites and ceremonies yoruba (african people) yoruba americans english ethnobotany religion rites and ceremonies santeria yoruba (african people) yoruba americans medjat-search:lucumí",
+    "searchText": "the osha julio garcía cortez julio garcia cortez julio garcia corlez 2000 book book ethnobotany religion rites and ceremonies santeria yoruba (african people) yoruba americans english ethnobotany religion rites and ceremonies santeria yoruba (african people) yoruba americans medjat-search:lucumí",
     "recordPath": "/library/data/records/W2/W27MPK7H.json",
     "languageCodes": [
       "en"
@@ -12072,9 +11979,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -12089,7 +11994,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi77101373/",
-    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article umbanda brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda -- brazil english tradition: umbanda brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
+    "searchText": "umbanda trance and possession in são paulo, brazil leacock, seth pressel, esther joan 1974 journalarticle journal article umbanda brazil folk religion são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil english tradition: umbanda brazil folk religion medjat-search:umbanda são paulo, brazil (city) são paulo, brazil (city) -- folk religion umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/YA/YAQDCCC2.json",
     "languageCodes": [
       "en"
@@ -12326,9 +12231,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -12343,7 +12246,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi94004464/",
-    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda -- venezuela venezuela spanish tradition: umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
+    "searchText": "umbanda en venezuela levi, danilo pollak-eltz, angelina 1993 journalarticle journal article umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela umbanda umbanda -- venezuela venezuela spanish tradition: umbanda african influences african influences -- venezuela folk religion folk religion -- venezuela medjat-search:umbanda umbanda umbanda -- venezuela venezuela",
     "recordPath": "/library/data/records/I7/I7QCZTXJ.json",
     "languageCodes": [
       "es"
@@ -12427,9 +12330,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -12736,9 +12637,7 @@
     "traditions": [
       "Palo"
     ],
-    "traditionLinks": {
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -13019,9 +12918,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -13459,20 +13356,7 @@
       "Trinidad Orisha",
       "Yoruba-Derived"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Bantu-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived",
-      "Espiritismo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo",
-      "Fon/Ewe-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived",
-      "Haitian Vodou": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou",
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Obeah": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah",
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo",
-      "Rastafari": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari",
-      "Santeria": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria",
-      "Trinidad Orisha": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha",
-      "Yoruba-Derived": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
-    },
+    "traditionLinks": {},
     "themes": [
       "Material Culture",
       "Music",
@@ -14058,11 +13942,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Candomble"
+      "Candomble",
+      "Candomblé"
     ],
-    "traditionLinks": {
-      "Candomble": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -14075,7 +13958,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "black atlantic religion: tradition, transnationalism, and matriarchy in the afro-brazilian candomblé matory, j. lorand 2005 princeton university press book book candomble afro-brazilian religion sovereignty-without-state-paper transnationalism afro-brazilian candomble tradition: candomble tradition: candomblé religion sovereignty-without-state-paper transnationalism",
+    "searchText": "black atlantic religion: tradition, transnationalism, and matriarchy in the afro-brazilian candomblé matory, j. lorand 2005 princeton university press book book candomble candomblé afro-brazilian candomble religion sovereignty-without-state-paper transnationalism afro-brazilian candomble tradition: candomble tradition: candomblé religion sovereignty-without-state-paper transnationalism",
     "recordPath": "/library/data/records/6H/6HQ2MI7F.json"
   },
   {
@@ -14486,13 +14369,10 @@
     "itemType": "journalArticle",
     "recordTypeLabel": "Journal Article",
     "traditions": [
-      "Abakua",
+      "Abakuá",
       "Ekpe"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Ekpe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -14505,7 +14385,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "the relationship between early forms of literacy in old calabar and inherited manuscripts of the cuban abakuá society miller, ivor 2016 afro-hispanic review journalarticle journal article abakua ekpe tradition: abakuá tradition: ekpe",
+    "searchText": "the relationship between early forms of literacy in old calabar and inherited manuscripts of the cuban abakuá society miller, ivor 2016 afro-hispanic review journalarticle journal article abakuá ekpe tradition: abakuá tradition: ekpe",
     "recordPath": "/library/data/records/F3/F3JU8WXV.json",
     "volume": "35"
   },
@@ -14523,13 +14403,10 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Abakua",
+      "Abakuá",
       "Ekpe"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Ekpe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -14542,7 +14419,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "voice of the leopard: african secret societies and cuba miller, ivor 2009 university press of mississippi book book abakua ekpe black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) tradition: abakuá tradition: ekpe",
+    "searchText": "voice of the leopard: african secret societies and cuba miller, ivor 2009 university press of mississippi book book abakuá ekpe black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) black people -- cuba -- social life and customs secret societies -- cuba sociedad abakuá (cuba) tradition: abakuá tradition: ekpe",
     "recordPath": "/library/data/records/29/29DQBEEF.json"
   },
   {
@@ -14683,9 +14560,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -14700,7 +14575,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi89006307/",
-    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article umbanda brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda -- brazil portuguese tradition: umbanda brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
+    "searchText": "da doença à desordem: a magia na umbanda montero, paula norris, william p. 1985 journalarticle journal article umbanda brazil popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil portuguese tradition: umbanda brazil medjat-search:umbanda popular religion popular religion -- brazil traditional medicine traditional medicine -- brazil umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/NT/NTWSWK8E.json",
     "languageCodes": [
       "pt"
@@ -15544,9 +15419,7 @@
     "traditions": [
       "Lucumí"
     ],
-    "traditionLinks": {
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -15734,9 +15607,7 @@
     "traditions": [
       "Palo"
     ],
-    "traditionLinks": {
-      "Palo": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -16369,10 +16240,7 @@
       "Quimbanda",
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Quimbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-quimbanda",
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -16387,7 +16255,7 @@
     "region": [],
     "doi": "",
     "url": "https://www.loc.gov/item/hlas-bi83108415/",
-    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article quimbanda umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda -- brazil french tradition: quimbanda tradition: umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
+    "searchText": "umbandá, magie blanche, quimbandá, magie noire ortiz, renato saunders, john v.d. 1979 journalarticle journal article quimbanda umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil french tradition: quimbanda tradition: umbanda african influences african influences -- brazil brazil deities deities -- brazil folk religion folk religion -- brazil medjat-search:umbanda rites and ceremonies rites and ceremonies -- brazil umbanda umbanda -- brazil",
     "recordPath": "/library/data/records/KJ/KJFP9ZFE.json",
     "languageCodes": [
       "fr"
@@ -17110,12 +16978,8 @@
     "publicationLine": "Salvador: Livraria Progresso Editora, 1955.",
     "itemType": "book",
     "recordTypeLabel": "Book",
-    "traditions": [
-      "Candomble"
-    ],
-    "traditionLinks": {
-      "Candomble": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
-    },
+    "traditions": [],
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -17130,7 +16994,7 @@
     "region": [],
     "doi": "",
     "url": "https://archive.org/details/aracaafricana",
-    "searchText": "a raça africana e os seus costumes querino, manuel 1955 livraria progresso editora book book candomble bahia brazil medjat lexicon portuguese bahia brazil candomblé medjat lexicon",
+    "searchText": "a raça africana e os seus costumes querino, manuel 1955 livraria progresso editora book book bahia brazil candomblé medjat lexicon portuguese bahia brazil candomblé medjat lexicon",
     "recordPath": "/library/data/records/JH/JHHZ8U5X.json",
     "languageCodes": [
       "pt"
@@ -17150,17 +17014,12 @@
     "itemType": "book",
     "recordTypeLabel": "Book",
     "traditions": [
-      "Abakua",
+      "Abakuá",
       "Lucumí",
       "Palo Mayombe",
       "Palo Monte"
     ],
-    "traditionLinks": {
-      "Abakua": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua",
-      "Lucumí": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi",
-      "Palo Mayombe": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe",
-      "Palo Monte": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
-    },
+    "traditionLinks": {},
     "themes": [
       "Botanical",
       "Ritual"
@@ -17176,7 +17035,7 @@
     "region": [],
     "doi": "",
     "url": "",
-    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book abakua lucumí palo mayombe palo monte botanical ritual ewe database source ewe database source theme: botanical theme: ritual tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
+    "searchText": "guide to afro-cuban herbalism quiros-moran, dalia 2009 authorhouse book book abakuá lucumí palo mayombe palo monte botanical ritual ewe database source ewe database source theme: botanical theme: ritual tradition: abakuá tradition: lucumí tradition: palo mayombe tradition: palo monte",
     "recordPath": "/library/data/records/MM/MMMUQPLF.json"
   },
   {
@@ -17780,9 +17639,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -17815,9 +17672,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -19217,9 +19072,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -19252,9 +19105,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -19348,10 +19199,7 @@
       "Obeah",
       "Trinidad Orisha"
     ],
-    "traditionLinks": {
-      "Obeah": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah",
-      "Trinidad Orisha": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -20084,9 +19932,7 @@
     "traditions": [
       "Umbanda"
     ],
-    "traditionLinks": {
-      "Umbanda": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],
@@ -20380,9 +20226,7 @@
     "traditions": [
       "Shango Baptist"
     ],
-    "traditionLinks": {
-      "Shango Baptist": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-shango-baptist"
-    },
+    "traditionLinks": {},
     "themes": [],
     "domains": [],
     "connects": [],

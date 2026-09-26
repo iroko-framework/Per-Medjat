@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "Abakua",
+      "Abakuá",
       "Lucumí",
       "Palo Mayombe",
       "Palo Monte"
@@ -112,7 +112,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Abakua"
+      "value": "Abakuá"
     },
     {
       "field": "650",
@@ -139,28 +139,7 @@
     "ttl": "/library/data/rdf/MM/MMMUQPLF.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Abakua",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
-      },
-      {
-        "label": "Lucumí",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-      },
-      {
-        "label": "Palo Mayombe",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-mayombe"
-      },
-      {
-        "label": "Palo Monte",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

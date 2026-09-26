@@ -96,13 +96,7 @@
     "ttl": "/library/data/rdf/2Q/2Q7HYIWJ.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Santeria",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

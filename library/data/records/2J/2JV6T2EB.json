@@ -131,13 +131,7 @@
     "sameAs": [
       "https://doi.org/10.1525/ae.1987.14.1.02a00050"
     ],
-    "about": [
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

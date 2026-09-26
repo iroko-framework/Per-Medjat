@@ -211,68 +211,7 @@
     "sameAs": [
       "https://doi.org/10.18574/nyu/9781479803491.001.0001"
     ],
-    "about": [
-      {
-        "label": "Abakua",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
-      },
-      {
-        "label": "Bantu-Derived",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-bantu-derived"
-      },
-      {
-        "label": "Espiritismo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo"
-      },
-      {
-        "label": "Fon/Ewe-Derived",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived"
-      },
-      {
-        "label": "Haitian Vodou",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou"
-      },
-      {
-        "label": "Lucumí",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-lucumi"
-      },
-      {
-        "label": "Obeah",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
-      },
-      {
-        "label": "Palo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-      },
-      {
-        "label": "Rastafari",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-rastafari"
-      },
-      {
-        "label": "Santeria",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria"
-      },
-      {
-        "label": "Trinidad Orisha",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha"
-      },
-      {
-        "label": "Yoruba-Derived",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-yoruba-derived"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

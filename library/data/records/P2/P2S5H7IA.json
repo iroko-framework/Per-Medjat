@@ -144,13 +144,7 @@
     "ttl": "/library/data/rdf/P2/P2S5H7IA.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Ekpe",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

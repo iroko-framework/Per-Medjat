@@ -16,5 +16,4 @@
   schema:datePublished "2015" ;
   schema:publisher "The University of the West Indies Press" ;
   dcterms:identifier "isbn:976-640-505-0" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-shango-baptist> ;
   dcterms:subject "Trinidad and Tobago -- Civilization -- African influences", "Shango Baptist" .

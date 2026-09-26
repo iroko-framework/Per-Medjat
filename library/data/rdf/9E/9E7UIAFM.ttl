@@ -17,5 +17,4 @@
   dcterms:identifier "isbn:978-0-89729-322-8" ;
   dcterms:language "Spanish" ;
   schema:inLanguage "es" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-santeria> ;
   dcterms:subject "Santeria" .

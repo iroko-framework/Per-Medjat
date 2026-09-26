@@ -116,18 +116,7 @@
     "sameAs": [
       "https://doi.org/10.11606/2179-0892.ra.1964.110743"
     ],
-    "about": [
-      {
-        "label": "Espiritismo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-espiritismo"
-      },
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

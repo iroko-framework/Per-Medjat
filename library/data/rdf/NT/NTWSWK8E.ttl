@@ -16,5 +16,4 @@
   schema:datePublished "1985" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
-  dcterms:subject "brazil", "popular religion", "popular religion -- brazil", "traditional medicine", "traditional medicine -- brazil", "umbanda -- brazil", "Umbanda" .
+  dcterms:subject "brazil", "popular religion", "popular religion -- brazil", "traditional medicine", "traditional medicine -- brazil", "umbanda", "umbanda -- brazil" .

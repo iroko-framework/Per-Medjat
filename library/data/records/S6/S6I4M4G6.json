@@ -111,13 +111,7 @@
     "sameAs": [
       "https://doi.org/10.1525/aa.1937.39.4.02a00080"
     ],
-    "about": [
-      {
-        "label": "Syncretic/Creole",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-syncretic"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

@@ -15,5 +15,4 @@
   schema:author "Miller, Ivor" ;
   schema:datePublished "2016" ;
   schema:publisher "Afro-Hispanic Review" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe> ;
-  dcterms:subject "Abakua", "Ekpe" .
+  dcterms:subject "Abakuá", "Ekpe" .

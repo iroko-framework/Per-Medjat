@@ -68,6 +68,7 @@
       "african influences -- venezuela",
       "folk religion",
       "folk religion -- venezuela",
+      "umbanda",
       "umbanda -- venezuela",
       "venezuela"
     ],
@@ -123,17 +124,17 @@
     {
       "field": "650",
       "label": "Subject",
+      "value": "umbanda"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
       "value": "umbanda -- venezuela"
     },
     {
       "field": "650",
       "label": "Subject",
       "value": "venezuela"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Umbanda"
     },
     {
       "field": "700",
@@ -150,13 +151,7 @@
     "ttl": "/library/data/rdf/I7/I7QCZTXJ.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

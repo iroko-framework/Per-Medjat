@@ -45,7 +45,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "Abakua",
+      "Abakuá",
       "Ekpe"
     ],
     "themes": [],
@@ -104,7 +104,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Abakua"
+      "value": "Abakuá"
     },
     {
       "field": "650",
@@ -121,18 +121,7 @@
     "ttl": "/library/data/rdf/29/29DQBEEF.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Abakua",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-abakua"
-      },
-      {
-        "label": "Ekpe",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-ekpe"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

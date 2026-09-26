@@ -68,6 +68,7 @@
       "folk religion",
       "são paulo, brazil (city)",
       "são paulo, brazil (city) -- folk religion",
+      "umbanda",
       "umbanda -- brazil"
     ],
     "languageCodes": [
@@ -122,12 +123,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "umbanda -- brazil"
+      "value": "umbanda"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Umbanda"
+      "value": "umbanda -- brazil"
     },
     {
       "field": "700",
@@ -144,13 +145,7 @@
     "ttl": "/library/data/rdf/YA/YAQDCCC2.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

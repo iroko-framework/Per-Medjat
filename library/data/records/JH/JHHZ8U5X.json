@@ -47,9 +47,7 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [
-      "Candomble"
-    ],
+    "traditions": [],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -62,6 +60,7 @@
     "subjects": [
       "Bahia",
       "Brazil",
+      "Candomblé",
       "Medjat Lexicon"
     ],
     "languageCodes": [
@@ -111,12 +110,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Medjat Lexicon"
+      "value": "Candomblé"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "Candomble"
+      "value": "Medjat Lexicon"
     },
     {
       "field": "655",
@@ -128,13 +127,7 @@
     "ttl": "/library/data/rdf/JH/JHHZ8U5X.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Candomble",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

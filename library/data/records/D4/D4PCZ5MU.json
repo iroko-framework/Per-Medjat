@@ -109,18 +109,7 @@
     "sameAs": [
       "https://doi.org/10.1177/0021934705280410"
     ],
-    "about": [
-      {
-        "label": "Haitian Vodou",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou"
-      },
-      {
-        "label": "New Orleans Voodoo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

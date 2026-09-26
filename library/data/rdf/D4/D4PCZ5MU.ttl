@@ -18,5 +18,4 @@
   schema:publisher "Journal of Black Studies" ;
   schema:sameAs <https://doi.org/10.1177/0021934705280410> ;
   dcterms:identifier "doi:10.1177/0021934705280410" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-haitian-vodou>, <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-new-orleans-voodoo> ;
   dcterms:subject "Haitian Vodou", "New Orleans Voodoo" .

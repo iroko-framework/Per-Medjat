@@ -17,5 +17,4 @@
   schema:publisher "Livraria Progresso Editora" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
-  dcterms:subject "Bahia", "Brazil", "Medjat Lexicon", "Candomble" .
+  dcterms:subject "Bahia", "Brazil", "Candomblé", "Medjat Lexicon" .

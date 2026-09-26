@@ -17,5 +17,4 @@
   schema:publisher "Editora Atica eBooks" ;
   dcterms:language "Portuguese" ;
   schema:inLanguage "pt" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda> ;
   dcterms:subject "Religion and Society in Latin America", "Religion, Society, and Development", "Urban and sociocultural dynamics", "Umbanda" .

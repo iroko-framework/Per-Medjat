@@ -18,5 +18,4 @@
   schema:publisher "Etnografica" ;
   schema:sameAs <https://doi.org/10.4000/etnografica.292> ;
   dcterms:identifier "doi:10.4000/etnografica.292" ;
-  schema:about <https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general> ;
   dcterms:subject "Ritual", "Religion and Society in Latin America", "Religious Tourism and Spaces", "Urban and sociocultural dynamics", "Candomble" .

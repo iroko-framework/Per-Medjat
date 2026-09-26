@@ -70,7 +70,8 @@
       "folk religion",
       "folk religion -- brazil",
       "politics and government",
-      "religious life and customs"
+      "religious life and customs",
+      "umbanda"
     ],
     "languageCodes": [
       "en"
@@ -139,7 +140,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Umbanda"
+      "value": "umbanda"
     },
     {
       "field": "700",
@@ -156,13 +157,7 @@
     "ttl": "/library/data/rdf/J3/J3NTRMM4.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Umbanda",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

@@ -48,9 +48,7 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [
-      "Fon/Ewe-Derived"
-    ],
+    "traditions": [],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -63,6 +61,7 @@
       "Dahomey",
       "Ethnology -- Benin",
       "Fon (African people)",
+      "Fon/Ewe-Derived",
       "governance",
       "religion",
       "sovereignty-without-state-paper"
@@ -111,6 +110,11 @@
     {
       "field": "650",
       "label": "Subject",
+      "value": "Fon/Ewe-Derived"
+    },
+    {
+      "field": "650",
+      "label": "Subject",
       "value": "governance"
     },
     {
@@ -122,11 +126,6 @@
       "field": "650",
       "label": "Subject",
       "value": "sovereignty-without-state-paper"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
-      "value": "Fon/Ewe-Derived"
     },
     {
       "field": "700",
@@ -143,13 +142,7 @@
     "ttl": "/library/data/rdf/MK/MK34V6A2.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Fon/Ewe-Derived",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-fon-ewe-derived"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

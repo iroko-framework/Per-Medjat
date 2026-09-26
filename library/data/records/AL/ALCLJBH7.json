@@ -96,13 +96,7 @@
     "ttl": "/library/data/rdf/AL/ALCLJBH7.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [
-      {
-        "label": "Palo",
-        "type": "Tradition",
-        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Palo"
-      }
-    ],
+    "about": [],
     "authorityMappings": []
   }
 }

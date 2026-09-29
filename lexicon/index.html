@@ -40,6 +40,9 @@
     #q:focus { outline: 2px solid var(--lex); outline-offset: 1px; }
     .keys { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: center; column-gap: .6rem; margin-top: .45rem; }   /* label centred beside the button rows; rows hang from one left edge */
     .keys .kset { display: flex; flex-wrap: wrap; justify-content: flex-start; gap: .25rem .6rem; }
+    .key-label { display: flex; flex-direction: column; align-items: flex-start; gap: .3rem; }
+    .keys .case-toggle { font: .7rem var(--mono); min-width: 0; padding: .2rem .45rem; }
+    .keys .case-toggle[aria-pressed="true"] { background: var(--lex); border-color: var(--lex); color: #fff; }
     .keys button { font: 1rem var(--serif); min-width: 2rem; padding: .15rem .35rem; border: 1px solid var(--rule); background: #fff; border-radius: 4px; cursor: pointer; color: var(--ink); }
     .keys .lbl { align-self: center; max-width: 7.5rem; line-height: 1.35; font-family: var(--mono); font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-soft); margin-right: .25rem; }
     .keys .kgrp { display: inline-flex; flex-wrap: wrap; gap: .25rem; }
@@ -180,7 +183,7 @@
       <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search a word… e.g. iroko, ewe, nganga, obi" aria-label="Search the lexicon">
     </div>
     <div class="keys" aria-label="Insert special character">
-      <span class="lbl">Insert special character</span>
+      <div class="key-label"><span class="lbl">Insert special character</span><button type="button" class="case-toggle" id="key-case" aria-pressed="false">Uppercase</button></div>
       <div class="kset">
       <span class="kgrp" title="Yorùbá"><button type="button">ẹ</button><button type="button">ẹ̀</button><button type="button">ẹ́</button><button type="button">ọ</button><button type="button">ọ̀</button><button type="button">ọ́</button><button type="button">ṣ</button><button type="button">ń</button><button type="button">ǹ</button><button type="button">ḿ</button></span>
       <span class="kgrp" title="Tone marks"><button type="button">à</button><button type="button">á</button><button type="button">è</button><button type="button">é</button><button type="button">ì</button><button type="button">í</button><button type="button">ò</button><button type="button">ó</button><button type="button">ù</button><button type="button">ú</button></span>
@@ -792,12 +795,23 @@ let timer;
 function wire() {
   const input = document.getElementById("q");
   input.addEventListener("input", () => { focusId = null; clearTimeout(timer); timer = setTimeout(run, 160); });
-  document.querySelectorAll(".keys button").forEach(b => b.addEventListener("click", () => {
-    const s = input.selectionStart ?? input.value.length, t = input.selectionEnd ?? s;
-    input.value = input.value.slice(0, s) + b.textContent + input.value.slice(t);
-    const n = s + b.textContent.length;   // ẹ̀ is two code points: the letter and its tone mark
-    input.focus(); input.setSelectionRange(n, n); run();
-  }));
+  const keyButtons = [...document.querySelectorAll(".keys .kgrp button")];
+  keyButtons.forEach(b => {
+    const lower = b.textContent;
+    b.addEventListener("click", () => {
+      const s = input.selectionStart ?? input.value.length, t = input.selectionEnd ?? s;
+      input.value = input.value.slice(0, s) + b.textContent + input.value.slice(t);
+      const n = s + b.textContent.length;   // ẹ̀ is two code points: the letter and its tone mark
+      input.focus(); input.setSelectionRange(n, n); run();
+    });
+    b.dataset.lower = lower;
+  });
+  const caseToggle = document.getElementById("key-case");
+  caseToggle.addEventListener("click", () => {
+    const uppercase = caseToggle.getAttribute("aria-pressed") !== "true";
+    caseToggle.setAttribute("aria-pressed", String(uppercase));
+    keyButtons.forEach(b => { b.textContent = uppercase ? b.dataset.lower.toUpperCase() : b.dataset.lower; });
+  });
   document.getElementById("in-gloss").addEventListener("change", run);
   document.addEventListener("click", ev => {
     const eq = ev.target.closest(".eq, .w"); if (eq) { input.value = eq.dataset.q; run(); input.scrollIntoView({block: "nearest"}); return; }

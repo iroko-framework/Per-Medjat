@@ -180,7 +180,7 @@
 
   <div class="search-box" role="search">
     <div class="search-row">
-      <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search a word… e.g. iroko, ewe, nganga, obi" aria-label="Search the lexicon">
+      <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search a word…" aria-label="Search the lexicon">
     </div>
     <div class="keys" aria-label="Insert special character">
       <div class="key-label"><span class="lbl">Insert special character</span><button type="button" class="case-toggle" id="key-case" aria-pressed="false">Uppercase</button></div>
@@ -734,6 +734,22 @@ const PAGE = 60;
    entry (?id=) sits directly after the open group. */
 const groupIndex = r => r <= 1 ? 0 : r <= 3 ? 1 : r === 5 ? 2 : r === 6 ? 3 : 4;
 const groupLabels = () => [UI.headwordMatches, UI.relatedForms, UI.inDefinitions, UI.sameEnglish, UI.similarSpellings];
+function sortHeadwords(hits, q) {
+  const typed = q.trim().normalize("NFC").toLowerCase();
+  const hasSnippet = h => {
+    const e = E[h.n], src = D.sources[e.s];
+    return !!(e.bx && src.iiif && e.lf != null);  // same condition as card()
+  };
+  const sameSpelling = h => (E[h.n]._forms[h.fi]?.[0] || E[h.n].h).normalize("NFC").toLowerCase() === typed;
+  const quality = h => ({curated: 0, ocr: 1}[D.sources[E[h.n].s].quality] ?? 2);
+  const year = h => D.sources[E[h.n].s].year || 9999;
+  hits.sort((a, b) => Number(hasSnippet(b)) - Number(hasSnippet(a))
+    || Number(sameSpelling(b)) - Number(sameSpelling(a))
+    || a.rank - b.rank
+    || quality(a) - quality(b)
+    || year(a) - year(b)
+    || E[a.n].h.length - E[b.n].h.length);
+}
 function render(q) {
   const res = document.getElementById("results"), st = document.getElementById("status");
   lastQ = q;
@@ -741,6 +757,7 @@ function render(q) {
   const all = search(q);
   groups = [[], [], [], [], []];
   all.forEach(h => groups[groupIndex(h.rank)].push(h));
+  sortHeadwords(groups[0], q);
   res.innerHTML = meaningPanel(q, all);
   st.textContent = all.length ? `${all.length.toLocaleString()} ${all.length === 1 ? "entry" : "entries"}` : "";
   if (!all.length) { res.insertAdjacentHTML("beforeend", `<p class="empty">Nothing found for \u201c${esc(q)}\u201d. Try fewer letters, or turn on definition search.</p>`); return; }
@@ -794,6 +811,7 @@ function run() {
 let timer;
 function wire() {
   const input = document.getElementById("q");
+  input.addEventListener("focus", () => { if (!input.value) run(); });
   input.addEventListener("input", () => { focusId = null; clearTimeout(timer); timer = setTimeout(run, 160); });
   const keyButtons = [...document.querySelectorAll(".keys .kgrp button")];
   keyButtons.forEach(b => {
@@ -848,7 +866,12 @@ function wire() {
     const e = E[byId.get(id0)];
     input.value = e.hr && e.hr !== e.h ? e.hr : e.h;
   } else if (q0) input.value = q0;
-  run();
+  if (input.value) run();
+  else {
+    render("Ọkàn");
+    const status = document.getElementById("status");
+    status.textContent = "Example: Ọkàn · " + status.textContent;
+  }
 }
 
 (async function boot() {

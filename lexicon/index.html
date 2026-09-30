@@ -29,6 +29,8 @@
     body { background: var(--paper, #f7f4ed); color: var(--ink, #1c2118); }
     .lex-head h1 { font-family: var(--serif); font-size: clamp(2rem, 4vw, 3rem); font-weight: 600; color: var(--green, #2e4a1e); line-height: 1.05; margin: .2em 0 .1em; }   /* matches Medjat Library and Medjat Archives */
     .lex-head h1 em { font-style: italic; color: var(--lex); }
+    .lex-title { display: flex; align-items: baseline; flex-wrap: wrap; column-gap: .65rem; }
+    .lex-version { font: .72rem var(--mono); color: var(--ink-mid); letter-spacing: .03em; white-space: nowrap; }
     .lex-head p { color: var(--ink-mid); max-width: 62ch; margin: 0 0 1rem; }
     .mode-note { font-family: var(--mono); font-size: .75rem; color: var(--terracotta); margin-bottom: .6rem; }
     .mode-note:empty { display: none; }
@@ -174,7 +176,7 @@
 
   <header class="lex-head">
     <div class="mode-note"></div>
-    <h1>Medjat <em>Lexicon</em></h1>
+    <div class="lex-title"><h1>Medjat <em>Lexicon</em></h1><small class="lex-version">v0.2.0</small></div>
     <p>Look up a word across several dictionaries at once, from Yorùbá and Lucumí to Kikongo, the Kongo of Cuba, Kimbundu, Twi, and the African vocabulary of Brazilian Portuguese. Type it with or without tone marks and underdots: <em>Ṣàngó</em>, <em>Sango</em>, <em>Changó</em> and <em>Shango</em> all find each other. Every entry names its dictionary, and older sources link to the printed page.</p>
   </header>
 

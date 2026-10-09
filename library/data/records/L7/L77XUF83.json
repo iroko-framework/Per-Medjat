@@ -129,7 +129,13 @@
     "sameAs": [
       "https://doi.org/10.4000/etnografica.292"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Candomble",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
+      }
+    ],
     "authorityMappings": []
   }
 }

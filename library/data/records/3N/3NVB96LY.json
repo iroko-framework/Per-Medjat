@@ -122,7 +122,13 @@
     "sameAs": [
       "https://doi.org/10.1525/nr.2012.15.4.13"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Umbanda",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
+      }
+    ],
     "authorityMappings": []
   }
 }

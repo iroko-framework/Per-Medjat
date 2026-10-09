@@ -45,8 +45,7 @@
   "publicTags": {
     "recordType": "Book",
     "traditions": [
-      "Candomble",
-      "Candomblé"
+      "Candomble"
     ],
     "themes": [],
     "domains": [],
@@ -57,7 +56,6 @@
     "custody": "metadata-only",
     "subjects": [
       "Afro-Brazilian",
-      "Candomble",
       "religion",
       "sovereignty-without-state-paper",
       "transnationalism"
@@ -96,11 +94,6 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Candomble"
-    },
-    {
-      "field": "650",
-      "label": "Subject",
       "value": "religion"
     },
     {
@@ -116,7 +109,7 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Candomblé"
+      "value": "Candomble"
     },
     {
       "field": "655",
@@ -128,7 +121,13 @@
     "ttl": "/library/data/rdf/6H/6HQ2MI7F.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Candomble",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-Candomble-general"
+      }
+    ],
     "authorityMappings": []
   }
 }

@@ -164,7 +164,18 @@
     "sameAs": [
       "https://doi.org/10.1515/9781478092773"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Obeah",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-obeah"
+      },
+      {
+        "label": "Trinidad Orisha",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-trinidad-orisha"
+      }
+    ],
     "authorityMappings": []
   }
 }

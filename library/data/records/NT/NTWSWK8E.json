@@ -69,7 +69,6 @@
       "popular religion -- brazil",
       "traditional medicine",
       "traditional medicine -- brazil",
-      "umbanda",
       "umbanda -- brazil"
     ],
     "languageCodes": [
@@ -129,12 +128,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "umbanda"
+      "value": "umbanda -- brazil"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "umbanda -- brazil"
+      "value": "Umbanda"
     },
     {
       "field": "700",
@@ -151,7 +150,13 @@
     "ttl": "/library/data/rdf/NT/NTWSWK8E.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Umbanda",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
+      }
+    ],
     "authorityMappings": []
   }
 }

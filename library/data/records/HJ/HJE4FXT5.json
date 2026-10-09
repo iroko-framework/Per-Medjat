@@ -116,7 +116,13 @@
     "sameAs": [
       "https://doi.org/10.5860/choice.47-6328"
     ],
-    "about": [],
+    "about": [
+      {
+        "label": "Umbanda",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
+      }
+    ],
     "authorityMappings": []
   }
 }

@@ -68,7 +68,6 @@
       "history",
       "religious life and customs",
       "spirit possession",
-      "umbanda",
       "umbanda -- brazil"
     ],
     "languageCodes": [
@@ -123,12 +122,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "umbanda"
+      "value": "umbanda -- brazil"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "umbanda -- brazil"
+      "value": "Umbanda"
     },
     {
       "field": "700",
@@ -145,7 +144,13 @@
     "ttl": "/library/data/rdf/AE/AELNGXBY.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Umbanda",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-umbanda"
+      }
+    ],
     "authorityMappings": []
   }
 }

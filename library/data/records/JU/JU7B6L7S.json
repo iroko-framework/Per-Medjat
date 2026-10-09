@@ -47,7 +47,9 @@
   },
   "publicTags": {
     "recordType": "Book",
-    "traditions": [],
+    "traditions": [
+      "Palo Monte"
+    ],
     "themes": [],
     "domains": [],
     "connects": [],
@@ -62,7 +64,6 @@
       "Cuba",
       "Kongo language",
       "Medjat Lexicon",
-      "Palo Monte",
       "dictionaries"
     ],
     "languageCodes": [
@@ -112,12 +113,12 @@
     {
       "field": "650",
       "label": "Subject",
-      "value": "Palo Monte"
+      "value": "dictionaries"
     },
     {
       "field": "650",
       "label": "Subject",
-      "value": "dictionaries"
+      "value": "Palo Monte"
     },
     {
       "field": "655",
@@ -129,7 +130,13 @@
     "ttl": "/library/data/rdf/JU/JU7B6L7S.ttl",
     "aggregateTtl": "/library/data/library.ttl",
     "sameAs": [],
-    "about": [],
+    "about": [
+      {
+        "label": "Palo Monte",
+        "type": "Tradition",
+        "uri": "https://ontology.irokosociety.org/vocab/iroko-core.html#tradition-palo-monte"
+      }
+    ],
     "authorityMappings": []
   }
 }

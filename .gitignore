@@ -3,3 +3,7 @@ __pycache__/
 .build/
 medjat-tools/
 .data-legacy-removed/
+
+# Lexicon bulk previews belong in the local tools checkout.
+/lexicon/data/lexicon.json
+/lexicon/data/lexicon.ttl
